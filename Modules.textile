@@ -93,7 +93,7 @@ h3(#database). "Database":#database
 * "awesome":http://github.com/janl/awesome -- a Redis clone in node.js
 * "cradle":http://github.com/cloudhead/cradle -- a high-level, caching, CouchDB client
 * "JSLINQ":http://github.com/marak/JSLINQ -- Clean and simple port of Microsoft's LINQ to node.js (and the browser)
-*"keys":http://github.com/visionmedia/keys -- Unified interface for key/value store clients
+* "keys":http://github.com/visionmedia/keys -- Unified interface for key/value store clients
 * "node-couch":http://github.com/sixtus/node-couch/tree/master -- a CouchDB connector
 * "node-couchdb":http://github.com/felixge/node-couchdb -- A full API implementation
 * "node-couchdb-min":http://github.com/rsms/node-couchdb-min -- Light-weight client with low level of abstraction and connection pooling.
