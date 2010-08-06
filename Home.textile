@@ -27,6 +27,7 @@ h2. Articles
 * "Node.js is genuinely exciting":http://simonwillison.net/2009/Nov/23/node/ -- by Simon Willison
 * "Deploying Node.js with Upstart and Monit":http://howtonode.org/deploying-node-upstart-monit -- by Tim Smart
 * "Several tutorials about Node.js":http://howtonode.org/ -- by Tim Caswell (How to Node)
+* "Advanced JavaScript $4 eBook":http://www.dev-mag.com/2010/02/18/advanced-javascript/ -- by TJ Holowaychuk
 
 h2. Talks
 * "Node.js at JSConf.eu 2009":http://jsconf.eu/2009/video_nodejs_by_ryan_dahl.html -- by Ryan Dahl
