@@ -80,6 +80,7 @@ h4(#web-frameworks-other). "Other":#web-frameworks-other
 * "node-mime":http://github.com/bentomas/node-mime -- Utility module for mime-type lookups
 * "node-cgi":http://github.com/pufuwozu/node-cgi -- CGI adapter kludge (replaces Node's fast and famous event-based HTTP library)
 * "node.ly":http://github.com/giacecco/node.ly -- A simple URL shortener
+* "multi-node":http://github.com/kriszyp/multi-node -- Launch multiple node processes for HTTP servers
 
 h3(#database). "Database":#database
 * "awesome":http://github.com/janl/awesome -- a Redis clone in node.js
@@ -191,6 +192,7 @@ h3(#ws-ajax). "Web Sockets & Ajax":#ws-ajax
 * "node-websocket-server":http://github.com/miksago/node-websocket-server -- Another websocket server on top of the http server.
 * "Restler":http://github.com/danwrong/restler -- Simplified REST client for Node.js
 * "node-websocket-client":http://github.com/pgriess/node-websocket-client -- An HTML5 Web Socket client.
+* "tunguska":http://github.com/kriszyp/tunguska -- A comet publish/subscribe distributed hub (runs across multiple node instances).
 
 h3(#testing). "Testing / Spec Frameworks":#testing
 * "sinon":http://github.com/cjohansen/sinon.js -- JavaScript test spies, stubs and mocks for Node.js and the browser
@@ -211,7 +213,7 @@ h3(#testing). "Testing / Spec Frameworks":#testing
 * "Vows":http://github.com/cloudhead/vows -- asynchronous behaviour-driven development for node.js
 * "Willful":http://github.com/anglicangeek/willful -- a simple spec'ing library for Node.
 * "Gently":http://github.com/felixge/node-gently -- A node.js module that helps with mocking and behavior verification.
-
+* "patr":http://github.com/kriszyp/patr -- Promise-based asynchronous test runner: lightweight & simple.
 
 
 h3(#wrappers). "Wrappers":#wrappers
@@ -368,6 +370,7 @@ h3(#other). "Other":#other
 * "pokenode":http://www.youtube.com/watch?v=qvy0mPt6Vzo - A push notification utility to make HTML/CSS development faster.
 * "Set implementation":http://gist.github.com/427161 - built on the object hash
 * "forms":http://github.com/caolan/forms -- An easy way to create, parse and validate forms
+* "promised-io":http://github.com/kriszyp/promised-io -- Cross-platform promise-based I/O provides composibility on evented I/O.
 
 h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":#commonjs-compat
 * "commonjs-utils":http://github.com/kriszyp/commonjs-utils -- "JSON Schema":http://json-schema.org/, AOP, XML-RPC, lazy arrays, and other utilities
