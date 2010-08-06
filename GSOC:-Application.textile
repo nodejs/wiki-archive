@@ -18,8 +18,9 @@ http://nodejs.org/
 *Main Organization License:*
 MIT License
 
-*Why is your organization applying to participate in GSoC 2010? What do you hope to gain by participating?*
+*Why is your organization applying to participate in GSoC 2010? What do you hope to gain by participating? (needs long answer)*
 By participating in GSoC, we hope to increase node's adoption beyond the early-adopter crowd it has reached so far.
+
 
 *Did your organization participate in past GSoCs? If so, please summarize your involvement and the successes and challenges of your participation.*
 (No previous participation)
