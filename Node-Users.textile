@@ -26,6 +26,9 @@ h2. UTC-7 (-6)
 ** "GitHub":http://github.com/gjritter, "Twitter":http://twitter.com/gjritter, "Website":http://www.codespin.com
 * Benjamin Thomas (bentomas)
 ** "GitHub":http://github.com/bentomas, "Website":http://benjaminthomas.org
+* Kris Zyp (kriszyp)
+** "GitHub":http://github.com/kriszyp, "Website":http://kriszyp.name
+
 
 h2. UTC-6 (-5)
 * Tim Caswell (creationix)
