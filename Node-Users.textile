@@ -135,6 +135,8 @@ h2. UTC-5 (-4)
 ** "GitHub":http://github.com/ncb000gt, "Twitter":http://twitter.com/ncb000gt, "Website":http://digitaltumbleweed.com
 * James Herdman (jherdman), Toronto, ON, Canada
 ** "GitHub":http://github.com/jherdman ; "Twitter":http://twitter.com/james_herdman
+* Marco Rogers (polotek), Vienna, VA, US
+** "GitHub":http://github.com/polotek, "Twitter":http://twitter.com/polotek
 
 h2. UTC-4 (-3)
 
