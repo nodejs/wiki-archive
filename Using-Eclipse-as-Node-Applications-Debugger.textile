@@ -1,4 +1,4 @@
-"Eclipse debugger plugin for V8":http://code.google.com/p/chromedevtools/ can be easily used to debug node scripts. (On OSX 10.5 it requires an Eclipse 64 bit Version, started with Java SE 6). The V8 engine provides debugging support by enabling attachment of the remote debugger on a TCP port (5858 is node's default). There are 2 debug related node options:
+"Eclipse debugger plugin for V8":http://code.google.com/p/chromedevtools/ can be easily used to debug node scripts. (On OSX 10.5 the plugin requires an Eclipse 64 bit Version, started with Java SE 6). The V8 engine provides debugging support by enabling attachment of the remote debugger on a TCP port (5858 is node's default). There are 2 debug related node options:
 
 <pre>
 <code>
