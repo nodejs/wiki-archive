@@ -4,11 +4,9 @@ The following is a list of some interesting api bits that aren't considered safe
 
 Note that V8 implements all of ECMA 3rd edition and parts of the new stuff in the "ECMA 5th edition":http://www.ecma-international.org/publications/standards/Ecma-262.htm
 
-h1. Syntax
+h2. Syntax extensions
 
 * getter, setter syntax : var obj = { get a() { return "something" }, set a() { "do nothing" } }
-
-h1. Reference (Object Model)
 
 h2. Array.prototype
  * @indexOf(value)@ - Returns the first (least) index of an element within the array equal to the specified value, or -1 if none is found.
