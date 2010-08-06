@@ -33,7 +33,7 @@ h2. UTC-8
 * Marcus Westin
 ** "Github":http://github.com/marcuswestin, "Twitter":http://twitter.com/marcuswestin, "Website":http://marcuswestin.com
 * Josh Hundley (hundleyj), Portland, OR, US
-** "GitHub":http://github.com/hundleyj, "Twitter":http://twitter.com/hundleyBOT, "Website":http://joshhundley.com
+** "GitHub":http://github.com/hundleyj, "Twitter":http://twitter.com/oJshua, "Website":http://joshhundley.com
 * Guillermo Rauch
 ** "Github":http://github.com/Guille, "Twitter":http://twitter.com/rauchg, "Website":http://devthought.com
 * John Reeves (vectorjohn), Portland, OR, US
