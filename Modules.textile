@@ -42,6 +42,7 @@ h4(#web-frameworks-full). "Frameworks":#web-frameworks-full
 * "pintura":http://github.com/kriszyp/pintura -- REST-based web framework/"middleware":http://github.com/kriszyp/pintura/tree/master/lib/jsgi/ stack built for Ajax-style "JSON-driven applications":http://www.sitepen.com/blog/2010/01/22/introducing-pintura/.
 
 h4(#web-frameworks-other). "Other":#web-frameworks-other
+* "node-elf-logger":http://github.com/TooTallNate/node-elf-logger -- Configurable HTTP logging library following the [W3C Extended Log File Format specification](http://www.w3.org/TR/WD-logfile.html)
 * "JSGI-Node":http://github.com/kriszyp/jsgi-node/ -- Asynchronous JSGI 0.3 Adapter for Node
 * "node-mime":http://github.com/bentomas/node-mime -- Utility module for mime-type lookups
 
