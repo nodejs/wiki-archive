@@ -194,7 +194,14 @@ h3(#testing). "Testing / Spec Frameworks":#testing
 
 
 h3(#wrappers). "Wrappers":#wrappers
-* "hxNode":http://github.com/blackdog66/hxNode/tree/master -- haXe wrappers for node
+* "bdog-node":http://github.com/blackdog66/bdog-node -- haXe wrappers for node.
+* "bdog-redis":http://github.com/blackdog66/bdog-redis -- haXe wrappers for Fictorial's redis client
+* "bdog-gtk":http://github.com/blackdog66/bdog-gtk -- haXe wrappers for node and Gtk-Server
+* "bdog-pstore":http://github.com/blackdog66/bdog-pstore -- haXe object server using bdog-node and bdog-redis
+* "bdog-mongo":http://github.com/blackdog66/bdog-mongo -- haXe wrappers for native-mongo driver
+
+
+
 
 h3(#parsers). "Parsers":#parsers
 
