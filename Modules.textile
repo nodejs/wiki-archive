@@ -97,6 +97,7 @@ h3(#other). "Other":#other
 * "node-paperboy":http://github.com/felixge/node-paperboy -- A node.js module for delivering static files
 * "awesome":http://github.com/janl/awesome -- A Redis clone in node.js
 * "node-amqp":http://github.com/xaviershay/node-amqp -- Basic AMQP client
+* "azathoth":http://github.com/orlandov/azathoth -- HTTP traffic/load generator and benchmark tool
 
 h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":#commonjs-compat
 
