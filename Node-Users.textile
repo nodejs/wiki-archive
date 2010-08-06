@@ -16,6 +16,8 @@ h2. UTC-6 (-5)
 ** "Blog":http://howtonode.org/, "Website":http://creationix.com/, "Twitter":http://twitter.com/creationix
 * Marak Squires (JimBastard)
 ** "Website":http://maraksquires.com, "node_debug":http://maraksquires.com/node_debug/
+* Elijah Insua (tmpvar)
+** "Twitter":http://twitter.com/tmpvar, "Github":http://github.com/tmpvar
 
 h2. UTC-5 (-4)
 
@@ -23,8 +25,6 @@ h2. UTC-5 (-4)
 ** "Website":http://cloudhead.io, "Twitter":http://twitter.com/cloudhead, "Github":http://github.com/cloudhead
 * Tristan Dunn
 ** "GitHub":http://github.com/tristandunn, "Twitter":http://twitter.com/tristandunn, "Website":http://tristandunn.com
-* Elijah Insua (tmpvar)
-** "Twitter":http://twitter.com/tmpvar, "Github":http://github.com/tmpvar
 
 h2. UTC+0 (+1)
 
