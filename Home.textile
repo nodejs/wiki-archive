@@ -47,6 +47,7 @@ h2. Companies using node
 * "Academia.edu":http://www.academia.edu/ - uses node for background data processing
 * "Adcloud":http://adcloud.com/ -- Javascript Adserver on EC2
 * "BrandedCode":http://brandedcode.com
+* "Chompin":http://chompin.com - discover new music, mobile app, uses node for the entire back end api
 * "Datagraph":http://datagraph.org/ - uses node as part of a sharded large-scale RDF storage system.
 * "Debuggable":http://debuggable.com/ -- using node.js for "TransloadIt's":http://transloadit.com/ file uploading & encoding server
 * "Dextrose":http://dextrose.com/ -- heavily uses node for their upcoming JavaScript based game engine "Aves Engine"
