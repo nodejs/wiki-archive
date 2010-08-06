@@ -28,6 +28,9 @@ h2. Idea list
 
 fn1. _2009.07.30 timjs: I have working prototypes of these (mashing up "env.js":http://github.com/jeresig/env-js/tree/master and "ajaxslt":http://code.google.com/p/ajaxslt/); not sure how to package up API as a library just yet_
 
+h2. Gotchas
+* [[FreeBSD]]
+
 h2. Other code
 
 | "php.js":http://phpjs.org/functions/index | Implementation of PHP functions in JavaScript |
