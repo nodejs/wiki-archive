@@ -34,6 +34,7 @@ h4(#web-frameworks-full). "Frameworks":#web-frameworks-full
 * "coltrane":http://github.com/ujh/coltrane/tree/master -- A try at a higher level library/framework for node.js web development
 * "djangode":http://github.com/simonw/djangode -- A framework that borrows some useful concepts from "Django":http://www.djangoproject.com/.
 * "express":http://github.com/visionmedia/express/tree/master -- A robust feature rich web development framework **inspired by Sinatra**
+* "Geddy":http://github.com/mde/geddy/tree/master -- A small, hackable Web-app development framework
 * "js.io":http://github.com/mcarter/js.io -- Javascript Networking Library for building real-time web applications. Also see "JS.io":http://js.io
 * "MVC.js":http://github.com/tuxychandru/mvc.js/tree/master -- A simple MVC framework for **REST**-ful applications, with integrated **dependency-injection** support.
 * "nodemachine":http://github.com/tautologistics/nodemachine -- A port of WebMachine to Node.js
