@@ -147,9 +147,9 @@ var local = tcp.createServer(function (socket) {
   socket.addListener("connect", function () {
     if (localActive === false) {
       localActive = true;
-       socket.setEncoding(encoding);
-       socket.setTimeout(0);
-    log("Local connect");
+      socket.setEncoding(encoding);
+      socket.setTimeout(0);
+      log("Local connect");
     } else {
       log("Local reject");
       socket.close();
