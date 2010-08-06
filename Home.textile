@@ -54,7 +54,7 @@ h3. Other
 * "Test":http://github.com/brevity/test -- JavaScript unit testing framework.
 * "Comet LongPollingBuffer":http://github.com/robrighter/Long-Polling-Buffer -- A Library to simplify the server side of Comet AJAX long polling.
 * "node-flickr":http://github.com/edds/node-flickr -- A simple library to enable easy use of the flickr api
-* "flickrnode":http://github.com/ciaranj/flickrnode -- An alternative library to enable easy use of the flickr api (less complete than node-flickr, but with support for authentication)
+* "flickrnode":http://github.com/ciaranj/flickrnode -- An alternative library to enable use of the flickr api (not as complete as node-flickr, but supports auth)
 * "eyes.js":http://github.com/cloudhead/eyes.js -- A better, customizable value inspector for node.js
 * "node-xml":http://github.com/robrighter/node-xml -- An xml parser for node.js
 * "node-csv":http://github.com/voodootikigod/node-csv -- Efficient Evented CSV Parsing.
