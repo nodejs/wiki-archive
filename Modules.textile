@@ -166,7 +166,7 @@ h3(#other). "Other":#other
 * "Jerk":http://github.com/gf3/Jerk -- A fun little IRC bot library for node.js.
 * "koala":http://github.com/visionmedia/koala.js -- Code syntax highlighting library 
 * "limestone":http://github.com/kurokikaze/limestone -- Sphinx search server connector
-* "monit": http://github.com/visionmedia/monit.js -- Process monitoring system
+* "monit":http://github.com/visionmedia/monit.js -- Process monitoring system
 * "node-amqp":http://github.com/xaviershay/node-amqp -- Basic AMQP client
 * "node-bittorrent":http://github.com/WizKid/node-bittorrent -- A library for handling the bittorrent protocol
 * "node-continuables":http://github.com/bentomas/node-continuables -- A library making dealing with asynchronous code easier
