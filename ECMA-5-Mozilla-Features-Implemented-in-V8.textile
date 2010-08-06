@@ -9,7 +9,7 @@ h2. JSON
  * @parse(string)@ - Takes a well formed JSON string and returns the corresponding JavaScript object.
 
 h2. Object
- * @create(parent_object)@ - Creates a new object who's prototype is the passed in parent object. 
+ * @create(parent_object)@ - Creates a new object whose prototype is the passed in parent object. 
  * @keys(object)@ - Returns a list of the ownProperties of an object.
 
 h2. Object.prototype
