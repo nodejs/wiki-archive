@@ -293,6 +293,7 @@ h3(#other). "Other":#other
 * "nshtools":http://github.com/rsdoiel/nshtools -- a high level shell scripting library for file and operating system chores
 * "soda.js":http://github.com/tomyan/soda -- Asynchonous JavaScript module loader for client-side and Node.js
 * "Step":http://github.com/creationix/step -- Tool for grouping and chaining asynchronous callbacks, based on "flow-js":http://github.com/willconant/flow-js
+* "async":http://github.com/caolan/async -- Comprehensive async map/reduce and flow control (parallel, series, waterfall, auto...) module
 * "Task.node":http://github.com/botanicus/task.node Simple task manager similar to Rake, Scons and others.
 * "tasks.js":http://github.com/dandean/tasks.js Tasks for Node (like Rake!) with a very JavaScripty API.
 * "temp":http://github.com/bruce/node-temp -- Temporary files and directories
