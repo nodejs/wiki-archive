@@ -258,6 +258,7 @@ h4(#parsers-other). "Other":#parsers-other
 * "node-bufferlist":http://github.com/substack/node-bufferlist -- Create linked lists of buffers and asynchronously parse binary data from these lists
 
 h3(#debugging). "Debugging / Console Utilities":#debugging
+* "cfdump.js":http://github.com/figital/cfdump.js -- a prettier way to dump your objects to a browser
 * "colours.js":http://github.com/botanicus/colours.js -- Give your CLI programs some colours!
 * "colored.js":http://github.com/chrislloyd/colored.js -- Colorize terminal output.
 * "consolelog.js":http://github.com/jazzychad/consolelog.node.js -- stylized console logging for node.js
@@ -287,7 +288,6 @@ h3(#graphics). "Graphics":#graphics
 h3(#other). "Other":#other
 * "behaviors":http://github.com/caolan/behaviors -- A simple way to check a module's exports, useful for 3rd party plugins and extensions
 * "box2dnode":http://github.com/jadell/box2dnode -- Port of the box2d physics simulation library
-* "cfdump.js":http://github.com/figital/cfdump.js -- a prettier way to dump your objects to a browser
 * "class.js":http://github.com/visionmedia/class.js -- High performance and lightweight class implementation (10-ish SLOC)
 * "cookie-node":http://github.com/jed/cookie-node/ -- signed cookie functionality for node.js
 * "node-cookiejar":http://github.com/bmeck/node-cookiejar -- repetitive use cookie jar construction / cookie functionality
