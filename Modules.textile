@@ -228,6 +228,7 @@ h3(#other). "Other":#other
 * "TwitScript":http://github.com/ryanmcgrath/twitscript -- A port of Twython to Node.js (Twitter API Library)
 * "user-agent":http://github.com/visionmedia/user-agent.js -- user agent string parser
 * "uuid":http://gist.github.com/393456 -- Efficient bulk UUID generation and caching via command-line OSSP uuid.
+* "uuid-2":http://gist.github.com/394936 -- Fork of above, works on OS X and fixes bug.
 * "uuidjs":http://bitbucket.org/nikhilm/uuidjs -- Simple UUID generation binding to libuuid.
 * "vargs":http://github.com/cloudhead/vargs -- practical variable argument handling.
 * "Wheres Waldo":http://github.com/technoweenie/wheres-waldo -- track locations of users in redis
