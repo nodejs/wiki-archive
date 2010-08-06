@@ -12,6 +12,8 @@ h2. UTC-8
 ** "GitHub":http://github.com/ry, "Twitter":http://twitter.com/ryah, "Website":http://tinyclouds.org
 * Mikeal Rogers (mikeal)
 ** "GitHub":http://github.com/mikeal, "Twitter":http://twitter.com/mikeal, "Website":http://www.mikealrogers.com
+* Randall Leeds (tilgovi)
+** "GitHub":http://github.com/tilgovi, "Twitter":http://twitter.com/tilgovi
 
 h2. UTC-7 (-6)
 * Greg Ritter (gjritter)
