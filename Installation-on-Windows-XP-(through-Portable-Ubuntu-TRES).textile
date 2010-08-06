@@ -12,7 +12,7 @@ This is a step-by-step guide on installing node.js inside Windows XP through Por
 *4.* Open up *Terminal* from the *Applications/Accessories* menu and type:
 
 <pre>sudo gedit /etc/init.d/postmount_pubuntu.sh</pre>
-The sudo password is by default: @123456@
+The sudo password by default is: @123456@
 
 *5.* Replace line *52* with the following (this is to fix a nasty bug that freezes Portable Ubuntu TRES when launching for a second time):
 
