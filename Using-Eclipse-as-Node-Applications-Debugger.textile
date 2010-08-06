@@ -110,7 +110,7 @@ You probably noticed that Eclipse V8 debugger can not connect to the remote host
 // 
 
 var sys = require('sys');
-var tcp = require('tcp');
+var net = require('net');
 
 var encoding = "binary"
 var localActive = false;  // flag to make sure that only one connection
@@ -140,8 +140,9 @@ var remotePort = process.argv[4];
 
 var remote;
 
-var local = tcp.createServer(function (socket) {
+var local = net.createServer(function (socket) {
 
+ log("Local server created")
   socket.addListener("connect", function () {
     if (localActive === false) {
       localActive = true;
@@ -150,11 +151,11 @@ var local = tcp.createServer(function (socket) {
       log("Local connect");
     } else {
       log("Local reject");
-      socket.close();
+      socket.end();
       return;
     }
 
-    remote = tcp.createConnection(remotePort, remoteHost);
+    remote = net.createConnection(remotePort, remoteHost);
     remote.setEncoding(encoding);
     remote.setTimeout(0);
 
@@ -170,8 +171,8 @@ var local = tcp.createServer(function (socket) {
 
     remote.addListener("end", function () {
       log("Remote close");
-      socket.close();
-      remote.close();
+      socket.end();
+      remote.end();
     });
 
   });
@@ -183,15 +184,15 @@ var local = tcp.createServer(function (socket) {
 
   socket.addListener("end", function () {
     log("Local close");
-    socket.close();
-    remote.close();
+    socket.end();
+    remote.end();
     localActive = false;
   });
 
 });
 
 log("Starting to listen at "+ localPort +" ...");
-local.listen(localPort);
+local.listen(+localPort);
 
 </code>
 </pre>  
