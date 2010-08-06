@@ -252,7 +252,8 @@ h2. UTC+10 or UTC+11
 ** "Twitter":http://twitter.com/hassox, "Github":http://github.com/hassox
 * Micheil Smith (miksago), Regional NSW, Australia
 ** "Website":http://brandedcode.com,"Twitter":http://twitter.com/miksago, "Github":http://github.com/miksago
-
+* Eugene Ware, Melbourne, Australia
+** "Twitter":http://twitter.com/eugeneware, "Github":http://github.com/nharbour, "Website":http://eugeneware.com
 
 h2. UTC+12
 
