@@ -1,0 +1,10 @@
+You may encounter the following issues when trying to build or test Node.js
+
+<h2>Mac OS X 10.6.2</h2>
+<h3>/usr/sbin not in $PATH:</h3>Solution: <pre><code>$ nano ~/.profile
+PATH="/usr/sbin/:$PATH"
+$ source ~/.profile</code></pre>
+<h3> gpg-error Not Found on ./configure</h3>
+Download and install MacGPG from "macgpg.sourceforge.net":http://macgpg.sourceforge.net/
+<h2>FreeBSD</h2><h3>execinfo.h: No such file or directory:</h3>
+Install libexecinfo (devel/libexecinfo).
