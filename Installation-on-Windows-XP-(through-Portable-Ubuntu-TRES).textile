@@ -1,4 +1,4 @@
-This is a step-by-step guide on installing node.js inside Windows XP through Portable Ubuntu TRES:
+??This is a step-by-step guide on installing node.js inside Windows XP through Portable Ubuntu TRES:??
 
 
 *1.* Download and unpack "Portable Ubuntu TRES":http://portableubuntu.demonccc.com.ar/en/download (self-extracting).
@@ -47,3 +47,9 @@ and you can go back to Windows and point your browser to http://127.0.0.1:8000 a
 <pre>shared_folder0=C:\your\folder</pre>and you should find it under the */media/* path in Ubuntu (always after restarting having edited the config file)
 
 * You should also *deactivate the screensaver* in Ubuntu by going to the *System/Preferences/ScreenSaver menu* because it might lock the menu and the windows you have opened with no way of gaining access again (another annoying bug).
+
+---
+
+??Screenshot:??
+
+!http://img248.imageshack.us/img248/6526/nodewindows.png!
