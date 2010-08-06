@@ -131,7 +131,7 @@ h2. UTC-5 (-4)
 ** "GitHub":http://github.com/zaach, "Twitter":http://twitter.com/zii, "Website":http://zaa.ch
 * Mathieu D'Amours (matehat)
 ** "GitHub":http://github.com/matehat, "Twitter":http://twitter.com/matehat, "Website":http://rigor-analytic.com
-* Nick Campbell (ncb000gt)
+* Nick Campbell (ncb000gt), Reston, VA, US
 ** "GitHub":http://github.com/ncb000gt, "Twitter":http://twitter.com/ncb000gt, "Website":http://digitaltumbleweed.com
 * James Herdman (jherdman), Toronto, ON, Canada
 ** "GitHub":http://github.com/jherdman ; "Twitter":http://twitter.com/james_herdman
