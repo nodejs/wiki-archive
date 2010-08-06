@@ -13,3 +13,7 @@
 <a href="http://github.com/sixtus/node-couch/tree/master">node-couch</a> a CouchDB connector
 
 <a href="http://github.com/visionmedia/express/tree/master">express</a> -- a Sinatra clone
+
+"node-tyrant":http://github.com/waveto/node-tyrant/tree/master -- An implementation of the Tokyo Tyrant network protocol for the Node.js
+
+"coltrane":http://github.com/ujh/coltrane/tree/master -- A try at a higher level library/framework for node.js web development
