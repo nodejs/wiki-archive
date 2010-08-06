@@ -86,6 +86,8 @@ h2. UTC-8
 ** "Github":http://github.com/saikat, "Twitter":http://twitter.com/saikatc, "Website":http://gomockingbird.com
 * Brian Noguchi (bnoguchi), San Francisco, CA, US
 ** "Github":http://github.com/bnoguchi, "Twitter":http://twitter.com/briannoguchi
+* Dylan Clendenin (deepthawtz), Santa Cruz, CA, US
+** "Github":http://github.com/deepthawtz, "Twitter":http://twitter.com/deepthawtz
 
 h2. UTC-7 (-6)
 * Michaeljohn Clement (inimino)
