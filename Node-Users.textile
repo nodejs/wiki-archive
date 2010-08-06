@@ -24,7 +24,7 @@ h2. UTC-8
 ** "Github":http://github.com/kriskowal, "Twitter":http://twitter.com/kriskowal, "Website":http://askawizard.blogspot.com
 * Josh Steiner (vitriolix)
 ** "Github":http://github.com/vitriolix, "Twitter":http://twitter.com/__iter__/, "Website":http://vitriolix.com
-* Orlando Vazquez (orlandov)
+* Orlando Vazquez (orlandov), Vancouver, British Columbia, Canada
 ** "Github":http://github.com/orlandov, "Twitter":http://twitter.com/orlandov, "Website":http://2wycked.net
 * Stephen Blum (stephenlb)
 ** "Github":http://github.com/stephenlb, "Twitter":http://twitter.com/stephenlb, "Website":http://nodejuice.com
