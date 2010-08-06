@@ -90,6 +90,7 @@ h3(#ws-ajax). "Web Sockets & Ajax":#ws-ajax
 * "Comet LongPollingBuffer":http://github.com/robrighter/Long-Polling-Buffer -- A Library to simplify the server side of Comet AJAX long polling
 * "Restler":http://github.com/danwrong/restler -- Simplified REST client for Node.js
 * "node-XMLHttpRequest":http://github.com/driverdan/node-XMLHttpRequest
+* "Faye":http://github.com/jcoglan/faye -- Bayeux protocol Comet client and server for Node.js and Rack
 
 h3(#testing). "Testing / Spec Frameworks":#testing
 * "spectacular":http://github.com/jcrosby/spectacular -- for testing
