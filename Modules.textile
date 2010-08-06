@@ -333,6 +333,8 @@ h3(#other). "Other":#other
 * "node-terminal":http://github.com/bmeck/node-terminal -- A simple terminal module for ansi control codes.
 * "swirl-node":http://github.com/bmizerany/swirl-node -- A simple EC2 client
 * "node-hoptoad-notifier":http://github.com/tristandunn/node-hoptoad-notifier -- Report exceptions to "Hoptoad":http://hoptoadapp.com.
+* "html filtre":http://github.com/yikulju/HtmlFiltre - A proxy that filters Html requests and give you an opportunity to add custom content into the response
+
 
 h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":#commonjs-compat
 * "commonjs-utils":http://github.com/kriszyp/commonjs-utils -- "JSON Schema":http://json-schema.org/, AOP, XML-RPC, lazy arrays, and other utilities
