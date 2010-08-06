@@ -40,21 +40,21 @@ h2. Talks
 * "Node.js at JSConf.eu 2009":http://jsconf.eu/2009/video_nodejs_by_ryan_dahl.html -- by Ryan Dahl
 
 h2. Companies using node
-* "Fictorial":http://fictorial.com
-* "Debuggable":http://debuggable.com/ -- using node.js for "TransloadIt's":http://transloadit.com/ file uploading & encoding server
-* "Adcloud":http://adcloud.com/ -- Javascript Adserver on EC2
-* "Vision Media":http://vision-media.ca -- Web development firm based in Victoria, BC
-* "Plurk":http://www.plurk.com/ -- using node.js for its "new comet system":http://amix.dk/blog/post/19490#Plurk-Instant-conversations-using-comet
-* "BrandedCode":http://brandedcode.com
-* "Telefónica R&D":http://tid.es
-* "MyBrands":http://www.mybrands.de -- web-tracker and product recommendations (node + couchdb)
-* "Deco":http://www.on-deco.com - Real-time collaborative mood boarding for web designers
-* "Joyent":http://www.joyent.com/
-* "SitePen":http://www.sitepen.com/
-* Feisty Studios
-* "Medium":http://thisismedium.com
-* "e-resistible":http://www.e-resistible.co.uk - uses node to handle network communication to restaurant printers
 * "Academia.edu":http://www.academia.edu/ - uses node for background data processing
-* "Ylastic":http://ylastic.com/ - uses node for report processing and admin app
-* "Next Please!":http://nextplea.se - uses node to match "Adobe Stratus":http://labs.adobe.com/technologies/stratus/ id's.
+* "Adcloud":http://adcloud.com/ -- Javascript Adserver on EC2
+* "BrandedCode":http://brandedcode.com
 * "Datagraph":http://datagraph.org/ - uses node as part of a sharded large-scale RDF storage system.
+* "Debuggable":http://debuggable.com/ -- using node.js for "TransloadIt's":http://transloadit.com/ file uploading & encoding server
+* "Deco":http://www.on-deco.com - Real-time collaborative mood boarding for web designers
+* "e-resistible":http://www.e-resistible.co.uk - uses node to handle network communication to restaurant printers
+* Feisty Studios
+* "Fictorial":http://fictorial.com
+* "Joyent":http://www.joyent.com/
+* "Medium":http://thisismedium.com
+* "MyBrands":http://www.mybrands.de -- web-tracker and product recommendations (node + couchdb)
+* "Next Please!":http://nextplea.se - uses node to match "Adobe Stratus":http://labs.adobe.com/technologies/stratus/ id's.
+* "Plurk":http://www.plurk.com/ -- using node.js for its "new comet system":http://amix.dk/blog/post/19490#Plurk-Instant-conversations-using-comet
+* "SitePen":http://www.sitepen.com/
+* "Telefónica R&D":http://tid.es
+* "Vision Media":http://vision-media.ca -- Web development firm based in Victoria, BC
+* "Ylastic":http://ylastic.com/ - uses node for report processing and admin app
