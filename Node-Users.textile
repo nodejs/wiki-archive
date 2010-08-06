@@ -180,7 +180,7 @@ h2. UTC+1 (+2)
 ** "Github":http://github.com/greut, "Twitter":http://twitter.com/greut, "Website":http://yoan.dosimple.ch
 * Christian Kvalheim (christkv)
 ** "Github":http://github.com/christkv, "Twitter":http://twitter.com/christkv
-* Pelle Wessman (voxpelli)
+* Pelle Wessman (voxpelli), Malmö, Sweden
 ** "Github":http://github.com/voxpelli, "Twitter":http://twitter.com/voxpelli, "Blog":http://goodold.se/blog/tech
 * Alexander Teinum (alexanderte)
 ** "Github":http://github.com/alexanderte, "Website":http://www.brevityos.org
