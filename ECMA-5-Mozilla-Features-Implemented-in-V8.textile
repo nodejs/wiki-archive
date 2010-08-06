@@ -51,7 +51,6 @@ h2. String.prototype
 h1. Missing features
  * @Object.preventExtensions(obj)@ - 
  * @Object.isExtensible(obj)@ - 
- * @Object.defineProperty( obj, prop, desc )@
  * @Object.defineProperties( obj, props )@
  * @Object.seal( obj )@
  * @Object.isSealed(obj)@
