@@ -1,1 +1,25 @@
-...
+h1. Mission statement
+
+Node.js on it's own is bare bones by design. So if you want to have really fast code you'll have the option to get just that without added baggage. However, there are also merits to the Python "batteries included" approach. This page is to be used to collect thoughts on libraries needed for application development and pointers to actual code and/or code that can be adapted to work with node's asynchronous nature.
+
+h1. Libraries
+
+h2. Actual libraries
+
+| "haml-js":http://github.com/creationix/haml-js/tree/master | A "haml":http://haml-lang.com/ like web-templating language |
+| "postgres-js":http://github.com/creationix/postgres-js/tree/master | A PostgreSQL driver |
+
+h2. Wish list
+
+| node_mysql | A MySQL driver |
+| node_crypt | Cryptographic routines |
+| node_http | A webserver, i.e. also handling static files like Apache does, etc. |
+| node_extlib | A grab bag of useful extensions to the standard classes |
+| modules | A better way to handle modules. With somewhat bigger projects load/require are just to hard to use |
+| testing | A library that allows easy unit tests. Right now there's no easy way to easily setup tests that only pass when all the code in callbacks has passed |
+
+h2. Other code
+
+| "php.js":http://phpjs.org/functions/index | Implementation of PHP functions in JavaScript |
+| "narwhal":http://narwhaljs.org/ | Might not work out of the box, but could be used as inspiration |
+| "ServerJS":https://wiki.mozilla.org/ServerJS | An effort to standardize server side JavaScript |
