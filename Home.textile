@@ -12,7 +12,7 @@ h3. Database
 * "node.dbslayer.js":http://github.com/Guille/node.dbslayer.js/ - Interface to DBSlayer (MySQL)
 
 h3. Web frameworks
-* "express":http://github.com/visionmedia/express/tree/master -- A feature rich Sinatra-like clone
+* "express":http://github.com/visionmedia/express/tree/master -- A robust feature rich Sinatra-like clone
 * "coltrane":http://github.com/ujh/coltrane/tree/master -- A try at a higher level library/framework for node.js web development
 * "vroom":http://github.com/raycmorgan/vroom/tree/master -- A simple resource oriented web framework built on top of Node.js
 * "node-router":http://github.com/creationix/node-router -- Simple Sinatra-like http server based on fu.js from the original node-chat demo.
