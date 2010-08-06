@@ -96,6 +96,8 @@ h2. UTC-7 (-6)
 h2. UTC-6 (-5)
 * Tim Caswell (creationix), Dallas, TX, US
 ** "Blog":http://howtonode.org/, "Website":http://creationix.com/, "Twitter":http://twitter.com/creationix
+* Bradley Meck (bradleymeck)
+** "Github":http://github.com/bmeck
 * Jim R. Wilson (jimbojw)
 ** "GitHub":http://github.com/jimbojw, "Blog":http://jimbojw.com, "Website":http://trephine.org
 * Aaron Heckmann (aheckmann)
