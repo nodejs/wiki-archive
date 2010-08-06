@@ -72,6 +72,8 @@ h2. UTC+0 (+1)
 ** "Website":http://duncan-cragg.org/blog/, "GitHub":http://github.com/duncancragg, "Twitter":http://twitter.com/duncancragg
 * Craig Webster (CraigW)
 ** "Website":http://barkingiguana.com/, "GitHub":http://github.com/craigw, "Twitter":http://twitter.com/craigwebster
+* Jon Paul Davies
+** "Website":http://www.j-dee.com/, "GitHub":http://github.com/jonpauldavies, "Twitter":http://twitter.com/jonpauldavies
 
 h2. UTC+1 (+2)
 
