@@ -29,7 +29,6 @@ h4(#web-frameworks-micro). "Microframeworks":#web-frameworks-micro
 * "simplex":http://github.com/mshakhan/simplex 
 
 h4(#web-frameworks-full). "Frameworks":#web-frameworks-full
-* "Bomber":http://github.com/obt/bomberjs -- The early stages of a node.js web framework
 * "chain":http://github.com/hassox/chain/ -- An evented convention for building Node Applications
 * "coltrane":http://github.com/ujh/coltrane/tree/master -- A try at a higher level library/framework for node.js web development
 * "djangode":http://github.com/simonw/djangode -- A framework that borrows some useful concepts from "Django":http://www.djangoproject.com/.
