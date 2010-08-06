@@ -14,7 +14,7 @@ h3. Database
 * "node-mongodb":http://github.com/orlandov/node-mongodb -- Async interface to MongoDB
 
 h3. Web frameworks
-* "express":http://github.com/visionmedia/express/tree/master -- A robust feature rich Sinatra-like clone
+* "express":http://github.com/visionmedia/express/tree/master -- A robust feature rich web development framework inspired by Sinatra
 * "coltrane":http://github.com/ujh/coltrane/tree/master -- A try at a higher level library/framework for node.js web development
 * "vroom":http://github.com/raycmorgan/vroom/tree/master -- A simple resource oriented web framework built on top of Node.js
 * "node-router":http://github.com/creationix/node-router -- Simple Sinatra-like http server based on fu.js from the original node-chat demo.
