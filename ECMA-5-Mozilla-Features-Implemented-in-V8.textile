@@ -22,6 +22,9 @@ h2. Array.prototype
  * @reduce(callback[, initialValue])@ - Apply a function simultaneously against two values of the array (from left-to-right) as to reduce it to a single value.
  * @reduceRight(callback[, initialValue])@ - Apply a function simultaneously against two values of the array (from right-to-left) as to reduce it to a single value.
 
+h2. Date
+ * @now()@ - Returns the numeric value corresponding to the current time.
+
 h2. Date.prototype
  * @toISOString()@ - 
 
