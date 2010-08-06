@@ -308,6 +308,7 @@ h3(#other). "Other":#other
 * "nodestalker":http://github.com/pascalopitz/nodestalker -- A beanstalkd client for node
 * "node-stomp":http://github.com/kates/node-stomp -- A basic STOMP client.
 * "node-taglib":http://github.com/nikhilm/node-taglib -- Beginnings of bindings to "taglib":http://developer.kde.org/~wheeler/taglib
+* "node-twiml":http://github.com/derferman/node-twiml -- Easy TwiML creation in node.js
 * "node-ugly":http://github.com/felixge/node-ugly -- Allows to run PHP code from within node.js
 * "node-uneval":http://github.com/chakrit/node-uneval -- Adds uneval() support to node.js
 * "node-worker":http://github.com/cramforce/node-worker -- An implementation of the WebWorker API for node.js
