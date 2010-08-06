@@ -22,6 +22,7 @@ h2. Node v0.1.90
 * "limestone":http://github.com/kurokikaze/limestone
 * "node-mysql-libmysqlclient v0.0.6":http://github.com/Sannis/node-mysql-libmysqlclient/tree/v0.0.6
 * "node-amqp@00c113b":http://github.com/ry/node-amqp/tree/00c113bb6f4e251704bc63aba0f0bcabdefb9eab
+* "node-sqlite":http://github.com/orlandov/node-sqlite
 
 h2. Node v0.1.33
 
