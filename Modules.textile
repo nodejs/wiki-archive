@@ -83,7 +83,7 @@ h3(#debugging). "Debugging / Console Utilities":#debugging
 
 h3(#other). "Other":#other
 * "node.routes.js":http://github.com/defrex/node.routes.js/ -- A simple url router
-* "cookie-node": http://github.com/jed/cookie-node/ -- signed cookie functionality for node.js
+* "cookie-node":http://github.com/jed/cookie-node/ -- signed cookie functionality for node.js
 * "node-XMLHttpRequest":http://github.com/driverdan/node-XMLHttpRequest
 * "Restler":http://github.com/danwrong/restler -- Simplified REST client for Node.js
 * "soda.js":http://github.com/tomyan/soda -- Asynchonous JavaScript module loader for client-side and Node.js
