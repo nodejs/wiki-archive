@@ -142,8 +142,6 @@ var remote;
 
 var local = tcp.createServer(function (socket) {
 
-  socket.setEncoding("binary");
-
   socket.addListener("connect", function () {
     if (localActive === false) {
       localActive = true;
