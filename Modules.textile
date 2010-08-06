@@ -8,6 +8,8 @@ h3(#database). "Database":#database
 * "node.dbslayer.js":http://github.com/Guille/node.dbslayer.js/ - Interface to DBSlayer (MySQL)
 * "node-fleet":http://github.com/jfd/node-fleet -- a FleetDB Client
 * "node-mongodb":http://github.com/orlandov/node-mongodb -- Async interface to MongoDB
+* "node-mongodb":http://github.com/orlandov/node-mongodb -- Async interface to MongoDB
+* "node-dirty":http://github.com/felixge/node-dirty -- A key value store for node.js that is simple, fast & dirty.
 
 h3(#templating). "Templating":#templating
 * "sass.js":http://github.com/visionmedia/sass.js -- Parses Sass templates and renders css.
@@ -87,6 +89,7 @@ h3(#other). "Other":#other
 * "limestone":http://github.com/kurokikaze/limestone -- Sphinx search server connector
 * "Wheres Waldo":http://github.com/technoweenie/wheres-waldo -- track locations of users in redis
 * "Node-compatible Dojo fork":http://github.com/novemberborn/dojo
+* "node-paperboy":http://github.com/felixge/node-paperboy -- A node.js module for delivering static files.
 
 h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":#commonjs-compat
 
