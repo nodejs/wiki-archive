@@ -208,6 +208,8 @@ h2. UTC+3 (+4)
 ** "Github":http://github.com/kurokikaze, "Blog":http://kuroikaze85.wordpress.com/, "Twitter":http://twitter.com/kurokikaze
 * Oleg Illarionov (Brainfucker), Russia
 ** "Github":http://github.com/brainfucker, "Blog":http://nodejs.ru/, "Website":http://brainfucker.ru/, "Twitter":http://twitter.com/brainfucker
+* Oleg Efimov (Sannis), Russia
+** "Github":http://github.com/sannis, "Website":http://sannis.ru/, "Twitter":http://twitter.com/SannisDev
 
 h2. UTC+5
 
