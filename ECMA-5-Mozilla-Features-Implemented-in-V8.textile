@@ -69,5 +69,5 @@ h2. Property Descriptor Defaults
 
 h1. Missing features
  * @Object.__noSuchMethod__@
- * @Function.prototype.bind(thisArg, arg1, arg2....)@
+ * @Function.prototype.bind(thisArg, arg1, arg2....)@ (coming in v8 v2.3.4)
  * "use strict"; syntax extension
