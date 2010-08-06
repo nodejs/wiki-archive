@@ -27,7 +27,7 @@ h2. UTC-7 (-6)
 * Benjamin Thomas (bentomas)
 ** "GitHub":http://github.com/bentomas, "Website":http://benjaminthomas.org
 * Kris Zyp (kriszyp)
-** "GitHub":http://github.com/kriszyp, "Website":http://kriszyp.name
+** "GitHub":http://github.com/kriszyp, "Twitter":http://twitter.com/kriszyp, "Blog":http://www.sitepen.com/blog/author/kzyp/
 
 
 h2. UTC-6 (-5)
