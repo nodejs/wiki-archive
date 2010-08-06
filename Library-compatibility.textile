@@ -4,6 +4,7 @@ h2. Node v0.1.100
 * "node-htmlparser v1.6.2":http://github.com/tautologistics/node-htmlparser/tree/v1.6.2
 * "nodemachine v0.2.5":http://github.com/tautologistics/nodemachine/tree/v0.2.5
 * "Grasshopper @ 6bd67d9":http://github.com/tuxychandru/grasshopper/commit/6bd67d9900b9275d264bb564494ac2cee388c2c2
+* "nun v.0.1.10":http://github.com/akaspin/nun/tree/v0.1.10
 
 h2. Node v0.1.99
 * "node-twiml 0.0.1":http://github.com/derferman/node-twiml/tree/0.0.1
