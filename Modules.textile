@@ -87,6 +87,7 @@ h3(#other). "Other":#other
 * "Comet LongPollingBuffer":http://github.com/robrighter/Long-Polling-Buffer -- A Library to simplify the server side of Comet AJAX long polling
 * "node-flickr":http://github.com/edds/node-flickr -- A simple library to enable easy use of the flickr api
 * "flickrnode":http://github.com/ciaranj/flickrnode -- An alternative library to enable use of the flickr api (not as complete as node-flickr, but supports auth)
+* "node-taglib":http://github.com/nikhilm/node-taglib -- Beginnings of bindings to taglib:http://developer.kde.org/~wheeler/taglib
 * "eyes.js":http://github.com/cloudhead/eyes.js -- A better, customizable value inspector for node.js
 * "limestone":http://github.com/kurokikaze/limestone -- Sphinx search server connector
 * "Wheres Waldo":http://github.com/technoweenie/wheres-waldo -- track locations of users in redis
