@@ -38,6 +38,7 @@ h2. Articles
 * "Several tutorials about Node.js":http://howtonode.org/ -- by Tim Caswell (How to Node)
 * "Advanced JavaScript $4 eBook":http://www.dev-mag.com/2010/02/18/advanced-javascript/ -- by TJ Holowaychuk
 * "Node.js - I just have to use it for something":http://www.hawksworx.com/journal/2010/02/15/nodejs-i-just-have-to-use-it-for-something/ -- by Phil Hawksworth
+* "node by example":http://blog.osbutler.com/categories/node-by-example/ -- by Hendrik Daldrup
 
 h2. Talks
 * "Node.js at JSConf.eu 2009":http://jsconf.eu/2009/video_nodejs_by_ryan_dahl.html -- by Ryan Dahl
