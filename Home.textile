@@ -31,6 +31,9 @@ h3. Templating libraries
 * "tmpl-node":http://github.com/jed/tmpl-node -- a feature-rich template module for node.js
 * "template.node.js":http://github.com/jazzychad/template.node.js -- A light, fast, cached template module for node.
 
+h3. Package Management Systems
+* "kiwi":http://github.com/visionmedia/kiwi -- Feature rich, fast, bash based package management
+
 h3. Other
 * "node.routes.js":http://github.com/defrex/node.routes.js/ -- A simple url router
 * "optparse-js":http://github.com/jfd/optparse-js/tree/master -- Option Parser in JS
