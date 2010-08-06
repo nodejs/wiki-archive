@@ -21,6 +21,7 @@ h4(#web-frameworks-micro). "Microframeworks":#web-frameworks-micro
 * "vroom":http://github.com/raycmorgan/vroom/tree/master -- A simple resource oriented web framework built on top of Node.js
 * "Nerve":http://github.com/gjritter/nerve -- Microframework with simple array-based syntax for defining an app on top of node.
 * "(fab)":http://www.fabjs.org -- A pure javascript DSL for building async web apps
+* "scylla":http://github.com/ithinkihaveacat/node-scylla -- EJSGI-compatible router where method names double as URL-matching patterns
 
 h4(#web-frameworks-full). "Frameworks":#web-frameworks-full
 * "express":http://github.com/visionmedia/express/tree/master -- A robust feature rich web development framework inspired by Sinatra
