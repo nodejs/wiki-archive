@@ -14,6 +14,8 @@ h2. UTC-8
 h2. UTC-7 (-6)
 * Greg Ritter (gjritter)
 ** "GitHub":http://github.com/gjritter, "Twitter":http://twitter.com/gjritter, "Website":http://www.codespin.com
+* Benjamin Thomas (bentomas)
+** "GitHub":http://github.com/bentomas, "Website":http://benjaminthomas.org
 
 h2. UTC-6 (-5)
 * Tim Caswell (creationix)
