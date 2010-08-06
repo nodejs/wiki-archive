@@ -2,6 +2,7 @@ Node is under heavy development and its API changes rapidly. Instead of simply a
 
 h2. Node v0.1.90
 
+* "redis-node-client v0.2.3":http://github.com/fictorial/redis-node-client/tree/v0.2.3
 * "node-router v0.0.3":http://github.com/creationix/node-router/tree/v0.0.3
 * "websocket v0.0.1":http://github.com/creationix/websocket/tree/v0.0.1
 * "node-git v0.0.1":http://github.com/creationix/node-git/tree/v0.0.1
