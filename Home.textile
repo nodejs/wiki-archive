@@ -2,22 +2,18 @@ h2. Modules
 
 See the "Modules":http://wiki.github.com/ry/node/modules page.
 
-h2. Projects using node
-
-Complete projects that use node.
-
+h2. Projects / Applications
 * "node_chat":http://github.com/ry/node_chat by ry (live demo at <a href="http://chat.tinyclouds.org">chat.tinyclouds.org</a>)
-* "pubsub":http://www.nonblocking.io/2009/06/scalable-pubsub-with-nodejs.html -- by Malte Ubl
-* "frisbee":http://github.com/ujh/frisbee/tree/master -- A clone of the Disqus blog commenting system, by Urban Hafner
-* "hxNode":http://github.com/blackdog66/hxNode/tree/master -- haXe wrappers for node
 * "nodewiki":http://github.com/gjritter/nodewiki -- a simple wiki based on node and redis
-* "awesome":http://github.com/janl/awesome -- a Redis clone in node.js
+* "frisbee":http://github.com/ujh/frisbee/tree/master -- A clone of the Disqus blog commenting system, by Urban Hafner
+* "blog.js":http://github.com/furtivefelon/blog.js -- Simple blogging engine based on node.js
 * "Sousaball":http://github.com/creationix/sousaball by creationix (<a href="http://sousaball.creationix.com">sousaball.creationix.com</a>)
 * "DinMaker":http://github.com/creationix/node-topcloud-chat by creationix (live demo at <a href="http://chat.creationix.com">chat.creationix.com</a>)
 * "Flickr Spy":http://github.com/ncr/flickr_spy -- Discover where your Flickr contacts are commenting
-* "NodeFTPd":http://github.com/billywhizz/nodeftpd -- Node FTP Server
-* "blog.js":http://github.com/furtivefelon/blog.js -- Simple blogging engine based on node.js
 * "azathoth":http://github.com/orlandov/azathoth -- very simple HTTP traffic/load generator and benchmark tool
+
+h2. Articles
+* "pubsub":http://www.nonblocking.io/2009/06/scalable-pubsub-with-nodejs.html -- by Malte Ubl
 
 h2. Companies using node
 
@@ -26,3 +22,4 @@ h2. Companies using node
 * "Adcloud":http://adcloud.com/ (Javascript Adserver on EC2)
 * "Vision Media":http://vision-media.ca Web development firm based in Victoria, BC
 * "Plurk":http://www.plurk.com/ (using node.js for its "new comet system":http://amix.dk/blog/post/19490#Plurk-Instant-conversations-using-comet)
+* "BrandedCode":http://brandedcode.com
