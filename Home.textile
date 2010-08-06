@@ -46,7 +46,7 @@ h3. Other
 * "soda.js":http://github.com/tomyan/soda -- Asynchonous JavaScript module loader for client-side and Node.js.
 * "consolelog.js":http://github.com/jazzychad/consolelog.node.js -- stylized console logging for node.js
 * "Test":http://github.com/brevity/test -- JavaScript unit testing framework.
-* "LongPollingBuffer":http://github.com/robrighter/Long-Polling-Buffer -- A Library to simplify the server side of AJAX long polling.
+* "Comet LongPollingBuffer":http://github.com/robrighter/Long-Polling-Buffer -- A Library to simplify the server side of Comet AJAX long polling.
 * "node-flickr":http://github.com/edds/node-flickr -- A simple library to enable easy use of the flickr api
 
 h2. Modules with node support
