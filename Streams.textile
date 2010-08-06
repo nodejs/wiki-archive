@@ -42,3 +42,20 @@ Once there is a unified interface to streams some easy utility functions are pos
   }
 });
 </code></pre> 
+
+The pump function might look something like this
+
+<pre><code>function pump (readable, writable, cb) {
+  readable.addListener('data', function (data) {
+    if (!writable.write(data)) readable.pause();
+  });
+
+  readable.addListener('end', function () {
+    writable.close();
+    if (cb) cb();
+  });
+
+  writable.addListener('drain', function () {
+    readable.resume();
+  });
+}</code></pre>
