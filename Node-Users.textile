@@ -52,7 +52,8 @@ h2. UTC-7 (-6)
 ** "GitHub":http://github.com/bentomas, "Website":http://benjaminthomas.org
 * Kris Zyp (kriszyp)
 ** "GitHub":http://github.com/kriszyp, "Twitter":http://twitter.com/kriszyp, "Blog":http://www.sitepen.com/blog/author/kzyp/
-
+* Michael J. I. Jackson (mjijackson), Utah
+** "GitHub":http://github.com/mjijackson, "Twitter":http://twitter.com/mjijackson, "Website":http://mjijackson.com/
 
 h2. UTC-6 (-5)
 * Tim Caswell (creationix), Dallas, TX, US
