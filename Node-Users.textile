@@ -21,7 +21,7 @@ h2. UTC-8
 * Kris Kowal (kriskowal)
 ** "Github":http://github.com/kriskowal, "Twitter":http://twitter.com/kriskowal, "Website":http://askawizard.blogspot.com
 * Josh Steiner (vitriolix)
-** "Github":http://github.com/vitriolix, "Twitter":http://twitter.com/__iter__, "Website":http://vitriolix.com
+** "Github":http://github.com/vitriolix, "Twitter":http://twitter.com/__iter__/, "Website":http://vitriolix.com
 
 h2. UTC-7 (-6)
 * Michaeljohn Clement (inimino)
