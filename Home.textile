@@ -1,1 +1,11 @@
-Welcome to the node wiki!
+<h2>projects using node</h2>
+
+<a href="http://github.com/fictorial/redis-node-client/tree/master">redis-node-client</a>, <a href="http://github.com/fictorial/node-json-rpc/tree/master">node-json-rpc</a>, and <a href="http://github.com/fictorial/node_http_dispatch/tree/master">node_http_dispatch</a> by Brian Hammond
+
+<a href="http://www.nonblocking.io/2009/06/scalable-pubsub-with-nodejs.html">pubsub</a> by Malte Ubl
+
+<a href="http://github.com/ujh/frisbee/tree/master">frisbee</a>, A clone of the Disqus blog commenting system, by Urban Hafner
+
+<a href="http://github.com/blackdog66/hxV8/tree/master">hxV8</a>, the haXe &rarr; javascript compiler with modifications to use node I/O. by blackdog66
+
+<a href="http://github.com/ry/node_chat">node_chat</a> by ry (live demo at <a href="http://chat.tinyclouds.org">chat.tinyclouds.org</a>)
