@@ -5,6 +5,7 @@ h2. Node v0.1.102
 * "stencil v0.4":http://github.com/thetalecrafter/stencil/tree/v0.4
 * "Grasshopper v0.2.0":http://github.com/tuxychandru/grasshopper/tree/0.2.0
 * "nun v.0.1.11":http://github.com/akaspin/nun/tree/v0.1.11
+* "Socket.IO v0.5.1":http://github.com/LearnBoost/Socket.IO-node/tree/0.5.1
 
 h2. Node v0.1.101
 * "node-amf @ f427338":http://github.com/timwhitlock/node-amf/tree/f427338da0d61f42fc207c71ab00837a98fe90e9
