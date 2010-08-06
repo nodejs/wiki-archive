@@ -292,7 +292,8 @@ h3(#graphics). "Graphics":#graphics
 * "node-gd":http://github.com/taggon/node-gd -- GD graphic library bindings
 * "magickal-node":http://github.com/quiiver/magickal-node -- GraphicsMagick wrapper for node.js
 * "node-imagemagick":http://github.com/rsms/node-imagemagick -- ImageMagick module
-* "node-png":http://github.com/pkrumins/node-png -- Convert an RGBA buffer to PNG fast
+* "node-png":http://github.com/pkrumins/node-png -- Convert an RGB or RGBA buffer to PNG fast
+* "node-gif":http://github.com/pkrumins/node-gif -- Convert an RGB or RGBA buffer to GIF fast
 * "node-jpeg":http://github.com/pkrumins/node-jpeg -- Convert an RGBA or RGB buffer to JPEG fast
 * "node-ogl":http://github.com/tmpvar/node-ogl -- OpenGL bindings
 * "node-webgl":http://github.com/pufuwozu/node-webgl -- WebGL emulation
