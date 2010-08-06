@@ -26,6 +26,8 @@ h2. UTC-6 (-5)
 ** "Twitter":http://twitter.com/tmpvar, "Github":http://github.com/tmpvar
 * Jim R. Wilson (jimbojw)
 ** "Blog":http://jimbojw.com, "Website":http://trephine.org
+* Aaron Heckmann (aheckmann)
+** "Blog":http://aaronheckmann.blogspot.com/, "Website":http://www.aaronheckmann.net/, "Twitter":http://twitter.com/aaronheckmann
 
 h2. UTC-5 (-4)
 
