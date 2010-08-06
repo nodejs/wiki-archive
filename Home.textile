@@ -74,6 +74,7 @@ h2. Companies using node
 * "SitePen":http://www.sitepen.com/ - Using node for persevere
 * "Telefónica R&D":http://tid.es
 * "Vision Media":http://vision-media.ca -- Web development firm based in Victoria, BC
+* "Yammer":https://www.yammer.com
 * "Ylastic":http://ylastic.com/ - uses node for report processing and admin app
 * "Pixelspark":http://www.pixelspark.nl/
 * "Newspaper Club":http://www.newspaperclub.co.uk - Uses node.js for wrapping a nasty SOAP interface to InDesign Server.
