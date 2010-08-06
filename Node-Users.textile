@@ -97,6 +97,11 @@ h2. UTC-3 (-2)
 * Pedro Viegas
 ** "Twitter":http://twitter.com/pasviegas, "Github":http://github.com/pasviegas
 
+h2. UTC+0 (0)
+
+* Jon Gretar Borgthorsson (JonGretar)
+** "Website":http://medevyoujane.com, "Github":http://github.com/JonGretar, "Twitter":http://twitter.com/JonGretar
+
 h2. UTC+0 (+1)
 
 * Tav (tav)
