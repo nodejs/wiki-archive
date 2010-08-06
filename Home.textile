@@ -58,3 +58,4 @@ h2. Companies using node
 * "Telefónica R&D":http://tid.es
 * "Vision Media":http://vision-media.ca -- Web development firm based in Victoria, BC
 * "Ylastic":http://ylastic.com/ - uses node for report processing and admin app
+* "Pixelspark":http://www.pixelspark.nl/
