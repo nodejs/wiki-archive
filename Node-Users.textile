@@ -24,7 +24,7 @@ h2. UTC-7 (-6)
 ** "Blog":http://inimino.org/~inimino/blog/, "Code":http://boshi.inimino.org/3box/
 * Greg Ritter (gjritter)
 ** "GitHub":http://github.com/gjritter, "Twitter":http://twitter.com/gjritter, "Website":http://www.codespin.com
-* Benjamin Thomas (bentomas), Denver, CO
+* Benjamin Thomas (bentomas), Denver, Colorado, US
 ** "GitHub":http://github.com/bentomas, "Website":http://benjaminthomas.org
 * Kris Zyp (kriszyp)
 ** "GitHub":http://github.com/kriszyp, "Twitter":http://twitter.com/kriszyp, "Blog":http://www.sitepen.com/blog/author/kzyp/
