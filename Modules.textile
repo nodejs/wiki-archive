@@ -145,7 +145,7 @@ h3(#ws-ajax). "Web Sockets & Ajax":#ws-ajax
 
 h3(#testing). "Testing / Spec Frameworks":#testing
 * "espionage":http://github.com/smtlaissezfaire/espionage -- A mock/stub framework using the test spy pattern.
-* "expresso":http://github.com/visionmedia/expresso -- TDD framework by the author of [JSpec](http://jspec.info)
+* "expresso":http://github.com/visionmedia/expresso -- TDD framework by the author of "JSpec":http://jspec.info
 * "exemplor.js":http://github.com/chrislloyd/exemplor.js -- A port of "exemplor":http://github.com/quackingduck/exemplor with Node goodness.
 * "jasmine-node":http://github.com/mhevery/jasmine-node -- integration with "Pivotal's Jasmine Spec":http://github.com/pivotal/jasmine framework
 * "jspec":http://github.com/visionmedia/jspec -- Feature Rich BDD Testing Framework
