@@ -36,7 +36,7 @@ h4(#web-frameworks-other). "Other":#web-frameworks-other
 * "simplex":http://github.com/mshakhan/simplex 
 * "Picard":http://github.com/dantebronto/picard
 * "JSGI-Node":http://github.com/kriszyp/jsgi-node/ -- Asynchronous JSGI 0.3 Adapter for Node
-* "node-mime":http://github.com/bentomas/node-mime Utility module for mime-type lookups
+* "node-mime":http://github.com/bentomas/node-mime -- Utility module for mime-type lookups
 
 h3(#database). "Database":#database
 * "redis-node-client":http://github.com/fictorial/redis-node-client/tree/master -- Redis Client by Fictorial
