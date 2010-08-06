@@ -17,6 +17,7 @@ h4(#web-frameworks-routers). "Routers":#web-frameworks-routers
 * "node.routes.js":http://github.com/defrex/node.routes.js/ -- A simple url router
 * "nozzle":http://github.com/fictorial/nozzle -- web app/service framework
 * "sherpa":http://github.com/joshbuddy/sherpa -- HTTP router/generator with support for regex and parameters
+* "clutch":http://github.com/clement/clutch -- no-frills web request router, supporting nested routes, regexp parameters
 
 h4(#web-frameworks-static). "Static file servers":#web-frameworks-static
 * "antinode":http://github.com/mhansen/antinode -- A simple static web server
