@@ -21,6 +21,7 @@ h3. Web frameworks
 * "Nerve":http://github.com/gjritter/nerve -- Microframework with simple array-based syntax for defining an app on top of node.
 
 h3. Other
+* "node.devserver.js":http://github.com/defrex/node.devserver.js/ -- A development server that reloads when there are file changes
 * "optparse-js":http://github.com/jfd/optparse-js/tree/master -- Option Parser in JS
 * "trollopjs":http://github.com/bentomas/trollopjs -- Another option parser
 * "libxmljs":http://github.com/sprsquish/libxmljs -- Beginning of bindings to libxml2
