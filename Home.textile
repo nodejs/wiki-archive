@@ -12,6 +12,7 @@ h2. Projects / Applications
 * "Flickr Spy":http://github.com/ncr/flickr_spy -- Discover where your Flickr contacts are commenting
 * "azathoth":http://github.com/orlandov/azathoth -- very simple HTTP traffic/load generator and benchmark tool
 * "antinode":http://github.com/mhansen/antinode -- Simple static file HTTP Server with logging
+* "NodeMachine":http://github.com/tautologistics/nodemachine -- Port of WebMachine for Node.js
 
 h2. Articles
 * "pubsub":http://www.nonblocking.io/2009/06/scalable-pubsub-with-nodejs.html -- by Malte Ubl
