@@ -60,6 +60,7 @@ h3. Other
 * "node-csv":http://github.com/voodootikigod/node-csv -- Efficient Evented CSV Parsing.
 * "Speks":http://github.com/ecavazos/speks -- A specification framework for your node-code
 * "hashlib":http://github.com/brainfucker/hashlib -- Fast hashing module, written in C/C++, supports: md5, md6, sha1, sha256, sha512
+* "limestone":http://github.com/kurokikaze/limestone -- Sphinx search server connector
 
 h2. Modules with node support
 
