@@ -55,6 +55,7 @@ h2. Articles
 * "ServerSide JavaScript with MooTools and NodeJS":http://davidwalsh.name/mootools-nodejs -- by Christoph Pojer
 
 h2. Talks
+* "GoogleTechTalk: Node.js":http://www.youtube.com/watch?v=F6k8lTrAE2g -- by Ryan Dahl
 * "Node.js at JSConf.eu 2009":http://jsconf.eu/2009/video_nodejs_by_ryan_dahl.html -- by Ryan Dahl
 * "Node.js at JSConf.us 2010":http://nodejs.org/jsconf2010.pdf -- by Ryan Dahl
 * "Running YUI3 on Node.js":http://www.slideshare.net/apmoore/running-yui-3-on-nodejs -- by Adam Moore
