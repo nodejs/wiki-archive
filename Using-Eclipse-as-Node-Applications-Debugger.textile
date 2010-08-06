@@ -106,7 +106,7 @@ You probably noticed that Eclipse V8 debugger can not connect to the remote host
 <pre>
 <code>
 // Transparent TCP proxy for single connection only
-// Zoran Tomicic ztomicic@gmail.com
+// Zoran Tomicic ztomicic (at) gmail.com
 // 
 
 var sys = require('sys');
