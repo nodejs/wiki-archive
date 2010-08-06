@@ -16,17 +16,18 @@ h2. Projects using node
 * "node_postgres":http://github.com/ry/node_postgres -- Beginning of bindings to libpg
 * "spectacular":http://github.com/jcrosby/spectacular -- for testing
 * "jspec":http://github.com/visionmedia/jspec -- for testing
-* "haml-js":http://github.com/creationix/haml-js -- Server side html generation using javascript.  Parses haml templates and renders html.
 * "node-router":http://github.com/creationix/node-router -- Simple Sinatra-like http server based on fu.js from the original node-chat demo.
 * "node-debug":http://github.com/Connorhd/node_debug/tree/master
 * "aiobot":http://github.com/sztanpet/aoibot a very crude abusing of node.js and javascript as a whole aiming to provide a simple bot for irc
 * "node package manager":http://github.com/isaacs/npm
 * "node-XMLHttpRequest":http://github.com/driverdan/node-XMLHttpRequest
-* "datatypes-js":http://github.com/jfd/datatypes-js -- Byte encoding/decoding for typical datatypes in JS.
-* "match-js":http://github.com/jfd/match-js -- Simple pattern matching (functional style) in JS.
 * "simplex":http://github.com/mshakhan/simplex 
 * "bertrpc":http://github.com/rtomayko/node-bertrpc
 
+h2. Modules with node support
+* "haml-js":http://github.com/creationix/haml-js -- Server side html generation using javascript.  Parses haml templates and renders html.
+* "match-js":http://github.com/jfd/match-js -- Simple pattern matching (functional style) in JS.
+* "datatypes-js":http://github.com/jfd/datatypes-js -- Byte encoding/decoding for typical datatypes in JS.
 
 h2. Companies using node
 
