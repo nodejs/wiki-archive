@@ -21,16 +21,16 @@ h4(#web-frameworks-static). "Static file servers":#web-frameworks-static
 
 h4(#web-frameworks-micro). "Microframeworks":#web-frameworks-micro
 * "(fab)":http://www.fabjs.org -- A modular and concise async web framework for node.js
-* "Nerve":http://github.com/gjritter/nerve -- Microframework with simple array-based syntax for defining an app on top of node.
+* "Nerve":http://github.com/gjritter/nerve -- Microframework with simple array-based syntax for defining an app on top of node. (node.JS 0.1.30)
 * "rowan":http://github.com/idmillington/rowan -- A hierarchical microframework of reusable controllers and modular app logic.
-* "scylla":http://github.com/ithinkihaveacat/node-scylla -- EJSGI-compatible router where method names double as URL-matching patterns
-* "vroom":http://github.com/raycmorgan/vroom/tree/master -- A simple resource oriented web framework built on top of Node.js
+* "scylla":http://github.com/ithinkihaveacat/node-scylla -- EJSGI-compatible router where method names double as URL-matching patterns (Februrary 2010, node.JS 0.1.32)
+* "vroom":http://github.com/raycmorgan/vroom/tree/master -- A simple resource oriented web framework built on top of Node.js (November 2009, node.JS 0.1.16)
 * "Picard":http://github.com/dantebronto/picard
-* "simplex":http://github.com/mshakhan/simplex 
+* "simplex":http://github.com/mshakhan/simplex (October 2009, node.JS 0.1.14)
 
 h4(#web-frameworks-full). "Frameworks":#web-frameworks-full
-* "chain":http://github.com/hassox/chain/ -- An evented convention for building Node Applications
-* "coltrane":http://github.com/ujh/coltrane/tree/master -- A try at a higher level library/framework for node.js web development
+* "chain":http://github.com/hassox/chain/ -- An evented convention for building Node Applications (Stopped Development, for ejsgi)
+* "coltrane":http://github.com/ujh/coltrane/tree/master -- A try at a higher level library/framework for node.js web development (July 2009, node.JS 0.1.1)
 * "djangode":http://github.com/simonw/djangode -- A framework that borrows some useful concepts from "Django":http://www.djangoproject.com/.
 * "express":http://github.com/visionmedia/express/tree/master -- A robust feature rich web development framework **inspired by Sinatra**
 * "Geddy":http://github.com/mde/geddy/tree/master -- A small, hackable Web-app development framework
