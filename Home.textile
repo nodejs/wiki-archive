@@ -18,6 +18,8 @@ h2. Projects using node
 * "jspec":http://github.com/visionmedia/jspec -- for testing
 * "node-router":http://github.com/creationix/node-router
 * "node-debug":http://github.com/Connorhd/node_debug/tree/master
+* "aiobot":http://github.com/sztanpet/aoibot a very crude abusing of node.js and javascript as a whole aiming to provide a simple bot for irc
+* "node package manager":http://github.com/isaacs/npm
 
 h2. Companies using node
 
