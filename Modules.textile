@@ -163,6 +163,7 @@ h3(#tcp). "TCP / IP":#tcp
 * "request":http://github.com/mikeal/node-utils/tree/master/request/ -- Simple HTTP client library.
 * "node-xmpp":http://github.com/astro/node-xmpp -- Node XMPP library
 * "node-snpp":http://github.com/jsanders/node-snpp -- Node SNPP server library
+* "node_mdns":http://github.com/agnat/node_mdns -- mDNS/zeroconf/bonjour service discovery add-on
 
 h3(#rpc). "RPC":#rpc
 * "bertrpc":http://github.com/rtomayko/node-bertrpc
