@@ -14,6 +14,9 @@ h2. Projects using node
 * "optparse-js":http://github.com/jfd/optparse-js/tree/master -- Option Parser in JS
 * "libxmljs":http://github.com/sprsquish/libxmljs -- Beginning of bindings to libxml2
 * "node_postgres":http://github.com/ry/node_postgres -- Beginning of bindings to libpg
+* "spectacular":http://github.com/jcrosby/spectacular -- for testing
+* "jspec":http://github.com/visionmedia/jspec -- for testing
+* "node-router":http://github.com/creationix/node-router
 
 h2. Companies using node
 
