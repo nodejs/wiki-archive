@@ -23,6 +23,7 @@ h3. Web frameworks
 * "haml-js":http://github.com/creationix/haml-js -- Server side html generation using javascript.  Parses haml templates and renders html.
 * "tmpl-node":http://github.com/jed/tmpl-node -- a feature-rich template module for node.js
 * "template.node.js":http://github.com/jazzychad/template.node.js -- A light, fast, cached template module for node.
+* "querystring.node.js":http://github.com/jazzychad/querystring.node.js -- Robust query string parsing for node.
 
 h3. Other
 * "node.routes.js":http://github.com/defrex/node.routes.js/ -- A simple url router
