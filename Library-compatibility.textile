@@ -17,7 +17,7 @@ h2. Node v0.1.90
 * "node-redis v0.0.1":http://github.com/tristandunn/node-redis/tree/v0.0.1
 * "node-websocket v0.0.1":http://github.com/tristandunn/node-websocket/tree/v0.0.1
 * "node-memcache":http://github.com/vanillahsu/node-memcache
-* "nodeunit":http://github.com/caolan/nodeunit/tree/daa9986ee6a5266c2e02eae5e3a8bd6904bbcee8
+* "nodeunit @ daa9986":http://github.com/caolan/nodeunit/tree/daa9986ee6a5266c2e02eae5e3a8bd6904bbcee8
 * "NoSQLite @ a613f06":http://github.com/mrjjwright/NoSQLite/tree/a613f0623f667ce94d149d5890f76d61bd5773e4
 * "limestone @ dff8d13":http://github.com/kurokikaze/limestone/tree/dff8d13b9658a75df1fbd881ed59f855a4ec3ca5
 * "node-mysql-libmysqlclient v0.0.6":http://github.com/Sannis/node-mysql-libmysqlclient/tree/v0.0.6
