@@ -49,3 +49,5 @@ h2. Companies using node
 * "Medium":http://thisismedium.com
 * "e-resistible":http://www.e-resistible.co.uk - uses node to handle network communication to restaurant printers
 * "Academia.edu":http://www.academia.edu/ - uses node for background data processing
+* "BusBound":http://www.busbound.com/ - built with express framework
+* "JSONPify":http://jsonpify.com/ - a JSONP proxy for client applications
