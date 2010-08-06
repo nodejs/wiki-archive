@@ -90,6 +90,8 @@ h2. UTC-6 (-5)
 ** "Website":http://cloudhead.io, "Twitter":http://twitter.com/cloudhead, "Github":http://github.com/cloudhead
 * Stephen Veit (srveit), St. Louis, MO, US
 ** "GitHub":http://github.com/srveit, "Twitter":http://twitter.com/srveit, "Website":http://TradeHarbor.com
+* Sean Carley (milythael), St. Louis, MO, US
+** "GitHub":http://github.com/milythael, "Twitter":http://twitter.com/milythael, "Website":http://TradeHarbor.com
 
 h2. UTC-5 (-4)
 
