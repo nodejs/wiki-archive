@@ -76,6 +76,8 @@ h2. UTC-8
 ** "Github":http://github.com/kulor, "Twitter":http://twitter.com/kulor, "Website":http://kulor.com
 * Van Nguyen (vnguyen), San Francisco, CA, US
 ** "Github":http://github.com/thegoleffect, "Twitter":http://twitter.com/thegoleffect
+* Rob Slifka (rslifka), San Francisco, CA, US
+** "Github":http://github.com/rslifka, "Twitter":http://twitter.com/robslifka, "Website":http://www.allaboutbalance.com
 
 h2. UTC-7 (-6)
 * Michaeljohn Clement (inimino)
