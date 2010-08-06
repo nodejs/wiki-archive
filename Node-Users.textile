@@ -40,7 +40,6 @@ h2. UTC-6 (-5)
 ** "Blog":http://aaronheckmann.blogspot.com/, "Website":http://www.aaronheckmann.net/, "Twitter":http://twitter.com/aaronheckmann
 * Brian Hammond (fictorial)
 ** "Website":http://fictorial.com, "Github":http://github.com/fictorial, "Twitter":http://twitter.com/fictorial
-
 * Alexis Sellier (cloudhead)
 ** "Website":http://cloudhead.io, "Twitter":http://twitter.com/cloudhead, "Github":http://github.com/cloudhead
 * Tristan Dunn
