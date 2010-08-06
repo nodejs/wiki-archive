@@ -29,7 +29,7 @@ h2. Projects / Applications
 * "diretto":http://www.diretto.org/ - Distributed Recon/Reporting Transceiver Toolkit – Uses Node.js for web-based media storage and for its RESTful webservice implementation
 * "ElusiveHippo":http://elusivehippo.com - Push deployment for nodejs (written entirely in nodejs).
 * "Chess Riot":http://chessriot.com - a live Lightning Chess app built in node.js, express, CoffeeScript and jQuery. By @weepy
-
+* "Realie":http://www.web2media.net/laktek/2010/05/25/real-time-collaborative-editing-with-websockets-node-js-redis/ - Real-time Collaborative Editor using Web Sockets, Node.js & Redis
 
 h2. Articles
 * "pubsub":http://www.nonblocking.io/2009/06/scalable-pubsub-with-nodejs.html -- by Malte Ubl
@@ -40,6 +40,7 @@ h2. Articles
 * "Advanced JavaScript $4 eBook":http://www.dev-mag.com/2010/02/18/advanced-javascript/ -- by TJ Holowaychuk
 * "Node.js - I just have to use it for something":http://www.hawksworx.com/journal/2010/02/15/nodejs-i-just-have-to-use-it-for-something/ -- by Phil Hawksworth
 * "node by example":http://blog.osbutler.com/categories/node-by-example/ -- by Hendrik Daldrup
+* "Implementing Web Socket servers with Node.js":http://www.web2media.net/laktek/2010/05/04/implementing-web-socket-servers-with-node-js/ -- by Lakshan Perera
 
 h2. Talks
 * "Node.js at JSConf.eu 2009":http://jsconf.eu/2009/video_nodejs_by_ryan_dahl.html -- by Ryan Dahl
