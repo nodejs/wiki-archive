@@ -258,6 +258,7 @@ h3(#other). "Other":#other
 * "yaml":http://github.com/visionmedia/js-yaml -- CommonJS YAML parser
 * "node-ncurses":http://github.com/mscdex/node-ncurses -- An ncurses binding for node.js
 * "node-terminal":http://github.com/bmeck/node-terminal -- A simple terminal module for ansi control codes.
+* "swirl-node":http://github.com/bmizerany/swirl-node -- A simple EC2 client
 
 h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":#commonjs-compat
 * "commonjs-utils":http://github.com/kriszyp/commonjs-utils -- "JSON Schema":http://json-schema.org/, AOP, XML-RPC, lazy arrays, and other utilities
