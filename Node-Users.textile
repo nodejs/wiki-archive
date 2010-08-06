@@ -43,7 +43,7 @@ h2. UTC-7 (-6)
 
 
 h2. UTC-6 (-5)
-* Tim Caswell (creationix)
+* Tim Caswell (creationix), Dallas, TX, US
 ** "Blog":http://howtonode.org/, "Website":http://creationix.com/, "Twitter":http://twitter.com/creationix
 * Jim R. Wilson (jimbojw)
 ** "Blog":http://jimbojw.com, "Website":http://trephine.org
