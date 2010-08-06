@@ -58,6 +58,7 @@ h3. Other
 * "eyes.js":http://github.com/cloudhead/eyes.js -- A better, customizable value inspector for node.js
 * "node-xml":http://github.com/robrighter/node-xml -- An xml parser for node.js
 * "node-csv":http://github.com/voodootikigod/node-csv -- Efficient Evented CSV Parsing.
+* "Speks":http://github.com/ecavazos/speks -- A specification framework for your node-code
 
 h2. Modules with node support
 
