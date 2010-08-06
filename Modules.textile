@@ -166,6 +166,7 @@ h3(#other). "Other":#other
 * "hub.js":http://github.com/greut/hub.js -- in-memory and in progress PubSubHubBub server
 * "Jerk":http://github.com/gf3/Jerk -- A fun little IRC bot library for node.js.
 * "node-maxmind":http://github.com/gyordanov/node-maxmind — maxmind/geoip module (using libgeoip)
+* "node-sandbox":http://github.com/gf3/node-sandbox -- A rudimentary javascript sandbox for use with node.js
 
 h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":#commonjs-compat
 
