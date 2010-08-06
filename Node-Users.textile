@@ -22,3 +22,7 @@ h2. UTC+1 (+2)
 ** "Website":http://www.mediacoders.de/, "Twitter":http://twitter.com/mediacoder
 * Siegmund Führinger
 ** "Website":http://sifu.co.at/, "Twitter":http://twitter.com/0xx0
+
+h2. UTC+2 (+3)
+* Artem Gnilov (Boo)
+** "Blog":http://boo.openbdsm.org/, "Twitter":http://twitter.com/BooBSD
