@@ -92,6 +92,7 @@ h3(#other). "Other":#other
 * "Node-compatible Dojo fork":http://github.com/novemberborn/dojo
 * "node-paperboy":http://github.com/felixge/node-paperboy -- A node.js module for delivering static files
 * "awesome":http://github.com/janl/awesome -- A Redis clone in node.js
+* "node-amqp":http://github.com/xaviershay/node-amqp -- Basic AMQP client
 
 h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":#commonjs-compat
 
