@@ -34,6 +34,7 @@ h2. Node v0.1.90
 * "redis-node-client v0.2.3":http://github.com/fictorial/redis-node-client/tree/v0.2.3
 * "step v0.0.1":http://github.com/creationix/step/tree/v0.0.1
 * "websocket v0.0.1":http://github.com/creationix/websocket/tree/v0.0.1
+* "node-http-digest v0.0.1":http://github.com/codehero/node-http-digest/tree/master
 
 h2. Node v0.1.33
 
