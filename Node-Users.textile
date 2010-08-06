@@ -302,7 +302,7 @@ h2. UTC+10 or UTC+11
 * Eugene Ware, Melbourne, Australia
 ** "Twitter":http://twitter.com/eugeneware, "Github":http://github.com/nharbour, "Website":http://eugeneware.com
 * Dr Nic Williams, Brisbane, Australia
-** "Twitter":http://twitter.com/drnic, "Github":http://github.com/drnic "Website":http://drnicwilliams.com
+** "Twitter":http://twitter.com/drnic, "Github":http://github.com/drnic, "Website":http://drnicwilliams.com
 
 h2. UTC+12
 
