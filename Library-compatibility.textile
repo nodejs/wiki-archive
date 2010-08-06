@@ -5,6 +5,7 @@ h2. Node v0.1.91
 * "node-mongodb-native":http://github.com/christkv/node-mongodb-native/tree/V0.7.0
 * "nodeunit @ daa9986":http://github.com/caolan/nodeunit/tree/daa9986ee6a5266c2e02eae5e3a8bd6904bbcee8
 * "node-solr v0.0.4":http://github.com/gsf/node-solr/tree/v0.0.4
+* "node-async-testing @ c1efe08":http://github.com/bentomas/node-async-testing/tree/c1efe0818ce86dcbf6fc4e36a6905d38bdd55f60
 
 h2. Node v0.1.90
 
