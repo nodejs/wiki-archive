@@ -54,8 +54,8 @@ h4(#middleware). "Middleware":#middleware
 * "static":http://github.com/kriszyp/pintura/blob/master/lib/jsgi/static.js - Static file handler using asynchronous streaming. (JSGI)
 * "error":http://github.com/kriszyp/pintura/blob/master/lib/jsgi/error.js - Catches uncaught errors and converts to appropriate HTTP error responses. (JSGI)
 * "conditional":http://github.com/kriszyp/pintura/blob/master/lib/jsgi/conditional.js - Handles conditional HTTP requests (If-Modified-Since, etc.) (JSGI)
-* "http-params":http://github.com/kriszyp/pintura/blob/master/lib/jsgi/http-params.js - Converts HTTP parameters http-<name> to headers
-* "auth":http://github.com/kriszyp/pintura/blob/master/lib/jsgi/auth.js - Handles Authentication (HTTP and cookie based)
+* "http-params":http://github.com/kriszyp/pintura/blob/master/lib/jsgi/http-params.js - Converts HTTP parameters http-<name> to headers. (JSGI)
+* "auth":http://github.com/kriszyp/pintura/blob/master/lib/jsgi/auth.js - Handles Authentication (HTTP and cookie based). (JSGI)
 
 h4(#web-frameworks-other). "Other":#web-frameworks-other
 * "node-elf-logger":http://github.com/TooTallNate/node-elf-logger -- Configurable HTTP logging library following the "W3C Extended Log File Format specification":http://www.w3.org/TR/WD-logfile.html
