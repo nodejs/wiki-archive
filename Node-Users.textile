@@ -37,10 +37,6 @@ h2. UTC-7 (-6)
 h2. UTC-6 (-5)
 * Tim Caswell (creationix)
 ** "Blog":http://howtonode.org/, "Website":http://creationix.com/, "Twitter":http://twitter.com/creationix
-* Marak Squires (JimBastard)
-** "GitHub":http://github.com/marak, "Website":http://maraksquires.com, "node_debug":http://maraksquires.com/node_debug/
-* Elijah Insua (tmpvar)
-** "Twitter":http://twitter.com/tmpvar, "Github":http://github.com/tmpvar
 * Jim R. Wilson (jimbojw)
 ** "Blog":http://jimbojw.com, "Website":http://trephine.org
 * Aaron Heckmann (aheckmann)
@@ -56,6 +52,10 @@ h2. UTC-5 (-4)
 
 * Paul Barry (pjb3)
 ** "GitHub":http://github.com/pjb3, "Twitter":http://twitter.com/pjb3, "Website":http://paulbarry.com
+* Marak Squires (JimBastard)
+** "GitHub":http://github.com/marak, "Website":http://maraksquires.com, "node_debug":http://maraksquires.com/node_debug/
+* Elijah Insua (tmpvar)
+** "Twitter":http://twitter.com/tmpvar, "Github":http://github.com/tmpvar
 
 h2. UTC-4 (-3)
 
