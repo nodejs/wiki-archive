@@ -48,3 +48,4 @@ h2. Companies using node
 * Feisty Studios
 * "Medium":http://thisismedium.com
 * "e-resistible":http://www.e-resistible.co.uk - uses node to handle network communication to restaurant printers
+* "Academia.edu":http://www.academia.edu/ - uses node for background data processing
