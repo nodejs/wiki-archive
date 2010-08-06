@@ -24,6 +24,7 @@ h2. Projects using node
 * "datatypes-js":http://github.com/jfd/datatypes-js -- Byte encoding/decoding for typical datatypes in JS.
 * "match-js":http://github.com/jfd/match-js -- Simple pattern matching (functional style) in JS.
 * "simplex":http://github.com/mshakhan/simplex 
+* "bertrpc":http://github.com/rtomayko/node-bertrpc
 
 
 h2. Companies using node
