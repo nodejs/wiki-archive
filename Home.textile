@@ -53,6 +53,8 @@ Complete projects that use node.
 * "aiobot":http://github.com/sztanpet/aoibot a very crude abusing of node.js and javascript as a whole aiming to provide a simple bot for irc
 * "nodewiki":http://github.com/gjritter/nodewiki -- a simple wiki based on node and redis
 * "awesome":http://github.com/janl/awesome -- a Redis clone in node.js
+* "Sousaball":http://github.com/creationix/sousaball by creationix (<a href="http://sousaball.creationix.com">sousaball.creationix.com</a>)
+* "DinMaker":http://github.com/creationix/node-topcloud-chat by creationix (live demo at <a href="http://chat.creationix.com">chat.creationix.com</a>)
 
 h2. Companies using node
 
