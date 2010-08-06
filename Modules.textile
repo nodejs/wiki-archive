@@ -305,6 +305,7 @@ h3(#other). "Other":#other
 * "node-cookiejar":http://github.com/bmeck/node-cookiejar -- repetitive use cookie jar construction / cookie functionality
 * "daemon.node":http://github.com/Slashed/daemon.node/ -- Unix/Linux Daemons with node.js
 * "dust":http://github.com/pasviegas/dust -- OO way to fill your database with not totally random content
+* "dox":http://github.com/visionmedia/dox -- Documentation generator using JSdoc and markdown comments
 * "evented-twitter":http://github.com/polotek/evented-twitter -- asynchronous twitter client, supports streaming api
 * "express-chat":http://github.com/Tug/express-chat -- A chat application demo for testing node.js + MongoDB scalability
 * "ext":http://github.com/visionmedia/ext.js -- High quality / performance JavaScript extensions specifically for node.js
