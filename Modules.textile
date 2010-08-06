@@ -138,6 +138,7 @@ h3(#other). "Other":#other
 * "Wheres Waldo":http://github.com/technoweenie/wheres-waldo -- track locations of users in redis
 * "node-amqp":http://github.com/xaviershay/node-amqp -- Basic AMQP client
 * "soda.js":http://github.com/tomyan/soda -- Asynchonous JavaScript module loader for client-side and Node.js
+* "node-continuables":http://github.com/bentomas/node-continuables -- A library making dealing with asynchronous code easier
 
 h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":#commonjs-compat
 
