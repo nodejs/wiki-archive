@@ -123,6 +123,8 @@ h2. UTC-5 (-4)
 ** "GitHub":http://github.com/rlr, "Twitter":http://twitter.com/r1cky, "Website":http://rickyrosario.com
 * Zach Carter (zaach)
 ** "GitHub":http://github.com/zaach, "Twitter":http://twitter.com/zii, "Website":http://zaa.ch
+* Mathieu D'Amours (matehat)
+** "GitHub":http://github.com/matehat, "Twitter":http://twitter.com/matehat, "Website":http://rigor-analytic.com
 
 h2. UTC-4 (-3)
 
