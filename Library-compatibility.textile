@@ -4,7 +4,7 @@ h2. Node v0.1.102
 * "gm v0.1.1":http://github.com/aheckmann/gm/tree/v0.1.1
 
 h2. Node v0.1.101
-* "node-amf":http://github.com/timwhitlock/node-amf/tree/f427338da0d61f42fc207c71ab00837a98fe90e9
+* "node-amf @ f427338":http://github.com/timwhitlock/node-amf/tree/f427338da0d61f42fc207c71ab00837a98fe90e9
 * "node-htmlparser v1.6.2":http://github.com/tautologistics/node-htmlparser/tree/v1.6.2
 * "nodemachine v0.2.5":http://github.com/tautologistics/nodemachine/tree/v0.2.5
 * "nun v.0.1.11":http://github.com/akaspin/nun/tree/v0.1.11
