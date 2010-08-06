@@ -166,13 +166,13 @@ h2. UTC+9
 * Jed Schmidt (jed)
 ** "Website":http://jedschmidt.com, "Twitter":http://twitter.com/jedschmidt, "GitHub":http://github.com/jed
 
-h2. UTC+10/+11
+h2. UTC+10 or UTC+11
 
 * Gareth Jones, Melbourne, Australia
 ** "Twitter":http://twitter.com/nomiddlename, "Github":http://github.com/csausdev
 * Daniel Neighman, Melbourne, Australia
 ** "Twitter":http://twitter.com/hassox, "Github":http://github.com/hassox
-* Micheil Smith, Region NSW, Australia
+* Micheil Smith (miksago), Region NSW, Australia
 ** "Website":http://brandedcode.com,"Twitter":http://twitter.com/miksago, "Github":http://github.com/miksago
 
 
