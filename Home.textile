@@ -43,3 +43,4 @@ h2. Companies using node
 * "SitePen":http://www.sitepen.com/
 * Feisty Studios
 * "Medium":http://thisismedium.com
+* "e-resistible":http://www.e-resistible.co.uk - uses node to handle network communication to restaurant printers
