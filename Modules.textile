@@ -59,7 +59,6 @@ h3(#testing). "Testing / Spec Frameworks":#testing
 
 h3(#web-sockets). "Web Sockets":#web-sockets
 * "node.websocket.js":http://github.com/Guille/node.websocket.js -- WebSocket-compatible server.
-* "local-websocket-server":http://github.com/brevity/local-websocket-server/ -- Local Web Socket server.
 * "node.ws.js":http://github.com/ncr/node.ws.js -- A basic Web Socket server with interface similar to tcp.createServer(...)
 * "nodejs-http-websocket":http://github.com/zimbatm/nodejs-http-websocket -- A websocket server on top of the http server.
 
