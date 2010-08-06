@@ -111,6 +111,8 @@ h2. UTC+0 (+1)
 ** "Website":http://www.j-dee.com/, "GitHub":http://github.com/jonpauldavies, "Twitter":http://twitter.com/jonpauldavies
 * Simon Willison
 ** "Website":http://simonwillison.net/, "GitHub":http://github.com/simonw, "Twitter":http://twitter.com/simonw
+* Rhys Jones (rhys__)
+** "Website":http://wave.to/, "GitHub":http://github.com/waveto, "Twitter":http://twitter.com/waveDOTto
 
 h2. UTC+1 (+2)
 
