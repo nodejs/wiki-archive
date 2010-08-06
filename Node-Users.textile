@@ -311,6 +311,8 @@ h2. UTC+8
 ** "Github":http://github.com/vanillahsu/
 * Jerry sun(sjerrys),China
 ** "group":http://www.douban.com/group/second.life/
+* Juvenn Woo (juvenn), China
+** "GitHub":http://juvenn.github.com, "Twitter":http://twitter.com/juvenn
 
 h2. UTC+9
 * Jed Schmidt (jed)
