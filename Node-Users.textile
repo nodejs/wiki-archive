@@ -32,6 +32,10 @@ h2. UTC-5 (-4)
 * Tristan Dunn
 ** "GitHub":http://github.com/tristandunn, "Twitter":http://twitter.com/tristandunn, "Website":http://tristandunn.com
 
+h2. UTC-4 (-3)
+* Ritchie Turner (blackdog)
+**"Website":http://blackdog66.wordpress.com, "Github":http://github.com/blackdog66
+
 h2. UTC-3 (-2)
 
 * Pedro Viegas
