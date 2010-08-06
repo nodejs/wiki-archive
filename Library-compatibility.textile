@@ -1,5 +1,8 @@
 Node is under heavy development and its API changes rapidly. Instead of simply a listing of modules which may or may not work with the version of Node installed on one's computer, this will provide a list of module versions which are known to work with specific versions of node.
 
+h2. Node v0.1.94
+* "node-htmlparser v1.3.4":http://github.com/tautologistics/node-htmlparser/tree/v1.3.4
+
 h2. Node v0.1.93
 * "Socket.IO 0.3.1":http://github.com/LearnBoost/Socket.IO-node/tree/0.3.1
 * "node-mongodb-native V0.7.2":http://github.com/christkv/node-mongodb-native/tree/V0.7.2
@@ -9,7 +12,8 @@ h2. Node v0.1.93
 * "node-email v0.0.2":http://github.com/aheckmann/node-email/tree/v0.0.2
 * "node-poormansmysql v0.1":http://github.com/mscdex/node-poormansmysql/tree/v0.1
 * "limestone v0.1":http://github.com/kurokikaze/limestone/tree/v0.1
-
+* "node-htmlparser v1.3.4":http://github.com/tautologistics/node-htmlparser/tree/v1.3.4
+* "nodemachine v0.2.5":http://github.com/tautologistics/nodemachine/tree/v0.2.5
 
 h2. Node v0.1.92
 * "node-chat v0.2.0":http://github.com/scottgonzalez/node-chat/tree/v0.2.0
@@ -29,7 +33,7 @@ h2. Node v0.1.92
 * "websocket v0.0.2":http://github.com/creationix/websocket/tree/v0.0.2
 * "wheat v0.0.2":http://github.com/creationix/wheat/tree/v0.0.2
 * "libxmljs @ 16d7dc1":http://github.com/polotek/libxmljs/commit/16d7dc158e1b98652b0ed175244030225744d2af
-* "node-htmlparser v1.1.0":http://github.com/tautologistics/node-htmlparser/tree/v1.1.0
+* "node-htmlparser v1.3.4":http://github.com/tautologistics/node-htmlparser/tree/v1.3.4
 * "nodemachine v0.2.5":http://github.com/tautologistics/nodemachine/tree/v0.2.5
 * "behaviors @ d07713c":http://github.com/caolan/behaviors/tree/d07713c71e32cf495d8ab472186b7dbedee41acf
 * "nodeunit @ 3437a42":http://github.com/caolan/nodeunit/tree/3437a428ef736fbcdae66c92a7a3bb0806f1a2af
@@ -57,7 +61,7 @@ h2. Node v0.1.91
 * "step v0.0.2":http://github.com/creationix/step/tree/v0.0.2
 * "websocket v0.0.2":http://github.com/creationix/websocket/tree/v0.0.2
 * "wheat v0.0.2":http://github.com/creationix/wheat/tree/v0.0.2
-* "node-htmlparser v1.1.0":http://github.com/tautologistics/node-htmlparser/tree/v1.1.0
+* "node-htmlparser v1.3.4":http://github.com/tautologistics/node-htmlparser/tree/v1.3.4
 * "nodemachine v0.2.5":http://github.com/tautologistics/nodemachine/tree/v0.2.5
 * "ndb v0.1.2":http://github.com/smtlaissezfaire/ndb/tree/0.1.2
 * "node-email v0.0.1":http://github.com/aheckmann/node-email/tree/v0.0.1
@@ -73,7 +77,7 @@ h2. Node v0.1.90
 * "node-amqp @ 00c113b":http://github.com/ry/node-amqp/tree/00c113bb6f4e251704bc63aba0f0bcabdefb9eab
 * "node-chat v0.1":http://github.com/scottgonzalez/node-chat/tree/v0.1
 * "node-git v0.0.1":http://github.com/creationix/node-git/tree/v0.0.1
-* "node-htmlparser v1.1.0":http://github.com/tautologistics/node-htmlparser/tree/v1.1.0
+* "node-htmlparser v1.3.4":http://github.com/tautologistics/node-htmlparser/tree/v1.3.4
 * "node-httpclient v0.1":http://github.com/billywhizz/node-httpclient/tree/v0.1
 * "node-memcache @ ffc40be":http://github.com/vanillahsu/node-memcache/tree/ffc40be38fd6004fd2c7070dba11910c4b6b5ebe
 * "node-mongodb-native":http://github.com/christkv/node-mongodb-native/tree/V0.7.0
@@ -96,7 +100,7 @@ h2. Node v0.1.33
 * "haml-js v0.2.0":http://github.com/creationix/haml-js/tree/v0.2.0
 * "ndb v0.1 - v0.1.1.1":http://github.com/smtlaissezfaire/ndb/tree/0.1.1.1
 * "node-async-testing 6c03f43":http://github.com/bentomas/node-async-testing/commit/6c03f43c0d34587504cbda355b6a74e44e681abd
-* "node-htmlparser v1.1.0":http://github.com/tautologistics/node-htmlparser/tree/v1.1.0
+* "node-htmlparser v1.3.4":http://github.com/tautologistics/node-htmlparser/tree/v1.3.4
 * "node-memcache":http://github.com/vanillahsu/node-memcache
 * "node-mongodb-native 0.6.8":http://github.com/christkv/node-mongodb-native/tree/V0.6.8
 * "node-router v0.0.2":http://github.com/creationix/node-router/tree/v0.0.2
