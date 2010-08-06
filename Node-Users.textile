@@ -25,6 +25,8 @@ h2. UTC-5 (-4)
 ** "Website":http://cloudhead.io, "Twitter":http://twitter.com/cloudhead, "Github":http://github.com/cloudhead
 * Tristan Dunn
 ** "GitHub":http://github.com/tristandunn, "Twitter":http://twitter.com/tristandunn, "Website":http://tristandunn.com
+* Arlo Breault (arlolra)
+** "weblog":http://thoughtherder.com/
 
 h2. UTC-3 (-2)
 
