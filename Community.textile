@@ -6,7 +6,7 @@ h1. Libraries
 
 h2. Actual libraries
 
-| "haml-js":http://github.com/creationix/haml-js/tree/master | A "haml":http://haml-lang.com/ like web-templating language |
+| "haml-js":http://github.com/creationix/haml-js/tree/master | A "haml":http://haml-lang.com/ like web-templating language (client side only at the moment, but work on a server side haml implementation is on it's way)|
 | "postgres-js":http://github.com/creationix/postgres-js/tree/master | A PostgreSQL driver |
 | "redis-node-client":http://github.com/fictorial/redis-node-client | A "Redis":http://code.google.com/p/redis/ client |
 
