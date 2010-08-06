@@ -1,87 +1,87 @@
-Organization Name:
-	Node.js Community
+*Organization Name:*
+Node.js Community
 
-Description:
-	Node.js is server side JavaScript runtime build on top of the V8 JavaScript engine. The project aims to simplify the writing of scalable networks programs by using an event loop rather than threads as an abstraction for concurrent operations.
+*Description:*
+Node.js is server side JavaScript runtime build on top of the V8 JavaScript engine. The project aims to simplify the writing of scalable networks programs by using an event loop rather than threads as an abstraction for concurrent operations.
 
-	Since the initial release (Feb 16th 2009), the project has:
+Since the initial release (Feb 16th 2009), the project has:
 
-	* Attracted a community of ~1000 users on the mailing list
-	* Received standing ovations at the JSConf.eu conference (2009)
-	* Been deployed for comet applications used by millions of users (Plurk)
-	* Favorably competed in benchmarks with similar technologies (EventMachine, Twisted, Tornado)
-	* Ported V8 to the Solaris plattform and contributed the work back to Google
+* Attracted a community of ~1000 users on the mailing list
+* Received standing ovations at the JSConf.eu conference (2009)
+* Been deployed for comet applications used by millions of users (Plurk)
+* Favorably competed in benchmarks with similar technologies (EventMachine, Twisted, Tornado)
+* Ported V8 to the Solaris plattform and contributed the work back to Google
 
-Home page:
-	http://nodejs.org/
+*Home page:*
+http://nodejs.org/
 
-Main Organization License:
-	MIT License
+*Main Organization License:*
+MIT License
 
-Why is your organization applying to participate in GSoC 2010? What do you hope to gain by participating?
-	By participating in GSoC, we hope to increase node's adoption beyond the early-adopter crowd it has reached so far.
+*Why is your organization applying to participate in GSoC 2010? What do you hope to gain by participating?*
+By participating in GSoC, we hope to increase node's adoption beyond the early-adopter crowd it has reached so far.
 
-Did your organization participate in past GSoCs? If so, please summarize your involvement and the successes and challenges of your participation.
-	(No previous participation)
+*Did your organization participate in past GSoCs? If so, please summarize your involvement and the successes and challenges of your participation.*
+(No previous participation)
 
-If your organization participated in past GSoCs, please let us know the ratio of students passing to students allocated, e.g. 2006: 3/6 for 3 out of 6 students passed in 2006.
-	(No previous participation)
+*If your organization participated in past GSoCs, please let us know the ratio of students passing to students allocated, e.g. 2006: 3/6 for 3 out of 6 students passed in 2006.*
+(No previous participation)
 
-Add a Comment (optional):
-	(No Comment)
+*Add a Comment (optional):*
+(No Comment)
 
-If your organization has not previously participated in GSoC, have you applied in the past? If so, for what year(s)?
-	(No previous application)
+*If your organization has not previously participated in GSoC, have you applied in the past? If so, for what year(s)?*
+(No previous application)
 
-What is the URL for your ideas page?
-	http://wiki.github.com/ry/node/google-summer-of-code-2010-ideas
+*What is the URL for your ideas page?*
+http://wiki.github.com/ry/node/google-summer-of-code-2010-ideas
 
-What is the main development mailing list for your organization? This question will be shown to students who would like to get more information about applying to your organization for GSoC 2010. If your organization uses more than one list, please make sure to include a description of the list so students know which to use.
-	http://groups.google.com/group/nodejs
+*What is the main development mailing list for your organization? This question will be shown to students who would like to get more information about applying to your organization for GSoC 2010. If your organization uses more than one list, please make sure to include a description of the list so students know which to use.*
+http://groups.google.com/group/nodejs
 
-What is the main IRC channel for your organization?
-	#Node.js on freenode.net
+*What is the main IRC channel for your organization?*
+#Node.js on freenode.net
 
-Add a Comment (optional):
-	(No Comment)
+*Add a Comment (optional):*
+(No Comment)
 
-Does your organization have an application template you would like to see students use? If so, please provide it now. Please note that it is a very good idea to ask students to provide you with their contact information as part of your template. Their contact details will not be shared with you automatically via the GSoC 2010 site.
-	* First Name
-	* Last Name
-	* Country
-	* Email
-	* (Mobile) Phone Number
-	* Language Skills (digital and human)
-	* GitHub profile / Previous open source involvement
-	* Motivation to work on node
+*Does your organization have an application template you would like to see students use? If so, please provide it now. Please note that it is a very good idea to ask students to provide you with their contact information as part of your template. Their contact details will not be shared with you automatically via the GSoC 2010 site.*
+* First Name
+* Last Name
+* Country
+* Email
+* (Mobile) Phone Number
+* Language Skills (digital and human)
+* GitHub profile / Previous open source involvement
+* Motivation to work on node
 
-What criteria did you use to select the individuals who will act as mentors for your organization? Please be as specific as possible:
-	* Reliability: People who have shown their commitment to the project and who can realistically allocate the time necessary.
-	* C/C++ skils: Most tasks require good knowledge of those languages
+*What criteria did you use to select the individuals who will act as mentors for your organization? Please be as specific as possible:*
+* Reliability: People who have shown their commitment to the project and who can realistically allocate the time necessary.
+* C/C++ skils: Most tasks require good knowledge of those languages
 
-What is your plan for dealing with disappearing students?
-	* Selecting students unlikely to disappear
-	* Regular follow ups between students and mentors
-	* Required progress updates to the community by the students (eyes watching = motivation)
-	* Connecting with students via phone
+*What is your plan for dealing with disappearing students?*
+* Selecting students unlikely to disappear
+* Regular follow ups between students and mentors
+* Required progress updates to the community by the students (eyes watching = motivation)
+* Connecting with students via phone
 
-What is your plan for dealing with disappearing mentors?
-	* Selecting reliable mentors
-	* Required progress updates to the community by the mentors
-	* Having more mentors lined up than required for eventual replacements
+*What is your plan for dealing with disappearing mentors?*
+* Selecting reliable mentors
+* Required progress updates to the community by the mentors
+* Having more mentors lined up than required for eventual replacements
 
-What steps will you take to encourage students to interact with your project's community before, during and after the program?
-	* Node is a technology to be very excited about. We will try to hard to select students who share this excitement from the beginning.
-	* Giving the students public credit on the mailing list, conferences, user group meetings, etc. for their work
-	* Forming personal relationships with the students that provide close ties back to the project
+*What steps will you take to encourage students to interact with your project's community before, during and after the program?*
+* Node is a technology to be very excited about. We will try to hard to select students who share this excitement from the beginning.
+* Giving the students public credit on the mailing list, conferences, user group meetings, etc. for their work
+* Forming personal relationships with the students that provide close ties back to the project
 
-What will you do to ensure that your accepted students stick with the project after GSoC concludes?
-	* Getting their contributions deployed in applications used by millions of people
-	* Following up with them via email / phone
-	* Providing continued mentoring after the program ends
+*What will you do to ensure that your accepted students stick with the project after GSoC concludes?*
+* Getting their contributions deployed in applications used by millions of people
+* Following up with them via email / phone
+* Providing continued mentoring after the program ends
 
-Is there anything else you would like to tell the Google Summer of Code program administration team? :
-	We think JavaScript is going to be the next big language. If we are not selected, we hope other JavaScript related projects will!
+*Is there anything else you would like to tell the Google Summer of Code program administration team? :*
+We think JavaScript is going to be the next big language. If we are not selected, we hope other JavaScript related projects will!
 
-Add a Comment (optional):
-	(No Comment)
+*Add a Comment (optional):*
+(No Comment)
