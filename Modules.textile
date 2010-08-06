@@ -159,6 +159,7 @@ h3(#debugging). "Debugging / Console Utilities":#debugging
 * "log4js-node":http://github.com/csausdev/log4js-node -- a port of log4js framework for node.js
 * "node-streamlogger":http://github.com/andrewvc/node-streamlogger -- Logging library with support for log rotation
 * "node_debug":http://github.com/Connorhd/node_debug/tree/master -- HTTP based console and object explorer
+* "ndb":http://github.com/smtlaissezfaire/ndb -- traditional command line debugger
 
 h3(#compression). "Compression":#compression
 * "node-compress":http://github.com/waveto/node-compress -- streaming compression / gzip library
