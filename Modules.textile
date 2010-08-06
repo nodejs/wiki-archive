@@ -46,7 +46,6 @@ h4(#web-frameworks-other). "Other":#web-frameworks-other
 h3(#database). "Database":#database
 * "awesome":http://github.com/janl/awesome -- a Redis clone in node.js
 * "cradle":http://github.com/cloudhead/cradle -- a high-level, caching, CouchDB client
-* "JSLINQ":http://github.com/marak/JSLINQ -- clean and simple port of Microsoft's LINQ to node.js (and the browser) 
 * "node-couch":http://github.com/sixtus/node-couch/tree/master -- a CouchDB connector
 * "node-couchdb":http://github.com/felixge/node-couchdb -- A full API implementation
 * "node-couchdb-min":http://github.com/rsms/node-couchdb-min -- Light-weight client with low level of abstraction and connection pooling.
@@ -55,6 +54,7 @@ h3(#database). "Database":#database
 * "node-memcache":http://github.com/vanillahsu/node-memcache -- a memcache client base on libmemcached
 * "node-mongodb":http://github.com/orlandov/node-mongodb -- Basic MongoDB client implementation in JS/C++
 * "node-mongodb-native":http://github.com/christkv/node-mongodb-native -- A pure javascript driver for MongoDB
+* "node-poormansmysql":http://github.com/mscdex/node-poormansmysql -- Asynchronous MySQL driver for node.js using the mysql command-line tool
 * "node-mysql":http://github.com/masuidrive/node-mysql -- Pure Javascript MySQL async driver
 * "node-mysql-libmysqlclient":http://github.com/Sannis/node-mysql-libmysqlclient -- MySQL synchronous bindings based on libmysqlclient
 * "node-riak":http://github.com/orlandov/node-riak -- Riak client library
@@ -202,7 +202,6 @@ h3(#other). "Other":#other
 * "node-chat":http://github.com/scottgonzalez/node-chat -- A simple web-based chat server
 * "node-continuables":http://github.com/bentomas/node-continuables -- A library making dealing with asynchronous code easier
 * "node-email":http://github.com/aheckmann/node-email -- A simple wrapper around sendmail
-* "node_mailer":http://github.com/aheckmann/node_mailer -- send emails from node.js to an smtp server, simple as cake
 * "node-flickr":http://github.com/edds/node-flickr -- A simple library to enable easy use of the flickr api
 * "node-geoip":http://github.com/strange/node-geoip -- geoip city lookup module (uses libgeoip)
 * "node-growl":http://github.com/visionmedia/node-growl -- unobtrusive notification system (growlnotify "bindings")
