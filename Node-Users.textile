@@ -38,6 +38,8 @@ h2. UTC-8
 ** "Github":http://github.com/Guille, "Twitter":http://twitter.com/rauchg, "Website":http://devthought.com
 * John Reeves (vectorjohn), Portland, OR, US
 ** "GitHub":http://github.com/vectorjohn, "Twitter":http://twitter.com/vectorjohn, "Website":http://reeves.appspot.com
+* Erich Ocean (erichocean), Los Angeles, CA, US
+** "GitHub":http://github.com/erichocean, "Twitter":http://twitter.com/erichocean, "Website":http://erichocean.com
 
 h2. UTC-7 (-6)
 * Michaeljohn Clement (inimino)
