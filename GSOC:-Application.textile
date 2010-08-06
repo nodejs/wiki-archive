@@ -69,7 +69,7 @@ At least, Ryan, the creator of Node, has permission from his employer to dedicat
 
 *What is your plan for dealing with disappearing students?*
 
-    * Selecting students unlikely to disappear - based on their past open source work and their participation in the Node.js community leading upto GSoC
+    * Selecting students unlikely to disappear - based on their past open source work and their participation in the Node.js community leading up to GSoC
     * Regular follow ups between students and mentors
     * Required progress updates to the community by the students (eyes watching = motivation)
     * Connecting with students via phone
