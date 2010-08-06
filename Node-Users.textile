@@ -7,6 +7,10 @@ Please add yourself to the according to "your timezone":http://www.timeanddate.c
 * Real name (IRC name)
 ** contacts</code></pre>
 
+h2. UTC-6 (-5)
+* Tim Caswell (creationix)
+** "Website":http://creationix.com/, "Twitter":http://twitter.com/creationix
+
 h2. UTC+0 (+1)
 
 * Jason Davies (jasondavies)
@@ -24,10 +28,5 @@ h2. UTC+1 (+2)
 ** "Website":http://sifu.co.at/, "Twitter":http://twitter.com/0xx0
 
 h2. UTC+2 (+3)
-
-* Artem Gnilov (Boo), Ukraine
+* Artem Gnilov (Boo)
 ** "Blog":http://boo.openbdsm.org/, "Twitter":http://twitter.com/BooBSD
-
-h2. UTC+9 (+0)
-* Jed Schmidt (jed)
-** "Website":http://jedschmidt.com, "Twitter":http://twitter.com/jedschmidt, "GitHub":http://github.com/jed
