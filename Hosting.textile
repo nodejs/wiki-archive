@@ -1,15 +1,11 @@
 h1. Hosting compatible with Node
 
-h2. v0.1.92
-# http://webfaction.com
-# http://heroku.com/
-# http://elusivehippo.com/
-
-h2. v0.1.91
-# ???
-
-h2. v0.1.90
-# ???
-
-h2. v0.1.33
-# ???
+# "WebFaction":http://webfaction.com
+# "Heroku":http://heroku.com/
+# "ElusiveHippo":http://elusivehippo.com/
+# "Prgmr":http://prgmr.com/
+# "Slicehost":http://www.slicehost.com/
+# "Linode":http://www.linode.com/
+# "Amazon EC2":http://aws.amazon.com/ec2/
+# "Rackspace Cloud":http://www.rackspacecloud.com/
+# "VPS.Net":https://www.vps.net/vps-signup
