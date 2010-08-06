@@ -9,7 +9,7 @@ Please add yourself to the according to "your timezone":http://www.timeanddate.c
 
 h2. UTC-6 (-5)
 * Tim Caswell (creationix)
-** "Website":http://creationix.com/, "Twitter":http://twitter.com/creationix
+** "Blog":http://howtonode.org/, "Website":http://creationix.com/, "Twitter":http://twitter.com/creationix
 
 h2. UTC+0 (+1)
 
