@@ -107,6 +107,8 @@ h2. UTC-5 (-4)
 ** "GitHub":http://github.com/c4milo, "Twitter":http://twitter.com/c4milo
 * Bryan English (bengl), Ottawa, ON, Canada
 ** "GitHub":http://github.com/bengl, "Twitter":http://twitter.com/bengl, "Website":http://bengl.net
+* Rob Righter (robrighter), Chattanooga, TN
+** "GitHub":http://github.com/robrighter, "Twitter":http://twitter.com/robrighter, "Website":http://robrighter.com
 
 h2. UTC-4 (-3)
 
