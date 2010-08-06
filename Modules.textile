@@ -159,6 +159,7 @@ h3(#tcp). "TCP / IP":#tcp
 * "node-protocol":http://github.com/miksago/node-protocol -- A framework for implementing protocols.
 * "node-smtp":http://github.com/miksago/node-smtp -- Implementation of the SMTP protocol in Node
 * "NodeFTPd":http://github.com/billywhizz/nodeftpd -- Node FTP Server
+* "node-ftpclient":http://github.com/seanhess/node-ftpclient -- Node FTP Client
 * "xmpp.js":http://xmppjs.prosody.im/ -- Library for implementing XMPP server components with Node
 * "node-http-digest":http://github.com/codehero/node-http-digest -- Node HTTP Client with support for Digest Authentication
 * "request":http://github.com/mikeal/node-utils/tree/master/request/ -- Simple HTTP client library.
