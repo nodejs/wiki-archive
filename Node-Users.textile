@@ -170,6 +170,8 @@ h2. UTC+2 (+3)
 ** "Github":http://github.com/BooBSD, "Blog":http://boo.openbdsm.org/, "Twitter":http://twitter.com/BooBSD
 * Saulius Žemaitaitis (frgtn), Lithuania
 ** "Github":http://github.com/frgtn, "Website":http://frgtn.net, "Twitter":http://twitter.com/frgtn
+* Andrei Bocan (zmack), Romania
+** "Github":http://github.com/zmack, "Website":http://andascarygoat.com, "Twitter":http://twitter.com/monsieur_pickle
 
 h2. UTC+3 (+4)
 
