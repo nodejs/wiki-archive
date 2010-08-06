@@ -10,9 +10,16 @@ h1. Syntax
 
 h1. Reference (Object Model)
 
-h2. JSON
- * @stringify(object)@ - Takes any serializable object and returns the JSON representation as a string.
- * @parse(string)@ - Takes a well formed JSON string and returns the corresponding JavaScript object.
+h2. Array.prototype
+ * @indexOf(value)@ - Returns the first (least) index of an element within the array equal to the specified value, or -1 if none is found.
+ * @lastIndexOf(value)@ - Returns the last (greatest) index of an element within the array equal to the specified value, or -1 if none is found.
+ * @filter(callback)@ - Creates a new array with all of the elements of this array for which the provided filtering function returns true.
+ * @forEach(callback)@ - Calls a function for each element in the array.
+ * @every(callback)@ - Returns true if every element in this array satisfies the provided testing function.
+ * @map(callback)@ - Creates a new array with the results of calling a provided function on every element in this array.
+ * @some(callback)@ - Returns true if at least one element in this array satisfies the provided testing function.
+ * @reduce(callback[, initialValue])@ - Apply a function simultaneously against two values of the array (from left-to-right) as to reduce it to a single value.
+ * @reduceRight(callback[, initialValue])@ - Apply a function simultaneously against two values of the array (from right-to-left) as to reduce it to a single value.
 
 h2. Object
  * @create(parent_object)@ - Creates a new object whose prototype is the passed in parent object. 
@@ -25,13 +32,9 @@ h2. Object.prototype
  * @__lookupSetter__(name)@ - Returns the function associated with the specified property by the __defineSetter__ method.
  * @isPrototypeOf(object)@ - Returns true if @this@ is a prototype of the passed in object.
 
-h2. Array.prototype
- * @indexOf(value)@ - Returns the first (least) index of an element within the array equal to the specified value, or -1 if none is found.
- * @lastIndexOf(value)@ - Returns the last (greatest) index of an element within the array equal to the specified value, or -1 if none is found.
- * @filter(callback)@ - Creates a new array with all of the elements of this array for which the provided filtering function returns true.
- * @forEach(callback)@ - Calls a function for each element in the array.
- * @every(callback)@ - Returns true if every element in this array satisfies the provided testing function.
- * @map(callback)@ - Creates a new array with the results of calling a provided function on every element in this array.
- * @some(callback)@ - Returns true if at least one element in this array satisfies the provided testing function.
- * @reduce(callback[, initialValue])@ - Apply a function simultaneously against two values of the array (from left-to-right) as to reduce it to a single value.
- * @reduceRight(callback[, initialValue])@ - Apply a function simultaneously against two values of the array (from right-to-left) as to reduce it to a single value.
+h2. JSON
+ * @stringify(object)@ - Takes any serializable object and returns the JSON representation as a string.
+ * @parse(string)@ - Takes a well formed JSON string and returns the corresponding JavaScript object.
+
+h2. String.prototype
+ * @trim()@ - Trims whitespace from both ends of the string
