@@ -8,7 +8,7 @@ h2. Node v0.1.93
 * "ndb v0.1.2":http://github.com/smtlaissezfaire/ndb/tree/0.1.2
 * "node-email v0.0.2":http://github.com/aheckmann/node-email/tree/v0.0.2
 * "node-poormansmysql v0.1":http://github.com/mscdex/node-poormansmysql/tree/v0.1
-* "limestone @ 738b863":http://github.com/kurokikaze/limestone/tree/738b8639bf00f250770cf9b78f5f32b0d92c7b0f
+* "limestone v0.1":http://github.com/kurokikaze/limestone/tree/v0.1
 
 
 h2. Node v0.1.92
