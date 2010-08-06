@@ -11,8 +11,5 @@ h2. UTC+1 (+2)
 
 * Felix Geisendörfer (felixge)
 ** "Blog":http://debuggable.com/blog, "Twitter":http://twitter.com/felixge
-
-h2. UTC+1 (+2)
-
 * Michael Borejdo (mediacoder)
 ** "Website":http://www.mediacoders.de/, "Twitter":http://twitter.com/mediacoder
