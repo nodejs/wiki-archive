@@ -146,6 +146,7 @@ h3(#templating). "Templating":#templating
 * "normal-template":http://github.com/gmosx/normal-template -- Normal templates are simple, yet powerful. They are safe, usable in non XML/HTML contexts and portable to any programming language.
 * "nun":http://github.com/akaspin/nun -- Totally asynchronous non-blocking template engine for node.js
 * "node.magic_dom":http://github.com/amix/node.magic_dom -- A DSL for building HTML in node.js, similar to Python's Stan
+* "stencil":http://github.com/thetalecrafter/stencil -- Renders asynchronous templates shared by server and browser
 * "strobe-templates":http://github.com/skid/strobe-templates -- An asynchronous templating engine with syntax like Django's
 
 h3(#build-and-deployment). "Build and Deployment":#build-and-deployment
