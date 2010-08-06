@@ -33,6 +33,7 @@ h2. Projects / Applications
 * "GrowlHub":http://github.com/idris/growlhub - Growl Notifications for GitHub
 * "Simple Node.js MUD":http://github.com/gumho/simple-node.js-mud - Simple multi-user dungeon using Node.js
 * "wtfjs":http://github.com/brianleroux/wtfjs - what the fuck javascript!
+* "node.ly":http://github.com/giacecco/node.ly - A simple URL shortener written in Node.js and SQLIte3 (moving to CouchDB in future version 2)
 
 h2. Articles
 * "pubsub":http://www.nonblocking.io/2009/06/scalable-pubsub-with-nodejs.html -- by Malte Ubl
