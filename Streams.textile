@@ -19,7 +19,7 @@ Examples of writable streams (some of these don't exist yet): server-side HTTP r
 
 h2. Utility Functions
 
-One there is a unified interface to streams some easy utility functions are possible which route data smartly. For example, writing an HTTP request to a file, with all the proper throttling and buffering, is easy as
+Once there is a unified interface to streams some easy utility functions are possible which route data smartly. For example, writing an HTTP request to a file, with all the proper throttling and buffering, is easy as
 <pre><code>http.createServer(function (req, res) {
   if (req.method == 'POST') {
     // Open writable file system
