@@ -17,7 +17,7 @@ h2. Object.prototype
  * @__defineSetter__(name, callback)@ - Associates a function with a property that, when set, executes that function which modifies the property.
  * @__lookupGetter__(name)@ - Returns the function associated with the specified property by the __defineGetter__ method.
  * @__lookupSetter__(name)@ - Returns the function associated with the specified property by the __defineSetter__ method.
- * @isPrototypeOf(object)@ - Returns true is @this@ is a prototype of the passed in object.
+ * @isPrototypeOf(object)@ - Returns true if @this@ is a prototype of the passed in object.
 
 h2. Array.prototype
  * @indexOf(value)@ - Returns the first (least) index of an element within the array equal to the specified value, or -1 if none is found.
