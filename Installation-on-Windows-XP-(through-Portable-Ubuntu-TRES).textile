@@ -24,8 +24,7 @@ echo "/dev/cdrom /media/cdrom udf,iso9660 user,noauto,exec,utf8" >> /etc/fstab</
 
 *7.* Still inside the terminal type the following (one line at a time):
 
-<pre>sudo apt-get install g++
-sudo apt-get install git-core
+<pre>sudo apt-get install g++ git-core libssl-dev curl apache2-utils
 git clone git://github.com/ry/node.git
 cd node
 ./configure
