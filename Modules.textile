@@ -96,7 +96,7 @@ h3(#security). "OpenSSL / Crypto / Hashing":#security
 * "node-base64":http://github.com/brainfucker/node-base64 -- C++ base64 lib
 * "node.bcrypt.js":http://github.com/ncb000gt/node.bcrypt.js -- C/C++ bcrypt lib
 * "node-crypto":http://github.com/waveto/node-crypto -- OpenSSL based Hashing, Signing and Verifying
-* "node-oauth":http://github.com/ciaranj/node-oauth -- OAuth client
+* "node-oauth":http://github.com/ciaranj/node-oauth -- OAuth client (1 and 2)
 * "sasljs":http://github.com/nikhilm/sasljs -- "Gsasl":http://www.gnu.org/software/gsasl/ wrapper to performs server-side SASL authentication.
 
 h3(#tcp). "TCP / IP":#tcp
