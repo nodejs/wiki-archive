@@ -105,6 +105,8 @@ h2. UTC+0 (+1)
 ** "Website":http://barkingiguana.com/, "GitHub":http://github.com/craigw, "Twitter":http://twitter.com/craigwebster
 * Jon Paul Davies
 ** "Website":http://www.j-dee.com/, "GitHub":http://github.com/jonpauldavies, "Twitter":http://twitter.com/jonpauldavies
+* Simon Willison
+** "Website":http://simonwillison.net/, "GitHub":http://github.com/simonw, "Twitter":http://twitter.com/simonw
 
 h2. UTC+1 (+2)
 
