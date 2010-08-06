@@ -64,6 +64,9 @@ h2. UTC+0 (+1)
 * Andrew Johnston
 ** "Website":http://www.beardsoft.com/, "Github":http://github.com/billywhizz
 
+* Benedict Eastaugh (ionfish)
+** "Website":http://extralogical.net/, "GitHub":http://github.com/ionfish, "Twitter":http://twitter.com/extralogical
+
 h2. UTC+1 (+2)
 
 * Felix Geisendörfer (felixge)
