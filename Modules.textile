@@ -223,6 +223,7 @@ h3(#wrappers). "Wrappers":#wrappers
 * "bdog-gtk":http://github.com/blackdog66/bdog-gtk -- haXe wrappers for node and Gtk-Server
 * "bdog-pstore":http://github.com/blackdog66/bdog-pstore -- haXe object server using bdog-node and bdog-redis
 * "bdog-mongo":http://github.com/blackdog66/bdog-mongo -- haXe wrappers for native-mongo driver
+* "SQLiteHaxeWrapper":http://github.com/tommedema/NodeSQLiteHaxeWrapper -- haXe wrappers for Orlandov's SQLite high level driver
 
 
 
