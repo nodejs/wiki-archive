@@ -14,6 +14,8 @@ h2. UTC-8
 ** "GitHub":http://github.com/mikeal, "Twitter":http://twitter.com/mikeal, "Website":http://www.mikealrogers.com
 * Randall Leeds (tilgovi)
 ** "GitHub":http://github.com/tilgovi, "Twitter":http://twitter.com/tilgovi
+* Isaac Schlueter (isaacs)
+** "GitHub":http://github.com/isaacs, "Twitter":http://twitter.com/izs, "Website":http://blog.izs.me
 
 h2. UTC-7 (-6)
 * Michaeljohn Clement (inimino)
