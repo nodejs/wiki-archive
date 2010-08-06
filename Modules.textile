@@ -248,6 +248,7 @@ h3(#other). "Other":#other
 * "behaviors":http://github.com/caolan/behaviors -- A simple way to check a module's exports, useful for 3rd party plugins and extensions
 * "class.js":http://github.com/visionmedia/class.js -- High performance and lightweight class implementation (10-ish SLOC)
 * "cookie-node":http://github.com/jed/cookie-node/ -- signed cookie functionality for node.js
+* "node-cookiejar":http://github.com/bmeck/node-cookiejar -- repetitive use cookie jar construction / cookie functionality
 * "daemon.node":http://github.com/Slashed/daemon.node/ -- Unix/Linux Daemons with node.js
 * "dust":http://github.com/pasviegas/dust -- OO way to fill your database with not totally random content
 * "evented-twitter":http://github.com/polotek/evented-twitter -- asynchronous twitter client, supports streaming api
