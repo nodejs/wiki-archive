@@ -30,3 +30,4 @@ h2. Companies using node
 * "Telefónica R&D":http://tid.es
 * "MyBrands":http://www.mybrands.de -- web-tracker and product recommendations (node + couchdb)
 * "Deco":http://www.on-deco.com - Real-time collaborative mood boarding for web designers
+* "Joyent":http://www.joyent.com/
