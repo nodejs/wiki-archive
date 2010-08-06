@@ -8,6 +8,7 @@ h2. Node v0.1.33
 * "node-solr v0.0.3":http://github.com/gsf/node-solr/tree/v0.0.3
 * "nodeunit e44076f":http://github.com/caolan/nodeunit/tree/e44076f77101801ea72e78d41c4bfd09d8c5c621
 * "Socket.IO-node 0.2":http://github.com/RosePad/Socket.IO-node/tree/0.2
+* "node-mongodb-native 0.6.8":http://github.com/christkv/node-mongodb-native/tree/V0.6.8
 
 h2. Node v0.1.32
 
