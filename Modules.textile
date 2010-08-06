@@ -129,6 +129,7 @@ h3(#ws-ajax). "Web Sockets & Ajax":#ws-ajax
 * "node.websocket.js":http://github.com/Guille/node.websocket.js -- WebSocket-compatible server.
 * "node.ws.js":http://github.com/ncr/node.ws.js -- A basic Web Socket server with interface similar to tcp.createServer(...)
 * "nodejs-http-websocket":http://github.com/zimbatm/nodejs-http-websocket -- A websocket server on top of the http server.
+* "node-websocket-server":http://github.com/miksago/node-websocket-server -- Another websocket server on top of the http server.
 * "Restler":http://github.com/danwrong/restler -- Simplified REST client for Node.js
 
 h3(#testing). "Testing / Spec Frameworks":#testing
