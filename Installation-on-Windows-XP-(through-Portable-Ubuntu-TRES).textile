@@ -12,8 +12,7 @@ This is a step-by-step guide on installing node.js inside Windows XP through Por
 4. Open up *Terminal* from the *Applications/Accessories* menu and type:
 
 <pre>sudo gedit /etc/init.d/postmount_pubuntu.sh</pre>
-
-The sudo password is by default: *123456*
+The sudo password is by default: @123456@
 
 5. Replace line *52* with the following (this is to fix a nasty bug that freezes Portable Ubuntu TRES from booting a second time):
 
@@ -42,7 +41,9 @@ and you can go back to Windows and point your browser to http://127.0.0.1:8000 a
 
 ---
 
-??Extra:?? 
+??Extra Tips:?? 
 
-To share a folder between Windows and Portable Ubuntu edit *portable_ubuntu.conf* and around line *38*:
+* To share a folder between Windows and Portable Ubuntu edit *portable_ubuntu.conf* and around line *38*:
 <pre>shared_folder0=C:\your\folder</pre>and you should find it under the */media/* path in Ubuntu (always after restarting after editing the config file)
+
+* You should also *deactivate the screensaver* in Ubuntu by going to the *System/Preferences/ScreenSaver menu* because it might lock the menu and the windows you have opened with no way of gaining access again (another annoying bug).
