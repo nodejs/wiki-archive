@@ -349,6 +349,8 @@ h2. UTC+5
 ** "Twitter":http://twitter.com/nikhilcutshort, "Github":http://github.com/nikhilm/, "Bitbucket":http://bitbucket.org/nikhilm/
 * Shiv Shankar ( _sh ), India
 ** "Twitter":http://twitter.com/_shiv, "Github":http://github.com/shiv/, "Website":http://pietisticmonk.com/
+* Chandra Sekar (chandru_in)
+** "Twitter":http://twitter.com/tuxychandru, "Github":http://github.com/tuxychandru/, "Website":http://tuxychandru.blogspot.com/
 
 h2. UTC+6
 
