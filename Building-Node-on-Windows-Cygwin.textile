@@ -22,7 +22,7 @@ This is not an issue with node. You are using the Windows version of python in C
 
 h4. fatal error – unable to remap \\?\C:\cygwin\lib\python2.6\lib-dynload\time.dll to same address as parent: 0×360000 != 0×3E0000
 
-This is not an issue with node either. Install base → rebase, then run ‘rebaseall’; it will tell you what to do further.
+This is not an issue with node either; the problem is that your Cygwin installation is not in c:\cygwin. To resolve this issue, use the Cygwin installer to install -> rebase, then run ‘rebaseall’; it will tell you what to do further.
 
 h3. Know issues:
 
