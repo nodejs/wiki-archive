@@ -9,7 +9,7 @@ Complete projects that use node.
 * "node_chat":http://github.com/ry/node_chat by ry (live demo at <a href="http://chat.tinyclouds.org">chat.tinyclouds.org</a>)
 * "pubsub":http://www.nonblocking.io/2009/06/scalable-pubsub-with-nodejs.html -- by Malte Ubl
 * "frisbee":http://github.com/ujh/frisbee/tree/master -- A clone of the Disqus blog commenting system, by Urban Hafner
-* "hxV8":http://github.com/blackdog66/hxV8/tree/master -- the haXe &rarr; javascript compiler with modifications to use node I/O. by blackdog66
+* "hxNode":http://github.com/blackdog66/hxNode/tree/master -- haXe wrappers for node
 * "nodewiki":http://github.com/gjritter/nodewiki -- a simple wiki based on node and redis
 * "awesome":http://github.com/janl/awesome -- a Redis clone in node.js
 * "Sousaball":http://github.com/creationix/sousaball by creationix (<a href="http://sousaball.creationix.com">sousaball.creationix.com</a>)
