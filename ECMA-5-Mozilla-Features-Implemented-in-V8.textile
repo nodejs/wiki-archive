@@ -6,7 +6,7 @@ Note that V8 implements all of ECMA 3rd edition and parts of the new stuff in th
 
 h2. Syntax extensions
 
-* getter, setter syntax : var obj = { get a() { return "something" }, set a() { "do nothing" } }
+@getter, setter syntax : var obj = { get a() { return "something" }, set a() { "do nothing" } }@
 
 h2. Array
  * @isArray(array)@ - Returns true if the passed argument is an array.
