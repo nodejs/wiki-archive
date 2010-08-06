@@ -109,6 +109,8 @@ h2. UTC-5 (-4)
 ** "GitHub":http://github.com/bengl, "Twitter":http://twitter.com/bengl, "Website":http://bengl.net
 * Rob Righter (robrighter), Chattanooga, TN
 ** "GitHub":http://github.com/robrighter, "Twitter":http://twitter.com/robrighter, "Website":http://robrighter.com
+* Scott González (scott_gonzalez)
+** "GitHub":http://github.com/scottgonzalez, "Twitter":http://twitter.com/scott_gonzalez, "Website":http://nemikor.com
 
 h2. UTC-4 (-3)
 
