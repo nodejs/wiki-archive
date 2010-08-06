@@ -210,7 +210,7 @@ and on the remote machine:
 
 <pre>
 <code>
-RemoteMachine:$ node - debug-brk MyApp.js
+RemoteMachine:$ node --debug-brk MyApp.js
 </code>
 </pre>
 
