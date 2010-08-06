@@ -24,6 +24,8 @@ h2. UTC-8
 ** "Github":http://github.com/vitriolix, "Twitter":http://twitter.com/__iter__/, "Website":http://vitriolix.com
 * Orlando Vazquez (orlandov), Vancouver, BC, Canada
 ** "Github":http://github.com/orlandov, "Twitter":http://twitter.com/orlandov, "Website":http://2wycked.net
+* Drew Miller (xer0x), Vancouver, BC, Canada
+** "Github":http://github.com/xer0x, "Twitter":http://twitter.com/xer0x
 * Stephen Blum (stephenlb)
 ** "Github":http://github.com/stephenlb, "Twitter":http://twitter.com/stephenlb, "Website":http://nodejuice.com
 * TJ Holowaychuk (tjholowaychuk)
