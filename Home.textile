@@ -24,6 +24,7 @@ h2. Projects / Applications
 * "BusBound":http://www.busbound.com/ - iPhone web application built with express framework
 * "JSONPify":http://jsonpify.com/ - a JSONP proxy for client applications
 * "Djangode":http://github.com/simonw/djangode - Django’s regex-based URL handling, utility functions, and html templating for node
+* "The WPilot Project":http://jfd.github.com/wpilot/ - A multiplayer, space shooter, action game in your browser. Server is built in node
 
 h2. Articles
 * "pubsub":http://www.nonblocking.io/2009/06/scalable-pubsub-with-nodejs.html -- by Malte Ubl
