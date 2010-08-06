@@ -7,7 +7,7 @@ This is a step-by-step guide on installing node.js inside Windows XP through Por
 
 <pre>ports_to_redirect=tcp:8000:8000</pre>
 
-*3.* Run *pubuntu.exe*.
+*3.* Double-click to run *pubuntu.exe*.
 
 *4.* Open up *Terminal* from the *Applications/Accessories* menu and type:
 
