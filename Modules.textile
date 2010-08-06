@@ -13,6 +13,7 @@ h4(#web-frameworks-routers). "Routers":#web-frameworks-routers
 * "node.routes.js":http://github.com/defrex/node.routes.js/ -- A simple url router
 
 h4(#web-frameworks-static). "Static file servers":#web-frameworks-static
+* "antinode":http://github.com/mhansen/antinode -- A simple static web server
 * "node-paperboy":http://github.com/felixge/node-paperboy -- A node.js module for delivering static files
 * "oui":http://github.com/rsms/oui -- Web service server with great static files support
 
