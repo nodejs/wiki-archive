@@ -264,6 +264,8 @@ h2. UTC+1 (+2)
 ** "GitHub":http://github.com/herby, "Blog":http://blog.herby.sk/
 * Mathias Pettersson (mape), Sweden
 ** "Github":http://github.com/mape, "Twitter":http://twitter.com/mape
+* Tugdual de Kerviler (polo)
+** "Github":http://github.com/Tug
 
 h2. UTC+2 (+3)
 
