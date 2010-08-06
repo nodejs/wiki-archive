@@ -4,6 +4,7 @@ h2. Node v0.1.102
 * "gm v0.2.1":http://github.com/aheckmann/gm/tree/v0.2.1
 * "stencil v0.4":http://github.com/thetalecrafter/stencil/tree/v0.4
 * "Grasshopper v0.2.0":http://github.com/tuxychandru/grasshopper/tree/0.2.0
+* "nun v.0.1.11":http://github.com/akaspin/nun/tree/v0.1.11
 
 h2. Node v0.1.101
 * "node-amf @ f427338":http://github.com/timwhitlock/node-amf/tree/f427338da0d61f42fc207c71ab00837a98fe90e9
