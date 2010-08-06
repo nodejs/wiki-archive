@@ -76,7 +76,7 @@ h2. UTC-3 (-2)
 h2. UTC+0 (+1)
 
 * Jason Davies (jasondavies)
-** "Website":http://www.jasondavies.com/, "Twitter":http://twitter.com/jasondavies
+** "Website":http://www.jasondavies.com/, "Github":http://github.com/jasondavies, "Twitter":http://twitter.com/jasondavies
 * Andrew Johnston
 ** "Website":http://www.beardsoft.com/, "Github":http://github.com/billywhizz
 * Benedict Eastaugh (ionfish)
