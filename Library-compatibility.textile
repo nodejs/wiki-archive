@@ -2,7 +2,7 @@ Node is under heavy development and its API changes rapidly. Instead of simply a
 
 h2. Node v0.1.102
 * "gm v0.2.1":http://github.com/aheckmann/gm/tree/v0.2.1
-* "stencil v0.3":http://github.com/thetalecrafter/stencil/tree/v0.3
+* "stencil v0.4":http://github.com/thetalecrafter/stencil/tree/v0.4
 * "Grasshopper v0.2.0":http://github.com/tuxychandru/grasshopper/tree/0.2.0
 
 h2. Node v0.1.101
