@@ -2,12 +2,14 @@
 Node.js Community
 
 *Description:*
-Node.js is server side JavaScript runtime build on top of the V8 JavaScript engine. The project aims to simplify the writing of scalable networks programs by using an event loop rather than threads as an abstraction for concurrent operations.
+Node.js is a server side JavaScript runtime built on top of the V8 JavaScript engine. The project aims to simplify the writing of scalable networks programs by using evented I/O rather than threads as an abstraction for concurrent operations.
 
 Since the initial release (Feb 16th 2009), the project has:
 
     * Attracted a community of ~1000 users on the mailing list
     * Seen code contributions from over 50 individuals
+    * Embraced open standards like the CommonJS specification and JSGI, and worked with these communities to improve the overall
+server-side javascript scenario.
     * Received standing ovations at the JSConf.eu conference (2009)
     * Been deployed for comet applications used by millions of users (Plurk)
     * Favorably competed in benchmarks with similar technologies (EventMachine, Twisted, Tornado)
@@ -20,7 +22,11 @@ Since the initial release (Feb 16th 2009), the project has:
 MIT License
 
 *Why is your organization applying to participate in GSoC 2010? What do you hope to gain by participating? (needs long answer)*
-By participating in GSoC, we hope to increase node’s adoption beyond the early-adopter crowd it has reached so far.
+Node.js is at the cutting edge of the newer evented I/O systems. It takes a radical approach of bringing JavaScript to the server-side.
+By participating in GSoC we hope to attract more developers to this platform and improve the performance and stability of Node.js.
+By participating we hope to gain certain add on modules which will allow quicker development using the Node.js platform and get certain
+improvements into the node.js core, such as better DNS support.
+In addition we hope that this will raise the project's standing and make more people embrace it, rather than just the early-adopters.
 
 *Did your organization participate in past GSoCs? If so, please summarize your involvement and the successes and challenges of your participation.*
 (No previous participation)
@@ -50,21 +56,26 @@ By participating in GSoC, we hope to increase node’s adoption beyond the early
 
     * First Name
     * Last Name
-    * Country
     * Email
-    * (Mobile) Phone Number
+    * Location
+    * Phone
+    * IRC nick
+    * Short description of the project idea the student will work on.
+    * Motivation for working on this idea
+    * Implementation details - Description of how the student will attempt to implement the idea, and a rough timeline of the stages.
     * Language Skills (digital and human)
     * GitHub profile / Previous open source involvement
-    * Motivation to work on node
 
 *What criteria did you use to select the individuals who will act as mentors for your organization? Please be as specific as possible:*
 
     * Reliability: People who have shown their commitment to the project and who can realistically allocate the time necessary.
-    * C/C++ skils: Most tasks require good knowledge of those languages
+    * Core members: They are likely to want new features in the code, but may not have the time to implement it themselves. They would
+be willing to mentor students.
+    * C/C++ skills: Most tasks require good knowledge of those languages
 
 *What is your plan for dealing with disappearing students?*
 
-    * Selecting students unlikely to disappear
+    * Selecting students unlikely to disappear - based on their past open source work and their participation in the Node.js community leading upto GSoC
     * Regular follow ups between students and mentors
     * Required progress updates to the community by the students (eyes watching = motivation)
     * Connecting with students via phone
