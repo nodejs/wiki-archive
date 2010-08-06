@@ -124,6 +124,7 @@ h3(#testing). "Testing / Spec Frameworks":#testing
 * "exemplor.js":http://github.com/chrislloyd/exemplor.js -- A port of "exemplor":http://github.com/quackingduck/exemplor with Node goodness.
 * "jasmine-node":http://github.com/mhevery/jasmine-node -- integration with "Pivotal's Jasmine Spec":http://github.com/pivotal/jasmine framework
 * "jspec":http://github.com/visionmedia/jspec -- Feature Rich BDD Testing Framework
+* "minitest.js":http://github.com/botanicus/minitest.js -- Light-weight & simple testing framework designed specially for testing asynchronous code.
 * "mjsunit.runner":http://github.com/tmpvar/mjsunit.runner -- Command line mjsunit runner which provides an easy way to hook into mjsunit and start running tests immediately.
 * "node-assert-extras":http://gitorious.org/node-assert-extras -- Additional high level asserts
 * "node-async-testing":http://github.com/bentomas/node-async-testing -- Simple testing (hopefully)
@@ -158,6 +159,7 @@ h4(#parsers-other). "Other":#parsers-other
 * "node-htmlparser":http://github.com/tautologistics/node-htmlparser -- Forgiving HTML Parser in JS for both Node and Browsers
 
 h3(#debugging). "Debugging / Console Utilities":#debugging
+* "colours.js":http://github.com/botanicus/colours.js -- Give your CLI programs some colours!
 * "colored.js":http://github.com/chrislloyd/colored.js -- Colorize terminal output.
 * "consolelog.js":http://github.com/jazzychad/consolelog.node.js -- stylized console logging for node.js
 * "Eclipse debugger plugin":http://code.google.com/p/chromedevtools/ -- [[Using Eclipse as Node Applications Debugger]]
