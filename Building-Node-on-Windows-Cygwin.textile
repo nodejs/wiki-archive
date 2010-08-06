@@ -9,6 +9,11 @@ ii) Clone the repo
 iii) run configure in the node folder created above
  1) ./configure
 iv) run make
- v) run make test (This will fail a bit, need to faff with
-/etc/resolv.conf I think, and there are still some test failures in
-windows)
+ v) run make test (There will be some test failures in windows)
+
+h3. Know issues:
+
+- domain name resolution : Cygwin internally uses Windows for DNS queries. Node.js uses the c-ares library that relies on /etc/resolv.conf. Cygwin ships with an empty /etc/resolv.conf. In order to enabled networking add a domain name server to the file:
+
+@# add the IP of a valid name server@
+@nameserver 11.22.33.44@
