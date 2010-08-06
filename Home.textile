@@ -73,3 +73,4 @@ h2. Companies using node
 * "Ylastic":http://ylastic.com/ - uses node for report processing and admin app
 * "Pixelspark":http://www.pixelspark.nl/
 * "Newspaper Club":http://www.newspaperclub.co.uk - Uses node.js for wrapping a nasty SOAP interface to InDesign Server.
+* "NewsBasis":http://newsbasis.com (not yet launched) -- Web crawler and async work in node
