@@ -34,6 +34,7 @@ h2. Node v0.1.92
 * "node-xml @ 6d102a":http://github.com/robrighter/node-xml/tree/6d102a5b437a985ae6ac003d1afecca7b3d4b439
 * "node-mongodb-native V0.7.2":http://github.com/christkv/node-mongodb-native/tree/V0.7.2
 * "ndb v0.1.2":http://github.com/smtlaissezfaire/ndb/tree/0.1.2
+* "node-email v0.0.1":http://github.com/aheckmann/node-email/tree/v0.0.1
 
 h2. Node v0.1.91
 * "express v0.9.0":http://github.com/visionmedia/express/tree/0.9.0
