@@ -58,6 +58,8 @@ h2. UTC-8
 ** "GitHub":http://github.com/mranney, "Twitter":http://twitter.com/mranney
 * Aaron Blohowiak (aaronblohowiak)
 ** "GitHub":http://github.com/aaronblohowiak
+* Matthew lyon (mattly)
+** "GitHub":http://github.com/mattly "twitter":http://twitter.com/mattly
 
 h2. UTC-7 (-6)
 * Michaeljohn Clement (inimino)
