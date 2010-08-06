@@ -103,3 +103,8 @@ h2. UTC+10 (+1)
 
 * Gareth Jones, Melbourne, Australia
 ** "Twitter":http://twitter.com/nomiddlename, "Github":http://github.com/csausdev
+
+h2. UTC+12
+
+* Mark Hansen (mhansen)
+** "Github":http://github.com/mhansen, "Blog":http://markhansen.co.nz/
