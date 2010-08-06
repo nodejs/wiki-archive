@@ -113,6 +113,8 @@ h2. UTC+0 (+1)
 ** "Website":http://simonwillison.net/, "GitHub":http://github.com/simonw, "Twitter":http://twitter.com/simonw
 * Rhys Jones (rhys__)
 ** "Website":http://wave.to/, "GitHub":http://github.com/waveto, "Twitter":http://twitter.com/waveDOTto
+* Riccardo Cambiassi
+** "Website":http://codewitch.org/, "GitHub":http://github.com/bru, "Twitter":http://twitter.com/bru
 
 h2. UTC+1 (+2)
 
