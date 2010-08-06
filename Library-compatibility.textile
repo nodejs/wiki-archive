@@ -14,6 +14,7 @@ h2. Node v0.1.95
 * "redis-node-client v0.3.2":http://github.com/fictorial/redis-node-client/tree/v0.3.2
 * "node-gently @ 1bee9c":http://github.com/felixge/node-gently/tree/1bee9c29f252ea204d3d8743dc5d7dcc8ddb600b
 * "node-amqp v0.0.1":http://github.com/ry/node-amqp/tree/v0.0.1
+* "Socket.IO 0.3.2":http://github.com/LearnBoost/Socket.IO-node/tree/0.3.2
 
 h2. Node v0.1.94
 * "node-elf-logger v0.1":http://github.com/TooTallNate/node-elf-logger/tree/v0.1
