@@ -287,6 +287,7 @@ h3(#other). "Other":#other
 * "node-geoip":http://github.com/strange/node-geoip -- geoip city lookup module (uses libgeoip)
 * "node-github":http://github.com/ajaxorg/node-github -- A wrapper for the "GitHub API":http://develop.github.com/
 * "node-growl":http://github.com/visionmedia/node-growl -- unobtrusive notification system (growlnotify "bindings")
+* "node-logger":http://github.com/quirkey/node-logger -- Simple logging like Ruby's logger.rb and console.log
 * "node-maxmind":http://github.com/gyordanov/node-maxmind — maxmind/geoip module (using libgeoip)
 * "node_pcap":http://github.com/mranney/node_pcap -- Network packet capture and analysis using libpcap
 * "node-promise":http://github.com/kriszyp/node-promise -- Robust promises for node.js, includes promise utilities and promise-based I/O library
