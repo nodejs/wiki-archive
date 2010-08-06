@@ -49,7 +49,6 @@ h2. String.prototype
  * @trimLeft()@ - Trims whitespace from the left side of the string
 
 h1. Missing features
- * @Object.freeze(obj)@ - 
  * @Object.preventExtensions(obj)@ - 
  * @Object.isExtensible(obj)@ - 
  * @Object.defineProperty( obj, prop, desc )@
