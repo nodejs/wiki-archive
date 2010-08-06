@@ -16,6 +16,7 @@ h2. Projects / Applications
 h2. Articles
 * "pubsub":http://www.nonblocking.io/2009/06/scalable-pubsub-with-nodejs.html -- by Malte Ubl
 * "Going Evented with Node.js":http://www.nakedjavascript.com/going-evented-with-nodejs -- Naked JavaScript
+* "Node.js is genuinely exciting":http://simonwillison.net/2009/Nov/23/node/ -- by Simon Willison
 
 h2. Companies using node
 * "Fictorial":http://fictorial.com
