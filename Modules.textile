@@ -134,8 +134,9 @@ h3(#templating). "Templating":#templating
 * "node.magic_dom":http://github.com/amix/node.magic_dom -- A DSL for building HTML in node.js, similar to Python's Stan
 * "strobe-templates":http://github.com/skid/strobe-templates -- An asynchronous templating engine with syntax like Django's
 
-h3(#deployment-helpers). "Deployment Helpers":#deployment-helpers
-* "nodejs-autorestart":http://github.com/shimondoodkin/nodejs-autorestart -- run while true, watch all .js & restart on cahnge, easy development and stable production.
+h3(#build-and-deployment). "Build and Deployment":#build-and-deployment
+* "nodejs-autorestart":http://github.com/shimondoodkin/nodejs-autorestart -- run while true, watch all .js & restart on change, easy development and stable production.
+* "node-jake":http://github.com/mde/node-jake -- JavaScript build tool similar to Make or Rake.
 
 h3(#package-management). "Package Management Systems":#package-management
 * "kiwi":http://github.com/visionmedia/kiwi -- Feature rich, fast, node.js package management system -- server sponsored by Slicehost
