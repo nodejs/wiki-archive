@@ -4,6 +4,7 @@ h2. Node v0.1.97
 * "libxmljs v0.3.0":http://github.com/polotek/libxmljs/tree/0.3.0
 * "node-email v0.0.3":http://github.com/aheckmann/node-email/tree/v0.0.3
 * "node-snpp v0.1.1":http://github.com/jsanders/node-snpp/tree/v0.1.1
+* "nun v.0.1.9":http://github.com/akaspin/nun/tree/v0.1.9
 
 h2. Node v0.1.96
 * "commonjs-utils v0.1.0":http://github.com/kriszyp/commonjs-utils/tree/v0.1.0
