@@ -3,6 +3,7 @@ h1. Hosting compatible with Node
 h2. v0.1.92
 # http://webfaction.com
 # http://heroku.com/
+# http://elusivehippo.com/
 
 h2. v0.1.91
 # ???
