@@ -1,9 +1,9 @@
-
 This page lists ideas of a *possible* participation in "GSoC2010":http://socghop.appspot.com . At the moment this list is preliminary based on "discussions":http://groups.google.com/group/nodejs/browse_thread/thread/41fe0e268018133e/ on the node.js mailing list.
 
 h2. Core Node
 
 * Rewrite DNS module - use "c-ares":http://c-ares.haxx.se/ or "libunbound":http://unbound.net/ ? See "this":http://groups.google.com/group/nodejs/browse_thread/thread/b49eeba96bfd4b4
+* Port to windows.
 
 h2. Web
 
