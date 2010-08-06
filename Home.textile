@@ -57,3 +57,4 @@ h2. Companies using node
 * "Academia.edu":http://www.academia.edu/ - uses node for background data processing
 * "Ylastic":http://ylastic.com/ - uses node for report processing and admin app
 * "Next Please!":http://nextplea.se - uses node to match "Adobe Stratus":http://labs.adobe.com/technologies/stratus/ id's.
+* "Datagraph":http://datagraph.org/ - uses node as part of a sharded large-scale RDF storage system.
