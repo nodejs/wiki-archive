@@ -21,6 +21,8 @@ h2. Projects / Applications
 * "7 Minutes Chrono":http://www.7minuteschrono.com - A speed-dating chat application. Uses websockets and node.js
 * "Persevere":http://www.persvr.org/ - REST/HTTP + JSON-based web data project that includes "Pintura":http://github.com/kriszyp/pintura, "Perstore":http://github.com/kriszyp/perstore, "CommonJS-Utils":http://github.com/kriszyp/commonjs-utils
 * "js.io":http://github.com/mcarter/js.io -- Javascript Networking Library for building real-time web applications
+* "BusBound":http://www.busbound.com/ - iPhone web application built with express framework
+* "JSONPify":http://jsonpify.com/ - a JSONP proxy for client applications
 
 h2. Articles
 * "pubsub":http://www.nonblocking.io/2009/06/scalable-pubsub-with-nodejs.html -- by Malte Ubl
@@ -49,5 +51,3 @@ h2. Companies using node
 * "Medium":http://thisismedium.com
 * "e-resistible":http://www.e-resistible.co.uk - uses node to handle network communication to restaurant printers
 * "Academia.edu":http://www.academia.edu/ - uses node for background data processing
-* "BusBound":http://www.busbound.com/ - iPhone web application built with express framework
-* "JSONPify":http://jsonpify.com/ - a JSONP proxy for client applications
