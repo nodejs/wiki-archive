@@ -28,6 +28,8 @@ h2. UTC-8
 ** "Github":http://github.com/orlandov, "Twitter":http://twitter.com/orlandov, "Website":http://2wycked.net
 * Stephen Blum (stephenlb)
 ** "Github":http://github.com/stephenlb, "Twitter":http://twitter.com/stephenlb, "Website":http://nodejuice.com
+* Emilio Cavazos
+** "Github":http://github.com/ecavazos, "Twitter":http://twitter.com/ecni, "Website":http://iamneato.com
 
 h2. UTC-7 (-6)
 * Michaeljohn Clement (inimino)
