@@ -66,6 +66,8 @@ h2. UTC-5 (-4)
 ** "Twitter":http://twitter.com/tmpvar, "Github":http://github.com/tmpvar
 * Kyle Slattery
 ** "Twitter":http://twitter.com/kyleslattery, "Github":http://github.com/kyleslattery/, "Website":http://kyleslattery.com
+* Adam Solove
+** "Twitter":http://www.twitter.com/asolove, "Github":http://github.com/asolove, "Web app":http://www.on-deco.com
 
 h2. UTC-4 (-3)
 
