@@ -171,6 +171,7 @@ h3(#other). "Other":#other
 * "node-maxmind":http://github.com/gyordanov/node-maxmind — maxmind/geoip module (using libgeoip)
 * "node-sandbox":http://github.com/gf3/node-sandbox -- A rudimentary javascript sandbox for use with node.js
 * "node-promise":http://github.com/kriszyp/node-promise -- Robust promises for node.js, includes promise utilities and promise-based I/O library
+* "node-yql":http://github.com/drgath/node-yql -- A YQL (Yahoo Query Language) module for Node.js
 
 h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":#commonjs-compat
 
