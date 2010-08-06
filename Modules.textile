@@ -46,6 +46,7 @@ h3(#database). "Database":#database
 * "cradle":http://github.com/cloudhead/cradle -- a high-level, caching, CouchDB client
 * "node-couch":http://github.com/sixtus/node-couch/tree/master -- a CouchDB connector
 * "node-couchdb":http://github.com/felixge/node-couchdb -- A full API implementation
+* "node-couchdb-min":http://github.com/rsms/node-couchdb-min -- Light-weight client with low level of abstraction and connection pooling.
 * "node-dirty":http://github.com/felixge/node-dirty -- A key value store for node.js that is simple, fast & dirty.
 * "node-fleet":http://github.com/jfd/node-fleet -- a FleetDB Client
 * "node-memcache":http://github.com/vanillahsu/node-memcache -- a memcache client base on libmemcached
