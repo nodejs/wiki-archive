@@ -8,6 +8,7 @@ h2. Node v0.1.95
 * "nun v.0.1.4":http://github.com/akaspin/nun/tree/v0.1.4
 * "node-poormansmysql v0.1":http://github.com/mscdex/node-poormansmysql/tree/v0.1
 * "node-ncurses @ fd6e10a":http://github.com/mscdex/node-ncurses/tree/fd6e10ad55f030521409013d6f7fb8e770404cd7
+* "jm":http://github.com/smtlaissezfaire/jm/tree/0.1.1
 
 h2. Node v0.1.94
 * "node-elf-logger v0.1":http://github.com/TooTallNate/node-elf-logger/tree/v0.1
