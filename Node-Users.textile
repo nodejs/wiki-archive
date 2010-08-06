@@ -119,7 +119,7 @@ h2. UTC+2 (+3)
 ** "Blog":http://boo.openbdsm.org/, "Twitter":http://twitter.com/BooBSD
 
 * Serge Shirokov (Kuroki Kaze), Russia
-** "Blog":http://kuroikaze85.wordpress.com/, "Twitter":http://twitter.com/kurokikaze
+** "Github":http://github.com/kurokikaze, "Blog":http://kuroikaze85.wordpress.com/, "Twitter":http://twitter.com/kurokikaze
 
 
 h2. UTC+5
