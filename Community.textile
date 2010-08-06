@@ -12,6 +12,7 @@ h1. Blogs and tutorials
 | "Ryah's Blog":http://four.livejournal.com/ | Ryah's blog |
 | "How To Node":http://howtonode.org/| Tutorials related to node|
 | "Boldr":http://boldr.net/| Some articles on node.js|
+| "Setting up with Apache and Supervisord":http://bigbangtechnology.com/preview/installation_configuration_deployment_node.js_applications_on_media_temple| Easy deployment |
 
 h1. Localized sites
 
