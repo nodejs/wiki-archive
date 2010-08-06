@@ -78,6 +78,8 @@ h2. UTC-8
 ** "Github":http://github.com/thegoleffect, "Twitter":http://twitter.com/thegoleffect
 * Rob Slifka (rslifka), San Francisco, CA, US
 ** "Github":http://github.com/rslifka, "Twitter":http://twitter.com/robslifka, "Website":http://www.allaboutbalance.com
+* Saikat Chakrabarti (saikat), San Francisco, CA, US
+** "Github":http://github.com/saikat, "Twitter":http://twitter.com/saikatc, "Website":http://gomockingbird.com
 
 h2. UTC-7 (-6)
 * Michaeljohn Clement (inimino)
