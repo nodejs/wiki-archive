@@ -6,10 +6,10 @@ h2. Readable Stream
 * event: @'end'@ (received EOF or FIN)
 * event: @'close'@ (called when file descriptor is closed and no more events will be emitted)
 * event: @'error'@ (emitted with exception object - does not close stream)
-* method: @pause()@
-* method: @resume()@
+* method: @pause()@   (suggestion @stopRead()@)
+* method: @resume()@ (suggestion @startRead()@)
 * member: @readable@, boolean
-* method: @forceClose()@ (close the underlying file descriptor)
+* method: @forceClose()@ (close the underlying file descriptor) (suggestion @close()@)
 
 Examples of readable streams (some of these don't exist yet): server-side HTTP request, client-side HTTP response, @process.stdin@, @childProcess.stdout@, @childProcess.stderr@
 
