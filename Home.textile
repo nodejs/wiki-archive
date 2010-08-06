@@ -38,6 +38,7 @@ CommonJS compatible modules that can be used with node.
 * "haml-js":http://github.com/creationix/haml-js -- Server side html generation using javascript.  Parses haml templates and renders html.
 * "match-js":http://github.com/jfd/match-js -- Simple pattern matching (functional style) in JS.
 * "datatypes-js":http://github.com/jfd/datatypes-js -- Byte encoding/decoding for typical datatypes in JS.
+* "qxoo":http://github.com/fjakobs/qxoo -- port of the qooxdoo OO system to commonJS
 
 h2. Projects using node
 
