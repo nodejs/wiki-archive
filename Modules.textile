@@ -224,6 +224,7 @@ h3(#other). "Other":#other
 * "node-discount":http://github.com/visionmedia/node-discount -- C markdown parser "discount" bindings
 * "monit":http://github.com/visionmedia/monit.js -- Process monitoring system
 * "node-amqp":http://github.com/xaviershay/node-amqp -- Basic AMQP client
+* "node-asterisk":http://github.com/mscdex/node-asterisk -- Listen to events in realtime and issue commands on Asterisk servers
 * "node-bittorrent":http://github.com/WizKid/node-bittorrent -- A library for handling the bittorrent protocol
 * "node-chat":http://github.com/scottgonzalez/node-chat -- A simple web-based chat server
 * "node-continuables":http://github.com/bentomas/node-continuables -- A library making dealing with asynchronous code easier
