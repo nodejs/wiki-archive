@@ -104,7 +104,6 @@ h3(#ws-ajax). "Web Sockets & Ajax":#ws-ajax
 * "Restler":http://github.com/danwrong/restler -- Simplified REST client for Node.js
 
 h3(#testing). "Testing / Spec Frameworks":#testing
-* "brevity.test":http://github.com/brevity/test -- JavaScript unit testing framework.
 * "espionage":http://github.com/smtlaissezfaire/espionage -- A mock/stub framework using the test spy pattern.
 * "exemplor.js":http://github.com/chrislloyd/exemplor.js -- A port of "exemplor":http://github.com/quackingduck/exemplor with Node goodness.
 * "jspec":http://github.com/visionmedia/jspec -- Feature Rich BDD Testing Framework
