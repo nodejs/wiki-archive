@@ -1,3 +1,17 @@
+h3(#web-frameworks). "Web frameworks":#web-frameworks
+* "express":http://github.com/visionmedia/express/tree/master -- A robust feature rich web development framework inspired by Sinatra
+* "coltrane":http://github.com/ujh/coltrane/tree/master -- A try at a higher level library/framework for node.js web development
+* "vroom":http://github.com/raycmorgan/vroom/tree/master -- A simple resource oriented web framework built on top of Node.js
+* "node-router":http://github.com/creationix/node-router -- Simple Sinatra-like http server based on fu.js from the original node-chat demo.
+* "simplex":http://github.com/mshakhan/simplex 
+* "(fab)":http://github.com/jed/fab -- A chained DSL for building node.js apps
+* "Picard":http://github.com/dantebronto/picard
+* "Nerve":http://github.com/gjritter/nerve -- Microframework with simple array-based syntax for defining an app on top of node.
+* "querystring.node.js":http://github.com/jazzychad/querystring.node.js -- Robust query string parsing for node.
+* "nodemachine":http://github.com/tautologistics/nodemachine -- A port of WebMachine to Node.js
+* "chain":http://github.com/hassox/chain/ -- An evented convention for building Node Applications
+* "oui":http://github.com/rsms/oui -- Web service server with great static files support
+
 h3(#database). "Database":#database
 * "redis-node-client":http://github.com/fictorial/redis-node-client/tree/master -- by Fictorial
 * "node-couch":http://github.com/sixtus/node-couch/tree/master -- a CouchDB connector
@@ -63,20 +77,6 @@ h3(#debugging). "Debugging / Console Utilities":#debugging
 * "node_debug":http://github.com/Connorhd/node_debug/tree/master -- HTTP based console and object explorer
 * "consolelog.js":http://github.com/jazzychad/consolelog.node.js -- stylized console logging for node.js
 * "log4js-node":http://github.com/csausdev/log4js-node -- a port of log4js framework for node.js
-
-h3(#web-frameworks). "Web frameworks":#web-frameworks
-* "express":http://github.com/visionmedia/express/tree/master -- A robust feature rich web development framework inspired by Sinatra
-* "coltrane":http://github.com/ujh/coltrane/tree/master -- A try at a higher level library/framework for node.js web development
-* "vroom":http://github.com/raycmorgan/vroom/tree/master -- A simple resource oriented web framework built on top of Node.js
-* "node-router":http://github.com/creationix/node-router -- Simple Sinatra-like http server based on fu.js from the original node-chat demo.
-* "simplex":http://github.com/mshakhan/simplex 
-* "(fab)":http://github.com/jed/fab -- A chained DSL for building node.js apps
-* "Picard":http://github.com/dantebronto/picard
-* "Nerve":http://github.com/gjritter/nerve -- Microframework with simple array-based syntax for defining an app on top of node.
-* "querystring.node.js":http://github.com/jazzychad/querystring.node.js -- Robust query string parsing for node.
-* "nodemachine":http://github.com/tautologistics/nodemachine -- A port of WebMachine to Node.js
-* "chain":http://github.com/hassox/chain/ -- An evented convention for building Node Applications
-* "oui":http://github.com/rsms/oui -- Web service server with great static files support
 
 h3(#other). "Other":#other
 * "node.routes.js":http://github.com/defrex/node.routes.js/ -- A simple url router
