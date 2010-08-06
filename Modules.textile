@@ -46,13 +46,14 @@ h3(#database). "Database":#database
 * "node_postgres":http://github.com/ry/node_postgres -- Beginning of bindings to libpg
 * "node.dbslayer.js":http://github.com/Guille/node.dbslayer.js/ - Interface to DBSlayer (MySQL)
 * "node-fleet":http://github.com/jfd/node-fleet -- a FleetDB Client
-* "node-mongodb":http://github.com/orlandov/node-mongodb -- Async interface to MongoDBm
-* "node-mongodb-native":http://github.com/christkv/node-mongodb-native -- A pure javascript driver for MongoDBm
+* "node-mongodb":http://github.com/orlandov/node-mongodb -- Basic MongoDB client implementation in JS/C++
+* "node-mongodb-native":http://github.com/christkv/node-mongodb-native -- A pure javascript driver for MongoDB
 * "node-dirty":http://github.com/felixge/node-dirty -- A key value store for node.js that is simple, fast & dirty.
 * "node-sqlite":http://github.com/grumdrig/node-sqlite -- Bindings for SQLite3. Interface conforms to the "HTML5 Web SQL API":http://dev.w3.org/html5/webdatabase/#sql.
 * "node-memcache":http://github.com/vanillahsu/node-memcache -- a memcache client base on libmemcached
 * "awesome":http://github.com/janl/awesome -- a Redis clone in node.js
 * "perstore":http://github.com/kriszyp/perstore -- JavaScript persistence/object store with pluggable storage based on the "W3C DB API":http://www.w3.org/TR/IndexedDB/
+* "node-riak":http://github.com/orlandov/node-riak -- Riak client library
 
 h3(#templating). "Templating":#templating
 * "sass.js":http://github.com/visionmedia/sass.js -- Parses Sass templates and renders css.
