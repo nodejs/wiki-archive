@@ -292,6 +292,8 @@ h2. UTC+1 (+2)
 ** "GitHub":http://github.com/amix, "Blog":http://amix.dk/
 * Thomas Bonk
 ** "Github":http://github.com/tbo
+* Alberto de Luis
+** "Github":http://github.com/aldeluis
 
 h2. UTC+2 (+3)
 
