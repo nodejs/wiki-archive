@@ -42,3 +42,4 @@ h2. Companies using node
 * "Joyent":http://www.joyent.com/
 * "SitePen":http://www.sitepen.com/
 * Feisty Studios
+* "Medium":http://thisismedium.com
