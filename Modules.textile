@@ -185,6 +185,7 @@ h4(#parsers-other). "Other":#parsers-other
 * "yajl-js":http://bitbucket.org/nikhilm/yajl-js -- SAX-like evented JSON parsing using "yajl":http://lloyd.github.com/yajl
 * "node-htmlparser":http://github.com/tautologistics/node-htmlparser -- Forgiving HTML Parser in JS for both Node and Browsers
 * "node-useragent":http://github.com/3rd-Eden/node-useragent -- User agent string parser with accurate browser versioning and grouping
+* "node-jspack":http://github.com/pgriess/node-jspack -- JavaScript library to pack ints, floats, etc. to octet arrays representing C data structures.
 
 h3(#debugging). "Debugging / Console Utilities":#debugging
 * "colours.js":http://github.com/botanicus/colours.js -- Give your CLI programs some colours!
