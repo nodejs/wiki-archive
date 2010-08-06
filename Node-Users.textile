@@ -46,7 +46,7 @@ h2. UTC-8
 ** "GitHub":http://github.com/hober, "Twitter":http://twitter.com/hober, "Website":http://edward.oconnor.cx/
 * R. S. Doiel (rsdoiel), Los Angeles, CA, US
 ** "GitHub":http://github.com/rsdoiel, "Twitter":http://twitter.com/rsdoiel, "Website":http://phizcode.blogspot.com
-* Schell Scivally (efnx)
+* Schell Scivally (efnx), Santa Rosa, CA, US
 ** "GitHub":http://github.com/efnx, "Website":http://blog.efnx.com
 * Ben Lund
 ** "GitHub":http://github.com/benlund, "Website":http://team.academia.edu/BenLund
@@ -180,8 +180,6 @@ h2. UTC+1 (+2)
 ** "Github":http://github.com/rsms, "Twitter":http://twitter.com/rsms, "Website":http://hunch.se/
 * Friedemann Altrock (fwg)
 ** "Github":http://github.com/fwg, "Twitter":http://twitter.com/fwg
-* Jacek Becela (ncr)
-** "Github":http://github.com/ncr, "Twitter":http://twitter.com/jacek_becela
 
 h2. UTC+2 (+3)
 
