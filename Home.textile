@@ -36,3 +36,4 @@ h2. Companies using node
 * "MyBrands":http://www.mybrands.de -- web-tracker and product recommendations (node + couchdb)
 * "Deco":http://www.on-deco.com - Real-time collaborative mood boarding for web designers
 * "Joyent":http://www.joyent.com/
+* "7 Minutes Chrono":http://www.7minuteschrono.com - A speed-dating chat application. Uses websockets and node.js
