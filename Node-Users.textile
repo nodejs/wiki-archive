@@ -24,6 +24,8 @@ h2. UTC-8
 ** "Github":http://github.com/vitriolix, "Twitter":http://twitter.com/__iter__/, "Website":http://vitriolix.com
 * Orlando Vazquez (orlandov)
 ** "Github":http://github.com/orlandov, "Twitter":http://twitter.com/orlandov, "Website":http://2wycked.net
+* Stephen Blum (stephenlb)
+** "Github":http://github.com/stephenlb, "Twitter":http://twitter.com/stephenlb, "Website":http://nodejuice.com
 
 h2. UTC-7 (-6)
 * Michaeljohn Clement (inimino)
