@@ -185,6 +185,10 @@ h2. UTC+5
 * Shiv Shankar ( _sh ), India
 ** "Twitter":http://twitter.com/_shiv, "Github":http://github.com/shiv/, "Website":http://pietisticmonk.com/
 
+h2. UTC+7
+* Nugroho Herucahyono(xinuc), Indonesia
+** "Twitter":http://twitter.com/xinuc, "Github":http://github.com/xinuc/, "Website":http://xinuc.org/
+
 h2. UTC+8
 * Vanilla Hsu(vanillahsu),Taiwan
 ** "Github":http://github.com/vanillahsu/
