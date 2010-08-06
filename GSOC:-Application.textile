@@ -63,7 +63,7 @@ Node is a young and active project. There are several large, independent tasks t
 
 *What criteria did you use to select the individuals who will act as mentors for your organization? Please be as specific as possible:*
 
-At least, Ryan, the creator of Node, has permission from his employeer to dedicate time to mentoring students. Other mentors are be chosen for
+At least, Ryan, the creator of Node, has permission from his employer to dedicate time to mentoring students. Other mentors will be chosen for:
     * Reliability and commitment: People who have shown their commitment to the project and who can realistically allocate the time necessary.
     * Expertise in the area that the student's project is concerned with.
 
