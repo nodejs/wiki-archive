@@ -16,5 +16,7 @@ h2. UTC+1 (+2)
 
 * Felix Geisendörfer (felixge)
 ** "Blog":http://debuggable.com/blog, "Twitter":http://twitter.com/felixge
+* Nicolas Mérouze (nmerouze)
+** "Blog":http://www.boldr.net/, "Twitter":http://twitter.com/nmerouze
 * Michael Borejdo (mediacoder)
 ** "Website":http://www.mediacoders.de/, "Twitter":http://twitter.com/mediacoder
