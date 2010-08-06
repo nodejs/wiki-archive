@@ -46,6 +46,7 @@ h2. Companies using node
 * "BrandedCode":http://brandedcode.com
 * "Datagraph":http://datagraph.org/ - uses node as part of a sharded large-scale RDF storage system.
 * "Debuggable":http://debuggable.com/ -- using node.js for "TransloadIt's":http://transloadit.com/ file uploading & encoding server
+* "Dextrose":http://dextrose.com/ -- heavily uses node for their upcoming JavaScript based game engine "Aves Engine"
 * "Deco":http://www.on-deco.com - Real-time collaborative mood boarding for web designers
 * "e-resistible":http://www.e-resistible.co.uk - uses node to handle network communication to restaurant printers
 * Feisty Studios
