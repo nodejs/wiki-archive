@@ -44,6 +44,8 @@ h2. UTC-8
 ** "GitHub":http://github.com/davglass, "Twitter":http://twitter.com/davglass, "Website":http://blog.davglass.com
 * Edward O'Connor (hober), San Diego, CA, US
 ** "GitHub":http://github.com/hober, "Twitter":http://twitter.com/hober, "Website":http://edward.oconnor.cx/
+* R. S. Doiel (rsdoiel), Los Angeles, CA, US
+** "GitHub":http://github.com/rsdoiel, "Twitter":http://twitter.com/rsdoiel, "Website":http://phizcode.blogspot.com
 
 h2. UTC-7 (-6)
 * Michaeljohn Clement (inimino)
