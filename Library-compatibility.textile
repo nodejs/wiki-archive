@@ -2,6 +2,7 @@ Node is under heavy development and its API changes rapidly. Instead of simply a
 
 h2. Node v0.1.102
 * "gm v0.1.1":http://github.com/aheckmann/gm/tree/v0.1.1
+* "stencil v0.3":http://github.com/thetalecrafter/stencil/tree/v0.3
 
 h2. Node v0.1.101
 * "node-amf @ f427338":http://github.com/timwhitlock/node-amf/tree/f427338da0d61f42fc207c71ab00837a98fe90e9
