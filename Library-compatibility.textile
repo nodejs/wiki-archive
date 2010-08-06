@@ -8,6 +8,7 @@ h2. Node v0.1.94
 * "node-websocket v0.0.1":http://github.com/tristandunn/node-websocket/tree/v0.0.1
 * "ndb v0.1.2":http://github.com/smtlaissezfaire/ndb/tree/0.1.2
 * "node-email v0.0.3":http://github.com/aheckmann/node-email/tree/v0.0.3
+* "Socket.IO 0.3.2":http://github.com/LearnBoost/Socket.IO-node/tree/0.3.2
 
 h2. Node v0.1.93
 * "Socket.IO 0.3.1":http://github.com/LearnBoost/Socket.IO-node/tree/0.3.1
