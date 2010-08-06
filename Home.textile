@@ -11,6 +11,7 @@ h2. Projects using node
 * "coltrane":http://github.com/ujh/coltrane/tree/master -- A try at a higher level library/framework for node.js web development
 * "vroom":http://github.com/raycmorgan/vroom/tree/master -- A simple resource oriented web framework built on top of Node.js
 * "postgres-js":http://github.com/creationix/postgres-js/tree/master -- Postgres protocol implemented in JS
+* "optparse-js":http://github.com/jfd/optparse-js/tree/master -- Option Parser in JS
 * ...
 
 h2. Companies using node
