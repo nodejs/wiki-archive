@@ -223,6 +223,7 @@ h3(#other). "Other":#other
 * "node-sandbox":http://github.com/gf3/node-sandbox -- A rudimentary javascript sandbox for use with node.js
 * "node-s3":http://github.com/grippy/node-s3 -- App for basic Amazon Web Services S3 administration (upload files, bucket admin, etc.)
 * "node-solr":http://github.com/gsf/node-solr -- Solr module for Node
+* "nodestalker":http://github.com/pascalopitz/nodestalker -- A beanstalkd client for node
 * "node-stomp":http://github.com/kates/node-stomp -- A basic STOMP client.
 * "node-taglib":http://github.com/nikhilm/node-taglib -- Beginnings of bindings to "taglib":http://developer.kde.org/~wheeler/taglib
 * "node-ugly":http://github.com/felixge/node-ugly -- Allows to run PHP code from within node.js
