@@ -98,7 +98,7 @@ then debugger screen after session is connected would look like this:
 
 !http://imgur.com/6sAJP.png!
 
-As it was mentioned before avoid stepping over or into require() calls, so the first safe place to stop is at line 4.
+As it was mentioned before, avoid stepping over or into require() calls, so the first safe place to stop is at line 4.
 If you set breakpoint there and resume execution by  clicking "Play" button, the execution will stop at line 6, most likely due to JIT interaction.
 
 You probably noticed that Eclipse V8 debugger can not connect to the remote host. This feature request s already pending as low priority item. However it is very easy to use simple transparent TCP proxy script to enable your development machine to debug your application directly on the deployment or test server:
