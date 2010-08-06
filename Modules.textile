@@ -114,6 +114,7 @@ h3(#database). "Database":#database
 * "perstore":http://github.com/kriszyp/perstore -- JavaScript persistence/object store with pluggable storage based on the "W3C DB API":http://www.w3.org/TR/IndexedDB/
 * "postgres-js":http://github.com/creationix/postgres-js/tree/master -- Postgres protocol implemented in pure JS
 * "redis-node-client":http://github.com/fictorial/redis-node-client/tree/master -- Redis Client by Fictorial
+* "nohm":http://github.com/maritz/nohm -- Redis object relational mapper (ORM)
 * "riak-js":http://github.com/frank06/riak-js -- Riak Javascript client (works on node v0.1.30+)
 * "node-tokyocabinet":http://github.com/edvakf/node-tokyocabinet -- Tokyo Cabinet binding
 * "node-migrate":http://github.com/rsandor/node-migrate -- Migrate - A database agnostic migration system for Node.js
