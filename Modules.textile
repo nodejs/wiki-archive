@@ -4,7 +4,7 @@ h3(#web-frameworks). "Web frameworks":#web-frameworks
 * "vroom":http://github.com/raycmorgan/vroom/tree/master -- A simple resource oriented web framework built on top of Node.js
 * "node-router":http://github.com/creationix/node-router -- Simple Sinatra-like http server based on fu.js from the original node-chat demo.
 * "simplex":http://github.com/mshakhan/simplex 
-* "(fab)":http://github.com/jed/fab -- A pure javascript DSL for building async web apps
+* "(fab)":http://www.fabjs.org -- A pure javascript DSL for building async web apps
 * "Picard":http://github.com/dantebronto/picard
 * "Nerve":http://github.com/gjritter/nerve -- Microframework with simple array-based syntax for defining an app on top of node.
 * "querystring.node.js":http://github.com/jazzychad/querystring.node.js -- Robust query string parsing for node.
