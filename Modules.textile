@@ -73,7 +73,7 @@ h3(#templating). "Templating":#templating
 * "tmpl-node":http://github.com/jed/tmpl-node -- a feature-rich template module for node.js
 
 h3(#package-management). "Package Management Systems":#package-management
-* "kiwi":http://github.com/visionmedia/kiwi -- Feature rich, fast, bash based package management
+* "kiwi":http://github.com/visionmedia/kiwi -- Feature rich, fast, node.js package management system -- server sponsored by Slicehost
 * "npm":http://github.com/isaacs/npm -- A node package manager that uses CommonJS-compatible package.json files, written in asynchronous javascript.
 
 h3(#security). "OpenSSL / Crypto / Hashing":#security
