@@ -20,6 +20,10 @@ h4. C:\Program Files\Python27\python.exe: can't open file '/cygdrive/c/node/tool
 
 This is not an issue with node. You are using the Windows version of python in Cygwin (and it doesn't know how to process Cygwin style pathnames). You need to remove the Windows version (or make sure is not in the path) and install the Cygwin version of python.
 
+h4. fatal error – unable to remap \\?\C:\cygwin\lib\python2.6\lib-dynload\time.dll to same address as parent: 0×360000 != 0×3E0000
+
+This is not an issue with node either. Install base → rebase, then run ‘rebaseall’; it will tell you what to do further.
+
 h3. Know issues:
 
 h4. domain name resolution
@@ -32,3 +36,5 @@ nameserver 8.8.8.8
 h3. Help! I've done EVERYTHING above and I'm still having trouble!
 
 If you've tried all of the above steps, and you still need some help, pop into the "#node.js chat channel":http://webchat.freenode.net?channels=node.js on irc.freenode.net.
+
+
