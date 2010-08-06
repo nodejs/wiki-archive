@@ -167,6 +167,7 @@ h3(#other). "Other":#other
 * "node-bittorrent":http://github.com/WizKid/node-bittorrent -- A library for handling the bittorrent protocol
 * "node-continuables":http://github.com/bentomas/node-continuables -- A library making dealing with asynchronous code easier
 * "node-flickr":http://github.com/edds/node-flickr -- A simple library to enable easy use of the flickr api
+* "node-geoip":http://github.com/strange/node-geoip -- geoip city lookup module (uses libgeoip)
 * "node-maxmind":http://github.com/gyordanov/node-maxmind — maxmind/geoip module (using libgeoip)
 * "node-promise":http://github.com/kriszyp/node-promise -- Robust promises for node.js, includes promise utilities and promise-based I/O library
 * "node-sandbox":http://github.com/gf3/node-sandbox -- A rudimentary javascript sandbox for use with node.js
