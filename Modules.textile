@@ -334,6 +334,7 @@ h3(#other). "Other":#other
 * "swirl-node":http://github.com/bmizerany/swirl-node -- A simple EC2 client
 * "node-hoptoad-notifier":http://github.com/tristandunn/node-hoptoad-notifier -- Report exceptions to "Hoptoad":http://hoptoadapp.com.
 * "html filtre":http://github.com/yikulju/HtmlFiltre - A proxy that filters Html requests and give you an opportunity to add custom content into the response
+* "pokenode":http://www.youtube.com/watch?v=qvy0mPt6Vzo - A push notification utility to make HTML/CSS development faster.
 
 
 h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":#commonjs-compat
