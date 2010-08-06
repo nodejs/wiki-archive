@@ -26,7 +26,7 @@ h3. Other
 * "trollopjs":http://github.com/bentomas/trollopjs -- Another option parser
 * "libxmljs":http://github.com/sprsquish/libxmljs -- Beginning of bindings to libxml2
 * "spectacular":http://github.com/jcrosby/spectacular -- for testing
-* "jspec":http://github.com/visionmedia/jspec -- for testing
+* "jspec":http://github.com/visionmedia/jspec -- Feature Rich BDD Testing Framework
 * "node_debug":http://github.com/Connorhd/node_debug/tree/master -- HTTP based console and object explorer
 * "node package manager":http://github.com/isaacs/npm
 * "node-XMLHttpRequest":http://github.com/driverdan/node-XMLHttpRequest
