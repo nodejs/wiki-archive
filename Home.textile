@@ -20,6 +20,7 @@ h2. Projects / Applications
 * "Ajax IM":http://github.com/endtwist/AjaxIM -- Ajax IM is an instant messaging server and framework for the browser.
 * "7 Minutes Chrono":http://www.7minuteschrono.com - A speed-dating chat application. Uses websockets and node.js
 * "Persevere":http://www.persvr.org/ - REST/HTTP + JSON-based web data project that includes "Pintura":http://github.com/kriszyp/pintura, "Perstore":http://github.com/kriszyp/perstore, "CommonJS-Utils":http://github.com/kriszyp/commonjs-utils
+* "js.io":http://github.com/mcarter/js.io -- Javascript Networking Library for building real-time web applications
 
 h2. Articles
 * "pubsub":http://www.nonblocking.io/2009/06/scalable-pubsub-with-nodejs.html -- by Malte Ubl
