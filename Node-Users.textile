@@ -10,13 +10,15 @@ Please add yourself to the according to "your timezone":http://www.timeanddate.c
 h2. UTC-6 (-5)
 * Tim Caswell (creationix)
 ** "Blog":http://howtonode.org/, "Website":http://creationix.com/, "Twitter":http://twitter.com/creationix
+* Marak Squires (JimBastard)
+** "Website":http://maraksquires.com, "node_debug":http://maraksquires.com/node_debug/
+
+
 
 h2. UTC-5 (-4)
 
 * Alexis Sellier (cloudhead)
 ** "Website":http://cloudhead.io, "Twitter":http://twitter.com/cloudhead, "Github":http://github.com/cloudhead
-* Aaron Heckmann (aheckmann)
-** "Blog":http://aaronheckmann.blogspot.com/, "Website":http://www.aaronheckmann.net/, "Twitter":http://twitter.com/aaronheckmann
 
 h2. UTC+0 (+1)
 
