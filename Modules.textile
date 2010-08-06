@@ -252,6 +252,7 @@ h3(#graphics). "Graphics":#graphics
 * "node-jpeg":http://github.com/pkrumins/node-jpeg -- Convert an RGBA or RGB buffer to JPEG fast
 * "node-ogl":http://github.com/tmpvar/node-ogl -- OpenGL bindings
 * "node-webgl":http://github.com/pufuwozu/node-webgl -- WebGL emulation
+* "gm":http://github.com/aheckmann/gm -- GraphicsMagick for node
 
 h3(#other). "Other":#other
 * "behaviors":http://github.com/caolan/behaviors -- A simple way to check a module's exports, useful for 3rd party plugins and extensions
