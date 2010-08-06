@@ -1,0 +1,14 @@
+i) Install Cygwin
+ 1) Install devel -> openssl
+ 2) Install devel -> g++-gcc
+ 3) Install devel -> make
+ 4) Install python -> python
+ 5) Install devel -> git
+ii) Clone the repo
+ 1) git clone git://github.com/ry/node.git
+iii) run configure in the node folder created above
+ 1) ./configure
+iv) run make
+ v) run make test (This will fail a bit, need to faff with
+/etc/resolv.conf I think, and there are still some test failures in
+windows)
