@@ -68,7 +68,8 @@ h4(#middleware). "Middleware":#middleware
 * "extension":http://github.com/dvv/pintura/blob/master/lib/jsgi/extension.js - Transforms .extension to a RESTful Accept header (JSGI)
 * "transporter":http://github.com/kriszyp/transporter - Share modules with browser, works RequireJS and Yabble (JSGI)
 * "routes":http://github.com/dvv/pintura/blob/master/lib/jsgi/routes.js - Simple RegExp based router (JSGI)
-* "connect-rpx":http://github.com/xrd/connect-rpx - Use RPX with Node.js and Connect (JSGI)
+* "connect-rpx":http://github.com/xrd/connect-rpx - Use RPX with Node.js and Connect (Connect)
+* "session":http://github.com/kriszyp/pintura/blob/master/lib/jsgi/session.js - Session manager with pluggable storage handling (JSGI)
 
 h4(#web-frameworks-other). "Other":#web-frameworks-other
 * "Connect":http://extjs.github.com/Connect -- Middleware framework packed with high quality / performance middleware
