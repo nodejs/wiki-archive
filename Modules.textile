@@ -141,6 +141,7 @@ h3(#compression). "Compression":#compression
 * "node-compress":http://github.com/waveto/node-compress -- streaming compression / gzip library
 
 h3(#other). "Other":#other
+* "yaml":http://github.com/visionmedia/js-yaml -- CommonJS YAML parser
 * "cookie-node":http://github.com/jed/cookie-node/ -- signed cookie functionality for node.js
 * "node-flickr":http://github.com/edds/node-flickr -- A simple library to enable easy use of the flickr api
 * "flickrnode":http://github.com/ciaranj/flickrnode -- A library to enable use of the flickr api (not as complete as node-flickr, but supports auth)
