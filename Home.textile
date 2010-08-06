@@ -23,6 +23,7 @@ h2. Projects using node
 * "node-XMLHttpRequest":http://github.com/driverdan/node-XMLHttpRequest
 * "simplex":http://github.com/mshakhan/simplex 
 * "bertrpc":http://github.com/rtomayko/node-bertrpc
+* "jsonrpc":http://github.com/ericflo/node-jsonrpc
 
 h2. Modules with node support
 * "haml-js":http://github.com/creationix/haml-js -- Server side html generation using javascript.  Parses haml templates and renders html.
