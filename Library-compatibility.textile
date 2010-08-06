@@ -6,7 +6,7 @@ h2. Node v0.1.93
 * "redis-node-client 0.3.1":http://github.com/fictorial/redis-node-client/tree/v0.3.1
 * "jefe 0.1.0":http://github.com/fictorial/jefe/tree/v0.1.0
 * "ndb v0.1.2":http://github.com/smtlaissezfaire/ndb/tree/0.1.2
-* "node-email v0.0.1":http://github.com/aheckmann/node-email/tree/v0.0.1
+* "node-email v0.0.2":http://github.com/aheckmann/node-email/tree/v0.0.2
 * "node-poormansmysql v0.1":http://github.com/mscdex/node-poormansmysql/tree/v0.1
 
 h2. Node v0.1.92
