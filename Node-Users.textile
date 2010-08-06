@@ -10,8 +10,6 @@ Please add yourself to the according to "your timezone":http://www.timeanddate.c
 h2. UTC-8
 * Ryan Dahl (ryah)
 ** "GitHub":http://github.com/ry, "Twitter":http://twitter.com/ryah, "Website":http://tinyclouds.org
-* TJ Holowaychuk (tjholowaychuk)
-** "GitHub":http://github.com/visionmedia, "Twitter":http://twitter.com/tjholowaychuk, "Website":http://vision-media.ca
 * Mikeal Rogers (mikeal), Oakland, CA, US
 ** "GitHub":http://github.com/mikeal, "Twitter":http://twitter.com/mikeal, "Website":http://www.mikealrogers.com
 * Randall Leeds (tilgovi)
@@ -28,6 +26,8 @@ h2. UTC-8
 ** "Github":http://github.com/orlandov, "Twitter":http://twitter.com/orlandov, "Website":http://2wycked.net
 * Stephen Blum (stephenlb)
 ** "Github":http://github.com/stephenlb, "Twitter":http://twitter.com/stephenlb, "Website":http://nodejuice.com
+* TJ Holowaychuk (tjholowaychuk)
+** "GitHub":http://github.com/visionmedia, "Twitter":http://twitter.com/tjholowaychuk, "Website":http://vision-media.ca
 * Emilio Cavazos
 ** "Github":http://github.com/ecavazos, "Twitter":http://twitter.com/ecni, "Website":http://iamneato.com
 * Marcus Westin
