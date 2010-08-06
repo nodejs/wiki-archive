@@ -196,6 +196,7 @@ h3(#other). "Other":#other
 * "monit":http://github.com/visionmedia/monit.js -- Process monitoring system
 * "node-amqp":http://github.com/xaviershay/node-amqp -- Basic AMQP client
 * "node-bittorrent":http://github.com/WizKid/node-bittorrent -- A library for handling the bittorrent protocol
+* "node-chat":http://github.com/scottgonzalez/node-chat -- A simple web-based chat server
 * "node-continuables":http://github.com/bentomas/node-continuables -- A library making dealing with asynchronous code easier
 * "node-flickr":http://github.com/edds/node-flickr -- A simple library to enable easy use of the flickr api
 * "node-geoip":http://github.com/strange/node-geoip -- geoip city lookup module (uses libgeoip)
