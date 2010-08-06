@@ -100,6 +100,8 @@ h2. UTC+5
 
 * Nikhil Marathe (nsm), India
 ** "Twitter":http://twitter.com/nikhilcutshort, "Github":http://github.com/nikhilm/, "Bitbucket":http://bitbucket.org/nikhilm/
+* Shiv Shankar ( _sh ), India
+** "Twitter":http://twitter.com/_shiv, "Github":http://github.com/shiv/, "Website":http://pietisticmonk.com/
 
 h2. UTC+9
 * Jed Schmidt (jed)
