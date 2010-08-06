@@ -32,7 +32,7 @@ h4(#web-frameworks-micro). "Microframeworks":#web-frameworks-micro
 * "(fab)":http://www.fabjs.org -- A modular and concise async web framework for node.js
 * "Nerve":http://github.com/gjritter/nerve -- Microframework with simple array-based syntax for defining an app on top of node. (node.JS 0.1.30)
 * "rowan":http://github.com/idmillington/rowan -- A hierarchical microframework of reusable controllers and modular app logic.
-* "scylla":http://github.com/ithinkihaveacat/node-scylla -- Create simple one object applications by doubling up method names as URL-matching patterns (node.JS 0.1.95)
+* "scylla":http://github.com/ithinkihaveacat/node-scylla -- Create simple one object applications by doubling up method names as URL-matching patterns (node.JS 0.1.102)
 * "vroom":http://github.com/raycmorgan/vroom/tree/master -- A simple resource oriented web framework built on top of Node.js (November 2009, node.JS 0.1.16)
 * "Picard":http://github.com/dantebronto/picard
 * "simplex":http://github.com/mshakhan/simplex (October 2009, node.JS 0.1.14)
