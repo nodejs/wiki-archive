@@ -70,6 +70,8 @@ h2. UTC+0 (+1)
 ** "Website":http://beebo.org/, "GitHub":http://github.com/ithinkihaveacat, "Twitter":http://twitter.com/ithinkihaveacat
 * Duncan Cragg
 ** "Website":http://duncan-cragg.org/blog/, "GitHub":http://github.com/duncancragg, "Twitter":http://twitter.com/duncancragg
+* Craig Webster (CraigW)
+** "Website":http://barkingiguana.com/, "GitHub":http://github.com/craigw, "Twitter":http://twitter.com/craigwebster
 
 h2. UTC+1 (+2)
 
@@ -93,7 +95,6 @@ h2. UTC+1 (+2)
 ** "Github":http://github.com/jfd
 * Moritz Peters (mAritz)
 ** "Github":http://github.com/maritz, "Website":http://mpeters.biz
-
 
 h2. UTC+2 (+3)
 
