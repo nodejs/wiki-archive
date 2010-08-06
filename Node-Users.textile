@@ -72,6 +72,10 @@ h2. UTC-7 (-6)
 ** "GitHub":http://github.com/kriszyp, "Twitter":http://twitter.com/kriszyp, "Blog":http://www.sitepen.com/blog/author/kzyp/
 * Michael J. I. Jackson (mjijackson), Utah
 ** "GitHub":http://github.com/mjijackson, "Twitter":http://twitter.com/mjijackson, "Website":http://mjijackson.com/
+* Tristan Dunn, Boston, MA, US
+** "GitHub":http://github.com/tristandunn, "Twitter":http://twitter.com/tristandunn, "Website":http://tristandunn.com
+* Xavi Ramirez (Xavi), Boston, MA, US
+** "GitHub":http://github.com/xavi-/ "Twitter":http://twitter.com/xavi_/, "Website":http://the-xavi.com
 
 h2. UTC-6 (-5)
 * Tim Caswell (creationix), Dallas, TX, US
@@ -84,10 +88,8 @@ h2. UTC-6 (-5)
 ** "Website":http://fictorial.com, "Github":http://github.com/fictorial, "Twitter":http://twitter.com/fictorial
 * Alexis Sellier (cloudhead)
 ** "Website":http://cloudhead.io, "Twitter":http://twitter.com/cloudhead, "Github":http://github.com/cloudhead
-* Tristan Dunn, Boston, MA, US
-** "GitHub":http://github.com/tristandunn, "Twitter":http://twitter.com/tristandunn, "Website":http://tristandunn.com
-* Xavi Ramirez (Xavi), Boston, MA, US
-** "GitHub":http://github.com/xavi-/ "Twitter":http://twitter.com/xavi_/, "Website":http://the-xavi.com
+* Stephen Veit (srveit), St. Louis, MO, US
+** "GitHub":http://github.com/srveit, "Twitter":http://twitter.com/srveit, "Website":http://TradeHarbor.com
 
 h2. UTC-5 (-4)
 
