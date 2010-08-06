@@ -1,38 +1,9 @@
-h1. Mission statement
+h1. Community
 
-Node.js on its own is bare bones by design. So if you want to have really fast code you'll have the option to get just that without added baggage. However, there are also merits to the Python "batteries included" approach. This page is to be used to collect thoughts on libraries needed for application development and pointers to actual code and/or code that can be adapted to work with node's asynchronous nature.
+| "nodejs.org":http://nodejs.org/ | Home and Documentation |
+| "Mailinglist":http://groups.google.com/group/nodejs | Node.js on Google groups |
+| "IRC":irc://irc.freenode.net/node.js | Node.js on irc.freenode.net #node.js |
 
-h1. Libraries
 
-h2. Actual libraries
-
-| "haml-js":http://github.com/creationix/haml-js/tree/master | A "haml":http://haml-lang.com/ like web-templating language (client side only at the moment, but work on a server side haml implementation is on it's way)|
-| "postgres-js":http://github.com/creationix/postgres-js/tree/master | A PostgreSQL driver |
-| "redis-node-client":http://github.com/fictorial/redis-node-client | A "Redis":http://code.google.com/p/redis/ client |
-| "vroom":http://github.com/raycmorgan/vroom/tree/master | A simple resource based web framework |
-
-h2. Wish list
-
-| node_mysql | A MySQL driver |
-| node_crypt | Cryptographic routines |
-| node_http | A webserver, i.e. also handling static files like Apache does, etc. |
-| node_extlib | A grab bag of useful extensions to the standard classes |
-| modules | A better way to handle modules. With somewhat bigger projects load/require are just to hard to use |
-| testing | A library that allows easy unit tests. Right now there's no easy way to easily setup tests that only pass when all the code in callbacks has passed |
-
-h2. Idea list
-
-| node_dom | W3C DOM Support [1]|
-| node_browser | building on node_dom, support jQuery, Dojo, Prototype, etc. server-side [1] |
-| node_xrad | A duct taping framework for simulating TBD libraries (for example using "node.createProcess":http://tinyclouds.org/node/api.html#_child_processes to wrap the mysql command-line client, providing minimal MySQL support).  In contrast to optimized, lower-level native interfaces, the idea here would be to explore proof-of-concepts and API abstractions earlier rather than later, allowing developers to potentially substitute the "real thing" if/when available. |
-
-fn1. _2009.07.30 timjs: I have working prototypes of these (mashing up "env.js":http://github.com/jeresig/env-js/tree/master and "ajaxslt":http://code.google.com/p/ajaxslt/); not sure how to package up API as a library just yet_
-
-h2. Gotchas
-* [[FreeBSD]]
-
-h2. Other code
-
-| "php.js":http://phpjs.org/functions/index | Implementation of PHP functions in JavaScript |
-| "narwhal":http://narwhaljs.org/ | Might not work out of the box, but could be used as inspiration |
-| "ServerJS":https://wiki.mozilla.org/ServerJS | An effort to standardize server side JavaScript |
+For help and discussion subscribe to the mailing list at or send an email to nodejs+subscribe@googlegroups.com. 
+For real-time discussion, check irc.freenode.net #node.js. 
