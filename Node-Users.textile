@@ -29,4 +29,4 @@ h2. UTC+2 (+3)
 
 h2. UTC+9 (+0)
 * Jed Schmidt (jed)
-** "Website": http://jedschmidt.com, "Twitter":http://twitter.com/jedschmidt, "GitHub":http://github.com/jed
+** "Website":http://jedschmidt.com, "Twitter":http://twitter.com/jedschmidt, "GitHub":http://github.com/jed
