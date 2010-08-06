@@ -10,7 +10,7 @@ h2. Web
 * Apache Sling-like REST style web framework.
 * A templating framework that abstracts the different languages available into a clean asynchronous wrapper
 * In browser MVC framework
-* Browser based IDE for node.js using node_debug - maybe using "mozilla bespin":https://bespin.mozillalabs.com/ ?
+* Browser based IDE for node.js using node_debug
 
 h2. Bindings
 
