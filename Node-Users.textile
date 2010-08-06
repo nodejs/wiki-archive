@@ -68,6 +68,8 @@ h2. UTC-8
 ** "GitHub":http://github.com/carlsverre, "Website":http://carlsverre.com
 * Jacob Rothstein (jbr), SF
 ** "GitHub":http://github.com/jbr, "Twitter":http://twitter.com/jacobrothstein, "Website":http://jacobrothstein.com, "Company":http://newsbasis.com
+* Mel Gray (melgray), Seattle, WA, US
+** "Github":http://github.com/melito, "Twitter":http://twitter.com/melgray, "Tumblr":http://melgray.org
 
 h2. UTC-7 (-6)
 * Michaeljohn Clement (inimino)
