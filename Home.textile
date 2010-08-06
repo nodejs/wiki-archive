@@ -32,6 +32,7 @@ h3. Other
 * "jsonrpc":http://github.com/ericflo/node-jsonrpc
 * "Restler":http://github.com/danwrong/restler -- Simplified REST client for Node.is
 * "node-crypto":http://github.com/waveto/node-crypto -- OpenSSL based Hashing, Signing and Verifying
+* "node.websocket.js":http://github.com/Guille/node.websocket.js -- WebSocket-compatible server.
 
 h2. Modules with node support
 
