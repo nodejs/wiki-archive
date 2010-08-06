@@ -19,5 +19,5 @@ h2. Bindings
 h2. Other
 
 * Port "env.js":http://ejohn.org/blog/bringing-the-browser-to-the-server/ to node
-** And/or maybe "jsdom":http://github.com/tmpvar/jsdom
+** And/or maybe "jsdom":http://github.com/tmpvar/jsdom (-tmpvar: this is already available to node!)
 * Add support for UDP to node
