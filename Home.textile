@@ -48,6 +48,7 @@ h3. Other
 * "Test":http://github.com/brevity/test -- JavaScript unit testing framework.
 * "Comet LongPollingBuffer":http://github.com/robrighter/Long-Polling-Buffer -- A Library to simplify the server side of Comet AJAX long polling.
 * "node-flickr":http://github.com/edds/node-flickr -- A simple library to enable easy use of the flickr api
+* "eyes.js":http://github.com/cloudhead/eyes.js -- A better, customizable value inspector for node.js
 
 h2. Modules with node support
 
