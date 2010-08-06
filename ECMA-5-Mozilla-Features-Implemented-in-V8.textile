@@ -68,5 +68,6 @@ h1. Missing features
  * @Object.isSealed(obj)@
  * @Object.freeze( obj )@
  * @Object.isFrozen(obj)@
+ * @Object.__noSuchMethod__@
  * @Function.prototype.bind(thisArg, arg1, arg2....)@
  * "use strict"; syntax extension
