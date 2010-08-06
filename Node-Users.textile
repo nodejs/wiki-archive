@@ -54,6 +54,8 @@ h2. UTC-8
 ** "GitHub":http://github.com/qard, "Website":http://www.stephenbelanger.com
 * Matt Ranney (mjr), Oakland, CA, US
 ** "GitHub":http://github.com/mranney, "Twitter":http://twitter.com/mranney
+* Aaron Blohowiak (aaronblohowiak)
+** "GitHub":http://github.com/aaronblohowiak
 
 h2. UTC-7 (-6)
 * Michaeljohn Clement (inimino)
