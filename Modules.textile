@@ -150,7 +150,7 @@ h3(#graphics). "Graphics":#graphics
 * "node-gd":http://github.com/taggon/node-gd -- GD graphic library bindings
 
 h3(#gui). "GUI":#gui
-* "node-gtk-experiment":http://github.com/brainfucker/node-gtk-experiment -- Some experimental binding for gtk (Not finished yet)
+* "node-gui":http://github.com/brainfucker/node-gui -- Some experimental binding for gtk and maybe other (Not finished yet)
 
 h3(#other). "Other":#other
 * "behaviors":http://github.com/caolan/behaviors -- A simple way to check a module's exports, useful for 3rd party plugins and extensions
