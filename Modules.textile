@@ -337,4 +337,4 @@ h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":
 * "underscore":http://documentcloud.github.com/underscore/ -- Unobtrusive functional programming utility library.
 * "abbrev-js":http://github.com/isaacs/abbrev-js/ -- Like Ruby's Abbrev module.
 * "wu.js":http://fitzgen.github.com/wu.js/ -- A lazy, functional Javascript library that ain't nuthin' ta f*ck wit.
-* "infelction":http://github.com/gmosx/inflection -- A port of the Rails/ActiveSupport inflector to JavaScript
+* "inflection":http://github.com/gmosx/inflection -- A port of the Rails/ActiveSupport inflector to JavaScript
