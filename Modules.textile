@@ -73,6 +73,7 @@ h3(#templating). "Templating":#templating
 * "sass.js":http://github.com/visionmedia/sass.js -- Parses Sass templates and renders css.
 * "template.node.js":http://github.com/jazzychad/template.node.js -- A light, fast, cached template module for node.
 * "tmpl-node":http://github.com/jed/tmpl-node -- a feature-rich template module for node.js
+* "jsdom":http://github.com/tmpvar/jsdom -- dom level1 passing all level1 w3 spec tests
 
 h3(#package-management). "Package Management Systems":#package-management
 * "kiwi":http://github.com/visionmedia/kiwi -- Feature rich, fast, node.js package management system -- server sponsored by Slicehost
