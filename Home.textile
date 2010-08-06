@@ -26,6 +26,7 @@ h2. Projects / Applications
 * "Djangode":http://github.com/simonw/djangode - Django’s regex-based URL handling, utility functions, and html templating for node
 * "The WPilot Project":http://jfd.github.com/wpilot/ - A multiplayer, space shooter, action game in your browser. Server is built in node
 * "Socket.IO":http://github.com/LearnBoost/Socket.IO-node - An abstraction over all the realtime transports (WebSocket, long polling, XHR multipart, etc) for the Node HTTP server.
+* "ElusiveHippo":http://elusivehippo.com - Its like Heroku for Node.js applications.  
 
 h2. Articles
 * "pubsub":http://www.nonblocking.io/2009/06/scalable-pubsub-with-nodejs.html -- by Malte Ubl
