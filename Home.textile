@@ -33,6 +33,7 @@ h3. Other
 * "Restler":http://github.com/danwrong/restler -- Simplified REST client for Node.is
 * "node-crypto":http://github.com/waveto/node-crypto -- OpenSSL based Hashing, Signing and Verifying
 * "node.websocket.js":http://github.com/Guille/node.websocket.js -- WebSocket-compatible server.
+* "websocket-server-node.js":http://github.com/alexanderte/websocket-server-node.js/ -- A Web Socket server for local use.
 
 h2. Modules with node support
 
