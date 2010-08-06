@@ -13,6 +13,56 @@ h3. Database
 * "node-fleet":http://github.com/jfd/node-fleet -- a FleetDB Client
 * "node-mongodb":http://github.com/orlandov/node-mongodb -- Async interface to MongoDB
 
+h3. Templating libraries
+* "sass.js":http://github.com/visionmedia/sass.js -- Parses Sass templates and renders css.
+* "haml-js":http://github.com/creationix/haml-js -- Server side html generation using javascript.  Parses haml templates and renders html.
+* "tmpl-node":http://github.com/jed/tmpl-node -- a feature-rich template module for node.js
+* "template.node.js":http://github.com/jazzychad/template.node.js -- A light, fast, cached template module for node.
+
+h3. Package Management Systems
+* "kiwi":http://github.com/visionmedia/kiwi -- Feature rich, fast, bash based package management
+* "node package manager":http://github.com/isaacs/npm
+
+h3. TCP/IP
+* "node-smtp":http://github.com/miksago/node-smtp -- Implementation of the SMTP protocol in Node
+
+h3. OpenSSL / Crypto / Hashing
+* "node-crypto":http://github.com/waveto/node-crypto -- OpenSSL based Hashing, Signing and Verifying
+* "hashlib":http://github.com/brainfucker/hashlib -- Fast hashing module, written in C/C++, supports: md5, md6, sha1, sha256, sha512
+
+h3. RCP
+* "bertrpc":http://github.com/rtomayko/node-bertrpc
+* "jsonrpc":http://github.com/ericflo/node-jsonrpc
+
+h3. Testing / Spec Frameworks
+* "spectacular":http://github.com/jcrosby/spectacular -- for testing
+* "jspec":http://github.com/visionmedia/jspec -- Feature Rich BDD Testing Framework
+* "Test":http://github.com/brevity/test -- JavaScript unit testing framework.
+* "Speks":http://github.com/ecavazos/speks -- A specification framework for your node-code
+
+h3. Web Sockets
+* "node.websocket.js":http://github.com/Guille/node.websocket.js -- WebSocket-compatible server.
+* "local-websocket-server":http://github.com/brevity/local-websocket-server/ -- Local Web Socket server.
+* "node.ws.js":http://github.com/ncr/node.ws.js -- A basic Web Socket server with interface similar to tcp.createServer(...)
+* "nodejs-http-websocket":http://github.com/zimbatm/nodejs-http-websocket -- A websocket server on top of the http server.
+
+h3. Parsers
+
+h4. XML
+* "libxmljs":http://github.com/sprsquish/libxmljs -- Bindings to libxml2
+* "node-xml":http://github.com/robrighter/node-xml -- An xml parser for node.js
+
+h4. Command Line Option Parsers
+* "optparse-js":http://github.com/jfd/optparse-js/tree/master -- Option Parser in JS
+* "trollopjs":http://github.com/bentomas/trollopjs -- Another option parser
+
+h4. Other 
+* "node-csv":http://github.com/voodootikigod/node-csv -- Efficient Evented CSV Parsing.
+
+h3. Debugging / Console Utilities
+* "node_debug":http://github.com/Connorhd/node_debug/tree/master -- HTTP based console and object explorer
+* "consolelog.js":http://github.com/jazzychad/consolelog.node.js -- stylized console logging for node.js
+
 h3. Web frameworks
 * "express":http://github.com/visionmedia/express/tree/master -- A robust feature rich web development framework inspired by Sinatra
 * "coltrane":http://github.com/ujh/coltrane/tree/master -- A try at a higher level library/framework for node.js web development
@@ -25,44 +75,15 @@ h3. Web frameworks
 * "querystring.node.js":http://github.com/jazzychad/querystring.node.js -- Robust query string parsing for node.
 * "nodemachine":http://github.com/tautologistics/nodemachine -- A port of WebMachine to Node.js
 
-h3. Templating libraries
-* "sass.js":http://github.com/visionmedia/sass.js -- Parses Sass templates and renders css.
-* "haml-js":http://github.com/creationix/haml-js -- Server side html generation using javascript.  Parses haml templates and renders html.
-* "tmpl-node":http://github.com/jed/tmpl-node -- a feature-rich template module for node.js
-* "template.node.js":http://github.com/jazzychad/template.node.js -- A light, fast, cached template module for node.
-
-h3. Package Management Systems
-* "kiwi":http://github.com/visionmedia/kiwi -- Feature rich, fast, bash based package management
-
 h3. Other
 * "node.routes.js":http://github.com/defrex/node.routes.js/ -- A simple url router
-* "optparse-js":http://github.com/jfd/optparse-js/tree/master -- Option Parser in JS
-* "trollopjs":http://github.com/bentomas/trollopjs -- Another option parser
-* "libxmljs":http://github.com/sprsquish/libxmljs -- Bindings to libxml2
-* "spectacular":http://github.com/jcrosby/spectacular -- for testing
-* "jspec":http://github.com/visionmedia/jspec -- Feature Rich BDD Testing Framework
-* "node_debug":http://github.com/Connorhd/node_debug/tree/master -- HTTP based console and object explorer
-* "node package manager":http://github.com/isaacs/npm
 * "node-XMLHttpRequest":http://github.com/driverdan/node-XMLHttpRequest
-* "bertrpc":http://github.com/rtomayko/node-bertrpc
-* "jsonrpc":http://github.com/ericflo/node-jsonrpc
 * "Restler":http://github.com/danwrong/restler -- Simplified REST client for Node.js
-* "node-crypto":http://github.com/waveto/node-crypto -- OpenSSL based Hashing, Signing and Verifying
-* "node.websocket.js":http://github.com/Guille/node.websocket.js -- WebSocket-compatible server.
-* "local-websocket-server":http://github.com/brevity/local-websocket-server/ -- Local Web Socket server.
-* "node.ws.js":http://github.com/ncr/node.ws.js -- A basic Web Socket server with interface similar to tcp.createServer(...)
-* "nodejs-http-websocket":http://github.com/zimbatm/nodejs-http-websocket -- A websocket server on top of the http server.
 * "soda.js":http://github.com/tomyan/soda -- Asynchonous JavaScript module loader for client-side and Node.js.
-* "consolelog.js":http://github.com/jazzychad/consolelog.node.js -- stylized console logging for node.js
-* "Test":http://github.com/brevity/test -- JavaScript unit testing framework.
 * "Comet LongPollingBuffer":http://github.com/robrighter/Long-Polling-Buffer -- A Library to simplify the server side of Comet AJAX long polling.
 * "node-flickr":http://github.com/edds/node-flickr -- A simple library to enable easy use of the flickr api
 * "flickrnode":http://github.com/ciaranj/flickrnode -- An alternative library to enable use of the flickr api (not as complete as node-flickr, but supports auth)
 * "eyes.js":http://github.com/cloudhead/eyes.js -- A better, customizable value inspector for node.js
-* "node-xml":http://github.com/robrighter/node-xml -- An xml parser for node.js
-* "node-csv":http://github.com/voodootikigod/node-csv -- Efficient Evented CSV Parsing.
-* "Speks":http://github.com/ecavazos/speks -- A specification framework for your node-code
-* "hashlib":http://github.com/brainfucker/hashlib -- Fast hashing module, written in C/C++, supports: md5, md6, sha1, sha256, sha512
 * "limestone":http://github.com/kurokikaze/limestone -- Sphinx search server connector
 
 h2. Modules with node support
