@@ -223,6 +223,8 @@ h2. UTC+7
 h2. UTC+8
 * Vanilla Hsu(vanillahsu),Taiwan
 ** "Github":http://github.com/vanillahsu/
+* Jerry sun(sjerrys),China
+** "group":http://www.douban.com/group/second.life/
 
 h2. UTC+9
 * Jed Schmidt (jed)
