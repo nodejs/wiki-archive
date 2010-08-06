@@ -22,6 +22,8 @@ h2. UTC-6 (-5)
 ** "Website":http://maraksquires.com, "node_debug":http://maraksquires.com/node_debug/
 * Elijah Insua (tmpvar)
 ** "Twitter":http://twitter.com/tmpvar, "Github":http://github.com/tmpvar
+* Jim R. Wilson (jimbojw)
+** "Blog":http://jimbojw.com, "Website":http://trephine.org
 
 h2. UTC-5 (-4)
 
