@@ -3,6 +3,7 @@ Node is under heavy development and its API changes rapidly. Instead of simply a
 h2. Node v0.1.93
 * "Socket.IO 0.3.1":http://github.com/LearnBoost/Socket.IO-node/tree/0.3.1
 * "node-mongodb-native V0.7.2":http://github.com/christkv/node-mongodb-native/tree/V0.7.2
+* "redis-node-client 0.2.5":http://github.com/fictorial/redis-node-client/tree/v0.3.1
 
 h2. Node v0.1.92
 * "node-chat v0.2.0":http://github.com/scottgonzalez/node-chat/tree/v0.2.0
