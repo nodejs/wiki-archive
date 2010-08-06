@@ -28,11 +28,11 @@ h4(#web-frameworks-full). "Frameworks":#web-frameworks-full
 * "Bomber":http://github.com/obt/bomberjs -- The early stages of a node.js web framework
 * "chain":http://github.com/hassox/chain/ -- An evented convention for building Node Applications
 * "coltrane":http://github.com/ujh/coltrane/tree/master -- A try at a higher level library/framework for node.js web development
+* "djangode":http://github.com/simonw/djangode -- A framework that borrows some useful concepts from "Django":http://www.djangoproject.com/.
 * "express":http://github.com/visionmedia/express/tree/master -- A robust feature rich web development framework **inspired by Sinatra**
 * "js.io":http://github.com/mcarter/js.io -- Javascript Networking Library for building real-time web applications. Also see "JS.io":http://js.io
 * "nodemachine":http://github.com/tautologistics/nodemachine -- A port of WebMachine to Node.js
 * "pintura":http://github.com/kriszyp/pintura -- REST-based web framework/"middleware":http://github.com/kriszyp/pintura/tree/master/lib/jsgi/ stack built for Ajax-style "JSON-driven applications":http://www.sitepen.com/blog/2010/01/22/introducing-pintura/.
-* "djangode":http://github.com/simonw/djangode -- A framework that borrows some useful concepts from "Django":http://www.djangoproject.com/.
 
 h4(#web-frameworks-other). "Other":#web-frameworks-other
 * "JSGI-Node":http://github.com/kriszyp/jsgi-node/ -- Asynchronous JSGI 0.3 Adapter for Node
