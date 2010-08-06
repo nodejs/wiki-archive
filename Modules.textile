@@ -120,6 +120,7 @@ h3(#database). "Database":#database
 * "postgres-js":http://github.com/creationix/postgres-js/tree/master -- Postgres protocol implemented in pure JS
 * "redis-node-client":http://github.com/fictorial/redis-node-client/tree/master -- Redis Client by Fictorial
 * "redis2json":http://github.com/igo/redis2json/ -- Easily loads data from Redis into structured JS object
+* "sequelize":http://github.com/sdepold/sequelize -- An easy-to-use MySQL object-relationship-mapper for node.js
 * "nohm":http://github.com/maritz/nohm -- Redis object relational mapper (ORM)
 * "riak-js":http://github.com/frank06/riak-js -- Riak Javascript client (works on node v0.1.30+)
 * "node-tokyocabinet":http://github.com/edvakf/node-tokyocabinet -- Tokyo Cabinet binding
