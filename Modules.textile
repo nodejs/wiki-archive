@@ -273,6 +273,7 @@ h3(#other). "Other":#other
 * "Step":http://github.com/creationix/step -- Tool for grouping and chaining asynchronous callbacks, based on "flow-js":http://github.com/willconant/flow-js
 * "Task.node":http://github.com/botanicus/task.node Simple task manager similar to Rake, Scons and others.
 * "tasks.js":http://github.com/dandean/tasks.js Tasks for Node (like Rake!) with a very JavaScripty API.
+* "temp":http://github.com/bruce/node-temp Temporary files and directories
 * "tweetstream":http://github.com/mikeal/tweetstream -- Stream like API for twitter's HTTP streaming interface.
 * "TwitScript":http://github.com/ryanmcgrath/twitscript -- A port of Twython to Node.js (Twitter API Library)
 * "user-agent":http://github.com/visionmedia/user-agent.js -- user agent string parser
