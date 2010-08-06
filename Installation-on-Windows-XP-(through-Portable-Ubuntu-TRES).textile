@@ -15,7 +15,7 @@ This is a step-by-step guide on installing node.js inside Windows XP through Por
 
 The sudo password is by default: *123456*
 
-5. Replace line *52* with the following:
+5. Replace line *52* with the following (this is to fix a nasty bug that freezes Portable Ubuntu TRES from booting a second time):
 
 <pre>echo >> /etc/fstab
 echo "#Entry for cdrom" >> /etc/fstab
