@@ -40,6 +40,7 @@ h4(#web-frameworks-other). "Other":#web-frameworks-other
 h3(#database). "Database":#database
 * "redis-node-client":http://github.com/fictorial/redis-node-client/tree/master -- Redis Client by Fictorial
 * "node-couch":http://github.com/sixtus/node-couch/tree/master -- a CouchDB connector
+* "node-couchdb":http://github.com/felixge/node-couchdb -- A full API implementation
 * "cradle":http://github.com/cloudhead/cradle -- a high-level, caching, CouchDB client
 * "node-tyrant":http://github.com/waveto/node-tyrant/tree/master -- An implementation of the Tokyo Tyrant network protocol for the Node.js
 * "postgres-js":http://github.com/creationix/postgres-js/tree/master -- Postgres protocol implemented in pure JS
