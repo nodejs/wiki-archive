@@ -374,7 +374,7 @@ h3(#other). "Other":#other
 * "Set implementation":http://gist.github.com/427161 - built on the object hash
 * "forms":http://github.com/caolan/forms -- An easy way to create, parse and validate forms
 * "promised-io":http://github.com/kriszyp/promised-io -- Cross-platform promise-based I/O provides composibility on evented I/O.
-
+* "node-inotify":http://github.com/c4milo/node-inotify -- Bindings to GNU/Linux Inotify API
 h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":#commonjs-compat
 * "commonjs-utils":http://github.com/kriszyp/commonjs-utils -- "JSON Schema":http://json-schema.org/, AOP, XML-RPC, lazy arrays, and other utilities
 * "datatypes-js":http://github.com/jfd/datatypes-js -- Byte encoding/decoding for typical datatypes in JS.
