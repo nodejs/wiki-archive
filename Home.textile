@@ -23,6 +23,7 @@ h2. Projects / Applications
 * "js.io":http://github.com/mcarter/js.io -- Javascript Networking Library for building real-time web applications
 * "BusBound":http://www.busbound.com/ - iPhone web application built with express framework
 * "JSONPify":http://jsonpify.com/ - a JSONP proxy for client applications
+* "Djangode":http://github.com/simonw/djangode - Django’s regex-based URL handling, utility functions, and html templating for node
 
 h2. Articles
 * "pubsub":http://www.nonblocking.io/2009/06/scalable-pubsub-with-nodejs.html -- by Malte Ubl
