@@ -53,6 +53,9 @@ h2. UTC+0 (+1)
 * Jason Davies (jasondavies)
 ** "Website":http://www.jasondavies.com/, "Twitter":http://twitter.com/jasondavies
 
+* Andrew Johnston
+** "Website":http://www.beardsoft.com/, "Github":http://github.com/billywhizz
+
 h2. UTC+1 (+2)
 
 * Felix Geisendörfer (felixge)
