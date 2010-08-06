@@ -85,6 +85,7 @@ h3(#other). "Other":#other
 * "eyes.js":http://github.com/cloudhead/eyes.js -- A better, customizable value inspector for node.js
 * "limestone":http://github.com/kurokikaze/limestone -- Sphinx search server connector
 * "Wheres Waldo":http://github.com/technoweenie/wheres-waldo -- track locations of users in redis
+* "Node-compatible Dojo fork":http://github.com/novemberborn/dojo
 
 h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":#commonjs-compat
 
