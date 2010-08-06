@@ -72,7 +72,7 @@ h2. UTC-6 (-5)
 ** "Website":http://cloudhead.io, "Twitter":http://twitter.com/cloudhead, "Github":http://github.com/cloudhead
 * Tristan Dunn
 ** "GitHub":http://github.com/tristandunn, "Twitter":http://twitter.com/tristandunn, "Website":http://tristandunn.com
-* Xavi Ramirez
+* Xavi Ramirez (Xavi), Boston, MA, US
 ** "GitHub":http://github.com/xavi-/ "Twitter":http://twitter.com/xavi_/, "Website":http://the-xavi.com
 
 h2. UTC-5 (-4)
