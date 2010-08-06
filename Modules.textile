@@ -78,7 +78,7 @@ h3(#templating). "Templating":#templating
 h3(#package-management). "Package Management Systems":#package-management
 * "kiwi":http://github.com/visionmedia/kiwi -- Feature rich, fast, node.js package management system -- server sponsored by Slicehost
 * "npm":http://github.com/isaacs/npm -- A node package manager that uses CommonJS-compatible package.json files, written in asynchronous javascript.
-* "mode": http://github.com/rsms/mode -- Distributed Node module repository.  Uses a github repository at http://github.com/rsms/mode/tree/master/index/ to contain info about installable modules.
+* "mode":http://github.com/rsms/mode -- Distributed Node module repository.  Uses a github repository at http://github.com/rsms/mode/tree/master/index/ to contain info about installable modules.
 
 h3(#security). "OpenSSL / Crypto / Hashing":#security
 * "hashlib":http://github.com/brainfucker/hashlib -- Fast hashing module, written in C/C++, supports: md4, md5, md6, sha, sha1, sha256, sha512
