@@ -38,7 +38,7 @@ h3. Other
 * "node-XMLHttpRequest":http://github.com/driverdan/node-XMLHttpRequest
 * "bertrpc":http://github.com/rtomayko/node-bertrpc
 * "jsonrpc":http://github.com/ericflo/node-jsonrpc
-* "Restler":http://github.com/danwrong/restler -- Simplified REST client for Node.is
+* "Restler":http://github.com/danwrong/restler -- Simplified REST client for Node.js
 * "node-crypto":http://github.com/waveto/node-crypto -- OpenSSL based Hashing, Signing and Verifying
 * "node.websocket.js":http://github.com/Guille/node.websocket.js -- WebSocket-compatible server.
 * "local-websocket-server":http://github.com/brevity/local-websocket-server/ -- Local Web Socket server.
@@ -50,6 +50,7 @@ h3. Other
 * "node-flickr":http://github.com/edds/node-flickr -- A simple library to enable easy use of the flickr api
 * "eyes.js":http://github.com/cloudhead/eyes.js -- A better, customizable value inspector for node.js
 * "node-xml":http://github.com/robrighter/node-xml -- An xml parser for node.js
+* "node-csv":http://github.com/voodootikigod/node-csv -- Efficient Evented CSV Parsing.
 
 h2. Modules with node support
 
