@@ -87,6 +87,7 @@ h3(#templating). "Templating":#templating
 * "jazz":http://github.com/shinetech/jazz -- A readable template language for node.
 * "JSON Template":http://github.com/andychu/json-template -- Minimal but powerful template language with multiple implementations.  This is the CommonJS version, tested on Node
 * "xmlbuilder.js":http://github.com/btakita/xmlbuilder.js -- An xml builder in Javascript inspired by Ruby's Builder, Markaby, and Erector.
+* "jm":http://github.com/smtlaissezfaire/jm -- Another Builder/Markaby/Erectory clone in javascript.
 * "less.js":http://github.com/cloudhead/less.js -- official port of Less to javascript/node.
 * "Mu (Mustache)":http://github.com/raycmorgan/Mu -- A Mustache engine that compiles templates into very fast rendering functions. Also streams the rendering process.
 * "node-template":http://github.com/graphnode/node-template -- Fast and light cached templates.
