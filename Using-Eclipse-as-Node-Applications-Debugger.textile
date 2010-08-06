@@ -46,7 +46,7 @@ Start the above script:
 
 <pre>
 <code>
-node --debug dbgtest.js;
+$ node --debug dbgtest.js
 debugger listening on port 5858
 DEBUG: Starting ...
 DEBUG: Tick count: 1
