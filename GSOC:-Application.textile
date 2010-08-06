@@ -82,7 +82,7 @@ At least, Ryan, the creator of Node, has permission from his employer to dedicat
 
 *What steps will you take to encourage students to interact with your project’s community before, during and after the program?*
 
-    * Node is a technology to be very excited about. We will try to hard to select students who share this excitement from the beginning.
+    * Node is a technology to be very excited about. We will try hard to select students who share this excitement from the beginning.
     * Giving the students public credit on the mailing list, conferences, user group meetings, etc. for their work
     * Forming personal relationships with the students that provide close ties back to the project
 
