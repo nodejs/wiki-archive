@@ -110,7 +110,8 @@ h3(#package-management). "Package Management Systems":#package-management
 
 h3(#security). "OpenSSL / Crypto / Hashing":#security
 * "hashlib":http://github.com/brainfucker/hashlib -- Fast hashing module, written in C/C++, supports: md4, md5, md6, sha, sha1, sha256, sha512
-* "node-base64":http://github.com/brainfucker/node-base64 -- C++ base64 lib
+* "brainfucker's node-base64":http://github.com/brainfucker/node-base64 -- C++ base64 lib
+* "pkrumins's node-base64":http://github.com/pkrumins/node-base64 -- C++ base64 lib that actually works
 * "node.bcrypt.js":http://github.com/ncb000gt/node.bcrypt.js -- C/C++ bcrypt lib
 * "node-crypto":http://github.com/waveto/node-crypto -- OpenSSL based Hashing, Signing and Verifying
 * "node-oauth":http://github.com/ciaranj/node-oauth -- OAuth client (1 and 2)
