@@ -46,6 +46,7 @@ h4(#web-frameworks-other). "Other":#web-frameworks-other
 h3(#database). "Database":#database
 * "awesome":http://github.com/janl/awesome -- a Redis clone in node.js
 * "cradle":http://github.com/cloudhead/cradle -- a high-level, caching, CouchDB client
+* "JSLINQ":http://github.com/marak/JSLINQ -- clean and simple port of Microsoft's LINQ to node.js (and the browser) 
 * "node-couch":http://github.com/sixtus/node-couch/tree/master -- a CouchDB connector
 * "node-couchdb":http://github.com/felixge/node-couchdb -- A full API implementation
 * "node-couchdb-min":http://github.com/rsms/node-couchdb-min -- Light-weight client with low level of abstraction and connection pooling.
