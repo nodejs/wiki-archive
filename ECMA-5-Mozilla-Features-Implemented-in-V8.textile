@@ -38,3 +38,6 @@ h2. JSON
 
 h2. String.prototype
  * @trim()@ - Trims whitespace from both ends of the string
+
+h1. Missing features
+ * Object.getPrototypeOf() - Returns the prototype of the specified object.
