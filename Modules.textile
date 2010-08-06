@@ -76,6 +76,7 @@ h3(#tcp). "TCP / IP":#tcp
 * "node-protocol":http://github.com/miksago/node-protocol -- A framework for implementing protocols.
 * "node-smtp":http://github.com/miksago/node-smtp -- Implementation of the SMTP protocol in Node
 * "NodeFTPd":http://github.com/billywhizz/nodeftpd -- Node FTP Server
+* "node-httpclient":http://github.com/billywhizz/node-httpclient -- Node HTTP Client (gzip, https, cookies etc.)
 
 h3(#rpc). "RPC":#rpc
 * "xmlrpc-c":http://github.com/caludio/node.xmlrpc-c -- Simple XMLRPC Client
