@@ -1,0 +1,27 @@
+When developing in the browser there are many wonderful built in JavaScript functions that we can't use because certain browsers don't implement them.  As a result, most developers never use them.  In Node, however we can assume that everyone has the same JavaScript implementation and as such can use these wonderful functions and not implement them over and over in our own libraries.
+
+The following is a list of some interesting api bits that aren't considered safe to use in a web setting but are built in to node's V8 engine.
+
+h2. JSON
+ * @stringify(object)@ - Takes any serializable object and returns the JSON representation as a string.
+ * @parse(string)@ - Takes a well formed JSON string and returns the corresponding JavaScript object.
+
+h2. Object
+ * @create(parent_object)@ - Creates a new object who's prototype is the passed in parent object. 
+
+h2. Object.prototype
+ * @__defineGetter__(name, callback)@ - Associates a function with a property that, when accessed, executes that function and returns its return value.
+ * @__defineSetter__(name, callback)@ - Associates a function with a property that, when set, executes that function which modifies the property.
+ * @__lookupGetter__(name)@ - Returns the function associated with the specified property by the __defineGetter__ method.
+ * @__lookupSetter__(name)@ - Returns the function associated with the specified property by the __defineSetter__ method.
+
+h2. Array.prototype
+ * @indexOf(value)@ - Returns the first (least) index of an element within the array equal to the specified value, or -1 if none is found.
+ * @lastIndexOf(value)@ - Returns the last (greatest) index of an element within the array equal to the specified value, or -1 if none is found.
+ * @filter(callback)@ - Creates a new array with all of the elements of this array for which the provided filtering function returns true.
+ * @forEach(callback)@ - Calls a function for each element in the array.
+ * @every(callback)@ - Returns true if every element in this array satisfies the provided testing function.
+ * @map(callback)@ - Creates a new array with the results of calling a provided function on every element in this array.
+ * @some(callback)@ - Returns true if at least one element in this array satisfies the provided testing function.
+ * @reduce(callback[, initialValue])@ - Apply a function simultaneously against two values of the array (from left-to-right) as to reduce it to a single value.
+ * @reduceRight(callback[, initialValue])@ - Apply a function simultaneously against two values of the array (from right-to-left) as to reduce it to a single value.
