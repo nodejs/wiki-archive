@@ -324,6 +324,7 @@ h3(#other). "Other":#other
 * "limestone":http://github.com/kurokikaze/limestone -- Sphinx search server connector
 * "node-discount":http://github.com/visionmedia/node-discount -- C markdown parser "discount" bindings
 * "monit":http://github.com/visionmedia/monit.js -- Process monitoring system
+* "node-amf":http://github.com/timwhitlock/node-amf -- AMF library and web service gateway for Flash remoting
 * "node-amqp":http://github.com/ry/node-amqp -- AMQP client
 * "node-amqp":http://github.com/xaviershay/node-amqp -- Basic AMQP client
 * "node-asterisk":http://github.com/mscdex/node-asterisk -- Listen to events in realtime and issue commands on Asterisk servers
