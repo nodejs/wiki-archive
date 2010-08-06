@@ -35,6 +35,7 @@ h3. Other
 * "node-crypto":http://github.com/waveto/node-crypto -- OpenSSL based Hashing, Signing and Verifying
 * "node.websocket.js":http://github.com/Guille/node.websocket.js -- WebSocket-compatible server.
 * "websocket-server-node.js":http://github.com/alexanderte/websocket-server-node.js/ -- A Web Socket server for local use.
+* "soda.js":http://github.com/tomyan/soda -- Asynchonous JavaScript module loader for client-side and Node.js.
 
 h2. Modules with node support
 
