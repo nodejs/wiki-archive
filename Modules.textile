@@ -61,7 +61,6 @@ h3(#database). "Database":#database
 * "node-sqlite":http://github.com/grumdrig/node-sqlite -- Bindings for SQLite3. Interface conforms to the "HTML5 Web SQL API":http://dev.w3.org/html5/webdatabase/#sql.
 * "NoSQLite":http://github.com/mrjjwright/nosqlite - A zero-config SQLite wrapper written in CoffeeScript
 * "node-sqlite":http://github.com/orlandov/node-sqlite -- Fast asynchronous driver: New evented Node.js look, same great SQLite3 taste
-* "node-tokyocabinet":http://github.com/edvakf/node-tokyocabinet -- Tokyo Cabinet binding
 * "node-tyrant":http://github.com/waveto/node-tyrant/tree/master -- An implementation of the Tokyo Tyrant network protocol for the Node.js
 * "node.dbslayer.js":http://github.com/Guille/node.dbslayer.js/ - Interface to DBSlayer (MySQL)
 * "node_postgres":http://github.com/ry/node_postgres -- Beginning of bindings to libpg
@@ -104,6 +103,7 @@ h3(#tcp). "TCP / IP":#tcp
 * "node-smtp":http://github.com/miksago/node-smtp -- Implementation of the SMTP protocol in Node
 * "NodeFTPd":http://github.com/billywhizz/nodeftpd -- Node FTP Server
 * "xmpp.js":http://xmppjs.prosody.im/ -- Library for implementing XMPP server components with Node
+* "node-http-digest":http://github.com/codehero/node-http-digest -- Node HTTP Client with support for Digest Authentication
 
 h3(#rpc). "RPC":#rpc
 * "bertrpc":http://github.com/rtomayko/node-bertrpc
