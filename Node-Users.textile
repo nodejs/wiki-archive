@@ -30,6 +30,8 @@ h2. UTC-8
 ** "Github":http://github.com/stephenlb, "Twitter":http://twitter.com/stephenlb, "Website":http://nodejuice.com
 * Emilio Cavazos
 ** "Github":http://github.com/ecavazos, "Twitter":http://twitter.com/ecni, "Website":http://iamneato.com
+* Marcus Westin
+** "Github":http://github.com/marcuswestin, "Twitter":http://twitter.com/marcuswestin, "Website":http://marcuswestin.com
 
 h2. UTC-7 (-6)
 * Michaeljohn Clement (inimino)
