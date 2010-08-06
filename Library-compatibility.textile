@@ -26,6 +26,9 @@ h2. Node v0.1.96
 * "node-ncurses @ 9d64781":http://github.com/mscdex/node-ncurses/tree/9d647811f9159d3bb622ffa73c4ef7728882b53f
 * "node-asterisk @ 6edf9a1":http://github.com/mscdex/node-asterisk/tree/6edf9a131a40d95c3d34cc0d5ecec0b0351746e4
 * "node-snpp v0.1.1":http://github.com/jsanders/node-snpp/tree/v0.1.1
+* "temp v0.2.0":http://github.com/bruce/node-temp/tree/v0.2.0
+
+
 
 h2. Node v0.1.95
 * "node-chat v0.2.1":http://github.com/scottgonzalez/node-chat/tree/v0.2.1
