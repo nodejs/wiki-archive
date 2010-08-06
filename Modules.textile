@@ -229,6 +229,8 @@ h3(#testing). "Testing / Spec Frameworks":#testing
 * "Gently":http://github.com/felixge/node-gently -- A node.js module that helps with mocking and behavior verification.
 * "patr":http://github.com/kriszyp/patr -- Promise-based asynchronous test runner: lightweight & simple.
 
+h3(#payment). Payment Gateways
+* paynode (http://github.com/jamescarr/paynode) - wrappers for various payment gateway APIs.
 
 h3(#wrappers). "Wrappers":#wrappers
 * "bdog-node":http://github.com/blackdog66/bdog-node -- haXe wrappers for node.
