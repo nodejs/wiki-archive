@@ -1,6 +1,6 @@
 h2. Projects using node
 
-* "redis-node-client":http://github.com/fictorial/redis-node-client/tree/master, "node-json-rpc":http://github.com/fictorial/node-json-rpc/tree/master, and "node_http_dispatch":http://github.com/fictorial/node_http_dispatch/tree/master -- by Brian Hammond
+* "redis-node-client":http://github.com/fictorial/redis-node-client/tree/master, "node-json-rpc":http://github.com/fictorial/node-json-rpc/tree/master -- by Brian Hammond
 * "pubsub":http://www.nonblocking.io/2009/06/scalable-pubsub-with-nodejs.html -- by Malte Ubl
 * "frisbee":http://github.com/ujh/frisbee/tree/master -- A clone of the Disqus blog commenting system, by Urban Hafner
 * "hxV8":http://github.com/blackdog66/hxV8/tree/master -- the haXe &rarr; javascript compiler with modifications to use node I/O. by blackdog66
@@ -14,4 +14,5 @@ h2. Projects using node
 
 h2. Companies using node
 
+* "Fictorial":http://fictorial.com
 * ...
