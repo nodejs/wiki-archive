@@ -1,6 +1,7 @@
 Node is under heavy development and its API changes rapidly. Instead of simply a listing of modules which may or may not work with the version of Node installed on one's computer, this will provide a list of module versions which are known to work with specific versions of node.
 
 h2. Node v0.1.97
+* "node-websocket-server v1.1.00":http://github.com/miksago/node-websocket-server/tree/v1.1.00 (draft76 & draft75 compat)
 * "commonjs-utils v0.1.1":http://github.com/kriszyp/commonjs-utils/tree/v0.1.0
 * "jsgi-node v0.1.1":http://github.com/kriszyp/jsgi-node/tree/v0.1.0
 * "libxmljs v0.3.0":http://github.com/polotek/libxmljs/tree/0.3.0
