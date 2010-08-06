@@ -15,6 +15,9 @@ h2. Node v0.1.96
 * "node-htmlparser v1.5.0":http://github.com/tautologistics/node-htmlparser/tree/v1.5.0
 * "nodemachine v0.2.5":http://github.com/tautologistics/nodemachine/tree/v0.2.5
 * "node-solr v0.0.6":http://github.com/gsf/node-solr/tree/v0.0.6
+* "node-poormansmysql v0.1":http://github.com/mscdex/node-poormansmysql/tree/v0.1
+* "node-ncurses @ 9d64781":http://github.com/mscdex/node-ncurses/tree/9d647811f9159d3bb622ffa73c4ef7728882b53f
+* "node-asterisk @ 6edf9a1":http://github.com/mscdex/node-asterisk/tree/6edf9a131a40d95c3d34cc0d5ecec0b0351746e4
 
 h2. Node v0.1.95
 * "node-chat v0.2.1":http://github.com/scottgonzalez/node-chat/tree/v0.2.1
