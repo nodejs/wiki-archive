@@ -59,6 +59,7 @@ h2. Companies using node
 * "Joyent":http://www.joyent.com/
 * "Medium":http://thisismedium.com
 * "MyBrands":http://www.mybrands.de -- web-tracker and product recommendations (node + couchdb)
+* "Next Feature":http://www.nextfeature.com
 * "Next Please!":http://nextplea.se - uses node to match "Adobe Stratus":http://labs.adobe.com/technologies/stratus/ id's.
 * "Plurk":http://www.plurk.com/ -- using node.js for its "new comet system":http://amix.dk/blog/post/19490#Plurk-Instant-conversations-using-comet
 * "Sexbyfood":http://www.sexbyfood.com -- a web-based reservations book for restaurateurs
