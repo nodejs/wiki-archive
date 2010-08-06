@@ -124,6 +124,7 @@ h3(#tcp). "TCP / IP":#tcp
 * "xmpp.js":http://xmppjs.prosody.im/ -- Library for implementing XMPP server components with Node
 * "node-http-digest":http://github.com/codehero/node-http-digest -- Node HTTP Client with support for Digest Authentication
 * "request":http://github.com/mikeal/node-utils/tree/master/request/ -- Simple HTTP client library.
+* "node-xmpp":http://github.com/astro/node-xmpp -- Node XMPP library
 
 h3(#rpc). "RPC":#rpc
 * "bertrpc":http://github.com/rtomayko/node-bertrpc
