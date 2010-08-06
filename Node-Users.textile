@@ -72,6 +72,9 @@ h2. UTC+1 (+2)
 ** "GitHub":http://github.com/zimbatm
 * Jan Schütze (DracoBlue)
 ** "Blog":http://dracoblue.net, "Github":http://github.com/DracoBlue, "Twitter":http://twitter.com/DracoBlue
+* Francisco Treacy (frank06)
+** "Website":http://franciscotreacy.com, "Github":http://github.com/frank06, "Twitter":http://twitter.com/frank06
+
 
 h2. UTC+2 (+3)
 
