@@ -65,6 +65,7 @@ h2. Companies using node
 * "e-resistible":http://www.e-resistible.co.uk - uses node to handle network communication to restaurant printers
 * Feisty Studios
 * "Fictorial":http://fictorial.com
+* "Fostle":http://fostle.com/
 * "Joyent":http://www.joyent.com/
 * "Medium":http://thisismedium.com
 * "MyBrands":http://www.mybrands.de -- web-tracker and product recommendations (node + couchdb)
