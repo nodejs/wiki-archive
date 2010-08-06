@@ -293,6 +293,7 @@ h3(#other). "Other":#other
 * "node-bittorrent":http://github.com/WizKid/node-bittorrent -- A library for handling the bittorrent protocol
 * "node-chat":http://github.com/scottgonzalez/node-chat -- A simple web-based chat server
 * "node-continuables":http://github.com/bentomas/node-continuables -- A library making dealing with asynchronous code easier
+* "node-cron":http://github.com/ncb000gt/node-cron -- Schedule callbacks with cron syntax
 * "node-email":http://github.com/aheckmann/node-email -- A simple wrapper around sendmail
 * "node-Daemon":http://github.com/Eyjafjallajokull/node-Daemon -- Restart node script after each change in main script or its dependencies
 * "node_mailer":http://github.com/marak/node_mailer -- send emails from node.js to an smtp server, simple as cake 
