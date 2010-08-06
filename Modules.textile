@@ -91,7 +91,6 @@ h3(#database). "Database":#database
 * "node-mysql":http://github.com/masuidrive/node-mysql -- Pure Javascript MySQL async driver
 * "node-mysql-native":http://github.com/sidorares/nodejs-mysql-native -- Yet another pure JS async driver. Pipelining, prepared statements.
 * "node-mysql-libmysqlclient":http://github.com/Sannis/node-mysql-libmysqlclient -- MySQL synchronous bindings based on libmysqlclient
-* "node-parallel":http://github.com/Tim-Smart/node-parallel -- Create tasks in node.js that run in parallel, or sequences that run tasks one after another.
 * "node-riak":http://github.com/orlandov/node-riak -- Riak client library
 * "node-sqlite":http://github.com/grumdrig/node-sqlite -- Bindings for SQLite3. Interface conforms to the "HTML5 Web SQL API":http://dev.w3.org/html5/webdatabase/#sql.
 * "NoSQLite":http://github.com/mrjjwright/nosqlite - A zero-config SQLite wrapper written in CoffeeScript
@@ -300,6 +299,7 @@ h3(#other). "Other":#other
 * "node-growl":http://github.com/visionmedia/node-growl -- unobtrusive notification system (growlnotify "bindings")
 * "node-logger":http://github.com/quirkey/node-logger -- Simple logging like Ruby's logger.rb and console.log
 * "node-maxmind":http://github.com/gyordanov/node-maxmind — maxmind/geoip module (using libgeoip)
+* "node-parallel":http://github.com/Tim-Smart/node-parallel -- Create tasks in node.js that run in parallel, or sequences that run tasks one after another.
 * "node_pcap":http://github.com/mranney/node_pcap -- Network packet capture and analysis using libpcap
 * "node-promise":http://github.com/kriszyp/node-promise -- Robust promises for node.js, includes promise utilities and promise-based I/O library
 * "node-prowl":http://github.com/mape/node-prowl -- A module that allows you to send push notifications to your iPhone through the Prowl API
