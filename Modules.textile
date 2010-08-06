@@ -104,6 +104,7 @@ h3(#testing). "Testing / Spec Frameworks":#testing
 * "ntest":http://github.com/technoweenie/ntest -- another unit testing framework
 * "node-async-testing":http://github.com/bentomas/node-async-testing -- Simple testing (hopefully)
 * "vows.js":http://github.com/cloudhead/vows.js -- asynchronous testing in node.js
+* "mjsunit.runner":http://github.com/tmpvar/mjsunit.runner -- Command line mjsunit runner which provides an easy way to hook into mjsunit and start running tests immediately.
 
 h3(#wrappers). "Wrappers":#wrappers
 * "hxNode":http://github.com/blackdog66/hxNode/tree/master -- haXe wrappers for node
