@@ -178,6 +178,9 @@ h2. UTC+0 (+1)
 
 h2. UTC+1 (+2)
 
+
+* Tommy van der Vorst (pixelspark)
+** "Blog":http://tommy.ech-wel.nl, "Twitter":http://twitter.com/tommyvdv
 * Felix Geisendörfer (felixge)
 ** "Blog":http://debuggable.com/blog, "Twitter":http://twitter.com/felixge
 * Nicolas Mérouze (nmerouze)
