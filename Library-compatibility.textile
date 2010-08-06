@@ -8,6 +8,8 @@ h2. Node v0.1.93
 * "ndb v0.1.2":http://github.com/smtlaissezfaire/ndb/tree/0.1.2
 * "node-email v0.0.2":http://github.com/aheckmann/node-email/tree/v0.0.2
 * "node-poormansmysql v0.1":http://github.com/mscdex/node-poormansmysql/tree/v0.1
+* "limestone @ 738b863":http://github.com/kurokikaze/limestone/tree/738b8639bf00f250770cf9b78f5f32b0d92c7b0f
+
 
 h2. Node v0.1.92
 * "node-chat v0.2.0":http://github.com/scottgonzalez/node-chat/tree/v0.2.0
@@ -67,7 +69,6 @@ h2. Node v0.1.90
 * "do v0.0.1":http://github.com/creationix/do/tree/v0.0.1
 * "express v0.9.0":http://github.com/visionmedia/express/tree/0.9.0
 * "haml-js v0.2.3":http://github.com/creationix/haml-js/tree/v0.2.3
-* "limestone @ dff8d13":http://github.com/kurokikaze/limestone/tree/dff8d13b9658a75df1fbd881ed59f855a4ec3ca5
 * "microtemplates v0.0.1":http://github.com/creationix/microtemplates/tree/v0.0.1
 * "node-amqp @ 00c113b":http://github.com/ry/node-amqp/tree/00c113bb6f4e251704bc63aba0f0bcabdefb9eab
 * "node-chat v0.1":http://github.com/scottgonzalez/node-chat/tree/v0.1
