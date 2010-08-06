@@ -82,6 +82,8 @@ h2. UTC-5 (-4)
 ** "GitHub":http://github.com/weilawei, "Twitter":http://twitter.com/weilawei
 * Gabriel Farrell (gsf), Philadelphia
 ** "GitHub":http://github.com/gsf, "Website":http://rc98.net
+* Guan Yang
+** "GitHub":http://github.com/guanix, "Twitter":http://twitter.com/guan
 
 h2. UTC-4 (-3)
 
