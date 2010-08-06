@@ -195,6 +195,8 @@ h3(#other). "Other":#other
 * "uuidjs":http://bitbucket.org/nikhilm/uuidjs -- Simple UUID generation binding to libuuid.
 * "Wheres Waldo":http://github.com/technoweenie/wheres-waldo -- track locations of users in redis
 * "yaml":http://github.com/visionmedia/js-yaml -- CommonJS YAML parser
+* "TwitScript":http://github.com/ryanmcgrath/twitscript -- A port of Twython to Node.js (Twitter API Library)
+* "Wrench-JS":http://github.com/ryanmcgrath/wrench-js -- Useful Node.js operations (recursive directory operations, etc)
 
 h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":#commonjs-compat
 * "commonjs-utils":http://github.com/kriszyp/commonjs-utils -- "JSON Schema":http://json-schema.org/, AOP, XML-RPC, lazy arrays, and other utilities
