@@ -214,6 +214,6 @@ RemoteMachine:$ node --debug-brk MyApp.js
 </code>
 </pre>
 
-Now you can start debugging session on local port 5858 as usual.
+Now you can start debugging session on local port 5858 as usual. Note that tcpproxy.js needs to be started only once for particular remote host and port combination.
 
 Eclipse V8 debugger can also be used in conjunction with   gdb/ddd in order to debug native C/C++ code. For example if particular invocation of frequently called native function is problematic, but all other ones are fine, you would first set the breakpoint in the script code, and once you hit this one, then you would set/enable the breakpoint in native function  as well.
