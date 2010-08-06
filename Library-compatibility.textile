@@ -43,6 +43,7 @@ h2. Node v0.1.91
 * "wheat v0.0.2":http://github.com/creationix/wheat/tree/v0.0.2
 * "node-htmlparser v1.1.0":http://github.com/tautologistics/node-htmlparser/tree/v1.1.0
 * "nodemachine v0.2.5":http://github.com/tautologistics/nodemachine/tree/v0.2.5
+* "ndb v0.1.2":http://github.com/smtlaissezfaire/ndb/tree/0.1.2
 
 h2. Node v0.1.90
 
@@ -77,7 +78,7 @@ h2. Node v0.1.33
 
 * "Socket.IO-node 0.2":http://github.com/RosePad/Socket.IO-node/tree/0.2
 * "haml-js v0.2.0":http://github.com/creationix/haml-js/tree/v0.2.0
-* "ndb v0.1 - v0.1.1.1":http://github.com/smtlaissezfaire/ndb
+* "ndb v0.1 - v0.1.1.1":http://github.com/smtlaissezfaire/ndb/tree/0.1.1.1
 * "node-async-testing 6c03f43":http://github.com/bentomas/node-async-testing/commit/6c03f43c0d34587504cbda355b6a74e44e681abd
 * "node-htmlparser v1.1.0":http://github.com/tautologistics/node-htmlparser/tree/v1.1.0
 * "node-memcache":http://github.com/vanillahsu/node-memcache
