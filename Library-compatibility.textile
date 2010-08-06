@@ -2,6 +2,7 @@ Node is under heavy development and its API changes rapidly. Instead of simply a
 
 h2. Node v0.1.97
 * "node-email v0.0.3":http://github.com/aheckmann/node-email/tree/v0.0.3
+* "node-snpp v0.1.1":http://github.com/jsanders/node-snpp/tree/v0.1.1
 
 h2. Node v0.1.96
 * "commonjs-utils v0.1.0":http://github.com/kriszyp/commonjs-utils/tree/v0.1.0
@@ -21,6 +22,7 @@ h2. Node v0.1.96
 * "node-poormansmysql v0.1":http://github.com/mscdex/node-poormansmysql/tree/v0.1
 * "node-ncurses @ 9d64781":http://github.com/mscdex/node-ncurses/tree/9d647811f9159d3bb622ffa73c4ef7728882b53f
 * "node-asterisk @ 6edf9a1":http://github.com/mscdex/node-asterisk/tree/6edf9a131a40d95c3d34cc0d5ecec0b0351746e4
+* "node-snpp v0.1.1":http://github.com/jsanders/node-snpp/tree/v0.1.1
 
 h2. Node v0.1.95
 * "node-chat v0.2.1":http://github.com/scottgonzalez/node-chat/tree/v0.2.1
@@ -41,6 +43,7 @@ h2. Node v0.1.95
 * "node-mongodb-native V0.7.4":http://github.com/christkv/node-mongodb-native/tree/V0.7.4
 * "riak-js @ fbd38e":http://github.com/frank06/riak-js/tree/fbd38ecc3c838062b1e95fd4c427aa96d64f66d5
 * "jimi":http://github.com/colingourlay/jimi/tree/fac3e697d1647aea1cbd7f7535f9a95f9b83a98e
+* "node-snpp v0.1.1":http://github.com/jsanders/node-snpp/tree/v0.1.1
 
 h2. Node v0.1.94
 * "node-elf-logger v0.1":http://github.com/TooTallNate/node-elf-logger/tree/v0.1
