@@ -64,6 +64,8 @@ h2. UTC-8
 ** "GitHub":http://github.com/mattly "Twitter":http://twitter.com/mattly
 * Matthew Eernisse (mde)
 ** "GitHub":http://github.com/mde, "Twitter":http://twitter.com/mde, "Website":http://fleegix.org/
+* Carl Sverre (carlsverre), Victoria, BC, Canada
+** "GitHub":http://github.com/carlsverre, "Website":http://carlsverre.com
 
 h2. UTC-7 (-6)
 * Michaeljohn Clement (inimino)
