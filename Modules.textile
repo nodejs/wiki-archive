@@ -3,7 +3,7 @@ h3(#database). "Database":#database
 * "node-couch":http://github.com/sixtus/node-couch/tree/master -- a CouchDB connector
 * "node-tyrant":http://github.com/waveto/node-tyrant/tree/master -- An implementation of the Tokyo Tyrant network protocol for the Node.js
 * "postgres-js":http://github.com/creationix/postgres-js/tree/master -- Postgres protocol implemented in pure JS
-* "persistence":http://github.com/creationix/node-persistence -- Multi-backend database/nosql system.  Currently has a Sqlite3 driver.
+* "persistence":http://github.com/creationix/node-persistence -- Multi-backend database/nosql system.  Currently has a Sqlite3, Postgres and in-memory drivers.
 * "node_postgres":http://github.com/ry/node_postgres -- Beginning of bindings to libpg
 * "node.dbslayer.js":http://github.com/Guille/node.dbslayer.js/ - Interface to DBSlayer (MySQL)
 * "node-fleet":http://github.com/jfd/node-fleet -- a FleetDB Client
