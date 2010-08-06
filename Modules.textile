@@ -140,7 +140,7 @@ h3(#debugging). "Debugging / Console Utilities":#debugging
 h3(#compression). "Compression":#compression
 * "node-compress":http://github.com/waveto/node-compress -- streaming compression / gzip library
 
-h3(#graphics). "Graphics".#graphics
+h3(#graphics). "Graphics":#graphics
 * "node-gd":http://github.com/taggon/node-gd -- GD graphic library bindings
 
 h3(#other). "Other":#other
