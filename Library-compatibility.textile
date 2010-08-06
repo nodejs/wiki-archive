@@ -7,6 +7,7 @@ h2. Node v0.1.93
 * "jefe 0.1.0":http://github.com/fictorial/jefe/tree/v0.1.0
 * "ndb v0.1.2":http://github.com/smtlaissezfaire/ndb/tree/0.1.2
 * "node-email v0.0.1":http://github.com/aheckmann/node-email/tree/v0.0.1
+* "node-poormansmysql v0.1":http://github.com/mscdex/node-poormansmysql/tree/v0.1
 
 h2. Node v0.1.92
 * "node-chat v0.2.0":http://github.com/scottgonzalez/node-chat/tree/v0.2.0
@@ -36,6 +37,7 @@ h2. Node v0.1.92
 * "node-mongodb-native V0.7.2":http://github.com/christkv/node-mongodb-native/tree/V0.7.2
 * "ndb v0.1.2":http://github.com/smtlaissezfaire/ndb/tree/0.1.2
 * "node-email v0.0.1":http://github.com/aheckmann/node-email/tree/v0.0.1
+* "node-poormansmysql v0.1":http://github.com/mscdex/node-poormansmysql/tree/v0.1
 
 h2. Node v0.1.91
 * "express v0.9.0":http://github.com/visionmedia/express/tree/0.9.0
