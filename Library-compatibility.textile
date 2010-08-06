@@ -14,6 +14,8 @@ h2. Node v0.1.93
 * "node-poormansmysql v0.1":http://github.com/mscdex/node-poormansmysql/tree/v0.1
 * "node-htmlparser v1.3.4":http://github.com/tautologistics/node-htmlparser/tree/v1.3.4
 * "nodemachine v0.2.5":http://github.com/tautologistics/nodemachine/tree/v0.2.5
+* "node-redis v0.0.1":http://github.com/tristandunn/node-redis/tree/v0.0.1
+* "node-websocket v0.0.1":http://github.com/tristandunn/node-websocket/tree/v0.0.1
 
 h2. Node v0.1.92
 * "node-chat v0.2.0":http://github.com/scottgonzalez/node-chat/tree/v0.2.0
@@ -82,10 +84,8 @@ h2. Node v0.1.90
 * "node-memcache @ ffc40be":http://github.com/vanillahsu/node-memcache/tree/ffc40be38fd6004fd2c7070dba11910c4b6b5ebe
 * "node-mongodb-native":http://github.com/christkv/node-mongodb-native/tree/V0.7.0
 * "node-mysql-libmysqlclient v0.0.6":http://github.com/Sannis/node-mysql-libmysqlclient/tree/v0.0.6
-* "node-redis v0.0.1":http://github.com/tristandunn/node-redis/tree/v0.0.1
 * "node-router v0.0.3":http://github.com/creationix/node-router/tree/v0.0.3
 * "node-sqlite @ ecaa583":http://github.com/orlandov/node-sqlite/tree/ecaa58310517c1521dc394f0b6a4ea62037f5692
-* "node-websocket v0.0.1":http://github.com/tristandunn/node-websocket/tree/v0.0.1
 * "nodemachine v0.2.5":http://github.com/tautologistics/nodemachine/tree/v0.2.5
 * "nodeunit @ daa9986":http://github.com/caolan/nodeunit/tree/daa9986ee6a5266c2e02eae5e3a8bd6904bbcee8
 * "proto v0.0.1":http://github.com/creationix/proto/tree/v0.0.1
