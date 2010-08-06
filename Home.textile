@@ -1,38 +1,53 @@
-h2. Projects using node
+h2. Modules/frameworks/tools for node
 
-* "pubsub":http://www.nonblocking.io/2009/06/scalable-pubsub-with-nodejs.html -- by Malte Ubl
-* "frisbee":http://github.com/ujh/frisbee/tree/master -- A clone of the Disqus blog commenting system, by Urban Hafner
-* "hxV8":http://github.com/blackdog66/hxV8/tree/master -- the haXe &rarr; javascript compiler with modifications to use node I/O. by blackdog66
-* "node_chat":http://github.com/ry/node_chat by ry (live demo at <a href="http://chat.tinyclouds.org">chat.tinyclouds.org</a>)
+Building blocks for other node projects.
+
+h3. Database
 * "redis-node-client":http://github.com/fictorial/redis-node-client/tree/master -- by Fictorial
 * "node-couch":http://github.com/sixtus/node-couch/tree/master -- a CouchDB connector
-* "express":http://github.com/visionmedia/express/tree/master -- a Sinatra clone
 * "node-tyrant":http://github.com/waveto/node-tyrant/tree/master -- An implementation of the Tokyo Tyrant network protocol for the Node.js
+* "postgres-js":http://github.com/creationix/postgres-js/tree/master -- Postgres protocol implemented in pure JS
+* "node_postgres":http://github.com/ry/node_postgres -- Beginning of bindings to libpg
+
+h3. Web frameworks
+* "express":http://github.com/visionmedia/express/tree/master -- a Sinatra clone
 * "coltrane":http://github.com/ujh/coltrane/tree/master -- A try at a higher level library/framework for node.js web development
 * "vroom":http://github.com/raycmorgan/vroom/tree/master -- A simple resource oriented web framework built on top of Node.js
-* "postgres-js":http://github.com/creationix/postgres-js/tree/master -- Postgres protocol implemented in pure JS
+* "node-router":http://github.com/creationix/node-router -- Simple Sinatra-like http server based on fu.js from the original node-chat demo.
+* "simplex":http://github.com/mshakhan/simplex 
+
+h3. Other
 * "optparse-js":http://github.com/jfd/optparse-js/tree/master -- Option Parser in JS
 * "libxmljs":http://github.com/sprsquish/libxmljs -- Beginning of bindings to libxml2
-* "node_postgres":http://github.com/ry/node_postgres -- Beginning of bindings to libpg
 * "spectacular":http://github.com/jcrosby/spectacular -- for testing
 * "jspec":http://github.com/visionmedia/jspec -- for testing
-* "node-router":http://github.com/creationix/node-router -- Simple Sinatra-like http server based on fu.js from the original node-chat demo.
-* "node-debug":http://github.com/Connorhd/node_debug/tree/master
-* "aiobot":http://github.com/sztanpet/aoibot a very crude abusing of node.js and javascript as a whole aiming to provide a simple bot for irc
+* "node_debug":http://github.com/Connorhd/node_debug/tree/master -- HTTP based console and object explorer
 * "node package manager":http://github.com/isaacs/npm
 * "node-XMLHttpRequest":http://github.com/driverdan/node-XMLHttpRequest
-* "simplex":http://github.com/mshakhan/simplex 
+
 * "bertrpc":http://github.com/rtomayko/node-bertrpc
 * "jsonrpc":http://github.com/ericflo/node-jsonrpc
 
 h2. Modules with node support
+
+CommonJS compatible modules that can be used with node.
+
 * "haml-js":http://github.com/creationix/haml-js -- Server side html generation using javascript.  Parses haml templates and renders html.
 * "match-js":http://github.com/jfd/match-js -- Simple pattern matching (functional style) in JS.
 * "datatypes-js":http://github.com/jfd/datatypes-js -- Byte encoding/decoding for typical datatypes in JS.
+
+h2. Projects using node
+
+Complete projects that use node.
+
+* "node_chat":http://github.com/ry/node_chat by ry (live demo at <a href="http://chat.tinyclouds.org">chat.tinyclouds.org</a>)
+* "pubsub":http://www.nonblocking.io/2009/06/scalable-pubsub-with-nodejs.html -- by Malte Ubl
+* "frisbee":http://github.com/ujh/frisbee/tree/master -- A clone of the Disqus blog commenting system, by Urban Hafner
+* "hxV8":http://github.com/blackdog66/hxV8/tree/master -- the haXe &rarr; javascript compiler with modifications to use node I/O. by blackdog66
+* "aiobot":http://github.com/sztanpet/aoibot a very crude abusing of node.js and javascript as a whole aiming to provide a simple bot for irc
 
 h2. Companies using node
 
 * "Fictorial":http://fictorial.com
 * "Debuggable":http://debuggable.com/  (using node.js for "transload.it's":http://transload.it/ file uploading & encoding server)
 * "Adcloud":http://adcloud.com/ (Javascript Adserver on EC2)
-* ...
