@@ -19,6 +19,7 @@ h3. Web frameworks
 * "(fab)":http://github.com/jed/fab -- A chained DSL for building node.js apps
 * "Picard":http://github.com/dantebronto/picard
 * "Nerve":http://github.com/gjritter/nerve -- Microframework with simple array-based syntax for defining an app on top of node.
+* "tmpl-node":http://github.com/jed/tmpl-node -- a feature-rich template module for node.js
 * "template.node.js":http://github.com/jazzychad/template.node.js -- A light, fast, cached template module for node.
 
 h3. Other
