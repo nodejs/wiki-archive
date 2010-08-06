@@ -43,5 +43,6 @@ h2. UTC+1 (+2)
 ** "Website":http://dev.af83.com/, "Twitter":http://twitter.com/brmichel
 
 h2. UTC+2 (+3)
+
 * Artem Gnilov (Boo), Ukraine
 ** "Blog":http://boo.openbdsm.org/, "Twitter":http://twitter.com/BooBSD
