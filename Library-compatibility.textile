@@ -1,7 +1,7 @@
 Node is under heavy development and its API changes rapidly. Instead of simply a listing of modules which may or may not work with the version of Node installed on one's computer, this will provide a list of module versions which are known to work with specific versions of node.
 
 h2. Node v0.1.102
-* "gm v0.2.0":http://github.com/aheckmann/gm/tree/v0.2.0
+* "gm v0.2.1":http://github.com/aheckmann/gm/tree/v0.2.1
 * "stencil v0.3":http://github.com/thetalecrafter/stencil/tree/v0.3
 * "Grasshopper v0.2.0":http://github.com/tuxychandru/grasshopper/tree/0.2.0
 
