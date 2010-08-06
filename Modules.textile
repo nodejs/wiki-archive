@@ -50,12 +50,18 @@ h4(#middleware). "Middleware":#middleware
 * "media":http://github.com/kriszyp/pintura/blob/master/lib/jsgi/media.js - Performs content type negotiation (per RFC2616) delegating to appropriate media handler. (JSGI)
 * "csrf":http://github.com/kriszyp/pintura/blob/master/lib/jsgi/csrf.js - Checks HTTP request for possible cross-site request forgery, flags dangerous requests. (JSGI)
 * "xsite":http://github.com/kriszyp/pintura/blob/master/lib/jsgi/xsite.js - Handles JSONP, window.name, and cross-origin XHR (CORS). (JSGI)
-* "rewriter":http://github.com/kriszyp/pintura/blob/master/lib/jsgi/rewriter.js - Redirects defined paths to other URLs. (JSGI)
+* "rewriter":http://github.com/kriszyp/pintura/blob/master/lib/jsgi/rewriter.js - Rewrites defined paths to other paths. (JSGI)
 * "static":http://github.com/kriszyp/pintura/blob/master/lib/jsgi/static.js - Static file handler using asynchronous streaming. (JSGI)
 * "error":http://github.com/kriszyp/pintura/blob/master/lib/jsgi/error.js - Catches uncaught errors and converts to appropriate HTTP error responses. (JSGI)
 * "conditional":http://github.com/kriszyp/pintura/blob/master/lib/jsgi/conditional.js - Handles conditional HTTP requests (If-Modified-Since, etc.) (JSGI)
 * "http-params":http://github.com/kriszyp/pintura/blob/master/lib/jsgi/http-params.js - Converts HTTP parameters http-<name> to headers. (JSGI)
 * "auth":http://github.com/kriszyp/pintura/blob/master/lib/jsgi/auth.js - Handles Authentication (HTTP and cookie based). (JSGI)
+* "commonlogger":http://github.com/280north/jack/blob/0.3/lib/jack/commonlogger.js - A logger of HTTP requests. (JSGI)
+* "contentlength":http://github.com/280north/jack/blob/0.3/lib/jack/contentlength.js - Sets Content-Length header. (JSGI)
+* "head":http://github.com/280north/jack/blob/0.3/lib/jack/head.js - Handles HEAD requests (stripping body). (JSGI)
+* "redirect":http://github.com/280north/jack/blob/0.3/lib/jack/redirect.js - Redirects to other URLs
+* "urlmap":http://github.com/280north/jack/blob/0.3/lib/jack/urlmap.js - Maps to different apps by path/URL
+
 
 h4(#web-frameworks-other). "Other":#web-frameworks-other
 * "node-elf-logger":http://github.com/TooTallNate/node-elf-logger -- Configurable HTTP logging library following the "W3C Extended Log File Format specification":http://www.w3.org/TR/WD-logfile.html
