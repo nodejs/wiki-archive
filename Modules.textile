@@ -323,6 +323,7 @@ h3(#other). "Other":#other
 * "node-cron":http://github.com/ncb000gt/node-cron -- Schedule callbacks with cron syntax
 * "node-email":http://github.com/aheckmann/node-email -- A simple wrapper around sendmail
 * "node-Daemon":http://github.com/Eyjafjallajokull/node-Daemon -- Restart node script after each change in main script or its dependencies
+* "node-iconv":http://github.com/bnoordhuis/node-iconv -- iconv bindings, character encoding conversion made easy.
 * "node_mailer":http://github.com/marak/node_mailer -- send emails from node.js to an smtp server, simple as cake 
 * "node-flickr":http://github.com/edds/node-flickr -- A simple library to enable easy use of the flickr api
 * "node-geoip":http://github.com/strange/node-geoip -- geoip city lookup module (uses libgeoip)
