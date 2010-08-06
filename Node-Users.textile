@@ -306,6 +306,8 @@ h2. UTC+1 (+2)
 ** "Github":http://github.com/tbo
 * Alberto de Luis
 ** "Github":http://github.com/aldeluis
+* Damien Mathieu (dmathieu)
+** "Blog":http://www.dmathieu.com/, "Twitter":http://twitter.com/dmathieu
 
 h2. UTC+2 (+3)
 
