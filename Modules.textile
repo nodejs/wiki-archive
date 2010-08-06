@@ -170,7 +170,7 @@ h3(#other). "Other":#other
 * "Jerk":http://github.com/gf3/Jerk -- A fun little IRC bot library for node.js.
 * "node-maxmind":http://github.com/gyordanov/node-maxmind — maxmind/geoip module (using libgeoip)
 * "node-sandbox":http://github.com/gf3/node-sandbox -- A rudimentary javascript sandbox for use with node.js
-* "node-promise":http://github.com/krizyp/node-promise -- Robust promises for node.js, includes promise utilities and promise-based I/O library
+* "node-promise":http://github.com/kriszyp/node-promise -- Robust promises for node.js, includes promise utilities and promise-based I/O library
 
 h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":#commonjs-compat
 
