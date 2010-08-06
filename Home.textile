@@ -11,3 +11,5 @@
 <a href="http://github.com/ry/node_chat">node_chat</a> by ry (live demo at <a href="http://chat.tinyclouds.org">chat.tinyclouds.org</a>)
 
 <a href="http://github.com/sixtus/node-couch/tree/master">node-couch</a> a CouchDB connector
+
+<a href="http://github.com/visionmedia/express/tree/master">express</a> -- a Sinatra clone
