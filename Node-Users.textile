@@ -18,6 +18,8 @@ h2. UTC-8
 ** "GitHub":http://github.com/isaacs, "Twitter":http://twitter.com/izs, "Website":http://blog.izs.me
 * Ray Morgan (raymorgan)
 ** "GitHub":http://github.com/raycmorgan, "Twitter":http://twitter.com/raycmorgan, "Website":http://raycmorgan.com
+* Kris Kowal (kriskowal)
+** "Github":http://github.com/kriskowal, "Twitter":http://twitter.com/kriskowal, "Website":http://askawizard.blogspot.com
 
 h2. UTC-7 (-6)
 * Michaeljohn Clement (inimino)
