@@ -270,6 +270,7 @@ h3(#graphics). "Graphics":#graphics
 * "node-ogl":http://github.com/tmpvar/node-ogl -- OpenGL bindings
 * "node-webgl":http://github.com/pufuwozu/node-webgl -- WebGL emulation
 * "gm":http://github.com/aheckmann/gm -- GraphicsMagick for node
+* "node-video":http://github.com/pkrumins/node-video -- Create Theora/OGG videos from RGB(A) buffers (and stream them via <video> tag)
 
 h3(#other). "Other":#other
 * "behaviors":http://github.com/caolan/behaviors -- A simple way to check a module's exports, useful for 3rd party plugins and extensions
