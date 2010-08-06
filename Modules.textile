@@ -76,6 +76,8 @@ h4(#middleware). "Middleware":#middleware
 * "connect-rpx":http://github.com/xrd/connect-rpx - Use RPX with Node.js and Connect (Connect)
 * "connect-assetmanager":http://github.com/mape/connect-assetmanager - Asset manager for Connect for handling CSS/JS files (Connect)
 * "session":http://github.com/kriszyp/pintura/blob/master/lib/jsgi/session.js - Session manager with pluggable storage handling (JSGI)
+* "dispatch":http://github.com/caolan/dispatch -- Regular expression URL dispatcher (Connect)
+* "quip":http://github.com/caolan/quip -- Chainable HTTP response API (Connect)
 
 h4(#web-frameworks-other). "Other":#web-frameworks-other
 * "Connect":http://github.com/senchalabs/connect -- Middleware framework packed with high quality / performance middleware
