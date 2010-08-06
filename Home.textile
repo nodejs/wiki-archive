@@ -8,6 +8,7 @@ h3. Database
 * "node-tyrant":http://github.com/waveto/node-tyrant/tree/master -- An implementation of the Tokyo Tyrant network protocol for the Node.js
 * "postgres-js":http://github.com/creationix/postgres-js/tree/master -- Postgres protocol implemented in pure JS
 * "node_postgres":http://github.com/ry/node_postgres -- Beginning of bindings to libpg
+* "node.dbslayer.js":http://github.com/Guille/node.dbslayer.js/ - Interface to DBSlayer (MySQL)
 
 h3. Web frameworks
 * "express":http://github.com/visionmedia/express/tree/master -- a Sinatra clone
