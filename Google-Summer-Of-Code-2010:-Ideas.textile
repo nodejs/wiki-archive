@@ -25,7 +25,7 @@ h2. Other
 ** And/or maybe "jsdom":http://github.com/tmpvar/jsdom (-tmpvar: this is already available to node!)
 ** Abstract "Qt's DOM Parser":http://doc.trolltech.com/4.4/qdomdocument.html for use within Node.js.
 *** Maybe a better idea, is to bind libxml2 and a XML serializer
-* <strike>Add support for UDP to node</strike>
+* <strike>Add support for UDP to node</strike> (Commit "02da5ed":http://github.com/ry/node/commit/02da5ed4a1f63bb0990b8e7b1fd0793cd045cbb0)
 * A graphics library, ideally using the same API as html canvas (a solid set of low level bindings to Cairo or AGG or Skia would suffice)
 * Implement a well-documented, @require()@able message queue server (using AMQP?)
 * Implement a well-documented, @require()@able IRC server
