@@ -18,6 +18,7 @@ h2. Node v0.1.95
 * "node-asterisk @ 6edf9a1":http://github.com/mscdex/node-asterisk/tree/6edf9a131a40d95c3d34cc0d5ecec0b0351746e4
 * "node-mongodb-native V0.7.4":http://github.com/christkv/node-mongodb-native/tree/V0.7.4
 * "riak-js @ fbd38e":http://github.com/frank06/riak-js/tree/fbd38ecc3c838062b1e95fd4c427aa96d64f66d5
+* "jimi @ fac3e6":http://github.com/colingourlay/jimi/tree/fac3e697d1647aea1cbd7f7535f9a95f9b83a98e
 
 h2. Node v0.1.94
 * "node-elf-logger v0.1":http://github.com/TooTallNate/node-elf-logger/tree/v0.1
