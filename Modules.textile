@@ -54,6 +54,7 @@ h3(#database). "Database":#database
 * "awesome":http://github.com/janl/awesome -- a Redis clone in node.js
 * "perstore":http://github.com/kriszyp/perstore -- JavaScript persistence/object store with pluggable storage based on the "W3C DB API":http://www.w3.org/TR/IndexedDB/
 * "node-riak":http://github.com/orlandov/node-riak -- Riak client library
+* "noodb":http://github.com/randomekek/noodb.js -- A simple and small file backed javascript key-value store
 
 h3(#templating). "Templating":#templating
 * "sass.js":http://github.com/visionmedia/sass.js -- Parses Sass templates and renders css.
