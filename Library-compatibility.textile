@@ -8,6 +8,7 @@ h2. Node v0.1.92
 * "do v0.0.2":http://github.com/creationix/do/tree/v0.0.2
 * "haml-js v0.2.4":http://github.com/creationix/haml-js/tree/v0.2.4
 * "html5":http://github.com/aredridel/html5
+* "jefe":http://github.com/fictorial/jefe
 * "microtemplates v0.0.1":http://github.com/creationix/microtemplates/tree/v0.0.1
 * "node-git v0.0.2":http://github.com/creationix/node-git/tree/v0.0.2
 * "node-router v0.0.4":http://github.com/creationix/node-router/tree/v0.0.4
