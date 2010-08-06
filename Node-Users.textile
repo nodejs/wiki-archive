@@ -48,6 +48,8 @@ h2. UTC-8
 ** "GitHub":http://github.com/rsdoiel, "Twitter":http://twitter.com/rsdoiel, "Website":http://phizcode.blogspot.com
 * Schell Scivally (efnx)
 ** "GitHub":http://github.com/efnx, "Website":http://blog.efnx.com
+* Ben Lund
+** "GitHub":http://github.com/benlund, "Website":http://team.academia.edu/BenLund
 
 h2. UTC-7 (-6)
 * Michaeljohn Clement (inimino)
