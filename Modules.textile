@@ -25,6 +25,7 @@ h3(#database). "Database":#database
 * "node-mongodb":http://github.com/orlandov/node-mongodb -- Async interface to MongoDBm
 * "node-dirty":http://github.com/felixge/node-dirty -- A key value store for node.js that is simple, fast & dirty.
 * "node-sqlite":http://github.com/grumdrig/node-sqlite -- Bindings for SQLite3. Interface conforms to the "HTML5 Web SQL API":http://dev.w3.org/html5/webdatabase/#sql.
+* "node-memcache":http://github.com/vanillahsu/node-memcache -- a memcache client base on libmemcached
 
 h3(#templating). "Templating":#templating
 * "sass.js":http://github.com/visionmedia/sass.js -- Parses Sass templates and renders css.
