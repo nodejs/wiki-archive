@@ -27,7 +27,8 @@ h2. Date.prototype
 
 h2. Object
  * @create( proto, props )@ - Creates a new object whose prototype is the passed in parent object. 
- * @keys(object)@ - Returns a list of the ownProperties of an object.
+ * @keys(object)@ - Returns a list of the ownProperties of an object that are enumerable.
+ * @getOwnPropertyNames(object)@ - Returns a list of the ownProperties of an object including ones that are not enumerable.
  * @getPrototypeOf(object)@ - Returns the prototype of an object.
  * @getOwnPropertyDescriptor(object, property)@ - Returns an object with keys describing the description of a property (value, writable, enumerable, configurable)
 
@@ -51,7 +52,6 @@ h1. Missing features
  * @Object.freeze(obj)@ - 
  * @Object.preventExtensions(obj)@ - 
  * @Object.isExtensible(obj)@ - 
- * @Object.getOwnPropertyNames( obj )@
  * @Object.defineProperty( obj, prop, desc )@
  * @Object.defineProperties( obj, props )@
  * @Object.seal( obj )@
