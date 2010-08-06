@@ -93,5 +93,3 @@ h2. Companies using node
 * "NewsBasis":http://newsbasis.com (not yet launched) -- Web crawler and async work in node
 * "ipowerhouse":http://www.ipowerhouse.com - Focused on haXe/Node.js  game dev; first all haxe/node bingo product.
 * "clickdummy":http://clickdummy.net - Fast prototyping for designers and dummies
-* "getbiz":http://www.getbiz.co.uk - real time quotes
-* "dissertation help":http://www.realdissertationwriting.com - dissertation help
