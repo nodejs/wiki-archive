@@ -88,6 +88,7 @@ h3(#database). "Database":#database
 * "mongoose":http://www.learnboost.com/mongoose/ -- Mongoose is a javascript library that makes working with MongoDB a breeze.
 * "node-poormansmysql":http://github.com/mscdex/node-poormansmysql -- Asynchronous MySQL driver for node.js using the mysql command-line tool
 * "node-mysql":http://github.com/masuidrive/node-mysql -- Pure Javascript MySQL async driver
+* "node-mysql-native":http://github.com/sidorares/nodejs-mysql-native -- Yet another pure JS async driver. Pipelining, prepared statements.
 * "node-mysql-libmysqlclient":http://github.com/Sannis/node-mysql-libmysqlclient -- MySQL synchronous bindings based on libmysqlclient
 * "node-riak":http://github.com/orlandov/node-riak -- Riak client library
 * "node-sqlite":http://github.com/grumdrig/node-sqlite -- Bindings for SQLite3. Interface conforms to the "HTML5 Web SQL API":http://dev.w3.org/html5/webdatabase/#sql.
