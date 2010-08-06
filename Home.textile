@@ -28,7 +28,6 @@ h2. Projects / Applications
 * "zztmmo":http://github.com/marak/zztmmo - a zzt based massive multiplayer online game built in node.js and jQuery
 * "diretto":http://www.diretto.org/ - Distributed Recon/Reporting Transceiver Toolkit – Uses Node.js for web-based media storage and delivery
 * "ElusiveHippo":http://elusivehippo.com - Push deployment for nodejs (written entirely in nodejs).
-* "Newspaper Club":http://www.newspaperclub.co.uk - Uses node.js for wrapping a nasty SOAP interface to InDesign Server.
 
 h2. Articles
 * "pubsub":http://www.nonblocking.io/2009/06/scalable-pubsub-with-nodejs.html -- by Malte Ubl
@@ -69,3 +68,4 @@ h2. Companies using node
 * "Vision Media":http://vision-media.ca -- Web development firm based in Victoria, BC
 * "Ylastic":http://ylastic.com/ - uses node for report processing and admin app
 * "Pixelspark":http://www.pixelspark.nl/
+* "Newspaper Club":http://www.newspaperclub.co.uk - Uses node.js for wrapping a nasty SOAP interface to InDesign Server.
