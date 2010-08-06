@@ -17,6 +17,7 @@ h3. Web frameworks
 * "simplex":http://github.com/mshakhan/simplex 
 * "(fab)":http://github.com/jed/fab -- A chained DSL for building node.js apps
 * "Picard":http://github.com/dantebronto/picard
+* "Nerve":http://github.com/gjritter/nerve -- Microframework with simple array-based syntax for defining an app on top of node.
 
 h3. Other
 * "optparse-js":http://github.com/jfd/optparse-js/tree/master -- Option Parser in JS
