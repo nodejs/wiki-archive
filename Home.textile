@@ -20,6 +20,7 @@ h2. Projects using node
 * "node-debug":http://github.com/Connorhd/node_debug/tree/master
 * "aiobot":http://github.com/sztanpet/aoibot a very crude abusing of node.js and javascript as a whole aiming to provide a simple bot for irc
 * "node package manager":http://github.com/isaacs/npm
+* "node-XMLHttpRequest":http://github.com/driverdan/node-XMLHttpRequest
 
 h2. Companies using node
 
