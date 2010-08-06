@@ -68,6 +68,8 @@ h2. UTC-5 (-4)
 ** "Twitter":http://twitter.com/kyleslattery, "Github":http://github.com/kyleslattery/, "Website":http://kyleslattery.com
 * Adam Solove
 ** "Twitter":http://www.twitter.com/asolove, "Github":http://github.com/asolove, "Web app":http://www.on-deco.com
+* Rob Crowther (weilawei)
+** "GitHub":http://github.com/weilawei, "Twitter":http://twitter.com/weilawei
 
 h2. UTC-4 (-3)
 
