@@ -23,6 +23,7 @@ h3(#database). "Database":#database
 * "node.dbslayer.js":http://github.com/Guille/node.dbslayer.js/ - Interface to DBSlayer (MySQL)
 * "node-fleet":http://github.com/jfd/node-fleet -- a FleetDB Client
 * "node-mongodb":http://github.com/orlandov/node-mongodb -- Async interface to MongoDBm
+* "node-mongodb-native":http://github.com/christkv/node-mongodb-native -- A pure javascript driver for MongoDBm
 * "node-dirty":http://github.com/felixge/node-dirty -- A key value store for node.js that is simple, fast & dirty.
 * "node-sqlite":http://github.com/grumdrig/node-sqlite -- Bindings for SQLite3. Interface conforms to the "HTML5 Web SQL API":http://dev.w3.org/html5/webdatabase/#sql.
 * "node-memcache":http://github.com/vanillahsu/node-memcache -- a memcache client base on libmemcached
