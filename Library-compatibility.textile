@@ -19,6 +19,7 @@ h2. Node v0.1.90
 * "node-memcache":http://github.com/vanillahsu/node-memcache
 * "nodeunit":http://github.com/caolan/nodeunit/tree/daa9986ee6a5266c2e02eae5e3a8bd6904bbcee8
 * "NoSQLite":http://github.com/mrjjwright/NoSQLite
+* "Limestone":http://github.com/kurokikaze/limestone
 * "node-mysql-libmysqlclient v0.0.6":http://github.com/Sannis/node-mysql-libmysqlclient/tree/v0.0.6
 
 h2. Node v0.1.33
