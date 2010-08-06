@@ -18,7 +18,7 @@ h2. UTC-8
 ** "GitHub":http://github.com/isaacs, "Twitter":http://twitter.com/izs, "Website":http://blog.izs.me
 * Ray Morgan (raymorgan)
 ** "GitHub":http://github.com/raycmorgan, "Twitter":http://twitter.com/raycmorgan, "Website":http://raycmorgan.com
-* Kris Kowal (kriskowal)
+* Kris Kowal (kriskowal), Pasadena, LA, CA, US
 ** "Github":http://github.com/kriskowal, "Twitter":http://twitter.com/kriskowal, "Website":http://askawizard.blogspot.com
 * Josh Steiner (vitriolix)
 ** "Github":http://github.com/vitriolix, "Twitter":http://twitter.com/__iter__/, "Website":http://vitriolix.com
