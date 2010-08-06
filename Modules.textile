@@ -126,6 +126,7 @@ h3(#testing). "Testing / Spec Frameworks":#testing
 * "spectacular":http://github.com/jcrosby/spectacular -- for testing
 * "Speks":http://github.com/ecavazos/speks -- A specification framework for your node-code
 * "vows.js":http://github.com/cloudhead/vows.js -- asynchronous testing in node.js
+* "node-assert-extras":http://gitorious.org/node-assert-extras -- Additional high level asserts
 
 h3(#wrappers). "Wrappers":#wrappers
 * "hxNode":http://github.com/blackdog66/hxNode/tree/master -- haXe wrappers for node
