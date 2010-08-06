@@ -16,6 +16,8 @@ h2. UTC-8
 ** "GitHub":http://github.com/tilgovi, "Twitter":http://twitter.com/tilgovi
 
 h2. UTC-7 (-6)
+* Michaeljohn Clement (inimino)
+** "Blog":http://inimino.org/~inimino/blog "Code":http://boshi.inimino.org/3box/
 * Greg Ritter (gjritter)
 ** "GitHub":http://github.com/gjritter, "Twitter":http://twitter.com/gjritter, "Website":http://www.codespin.com
 * Benjamin Thomas (bentomas)
