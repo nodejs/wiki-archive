@@ -20,7 +20,7 @@ h4(#web-frameworks-static). "Static file servers":#web-frameworks-static
 * "oui":http://github.com/rsms/oui -- Web service server with great static files support
 
 h4(#web-frameworks-micro). "Microframeworks":#web-frameworks-micro
-* "(fab)":http://www.fabjs.org -- A pure javascript DSL for building async web apps
+* "(fab)":http://www.fabjs.org -- A modular and concise async web framework for node.js
 * "Nerve":http://github.com/gjritter/nerve -- Microframework with simple array-based syntax for defining an app on top of node.
 * "rowan":http://github.com/idmillington/rowan -- A hierarchical microframework of reusable controllers and modular app logic.
 * "scylla":http://github.com/ithinkihaveacat/node-scylla -- EJSGI-compatible router where method names double as URL-matching patterns
