@@ -17,6 +17,7 @@ h2. Projects / Applications
 * "NodeMachine":http://github.com/tautologistics/nodemachine -- Port of WebMachine for Node.js
 * "LifeInText":http://github.com/weilawei/LifeInText -- LiT is a mashup platform for personal projects and snippets (under heavy construction).
 * "Ajax IM":http://github.com/endtwist/AjaxIM -- Ajax IM is an instant messaging server and framework for the browser.
+* "7 Minutes Chrono":http://www.7minuteschrono.com - A speed-dating chat application. Uses websockets and node.js
 
 h2. Articles
 * "pubsub":http://www.nonblocking.io/2009/06/scalable-pubsub-with-nodejs.html -- by Malte Ubl
@@ -36,4 +37,3 @@ h2. Companies using node
 * "MyBrands":http://www.mybrands.de -- web-tracker and product recommendations (node + couchdb)
 * "Deco":http://www.on-deco.com - Real-time collaborative mood boarding for web designers
 * "Joyent":http://www.joyent.com/
-* "7 Minutes Chrono":http://www.7minuteschrono.com - A speed-dating chat application. Uses websockets and node.js
