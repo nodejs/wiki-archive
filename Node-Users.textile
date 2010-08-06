@@ -206,6 +206,8 @@ h2. UTC+0 (+1)
 ** "GitHub":http://github.com/philhawksworth, "Twitter":http://twitter.com/philhawksworth, "Website":http://hawksworx.com/
 * Jakub Stastny (botanicus)
 ** "GitHub":http://github.com/botanicus, "Twitter":http://twitter.com/botanicus, "Website":http://blog.101ideas.cz
+* Premasagar Rose (premasagar)
+** "GitHub":http://github.com/premasagar, "Twitter":http://twitter.com/premasagar, "Website":http://dharmafly.com
 
 h2. UTC+1 (+2)
 * Lars Smit
