@@ -18,25 +18,26 @@ h4(#web-frameworks-static). "Static file servers":#web-frameworks-static
 * "oui":http://github.com/rsms/oui -- Web service server with great static files support
 
 h4(#web-frameworks-micro). "Microframeworks":#web-frameworks-micro
-* "vroom":http://github.com/raycmorgan/vroom/tree/master -- A simple resource oriented web framework built on top of Node.js
-* "Nerve":http://github.com/gjritter/nerve -- Microframework with simple array-based syntax for defining an app on top of node.
 * "(fab)":http://www.fabjs.org -- A pure javascript DSL for building async web apps
+* "rowan":http://github.com/idmillington/rowan -- A hierarchical microframework of reusable controllers and modular app logic.
+* "Nerve":http://github.com/gjritter/nerve -- Microframework with simple array-based syntax for defining an app on top of node.
 * "scylla":http://github.com/ithinkihaveacat/node-scylla -- EJSGI-compatible router where method names double as URL-matching patterns
+* "vroom":http://github.com/raycmorgan/vroom/tree/master -- A simple resource oriented web framework built on top of Node.js
 
 h4(#web-frameworks-full). "Frameworks":#web-frameworks-full
-* "express":http://github.com/visionmedia/express/tree/master -- A robust feature rich web development framework inspired by Sinatra
-* "coltrane":http://github.com/ujh/coltrane/tree/master -- A try at a higher level library/framework for node.js web development
-* "nodemachine":http://github.com/tautologistics/nodemachine -- A port of WebMachine to Node.js
-* "chain":http://github.com/hassox/chain/ -- An evented convention for building Node Applications
-* "js.io":http://github.com/mcarter/js.io -- Javascript Networking Library for building real-time web applications. Also see "JS.io":http://js.io
 * "Bomber":http://github.com/obt/bomberjs -- The early stages of a node.js web framework
+* "chain":http://github.com/hassox/chain/ -- An evented convention for building Node Applications
+* "coltrane":http://github.com/ujh/coltrane/tree/master -- A try at a higher level library/framework for node.js web development
+* "express":http://github.com/visionmedia/express/tree/master -- A robust feature rich web development framework inspired by Sinatra
+* "js.io":http://github.com/mcarter/js.io -- Javascript Networking Library for building real-time web applications. Also see "JS.io":http://js.io
+* "nodemachine":http://github.com/tautologistics/nodemachine -- A port of WebMachine to Node.js
 * "pintura":http://github.com/kriszyp/pintura -- REST-based web framework/"middleware":http://github.com/kriszyp/pintura/tree/master/lib/jsgi/ stack built for Ajax-style "JSON-driven applications":http://www.sitepen.com/blog/2010/01/22/introducing-pintura/.
 
 h4(#web-frameworks-other). "Other":#web-frameworks-other
-* "simplex":http://github.com/mshakhan/simplex 
-* "Picard":http://github.com/dantebronto/picard
 * "JSGI-Node":http://github.com/kriszyp/jsgi-node/ -- Asynchronous JSGI 0.3 Adapter for Node
 * "node-mime":http://github.com/bentomas/node-mime -- Utility module for mime-type lookups
+* "Picard":http://github.com/dantebronto/picard
+* "simplex":http://github.com/mshakhan/simplex 
 
 h3(#database). "Database":#database
 * "redis-node-client":http://github.com/fictorial/redis-node-client/tree/master -- Redis Client by Fictorial
@@ -62,9 +63,9 @@ h3(#database). "Database":#database
 * "riak-js":http://github.com/frank06/riak-js -- Riak Javascript client (works on node v0.1.30+)
 
 h3(#templating). "Templating":#templating
-* "sass.js":http://github.com/visionmedia/sass.js -- Parses Sass templates and renders css.
-* "haml-js":http://github.com/creationix/haml-js -- Server side html generation using javascript.  Parses haml templates and renders html.
 * "asyncEJS":http://github.com/cramforce/node-asyncEJS -- Asynchronous implementation of embedded JavaScript
+* "haml-js":http://github.com/creationix/haml-js -- Server side html generation using javascript.  Parses haml templates and renders html.
+* "sass.js":http://github.com/visionmedia/sass.js -- Parses Sass templates and renders css.
 * "tmpl-node":http://github.com/jed/tmpl-node -- a feature-rich template module for node.js
 * "template.node.js":http://github.com/jazzychad/template.node.js -- A light, fast, cached template module for node.
 * "JSON Template":http://github.com/andychu/json-template -- Minimal but powerful template language with multiple implementations.  This is the CommonJS version, tested on Node
