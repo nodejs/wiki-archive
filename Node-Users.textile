@@ -330,6 +330,8 @@ h2. UTC+10 or UTC+11
 ** "Twitter":http://twitter.com/drnic, "Github":http://github.com/drnic, "Website":http://drnicwilliams.com
 * Brian McKenna, Brisbane, Australia
 ** "Twitter":http://twitter.com/puffnfresh, "Github":http://github.com/pufuwozu, "Website":http://brianmckenna.org/
+* Andrei Railean, Sydney, Australia
+** "Twitter":http://twitter.com/andrei_md, "Github":http://github.com/andreirailean, "Website":http://andrei.md/
 
 h2. UTC+12
 
