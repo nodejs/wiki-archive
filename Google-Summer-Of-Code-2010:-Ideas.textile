@@ -21,3 +21,4 @@ h2. Other
 * Port "env.js":http://ejohn.org/blog/bringing-the-browser-to-the-server/ to node
 ** And/or maybe "jsdom":http://github.com/tmpvar/jsdom (-tmpvar: this is already available to node!)
 * Add support for UDP to node
+* A graphics library, ideally using the same API as html canvas (a solid set of low level bindings to Cairo or AGG or Skia would suffice)
