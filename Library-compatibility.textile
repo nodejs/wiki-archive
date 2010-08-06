@@ -3,6 +3,7 @@ Node is under heavy development and its API changes rapidly. Instead of simply a
 h2. Node v0.1.95
 * "node-htmlparser v1.4.0":http://github.com/tautologistics/node-htmlparser/tree/v1.4.0
 * "nodemachine v0.2.5":http://github.com/tautologistics/nodemachine/tree/v0.2.5
+* "node-email v0.0.3":http://github.com/aheckmann/node-email/tree/v0.0.3
 
 h2. Node v0.1.94
 * "node-elf-logger v0.1":http://github.com/TooTallNate/node-elf-logger/tree/v0.1
