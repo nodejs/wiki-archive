@@ -101,7 +101,7 @@ then debugger screen after session is connected would look like this:
 As it was mentioned before, avoid stepping over or into require() calls, so the first safe place to stop is at line 4.
 If you set breakpoint there and resume execution by  clicking "Play" button, the execution will stop at line 6, most likely due to JIT interaction.
 
-You probably noticed that Eclipse V8 debugger can not connect to the remote host. This feature request s already pending as low priority item. However it is very easy to use simple transparent TCP proxy script to enable your development machine to debug your application directly on the deployment or test server:
+You probably noticed that Eclipse V8 debugger can not connect to the remote host. This simple transparent TCP proxy script to will  enable debugging of the remote node application  on the deployment or test server:
 
 <pre>
 <code>
@@ -202,7 +202,7 @@ So, if you want to attach debugger to node instance on remote server www.example
 
 <pre>
 <code>
-DevMachine:$ node tcpproxy.js 5858 www.example.com 5858 &
+LocalMachine:$ node tcpproxy.js 5858 www.example.com 5858 &
 </code>
 </pre>
 
@@ -214,6 +214,6 @@ RemoteMachine:$ node --debug-brk MyApp.js
 </code>
 </pre>
 
-Now you can start debugging session on local port 5858 as usual. Note that tcpproxy.js needs to be started only once for particular remote host and port combination. If verbose option is set for the above script, it can be used as a sniffer for "V8 Debugger protocol":http://code.google.com/p/chromedevtools/wiki/ChromeDevToolsProtocol as well.
+Now you can start Eclipse debugging session via  local port 5858 as usual. The tcpproxy.js needs to be started only once for particular remote host and port combination. If verbose option is set, the tcpproxy.js may act as a  sniffer for "V8 Debugger protocol":http://code.google.com/p/chromedevtools/wiki/ChromeDevToolsProtocol as well.
 
-Eclipse V8 debugger can also be used in conjunction with gdb/ddd in order to debug native C/C++ code. For example, if particular invocation of frequently called native function is problematic, but all other ones are fine, you would first set the breakpoint in the script code, and once you hit this one, then you would set/enable the breakpoint in native function  as well.
+Eclipse V8 debugger can also be used in conjunction with gdb/ddd in order to debug native C/C++ code. For example, if particular invocation of frequently called native function is problematic, but the other ones are fine, you would first set the breakpoint in the script code, and once you hit this one, then you would set/enable the breakpoint in native function  as well.
