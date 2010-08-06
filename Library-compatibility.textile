@@ -1,6 +1,16 @@
 Node is under heavy development and its API changes rapidly. Instead of simply a listing of modules which may or may not work with the version of Node installed on one's computer, this will provide a list of module versions which are known to work with specific versions of node.
 
 h2. Node v0.1.92
+* "conductor v0.0.1":http://github.com/creationix/conductor/tree/v0.0.1
+* "do v0.0.2":http://github.com/creationix/do/tree/v0.0.2
+* "haml-js v0.2.4":http://github.com/creationix/haml-js/tree/v0.2.4
+* "microtemplates v0.0.1":http://github.com/creationix/microtemplates/tree/v0.0.1
+* "node-git v0.0.2":http://github.com/creationix/node-git/tree/v0.0.2
+* "node-router v0.0.4":http://github.com/creationix/node-router/tree/v0.0.4
+* "proto v0.0.1":http://github.com/creationix/proto/tree/v0.0.1
+* "step v0.0.2":http://github.com/creationix/step/tree/v0.0.2
+* "websocket v0.0.2":http://github.com/creationix/websocket/tree/v0.0.2
+* "wheat v0.0.2":http://github.com/creationix/wheat/tree/v0.0.2
 
 
 h2. Node v0.1.91
@@ -9,6 +19,16 @@ h2. Node v0.1.91
 * "node-mongodb-native":http://github.com/christkv/node-mongodb-native/tree/V0.7.0
 * "node-solr v0.0.4":http://github.com/gsf/node-solr/tree/v0.0.4
 * "nodeunit @ daa9986":http://github.com/caolan/nodeunit/tree/daa9986ee6a5266c2e02eae5e3a8bd6904bbcee8
+* "conductor v0.0.1":http://github.com/creationix/conductor/tree/v0.0.1
+* "do v0.0.2":http://github.com/creationix/do/tree/v0.0.2
+* "haml-js v0.2.4":http://github.com/creationix/haml-js/tree/v0.2.4
+* "microtemplates v0.0.1":http://github.com/creationix/microtemplates/tree/v0.0.1
+* "node-git v0.0.2":http://github.com/creationix/node-git/tree/v0.0.2
+* "node-router v0.0.4":http://github.com/creationix/node-router/tree/v0.0.4
+* "proto v0.0.1":http://github.com/creationix/proto/tree/v0.0.1
+* "step v0.0.2":http://github.com/creationix/step/tree/v0.0.2
+* "websocket v0.0.2":http://github.com/creationix/websocket/tree/v0.0.2
+* "wheat v0.0.2":http://github.com/creationix/wheat/tree/v0.0.2
 
 h2. Node v0.1.90
 
