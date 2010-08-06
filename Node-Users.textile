@@ -42,6 +42,8 @@ h2. UTC-8
 ** "GitHub":http://github.com/erichocean, "Twitter":http://twitter.com/erichocean, "Website":http://erichocean.com
 * Dav Glass (davglass), Cupertino, CA, US
 ** "GitHub":http://github.com/davglass, "Twitter":http://twitter.com/davglass, "Website":http://blog.davglass.com
+* Edward O'Connor (hober), San Diego, CA, US
+** "GitHub":http://github.com/hober, "Twitter":http://twitter.com/hober, "Website":http://edward.oconnor.cx/
 
 h2. UTC-7 (-6)
 * Michaeljohn Clement (inimino)
