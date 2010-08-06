@@ -3,6 +3,8 @@ Node is under heavy development and its API changes rapidly. Instead of simply a
 h2. Node v0.1.94
 * "node-htmlparser v1.3.4":http://github.com/tautologistics/node-htmlparser/tree/v1.3.4
 * "limestone v0.1":http://github.com/kurokikaze/limestone/tree/v0.1
+* "node-redis v0.0.1":http://github.com/tristandunn/node-redis/tree/v0.0.1
+* "node-websocket v0.0.1":http://github.com/tristandunn/node-websocket/tree/v0.0.1
 
 h2. Node v0.1.93
 * "Socket.IO 0.3.1":http://github.com/LearnBoost/Socket.IO-node/tree/0.3.1
