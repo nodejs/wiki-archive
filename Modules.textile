@@ -46,7 +46,7 @@ h4(#web-frameworks-full). "Frameworks":#web-frameworks-full
 * "MVC.js":http://github.com/tuxychandru/mvc.js/tree/master -- A simple MVC framework for **REST**-ful applications, with integrated **dependency-injection** support.
 * "nodemachine":http://github.com/tautologistics/nodemachine -- A port of WebMachine to Node.js
 * "pintura":http://github.com/kriszyp/pintura -- REST-based web framework/"middleware":http://github.com/kriszyp/pintura/tree/master/lib/jsgi/ stack built for Ajax-style "JSON-driven applications":http://www.sitepen.com/blog/2010/01/22/introducing-pintura/.
-* "jimi":http://github.com/colingourlay/jimi -- Building upon "djangode":http://github.com/simonw/djangode, this framework adds a modular app structure.
+* "jimi":http://github.com/colingourlay/jimi -- A framework for writing modular web applications in node.js ("tutorial":http://wiki.github.com/colingourlay/jimi/tutorial-hello-world)
 
 h4(#middleware). "Middleware":#middleware
 * "cascade":http://github.com/kriszyp/pintura/blob/master/lib/jsgi/cascade.js -- Sequentially attempts multiple middleware apps (JSGI).
