@@ -54,7 +54,7 @@ h2. UTC-6 (-5)
 * Tim Caswell (creationix), Dallas, TX, US
 ** "Blog":http://howtonode.org/, "Website":http://creationix.com/, "Twitter":http://twitter.com/creationix
 * Jim R. Wilson (jimbojw)
-** "Blog":http://jimbojw.com, "Website":http://trephine.org
+** "GitHub":http://github.com/jimbojw, "Blog":http://jimbojw.com, "Website":http://trephine.org
 * Aaron Heckmann (aheckmann)
 ** "Blog":http://aaronheckmann.blogspot.com/, "Website":http://www.aaronheckmann.net/, "Twitter":http://twitter.com/aaronheckmann
 * Brian Hammond (fictorial)
