@@ -28,6 +28,7 @@ h2. Projects / Applications
 * "Socket.IO":http://github.com/LearnBoost/Socket.IO-node - An abstraction over all the realtime transports (WebSocket, long polling, XHR multipart, etc) for the Node HTTP server
 * "zztmmo":http://github.com/marak/zztmmo - a zzt based massive multiplayer online game built in node.js and jQuery
 * "diretto":http://www.diretto.org/ - Distributed Recon/Reporting Transceiver Toolkit – Uses Node.js for web-based media storage and delivery
+* "ElusiveHippo":http://elusivehippo.com - Push deployment for nodejs (written entirely in nodejs).
 
 
 h2. Articles
