@@ -24,7 +24,8 @@ h2. UTC+1 (+2)
 ** "Website":http://sifu.co.at/, "Twitter":http://twitter.com/0xx0
 
 h2. UTC+2 (+3)
-* Artem Gnilov (Boo)
+
+* Artem Gnilov (Boo), Ukraine
 ** "Blog":http://boo.openbdsm.org/, "Twitter":http://twitter.com/BooBSD
 
 h2. UTC+9 (+0)
