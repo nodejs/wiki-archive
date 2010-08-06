@@ -140,6 +140,9 @@ h3(#debugging). "Debugging / Console Utilities":#debugging
 h3(#compression). "Compression":#compression
 * "node-compress":http://github.com/waveto/node-compress -- streaming compression / gzip library
 
+h3(#graphics). "Graphics".#graphics
+* "node-gd":http://github.com/taggon/node-gd -- GD graphic library bindings
+
 h3(#other). "Other":#other
 * "yaml":http://github.com/visionmedia/js-yaml -- CommonJS YAML parser
 * "cookie-node":http://github.com/jed/cookie-node/ -- signed cookie functionality for node.js
@@ -154,6 +157,7 @@ h3(#other). "Other":#other
 * "node-bittorrent":http://github.com/WizKid/node-bittorrent -- A library for handling the bittorrent protocol
 * "nshtools":http://github.com/rsdoiel/nshtools -- a high level shell scripting library for file and operating system chores
 * "ext":http://github.com/visionmedia/ext.js -- High quality / performance JavaScript extensions specifically for node.js
+* "node-hash":http://github.com/taggon/node-hash -- A bindings includes two hash function : md5(), sha1()
 
 h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":#commonjs-compat
 
