@@ -1,6 +1,6 @@
 h1. Mission statement
 
-Node.js on it's own is bare bones by design. So if you want to have really fast code you'll have the option to get just that without added baggage. However, there are also merits to the Python "batteries included" approach. This page is to be used to collect thoughts on libraries needed for application development and pointers to actual code and/or code that can be adapted to work with node's asynchronous nature.
+Node.js on its own is bare bones by design. So if you want to have really fast code you'll have the option to get just that without added baggage. However, there are also merits to the Python "batteries included" approach. This page is to be used to collect thoughts on libraries needed for application development and pointers to actual code and/or code that can be adapted to work with node's asynchronous nature.
 
 h1. Libraries
 
