@@ -15,6 +15,7 @@ h2. Projects / Applications
 * "antinode":http://github.com/mhansen/antinode -- Simple static file HTTP Server with logging
 * "NodeMachine":http://github.com/tautologistics/nodemachine -- Port of WebMachine for Node.js
 * "LifeInText":http://github.com/weilawei/LifeInText -- LiT is a mashup platform for personal projects and snippets (under heavy construction).
+* "Ajax IM":http://github.com/endtwist/AjaxIM -- Ajax IM is an instant messaging server and framework for the browser.
 
 h2. Articles
 * "pubsub":http://www.nonblocking.io/2009/06/scalable-pubsub-with-nodejs.html -- by Malte Ubl
