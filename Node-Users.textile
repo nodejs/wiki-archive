@@ -139,6 +139,8 @@ h2. UTC-5 (-4)
 ** "GitHub":http://github.com/ncb000gt, "Twitter":http://twitter.com/ncb000gt, "Website":http://digitaltumbleweed.com
 * James Herdman (jherdman), Toronto, ON, Canada
 ** "GitHub":http://github.com/jherdman ; "Twitter":http://twitter.com/james_herdman
+* Jeremy Martin (jmar777), Charleston, SC, US
+** "GitHub":http://github.com/jmar777, "Twitter":http://twitter.com/jmar777, "Website":http://blog.jeremymartin.name
 * Marco Rogers (polotek), Vienna, VA, US
 ** "GitHub":http://github.com/polotek, "Twitter":http://twitter.com/polotek
 * Jason Feinstein (jasonwyatt), Raleigh, NC, US
