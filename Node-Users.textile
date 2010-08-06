@@ -113,6 +113,8 @@ h2. UTC-5 (-4)
 ** "GitHub":http://github.com/scottgonzalez, "Twitter":http://twitter.com/scott_gonzalez, "Website":http://nemikor.com
 * Jake McGraw (jakemcgraw)
 ** "GitHub":http://github.com/jakemcgraw, "Twitter":http://twitter.com/jakemcgraw
+* Scott Taylor (smtlaissezfaire)
+** "GitHub":http://github.com/smtlaissezfaire, "Twitter":http://twitter.com/smtlaissezfaire, "Website":http://railsnewbie.com
 
 h2. UTC-4 (-3)
 
