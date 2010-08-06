@@ -70,3 +70,8 @@ h2. UTC+2 (+3)
 
 * Artem Gnilov (Boo), Ukraine
 ** "Blog":http://boo.openbdsm.org/, "Twitter":http://twitter.com/BooBSD
+
+h2. UTC+5
+
+* Nikhil Marathe (nsm), India
+** "Twitter":http://twitter.com/nikhilcutshort, "Github":http://github.com/nikhilm/, "Bitbucket":http://bitbucket.org/nikhilm/
