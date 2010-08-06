@@ -52,6 +52,8 @@ h2. UTC-8
 ** "GitHub":http://github.com/benlund, "Website":http://team.academia.edu/BenLund
 * Stephen Belanger (qard), Kelowna/Vancouver, BC, Canada
 ** "GitHub":http://github.com/qard, "Website":http://www.stephenbelanger.com
+* Matt Ranney (mjr), Oakland, CA, US
+** "GitHub":http://github.com/mranney, "Twitter":http://twitter.com/mranney
 
 h2. UTC-7 (-6)
 * Michaeljohn Clement (inimino)
@@ -194,8 +196,6 @@ h2. UTC+1 (+2)
 ** "Github":http://github.com/ErikAbele, "Twitter":http://twitter.com/ErikAbele, "Website":http://www.codefaktor.de/
 * Timo Michna (tidalm)
 ** "Github":http://github.com/tidal,  "Blog":http://blog.esfex.com/
-* Anders Hellerup Madsen (ahem), Copenhagen, Denmark
-** "Github":http://github.com/ahem/, "Twitter":http://twitter.com/andershellerup
 
 h2. UTC+2 (+3)
 
