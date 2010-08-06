@@ -13,12 +13,12 @@ h2. UTC-6 (-5)
 * Marak Squires (JimBastard)
 ** "Website":http://maraksquires.com, "node_debug":http://maraksquires.com/node_debug/
 
-
-
 h2. UTC-5 (-4)
 
 * Alexis Sellier (cloudhead)
 ** "Website":http://cloudhead.io, "Twitter":http://twitter.com/cloudhead, "Github":http://github.com/cloudhead
+* Tristan Dunn
+** "GitHub":http://github.com/tristandunn, "Twitter":http://twitter.com/tristandunn, "Website":http://tristandunn.com
 
 h2. UTC+0 (+1)
 
