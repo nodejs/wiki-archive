@@ -98,6 +98,7 @@ h2. Node v0.1.95
 * "riak-js @ fbd38e":http://github.com/frank06/riak-js/tree/fbd38ecc3c838062b1e95fd4c427aa96d64f66d5
 * "jimi":http://github.com/colingourlay/jimi/tree/fac3e697d1647aea1cbd7f7535f9a95f9b83a98e
 * "node-snpp v0.1.1":http://github.com/jsanders/node-snpp/tree/v0.1.1
+* "node-control":http://github.com/tsmith/node-control/tree/21f7f1155783570de0dafc18978c3ead77ec17bd
 
 h2. Node v0.1.94
 * "node-elf-logger v0.1":http://github.com/TooTallNate/node-elf-logger/tree/v0.1
