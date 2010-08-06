@@ -194,6 +194,8 @@ h2. UTC+1 (+2)
 ** "Github":http://github.com/ErikAbele, "Twitter":http://twitter.com/ErikAbele, "Website":http://www.codefaktor.de/
 * Timo Michna (tidalm)
 ** "Github":http://github.com/tidal,  "Blog":http://blog.esfex.com/
+* Anders Hellerup Madsen (ahem), Copenhagen, Denmark
+** "Github":http://github.com/ahem/, "Twitter":http://twitter.com/andershellerup
 
 h2. UTC+2 (+3)
 
