@@ -46,7 +46,7 @@ h4(#web-frameworks-full). "Frameworks":#web-frameworks-full
 
 h4(#middleware). "Middleware":#middleware
 * "cascade":http://github.com/kriszyp/pintura/blob/master/lib/jsgi/cascade.js -- Sequentially attempts multiple middleware apps (JSGI).
-* "compress":http://github.com/kriszyp/pintura/blob/master/lib/jsgi/compress.js - Gzip compresses the response when appropriate based on request headers. (JSGI)
+* "compress":http://github.com/kriszyp/pintura/blob/master/lib/jsgi/compress.js - Gzip compresses (using node-compress) the response when appropriate based on request headers. (JSGI)
 * "media":http://github.com/kriszyp/pintura/blob/master/lib/jsgi/media.js - Performs content type negotiation (per RFC2616) delegating to appropriate media handler. (JSGI)
 * "csrf":http://github.com/kriszyp/pintura/blob/master/lib/jsgi/csrf.js - Checks HTTP request for possible cross-site request forgery, flags dangerous requests. (JSGI)
 * "xsite":http://github.com/kriszyp/pintura/blob/master/lib/jsgi/xsite.js - Handles JSONP, window.name, and cross-origin XHR (CORS). (JSGI)
