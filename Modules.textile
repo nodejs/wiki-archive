@@ -78,6 +78,7 @@ h4(#middleware). "Middleware":#middleware
 * "session":http://github.com/kriszyp/pintura/blob/master/lib/jsgi/session.js - Session manager with pluggable storage handling (JSGI)
 * "dispatch":http://github.com/caolan/dispatch -- Regular expression URL dispatcher (Connect)
 * "quip":http://github.com/caolan/quip -- Chainable HTTP response API (Connect)
+* "cookie-sessions":http://github.com/caolan/cookie-sessions -- Secure cookie-based session store (Connect)
 
 h4(#web-frameworks-other). "Other":#web-frameworks-other
 * "Connect":http://github.com/senchalabs/connect -- Middleware framework packed with high quality / performance middleware
