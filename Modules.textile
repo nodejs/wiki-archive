@@ -188,6 +188,7 @@ h3(#ws-ajax). "Web Sockets & Ajax":#ws-ajax
 * "node-websocket-client":http://github.com/pgriess/node-websocket-client -- An HTML5 Web Socket client.
 
 h3(#testing). "Testing / Spec Frameworks":#testing
+* "sinon":http://github.com/cjohansen/sinon.js -- JavaScript test spies, stubs and mocks for Node.js and the browser
 * "espionage":http://github.com/smtlaissezfaire/espionage -- A mock/stub framework using the test spy pattern.
 * "expresso":http://github.com/visionmedia/expresso -- TDD framework by the author of "JSpec":http://jspec.info
 * "exemplor.js":http://github.com/chrislloyd/exemplor.js -- A port of "exemplor":http://github.com/quackingduck/exemplor with Node goodness.
