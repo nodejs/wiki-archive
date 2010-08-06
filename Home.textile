@@ -31,6 +31,7 @@ h2. Projects / Applications
 * "Chess Riot":http://chessriot.com - a live Lightning Chess app built in node.js, express, CoffeeScript and jQuery. By @weepy
 * "Realie":http://www.web2media.net/laktek/2010/05/25/real-time-collaborative-editing-with-websockets-node-js-redis/ - Real-time Collaborative Editor using Web Sockets, Node.js & Redis (non-functional / doesn't work)
 * "GrowlHub":http://github.com/idris/growlhub - Growl Notifications for GitHub
+* "Simple Node.js MUD":http://github.com/gumho/simple-node.js-mud - Simple multi-user dungeon using Node.js
 
 h2. Articles
 * "pubsub":http://www.nonblocking.io/2009/06/scalable-pubsub-with-nodejs.html -- by Malte Ubl
