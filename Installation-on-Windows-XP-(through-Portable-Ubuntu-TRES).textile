@@ -1,0 +1,48 @@
+This is a step-by-step guide on installing node.js inside Windows XP through Portable Ubuntu TRES:
+
+
+1. Download and unpack "Portable Ubuntu TRES":http://portableubuntu.demonccc.com.ar/en/download (self-extracting) 
+
+2. Open *config/portable_ubuntu.conf* in your favourite text editor and add the following around line *61*:
+
+<pre>ports_to_redirect=tcp:8000:8000</pre>
+
+3. Run *pubuntu.exe*.
+
+4. Open up *Terminal* from the *Applications/Accessories* menu and type:
+
+<pre>sudo gedit /etc/init.d/postmount_pubuntu.sh</pre>
+
+The sudo password is by default: *123456*
+
+5. Replace line *52* with the following:
+
+<pre>echo >> /etc/fstab
+echo "#Entry for cdrom" >> /etc/fstab
+echo "/dev/cdrom /media/cdrom udf,iso9660 user,noauto,exec,utf8" >> /etc/fstab</pre>
+
+6. Save and close gedit.
+
+7. Still inside the terminal type:
+
+<pre>sudo apt-get install g++
+sudo apt-get install git-core
+git clone git://github.com/ry/node.git
+cd node
+./configure
+make
+sudo make install</pre>
+
+
+That's all! You now can run node by typing in the terminal:
+
+<pre>node <your_app.js></pre>
+
+and you can go back to Windows and point your browser to http://127.0.0.1:8000 and it should work provided you have the server listening to *port 8000* (if you want to use another port you need to edit *portable_ubuntu.conf* as described in step *2*).
+
+---
+
+??Extra:?? 
+
+To share a folder between Windows and Portable Ubuntu edit *portable_ubuntu.conf* and around line *38*:
+<pre>shared_folder0=C:\your\folder</pre>and you should find it under the */media/* path in Ubuntu (always after restarting after editing the config file)
