@@ -56,3 +56,4 @@ h2. Companies using node
 * "e-resistible":http://www.e-resistible.co.uk - uses node to handle network communication to restaurant printers
 * "Academia.edu":http://www.academia.edu/ - uses node for background data processing
 * "Ylastic":http://ylastic.com/ - uses node for report processing and admin app
+* "Next Please!":http://nextplea.se - uses node to match "Adobe Stratus":http://labs.adobe.com/technologies/stratus/ id's.
