@@ -124,7 +124,7 @@ h3(#rpc). "RPC":#rpc
 h3(#ws-ajax). "Web Sockets & Ajax":#ws-ajax
 * "Comet LongPollingBuffer":http://github.com/robrighter/Long-Polling-Buffer -- A Library to simplify the server side of Comet AJAX long polling
 * "Faye":http://github.com/jcoglan/faye -- Bayeux protocol Comet client and server for Node.js and Rack
-* "Socket.io":http://github.com/RosePad/Socket.IO -- WebSocket-compatible server and client with fallback for legacy browsers
+* "Socket.io":http://github.com/LearnBoost/Socket.IO -- WebSocket-compatible server and client with fallback for legacy browsers
 * "node-XMLHttpRequest":http://github.com/driverdan/node-XMLHttpRequest
 * "node.websocket.js":http://github.com/Guille/node.websocket.js -- WebSocket-compatible server.
 * "node.ws.js":http://github.com/ncr/node.ws.js -- A basic Web Socket server with interface similar to tcp.createServer(...)
