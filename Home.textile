@@ -10,13 +10,14 @@ h2. Projects using node
 * "node-tyrant":http://github.com/waveto/node-tyrant/tree/master -- An implementation of the Tokyo Tyrant network protocol for the Node.js
 * "coltrane":http://github.com/ujh/coltrane/tree/master -- A try at a higher level library/framework for node.js web development
 * "vroom":http://github.com/raycmorgan/vroom/tree/master -- A simple resource oriented web framework built on top of Node.js
-* "postgres-js":http://github.com/creationix/postgres-js/tree/master -- Postgres protocol implemented in JS
+* "postgres-js":http://github.com/creationix/postgres-js/tree/master -- Postgres protocol implemented in pure JS
 * "optparse-js":http://github.com/jfd/optparse-js/tree/master -- Option Parser in JS
 * "libxmljs":http://github.com/sprsquish/libxmljs -- Beginning of bindings to libxml2
 * "node_postgres":http://github.com/ry/node_postgres -- Beginning of bindings to libpg
 * "spectacular":http://github.com/jcrosby/spectacular -- for testing
 * "jspec":http://github.com/visionmedia/jspec -- for testing
-* "node-router":http://github.com/creationix/node-router
+* "haml-js":http://github.com/creationix/haml-js -- Server side html generation using javascript.  Parses haml templates and renders html.
+* "node-router":http://github.com/creationix/node-router -- Simple Sinatra-like http server based on fu.js from the original node-chat demo.
 * "node-debug":http://github.com/Connorhd/node_debug/tree/master
 * "aiobot":http://github.com/sztanpet/aoibot a very crude abusing of node.js and javascript as a whole aiming to provide a simple bot for irc
 * "node package manager":http://github.com/isaacs/npm
