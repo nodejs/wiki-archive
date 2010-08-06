@@ -336,6 +336,8 @@ h2. UTC+10 or UTC+11
 ** "Twitter":http://twitter.com/puffnfresh, "Github":http://github.com/pufuwozu, "Website":http://brianmckenna.org/
 * Andrei Railean, Sydney, Australia
 ** "Twitter":http://twitter.com/andrei_md, "Github":http://github.com/andreirailean, "Website":http://andrei.md/
+* Colin Gourlay, Brisbane, Australia
+** "Twitter":http://twitter.com/login_required, "Github":http://github.com/colingourlay, "Website":http://colin-gourlay.com/
 
 h2. UTC+12
 
