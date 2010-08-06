@@ -163,7 +163,7 @@ h2. UTC+1 (+2)
 ** "Github":http://github.com/voxpelli, "Twitter":http://twitter.com/voxpelli, "Blog":http://goodold.se/blog/tech
 * Alexander Teinum (alexanderte)
 ** "Github":http://github.com/alexanderte, "Website":http://www.brevityos.org
-* Rasmus Andersson (rsms)
+* Rasmus Andersson (rsms), Stockholm, Sweden
 ** "Github":http://github.com/rsms, "Twitter":http://twitter.com/rsms, "Website":http://hunch.se/
 
 h2. UTC+2 (+3)
