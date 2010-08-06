@@ -94,7 +94,7 @@ At least, Ryan, the creator of Node, has permission from his employeer to dedica
     * Providing continued mentoring after the program ends
 
 *Is there anything else you would like to tell the Google Summer of Code program administration team? :*
-We think JavaScript is going to be the next big language. If we are not selected, we hope other JavaScript related projects will!
+(No Comment)
 
 *Add a Comment (optional):*
 (No Comment)
