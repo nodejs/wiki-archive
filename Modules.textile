@@ -102,6 +102,7 @@ h3(#testing). "Testing / Spec Frameworks":#testing
 * "Speks":http://github.com/ecavazos/speks -- A specification framework for your node-code
 * "ntest":http://github.com/technoweenie/ntest -- another unit testing framework
 * "node-async-testing":http://github.com/bentomas/node-async-testing -- Simple testing (hopefully)
+* "vows.js":http://github.com/cloudhead/vows.js -- asynchronous testing in node.js
 
 h3(#wrappers). "Wrappers":#wrappers
 * "hxNode":http://github.com/blackdog66/hxNode/tree/master -- haXe wrappers for node
