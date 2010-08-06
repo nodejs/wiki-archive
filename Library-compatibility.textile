@@ -14,7 +14,7 @@ h2. Node v0.1.97
 * "perstore v0.1.1":http://github.com/kriszyp/perstore/tree/v0.1.0
 * "pintura v0.1.1":http://github.com/kriszyp/pintura/tree/v0.1.0
 * "transporter v0.1.0":http://github.com/kriszyp/transporter/tree/v0.1.0
-* "node-hoptoad-notifier":http://github.com/tristandunn/node-hoptoad-notifier/tree/db85590eceb6f7330cab0e88b43c75cfde9db97d
+* "node-hoptoad-notifier @ db85590e":http://github.com/tristandunn/node-hoptoad-notifier/tree/db85590eceb6f7330cab0e88b43c75cfde9db97d
 * "gm v0.0.1":http://github.com/aheckmann/gm/commit/cc1aef42554d62759d1d6f6e92d8fbac6a5ffa6c
 
 h2. Node v0.1.96
