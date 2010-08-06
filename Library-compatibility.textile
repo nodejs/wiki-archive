@@ -1,0 +1,13 @@
+Node is under heavy development and its API changes rapidly. Instead of simply a listing of modules which may or may not work with the version of Node installed on one's computer, this will provide a list of module versions which are known to work with specific versions of node.
+
+h2. Node v0.1.33
+
+* "node_chat version 7935af4ff5a603bd3c07f6bad020c3c5baf741b6":http://github.com/ry/node_chat/tree/7935af4ff5a603bd3c07f6bad020c3c5baf741b6
+
+h2. Node v0.1.32
+
+(fill in)
+
+h2. Node v0.1.31
+
+(fill in)
