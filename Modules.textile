@@ -180,6 +180,7 @@ h3(#ws-ajax). "Web Sockets & Ajax":#ws-ajax
 * "nodejs-http-websocket":http://github.com/zimbatm/nodejs-http-websocket -- A websocket server on top of the http server.
 * "node-websocket-server":http://github.com/miksago/node-websocket-server -- Another websocket server on top of the http server.
 * "Restler":http://github.com/danwrong/restler -- Simplified REST client for Node.js
+* "node-websocket-client":http://github.com/pgriess/node-websocket-client -- A WebSocket client.
 
 h3(#testing). "Testing / Spec Frameworks":#testing
 * "espionage":http://github.com/smtlaissezfaire/espionage -- A mock/stub framework using the test spy pattern.
