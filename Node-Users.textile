@@ -381,6 +381,7 @@ h2. UTC+10 or UTC+11
 ** "Website":http://brandedcode.com,"Twitter":http://twitter.com/miksago, "Github":http://github.com/miksago
 * Eugene Ware, Melbourne, Australia
 ** "Twitter":http://twitter.com/eugeneware, "Github":http://github.com/nharbour, "Website":http://eugeneware.com
+
 * Dr Nic Williams, Brisbane, Australia
 ** "Twitter":http://twitter.com/drnic, "Github":http://github.com/drnic, "Website":http://drnicwilliams.com
 * Brian McKenna, Brisbane, Australia
@@ -388,7 +389,8 @@ h2. UTC+10 or UTC+11
 * Colin Gourlay, Brisbane, Australia
 ** "Twitter":http://twitter.com/login_required, "Github":http://github.com/colingourlay, "Website":http://colin-gourlay.com/
 * Nicholas Kinsey, Brisbane, Australia
-** "Twitter":http://twitter.com/pyrotechnick, "Github":http://github.com/pyrotechnick"
+** "Twitter":http://twitter.com/pyrotechnick, "Github":http://github.com/pyrotechnick
+
 * Andrei Railean, Sydney, Australia
 ** "Twitter":http://twitter.com/andrei_md, "Github":http://github.com/andreirailean, "Website":http://andrei.md/
 
