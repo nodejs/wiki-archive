@@ -73,6 +73,7 @@ h3(#web-frameworks). "Web frameworks":#web-frameworks
 * "querystring.node.js":http://github.com/jazzychad/querystring.node.js -- Robust query string parsing for node.
 * "nodemachine":http://github.com/tautologistics/nodemachine -- A port of WebMachine to Node.js
 * "chain":http://github.com/hassox/chain/ -- An evented convention for building Node Applications
+* "oui":http://github.com/rsms/oui -- Web service server with great static files support
 
 h3(#other). "Other":#other
 * "node.routes.js":http://github.com/defrex/node.routes.js/ -- A simple url router
