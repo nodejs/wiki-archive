@@ -14,6 +14,7 @@ h4(#web-frameworks-routers). "Routers":#web-frameworks-routers
 * "node-router":http://github.com/creationix/node-router -- Simple Sinatra-like http server based on fu.js from the original node-chat demo.
 * "node.routes.js":http://github.com/defrex/node.routes.js/ -- A simple url router
 * "journey":http://github.com/cloudhead/journey -- liberal JSON-only HTTP request router
+* "sherpa":http://github.com/joshbuddy/sherpa -- HTTP router/generator with support for regex and parameters
 
 h4(#web-frameworks-static). "Static file servers":#web-frameworks-static
 * "antinode":http://github.com/mhansen/antinode -- A simple static web server
