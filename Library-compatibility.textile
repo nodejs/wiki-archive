@@ -1,6 +1,7 @@
 Node is under heavy development and its API changes rapidly. Instead of simply a listing of modules which may or may not work with the version of Node installed on one's computer, this will provide a list of module versions which are known to work with specific versions of node.
 
 h2. Node v0.1.92
+* "node-chat v0.2.0":http://github.com/scottgonzalez/node-chat/tree/v0.2.0
 * "fanout.node.js v0.1":http://github.com/jazzychad/fanout.node.js/tree/v0.1
 * "node-prowl":http://github.com/mape/node-prowl
 * "node-mysql":http://github.com/masuidrive/node-mysql
