@@ -17,6 +17,7 @@ h2. Projects using node
 * "spectacular":http://github.com/jcrosby/spectacular -- for testing
 * "jspec":http://github.com/visionmedia/jspec -- for testing
 * "node-router":http://github.com/creationix/node-router
+* "node-debug":http://github.com/Connorhd/node_debug/tree/master
 
 h2. Companies using node
 
