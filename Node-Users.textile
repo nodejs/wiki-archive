@@ -101,6 +101,8 @@ h2. UTC+1 (+2)
 ** "Github":http://github.com/maritz, "Website":http://mpeters.biz
 * Florent Solt
 ** "Twitter":http://twitter.com/florentsolt, "Website":http://solt.biz
+* Michael Franzkowiak
+** "Twitter":http://twitter.com/micha_f, "Website":http://www.mybrands.de
 
 h2. UTC+2 (+3)
 
