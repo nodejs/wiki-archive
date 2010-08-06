@@ -48,6 +48,7 @@ Complete projects that use node.
 * "frisbee":http://github.com/ujh/frisbee/tree/master -- A clone of the Disqus blog commenting system, by Urban Hafner
 * "hxV8":http://github.com/blackdog66/hxV8/tree/master -- the haXe &rarr; javascript compiler with modifications to use node I/O. by blackdog66
 * "aiobot":http://github.com/sztanpet/aoibot a very crude abusing of node.js and javascript as a whole aiming to provide a simple bot for irc
+* "nodewiki":http://github.com/gjritter/nodewiki a simple wiki based on node and redis
 
 h2. Companies using node
 
