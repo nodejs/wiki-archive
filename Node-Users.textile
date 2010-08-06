@@ -72,6 +72,8 @@ h2. UTC-8
 ** "GitHub":http://github.com/jbr, "Twitter":http://twitter.com/jacobrothstein, "Website":http://jacobrothstein.com, "Company":http://newsbasis.com
 * Mel Gray (melgray), Seattle, WA, US
 ** "Github":http://github.com/melito, "Twitter":http://twitter.com/melgray, "Tumblr":http://melgray.org
+* James Broad (kulor), San Francisco, CA, US
+** "Github":http://github.com/kulor, "Twitter":http://twitter.com/kulor, "Website":http://kulor.com
 
 h2. UTC-7 (-6)
 * Michaeljohn Clement (inimino)
