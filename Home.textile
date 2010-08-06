@@ -25,7 +25,7 @@ h2. Projects / Applications
 * "JSONPify":http://jsonpify.com/ - a JSONP proxy for client applications
 * "Djangode":http://github.com/simonw/djangode - Django’s regex-based URL handling, utility functions, and html templating for node
 * "The WPilot Project":http://jfd.github.com/wpilot/ - A multiplayer, space shooter, action game in your browser. Server is built in node
-* "Socket.IO":http://github.com/RosePad/Socket.IO-node - An abstraction over all the realtime transports (WebSocket, XHR long polling, XHR multipart, Server-Sent Events, etc) for the Node HTTP server.
+* "Socket.IO":http://github.com/LearnBoost/Socket.IO-node - An abstraction over all the realtime transports (WebSocket, XHR long polling, XHR multipart, Server-Sent Events, etc) for the Node HTTP server.
 
 h2. Articles
 * "pubsub":http://www.nonblocking.io/2009/06/scalable-pubsub-with-nodejs.html -- by Malte Ubl
