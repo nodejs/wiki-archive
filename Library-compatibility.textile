@@ -3,6 +3,8 @@ Node is under heavy development and its API changes rapidly. Instead of simply a
 h2. Node v0.1.99
 * "node-twiml 0.0.1":http://github.com/derferman/node-twiml/tree/0.0.1
 * "nun v.0.1.10":http://github.com/akaspin/nun/tree/v0.1.10
+* "node-htmlparser v1.6.2":http://github.com/tautologistics/node-htmlparser/tree/v1.6.2
+* "nodemachine v0.2.5":http://github.com/tautologistics/nodemachine/tree/v0.2.5
 
 h2. Node v0.1.98
 * "josi v0.2.0":http://github.com/thatismatt/josi/tree/v0.2.0
@@ -10,6 +12,8 @@ h2. Node v0.1.98
 * "nun v.0.1.10":http://github.com/akaspin/nun/tree/v0.1.10
 * "node-twiml 0.0.1":http://github.com/derferman/node-twiml/tree/0.0.1
 * "redis-node-client v0.3.5":http://github.com/fictorial/redis-node-client/tree/v0.3.5
+* "node-htmlparser v1.6.2":http://github.com/tautologistics/node-htmlparser/tree/v1.6.2
+* "nodemachine v0.2.5":http://github.com/tautologistics/nodemachine/tree/v0.2.5
 
 h2. Node v0.1.97
 * "node-websocket-server v1.1.00":http://github.com/miksago/node-websocket-server/tree/v1.1.00 (draft76 & draft75 compat)
@@ -27,6 +31,8 @@ h2. Node v0.1.97
 * "transporter v0.1.0":http://github.com/kriszyp/transporter/tree/v0.1.0
 * "node-hoptoad-notifier @ 041c739c":http://github.com/tristandunn/node-hoptoad-notifier/tree/041c739cbd16b96992e0ce132179ee37519d5b59
 * "gm v0.0.1":http://github.com/aheckmann/gm/commit/cc1aef42554d62759d1d6f6e92d8fbac6a5ffa6c
+* "node-htmlparser v1.6.2":http://github.com/tautologistics/node-htmlparser/tree/v1.6.2
+* "nodemachine v0.2.5":http://github.com/tautologistics/nodemachine/tree/v0.2.5
 
 h2. Node v0.1.96
 * "commonjs-utils v0.1.0":http://github.com/kriszyp/commonjs-utils/tree/v0.1.0
