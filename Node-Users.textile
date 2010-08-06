@@ -101,6 +101,8 @@ h2. UTC-5 (-4)
 ** "GitHub":http://github.com/guanix, "Twitter":http://twitter.com/guan
 * Arlo Breault (arlolra), Montréal, QC, Canada
 ** "GitHub":http://github.com/arlolra, "Twitter":http://twitter.com/arlolra, "Website":http://thoughtherder.com
+* Camilo Aguilar (c4milo), Medellín, Colombia
+** "GitHub":http://github.com/c4milo, "Twitter":http://twitter.com/c4milo
 
 h2. UTC-4 (-3)
 
