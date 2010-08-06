@@ -316,6 +316,8 @@ h2. UTC+2 (+3)
 * Artem Gnilov (Boo), Ukraine
 ** "Github":http://github.com/BooBSD, "Blog":http://boo.openbdsm.org/, "Twitter":http://twitter.com/BooBSD
 * Yuriy Bogdanov (octave), Ukraine
+* Alexandr Lozovyuk (aleks_raiden), Ukraine/Kiev
+** "Github":http://github.com/aleksraiden, "Blog":http://abrdev.com,"Twitter":http://twitter.com/abrdev
 ** "Github":http://github.com/8ctave, "Website":http://eventr.com, "Flickr":http://www.flickr.com/photos/8ctave
 * Saulius Žemaitaitis (frgtn), Lithuania
 ** "Github":http://github.com/frgtn, "Website":http://frgtn.net, "Twitter":http://twitter.com/frgtn
