@@ -24,7 +24,7 @@ h4(#web-frameworks-routers). "Routers":#web-frameworks-routers
 h4(#web-frameworks-static). "Static file servers":#web-frameworks-static
 * "antinode":http://github.com/mhansen/antinode -- A simple static web server
 * "node-paperboy":http://github.com/felixge/node-paperboy -- A node.js module for delivering static files
-* "node-static":http://github.com/cloudhead/node-static -- A simple, rfc 2616-compliant static file server module
+* "node-static":http://github.com/cloudhead/node-static -- A simple, rfc 2616-compliant static file server module with built-in caching
 * "oui":http://github.com/rsms/oui -- Web service server with great static files support
 * "static":http://github.com/kriszyp/pintura/blob/master/lib/jsgi/static.js - Static file handler using asynchronous streaming as JSGI middleware
 
