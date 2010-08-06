@@ -151,6 +151,7 @@ h4(#parsers-other). "Other":#parsers-other
 * "node-csv":http://github.com/voodootikigod/node-csv -- Efficient Evented CSV Parsing.
 * "querystring.node.js":http://github.com/jazzychad/querystring.node.js -- Robust query string parsing for node.
 * "yajl-js":http://bitbucket.org/nikhilm/yajl-js -- SAX-like evented JSON parsing using "yajl":http://lloyd.github.com/yajl
+* "node-htmlparser":http://github.com/tautologistics/node-htmlparser -- Forgiving HTML Parser in JS for both Node and Browsers
 
 h3(#debugging). "Debugging / Console Utilities":#debugging
 * "colored.js":http://github.com/chrislloyd/colored.js -- Colorize terminal output.
