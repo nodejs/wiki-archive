@@ -12,3 +12,7 @@ h1. Blogs and tutorials
 | "Ryah's Blog":http://four.livejournal.com/ | Ryah's blog |
 | "How To Node":http://howtonode.org/| Tutorials related to node|
 | "Boldr":http://boldr.net/| Some articles on node.js|
+
+h1. Localized sites
+
+| "nodejs.ru":http://nodejs.ru/ | Russian nodejs blog |
