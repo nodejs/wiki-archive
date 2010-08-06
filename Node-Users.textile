@@ -42,6 +42,8 @@ h2. UTC-8
 ** "GitHub":http://github.com/erichocean, "Twitter":http://twitter.com/erichocean, "Website":http://erichocean.com
 * Dav Glass (davglass), Cupertino, CA, US
 ** "GitHub":http://github.com/davglass, "Twitter":http://twitter.com/davglass, "Website":http://blog.davglass.com
+* Derek Gathright (drgath), Santa Monica, CA, US
+** "GitHub":http://github.com/drgath, "Twitter":http://twitter.com/derek, "Website":http://derekville.net
 * Edward O'Connor (hober), San Diego, CA, US
 ** "GitHub":http://github.com/hober, "Twitter":http://twitter.com/hober, "Website":http://edward.oconnor.cx/
 * R. S. Doiel (rsdoiel), Los Angeles, CA, US
