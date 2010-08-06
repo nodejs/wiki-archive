@@ -253,6 +253,8 @@ h2. UTC+8
 h2. UTC+9
 * Jed Schmidt (jed)
 ** "Website":http://jedschmidt.com, "Twitter":http://twitter.com/jedschmidt, "GitHub":http://github.com/jed
+* Taegon Kim (taggon), South Korea
+** "Twitter":http://twitter.com/taggon, "GitHub":http://github.com/taggon, "Blog":http://mygony.com
 
 h2. UTC+10 or UTC+11
 
