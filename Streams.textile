@@ -55,10 +55,13 @@ The pump function might look something like this
 
   readable.addListener('end', function () {
     writable.close();
-    if (cb) cb();
   });
 
   writable.addListener('drain', function () {
     readable.resume();
+  });
+
+  writable.addListener('close', function () {
+    if (cb) cb();
   });
 }</code></pre>
