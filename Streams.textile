@@ -4,7 +4,6 @@ Node is working towards a unified data stream interface.
 h2. Readable Stream
 * event: @'data'@. (One argument, a @Buffer@ object.)
 * event: @'end'@ (received EOF or FIN)
-* event: @'close'@ (called when file descriptor is closed and no more events will be emitted)
 * event: @'error'@ (emitted with exception object - does not close stream)
 * method: @pause()@   (suggestion @stopRead()@)
 * method: @resume()@ (suggestion @startRead()@)
@@ -17,7 +16,6 @@ h2. Writable Stream
 * method: @write(data)@ (Returns @true@ if it could be flushed to kernel, @false@ if not. Data is *always* queued for writing, even if flushing is not possible. If this method returns @false@ then the event @'drain'@ will be emitted later, once all data that was buffered has been written to the kernel.)
 * method: @close()@ (Writes EOF or a FIN packet on the transport once the existing data buffer is drained. Further calls to @write()@ after calling this method will throw an error.)  (suggestion @end()@)
 * event: @'drain'@
-* event: @'close'@ (Emitted after close)
 * event: @'error'@(emitted with exception object - does not close stream)
 * member: @writable@, boolean
 
