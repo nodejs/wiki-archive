@@ -69,6 +69,7 @@ h4(#middleware). "Middleware":#middleware
 * "routes":http://github.com/dvv/pintura/blob/master/lib/jsgi/routes.js - Simple RegExp based router (JSGI)
 
 h4(#web-frameworks-other). "Other":#web-frameworks-other
+* "Connect":http://extjs.github.com/Connect -- Middleware framework packed with high quality / performance middleware
 * "node-elf-logger":http://github.com/TooTallNate/node-elf-logger -- Configurable HTTP logging library following the "W3C Extended Log File Format specification":http://www.w3.org/TR/WD-logfile.html
 * "JSGI-Node":http://github.com/kriszyp/jsgi-node/ -- Asynchronous JSGI 0.3 Adapter for Node
 * "node-mime":http://github.com/bentomas/node-mime -- Utility module for mime-type lookups
