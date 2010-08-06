@@ -74,6 +74,8 @@ h2. UTC-8
 ** "Github":http://github.com/melito, "Twitter":http://twitter.com/melgray, "Tumblr":http://melgray.org
 * James Broad (kulor), San Francisco, CA, US
 ** "Github":http://github.com/kulor, "Twitter":http://twitter.com/kulor, "Website":http://kulor.com
+* Van Nguyen (vnguyen), San Francisco, CA, US
+** "Github":http://github.com/thegoleffect, "Twitter":http://twitter.com/thegoleffect
 
 h2. UTC-7 (-6)
 * Michaeljohn Clement (inimino)
