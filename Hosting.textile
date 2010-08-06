@@ -1,8 +1,8 @@
 h1. Hosting compatible with Node
 
 # "WebFaction":http://webfaction.com
-# "Heroku":http://heroku.com/
-# "ElusiveHippo":http://elusivehippo.com/
+# "Heroku":http://heroku.com/ - Closed Beta
+# "ElusiveHippo":http://elusivehippo.com/ - Not Working
 # "Prgmr":http://prgmr.com/
 # "Slicehost":http://www.slicehost.com/
 # "Linode":http://www.linode.com/
