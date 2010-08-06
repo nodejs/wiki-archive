@@ -201,6 +201,7 @@ h4(#parsers-other). "Other":#parsers-other
 * "node-jspack":http://github.com/pgriess/node-jspack -- JavaScript library to pack ints, floats, etc. to octet arrays representing C data structures
 * "node-msgpack":http://github.com/pgriess/node-msgpack -- Bindings for MessagePack, space-efficient object serialization library
 * "node-rfb":http://github.com/substack/node-rfb -- Parse the RFB protocol used by VNC
+* "node-bufferlist":http://github.com/substack/node-bufferlist -- Create linked lists of buffers and asynchronously parse binary data from these lists
 
 h3(#debugging). "Debugging / Console Utilities":#debugging
 * "colours.js":http://github.com/botanicus/colours.js -- Give your CLI programs some colours!
