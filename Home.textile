@@ -23,7 +23,7 @@ h2. Projects using node
 * "node-XMLHttpRequest":http://github.com/driverdan/node-XMLHttpRequest
 * "datatypes-js":http://github.com/jfd/datatypes-js -- Byte encoding/decoding for typical datatypes in JS.
 * "match-js":http://github.com/jfd/match-js -- Simple pattern matching (functional style) in JS.
-
+* "simplex":http://github.com/mshakhan/simplex 
 
 
 h2. Companies using node
