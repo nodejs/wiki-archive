@@ -5,6 +5,7 @@ h2. Core Node
 * Rewrite DNS module - using "c-ares":http://c-ares.haxx.se/ . See "this":http://groups.google.com/group/nodejs/browse_thread/thread/b49eeba96bfd4b4
 * Port to windows.
 * HTML parser
+* Ability to do text user interfaces (by binding to ncurses)
 
 h2. Web
 
