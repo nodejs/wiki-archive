@@ -2,6 +2,7 @@ Node is under heavy development and its API changes rapidly. Instead of simply a
 
 h2. Node v0.1.91
 * "express v0.9.0":http://github.com/visionmedia/express/tree/0.9.0
+* "node-mongodb-native":http://github.com/christkv/node-mongodb-native/tree/V0.7.0
 
 h2. Node v0.1.90
 
@@ -29,6 +30,7 @@ h2. Node v0.1.90
 * "node-chat v0.1":http://github.com/scottgonzalez/node-chat/tree/v0.1
 * "node-httpclient v0.1":http://github.com/billywhizz/node-httpclient/tree/v0.1
 * "express v0.9.0":http://github.com/visionmedia/express/tree/0.9.0
+* "node-mongodb-native":http://github.com/christkv/node-mongodb-native/tree/V0.7.0
 
 h2. Node v0.1.33
 
