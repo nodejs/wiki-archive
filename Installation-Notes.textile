@@ -6,6 +6,11 @@ PATH="/usr/sbin/:$PATH"
 $ source ~/.profile</code></pre>
 <h3> gpg-error Not Found on ./configure</h3>
 Download and install MacGPG from "macgpg.sourceforge.net":http://macgpg.sourceforge.net/
+<h2>Max OS X</h2>Quick and easy:
+Install <a href="http://mxcl.github.com/homebrew/" >homebrew</a> then:
+ <pre><code>brew install node.js </code> </pre>
+or get your mac up to speed with <a href="http://www.atmos.org/cider/intro.html" >cider.</a>
+
 <h2>FreeBSD</h2><h3>execinfo.h: No such file or directory:</h3>
 Install libexecinfo (devel/libexecinfo).
 <h2>Ubuntu 9.04</h2>Quick and easy:
