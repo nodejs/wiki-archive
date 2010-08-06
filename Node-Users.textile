@@ -117,6 +117,8 @@ h2. UTC-5 (-4)
 ** "GitHub":http://github.com/jakemcgraw, "Twitter":http://twitter.com/jakemcgraw
 * Scott Taylor (smtlaissezfaire)
 ** "GitHub":http://github.com/smtlaissezfaire, "Twitter":http://twitter.com/smtlaissezfaire, "Website":http://railsnewbie.com
+* Ricky Rosario (rlr)
+** "GitHub":http://github.com/rlr, "Twitter":http://twitter.com/r1cky, "Website":http://rickyrosario.com
 
 h2. UTC-4 (-3)
 
