@@ -24,6 +24,7 @@ h3. Web frameworks
 * "tmpl-node":http://github.com/jed/tmpl-node -- a feature-rich template module for node.js
 * "template.node.js":http://github.com/jazzychad/template.node.js -- A light, fast, cached template module for node.
 * "querystring.node.js":http://github.com/jazzychad/querystring.node.js -- Robust query string parsing for node.
+* "nodemachine":http://github.com/tautologistics/nodemachine -- A port of WebMachine to Node.js
 
 h3. Other
 * "node.routes.js":http://github.com/defrex/node.routes.js/ -- A simple url router
