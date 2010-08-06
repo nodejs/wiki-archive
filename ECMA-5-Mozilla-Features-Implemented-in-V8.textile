@@ -28,6 +28,8 @@ h2. Date.prototype
 h2. Object
  * @create( proto, props )@ - Creates a new object whose prototype is the passed in parent object. 
  * @keys(object)@ - Returns a list of the ownProperties of an object.
+ * @getPrototypeOf(object)@ - Returns the prototype of an object.
+ * @getOwnPropertyDescriptor(object, property)@ - Returns an object with keys describing the description of a property (value, writable, enumerable, configurable)
 
 h2. Object.prototype
  * @__defineGetter__(name, callback)@ - Associates a function with a property that, when accessed, executes that function and returns its return value.
@@ -46,11 +48,9 @@ h2. String.prototype
  * @trimLeft()@ - Trims whitespace from the left side of the string
 
 h1. Missing features
- * @Object.getPrototypeOf(obj)@ - Returns the prototype of the specified object.
  * @Object.freeze(obj)@ - 
  * @Object.preventExtensions(obj)@ - 
  * @Object.isExtensible(obj)@ - 
- * @Object.getOwnPropertyDescriptor( obj, prop )@
  * @Object.getOwnPropertyNames( obj )@
  * @Object.defineProperty( obj, prop, desc )@
  * @Object.defineProperties( obj, props )@
