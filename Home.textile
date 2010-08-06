@@ -28,6 +28,8 @@ h2. Projects / Applications
 * "zztmmo":http://github.com/marak/zztmmo - a zzt based massive multiplayer online game built in node.js and jQuery
 * "diretto":http://www.diretto.org/ - Distributed Recon/Reporting Transceiver Toolkit – Uses Node.js for web-based media storage and delivery
 * "ElusiveHippo":http://elusivehippo.com - Push deployment for nodejs (written entirely in nodejs).
+* "Chess Riot":http://chessriot.com - a live Lightning Chess app built in node.js, express, CoffeeScript and jQuery. By @weepy
+
 
 h2. Articles
 * "pubsub":http://www.nonblocking.io/2009/06/scalable-pubsub-with-nodejs.html -- by Malte Ubl
