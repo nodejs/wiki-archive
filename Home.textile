@@ -37,7 +37,7 @@ h2. Projects / Applications
 * "vertex.js":http://github.com/stevedekorte/vertex.js - A graph database inspired by filesystems built on node.js and tokyocabinet.
 
 h2. Articles
-* "How to start develop with node js on linux (on windows)":http://wiki.github.com/shimondoodkin/nodejs-autorestart/how-to-start-develop-with-node-js-on-linux -- by Shimon Doodkin
+* "How to start develop with node js on linux, on windows":http://wiki.github.com/shimondoodkin/nodejs-autorestart/how-to-start-develop-with-node-js-on-linux -- by Shimon Doodkin
 * "pubsub":http://www.nonblocking.io/2009/06/scalable-pubsub-with-nodejs.html -- by Malte Ubl
 * "Going Evented with Node.js":http://www.nakedjavascript.com/going-evented-with-nodejs -- Naked JavaScript
 * "Node.js is genuinely exciting":http://simonwillison.net/2009/Nov/23/node/ -- by Simon Willison
