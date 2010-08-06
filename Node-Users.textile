@@ -33,7 +33,7 @@ h2. UTC-8
 * Marcus Westin
 ** "Github":http://github.com/marcuswestin, "Twitter":http://twitter.com/marcuswestin, "Website":http://marcuswestin.com
 * Josh Hundley (hundleyj), Portland, OR, US
-** "Github":http://github.com/hundleyj, "Twitter":http://twitter.com/hundleyBOT, "Website":http://joshhundley.com
+** "GitHub":http://github.com/hundleyj, "Twitter":http://twitter.com/hundleyBOT, "Website":http://joshhundley.com
 
 h2. UTC-7 (-6)
 * Michaeljohn Clement (inimino)
