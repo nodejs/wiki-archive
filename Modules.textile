@@ -35,6 +35,7 @@ h4(#web-frameworks-micro). "Microframeworks":#web-frameworks-micro
 * "Picard":http://github.com/dantebronto/picard
 * "simplex":http://github.com/mshakhan/simplex (October 2009, node.JS 0.1.14)
 * "Pipe-Layer":http://cgit.voodoowarez.com/pipe-layer/ -- Asynchronous HTTP router.
+* "Meryl":http://github.com/coffeemate/meryl -- Minimalistic web framework!
 
 h4(#web-frameworks-full). "Frameworks":#web-frameworks-full
 * "broke":http://github.com/brokenseal/broke/ -- A porting of the most famous "Django Web Framework":http://www.djangoproject.com/
