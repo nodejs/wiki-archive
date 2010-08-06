@@ -50,6 +50,8 @@ h2. UTC-8
 ** "GitHub":http://github.com/efnx, "Website":http://blog.efnx.com
 * Ben Lund
 ** "GitHub":http://github.com/benlund, "Website":http://team.academia.edu/BenLund
+* Stephen Belanger (qard), Kelowna/Vancouver, BC, Canada
+** "GitHub":http://github.com/qard, "Website":http://www.stephenbelanger.com
 
 h2. UTC-7 (-6)
 * Michaeljohn Clement (inimino)
