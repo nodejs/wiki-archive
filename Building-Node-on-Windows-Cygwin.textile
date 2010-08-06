@@ -6,11 +6,11 @@ h1. How to Build and Install Node.JS on Windows
 #* Install devel -> make
 #* Install python -> python
 #* Install devel -> git
-# Clone the repo (open the cygwin command line with Start > Cygwin > Cygwin Bash Shell)
-#* @git clone git://github.com/ry/node.git@ 
-# Run the following commands in the node folder created above
+# Run the following commands to clone the repo and build node (open the cygwin command line with Start > Cygwin > Cygwin Bash Shell)
 
-bc. ./configure
+bc. git clone git://github.com/ry/node.git
+cd node
+./configure
 make
 make test
 
