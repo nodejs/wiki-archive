@@ -1,0 +1,219 @@
+"Eclipse debugger plugin for V8":http://code.google.com/p/chromedevtools/ can be easily used to debug node scripts.  V8 engine provides remote debugging support by enabling attachment of the remote debugger on a TCP port (5858 is node's default). There are 2 debug related node options:
+
+<pre>
+<code>
+ node --debug[=port] NodeApp.js
+
+or
+
+ node --debug-brk[=port] NodeApp.js
+</code>
+</pre>
+
+The  <code>  --debug  </code> option will just enable remote debugger connection on given port and then start the application normally. Even when debugger is connected to the running node instance later on, the script execution will not be stopped until "Suspend" command is issued by Eclipse debugger. Another way to stop the execution is to browse the source code of the JavaScript modules comprising the application and double click on the line number at the desired position in script to break at (most likely a callback). Once execution stops you can set/clear more breakpoints, but also inspect call stack, and view content of all program variables.
+
+The  <code> --debug-brk  </code> option is needed when your script is short lived (no time to attach debugger) and/or you want to observe the NodeApp.js execution from the very start. This option will force execution to break at the first line of the main script and wait for debugger to connect. The behavior upon connection is now different - the script is suspended and no breakpoints are set. Note that V8 engine debugger is not behaving very good when it steps over or steps into require() method (it will crash), so try to set up first breakpoint past the initial module loading. This will also enable you to set breakpoints in any of those modules as well.
+
+h2. Sample Debugging Session
+
+Here is a simple script that will be used to demonstrate debugging procedure:
+
+<pre>
+<code>
+// dbgtest.js
+
+var sys=require('sys');
+var count = 0;
+
+sys.debug("Starting ...");
+
+
+function timer_tick() {
+  count = count+1;
+  sys.debug("Tick count: " + count);
+  if (count === 10) {
+    count += 1000;
+    sys.debug("Set break here");
+ }
+ setTimeout(timer_tick, 1000);
+}
+
+timer_tick();
+</code>
+</pre>
+
+Start the above script:
+
+<pre>
+<code>
+node --debug dbgtest.js;
+debugger listening on port 5858
+DEBUG: Starting ...
+DEBUG: Tick count: 1
+DEBUG: Tick count: 2
+DEBUG: Tick count: 3 
+// and so on
+</code>
+</pre>
+
+
+Assuming that you have already installed Eclipse, together with the "plugin":http://code.google.com/p/chromedevtools/  mentioned above, now you need to make initial debug profile.
+
+!http://imgur.com/54LA2.png!
+
+Click the drop box button (llitle black triangle) next to the green bug one and select "Debug Configurations ..." option.
+
+!http://imgur.com/sZqH3.png!
+
+Now start making new debug configuration by clicking the "New" button:
+
+!http://imgur.com/eixxg.png!
+
+Note that this configuration is named Node-5858 and the port is set accordingly. While you there create one or more additional configurations such as Node-5859, Node-5860, ... with respective ports, so you can later debug more than one node executable at the same time. 
+
+!http://imgur.com/KqpC6.png!
+
+Start the debugging session by clicking "Debug" button. If everything goes well, you will get something like this:
+
+!http://imgur.com/Lz1UA.png!
+
+You can suspend the execution by pressing "Pause" button, however since it will most likely stop at node.js:process.loop() which, being a native C++ function, is not very interesting - it is better to expand Node-5858 in Project Explorer, open dbgtest.js and set a break somewhere in timer callback, such as line 11, by double click on the line number.
+
+!http://imgur.com/wB1vx.png!
+
+The breakpoint will be reached within a second:
+
+!http://imgur.com/TuqCv.png!
+
+Now you can examine stack frame, browse program variables - and do all the other useful stuff. If the same script was started with:
+
+<pre>
+<code>$ node --debug-brk dbgtest.js
+debugger listening on port 5858
+Waiting for remote debugger connection...
+</code>
+</pre>
+
+then debugger screen after session is connected would look like this:
+
+!http://imgur.com/6sAJP.png!
+
+As it was mentioned before avoid stepping over or into require() calls, so the first safe place to stop is at line 4.
+If you set breakpoint there and resume execution by  clicking "Play" button, the execution will stop at line 6, most likely due to JIT interaction.
+
+You probably noticed that Eclipse V8 debugger can not connect to the remote host. This feature request s already pending as low priority item. However it is very easy to use simple transparent TCP proxy script to enable your development machine to debug your application directly on the deployment or test server:
+
+<pre>
+<code>
+// Transparent TCP proxy for single connection only
+// Zoran Tomicic ztomicic@gmail.com
+// 
+
+var sys = require('sys');
+var tcp = require('tcp');
+
+var encoding = "binary"
+var localActive = false;  // flag to majke sure that only one connection
+                          // to remote is active
+
+var verbose = false; 
+
+if (process.argv.length < 4) {
+  sys.puts
+  ("Usage: node tcpproxy.js <local port> <remote host> <remote port> [-v]\n"+
+   "                        -v for verbose operation\n");
+  process.exit(1);
+}
+
+if (process.argv[5] === "-v")
+  verbose = true;
+
+function log(s) {
+  if (verbose)
+  sys.puts("tcpproxy: "+ s);
+}
+
+
+var localPort  = process.argv[2];
+var remoteHost = process.argv[3];
+var remotePort = process.argv[4];
+
+var remote;
+
+var local = tcp.createServer(function (socket) {
+
+  socket.setEncoding("binary");
+
+  socket.addListener("connect", function () {
+    if (localActive === false) {
+      localActive = true;
+       socket.setEncoding(encoding);
+       socket.setTimeout(0);
+    log("Local connect");
+    } else {
+      log("Local reject");
+      socket.close();
+      return;
+    }
+
+    remote = tcp.createConnection(remotePort, remoteHost);
+    remote.setEncoding(encoding);
+    remote.setTimeout(0);
+
+    log("Connecting to remote");
+    remote.addListener("connect", function() {
+      log("Remote connect");
+    });
+
+    remote.addListener("data", function(data) {
+      socket.write(data, encoding);
+      log("Remote: ("+data.length+ ")\n"+data);
+    });
+
+    remote.addListener("end", function () {
+      log("Remote close");
+      socket.close();
+      remote.close();
+    });
+
+  });
+
+  socket.addListener("data", function (data) {
+    remote.write(data, encoding);
+    log("Local: ("+data.length+ ")\n"+data);
+  });
+
+  socket.addListener("end", function () {
+    log("Local close");
+    socket.close();
+    remote.close();
+    localActive = false;
+  });
+
+});
+
+log("Starting to listen at "+ localPort +" ...");
+local.listen(localPort);
+
+</code>
+</pre>  
+
+So, if you want to attach debugger to node instance on remote server www.example.com:
+
+<pre>
+<code>
+DevMachine:$ node tcpproxy.js 5858 www.example.com 5858 &
+</code>
+</pre>
+
+and on the remote machine:
+
+<pre>
+<code>
+RemoteMachine:$ node - debug-brk MyApp.js
+</code>
+</pre>
+
+Now you can start debugging session on local port 5858 as usual.
+
+Eclipse V8 debugger can also be used in conjunction with   gdb/ddd in order to debug native C/C++ code. For example if particular invocation of frequently called native function is problematic, but all other ones are fine, you would first set the breakpoint in the script code, and once you hit this one, then you would set/enable the breakpoint in native function  as well.
