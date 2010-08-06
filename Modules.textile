@@ -19,8 +19,8 @@ h4(#web-frameworks-static). "Static file servers":#web-frameworks-static
 
 h4(#web-frameworks-micro). "Microframeworks":#web-frameworks-micro
 * "(fab)":http://www.fabjs.org -- A pure javascript DSL for building async web apps
-* "rowan":http://github.com/idmillington/rowan -- A hierarchical microframework of reusable controllers and modular app logic.
 * "Nerve":http://github.com/gjritter/nerve -- Microframework with simple array-based syntax for defining an app on top of node.
+* "rowan":http://github.com/idmillington/rowan -- A hierarchical microframework of reusable controllers and modular app logic.
 * "scylla":http://github.com/ithinkihaveacat/node-scylla -- EJSGI-compatible router where method names double as URL-matching patterns
 * "vroom":http://github.com/raycmorgan/vroom/tree/master -- A simple resource oriented web framework built on top of Node.js
 
@@ -40,79 +40,79 @@ h4(#web-frameworks-other). "Other":#web-frameworks-other
 * "simplex":http://github.com/mshakhan/simplex 
 
 h3(#database). "Database":#database
-* "redis-node-client":http://github.com/fictorial/redis-node-client/tree/master -- Redis Client by Fictorial
+* "awesome":http://github.com/janl/awesome -- a Redis clone in node.js
+* "cradle":http://github.com/cloudhead/cradle -- a high-level, caching, CouchDB client
 * "node-couch":http://github.com/sixtus/node-couch/tree/master -- a CouchDB connector
 * "node-couchdb":http://github.com/felixge/node-couchdb -- A full API implementation
-* "cradle":http://github.com/cloudhead/cradle -- a high-level, caching, CouchDB client
-* "node-tyrant":http://github.com/waveto/node-tyrant/tree/master -- An implementation of the Tokyo Tyrant network protocol for the Node.js
-* "postgres-js":http://github.com/creationix/postgres-js/tree/master -- Postgres protocol implemented in pure JS
-* "persistence":http://github.com/creationix/node-persistence -- Multi-backend database/nosql system.  Backends: Sqlite3, Postgres and Memory.
-* "node_postgres":http://github.com/ry/node_postgres -- Beginning of bindings to libpg
-* "node.dbslayer.js":http://github.com/Guille/node.dbslayer.js/ - Interface to DBSlayer (MySQL)
+* "node-dirty":http://github.com/felixge/node-dirty -- A key value store for node.js that is simple, fast & dirty.
 * "node-fleet":http://github.com/jfd/node-fleet -- a FleetDB Client
+* "node-memcache":http://github.com/vanillahsu/node-memcache -- a memcache client base on libmemcached
 * "node-mongodb":http://github.com/orlandov/node-mongodb -- Basic MongoDB client implementation in JS/C++
 * "node-mongodb-native":http://github.com/christkv/node-mongodb-native -- A pure javascript driver for MongoDB
-* "node-dirty":http://github.com/felixge/node-dirty -- A key value store for node.js that is simple, fast & dirty.
-* "node-sqlite":http://github.com/grumdrig/node-sqlite -- Bindings for SQLite3. Interface conforms to the "HTML5 Web SQL API":http://dev.w3.org/html5/webdatabase/#sql.
-* "node-memcache":http://github.com/vanillahsu/node-memcache -- a memcache client base on libmemcached
-* "awesome":http://github.com/janl/awesome -- a Redis clone in node.js
-* "perstore":http://github.com/kriszyp/perstore -- JavaScript persistence/object store with pluggable storage based on the "W3C DB API":http://www.w3.org/TR/IndexedDB/
-* "node-riak":http://github.com/orlandov/node-riak -- Riak client library
-* "noodb":http://github.com/randomekek/noodb.js -- A simple and small file backed javascript key-value store
 * "node-mysql":http://github.com/Sannis/node-mysql -- Beginning of MySQL synchronous(async in future) binding based on libmysqlclient
+* "node-riak":http://github.com/orlandov/node-riak -- Riak client library
+* "node-sqlite":http://github.com/grumdrig/node-sqlite -- Bindings for SQLite3. Interface conforms to the "HTML5 Web SQL API":http://dev.w3.org/html5/webdatabase/#sql.
+* "node-tyrant":http://github.com/waveto/node-tyrant/tree/master -- An implementation of the Tokyo Tyrant network protocol for the Node.js
+* "node.dbslayer.js":http://github.com/Guille/node.dbslayer.js/ - Interface to DBSlayer (MySQL)
+* "node_postgres":http://github.com/ry/node_postgres -- Beginning of bindings to libpg
+* "noodb":http://github.com/randomekek/noodb.js -- A simple and small file backed javascript key-value store
+* "persistence":http://github.com/creationix/node-persistence -- Multi-backend database/nosql system.  Backends: Sqlite3, Postgres and Memory.
+* "perstore":http://github.com/kriszyp/perstore -- JavaScript persistence/object store with pluggable storage based on the "W3C DB API":http://www.w3.org/TR/IndexedDB/
+* "postgres-js":http://github.com/creationix/postgres-js/tree/master -- Postgres protocol implemented in pure JS
+* "redis-node-client":http://github.com/fictorial/redis-node-client/tree/master -- Redis Client by Fictorial
 * "riak-js":http://github.com/frank06/riak-js -- Riak Javascript client (works on node v0.1.30+)
 
 h3(#templating). "Templating":#templating
 * "asyncEJS":http://github.com/cramforce/node-asyncEJS -- Asynchronous implementation of embedded JavaScript
 * "haml-js":http://github.com/creationix/haml-js -- Server side html generation using javascript.  Parses haml templates and renders html.
-* "sass.js":http://github.com/visionmedia/sass.js -- Parses Sass templates and renders css.
-* "tmpl-node":http://github.com/jed/tmpl-node -- a feature-rich template module for node.js
-* "template.node.js":http://github.com/jazzychad/template.node.js -- A light, fast, cached template module for node.
 * "JSON Template":http://github.com/andychu/json-template -- Minimal but powerful template language with multiple implementations.  This is the CommonJS version, tested on Node
 * "Mu (Mustache)":http://github.com/raycmorgan/Mu -- A Mustache engine that compiles templates into very fast rendering functions. Also streams the rendering process.
+* "sass.js":http://github.com/visionmedia/sass.js -- Parses Sass templates and renders css.
+* "template.node.js":http://github.com/jazzychad/template.node.js -- A light, fast, cached template module for node.
+* "tmpl-node":http://github.com/jed/tmpl-node -- a feature-rich template module for node.js
 
 h3(#package-management). "Package Management Systems":#package-management
 * "kiwi":http://github.com/visionmedia/kiwi -- Feature rich, fast, bash based package management
 * "node package manager":http://github.com/isaacs/npm
 
 h3(#security). "OpenSSL / Crypto / Hashing":#security
-* "node-crypto":http://github.com/waveto/node-crypto -- OpenSSL based Hashing, Signing and Verifying
 * "hashlib":http://github.com/brainfucker/hashlib -- Fast hashing module, written in C/C++, supports: md4, md5, md6, sha, sha1, sha256, sha512
-* "node-oauth":http://github.com/ciaranj/node-oauth -- OAuth client
 * "node-base64":http://github.com/brainfucker/node-base64 -- C++ base64 lib
+* "node-crypto":http://github.com/waveto/node-crypto -- OpenSSL based Hashing, Signing and Verifying
+* "node-oauth":http://github.com/ciaranj/node-oauth -- OAuth client
 
 h3(#tcp). "TCP / IP":#tcp
+* "node-httpclient":http://github.com/billywhizz/node-httpclient -- Node HTTP Client (gzip, https, cookies etc.)
 * "node-protocol":http://github.com/miksago/node-protocol -- A framework for implementing protocols.
 * "node-smtp":http://github.com/miksago/node-smtp -- Implementation of the SMTP protocol in Node
 * "NodeFTPd":http://github.com/billywhizz/nodeftpd -- Node FTP Server
-* "node-httpclient":http://github.com/billywhizz/node-httpclient -- Node HTTP Client (gzip, https, cookies etc.)
 
 h3(#rpc). "RPC":#rpc
-* "xmlrpc-c":http://github.com/caludio/node.xmlrpc-c -- Simple XMLRPC Client
 * "bertrpc":http://github.com/rtomayko/node-bertrpc
 * "jsonrpc":http://github.com/ericflo/node-jsonrpc
+* "xmlrpc-c":http://github.com/caludio/node.xmlrpc-c -- Simple XMLRPC Client
 
 h3(#ws-ajax). "Web Sockets & Ajax":#ws-ajax
+* "Comet LongPollingBuffer":http://github.com/robrighter/Long-Polling-Buffer -- A Library to simplify the server side of Comet AJAX long polling
+* "Faye":http://github.com/jcoglan/faye -- Bayeux protocol Comet client and server for Node.js and Rack
+* "node-XMLHttpRequest":http://github.com/driverdan/node-XMLHttpRequest
 * "node.websocket.js":http://github.com/Guille/node.websocket.js -- WebSocket-compatible server.
 * "node.ws.js":http://github.com/ncr/node.ws.js -- A basic Web Socket server with interface similar to tcp.createServer(...)
 * "nodejs-http-websocket":http://github.com/zimbatm/nodejs-http-websocket -- A websocket server on top of the http server.
-* "Comet LongPollingBuffer":http://github.com/robrighter/Long-Polling-Buffer -- A Library to simplify the server side of Comet AJAX long polling
 * "Restler":http://github.com/danwrong/restler -- Simplified REST client for Node.js
-* "node-XMLHttpRequest":http://github.com/driverdan/node-XMLHttpRequest
-* "Faye":http://github.com/jcoglan/faye -- Bayeux protocol Comet client and server for Node.js and Rack
 
 h3(#testing). "Testing / Spec Frameworks":#testing
-* "spectacular":http://github.com/jcrosby/spectacular -- for testing
-* "jspec":http://github.com/visionmedia/jspec -- Feature Rich BDD Testing Framework
 * "brevity.test":http://github.com/brevity/test -- JavaScript unit testing framework.
-* "Speks":http://github.com/ecavazos/speks -- A specification framework for your node-code
-* "ntest":http://github.com/technoweenie/ntest -- another unit testing framework
-* "node-async-testing":http://github.com/bentomas/node-async-testing -- Simple testing (hopefully)
-* "vows.js":http://github.com/cloudhead/vows.js -- asynchronous testing in node.js
-* "mjsunit.runner":http://github.com/tmpvar/mjsunit.runner -- Command line mjsunit runner which provides an easy way to hook into mjsunit and start running tests immediately.
-* "exemplor.js":http://github.com/chrislloyd/exemplor.js -- A port of "exemplor":http://github.com/quackingduck/exemplor with Node goodness.
-* "node-stories":http://github.com/tobiassvn/node-stories -- Given/When/Then integration awesomeness for Node.
 * "espionage":http://github.com/smtlaissezfaire/espionage -- A mock/stub framework using the test spy pattern.
+* "exemplor.js":http://github.com/chrislloyd/exemplor.js -- A port of "exemplor":http://github.com/quackingduck/exemplor with Node goodness.
+* "jspec":http://github.com/visionmedia/jspec -- Feature Rich BDD Testing Framework
+* "mjsunit.runner":http://github.com/tmpvar/mjsunit.runner -- Command line mjsunit runner which provides an easy way to hook into mjsunit and start running tests immediately.
+* "node-async-testing":http://github.com/bentomas/node-async-testing -- Simple testing (hopefully)
+* "node-stories":http://github.com/tobiassvn/node-stories -- Given/When/Then integration awesomeness for Node.
+* "ntest":http://github.com/technoweenie/ntest -- another unit testing framework
+* "spectacular":http://github.com/jcrosby/spectacular -- for testing
+* "Speks":http://github.com/ecavazos/speks -- A specification framework for your node-code
+* "vows.js":http://github.com/cloudhead/vows.js -- asynchronous testing in node.js
 
 h3(#wrappers). "Wrappers":#wrappers
 * "hxNode":http://github.com/blackdog66/hxNode/tree/master -- haXe wrappers for node
@@ -120,10 +120,10 @@ h3(#wrappers). "Wrappers":#wrappers
 h3(#parsers). "Parsers":#parsers
 
 h4(#parsers-xml). "XML":#parsers-xml
-* "sax-js":http://github.com/isaacs/sax-js -- SAX-like parser in pure JS
 * "libxmljs":http://github.com/sprsquish/libxmljs -- Bindings to libxml2
 * "node-xml":http://github.com/robrighter/node-xml -- An xml parser for node.js
 * "node-xml2object":http://github.com/kyleslattery/node-xml2object -- Converts XML to a JS object, using the node-xml module
+* "sax-js":http://github.com/isaacs/sax-js -- SAX-like parser in pure JS
 
 h4(#parsers-commandline). "Command Line Option Parsers":#parsers-commandline
 * "optparse-js":http://github.com/jfd/optparse-js/tree/master -- Option Parser in JS
@@ -131,17 +131,16 @@ h4(#parsers-commandline). "Command Line Option Parsers":#parsers-commandline
 
 h4(#parsers-other). "Other":#parsers-other
 * "node-csv":http://github.com/voodootikigod/node-csv -- Efficient Evented CSV Parsing.
-* "yajl-js":http://bitbucket.org/nikhilm/yajl-js -- SAX-like evented JSON parsing using "yajl":http://lloyd.github.com/yajl
 * "querystring.node.js":http://github.com/jazzychad/querystring.node.js -- Robust query string parsing for node.
+* "yajl-js":http://bitbucket.org/nikhilm/yajl-js -- SAX-like evented JSON parsing using "yajl":http://lloyd.github.com/yajl
 
 h3(#debugging). "Debugging / Console Utilities":#debugging
-* "node_debug":http://github.com/Connorhd/node_debug/tree/master -- HTTP based console and object explorer
-* "consolelog.js":http://github.com/jazzychad/consolelog.node.js -- stylized console logging for node.js
-* "log4js-node":http://github.com/csausdev/log4js-node -- a port of log4js framework for node.js
-* "eyes.js":http://github.com/cloudhead/eyes.js -- A better, customizable value inspector for node.js
-* "Eclipse debugger plugin":http://code.google.com/p/chromedevtools/ -- [[Using Eclipse as Node Applications Debugger]]
 * "colored.js":http://github.com/chrislloyd/colored.js -- Colorize terminal output.
-
+* "consolelog.js":http://github.com/jazzychad/consolelog.node.js -- stylized console logging for node.js
+* "Eclipse debugger plugin":http://code.google.com/p/chromedevtools/ -- [[Using Eclipse as Node Applications Debugger]]
+* "eyes.js":http://github.com/cloudhead/eyes.js -- A better, customizable value inspector for node.js
+* "log4js-node":http://github.com/csausdev/log4js-node -- a port of log4js framework for node.js
+* "node_debug":http://github.com/Connorhd/node_debug/tree/master -- HTTP based console and object explorer
 
 h3(#compression). "Compression":#compression
 * "node-compress":http://github.com/waveto/node-compress -- streaming compression / gzip library
@@ -174,12 +173,10 @@ h3(#other). "Other":#other
 * "yaml":http://github.com/visionmedia/js-yaml -- CommonJS YAML parser
 
 h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":#commonjs-compat
-
-* "match-js":http://github.com/jfd/match-js -- Simple pattern matching (functional style) in JS.
-* "datatypes-js":http://github.com/jfd/datatypes-js -- Byte encoding/decoding for typical datatypes in JS.
-* "qxoo":http://github.com/fjakobs/qxoo -- port of the qooxdoo OO system to commonJS
-* "email.js":http://github.com/craigw/email.js -- Email generation and parsing in Javascript.
-* "underscore":http://documentcloud.github.com/underscore/ -- Unobtrusive functional programming utility library.
-* "Dojo Toolkit (Node-compatible fork)":http://github.com/novemberborn/dojo -- The Dojo library for Node
 * "commonjs-utils":http://github.com/kriszyp/commonjs-utils -- "JSON Schema":http://json-schema.org/, AOP, XML-RPC, lazy arrays, and other utilities
-
+* "datatypes-js":http://github.com/jfd/datatypes-js -- Byte encoding/decoding for typical datatypes in JS.
+* "Dojo Toolkit (Node-compatible fork)":http://github.com/novemberborn/dojo -- The Dojo library for Node
+* "email.js":http://github.com/craigw/email.js -- Email generation and parsing in Javascript.
+* "match-js":http://github.com/jfd/match-js -- Simple pattern matching (functional style) in JS.
+* "qxoo":http://github.com/fjakobs/qxoo -- port of the qooxdoo OO system to commonJS
+* "underscore":http://documentcloud.github.com/underscore/ -- Unobtrusive functional programming utility library.
