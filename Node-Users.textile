@@ -7,6 +7,10 @@ Please add yourself to the according to "your timezone":http://www.timeanddate.c
 * Real name (IRC name)
 ** contacts</code></pre>
 
+h2. UTC-9
+* James Halliday (substack)
+** "GitHub":http://github.com/substack, "Website":http://substack.net
+
 h2. UTC-8
 * Ryan Dahl (ryah)
 ** "GitHub":http://github.com/ry, "Twitter":http://twitter.com/ryah, "Website":http://tinyclouds.org
