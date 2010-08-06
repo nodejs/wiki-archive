@@ -71,6 +71,7 @@ Complete projects that use node.
 * "Sousaball":http://github.com/creationix/sousaball by creationix (<a href="http://sousaball.creationix.com">sousaball.creationix.com</a>)
 * "DinMaker":http://github.com/creationix/node-topcloud-chat by creationix (live demo at <a href="http://chat.creationix.com">chat.creationix.com</a>)
 * "Flickr Spy":http://github.com/ncr/flickr_spy -- Discover where your Flickr contacts are commenting
+* "NodeFTPd":http://github.com/billywhizz/nodeftpd -- Node FTP Server
 
 h2. Companies using node
 
