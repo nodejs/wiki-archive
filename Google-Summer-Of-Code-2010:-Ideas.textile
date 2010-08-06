@@ -19,7 +19,7 @@ h2. Bindings
 
 h2. Other
 
-* Thift and/or protocol buffer interface
+* Thrift/Avro/PB interfaces
 * Port "env.js":http://ejohn.org/blog/bringing-the-browser-to-the-server/ to node
 ** And/or maybe "jsdom":http://github.com/tmpvar/jsdom (-tmpvar: this is already available to node!)
 * Add support for UDP to node
