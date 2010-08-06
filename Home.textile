@@ -12,8 +12,8 @@ h2. Projects using node
 * "vroom":http://github.com/raycmorgan/vroom/tree/master -- A simple resource oriented web framework built on top of Node.js
 * "postgres-js":http://github.com/creationix/postgres-js/tree/master -- Postgres protocol implemented in JS
 * "optparse-js":http://github.com/jfd/optparse-js/tree/master -- Option Parser in JS
-* "libxmljs": http://github.com/sprsquish/libxmljs -- Beginning of bindings to libxml2
-* "node_postgres": http://github.com/ry/node_postgres -- Beginning of bindings to libpg
+* "libxmljs":http://github.com/sprsquish/libxmljs -- Beginning of bindings to libxml2
+* "node_postgres":http://github.com/ry/node_postgres -- Beginning of bindings to libpg
 
 h2. Companies using node
 
