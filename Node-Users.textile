@@ -390,6 +390,8 @@ h2. UTC+10 or UTC+11
 ** "Twitter":http://twitter.com/login_required, "Github":http://github.com/colingourlay, "Website":http://colin-gourlay.com/
 * Nicholas Kinsey, Brisbane, Australia
 ** "Twitter":http://twitter.com/pyrotechnick, "Github":http://github.com/pyrotechnick
+* Nicholas Dancer, Brisbane, Australia
+** "Twitter":http://twitter.com/nj_dancer, "Github":http://github.com/DaNCeR
 
 * Andrei Railean, Sydney, Australia
 ** "Twitter":http://twitter.com/andrei_md, "Github":http://github.com/andreirailean, "Website":http://andrei.md/
