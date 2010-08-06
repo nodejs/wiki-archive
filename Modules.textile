@@ -95,6 +95,7 @@ h3(#templating). "Templating":#templating
 * "bind-js":http://github.com/Xavi-/bind-js -- a simple templating engine for node.js that smiles back.
 * "normal-template":http://github.com/gmosx/normal-template -- Normal templates are simple, yet powerful. They are safe, usable in non XML/HTML contexts and portable to any programming language.
 * "nun":http://github.com/akaspin/nun -- Totally asynchronous non-blocking template engine for node.js
+* "node.magic_dom":http://github.com/amix/node.magic_dom -- A DSL for building HTML in node.js, similar to Python's Stan
 
 h3(#package-management). "Package Management Systems":#package-management
 * "kiwi":http://github.com/visionmedia/kiwi -- Feature rich, fast, node.js package management system -- server sponsored by Slicehost
