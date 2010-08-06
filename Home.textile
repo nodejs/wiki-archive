@@ -25,11 +25,11 @@ h2. Projects / Applications
 * "Djangode":http://github.com/simonw/djangode - Django’s regex-based URL handling, utility functions, and html templating for node
 * "The WPilot Project":http://jfd.github.com/wpilot/ - A multiplayer, space shooter, action game in your browser. Server is built in node
 * "Socket.IO":http://github.com/LearnBoost/Socket.IO-node - An abstraction over all the realtime transports (WebSocket, long polling, XHR multipart, etc) for the Node HTTP server
-* "zztmmo":http://github.com/marak/zztmmo - a zzt based massive multiplayer online game built in node.js and jQuery
+* "zztmmo":http://github.com/marak/zztmmo - a zzt based massive multiplayer online game built in node.js and jQuery (currently only single player)
 * "diretto":http://www.diretto.org/ - Distributed Recon/Reporting Transceiver Toolkit – Uses Node.js for web-based media storage and for its RESTful webservice implementation
-* "ElusiveHippo":http://elusivehippo.com - Push deployment for nodejs (written entirely in nodejs).
+* "ElusiveHippo":http://elusivehippo.com - Push deployment for nodejs (non-functional / doesn't work)
 * "Chess Riot":http://chessriot.com - a live Lightning Chess app built in node.js, express, CoffeeScript and jQuery. By @weepy
-* "Realie":http://www.web2media.net/laktek/2010/05/25/real-time-collaborative-editing-with-websockets-node-js-redis/ - Real-time Collaborative Editor using Web Sockets, Node.js & Redis
+* "Realie":http://www.web2media.net/laktek/2010/05/25/real-time-collaborative-editing-with-websockets-node-js-redis/ - Real-time Collaborative Editor using Web Sockets, Node.js & Redis (non-functional / doesn't work)
 
 h2. Articles
 * "pubsub":http://www.nonblocking.io/2009/06/scalable-pubsub-with-nodejs.html -- by Malte Ubl
