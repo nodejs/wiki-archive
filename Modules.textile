@@ -76,6 +76,7 @@ h3(#security). "OpenSSL / Crypto / Hashing":#security
 * "node-crypto":http://github.com/waveto/node-crypto -- OpenSSL based Hashing, Signing and Verifying
 * "hashlib":http://github.com/brainfucker/hashlib -- Fast hashing module, written in C/C++, supports: md4, md5, md6, sha, sha1, sha256, sha512
 * "node-oauth":http://github.com/ciaranj/node-oauth -- OAuth client
+* "node-base64":http://github.com/brainfucker/node-base64 -- C++ base64 lib
 
 h3(#tcp). "TCP / IP":#tcp
 * "node-protocol":http://github.com/miksago/node-protocol -- A framework for implementing protocols.
