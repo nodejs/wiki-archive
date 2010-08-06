@@ -195,7 +195,7 @@ h3(#other). "Other":#other
 * "ext":http://github.com/visionmedia/ext.js -- High quality / performance JavaScript extensions specifically for node.js
 * "flickrnode":http://github.com/ciaranj/flickrnode -- A library to enable use of the flickr api (not as complete as node-flickr, but supports auth)
 * "flow-js":http://github.com/willconant/flow-js -- Continuation-esque contruct for expressing multi-step asynchronous logic
-* "hub.js":http://github.com/greut/hub.js -- in-memory and in progress PubSubHubBub server
+* "hub.js":http://github.com/greut/hubbub.js -- in-memory and in progress PubSubHubBub server
 * "Jefe":http://github.com/fictorial/jefe -- Jefe is a safe sandbox for running user scripts in Node.js
 * "Jerk":http://github.com/gf3/Jerk -- A fun little IRC bot library for node.js.
 * "koala":http://github.com/visionmedia/koala.js -- Code syntax highlighting library 
