@@ -150,9 +150,6 @@ h3(#graphics). "Graphics":#graphics
 * "node-gd":http://github.com/taggon/node-gd -- GD graphic library bindings
 * "magickal-node":http://github.com/quiiver/magickal-node -- GraphicsMagick wrapper for node.js
 
-h3(#gui). "GUI":#gui
-* "node-gui":http://github.com/brainfucker/node-gui -- Some experimental binding for gtk and maybe other (Not finished yet)
-
 h3(#other). "Other":#other
 * "behaviors":http://github.com/caolan/behaviors -- A simple way to check a module's exports, useful for 3rd party plugins and extensions
 * "cookie-node":http://github.com/jed/cookie-node/ -- signed cookie functionality for node.js
