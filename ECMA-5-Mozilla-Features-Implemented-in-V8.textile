@@ -9,7 +9,7 @@ h2. Syntax extensions
 @var obj = { get a() { return "something" }, set a() { "do nothing" } }@ getter/setter syntax
 
 h2. Array
- * @isArray(array)@ - Returns true if the passed argument is an array.
+ * @Array.isArray(array)@ - Returns true if the passed argument is an array.
 
 h2. Array.prototype
  * @indexOf(value)@ - Returns the first (least) index of an element within the array equal to the specified value, or -1 if none is found.
@@ -23,19 +23,19 @@ h2. Array.prototype
  * @reduceRight(callback[, initialValue])@ - Apply a function simultaneously against two values of the array (from right-to-left) as to reduce it to a single value.
 
 h2. Date
- * @now()@ - Returns the numeric value corresponding to the current time.
+ * @Date.now()@ - Returns the numeric value corresponding to the current time.
 
 h2. Date.prototype
  * @toISOString()@ - 
 
 h2. Object
- * @create( proto, props )@ - Creates a new object whose prototype is the passed in parent object. 
- * @keys(object)@ - Returns a list of the ownProperties of an object that are enumerable.
- * @defineProperty(obj, prop, desc)@ - Defines a property on an object with the given descriptor
- * @defineProperties(obj, props)@ - Adds own properties and/or updates the attributes of existing own properties of an object
- * @getOwnPropertyNames(object)@ - Returns a list of the ownProperties of an object including ones that are not enumerable.
- * @getPrototypeOf(object)@ - Returns the prototype of an object.
- * @getOwnPropertyDescriptor(object, property)@ - Returns an object with keys describing the description of a property (value, writable, enumerable, configurable)
+ * @Object.create( proto, props )@ - Creates a new object whose prototype is the passed in parent object. 
+ * @Object.keys(object)@ - Returns a list of the ownProperties of an object that are enumerable.
+ * @Object.defineProperty(obj, prop, desc)@ - Defines a property on an object with the given descriptor
+ * @Object.defineProperties(obj, props)@ - Adds own properties and/or updates the attributes of existing own properties of an object
+ * @Object.getOwnPropertyNames(object)@ - Returns a list of the ownProperties of an object including ones that are not enumerable.
+ * @Object.getPrototypeOf(object)@ - Returns the prototype of an object.
+ * @Object.getOwnPropertyDescriptor(object, property)@ - Returns an object with keys describing the description of a property (value, writable, enumerable, configurable)
 
 h2. Object.prototype
  * @__defineGetter__(name, callback)@ - Associates a function with a property that, when accessed, executes that function and returns its return value.
@@ -45,8 +45,8 @@ h2. Object.prototype
  * @isPrototypeOf(object)@ - Returns true if @this@ is a prototype of the passed in object.
 
 h2. JSON
- * @stringify(object)@ - Takes any serializable object and returns the JSON representation as a string.
- * @parse(string)@ - Takes a well formed JSON string and returns the corresponding JavaScript object.
+ * @JSON.stringify(object)@ - Takes any serializable object and returns the JSON representation as a string.
+ * @JSON.parse(string)@ - Takes a well formed JSON string and returns the corresponding JavaScript object.
 
 h2. String.prototype
  * @trim()@ - Trims whitespace from both ends of the string
