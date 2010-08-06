@@ -38,7 +38,7 @@ h2. Object
  * @Object.getOwnPropertyDescriptor(obj, property)@ - Returns an object with keys describing the description of a property (value, writable, enumerable, configurable)
  * @Object.preventExtensions(obj)@ - Prevents any new properties from being added to the given object.
  * @Object.isExtensible(obj)@ - Checks if Object.preventExtensions() has been called on this object.
- * @Object.seal(obj)@ - Keeps an object from having its properties added to, deleted from, or changing the descriptors of any properties of the object. Property values can be changed however.
+ * @Object.seal(obj)@ - Prevents code from adding or deleting properties, or changing the descriptors of any property on an object. Property values can be changed however.
  * @Object.isSealed(obj)@ - Checks if Object.seal() has been called on this object.
  * @Object.freeze(obj)@ - Same as Object.seal, except property values cannot be changed.
  * @Object.isFrozen(obj)@ - Checks if Object.freeze() has been called on this object.
