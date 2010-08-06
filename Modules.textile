@@ -144,6 +144,7 @@ h4(#parsers-xml). "XML":#parsers-xml
 h4(#parsers-commandline). "Command Line Option Parsers":#parsers-commandline
 * "optparse-js":http://github.com/jfd/optparse-js/tree/master -- Option Parser in JS
 * "trollopjs":http://github.com/bentomas/trollopjs -- Another option parser
+* "js-opts":http://www.bitbucket.org/mazzarelli/js-opts/ -- Another simple command line option parser
 
 h4(#parsers-other). "Other":#parsers-other
 * "markdown.js":http://github.com/visionmedia/markdown.js -- C markdown parser bindings
