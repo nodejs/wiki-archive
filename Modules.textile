@@ -48,7 +48,7 @@ h3(#security). "OpenSSL / Crypto / Hashing":#security
 h3(#rpc). "RPC":#rpc
 * "bertrpc":http://github.com/rtomayko/node-bertrpc
 * "jsonrpc":http://github.com/ericflo/node-jsonrpc
-* "xmlrpc-c":http://github.com/caludio/node.xmlrpc-c
+* "xmlrpc-c":http://github.com/caludio/node.xmlrpc-c -- Simple XMLRPC Client
 
 h3(#testing). "Testing / Spec Frameworks":#testing
 * "spectacular":http://github.com/jcrosby/spectacular -- for testing
