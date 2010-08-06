@@ -37,7 +37,9 @@ h2. Object
  * @Object.getPrototypeOf(object)@ - Returns the prototype of an object.
  * @Object.getOwnPropertyDescriptor(object, property)@ - Returns an object with keys describing the description of a property (value, writable, enumerable, configurable)
  * @Object.preventExtensions(obj)@ - Prevents any new properties from being added to the given object.
- * @Object.isExtensible(obj)@ - Checks if the given object allows new properties to be added to it.
+ * @Object.isExtensible(obj)@ - Checks if Object.preventExtensions() has been called on this object.
+ * @Object.freeze( obj )@ - Keeps an object from having its properties added to, deleted from, or edited.
+ * @Object.isFrozen(obj)@ - Checks if Object.freeze() has been called on this object.
 
 h2. Object.prototype
  * @__defineGetter__(name, callback)@ - Associates a function with a property that, when accessed, executes that function and returns its return value.
@@ -66,8 +68,6 @@ h2. Property Descriptor Defaults
 h1. Missing features
  * @Object.seal( obj )@
  * @Object.isSealed(obj)@
- * @Object.freeze( obj )@
- * @Object.isFrozen(obj)@
  * @Object.__noSuchMethod__@
  * @Function.prototype.bind(thisArg, arg1, arg2....)@
  * "use strict"; syntax extension
