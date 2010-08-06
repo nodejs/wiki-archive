@@ -57,6 +57,7 @@ h2. Modules with node support
 
 CommonJS compatible modules that can be used with node.
 
+* "sass.js":http://github.com/visionmedia/sass.js -- Parses Sass templates and renders css.
 * "haml-js":http://github.com/creationix/haml-js -- Server side html generation using javascript.  Parses haml templates and renders html.
 * "match-js":http://github.com/jfd/match-js -- Simple pattern matching (functional style) in JS.
 * "datatypes-js":http://github.com/jfd/datatypes-js -- Byte encoding/decoding for typical datatypes in JS.
