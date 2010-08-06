@@ -33,6 +33,7 @@ h3(#templating). "Templating":#templating
 * "tmpl-node":http://github.com/jed/tmpl-node -- a feature-rich template module for node.js
 * "template.node.js":http://github.com/jazzychad/template.node.js -- A light, fast, cached template module for node.
 * "JSON Template":http://github.com/andychu/json-template -- Minimal but powerful template language with multiple implementations.  This is the CommonJS version, tested on Node
+* "Mu (Mustache)":http://github.com/raycmorgan/Mu -- A Mustache engine that compiles templates into very fast rendering functions. Also streams the rendering process.
 
 h3(#package-management). "Package Management Systems":#package-management
 * "kiwi":http://github.com/visionmedia/kiwi -- Feature rich, fast, bash based package management
