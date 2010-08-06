@@ -105,6 +105,7 @@ h3(#testing). "Testing / Spec Frameworks":#testing
 * "node-async-testing":http://github.com/bentomas/node-async-testing -- Simple testing (hopefully)
 * "vows.js":http://github.com/cloudhead/vows.js -- asynchronous testing in node.js
 * "mjsunit.runner":http://github.com/tmpvar/mjsunit.runner -- Command line mjsunit runner which provides an easy way to hook into mjsunit and start running tests immediately.
+* "exemplor.js":http://github.com/chrislloyd/exemplor.js -- A port of "exemplor":http://github.com/quackingduck/exemplor with Node goodness.
 
 h3(#wrappers). "Wrappers":#wrappers
 * "hxNode":http://github.com/blackdog66/hxNode/tree/master -- haXe wrappers for node
@@ -132,6 +133,7 @@ h3(#debugging). "Debugging / Console Utilities":#debugging
 * "log4js-node":http://github.com/csausdev/log4js-node -- a port of log4js framework for node.js
 * "eyes.js":http://github.com/cloudhead/eyes.js -- A better, customizable value inspector for node.js
 * "Eclipse debugger plugin":http://code.google.com/p/chromedevtools/ -- Full featured V8 debugger (use port 5858, start node with --debug option)
+* "colored.js":http://github.com/chrislloyd/colored.js -- Colorize terminal output.
 
 
 h3(#compression). "Compression":#compression
