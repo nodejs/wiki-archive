@@ -76,6 +76,8 @@ h2. UTC+1 (+2)
 ** "Blog":http://dracoblue.net, "Github":http://github.com/DracoBlue, "Twitter":http://twitter.com/DracoBlue
 * Francisco Treacy (frank06)
 ** "Website":http://franciscotreacy.com, "Github":http://github.com/frank06, "Twitter":http://twitter.com/frank06
+* Johan Dahlberg (jfd)
+** "Github":http://github.com/jfd
 
 
 h2. UTC+2 (+3)
