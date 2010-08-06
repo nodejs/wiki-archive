@@ -253,6 +253,7 @@ h3(#debugging). "Debugging / Console Utilities":#debugging
 
 h3(#compression). "Compression":#compression
 * "node-compress":http://github.com/waveto/node-compress -- streaming compression / gzip library
+* "node-compress by egorich239":http://github.com/egorich239/node-compress -- asynchronous streaming (de)compression library with gzip and bzip2 support, originally forked from "waveto's":http://github.com/waveto/node-compress
 
 h3(#graphics). "Graphics":#graphics
 * "node-gd":http://github.com/taggon/node-gd -- GD graphic library bindings
