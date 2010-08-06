@@ -145,7 +145,7 @@ h3(#templating). "Templating":#templating
 * "strobe-templates":http://github.com/skid/strobe-templates -- An asynchronous templating engine with syntax like Django's
 
 h3(#build-and-deployment). "Build and Deployment":#build-and-deployment
-* "nodejs-autorestart":http://github.com/shimondoodkin/nodejs-autorestart -- run while true, watch all .js & restart on change, easy development and stable production.
+* "nodejs-autorestart":http://github.com/shimondoodkin/nodejs-autorestart -- easy development and stable production, run it while true, watch all .js & restart on change.
 * "node-jake":http://github.com/mde/node-jake -- JavaScript build tool similar to Make or Rake.
 
 h3(#package-management). "Package Management Systems":#package-management
