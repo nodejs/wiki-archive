@@ -110,6 +110,7 @@ h3(#database). "Database":#database
 * "node_postgres":http://github.com/ry/node_postgres -- Beginning of bindings to libpg
 * "noodb":http://github.com/randomekek/noodb.js -- A simple and small file backed javascript key-value store
 * "persistence":http://github.com/creationix/node-persistence -- Multi-backend database/nosql system.  Backends: Sqlite3, Postgres and Memory.
+* "persistence.js":http://github.com/zefhemel/persistencejs -- An object-relational mapper (ORM) for node. Backends: MySQL.
 * "perstore":http://github.com/kriszyp/perstore -- JavaScript persistence/object store with pluggable storage based on the "W3C DB API":http://www.w3.org/TR/IndexedDB/
 * "postgres-js":http://github.com/creationix/postgres-js/tree/master -- Postgres protocol implemented in pure JS
 * "redis-node-client":http://github.com/fictorial/redis-node-client/tree/master -- Redis Client by Fictorial
