@@ -110,6 +110,7 @@ h3(#database). "Database":#database
 * "node-migrate":http://github.com/rsandor/node-migrate -- Migrate - A database agnostic migration system for Node.js
 
 h3(#templating). "Templating":#templating
+* "nodejs-meta-templates":http://github.com/shimondoodkin/nodejs-meta-templates -- like php mixed with html, processed twice, 1st  static data, 2nd dynamic data.
 * "asyncEJS":http://github.com/cramforce/node-asyncEJS -- Asynchronous implementation of embedded JavaScript
 * "haml.js":http://github.com/visionmedia/haml.js -- Faster / more compliant implementation of Haml
 * "haml-js":http://github.com/creationix/haml-js -- Server side html generation using javascript.  Parses haml templates and renders html.
