@@ -143,6 +143,9 @@ h2. UTC-5 (-4)
 ** "GitHub":http://github.com/polotek, "Twitter":http://twitter.com/polotek
 * Jason Feinstein (jasonwyatt), Raleigh, NC, US
 ** "GitHub":http://github.com/jasonwyatt, "Twitter":http://twitter.com/jasonwyatt, "Website":http://jwf.us
+* Brian Mitchell (binary42), New York, NY, US
+** "GitHub":http://github.com/binary42
+
 
 h2. UTC-4 (-3)
 
