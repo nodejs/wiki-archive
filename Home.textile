@@ -25,7 +25,7 @@ h2. Articles
 
 h2. Companies using node
 * "Fictorial":http://fictorial.com
-* "Debuggable":http://debuggable.com/ -- using node.js for "transload.it's":http://transload.it/ file uploading & encoding server
+* "Debuggable":http://debuggable.com/ -- using node.js for "TransloadIt's":http://transloadit.com/ file uploading & encoding server
 * "Adcloud":http://adcloud.com/ -- Javascript Adserver on EC2
 * "Vision Media":http://vision-media.ca -- Web development firm based in Victoria, BC
 * "Plurk":http://www.plurk.com/ -- using node.js for its "new comet system":http://amix.dk/blog/post/19490#Plurk-Instant-conversations-using-comet
