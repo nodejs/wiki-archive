@@ -168,6 +168,7 @@ h3(#other). "Other":#other
 * "node-maxmind":http://github.com/gyordanov/node-maxmind — maxmind/geoip module (using libgeoip)
 * "node-promise":http://github.com/kriszyp/node-promise -- Robust promises for node.js, includes promise utilities and promise-based I/O library
 * "node-sandbox":http://github.com/gf3/node-sandbox -- A rudimentary javascript sandbox for use with node.js
+* "node-solr":http://github.com/gsf/node-solr -- Solr module for Node
 * "node-taglib":http://github.com/nikhilm/node-taglib -- Beginnings of bindings to "taglib":http://developer.kde.org/~wheeler/taglib
 * "node-ugly":http://github.com/felixge/node-ugly -- Allows to run PHP code from within node.js
 * "node-yql":http://github.com/drgath/node-yql -- A YQL (Yahoo Query Language) module for Node.js
