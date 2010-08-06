@@ -149,6 +149,7 @@ h3(#graphics). "Graphics":#graphics
 
 h3(#other). "Other":#other
 * "yaml":http://github.com/visionmedia/js-yaml -- CommonJS YAML parser
+* "behaviors":http://github.com/caolan/behaviors -- A simple way to check a module's exports, useful for 3rd party plugins and extensions
 * "cookie-node":http://github.com/jed/cookie-node/ -- signed cookie functionality for node.js
 * "node-flickr":http://github.com/edds/node-flickr -- A simple library to enable easy use of the flickr api
 * "flickrnode":http://github.com/ciaranj/flickrnode -- A library to enable use of the flickr api (not as complete as node-flickr, but supports auth)
