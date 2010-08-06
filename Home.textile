@@ -28,3 +28,4 @@ h2. Companies using node
 * "Plurk":http://www.plurk.com/ -- using node.js for its "new comet system":http://amix.dk/blog/post/19490#Plurk-Instant-conversations-using-comet
 * "BrandedCode":http://brandedcode.com
 * "Telefónica R&D":http://tid.es
+* "MyBrands":http://www.mybrands.de -- web-tracker and product recommendations (node + couchdb)
