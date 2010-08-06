@@ -157,6 +157,8 @@ h2. UTC-5 (-4)
 ** "GitHub":http://github.com/binary42
 * Daniel D. Shaw (dshaw), Morgantown, WV, US
 ** "GitHub":http://github.com/dshaw, "Twitter":http://twitter.com/dshaw, "Website":http://dshaw.com
+* Brian White (mscdex), Morgantown, WV, US
+** "GitHub":http://github.com/mscdex, "Website":http://mscdex.net
 
 
 h2. UTC-4 (-3)
