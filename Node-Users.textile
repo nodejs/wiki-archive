@@ -117,6 +117,8 @@ h2. UTC+0 (0)
 
 h2. UTC+0 (+1)
 
+* Caolan McMahon (caolanm)
+** "Website":http://caolanmcmahon.com, "Github":http://github.com/caolan, "Twitter":http://twitter.com/caolan
 * Tav (tav)
 ** "Website":http://tav.espians.com/, "Github":http://github.com/tav, "Twitter":http://twitter.com/tav
 * Jason Davies (jasondavies)
