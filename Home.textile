@@ -23,3 +23,4 @@ h2. Companies using node
 * "Vision Media":http://vision-media.ca -- Web development firm based in Victoria, BC
 * "Plurk":http://www.plurk.com/ -- using node.js for its "new comet system":http://amix.dk/blog/post/19490#Plurk-Instant-conversations-using-comet
 * "BrandedCode":http://brandedcode.com
+* "Telefónica R&D":http://tid.es
