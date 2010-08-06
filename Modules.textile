@@ -61,6 +61,7 @@ h4(#parsers-other). "Other":#parsers-other
 h3(#debugging). "Debugging / Console Utilities":#debugging
 * "node_debug":http://github.com/Connorhd/node_debug/tree/master -- HTTP based console and object explorer
 * "consolelog.js":http://github.com/jazzychad/consolelog.node.js -- stylized console logging for node.js
+* "log4js-node":http://github.com/csausdev/log4js-node -- a port of log4js framework for node.js
 
 h3(#web-frameworks). "Web frameworks":#web-frameworks
 * "express":http://github.com/visionmedia/express/tree/master -- A robust feature rich web development framework inspired by Sinatra
