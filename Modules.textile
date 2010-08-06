@@ -55,7 +55,7 @@ h3(#database). "Database":#database
 * "node-mongodb":http://github.com/orlandov/node-mongodb -- Basic MongoDB client implementation in JS/C++
 * "node-mongodb-native":http://github.com/christkv/node-mongodb-native -- A pure javascript driver for MongoDB
 * "node-mysql":http://github.com/masuidrive/node-mysql -- Pure Javascript MySQL async driver
-* "node-mysql-sync":http://github.com/Sannis/node-mysql-sync -- MySQL synchronous bindings based on libmysqlclient
+* "node-mysql-libmysqlclient":http://github.com/Sannis/node-mysql-libmysqlclient -- MySQL synchronous bindings based on libmysqlclient
 * "node-riak":http://github.com/orlandov/node-riak -- Riak client library
 * "node-sqlite":http://github.com/grumdrig/node-sqlite -- Bindings for SQLite3. Interface conforms to the "HTML5 Web SQL API":http://dev.w3.org/html5/webdatabase/#sql.
 * "NoSQLite":http://github.com/mrjjwright/nosqlite - A zero-config SQLite wrapper written in CoffeeScript
