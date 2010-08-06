@@ -59,6 +59,7 @@ h3(#database). "Database":#database
 * "node-riak":http://github.com/orlandov/node-riak -- Riak client library
 * "noodb":http://github.com/randomekek/noodb.js -- A simple and small file backed javascript key-value store
 * "node-mysql":http://github.com/Sannis/node-mysql -- Beginning of MySQL synchronous(async in future) binding based on libmysqlclient
+* "riak-js":http://github.com/frank06/riak-js -- Riak Javascript client (works on node v0.1.30+)
 
 h3(#templating). "Templating":#templating
 * "sass.js":http://github.com/visionmedia/sass.js -- Parses Sass templates and renders css.
