@@ -35,7 +35,7 @@ h3(#rpc). "RPC":#rpc
 h3(#testing). "Testing / Spec Frameworks":#testing
 * "spectacular":http://github.com/jcrosby/spectacular -- for testing
 * "jspec":http://github.com/visionmedia/jspec -- Feature Rich BDD Testing Framework
-* "Test":http://github.com/brevity/test -- JavaScript unit testing framework.
+* "brevity.test":http://github.com/brevity/test -- JavaScript unit testing framework.
 * "Speks":http://github.com/ecavazos/speks -- A specification framework for your node-code
 * "ntest":http://github.com/technoweenie/ntest -- another unit testing framework
 
