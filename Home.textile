@@ -59,6 +59,7 @@ h3. Other
 * "node-xml":http://github.com/robrighter/node-xml -- An xml parser for node.js
 * "node-csv":http://github.com/voodootikigod/node-csv -- Efficient Evented CSV Parsing.
 * "Speks":http://github.com/ecavazos/speks -- A specification framework for your node-code
+* "hashlib":http://github.com/brainfucker/hashlib -- Fast hashing module, written in C/C++, supports: md5, sha1, sha256, sha512, md6
 
 h2. Modules with node support
 
