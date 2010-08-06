@@ -21,6 +21,8 @@ h2. Projects using node
 * "aiobot":http://github.com/sztanpet/aoibot a very crude abusing of node.js and javascript as a whole aiming to provide a simple bot for irc
 * "node package manager":http://github.com/isaacs/npm
 * "node-XMLHttpRequest":http://github.com/driverdan/node-XMLHttpRequest
+* "datatypes-js":http://github.com/jfd/datatypes-js -- Byte encoding/decoding for typical datatypes in JS.
+
 
 h2. Companies using node
 
