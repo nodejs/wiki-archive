@@ -35,6 +35,7 @@ h3(#testing). "Testing / Spec Frameworks":#testing
 * "jspec":http://github.com/visionmedia/jspec -- Feature Rich BDD Testing Framework
 * "Test":http://github.com/brevity/test -- JavaScript unit testing framework.
 * "Speks":http://github.com/ecavazos/speks -- A specification framework for your node-code
+* "ntest":http://github.com/technoweenie/ntest -- another unit testing framework
 
 h3(#web-sockets). "Web Sockets":#web-sockets
 * "node.websocket.js":http://github.com/Guille/node.websocket.js -- WebSocket-compatible server.
@@ -82,6 +83,7 @@ h3(#other). "Other":#other
 * "flickrnode":http://github.com/ciaranj/flickrnode -- An alternative library to enable use of the flickr api (not as complete as node-flickr, but supports auth)
 * "eyes.js":http://github.com/cloudhead/eyes.js -- A better, customizable value inspector for node.js
 * "limestone":http://github.com/kurokikaze/limestone -- Sphinx search server connector
+* "Wheres Waldo":http://github.com/technoweenie/wheres-waldo -- track locations of users in redis
 
 h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":#commonjs-compat
 
