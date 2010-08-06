@@ -7,6 +7,7 @@ Node.js is server side JavaScript runtime build on top of the V8 JavaScript engi
 Since the initial release (Feb 16th 2009), the project has:
 
     * Attracted a community of ~1000 users on the mailing list
+    * Seen code contributions from over 50 individuals
     * Received standing ovations at the JSConf.eu conference (2009)
     * Been deployed for comet applications used by millions of users (Plurk)
     * Favorably competed in benchmarks with similar technologies (EventMachine, Twisted, Tornado)
