@@ -168,6 +168,9 @@ h2. UTC-3 (-2)
 
 * Pedro Viegas
 ** "Twitter":http://twitter.com/pasviegas, "Github":http://github.com/pasviegas
+* Emilio Astarita
+** "Google Profile":http://www.google.com/profiles/emilio.astarita
+
 
 h2. UTC+0 (0)
 
