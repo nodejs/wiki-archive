@@ -343,6 +343,7 @@ h3(#other). "Other":#other
 * "html filtre":http://github.com/yikulju/HtmlFiltre - A proxy that filters Html requests and give you an opportunity to add custom content into the response
 * "pokenode":http://www.youtube.com/watch?v=qvy0mPt6Vzo - A push notification utility to make HTML/CSS development faster.
 * "Set implementation":http://gist.github.com/427161 - built on the object hash
+* "forms":http://github.com/caolan/forms -- An easy way to create, parse and validate forms
 
 h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":#commonjs-compat
 * "commonjs-utils":http://github.com/kriszyp/commonjs-utils -- "JSON Schema":http://json-schema.org/, AOP, XML-RPC, lazy arrays, and other utilities
