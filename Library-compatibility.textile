@@ -1,6 +1,7 @@
 Node is under heavy development and its API changes rapidly. Instead of simply a listing of modules which may or may not work with the version of Node installed on one's computer, this will provide a list of module versions which are known to work with specific versions of node.
 
 h2. Node v0.1.97
+* "libxmljs v0.3.0":http://github.com/polotek/libxmljs/tree/0.3.0
 * "node-email v0.0.3":http://github.com/aheckmann/node-email/tree/v0.0.3
 * "node-snpp v0.1.1":http://github.com/jsanders/node-snpp/tree/v0.1.1
 
@@ -91,7 +92,6 @@ h2. Node v0.1.92
 * "step v0.0.2":http://github.com/creationix/step/tree/v0.0.2
 * "websocket v0.0.2":http://github.com/creationix/websocket/tree/v0.0.2
 * "wheat v0.0.2":http://github.com/creationix/wheat/tree/v0.0.2
-* "libxmljs @ 16d7dc1":http://github.com/polotek/libxmljs/commit/16d7dc158e1b98652b0ed175244030225744d2af
 * "node-htmlparser v1.3.4":http://github.com/tautologistics/node-htmlparser/tree/v1.3.4
 * "nodemachine v0.2.5":http://github.com/tautologistics/nodemachine/tree/v0.2.5
 * "behaviors @ d07713c":http://github.com/caolan/behaviors/tree/d07713c71e32cf495d8ab472186b7dbedee41acf
