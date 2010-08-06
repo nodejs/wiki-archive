@@ -219,6 +219,8 @@ h2. UTC+5
 h2. UTC+7
 * Nugroho Herucahyono(xinuc), Indonesia
 ** "Twitter":http://twitter.com/xinuc, "Github":http://github.com/xinuc/, "Website":http://xinuc.org/
+* Chakrit Wichian (chakrit), Thailand
+** "Twitter":http://twitter.com/chakrit, "Github":http://github.com/chakrit/, "Website":http://chakrit.net/
 
 h2. UTC+8
 * Vanilla Hsu(vanillahsu),Taiwan
