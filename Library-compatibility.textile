@@ -5,6 +5,8 @@ h2. Node v0.1.100
 * "nodemachine v0.2.5":http://github.com/tautologistics/nodemachine/tree/v0.2.5
 * "Grasshopper @ 6bd67d9":http://github.com/tuxychandru/grasshopper/commit/6bd67d9900b9275d264bb564494ac2cee388c2c2
 * "nun v.0.1.10":http://github.com/akaspin/nun/tree/v0.1.10
+* "node-websocket-server v1.3.00":http://github.com/miksago/node-websocket-server/tree/v1.3.00 (Requires ssl)
+
 
 h2. Node v0.1.99
 * "node-twiml 0.0.1":http://github.com/derferman/node-twiml/tree/0.0.1
@@ -15,10 +17,11 @@ h2. Node v0.1.99
 * "lepote v0.0.1":http://github.com/tdebarochez/lepote/tree/v0.0.1
 * "clutch v0.1.0":http://github.com/clement/clutch/tree/v0.1.0
 * "node-xml v0.3.0":http://github.com/robrighter/node-xml/tree/v0.3
+* "node-websocket-server v1.2.00":http://github.com/miksago/node-websocket-server/tree/v1.2.00 (Requires ssl)
 
 h2. Node v0.1.98
 * "josi v0.2.0":http://github.com/thatismatt/josi/tree/v0.2.0
-* "node-websocket-server v1.2.00":http://github.com/miksago/node-websocket-server/tree/v1.2.00
+* "node-websocket-server v1.2.00":http://github.com/miksago/node-websocket-server/tree/v1.2.00 (Requires ssl)
 * "nun v.0.1.10":http://github.com/akaspin/nun/tree/v0.1.10
 * "node-twiml 0.0.1":http://github.com/derferman/node-twiml/tree/0.0.1
 * "redis-node-client v0.3.5":http://github.com/fictorial/redis-node-client/tree/v0.3.5
@@ -27,7 +30,7 @@ h2. Node v0.1.98
 * "gm v0.1.0":http://github.com/aheckmann/gm/tree/v0.1.0
 
 h2. Node v0.1.97
-* "node-websocket-server v1.1.00":http://github.com/miksago/node-websocket-server/tree/v1.1.00 (draft76 & draft75 compat)
+* "node-websocket-server v1.1.00":http://github.com/miksago/node-websocket-server/tree/v1.1.00 (draft 76  & 75 compat. Requires ssl)
 * "commonjs-utils v0.1.1":http://github.com/kriszyp/commonjs-utils/tree/v0.1.0
 * "jsgi-node v0.1.1":http://github.com/kriszyp/jsgi-node/tree/v0.1.0
 * "libxmljs v0.3.0":http://github.com/polotek/libxmljs/tree/0.3.0
