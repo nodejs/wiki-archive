@@ -180,6 +180,8 @@ h2. UTC+1 (+2)
 ** "Github":http://github.com/rsms, "Twitter":http://twitter.com/rsms, "Website":http://hunch.se/
 * Friedemann Altrock (fwg)
 ** "Github":http://github.com/fwg, "Twitter":http://twitter.com/fwg
+* Jacek Becela (ncr)
+** "Github":http://github.com/ncr, "Twitter":http://twitter.com/jacek_becela
 
 h2. UTC+2 (+3)
 
