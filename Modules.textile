@@ -115,6 +115,7 @@ h3(#database). "Database":#database
 h3(#templating). "Templating":#templating
 * "nodejs-meta-templates":http://github.com/shimondoodkin/nodejs-meta-templates -- like php mixed with html, processed twice, 1st  static data, 2nd dynamic data.
 * "asyncEJS":http://github.com/cramforce/node-asyncEJS -- Asynchronous implementation of embedded JavaScript
+* "ejs":http://github.com/visionmedia/ejs -- Light-weight ejs implementation compliant with the [Express](http://expressjs.com) view system
 * "haml.js":http://github.com/visionmedia/haml.js -- Faster / more compliant implementation of Haml
 * "haml-js":http://github.com/creationix/haml-js -- Server side html generation using javascript.  Parses haml templates and renders html.
 * "Jade":http://github.com/visionmedia/jade -- Haml-like template engine, fantastic error reporting, easier to read, higher performance
