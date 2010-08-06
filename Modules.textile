@@ -237,6 +237,7 @@ h4(#parsers-xml). "XML":#parsers-xml
 * "node-xml2object":http://github.com/kyleslattery/node-xml2object -- Converts XML to a JS object, using the node-xml module
 * "sax-js":http://github.com/isaacs/sax-js -- SAX-like parser in pure JS
 * "node-expat":http://github.com/astro/node-expat -- Fast SAX parser binding to expat
+* "node-xml2js":http://github.com/maqr/node-xml2js/ -- Simple XML to JavaScript object converter.
 
 h4(#parsers-commandline). "Command Line Option Parsers":#parsers-commandline
 * "optparse-js":http://github.com/jfd/optparse-js/tree/master -- Option Parser in JS
