@@ -165,6 +165,8 @@ h2. UTC+0 (+1)
 ** "Website":http://wave.to/, "GitHub":http://github.com/waveto, "Twitter":http://twitter.com/waveDOTto
 * Riccardo Cambiassi
 ** "Website":http://codewitch.org/, "GitHub":http://github.com/bru, "Twitter":http://twitter.com/bru
+* Ciaran Jessup
+** "GitHub":http://github.com/ciaranj, "Twitter":http://twitter.com/ciaran_j
 
 h2. UTC+1 (+2)
 
