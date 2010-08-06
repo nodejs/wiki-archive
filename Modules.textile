@@ -30,6 +30,7 @@ h4(#web-frameworks-micro). "Microframeworks":#web-frameworks-micro
 * "vroom":http://github.com/raycmorgan/vroom/tree/master -- A simple resource oriented web framework built on top of Node.js (November 2009, node.JS 0.1.16)
 * "Picard":http://github.com/dantebronto/picard
 * "simplex":http://github.com/mshakhan/simplex (October 2009, node.JS 0.1.14)
+* "Pipe-Layer":http://cgit.voodoowarez.com/pipe-layer/ -- Asynchronous HTTP router.
 
 h4(#web-frameworks-full). "Frameworks":#web-frameworks-full
 * "chain":http://github.com/hassox/chain/ -- An evented convention for building Node Applications (Stopped Development, for ejsgi)
