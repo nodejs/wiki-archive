@@ -260,6 +260,7 @@ h4(#parsers-other). "Other":#parsers-other
 * "node-msgpack":http://github.com/pgriess/node-msgpack -- Bindings for MessagePack, space-efficient object serialization library
 * "node-rfb":http://github.com/substack/node-rfb -- Parse the RFB protocol used by VNC
 * "node-bufferlist":http://github.com/substack/node-bufferlist -- Create linked lists of buffers and asynchronously parse binary data from these lists
+* "node-netstring":http://github.com/pgriess/node-netstring -- Read and write "netstrings":http://cr.yp.to/proto/netstrings.txt
 
 h3(#debugging). "Debugging / Console Utilities":#debugging
 * "cfdump.js":http://github.com/figital/cfdump.js -- a prettier way to dump your objects to a browser
