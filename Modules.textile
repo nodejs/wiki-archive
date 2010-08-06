@@ -25,6 +25,8 @@ h4(#web-frameworks-micro). "Microframeworks":#web-frameworks-micro
 * "rowan":http://github.com/idmillington/rowan -- A hierarchical microframework of reusable controllers and modular app logic.
 * "scylla":http://github.com/ithinkihaveacat/node-scylla -- EJSGI-compatible router where method names double as URL-matching patterns
 * "vroom":http://github.com/raycmorgan/vroom/tree/master -- A simple resource oriented web framework built on top of Node.js
+* "Picard":http://github.com/dantebronto/picard
+* "simplex":http://github.com/mshakhan/simplex 
 
 h4(#web-frameworks-full). "Frameworks":#web-frameworks-full
 * "Bomber":http://github.com/obt/bomberjs -- The early stages of a node.js web framework
@@ -40,8 +42,6 @@ h4(#web-frameworks-full). "Frameworks":#web-frameworks-full
 h4(#web-frameworks-other). "Other":#web-frameworks-other
 * "JSGI-Node":http://github.com/kriszyp/jsgi-node/ -- Asynchronous JSGI 0.3 Adapter for Node
 * "node-mime":http://github.com/bentomas/node-mime -- Utility module for mime-type lookups
-* "Picard":http://github.com/dantebronto/picard
-* "simplex":http://github.com/mshakhan/simplex 
 
 h3(#database). "Database":#database
 * "awesome":http://github.com/janl/awesome -- a Redis clone in node.js
