@@ -24,5 +24,5 @@ h2. Other
 ** And/or maybe "jsdom":http://github.com/tmpvar/jsdom (-tmpvar: this is already available to node!)
 * Add support for UDP to node
 * A graphics library, ideally using the same API as html canvas (a solid set of low level bindings to Cairo or AGG or Skia would suffice)
-* Implement a well-documented, `require()`able message queue server (using AMQP?)
-* Implement a well-documented, `require()`able IRC server
+* Implement a well-documented, @require()@able message queue server (using AMQP?)
+* Implement a well-documented, @require()@able IRC server
