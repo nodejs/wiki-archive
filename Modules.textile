@@ -115,6 +115,7 @@ h3(#templating). "Templating":#templating
 * "asyncEJS":http://github.com/cramforce/node-asyncEJS -- Asynchronous implementation of embedded JavaScript
 * "haml.js":http://github.com/visionmedia/haml.js -- Faster / more compliant implementation of Haml
 * "haml-js":http://github.com/creationix/haml-js -- Server side html generation using javascript.  Parses haml templates and renders html.
+* "Jade":http://github.com/visionmedia/jade -- Haml-like template engine, fantastic error reporting, easier to read, higher performance
 * "jazz":http://github.com/shinetech/jazz -- A readable template language for node.
 * "JSON Template":http://github.com/andychu/json-template -- Minimal but powerful template language with multiple implementations.  This is the CommonJS version, tested on Node
 * "xmlbuilder.js":http://github.com/btakita/xmlbuilder.js -- An xml builder in Javascript inspired by Ruby's Builder, Markaby, and Erector.
