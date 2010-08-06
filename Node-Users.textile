@@ -64,6 +64,8 @@ h2. UTC-5 (-4)
 ** "GitHub":http://github.com/marak, "Website":http://maraksquires.com, "node_debug":http://maraksquires.com/node_debug/
 * Elijah Insua (tmpvar)
 ** "Twitter":http://twitter.com/tmpvar, "Github":http://github.com/tmpvar
+* Kyle Slattery
+** "Twitter":http://twitter.com/kyleslattery, "Github":http://github.com/kyleslattery/, "Website":http://kyleslattery.com
 
 h2. UTC-4 (-3)
 
