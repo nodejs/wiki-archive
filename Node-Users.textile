@@ -159,7 +159,8 @@ h2. UTC-5 (-4)
 ** "GitHub":http://github.com/dshaw, "Twitter":http://twitter.com/dshaw, "Website":http://dshaw.com
 * Brian White (mscdex), Ohio
 ** "GitHub":http://github.com/mscdex, "Website":http://mscdex.net
-
+* George Nava (georgenava), FL
+** "Github":http://github.com/georgenava, "Twitter":http://twitter.com/georgenava, "Website":http://georgenava.appspot.com
 
 h2. UTC-4 (-3)
 
