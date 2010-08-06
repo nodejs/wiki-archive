@@ -181,6 +181,7 @@ h3(#compression). "Compression":#compression
 h3(#graphics). "Graphics":#graphics
 * "node-gd":http://github.com/taggon/node-gd -- GD graphic library bindings
 * "magickal-node":http://github.com/quiiver/magickal-node -- GraphicsMagick wrapper for node.js
+* "node-imagemagick":http://github.com/rsms/node-imagemagick -- ImageMagick module
 
 h3(#other). "Other":#other
 * "behaviors":http://github.com/caolan/behaviors -- A simple way to check a module's exports, useful for 3rd party plugins and extensions
