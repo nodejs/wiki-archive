@@ -17,6 +17,7 @@ h2. Node v0.1.90
 * "node-websocket v0.0.1":http://github.com/tristandunn/node-websocket/tree/v0.0.1
 * "node-memcache":http://github.com/vanillahsu/node-memcache
 * "nodeunit":http://github.com/caolan/nodeunit/tree/daa9986ee6a5266c2e02eae5e3a8bd6904bbcee8
+* "NoSQLite": http://github.com/mrjjwright/NoSQLite
 
 h2. Node v0.1.33
 
