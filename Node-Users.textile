@@ -168,12 +168,15 @@ h2. UTC+2 (+3)
 
 * Artem Gnilov (Boo), Ukraine
 ** "Blog":http://boo.openbdsm.org/, "Twitter":http://twitter.com/BooBSD
+* Saulius Žemaitaitis (frgtn), Lithuania
+** "Github":http://github.com/frgtn, "Website":http://frgtn.net, "Twitter":http://twitter.com/frgtn
+
+h2. UTC+3 (+4)
+
 * Serge Shirokov (Kuroki Kaze), Russia
 ** "Github":http://github.com/kurokikaze, "Blog":http://kuroikaze85.wordpress.com/, "Twitter":http://twitter.com/kurokikaze
 * Oleg Illarionov (Brainfucker), Russia
 ** "Github":http://github.com/brainfucker, "Blog":http://nodejs.ru/, "Website":http://brainfucker.ru/, "Twitter":http://twitter.com/brainfucker
-* Saulius Žemaitaitis (frgtn), Lithuania
-** "Github":http://github.com/frgtn, "Website":http://frgtn.net, "Twitter":http://twitter.com/frgtn
 
 h2. UTC+5
 
