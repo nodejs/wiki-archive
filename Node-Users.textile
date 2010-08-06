@@ -338,6 +338,11 @@ h2. UTC+5
 * Shiv Shankar ( _sh ), India
 ** "Twitter":http://twitter.com/_shiv, "Github":http://github.com/shiv/, "Website":http://pietisticmonk.com/
 
+h2. UTC+6
+
+* Stepan Stolyarov (stevebest), Russia
+** "Twitter":http://twitter.com/stevebest, "Github":http://github.com/stevebest
+
 h2. UTC+7
 * Nugroho Herucahyono(xinuc), Indonesia
 ** "Twitter":http://twitter.com/xinuc, "Github":http://github.com/xinuc/, "Website":http://xinuc.org/
