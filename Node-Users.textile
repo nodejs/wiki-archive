@@ -85,7 +85,7 @@ h2. UTC-3 (-2)
 
 h2. UTC+0 (+1)
 
-* Tav
+* Tav (tav)
 ** "Website":http://tav.espians.com/, "Github":http://github.com/tav, "Twitter":http://twitter.com/tav
 * Jason Davies (jasondavies)
 ** "Website":http://www.jasondavies.com/, "Github":http://github.com/jasondavies, "Twitter":http://twitter.com/jasondavies
