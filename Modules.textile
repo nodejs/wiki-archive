@@ -1,4 +1,4 @@
-h3. Database
+h3(#database). "Database":#database
 * "redis-node-client":http://github.com/fictorial/redis-node-client/tree/master -- by Fictorial
 * "node-couch":http://github.com/sixtus/node-couch/tree/master -- a CouchDB connector
 * "node-tyrant":http://github.com/waveto/node-tyrant/tree/master -- An implementation of the Tokyo Tyrant network protocol for the Node.js
@@ -9,57 +9,57 @@ h3. Database
 * "node-fleet":http://github.com/jfd/node-fleet -- a FleetDB Client
 * "node-mongodb":http://github.com/orlandov/node-mongodb -- Async interface to MongoDB
 
-h3. Templating libraries
+h3(#templating). "Templating":#templating
 * "sass.js":http://github.com/visionmedia/sass.js -- Parses Sass templates and renders css.
 * "haml-js":http://github.com/creationix/haml-js -- Server side html generation using javascript.  Parses haml templates and renders html.
 * "tmpl-node":http://github.com/jed/tmpl-node -- a feature-rich template module for node.js
 * "template.node.js":http://github.com/jazzychad/template.node.js -- A light, fast, cached template module for node.
 
-h3. Package Management Systems
+h3(#package-management). "Package Management Systems":#package-management
 * "kiwi":http://github.com/visionmedia/kiwi -- Feature rich, fast, bash based package management
 * "node package manager":http://github.com/isaacs/npm
 
-h3. TCP/IP
+h3(#tcp). "TCP / IP":#tcp
 * "node-smtp":http://github.com/miksago/node-smtp -- Implementation of the SMTP protocol in Node
 
-h3. OpenSSL / Crypto / Hashing
+h3(#security). "OpenSSL / Crypto / Hashing":#security
 * "node-crypto":http://github.com/waveto/node-crypto -- OpenSSL based Hashing, Signing and Verifying
 * "hashlib":http://github.com/brainfucker/hashlib -- Fast hashing module, written in C/C++, supports: md5, md6, sha1, sha256, sha512
 
-h3. RCP
+h3(#rpc). "RPC":#rpc
 * "bertrpc":http://github.com/rtomayko/node-bertrpc
 * "jsonrpc":http://github.com/ericflo/node-jsonrpc
 
-h3. Testing / Spec Frameworks
+h3(#testing). "Testing / Spec Frameworks":#testing
 * "spectacular":http://github.com/jcrosby/spectacular -- for testing
 * "jspec":http://github.com/visionmedia/jspec -- Feature Rich BDD Testing Framework
 * "Test":http://github.com/brevity/test -- JavaScript unit testing framework.
 * "Speks":http://github.com/ecavazos/speks -- A specification framework for your node-code
 
-h3. Web Sockets
+h3(#web-sockets). "Web Sockets":#web-sockets
 * "node.websocket.js":http://github.com/Guille/node.websocket.js -- WebSocket-compatible server.
 * "local-websocket-server":http://github.com/brevity/local-websocket-server/ -- Local Web Socket server.
 * "node.ws.js":http://github.com/ncr/node.ws.js -- A basic Web Socket server with interface similar to tcp.createServer(...)
 * "nodejs-http-websocket":http://github.com/zimbatm/nodejs-http-websocket -- A websocket server on top of the http server.
 
-h3. Parsers
+h3(#parsers). "Parsers":#parsers
 
-h4. XML
+h4(#parsers-xml). "XML":#parsers-xml
 * "libxmljs":http://github.com/sprsquish/libxmljs -- Bindings to libxml2
 * "node-xml":http://github.com/robrighter/node-xml -- An xml parser for node.js
 
-h4. Command Line Option Parsers
+h4(#parsers-commandline). "Command Line Option Parsers":#parsers-commandline
 * "optparse-js":http://github.com/jfd/optparse-js/tree/master -- Option Parser in JS
 * "trollopjs":http://github.com/bentomas/trollopjs -- Another option parser
 
-h4. Other 
+h4(#parsers-other). "Other":#parsers-other
 * "node-csv":http://github.com/voodootikigod/node-csv -- Efficient Evented CSV Parsing.
 
-h3. Debugging / Console Utilities
+h3(#debugging). "Debugging / Console Utilities":#debugging
 * "node_debug":http://github.com/Connorhd/node_debug/tree/master -- HTTP based console and object explorer
 * "consolelog.js":http://github.com/jazzychad/consolelog.node.js -- stylized console logging for node.js
 
-h3. Web frameworks
+h3(#web-frameworks). "Web frameworks":#web-frameworks
 * "express":http://github.com/visionmedia/express/tree/master -- A robust feature rich web development framework inspired by Sinatra
 * "coltrane":http://github.com/ujh/coltrane/tree/master -- A try at a higher level library/framework for node.js web development
 * "vroom":http://github.com/raycmorgan/vroom/tree/master -- A simple resource oriented web framework built on top of Node.js
@@ -72,7 +72,7 @@ h3. Web frameworks
 * "nodemachine":http://github.com/tautologistics/nodemachine -- A port of WebMachine to Node.js
 * "chain":http://github.com/hassox/chain/ -- An evented convention for building Node Applications
 
-h3. Other
+h3(#other). "Other":#other
 * "node.routes.js":http://github.com/defrex/node.routes.js/ -- A simple url router
 * "node-XMLHttpRequest":http://github.com/driverdan/node-XMLHttpRequest
 * "Restler":http://github.com/danwrong/restler -- Simplified REST client for Node.js
@@ -83,7 +83,7 @@ h3. Other
 * "eyes.js":http://github.com/cloudhead/eyes.js -- A better, customizable value inspector for node.js
 * "limestone":http://github.com/kurokikaze/limestone -- Sphinx search server connector
 
-h2. CommonJS compatible modules that can be used with node.
+h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":#commonjs-compat
 
 * "sass.js":http://github.com/visionmedia/sass.js -- Parses Sass templates and renders css.
 * "haml-js":http://github.com/creationix/haml-js -- Server side html generation using javascript.  Parses haml templates and renders html.
