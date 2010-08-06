@@ -36,6 +36,7 @@ h2. Node v0.1.93
 * "node-redis v0.0.1":http://github.com/tristandunn/node-redis/tree/v0.0.1
 * "node-websocket v0.0.1":http://github.com/tristandunn/node-websocket/tree/v0.0.1
 * "node-ncurses @ fd6e10a":http://github.com/mscdex/node-ncurses/tree/fd6e10ad55f030521409013d6f7fb8e770404cd7
+* "node-terminal":http://github.com/bmeck/node-terminal
 
 h2. Node v0.1.92
 * "node-chat v0.2.0":http://github.com/scottgonzalez/node-chat/tree/v0.2.0
