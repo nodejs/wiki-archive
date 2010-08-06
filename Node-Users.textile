@@ -114,6 +114,8 @@ h2. UTC-6 (-5)
 ** "GitHub":http://github.com/pgriess, "Twitter":http://twitter.com/pgriess
 * Marc Harter (wavded), Eau Claire, WI, US
 ** "Blog":http://wavded.tumblr.com, "Twitter":http://twitter.com/wavded
+* Phil Burrows (peburrows), Belle Plaine, KS, US
+** "GitHub":http://github.com/peburrows, "Blog":http://blog.philburrows.com, "Twitter":http://twitter.com/peburrows
 
 h2. UTC-5 (-4)
 
