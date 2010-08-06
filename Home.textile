@@ -26,7 +26,7 @@ h2. Articles
 * "Going Evented with Node.js":http://www.nakedjavascript.com/going-evented-with-nodejs -- Naked JavaScript
 * "Node.js is genuinely exciting":http://simonwillison.net/2009/Nov/23/node/ -- by Simon Willison
 * "Deploying Node.js with Upstart and Monit":http://howtonode.org/deploying-node-upstart-monit -- by Tim Smart
-* "Several tutorials about Node.js":http://howtonode.org/ -- by Tim Caswell
+* "Several tutorials about Node.js":http://howtonode.org/ -- by Tim Caswell (How to Node)
 
 h2. Talks
 * "Node.js at JSConf.eu 2009":http://jsconf.eu/2009/video_nodejs_by_ryan_dahl.html -- by Ryan Dahl
