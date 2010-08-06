@@ -7,6 +7,11 @@ Please add yourself to the according to "your timezone":http://www.timeanddate.c
 * Real name (IRC name)
 ** contacts</code></pre>
 
+h2. UTC+0 (+1)
+
+* Jason Davies (jasondavies)
+** "Website":http://www.jasondavies.com/, "Twitter":http://twitter.com/jasondavies
+
 h2. UTC+1 (+2)
 
 * Felix Geisendörfer (felixge)
