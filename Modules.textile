@@ -72,6 +72,7 @@ h4(#web-frameworks-other). "Other":#web-frameworks-other
 * "JSGI-Node":http://github.com/kriszyp/jsgi-node/ -- Asynchronous JSGI 0.3 Adapter for Node
 * "node-mime":http://github.com/bentomas/node-mime -- Utility module for mime-type lookups
 * "node-cgi":http://github.com/pufuwozu/node-cgi -- CGI adapter kludge (replaces Node's fast and famous event-based HTTP library)
+* "node.ly":http://github.com/giacecco/node.ly -- A simple URL shortener
 
 h3(#database). "Database":#database
 * "awesome":http://github.com/janl/awesome -- a Redis clone in node.js
