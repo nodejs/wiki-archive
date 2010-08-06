@@ -239,6 +239,9 @@ h2. UTC+1 (+2)
 ** "Github":http://github.com/stephband,  "Twitter":http://twitter.com/stephband, "Website":http://webdev.stephband.info
 * Tim Eggert (elbart)
 ** "Github":http://github.com/elbart, "Twitter":http://twitter.com/elbartus
+* Nico Tübingen (nico2280)
+** "Github":http://github.com/nico2280, "Blog":http://vdqv.blogspot.com, "Twitter":http://twitter.com/hiddenCorp
+
 
 h2. UTC+2 (+3)
 
