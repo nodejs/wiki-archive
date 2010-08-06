@@ -50,6 +50,11 @@ h2. UTC-6 (-5)
 * Tristan Dunn
 ** "GitHub":http://github.com/tristandunn, "Twitter":http://twitter.com/tristandunn, "Website":http://tristandunn.com
 
+h2. UTC-5 (-4)
+
+* Paul Barry (pjb3)
+** "GitHub":http://github.com/pjb3, "Twitter":http://twitter.com/pjb3, "Website":http://paulbarry.com
+
 h2. UTC-4 (-3)
 
 * Ritchie Turner (blackdog)
