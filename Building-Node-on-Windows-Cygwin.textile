@@ -25,3 +25,7 @@ Cygwin internally uses Windows for DNS queries. Node.js uses the c-ares library 
 
 bc. # add the IP of a valid name server
 nameserver 11.22.33.44
+
+
+
+http://www.lazycoder.com/weblog/
