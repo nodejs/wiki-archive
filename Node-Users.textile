@@ -181,6 +181,8 @@ h2. UTC-3 (-2)
 ** "Twitter":http://twitter.com/pasviegas, "Github":http://github.com/pasviegas
 * Emilio Astarita
 ** "Google Profile":http://www.google.com/profiles/emilio.astarita
+* Federico Romero, Montevideo, Uruguay
+** "Google Profile":http://www.google.com/profiles/federomero
 
 
 h2. UTC+0 (0)
