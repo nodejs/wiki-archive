@@ -79,6 +79,7 @@ h4(#parsers-commandline). "Command Line Option Parsers":#parsers-commandline
 
 h4(#parsers-other). "Other":#parsers-other
 * "node-csv":http://github.com/voodootikigod/node-csv -- Efficient Evented CSV Parsing.
+* "yajl-js":http://bitbucket.org/nikhilm/yajl-js -- SAX-like evented JSON parsing using "yajl":http://lloyd.github.com/yajl
 
 h3(#debugging). "Debugging / Console Utilities":#debugging
 * "node_debug":http://github.com/Connorhd/node_debug/tree/master -- HTTP based console and object explorer
