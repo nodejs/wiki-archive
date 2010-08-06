@@ -18,11 +18,11 @@ h2. Node v0.1.90
 * "node-websocket v0.0.1":http://github.com/tristandunn/node-websocket/tree/v0.0.1
 * "node-memcache":http://github.com/vanillahsu/node-memcache
 * "nodeunit":http://github.com/caolan/nodeunit/tree/daa9986ee6a5266c2e02eae5e3a8bd6904bbcee8
-* "NoSQLite":http://github.com/mrjjwright/NoSQLite
+* "NoSQLite @ a613f06":http://github.com/mrjjwright/NoSQLite/tree/a613f0623f667ce94d149d5890f76d61bd5773e4
 * "limestone @ dff8d13":http://github.com/kurokikaze/limestone/tree/dff8d13b9658a75df1fbd881ed59f855a4ec3ca5
 * "node-mysql-libmysqlclient v0.0.6":http://github.com/Sannis/node-mysql-libmysqlclient/tree/v0.0.6
-* "node-amqp@00c113b":http://github.com/ry/node-amqp/tree/00c113bb6f4e251704bc63aba0f0bcabdefb9eab
-* "node-sqlite@ecaa583":http://github.com/orlandov/node-sqlite/tree/ecaa58310517c1521dc394f0b6a4ea62037f5692
+* "node-amqp @ 00c113b":http://github.com/ry/node-amqp/tree/00c113bb6f4e251704bc63aba0f0bcabdefb9eab
+* "node-sqlite @ ecaa583":http://github.com/orlandov/node-sqlite/tree/ecaa58310517c1521dc394f0b6a4ea62037f5692
 * "node-chat v0.1":http://github.com/scottgonzalez/node-chat/tree/v0.1
 
 h2. Node v0.1.33
