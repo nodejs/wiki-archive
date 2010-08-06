@@ -1,4 +1,3 @@
-h1. Community
 
 | "nodejs.org":http://nodejs.org/ | Home and Documentation |
 | "Mailinglist":http://groups.google.com/group/nodejs | Node.js on Google groups |
