@@ -31,6 +31,7 @@ h4(#web-frameworks-full). "Frameworks":#web-frameworks-full
 * "djangode":http://github.com/simonw/djangode -- A framework that borrows some useful concepts from "Django":http://www.djangoproject.com/.
 * "express":http://github.com/visionmedia/express/tree/master -- A robust feature rich web development framework **inspired by Sinatra**
 * "js.io":http://github.com/mcarter/js.io -- Javascript Networking Library for building real-time web applications. Also see "JS.io":http://js.io
+* "MVC.js":http://github.com/tuxychandru/mvc.js/tree/master -- A simple MVC framework for **REST**-ful web applications & services.
 * "nodemachine":http://github.com/tautologistics/nodemachine -- A port of WebMachine to Node.js
 * "pintura":http://github.com/kriszyp/pintura -- REST-based web framework/"middleware":http://github.com/kriszyp/pintura/tree/master/lib/jsgi/ stack built for Ajax-style "JSON-driven applications":http://www.sitepen.com/blog/2010/01/22/introducing-pintura/.
 
