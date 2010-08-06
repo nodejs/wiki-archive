@@ -123,7 +123,7 @@ h3(#debugging). "Debugging / Console Utilities":#debugging
 * "log4js-node":http://github.com/csausdev/log4js-node -- a port of log4js framework for node.js
 * "eyes.js":http://github.com/cloudhead/eyes.js -- A better, customizable value inspector for node.js
 
-h3(#compression). "Compression"
+h3(#compression). "Compression":#compression
 * "node-compress":http://github.com/waveto/node-compress -- streaming compression / gzip library
 
 h3(#other). "Other":#other
