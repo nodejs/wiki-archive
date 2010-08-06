@@ -289,6 +289,7 @@ h3(#other). "Other":#other
 * "daemon.node":http://github.com/Slashed/daemon.node/ -- Unix/Linux Daemons with node.js
 * "dust":http://github.com/pasviegas/dust -- OO way to fill your database with not totally random content
 * "evented-twitter":http://github.com/polotek/evented-twitter -- asynchronous twitter client, supports streaming api
+* "express-chat":http://github.com/Tug/express-chat -- A chat application demo for testing node.js + MongoDB scalability
 * "ext":http://github.com/visionmedia/ext.js -- High quality / performance JavaScript extensions specifically for node.js
 * "flickrnode":http://github.com/ciaranj/flickrnode -- A library to enable use of the flickr api (not as complete as node-flickr, but supports auth)
 * "Faker.js":http://github.com/marak/Faker.js/ -- generate massive amounts of fake data in Node.js and the browser
