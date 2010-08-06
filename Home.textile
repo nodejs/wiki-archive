@@ -78,3 +78,4 @@ h2. Companies using node
 * "Pixelspark":http://www.pixelspark.nl/
 * "Newspaper Club":http://www.newspaperclub.co.uk - Uses node.js for wrapping a nasty SOAP interface to InDesign Server.
 * "NewsBasis":http://newsbasis.com (not yet launched) -- Web crawler and async work in node
+* "ipowerhouse":http://www.ipowerhouse.com - Focused on haXe/Node.js  game dev; first all haxe/node bingo product.
