@@ -1,25 +1,26 @@
-# Install Cygwin
+h1. How to Build and Install Node.JS on Windows
+
+# Install "Cygwin":http://www.cygwin.com/ and use setup.exe in the cygwin folder for the following substeps 
 #* Install devel -> openssl
 #* Install devel -> g++-gcc
 #* Install devel -> make
 #* Install python -> python
 #* Install devel -> git
 # Clone the repo
-#* git clone git://github.com/ry/node.git
-# run configure in the node folder created above
-#* ./configure
-# run make
-# run make test (There will be some test failures in windows)
+#* @git clone git://github.com/ry/node.git@
+# run the following commands in the node folder created above (to open up the cygwin command line, Start > Cygwin > Cygwin Bash Shell)
+
+pre. ./configure
+make
+make test 
+
+(There will be some test failures in windows)
 
 h3. Build problems:
 
 h4. C:\Program Files\Python27\python.exe: can't open file '/cygdrive/c/node/tools/waf-light': [Errno 2] No such file or directory
 
 This is not an issue with node. You are using the Windows version of python in Cygwin (and it doesn't know how to process Cygwin style pathnames). You need to remove the Windows version (or make sure is not in the path) and install the Cygwin version of python.
-
-h4. fatal error - unable to remap \\?\C:\cygwin\lib\python2.6\lib-dynload\time.dll to same address as parent: 0x360000 != 0x3E0000
-
-This is not an issue with node either. Install base -> rebase, then run 'rebaseall'; it will tell you what to do further.
 
 h3. Know issues:
 
@@ -29,3 +30,7 @@ Cygwin internally uses Windows for DNS queries. Node.js uses the c-ares library 
 
 bc. # add the IP of a valid name server
 nameserver 11.22.33.44
+
+h3. Help! I've done EVERYTHING above and I'm still having trouble!
+
+If you've tried all of the above steps, and you still need some help, pop into the "#node.js chat channel":http://webchat.freenode.net?channels=node.js on irc.freenode.net.
