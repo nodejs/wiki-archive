@@ -152,7 +152,7 @@ h3(#other). "Other":#other
 * "node-continuables":http://github.com/bentomas/node-continuables -- A library making dealing with asynchronous code easier
 * "node-bittorrent":http://github.com/WizKid/node-bittorrent -- A library for handling the bittorrent protocol
 * "nshtools":http://github.com/rsdoiel/nshtools -- a high level shell scripting library for file and operating system chores
-
+* "ext":http://github.com/visionmedia/ext.js -- High quality / performance JavaScript extensions specifically for node.js
 h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":#commonjs-compat
 
 * "match-js":http://github.com/jfd/match-js -- Simple pattern matching (functional style) in JS.
