@@ -19,6 +19,7 @@ h2. Node v0.1.92
 * "nodemachine v0.2.5":http://github.com/tautologistics/nodemachine/tree/v0.2.5
 * "behaviors @ d07713c":http://github.com/caolan/behaviors/tree/d07713c71e32cf495d8ab472186b7dbedee41acf
 * "nodeunit @ 3437a42":http://github.com/caolan/nodeunit/tree/3437a428ef736fbcdae66c92a7a3bb0806f1a2af
+* "node-mysql-libmysqlclient @ 689e4ef":http://github.com/Sannis/node-mysql-libmysqlclient/tree/689e4ef5f326ef6576777cdc7ea1aa82f4aec11b
 
 h2. Node v0.1.91
 * "express v0.9.0":http://github.com/visionmedia/express/tree/0.9.0
