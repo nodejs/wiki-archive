@@ -40,6 +40,7 @@ h4(#web-frameworks-full). "Frameworks":#web-frameworks-full
 * "express":http://github.com/visionmedia/express/tree/master -- A robust feature rich web development framework **inspired by Sinatra**
 * "Geddy":http://github.com/mde/geddy/tree/master -- A hackable Web-app development framework similar to Merb/Rails/Pylons/Django
 * "js.io":http://github.com/mcarter/js.io -- Javascript Networking Library for building real-time web applications. Also see "JS.io":http://js.io
+* "josi":http://github.com/thatismatt/josi -- An MVC web framework that's easy to pick up but doesn't get in the way. Also see "here":http://thatismatt.github.com/josi/.
 * "MVC.js":http://github.com/tuxychandru/mvc.js/tree/master -- A simple MVC framework for **REST**-ful applications, with integrated **dependency-injection** support.
 * "nodemachine":http://github.com/tautologistics/nodemachine -- A port of WebMachine to Node.js
 * "pintura":http://github.com/kriszyp/pintura -- REST-based web framework/"middleware":http://github.com/kriszyp/pintura/tree/master/lib/jsgi/ stack built for Ajax-style "JSON-driven applications":http://www.sitepen.com/blog/2010/01/22/introducing-pintura/.
