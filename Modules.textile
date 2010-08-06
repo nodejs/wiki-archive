@@ -11,6 +11,7 @@ h3(#web-frameworks). "Web frameworks":#web-frameworks
 * "nodemachine":http://github.com/tautologistics/nodemachine -- A port of WebMachine to Node.js
 * "chain":http://github.com/hassox/chain/ -- An evented convention for building Node Applications
 * "oui":http://github.com/rsms/oui -- Web service server with great static files support
+* "js.io":http://github.com/mcarter/js.io -- Javascript Networking Library for building real-time web applications. Also see "JS.io":http://js.io
 
 h3(#database). "Database":#database
 * "redis-node-client":http://github.com/fictorial/redis-node-client/tree/master -- by Fictorial
