@@ -63,8 +63,6 @@ h2. UTC-6 (-5)
 ** "Website":http://cloudhead.io, "Twitter":http://twitter.com/cloudhead, "Github":http://github.com/cloudhead
 * Tristan Dunn
 ** "GitHub":http://github.com/tristandunn, "Twitter":http://twitter.com/tristandunn, "Website":http://tristandunn.com
-* Spot
-** "Website":http://www.napalmriot.com/, "Twitter":http://twitter.com/spotnyk, "LinkedIn":http://www.linkedin.com/in/spotnyk
 
 h2. UTC-5 (-4)
 
