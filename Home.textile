@@ -32,6 +32,7 @@ h2. Projects / Applications
 * "Realie":http://www.web2media.net/laktek/2010/05/25/real-time-collaborative-editing-with-websockets-node-js-redis/ - Real-time Collaborative Editor using Web Sockets, Node.js & Redis (non-functional / doesn't work)
 * "GrowlHub":http://github.com/idris/growlhub - Growl Notifications for GitHub
 * "Simple Node.js MUD":http://github.com/gumho/simple-node.js-mud - Simple multi-user dungeon using Node.js
+* "wtfjs":http://github.com/brianleroux/wtfjs - what the fuck javascript!
 
 h2. Articles
 * "pubsub":http://www.nonblocking.io/2009/06/scalable-pubsub-with-nodejs.html -- by Malte Ubl
@@ -67,6 +68,7 @@ h2. Companies using node
 * "MyBrands":http://www.mybrands.de -- web-tracker and product recommendations (node + couchdb)
 * "Next Feature":http://www.nextfeature.com
 * "Next Please!":http://nextplea.se - uses node to match "Adobe Stratus":http://labs.adobe.com/technologies/stratus/ id's.
+* "nitobi":http://nitobi.com
 * "Plurk":http://www.plurk.com/ -- using node.js for its "new comet system":http://amix.dk/blog/post/19490#Plurk-Instant-conversations-using-comet
 * "Sexbyfood":http://www.sexbyfood.com -- a web-based reservations book for restaurateurs
 * "SitePen":http://www.sitepen.com/ - Using node for persevere
