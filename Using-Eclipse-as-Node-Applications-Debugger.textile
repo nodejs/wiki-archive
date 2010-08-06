@@ -101,7 +101,7 @@ then debugger screen after session is connected would look like this:
 As it was mentioned before, avoid stepping over or into require() calls, so the first safe place to stop is at line 4.
 If you set breakpoint there and resume execution by  clicking "Play" button, the script will stop at line 6, most likely due to JIT interaction.
 
-You probably noticed that Eclipse V8 debugger can not connect to the remote host. Moreover, the V8 debugger server thread only accept connections at 127.0.0.1 (localhost), so debugging Node application on remote host requires usage of simple TCP transparent proxy Node script both on local machine running the Eclipse debugger and on remote target as well:
+You probably noticed that Eclipse V8 debugger can not connect to the remote host (there is no provision to specify remote target IP address or name - this feature has already been requested, but it has not been implemented yet). Moreover, the V8 engine debugger server thread only accepts connections at 127.0.0.1 (localhost), so  debugging remote Node application requires usage of simple TCP transparent proxy Node script both on local machine running the Eclipse debugger and on remote target as well:
 
 <pre>
 <code>
