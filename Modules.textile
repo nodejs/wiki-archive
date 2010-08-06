@@ -217,6 +217,7 @@ h3(#other). "Other":#other
 * "node-maxmind":http://github.com/gyordanov/node-maxmind — maxmind/geoip module (using libgeoip)
 * "node-promise":http://github.com/kriszyp/node-promise -- Robust promises for node.js, includes promise utilities and promise-based I/O library
 * "node-prowl":http://github.com/mape/node-prowl -- A module that allows you to send push notifications to your iPhone through the Prowl API
+* "node-resque":http://github.com/jbr/node-resque -- Resque redis-backed job queue workers in node.js
 * "node-sandbox":http://github.com/gf3/node-sandbox -- A rudimentary javascript sandbox for use with node.js
 * "node-s3":http://github.com/grippy/node-s3 -- App for basic Amazon Web Services S3 administration (upload files, bucket admin, etc.)
 * "node-solr":http://github.com/gsf/node-solr -- Solr module for Node
@@ -241,7 +242,6 @@ h3(#other). "Other":#other
 * "Wheres Waldo":http://github.com/technoweenie/wheres-waldo -- track locations of users in redis
 * "Wrench-JS":http://github.com/ryanmcgrath/wrench-js -- Useful Node.js operations (recursive directory operations, etc)
 * "yaml":http://github.com/visionmedia/js-yaml -- CommonJS YAML parser
-* "node-resque":http://github.com/jbr/node-resque -- Resque redis-backed job queue workers in node.js
 
 h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":#commonjs-compat
 * "commonjs-utils":http://github.com/kriszyp/commonjs-utils -- "JSON Schema":http://json-schema.org/, AOP, XML-RPC, lazy arrays, and other utilities
