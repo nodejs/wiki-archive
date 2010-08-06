@@ -83,7 +83,6 @@ h3(#tcp). "TCP / IP":#tcp
 * "node-smtp":http://github.com/miksago/node-smtp -- Implementation of the SMTP protocol in Node
 * "NodeFTPd":http://github.com/billywhizz/nodeftpd -- Node FTP Server
 * "node-httpclient":http://github.com/billywhizz/node-httpclient -- Node HTTP Client (gzip, https, cookies etc.)
-* "xmppjs":http://github.com/mwild1/xmppjs -- Implementation of the XMPP protocol for components
 
 h3(#rpc). "RPC":#rpc
 * "xmlrpc-c":http://github.com/caludio/node.xmlrpc-c -- Simple XMLRPC Client
