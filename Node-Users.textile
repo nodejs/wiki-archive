@@ -38,7 +38,7 @@ h2. UTC-6 (-5)
 * Tim Caswell (creationix)
 ** "Blog":http://howtonode.org/, "Website":http://creationix.com/, "Twitter":http://twitter.com/creationix
 * Marak Squires (JimBastard)
-** "Website":http://maraksquires.com, "node_debug":http://maraksquires.com/node_debug/
+** "GitHub":http://github.com/marak, "Website":http://maraksquires.com, "node_debug":http://maraksquires.com/node_debug/
 * Elijah Insua (tmpvar)
 ** "Twitter":http://twitter.com/tmpvar, "Github":http://github.com/tmpvar
 * Jim R. Wilson (jimbojw)
