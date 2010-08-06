@@ -12,6 +12,8 @@ h2. Node v0.1.92
 * "websocket v0.0.2":http://github.com/creationix/websocket/tree/v0.0.2
 * "wheat v0.0.2":http://github.com/creationix/wheat/tree/v0.0.2
 * "libxmljs @ 16d7dc1":http://github.com/polotek/libxmljs/commit/16d7dc158e1b98652b0ed175244030225744d2af
+* "node-htmlparser v1.1.0":http://github.com/tautologistics/node-htmlparser/tree/v1.1.0
+* "nodemachine v0.2.5":http://github.com/tautologistics/nodemachine/tree/v0.2.5
 
 h2. Node v0.1.91
 * "express v0.9.0":http://github.com/visionmedia/express/tree/0.9.0
@@ -29,6 +31,8 @@ h2. Node v0.1.91
 * "step v0.0.2":http://github.com/creationix/step/tree/v0.0.2
 * "websocket v0.0.2":http://github.com/creationix/websocket/tree/v0.0.2
 * "wheat v0.0.2":http://github.com/creationix/wheat/tree/v0.0.2
+* "node-htmlparser v1.1.0":http://github.com/tautologistics/node-htmlparser/tree/v1.1.0
+* "nodemachine v0.2.5":http://github.com/tautologistics/nodemachine/tree/v0.2.5
 
 h2. Node v0.1.90
 
@@ -42,7 +46,7 @@ h2. Node v0.1.90
 * "node-amqp @ 00c113b":http://github.com/ry/node-amqp/tree/00c113bb6f4e251704bc63aba0f0bcabdefb9eab
 * "node-chat v0.1":http://github.com/scottgonzalez/node-chat/tree/v0.1
 * "node-git v0.0.1":http://github.com/creationix/node-git/tree/v0.0.1
-* "node-htmlparser v1.0.0":http://github.com/tautologistics/node-htmlparser/tree/v1.0.0
+* "node-htmlparser v1.1.0":http://github.com/tautologistics/node-htmlparser/tree/v1.1.0
 * "node-httpclient v0.1":http://github.com/billywhizz/node-httpclient/tree/v0.1
 * "node-memcache @ ffc40be":http://github.com/vanillahsu/node-memcache/tree/ffc40be38fd6004fd2c7070dba11910c4b6b5ebe
 * "node-mongodb-native":http://github.com/christkv/node-mongodb-native/tree/V0.7.0
@@ -51,7 +55,7 @@ h2. Node v0.1.90
 * "node-router v0.0.3":http://github.com/creationix/node-router/tree/v0.0.3
 * "node-sqlite @ ecaa583":http://github.com/orlandov/node-sqlite/tree/ecaa58310517c1521dc394f0b6a4ea62037f5692
 * "node-websocket v0.0.1":http://github.com/tristandunn/node-websocket/tree/v0.0.1
-* "nodemachine v0.2.4":http://github.com/tautologistics/nodemachine/tree/v0.2.4
+* "nodemachine v0.2.5":http://github.com/tautologistics/nodemachine/tree/v0.2.5
 * "nodeunit @ daa9986":http://github.com/caolan/nodeunit/tree/daa9986ee6a5266c2e02eae5e3a8bd6904bbcee8
 * "proto v0.0.1":http://github.com/creationix/proto/tree/v0.0.1
 * "redis-node-client v0.2.3":http://github.com/fictorial/redis-node-client/tree/v0.2.3
@@ -65,13 +69,13 @@ h2. Node v0.1.33
 * "haml-js v0.2.0":http://github.com/creationix/haml-js/tree/v0.2.0
 * "ndb v0.1 - v0.1.1.1":http://github.com/smtlaissezfaire/ndb
 * "node-async-testing 6c03f43":http://github.com/bentomas/node-async-testing/commit/6c03f43c0d34587504cbda355b6a74e44e681abd
-* "node-htmlparser v1.0.0":http://github.com/tautologistics/node-htmlparser/tree/v1.0.0
+* "node-htmlparser v1.1.0":http://github.com/tautologistics/node-htmlparser/tree/v1.1.0
 * "node-memcache":http://github.com/vanillahsu/node-memcache
 * "node-mongodb-native 0.6.8":http://github.com/christkv/node-mongodb-native/tree/V0.6.8
 * "node-router v0.0.2":http://github.com/creationix/node-router/tree/v0.0.2
 * "node-solr v0.0.3":http://github.com/gsf/node-solr/tree/v0.0.3
 * "node_chat 7935af":http://github.com/ry/node_chat/tree/7935af4ff5a603bd3c07f6bad020c3c5baf741b6
-* "nodemachine v0.2.4":http://github.com/tautologistics/nodemachine/tree/v0.2.4
+* "nodemachine v0.2.5":http://github.com/tautologistics/nodemachine/tree/v0.2.5
 * "nodeunit e44076f":http://github.com/caolan/nodeunit/tree/e44076f77101801ea72e78d41c4bfd09d8c5c621
 * "redis-node-client":http://github.com/fictorial/redis-node-client/tree/node_0.1.33__redis_1.3.8
 
