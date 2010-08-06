@@ -288,6 +288,8 @@ h2. UTC+1 (+2)
 ** "Github":http://github.com/Tug
 * amix
 ** "GitHub":http://github.com/amix, "Blog":http://amix.dk/
+* Thomas Bonk
+** "Github":http://github.com/tbo
 
 h2. UTC+2 (+3)
 
