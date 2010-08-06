@@ -10,6 +10,7 @@ h2. Node v0.1.95
 * "node-ncurses @ fd6e10a":http://github.com/mscdex/node-ncurses/tree/fd6e10ad55f030521409013d6f7fb8e770404cd7
 * "jm v0.1.1":http://github.com/smtlaissezfaire/jm/tree/0.1.1
 * "nozzle v0.4.0":http://github.com/fictorial/nozzle/tree/v0.4.0
+* "redis-node-client v0.3.2":http://github.com/fictorial/redis-node-client/tree/v0.3.2
 
 h2. Node v0.1.94
 * "node-elf-logger v0.1":http://github.com/TooTallNate/node-elf-logger/tree/v0.1
