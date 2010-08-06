@@ -107,6 +107,7 @@ h3(#testing). "Testing / Spec Frameworks":#testing
 * "vows.js":http://github.com/cloudhead/vows.js -- asynchronous testing in node.js
 * "mjsunit.runner":http://github.com/tmpvar/mjsunit.runner -- Command line mjsunit runner which provides an easy way to hook into mjsunit and start running tests immediately.
 * "exemplor.js":http://github.com/chrislloyd/exemplor.js -- A port of "exemplor":http://github.com/quackingduck/exemplor with Node goodness.
+* "node-stories":http://github.com/tobiassvn/node-stories -- Given/When/Then integration awesomeness for Node.
 
 h3(#wrappers). "Wrappers":#wrappers
 * "hxNode":http://github.com/blackdog66/hxNode/tree/master -- haXe wrappers for node
