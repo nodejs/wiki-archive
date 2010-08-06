@@ -148,6 +148,9 @@ h3(#compression). "Compression":#compression
 h3(#graphics). "Graphics":#graphics
 * "node-gd":http://github.com/taggon/node-gd -- GD graphic library bindings
 
+h3(#gui). "GUI":#gui
+* "node-gtk-experiment":http://github.com/brainfucker/node-gtk-experiment -- Some experimental binding for gtk (Not finished yet)
+
 h3(#other). "Other":#other
 * "behaviors":http://github.com/caolan/behaviors -- A simple way to check a module's exports, useful for 3rd party plugins and extensions
 * "cookie-node":http://github.com/jed/cookie-node/ -- signed cookie functionality for node.js
