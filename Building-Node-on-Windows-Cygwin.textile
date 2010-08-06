@@ -28,4 +28,4 @@ nameserver 11.22.33.44
 
 
 
-http://www.lazycoder.com/weblog/
+also you might want to see: http://www.lazycoder.com/weblog/2010/03/18/getting-started-with-node-js-on-windows/:"http://www.lazycoder.com/weblog/2010/03/18/getting-started-with-node-js-on-windows/"
