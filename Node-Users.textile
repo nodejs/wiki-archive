@@ -10,7 +10,7 @@ Please add yourself to the according to "your timezone":http://www.timeanddate.c
 h2. UTC-8
 * Ryan Dahl (ryah)
 ** "GitHub":http://github.com/ry, "Twitter":http://twitter.com/ryah, "Website":http://tinyclouds.org
-* TJ Holowaychuk (visionmedia)
+* TJ Holowaychuk (tjholowaychuk)
 ** "GitHub":http://github.com/visionmedia, "Twitter":http://twitter.com/tjholowaychuk, "Website":http://vision-media.ca
 * Mikeal Rogers (mikeal)
 ** "GitHub":http://github.com/mikeal, "Twitter":http://twitter.com/mikeal, "Website":http://www.mikealrogers.com
