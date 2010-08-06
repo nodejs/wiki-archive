@@ -180,7 +180,7 @@ h3(#ws-ajax). "Web Sockets & Ajax":#ws-ajax
 * "nodejs-http-websocket":http://github.com/zimbatm/nodejs-http-websocket -- A websocket server on top of the http server.
 * "node-websocket-server":http://github.com/miksago/node-websocket-server -- Another websocket server on top of the http server.
 * "Restler":http://github.com/danwrong/restler -- Simplified REST client for Node.js
-* "node-websocket-client":http://github.com/pgriess/node-websocket-client -- A WebSocket client.
+* "node-websocket-client":http://github.com/pgriess/node-websocket-client -- An HTML5 Web Socket client.
 
 h3(#testing). "Testing / Spec Frameworks":#testing
 * "espionage":http://github.com/smtlaissezfaire/espionage -- A mock/stub framework using the test spy pattern.
@@ -328,6 +328,7 @@ h3(#other). "Other":#other
 * "node-ugly":http://github.com/felixge/node-ugly -- Allows to run PHP code from within node.js
 * "node-uneval":http://github.com/chakrit/node-uneval -- Adds uneval() support to node.js
 * "node-worker":http://github.com/cramforce/node-worker -- An implementation of the WebWorker API for node.js
+* "node-webworker":http://github.com/pgriess/node-webworker -- An implementation of the HTML5 Web Worker API.
 * "node-yui3":http://github.com/davglass/nodejs-yui3 -- Use the "YUI 3":http://developer.yahoo.com/yui/3 JS library from node.js
 * "node-yql":http://github.com/drgath/node-yql -- A YQL (Yahoo Query Language) module for Node.js
 * "nshtools":http://github.com/rsdoiel/nshtools -- a high level shell scripting library for file and operating system chores
