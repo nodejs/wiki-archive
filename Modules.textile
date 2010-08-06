@@ -36,6 +36,7 @@ h4(#web-frameworks-micro). "Microframeworks":#web-frameworks-micro
 * "Pipe-Layer":http://cgit.voodoowarez.com/pipe-layer/ -- Asynchronous HTTP router.
 
 h4(#web-frameworks-full). "Frameworks":#web-frameworks-full
+* "broke":http://github.com/brokenseal/broke/ -- A porting of the most famous "Django Web Framework":http://www.djangoproject.com/
 * "chain":http://github.com/hassox/chain/ -- An evented convention for building Node Applications (Stopped Development, for ejsgi)
 * "coltrane":http://github.com/ujh/coltrane/tree/master -- A try at a higher level library/framework for node.js web development (July 2009, node.JS 0.1.1)
 * "djangode":http://github.com/simonw/djangode -- A framework that borrows some useful concepts from "Django":http://www.djangoproject.com/. (March 2010, node.JS 0.1.30)
