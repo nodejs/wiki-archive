@@ -190,6 +190,7 @@ h3(#rpc). "RPC":#rpc
 * "jsonrpc":http://github.com/ericflo/node-jsonrpc
 * "xmlrpc-c":http://github.com/caludio/node.xmlrpc-c -- Simple XMLRPC Client
 * "dnode":http://github.com/substack/dnode -- asynchronous remote method invocation among node.js processes and the browser
+* "node-jsonrpc":http://github.com/andris9/node-jsonrpc -- Another JSON-RPC server
 
 h3(#ws-ajax). "Web Sockets & Ajax":#ws-ajax
 * "Comet LongPollingBuffer":http://github.com/robrighter/Long-Polling-Buffer -- A Library to simplify the server side of Comet AJAX long polling
