@@ -10,6 +10,8 @@ Please add yourself to the according to "your timezone":http://www.timeanddate.c
 h2. UTC-8
 * Ryan Dahl (ryah)
 ** "GitHub":http://github.com/ry, "Twitter":http://twitter.com/ryah, "Website":http://tinyclouds.org
+* Mikeal Rogers (mikeal)
+** "GitHub":http://github.com/mikeal, "Twitter":http://twitter.com/mikeal, "Website":http://www.mikealrogers.com
 
 h2. UTC-7 (-6)
 * Greg Ritter (gjritter)
