@@ -163,6 +163,7 @@ h3(#other). "Other":#other
 * "node-ugly":http://github.com/felixge/node-ugly -- Allows to run PHP code from within node.js
 * "hub.js":http://github.com/greut/hub.js -- in-memory and in progress PubSubHubBub server
 * "Jerk":http://github.com/gf3/Jerk -- A fun little IRC bot library for node.js.
+* "node-maxmind":http://github.com/gyordanov/node-maxmind — maxmind/geoip module (using libgeoip)
 
 h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":#commonjs-compat
 
@@ -173,3 +174,4 @@ h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":
 * "underscore":http://documentcloud.github.com/underscore/ -- Unobtrusive functional programming utility library.
 * "Dojo Toolkit (Node-compatible fork)":http://github.com/novemberborn/dojo -- The Dojo library for Node
 * "commonjs-utils":http://github.com/kriszyp/commonjs-utils -- "JSON Schema":http://json-schema.org/, AOP, XML-RPC, lazy arrays, and other utilities
+
