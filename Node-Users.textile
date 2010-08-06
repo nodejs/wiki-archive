@@ -172,7 +172,7 @@ h2. UTC+10 or UTC+11
 ** "Twitter":http://twitter.com/nomiddlename, "Github":http://github.com/csausdev
 * Daniel Neighman, Melbourne, Australia
 ** "Twitter":http://twitter.com/hassox, "Github":http://github.com/hassox
-* Micheil Smith (miksago), Region NSW, Australia
+* Micheil Smith (miksago), Regional NSW, Australia
 ** "Website":http://brandedcode.com,"Twitter":http://twitter.com/miksago, "Github":http://github.com/miksago
 
 
