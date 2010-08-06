@@ -22,7 +22,7 @@ echo "/dev/cdrom /media/cdrom udf,iso9660 user,noauto,exec,utf8" >> /etc/fstab</
 
 *6.* Save and close gedit.
 
-*7.* Still inside the terminal type:
+*7.* Still inside the terminal type the following (one line at a time):
 
 <pre>sudo apt-get install g++
 sudo apt-get install git-core
