@@ -148,6 +148,7 @@ h3(#compression). "Compression":#compression
 
 h3(#graphics). "Graphics":#graphics
 * "node-gd":http://github.com/taggon/node-gd -- GD graphic library bindings
+* "magickal-node":http://github.com/quiiver/magickal-node -- GraphicsMagick wrapper for node.js
 
 h3(#gui). "GUI":#gui
 * "node-gui":http://github.com/brainfucker/node-gui -- Some experimental binding for gtk and maybe other (Not finished yet)
