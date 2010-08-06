@@ -101,6 +101,10 @@ h2. UTC+5
 * Nikhil Marathe (nsm), India
 ** "Twitter":http://twitter.com/nikhilcutshort, "Github":http://github.com/nikhilm/, "Bitbucket":http://bitbucket.org/nikhilm/
 
+h2. UTC+9
+* Jed Schmidt (jed)
+** "Website":http://jedschmidt.com, "Twitter":http://twitter.com/jedschmidt, "GitHub":http://github.com/jed
+
 h2. UTC+10 (+1)
 
 * Gareth Jones, Melbourne, Australia
