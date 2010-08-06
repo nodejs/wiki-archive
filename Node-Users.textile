@@ -52,11 +52,10 @@ h2. UTC+1 (+2)
 ** "Website":http://sifu.co.at/, "Twitter":http://twitter.com/0xx0
 * Bruno Michel (N`)
 ** "Website":http://dev.af83.com/, "Twitter":http://twitter.com/brmichel
+* Jonas Pfenniger (zimbatm)
+** "GitHub":http://github.com/zimbatm
 
 h2. UTC+2 (+3)
 
 * Artem Gnilov (Boo), Ukraine
 ** "Blog":http://boo.openbdsm.org/, "Twitter":http://twitter.com/BooBSD
-
-* Serge Shirokov (Kuroki Kaze)
-** "Blog":http://kuroikaze85.wordpress.com/, "Twitter":http://twitter.com/kurokikaze
