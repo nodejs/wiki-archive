@@ -29,16 +29,16 @@ h2. Date.prototype
  * @toISOString()@ - 
 
 h2. Object
- * @Object.create( proto, props )@ - Creates a new object whose prototype is the passed in parent object. 
- * @Object.keys(object)@ - Returns a list of the ownProperties of an object that are enumerable.
+ * @Object.create(proto, props)@ - Creates a new object whose prototype is the passed in parent object and whose properties are those specified by props. 
+ * @Object.keys(obj)@ - Returns a list of the ownProperties of an object that are enumerable.
  * @Object.defineProperty(obj, prop, desc)@ - Defines a property on an object with the given descriptor
  * @Object.defineProperties(obj, props)@ - Adds own properties and/or updates the attributes of existing own properties of an object
- * @Object.getOwnPropertyNames(object)@ - Returns a list of the ownProperties of an object including ones that are not enumerable.
- * @Object.getPrototypeOf(object)@ - Returns the prototype of an object.
- * @Object.getOwnPropertyDescriptor(object, property)@ - Returns an object with keys describing the description of a property (value, writable, enumerable, configurable)
+ * @Object.getOwnPropertyNames(obj)@ - Returns a list of the ownProperties of an object including ones that are not enumerable.
+ * @Object.getPrototypeOf(obj)@ - Returns the prototype of an object.
+ * @Object.getOwnPropertyDescriptor(obj, property)@ - Returns an object with keys describing the description of a property (value, writable, enumerable, configurable)
  * @Object.preventExtensions(obj)@ - Prevents any new properties from being added to the given object.
  * @Object.isExtensible(obj)@ - Checks if Object.preventExtensions() has been called on this object.
- * @Object.freeze( obj )@ - Keeps an object from having its properties added to, deleted from, or edited.
+ * @Object.freeze(obj)@ - Keeps an object from having its properties added to, deleted from, or edited.
  * @Object.isFrozen(obj)@ - Checks if Object.freeze() has been called on this object.
 
 h2. Object.prototype
@@ -46,10 +46,10 @@ h2. Object.prototype
  * @__defineSetter__(name, callback)@ - Associates a function with a property that, when set, executes that function which modifies the property.
  * @__lookupGetter__(name)@ - Returns the function associated with the specified property by the __defineGetter__ method.
  * @__lookupSetter__(name)@ - Returns the function associated with the specified property by the __defineSetter__ method.
- * @isPrototypeOf(object)@ - Returns true if @this@ is a prototype of the passed in object.
+ * @isPrototypeOf(obj)@ - Returns true if @this@ is a prototype of the passed in object.
 
 h2. JSON
- * @JSON.stringify(object)@ - Takes any serializable object and returns the JSON representation as a string.
+ * @JSON.stringify(obj)@ - Takes any serializable object and returns the JSON representation as a string.
  * @JSON.parse(string)@ - Takes a well formed JSON string and returns the corresponding JavaScript object.
 
 h2. String.prototype
@@ -66,7 +66,7 @@ h2. Property Descriptor Defaults
 * @Configurable@ - false
 
 h1. Missing features
- * @Object.seal( obj )@
+ * @Object.seal(obj)@
  * @Object.isSealed(obj)@
  * @Object.__noSuchMethod__@
  * @Function.prototype.bind(thisArg, arg1, arg2....)@
