@@ -117,7 +117,7 @@ h3(#ws-ajax). "Web Sockets & Ajax":#ws-ajax
 h3(#testing). "Testing / Spec Frameworks":#testing
 * "espionage":http://github.com/smtlaissezfaire/espionage -- A mock/stub framework using the test spy pattern.
 * "exemplor.js":http://github.com/chrislloyd/exemplor.js -- A port of "exemplor":http://github.com/quackingduck/exemplor with Node goodness.
-* "jasmine-node":http://github.com/mhevery/jasmine-node -- integration with Pivotal's Jasmine Spec framework (http://github.com/pivotal/jasmine)
+* "jasmine-node":http://github.com/mhevery/jasmine-node -- integration with "Pivotal's Jasmine Spec":http://github.com/pivotal/jasmine framework
 * "jspec":http://github.com/visionmedia/jspec -- Feature Rich BDD Testing Framework
 * "mjsunit.runner":http://github.com/tmpvar/mjsunit.runner -- Command line mjsunit runner which provides an easy way to hook into mjsunit and start running tests immediately.
 * "node-assert-extras":http://gitorious.org/node-assert-extras -- Additional high level asserts
