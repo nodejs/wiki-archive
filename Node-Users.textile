@@ -67,6 +67,8 @@ h2. UTC+1 (+2)
 ** "Website":http://dev.af83.com/, "Twitter":http://twitter.com/brmichel
 * Jonas Pfenniger (zimbatm)
 ** "GitHub":http://github.com/zimbatm
+* Jan Schütze (DracoBlue)
+** "Blog":http://dracoblue.net, "Github":http://github.com/DracoBlue, "Twitter":http://twitter.com/DracoBlue
 
 h2. UTC+2 (+3)
 
