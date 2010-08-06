@@ -16,6 +16,8 @@ h3. Web frameworks
 * "node-router":http://github.com/creationix/node-router -- Simple Sinatra-like http server based on fu.js from the original node-chat demo.
 * "simplex":http://github.com/mshakhan/simplex 
 * "(fab)":http://github.com/jed/fab -- A chained DSL for building node.js apps
+* "Bomber":http://bomber.obtdev.com
+* "Picard": http://github.com/dantebronto/picard
 
 h3. Other
 * "optparse-js":http://github.com/jfd/optparse-js/tree/master -- Option Parser in JS
