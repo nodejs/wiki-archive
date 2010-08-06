@@ -10,5 +10,3 @@ h1. Blogs and tutorials
 
 | "Debuggable Blog":http://debuggable.com/blog | Some articles on node.js |
 | "Ryah's Blog":http://four.livejournal.com/ | Ryah's blog |
-
-http://four.livejournal.com/
