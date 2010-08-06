@@ -19,6 +19,14 @@ h2. Wish list
 | modules | A better way to handle modules. With somewhat bigger projects load/require are just to hard to use |
 | testing | A library that allows easy unit tests. Right now there's no easy way to easily setup tests that only pass when all the code in callbacks has passed |
 
+h2. Idea list
+
+| node_dom | W3C DOM Support [1]|
+| node_browser | building on node_dom, support jQuery, Dojo, Prototype, etc. server-side [1] |
+| node_xrad | A duct taping framework for simulating TBD libraries (for example using "node.createProcess":http://tinyclouds.org/node/api.html#_child_processes to wrap the mysql command-line client, providing minimal MySQL support).  In contrast to optimized, lower-level native interfaces, the idea here would be to explore proof-of-concepts and API abstractions earlier rather than later, allowing developers to potentially substitute the "real thing" if/when available. |
+
+fn1. _2009.07.30 timjs: I have working prototypes of these (mashing up "env.js":http://github.com/jeresig/env-js/tree/master and "ajaxslt":http://code.google.com/p/ajaxslt/); not sure how to package up API as a library just yet_
+
 h2. Other code
 
 | "php.js":http://phpjs.org/functions/index | Implementation of PHP functions in JavaScript |
