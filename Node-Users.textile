@@ -82,7 +82,7 @@ h2. UTC-6 (-5)
 ** "Website":http://fictorial.com, "Github":http://github.com/fictorial, "Twitter":http://twitter.com/fictorial
 * Alexis Sellier (cloudhead)
 ** "Website":http://cloudhead.io, "Twitter":http://twitter.com/cloudhead, "Github":http://github.com/cloudhead
-* Tristan Dunn
+* Tristan Dunn, Boston, MA, US
 ** "GitHub":http://github.com/tristandunn, "Twitter":http://twitter.com/tristandunn, "Website":http://tristandunn.com
 * Xavi Ramirez (Xavi), Boston, MA, US
 ** "GitHub":http://github.com/xavi-/ "Twitter":http://twitter.com/xavi_/, "Website":http://the-xavi.com
