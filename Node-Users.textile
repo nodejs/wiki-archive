@@ -16,6 +16,8 @@ h2. UTC-8
 ** "GitHub":http://github.com/tilgovi, "Twitter":http://twitter.com/tilgovi
 * Isaac Schlueter (isaacs)
 ** "GitHub":http://github.com/isaacs, "Twitter":http://twitter.com/izs, "Website":http://blog.izs.me
+* Ray Morgan (raymorgan)
+** "GitHub":http://github.com/raycmorgan, "Twitter":http://twitter.com/raycmorgan, "Website":http://raycmorgan.com
 
 h2. UTC-7 (-6)
 * Michaeljohn Clement (inimino)
