@@ -11,6 +11,11 @@ h2. UTC-6 (-5)
 * Tim Caswell (creationix)
 ** "Blog":http://howtonode.org/, "Website":http://creationix.com/, "Twitter":http://twitter.com/creationix
 
+h2. UTC-5 (-4)
+
+* Alexis Sellier (cloudhead)
+** "Website":http://cloudhead.io, "Twitter":http://twitter.com/cloudhead, "Github":http://github.com/cloudhead
+
 h2. UTC+0 (+1)
 
 * Jason Davies (jasondavies)
