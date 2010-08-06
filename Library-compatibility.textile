@@ -1,11 +1,18 @@
 Node is under heavy development and its API changes rapidly. Instead of simply a listing of modules which may or may not work with the version of Node installed on one's computer, this will provide a list of module versions which are known to work with specific versions of node.
 
 h2. Node v0.1.97
+* "commonjs-utils v0.1.1":http://github.com/kriszyp/commonjs-utils/tree/v0.1.0
+* "jsgi-node v0.1.1":http://github.com/kriszyp/jsgi-node/tree/v0.1.0
 * "libxmljs v0.3.0":http://github.com/polotek/libxmljs/tree/0.3.0
 * "node-email v0.0.3":http://github.com/aheckmann/node-email/tree/v0.0.3
 * "node-snpp v0.1.1":http://github.com/jsanders/node-snpp/tree/v0.1.1
 * "nun v.0.1.9":http://github.com/akaspin/nun/tree/v0.1.9
 * "node-mysql-libmysqlclient @ a536483":http://github.com/Sannis/node-mysql-libmysqlclient/tree/a536483f1457b06688e471566569a8eeabfd4237
+* "node-promise v0.1.0":http://github.com/kriszyp/node-promise/tree/v0.1.0
+* "nodules v0.1.1":http://github.com/kriszyp/nodules/tree/v0.1.0
+* "perstore v0.1.1":http://github.com/kriszyp/perstore/tree/v0.1.0
+* "pintura v0.1.1":http://github.com/kriszyp/pintura/tree/v0.1.0
+* "transporter v0.1.0":http://github.com/kriszyp/transporter/tree/v0.1.0
 
 h2. Node v0.1.96
 * "commonjs-utils v0.1.0":http://github.com/kriszyp/commonjs-utils/tree/v0.1.0
