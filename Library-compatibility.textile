@@ -44,7 +44,7 @@ h2. Node v0.1.33
 * "node-mongodb-native 0.6.8":http://github.com/christkv/node-mongodb-native/tree/V0.6.8
 * "haml-js v0.2.0":http://github.com/creationix/haml-js/tree/v0.2.0
 * "redis-node-client":http://github.com/fictorial/redis-node-client/tree/node_0.1.33__redis_1.3.8
-* "ndb 0.1-0.1.1.1":http://github.com/smtlaissezfaire/ndb
+* "ndb v0.1 - v0.1.1.1":http://github.com/smtlaissezfaire/ndb
 * "node-htmlparser v1.0.0":http://github.com/tautologistics/node-htmlparser/tree/v1.0.0
 * "nodemachine v0.2.4":http://github.com/tautologistics/nodemachine/tree/v0.2.4
 * "node-memcache":http://github.com/vanillahsu/node-memcache
