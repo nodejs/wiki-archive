@@ -68,6 +68,8 @@ h2. UTC+0 (+1)
 ** "Website":http://extralogical.net/, "GitHub":http://github.com/ionfish, "Twitter":http://twitter.com/extralogical
 * Michael Stillwell (ithinkihaveacat), London
 ** "Website":http://beebo.org/, "GitHub":http://github.com/ithinkihaveacat, "Twitter":http://twitter.com/ithinkihaveacat
+* Duncan Cragg
+** "Website":http://duncan-cragg.org/blog/, "GitHub":http://github.com/duncancragg, "Twitter":http://twitter.com/duncancragg
 
 h2. UTC+1 (+2)
 
