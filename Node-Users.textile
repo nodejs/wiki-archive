@@ -26,6 +26,11 @@ h2. UTC-5 (-4)
 * Tristan Dunn
 ** "GitHub":http://github.com/tristandunn, "Twitter":http://twitter.com/tristandunn, "Website":http://tristandunn.com
 
+h2. UTC-3 (-2)
+
+* Pedro Viegas
+** "Twitter":http://twitter.com/pasviegas, "Github":http://github.com/pasviegas
+
 h2. UTC+0 (+1)
 
 * Jason Davies (jasondavies)
