@@ -3,7 +3,7 @@ Node is under heavy development and its API changes rapidly. Instead of simply a
 h2. Node v0.1.33
 
 * "node_chat":http://github.com/ry/node_chat/tree/7935af4ff5a603bd3c07f6bad020c3c5baf741b6 (version 7935af4ff5a603bd3c07f6bad020c3c5baf741b6)
-* "node-async-test 6c03f43":http://github.com/bentomas/node-async-testing/commit/6c03f43c0d34587504cbda355b6a74e44e681abd
+* "node-async-testing 6c03f43":http://github.com/bentomas/node-async-testing/commit/6c03f43c0d34587504cbda355b6a74e44e681abd
 
 h2. Node v0.1.32
 
