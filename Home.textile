@@ -8,6 +8,7 @@ h2. Projects / Applications
 * "nodewiki":http://github.com/gjritter/nodewiki -- a simple wiki based on node and redis
 * "frisbee":http://github.com/ujh/frisbee/tree/master -- A clone of the Disqus blog commenting system, by Urban Hafner
 * "blog.js":http://github.com/furtivefelon/blog.js -- Simple blogging engine based on node.js
+* "cassiterite":http://github.com/kurokikaze/cassiterite -- Another blogging engine based on node.js + Tokyo Tyrant + nginx
 * "Sousaball":http://github.com/creationix/sousaball by creationix (<a href="http://sousaball.creationix.com">sousaball.creationix.com</a>)
 * "DinMaker":http://github.com/creationix/node-topcloud-chat by creationix (live demo at <a href="http://chat.creationix.com">chat.creationix.com</a>)
 * "Flickr Spy":http://github.com/ncr/flickr_spy -- Discover where your Flickr contacts are commenting
