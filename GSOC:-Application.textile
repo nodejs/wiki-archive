@@ -1,5 +1,3 @@
-h1. GSOC: Application (Version 4)
-
 *Organization Name:*
 Node.js Community
 
