@@ -98,6 +98,8 @@ h2. UTC-6 (-5)
 ** "GitHub":http://github.com/milythael, "Twitter":http://twitter.com/milythael, "Website":http://TradeHarbor.com
 * Peter Griess (pgriess), St Louis, MO, US
 ** "GitHub":http://github.com/pgriess, "Twitter":http://twitter.com/pgriess
+* Marc Harter (wavded), Eau Claire, WI, US
+** "Blog":http://wavded.tumblr.com, "Twitter":http://twitter.com/wavded
 
 h2. UTC-5 (-4)
 
