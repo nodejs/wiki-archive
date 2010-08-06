@@ -404,6 +404,7 @@ h3(#other). "Other":#other
 * "node-inotify":http://github.com/c4milo/node-inotify -- Bindings to GNU/Linux Inotify API
 * "sneaker":http://github.com/coffeemate/sneaker -- Helps you observing objects if any attribute changes 
 * "node-proxy":http://github.com/brickysam26/node-proxy -- Object Overloading and catch-all property interceptors using "Harmony Proxies":http://wiki.ecmascript.org/doku.php?id=harmony:proxies
+* "node-stringprep":http://github.com/astro/node-stringprep -- Binding to ICU StringPrep profiles
 
 h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":#commonjs-compat
 * "commonjs-utils":http://github.com/kriszyp/commonjs-utils -- "JSON Schema":http://json-schema.org/, AOP, XML-RPC, lazy arrays, and other utilities
