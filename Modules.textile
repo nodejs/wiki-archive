@@ -154,7 +154,7 @@ h3(#build-and-deployment). "Build and Deployment":#build-and-deployment
 * "node-jake":http://github.com/mde/node-jake -- JavaScript build tool similar to Make or Rake.
 
 h3(#package-management). "Package Management Systems":#package-management
-* "kiwi":http://github.com/visionmedia/kiwi -- Feature rich, fast, node.js package management system -- server sponsored by Slicehost ("no longer in active "development":http://goo.gl/BqGu)
+* "kiwi":http://github.com/visionmedia/kiwi -- Feature rich, fast, node.js package management system -- server sponsored by Slicehost ("no longer in active development":http://goo.gl/BqGu)
 * "npm":http://github.com/isaacs/npm -- A node package manager that uses CommonJS-compatible package.json files, written in asynchronous javascript.
 * "mode":http://github.com/rsms/mode -- Distributed Node module repository.  Uses a "github repository":http://github.com/rsms/mode/tree/master/index/ to contain info about installable modules.
 * "seed":http://seedjs.org -- Universal package manager for CommonJS.  Includes command line tools and async server
