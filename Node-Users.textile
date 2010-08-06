@@ -240,6 +240,8 @@ h2. UTC+0 (+1)
 ** "GitHub":http://github.com/premasagar, "Twitter":http://twitter.com/premasagar, "Website":http://dharmafly.com
 
 h2. UTC+1 (+2)
+* Arnout Kazemier (V1), The Netherlands
+** "GitHub":http://github.com/3rd-Eden, "Twitter":http://twitter.com/3rdEden, "Website":http://www.3rd-eden.com
 * Lars Smit
 ** "GitHub":http://github.com/larssmit, "Twitter":http://twitter.com/larssmit, "Website":http://larssmit.com
 * Tommy van der Vorst (pixelspark)
