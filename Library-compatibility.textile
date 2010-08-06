@@ -15,6 +15,7 @@ h2. Node v0.1.97
 * "pintura v0.1.1":http://github.com/kriszyp/pintura/tree/v0.1.0
 * "transporter v0.1.0":http://github.com/kriszyp/transporter/tree/v0.1.0
 * "node-hoptoad-notifier":http://github.com/tristandunn/node-hoptoad-notifier/tree/8e86ac3cc3f7e06c49fe2fb1093c83abcba9058e
+* "gm v0.0.1":http://github.com/aheckmann/gm/commit/cc1aef42554d62759d1d6f6e92d8fbac6a5ffa6c
 
 h2. Node v0.1.96
 * "commonjs-utils v0.1.0":http://github.com/kriszyp/commonjs-utils/tree/v0.1.0
@@ -36,6 +37,7 @@ h2. Node v0.1.96
 * "node-asterisk @ 6edf9a1":http://github.com/mscdex/node-asterisk/tree/6edf9a131a40d95c3d34cc0d5ecec0b0351746e4
 * "node-snpp v0.1.1":http://github.com/jsanders/node-snpp/tree/v0.1.1
 * "temp v0.2.0":http://github.com/bruce/node-temp/tree/v0.2.0
+* "gm v0.0.1":http://github.com/aheckmann/gm/commit/cc1aef42554d62759d1d6f6e92d8fbac6a5ffa6c
 
 
 
