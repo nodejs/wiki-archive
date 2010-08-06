@@ -190,5 +190,5 @@ h2. UTC+12
 
 * Mark Hansen (mhansen), Hamilton, New Zealand
 ** "Github":http://github.com/mhansen, "Blog":http://markhansen.co.nz/
-* Tim Smart(Tim-Smart), Manawatu, New Zealand
+* Tim Smart(Tim_Smart), Manawatu, New Zealand
 ** "Github":http://github.com/Tim-Smart, "Twitter":http://twitter.com/Tim_Smart
