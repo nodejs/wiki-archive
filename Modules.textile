@@ -186,3 +186,4 @@ h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":
 * "match-js":http://github.com/jfd/match-js -- Simple pattern matching (functional style) in JS.
 * "qxoo":http://github.com/fjakobs/qxoo -- port of the qooxdoo OO system to commonJS
 * "underscore":http://documentcloud.github.com/underscore/ -- Unobtrusive functional programming utility library.
+* "abbrev-js":http://github.com/isaacs/abbrev-js/ -- Like Ruby's Abbrev module.
