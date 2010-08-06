@@ -130,7 +130,7 @@ if (process.argv[5] === "-v")
 
 function log(s) {
   if (verbose)
-  sys.puts("tcpproxy: "+ s);
+    sys.puts("tcpproxy: "+ s);
 }
 
 
