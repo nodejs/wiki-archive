@@ -5,7 +5,7 @@ h2. Node v0.1.33
 * "node_chat 7935af":http://github.com/ry/node_chat/tree/7935af4ff5a603bd3c07f6bad020c3c5baf741b6
 * "node-async-testing 6c03f43":http://github.com/bentomas/node-async-testing/commit/6c03f43c0d34587504cbda355b6a74e44e681abd
 * "node-solr v0.0.3":http://github.com/gsf/node-solr/tree/v0.0.3
-* "nodeunit":http://github.com/caolan/nodeunit/tree/e44076f77101801ea72e78d41c4bfd09d8c5c621
+* "nodeunit e44076f":http://github.com/caolan/nodeunit/tree/e44076f77101801ea72e78d41c4bfd09d8c5c621
 
 h2. Node v0.1.32
 
