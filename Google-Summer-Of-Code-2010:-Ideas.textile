@@ -1,4 +1,4 @@
-This page lists ideas of a *possible* participation in "GSoC2010":http://socghop.appspot.com . At the moment this list is preliminary based on "discussions":http://groups.google.com/group/nodejs/browse_thread/thread/41fe0e268018133e/ on the node.js mailing list.
+This page lists ideas of a *possible* participation in "GSoC2010":http://socghop.appspot.com . Actual list of mentoring organizations selected by Google will be published on 18th March 2010.
 
 h2. Core Node
 
