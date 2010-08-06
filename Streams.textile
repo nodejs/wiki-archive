@@ -3,10 +3,13 @@ Node is working towards a unified data stream interface.
 
 h2. Readable Stream
 * event: @'data'@. (One argument, a @Buffer@ object.)
-* event: @'end'@ 
+* event: @'end'@ (received EOF or FIN)
+* event: @'close'@ (called when file descriptor is closed and no more events will be emitted)
+* event: @'error'@ (emitted with exception object - does not close stream)
 * method: @pause()@
 * method: @resume()@
 * member: @readable@, boolean
+* method: @forceClose()@ (close the underlying file descriptor)
 
 Examples of readable streams (some of these don't exist yet): server-side HTTP request, client-side HTTP response, @process.stdin@, @childProcess.stdout@, @childProcess.stderr@
 
@@ -15,6 +18,7 @@ h2. Writable Stream
 * method: @close()@ (Writes EOF or a FIN packet on the transport once the existing data buffer is drained. Further calls to @write()@ after calling this method will throw an error.)
 * event: @'drain'@
 * event: @'close'@ (Emitted after close)
+* event: @'error'@(emitted with exception object - does not close stream)
 * member: @writable@, boolean
 
 Examples of writable streams (some of these don't exist yet): server-side HTTP response, client-side HTTP request, @process.stdout@, @process.stderr@, @childProcess.stdin@
