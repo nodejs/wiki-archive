@@ -40,6 +40,8 @@ h2. UTC-8
 ** "GitHub":http://github.com/vectorjohn, "Twitter":http://twitter.com/vectorjohn, "Website":http://reeves.appspot.com
 * Erich Ocean (erichocean), Los Angeles, CA, US
 ** "GitHub":http://github.com/erichocean, "Twitter":http://twitter.com/erichocean, "Website":http://erichocean.com
+* Dav Glass (davglass), Cupertino, CA, US
+** "GitHub":http://github.com/davglass, "Twitter":http://twitter.com/davglass, "Website":http://blog.davglass.com
 
 h2. UTC-7 (-6)
 * Michaeljohn Clement (inimino)
