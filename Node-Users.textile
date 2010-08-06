@@ -21,7 +21,7 @@ h2. UTC+1 (+2)
 * Michael Borejdo (mediacoder)
 ** "Website":http://www.mediacoders.de/, "Twitter":http://twitter.com/mediacoder
 
-h2. UTC+9 (+0)
+h2. UTC+2 (+3)
+* Artem Gnilov (Boo)
+** "Blog":http://boo.openbdsm.org/, "Twitter":http://twitter.com/BooBSD
 
-* Jed Schmidt (jed)
-** "Website":http://jedschmidt.com, "Twitter":http://twitter.com/jedschmidt, "GitHub":http://github.com/jed
