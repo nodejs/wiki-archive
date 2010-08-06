@@ -181,6 +181,14 @@ h4(#parsers-commandline). "Command Line Option Parsers":#parsers-commandline
 * "trollopjs":http://github.com/bentomas/trollopjs -- Another option parser
 * "js-opts":http://www.bitbucket.org/mazzarelli/js-opts/ -- Another simple command line option parser
 
+h4(#parser-generators).  "Parser Generators":#parser_generators
+* "canopy":http://github.com/jcoglan/canopy -- PEG parser compiler for JavaScript
+* "jison":http://github.com/zaach/jison -- A parser generator written in JavaScript; similar to Bison for C
+* "PEG.js":http://pegjs.majda.cz/ -- Parser Generator for JavaScript
+* "inimino's PEG":http://inimino.org/~inimino/blog/peg_first_release -- A PEG Packrat Parser Generator for JavaScript
+* "jparse":http://github.com/doublec/jsparse -- A parser combinator for javascript based on Packrat parsers and Parsing expression grammars
+* "OMeta Javascript compiler":http://tinlizzie.org/ometa-js/#JavaScript_Compiler
+
 h4(#parsers-other). "Other":#parsers-other
 * "node-discount":http://github.com/visionmedia/node-discount -- C markdown parser "discount" bindings
 * "node-csv":http://github.com/voodootikigod/node-csv -- Efficient Evented CSV Parsing.
