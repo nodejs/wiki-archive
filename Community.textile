@@ -15,6 +15,7 @@ h1. Blogs and tutorials
 | "Setting up with Apache and Supervisord":http://bigbangtechnology.com/preview/installation_configuration_deployment_node.js_applications_on_media_temple| Easy deployment |
 | "Node Blogs":http://nodeblogs.com/| An aggregator for the node.js community|
 | "Blog.101Ideas.cz":http://blog.101ideas.cz/| A lot of Node.js stuff there|
+| "OSButler Blog":http://blog.osbutler.com/categories/node-by-example/| Collection of simple node examples|
 
 h1. Localized sites
 
