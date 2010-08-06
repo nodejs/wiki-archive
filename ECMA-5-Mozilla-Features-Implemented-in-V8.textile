@@ -53,6 +53,14 @@ h2. String.prototype
  * @trimRight()@ - Trims whitespace from the right side of the string
  * @trimLeft()@ - Trims whitespace from the left side of the string
 
+h2. Property Descriptor Defaults
+* @Value@ - undefined
+* @Get@ - undefined
+* @Set@ - undefined
+* @Writable@ - false
+* @Enumerable@ - false
+* @Configurable@ - false
+
 h1. Missing features
  * @Object.preventExtensions(obj)@ - 
  * @Object.isExtensible(obj)@ - 
