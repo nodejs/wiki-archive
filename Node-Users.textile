@@ -136,6 +136,8 @@ h2. UTC+1 (+2)
 ** "Github":http://github.com/greut, "Twitter":http://twitter.com/greut, "Website":http://yoan.dosimple.ch
 * Christian Kvalheim (christkv)
 ** "Github":http://github.com/christkv, "Twitter":http://twitter.com/christkv
+* Pelle Wessman (voxpelli)
+** "Github":http://github.com/voxpelli, "Twitter":http://twitter.com/voxpelli, "Blog":http://goodold.se/blog/tech
 
 h2. UTC+2 (+3)
 
