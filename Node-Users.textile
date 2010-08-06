@@ -363,7 +363,7 @@ h2. UTC+8
 * Juvenn Woo (juvenn), China
 ** "GitHub":http://juvenn.github.com, "Twitter":http://twitter.com/juvenn
 * Senmiao Liu (zir), China
-** "Github": http://github.com/zir/
+** "Github":http://github.com/zir/
 
 h2. UTC+9
 * Jed Schmidt (jed)
