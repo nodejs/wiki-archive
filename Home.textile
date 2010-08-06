@@ -43,6 +43,8 @@ h2. Articles
 
 h2. Talks
 * "Node.js at JSConf.eu 2009":http://jsconf.eu/2009/video_nodejs_by_ryan_dahl.html -- by Ryan Dahl
+* "Node.js at JSConf.us 2010":http://nodejs.org/jsconf2010.pdf -- by Ryan Dahl
+* "Running YUI3 on Node.js":http://www.slideshare.net/apmoore/running-yui-3-on-nodejs -- by Adam Moore
 
 h2. Companies using node
 * "Academia.edu":http://www.academia.edu/ - uses node for background data processing
