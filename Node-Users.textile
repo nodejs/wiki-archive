@@ -171,6 +171,8 @@ h2. UTC-5 (-4)
 ** "GitHub":http://github.com/mscdex, "Website":http://mscdex.net
 * George Nava (georgenava), FL
 ** "Github":http://github.com/georgenava, "Twitter":http://twitter.com/georgenava, "Website":http://georgenava.appspot.com
+* Kieran Huggins (khug), Toronto, ON, Canada
+** "GitHub":http://github.com/kieran ; "Twitter":http://twitter.com/kieran
 
 h2. UTC-4 (-3)
 
