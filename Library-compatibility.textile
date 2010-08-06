@@ -11,7 +11,7 @@ h2. Node v0.1.92
 * "step v0.0.2":http://github.com/creationix/step/tree/v0.0.2
 * "websocket v0.0.2":http://github.com/creationix/websocket/tree/v0.0.2
 * "wheat v0.0.2":http://github.com/creationix/wheat/tree/v0.0.2
-
+* "libxmljs @ 16d7dc1":http://github.com/polotek/libxmljs/commit/16d7dc158e1b98652b0ed175244030225744d2af
 
 h2. Node v0.1.91
 * "express v0.9.0":http://github.com/visionmedia/express/tree/0.9.0
