@@ -14,7 +14,7 @@ The project has
     * Contributed patches back to the Google V8 team (e.g. porting V8 to the Solaris plattform) 
     * Had some of the first implementations of the WebSocket protocol.
 
-Node is exciting because it makes a plausible case for being the next generation sever-development platform. Simon Willison, co-creator of Django, makes the point well in his blog post "Node.js is genuinely exciting", http://simonwillison.net/2009/Nov/23/node/
+Node is exciting because it makes a plausible case for being the next generation server-development platform. Simon Willison, co-creator of Django, makes the point well in his blog post "Node.js is genuinely exciting", http://simonwillison.net/2009/Nov/23/node/
 
 
 *Home page:*
