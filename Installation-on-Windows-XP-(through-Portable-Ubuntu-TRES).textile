@@ -1,7 +1,7 @@
 This is a step-by-step guide on installing node.js inside Windows XP through Portable Ubuntu TRES:
 
 
-*1.* Download and unpack "Portable Ubuntu TRES":http://portableubuntu.demonccc.com.ar/en/download (self-extracting) 
+*1.* Download and unpack "Portable Ubuntu TRES":http://portableubuntu.demonccc.com.ar/en/download (self-extracting).
 
 *2.* Open *config/portable_ubuntu.conf* in your favourite text editor and add the following around line *61*:
 
