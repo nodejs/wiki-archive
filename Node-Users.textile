@@ -130,6 +130,8 @@ h2. UTC-6 (-5)
 ** "Blog":http://wavded.tumblr.com, "Twitter":http://twitter.com/wavded
 * Phil Burrows (peburrows), Belle Plaine, KS, US
 ** "GitHub":http://github.com/peburrows, "Blog":http://blog.philburrows.com, "Twitter":http://twitter.com/peburrows
+* Alan Gutierrez (blogometer/bigeasy)
+** "GitHub":http://github.com/bigeasy, "Twitter":http://twitter.com/bigeasy
 
 h2. UTC-5 (-4)
 
