@@ -9,3 +9,4 @@ h1. Hosting compatible with Node
 # "Amazon EC2":http://aws.amazon.com/ec2/
 # "Rackspace Cloud":http://www.rackspacecloud.com/
 # "VPS.Net":https://www.vps.net/vps-signup
+# "Joyent":http://www.joyent.com/services/cloudhosting/
