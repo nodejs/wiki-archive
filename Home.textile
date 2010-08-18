@@ -34,13 +34,13 @@ h2. Projects / Applications
 * "Simple Node.js MUD":http://github.com/gumho/simple-node.js-mud - Simple multi-user dungeon using Node.js
 * "wtfjs":http://github.com/brianleroux/wtfjs - what the fuck javascript!
 * "node.ly":http://github.com/giacecco/node.ly - A simple URL shortener written in Node.js and SQLIte3 (moving to CouchDB in future version 2)
-* "mixhammer.com":http://www.mixhammer.com - A MXHR package generator and benchmark tool
 * "vertex.js":http://github.com/stevedekorte/vertex.js - A graph database inspired by filesystems built on node.js and tokyocabinet.
 * "The API Playground":http://github.com/jashkenas/api-playground - A website where journalists can play with API examples. (CoffeeScript/Express) "apiplayground.org":http://apiplayground.org
 * "Szpil":https://szpil.com - CRM using Node and TokyoCabinet. Shared client/server database and model code, user interface decoupled from the network, API retrieval and authorization performed at the meta-data layer using set union and intersection on indexes to avoid JSON deserialization/serialization overhead.
 * "vows.js":http://vowsjs.org/ - "Asynchronous behaviour driven development for Node."
 * "jimi":http://github.com/colingourlay/jimi -- A framework for writing modular web applications in node.js ("tutorial":http://wiki.github.com/colingourlay/jimi/tutorial-hello-world)
 * "stackvm":http://github.com/pkrumins/stackvm -- Virtual machines on the web!
+* "paperserve":http://github.com/StanAngeloff/node-paperserve -- Quick and dirty web server from your working directory
 
 h2. Articles
 * "How to start develop with node js on linux from windows":http://wiki.github.com/shimondoodkin/nodejs-autorestart/how-to-start-develop-with-node-js-on-linux -- by Shimon Doodkin
