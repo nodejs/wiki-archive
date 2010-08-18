@@ -2,6 +2,8 @@ Node is under heavy development and its API changes rapidly. Instead of simply a
 
 h2. Node v0.1.104
 * "Nitrode v0.3.1":http://github.com/ollym/nitrode/tree/0.3.1
+* "node-ldapauth @ 34d9cd9":http://github.com/joewalnes/node-ldapauth/tree/34d9cd90222a6f04839bae9a889833b742d114b2
+
 
 h2. Node v0.1.103
 * "Grasshopper v0.2.2":http://github.com/tuxychandru/grasshopper/tree/0.2.2
