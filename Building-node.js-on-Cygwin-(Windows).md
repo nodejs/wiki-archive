@@ -1,4 +1,4 @@
-Installation
+Building node.js on Cygwin (Windows)
 ====
 
 1. Install [Cygwin](http://www.cygwin.com/) and use `setup.exe` to install the following required packages: 
@@ -44,7 +44,7 @@ This is not an issue with node.js. You are using the Windows version of `python`
     # Full error details
     C:\Program Files\Python27\python.exe: can't open file '/cygdrive/c/node/tools/waf-light': [Errno 2] No such file or directory
 
-fatal error – unable to remap \\?\C:\cygwin\lib\python2.6\lib-dynload\time.dll to same address as parent: 0×360000 != 0×3E0000
+unable to remap to same address as parent
 ----
 
 This is not an issue with node.js either. Install `base -> rebase` first then close all Cygwin instances. Using `dash` or `ash` as a shell run:
