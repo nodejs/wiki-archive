@@ -7,8 +7,8 @@ Discussions form mailing list about Windows compilation and re-distribution.
 * "Native windows stuff":http://groups.google.com/group/nodejs/browse_frm/thread/b20422cd9f53099 _August 13th, 2010_.
 * "Node on Windows with Cygwin: Necessary Files":http://groups.google.com/group/nodejs/browse_frm/thread/5536eaa3a507e9a _June 27th, 2010_.
 * "Windows port":http://groups.google.com/group/nodejs/browse_frm/thread/fa03fb0dc508db5f _March 9th, 2010_.
-* "nodejs and windows":http://groups.google.com/group/nodejs/browse_frm/thread/83f4662d4890065 _December 20th, 2010_.
-* "Node.js Windows Installation":http://groups.google.com/group/nodejs/browse_frm/thread/d351d3135c34f286 _November 23rd, 2010_.
+* "nodejs and windows":http://groups.google.com/group/nodejs/browse_frm/thread/83f4662d4890065 _December 20th, 2009_.
+* "Node.js Windows Installation":http://groups.google.com/group/nodejs/browse_frm/thread/d351d3135c34f286 _November 23rd, 2009_.
 
 h3. Rationale
 
