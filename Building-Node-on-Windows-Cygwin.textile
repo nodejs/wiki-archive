@@ -29,10 +29,11 @@ h3. Know issues:
 
 h4. domain name resolution
 
-Cygwin internally uses Windows for DNS queries. Node.js uses the c-ares library that relies on /etc/resolv.conf. Cygwin ships with an empty /etc/resolv.conf. In order to enabled networking add a domain name server to the file:
+Cygwin internally uses Windows for DNS queries. Node.js uses the c-ares library that relies on /etc/resolv.conf. Cygwin ships with an empty /etc/resolv.conf. In order to enabled networking add domain name server(s) to the file:
 
-bc. # add the IP of a valid name server
+bc. # add the Google Public DNS IPs
 nameserver 8.8.8.8
+nameserver 8.8.4.4
 
 h3. Help! I've done EVERYTHING above and I'm still having trouble!
 
