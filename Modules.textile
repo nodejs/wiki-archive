@@ -22,6 +22,7 @@ h4(#web-frameworks-routers). "Routers":#web-frameworks-routers
 * "dispatch":http://github.com/caolan/dispatch -- Regular expression URL dispatcher for Connect
 
 h4(#web-frameworks-static). "Static file servers":#web-frameworks-static
+* "Nitrode":http://github.com/ollym/nitrode -- A lightweight, super fast HTTP 1.1 with internal JS API
 * "antinode":http://github.com/mhansen/antinode -- A simple static web server
 * "node-paperboy":http://github.com/felixge/node-paperboy -- A node.js module for delivering static files
 * "node-static":http://github.com/cloudhead/node-static -- A simple, rfc 2616-compliant static file server module with built-in caching
@@ -81,6 +82,7 @@ h4(#middleware). "Middleware":#middleware
 * "cookie-sessions":http://github.com/caolan/cookie-sessions -- Secure cookie-based session store (Connect)
 
 h4(#web-frameworks-other). "Other":#web-frameworks-other
+* "Nitrode":http://github.com/ollym/nitrode -- A lightweight, super fast HTTP 1.1 with internal JS API
 * "Connect":http://github.com/senchalabs/connect -- Middleware framework packed with high quality / performance middleware
 * "node-elf-logger":http://github.com/TooTallNate/node-elf-logger -- Configurable HTTP logging library following the "W3C Extended Log File Format specification":http://www.w3.org/TR/WD-logfile.html
 * "JSGI-Node":http://github.com/kriszyp/jsgi-node/ -- Asynchronous JSGI 0.3 Adapter for Node, for standards-based middleware
@@ -120,7 +122,6 @@ h3(#database). "Database":#database
 * "postgres-js":http://github.com/creationix/postgres-js/tree/master -- Postgres protocol implemented in pure JS
 * "redis-node-client":http://github.com/fictorial/redis-node-client/tree/master -- Redis Client by Fictorial
 * "redis2json":http://github.com/igo/redis2json/ -- Easily loads data from Redis into structured JS object
-* "sequelize":http://github.com/sdepold/sequelize -- An easy-to-use MySQL object-relationship-mapper for node.js
 * "nohm":http://github.com/maritz/nohm -- Redis object relational mapper (ORM)
 * "riak-js":http://github.com/frank06/riak-js -- Riak Javascript client (works on node v0.1.30+)
 * "node-tokyocabinet":http://github.com/edvakf/node-tokyocabinet -- Tokyo Cabinet binding
@@ -230,8 +231,6 @@ h3(#testing). "Testing / Spec Frameworks":#testing
 * "Gently":http://github.com/felixge/node-gently -- A node.js module that helps with mocking and behavior verification.
 * "patr":http://github.com/kriszyp/patr -- Promise-based asynchronous test runner: lightweight & simple.
 
-h3(#payment). "Payment Gateways":#payment
-* "paynode":http://github.com/jamescarr/paynode -- wrappers for various payment gateway APIs.
 
 h3(#wrappers). "Wrappers":#wrappers
 * "bdog-node":http://github.com/blackdog66/bdog-node -- haXe wrappers for node.
@@ -310,7 +309,7 @@ h3(#graphics). "Graphics":#graphics
 * "node-ogl":http://github.com/tmpvar/node-ogl -- OpenGL bindings
 * "node-webgl":http://github.com/pufuwozu/node-webgl -- WebGL emulation
 * "gm":http://github.com/aheckmann/gm -- GraphicsMagick for node
-* "node-video":http://github.com/pkrumins/node-video -- Create Theora/OGG videos from RGB(A) buffers (and stream them via &lt;video> tag)
+* "node-video":http://github.com/pkrumins/node-video -- Create Theora/OGG videos from RGB(A) buffers (and stream them via <video> tag)
 * "node-image":http://github.com/pkrumins/node-image -- Unifies node-png, node-gif, node-jpeg
 
 
@@ -407,7 +406,6 @@ h3(#other). "Other":#other
 * "node-inotify":http://github.com/c4milo/node-inotify -- Bindings to GNU/Linux Inotify API
 * "sneaker":http://github.com/coffeemate/sneaker -- Helps you observing objects if any attribute changes 
 * "node-proxy":http://github.com/brickysam26/node-proxy -- Object Overloading and catch-all property interceptors using "Harmony Proxies":http://wiki.ecmascript.org/doku.php?id=harmony:proxies
-* "node-stringprep":http://github.com/astro/node-stringprep -- Binding to ICU StringPrep profiles
 
 h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":#commonjs-compat
 * "commonjs-utils":http://github.com/kriszyp/commonjs-utils -- "JSON Schema":http://json-schema.org/, AOP, XML-RPC, lazy arrays, and other utilities
