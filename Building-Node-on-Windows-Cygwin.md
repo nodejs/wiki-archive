@@ -3,12 +3,12 @@ Installation
 
 1. Install [Cygwin](http://www.cygwin.com/) and use `setup.exe` to install the following required packages: 
 
-   * `devel -> pkg-config`
-   * `devel -> openssl`
-   * `devel -> gcc-g++`
-   * `devel -> make`
+   * `devel  -> gcc-g++`
+   * `devel  -> git`
+   * `devel  -> make`
+   * `devel  -> openssl`
+   * `devel  -> pkg-config`
    * `python -> python`
-   * `devel -> git`
  
 2. Clone the repository and build node.js. Open `Start -> Cygwin -> Cygwin Bash Shell` and run the following commands:
 
