@@ -8,6 +8,7 @@ Building node.js on Cygwin (Windows)
    * `devel  -> make`
    * `devel  -> openssl`
    * `devel  -> pkg-config`
+   * `devel  -> zlib-devel`
    * `python -> python`
  
 2. Clone the repository and build node.js. Open `Start -> Cygwin -> Cygwin Bash Shell` and run the following commands:
