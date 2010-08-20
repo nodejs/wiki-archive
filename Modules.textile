@@ -187,6 +187,8 @@ h3(#tcp). "TCP / IP":#tcp
 * "node-xmpp":http://github.com/astro/node-xmpp -- Node XMPP library
 * "node-snpp":http://github.com/jsanders/node-snpp -- Node SNPP server library
 * "node_mdns":http://github.com/agnat/node_mdns -- mdns/zeroconf/bonjour service discovery add-on
+* "macaddr":http://github.com/carter-thaxton/macaddr -- Obtain MAC addresses for current machine from Node
+
 
 h3(#rpc). "RPC":#rpc
 * "bertrpc":http://github.com/rtomayko/node-bertrpc
