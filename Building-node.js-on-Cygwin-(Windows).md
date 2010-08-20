@@ -25,7 +25,7 @@ Building node.js on Cygwin (Windows)
 
    It is recommended you checkout a stable tag since most of the time building **master** on Cygwin fails.
 
-3. Set up Domain Name Sesolution (DNS)
+3. Set up Domain Name Resolution (DNS)
 
     Cygwin internally uses Windows for DNS queries. node.js uses the c-ares library that relies on `/etc/resolv.conf`. Cygwin ships with an empty `/etc/resolv.conf`. In order to enabled networking from your scripts, add these IPs to the file (Google Public DNS):
 
