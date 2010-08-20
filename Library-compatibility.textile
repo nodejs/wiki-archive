@@ -8,7 +8,9 @@ h2. Node v0.2.0
 * "node-mysql-libmysqlclient @ 37e32f3":http://github.com/Sannis/node-mysql-libmysqlclient/tree/37e32f3db1866369f2326056d799fa496a6acbd4
 * "npm v0.1.25":http://github.com/isaacs/npm/tree/v0.1.25
 * "limestone v0.1":http://github.com/kurokikaze/limestone/tree/v0.1
-* "ndb v0.2.0":http://github.com/smtlaissezfaire/ndb/tree/0.2.0
+* "node-ncurses @ 9bf36bf":http://github.com/mscdex/node-ncurses/tree/9bf36bfe1640b2b324f4242331245f0d9a5f80f7
+* "node-rtp @ 45a4c88":http://github.com/mscdex/node-rtp/tree/45a4c888a34ff04891530cb0e7b235181acede34
+* "grappler @ 93cff46":http://github.com/mscdex/grappler/tree/93cff46ca2fec768187876937227b76f58f684fc
 
 h2. Node v0.1.104
 * "Nitrode v0.3.1":http://github.com/ollym/nitrode/tree/0.3.1
