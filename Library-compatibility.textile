@@ -1,6 +1,7 @@
-
+Node is under heavy development and its API changes rapidly. Instead of simply a listing of modules which may or may not work with the version of Node installed on one's computer, this will provide a list of module versions which are known to work with specific versions of node.
 
 h2. Node v0.2.0
+* "Alligator V0.3":http://github.com/mrohad/Alligator
 * "Express 1.0.0rc2":http://github.com/visionmedia/express/tree/1.0.0rc2
 * "Nitrode v0.3.2":http://github.com/ollym/nitrode/tree/0.3.2
 * "node-htmlparser v1.6.2":http://github.com/tautologistics/node-htmlparser/tree/v1.6.2
