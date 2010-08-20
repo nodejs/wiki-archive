@@ -59,17 +59,15 @@ h2. String.prototype
  * @trimRight()@ - Trims whitespace from the right side of the string
  * @trimLeft()@ - Trims whitespace from the left side of the string
 
-h2. Function.prototype
- * @bind(thisArg)@ - binds a function to an object also doing partial application
-
 h2. Property Descriptor Defaults
-* @Value@ - undefined
-* @Get@ - undefined
-* @Set@ - undefined
-* @Writable@ - false
-* @Enumerable@ - false
-* @Configurable@ - false
+* @value@ - undefined
+* @get@ - undefined
+* @set@ - undefined
+* @writable@ - false
+* @enumerable@ - false
+* @configurable@ - false
 
 h1. Missing features
  * @Object.__noSuchMethod__@
+ * @Function.prototype.bind(thisArg, arg1, arg2....)@ (coming in v8 v2.3.4)
  * "use strict"; syntax extension
