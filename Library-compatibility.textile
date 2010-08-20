@@ -14,6 +14,7 @@ h2. Node v0.2.0
 * "node-inotify v0.1.4":http://github.com/c4milo/node-inotify/tree/v0.1.4
 * "node_pcap @ 09d1763":http://github.com/mranney/node_pcap/tree/09d176314c987528b7a3f83d9f60655a46c79bca
 * "Socket.IO @ 0.5.3":http://github.com/LearnBoost/Socket.IO-node/tree/0.5.3
+* "node-imagemagick @ 0.1.0":http://github.com/rsms/node-imagemagick
 
 h2. Node v0.1.104
 * "Nitrode v0.3.1":http://github.com/ollym/nitrode/tree/0.3.1
