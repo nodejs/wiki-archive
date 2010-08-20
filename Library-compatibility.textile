@@ -11,6 +11,7 @@ h2. Node v0.2.0
 * "node-ncurses @ 9bf36bf":http://github.com/mscdex/node-ncurses/tree/9bf36bfe1640b2b324f4242331245f0d9a5f80f7
 * "node-rtp @ 45a4c88":http://github.com/mscdex/node-rtp/tree/45a4c888a34ff04891530cb0e7b235181acede34
 * "grappler @ 93cff46":http://github.com/mscdex/grappler/tree/93cff46ca2fec768187876937227b76f58f684fc
+* "node-inotify v0.1.4":http://github.com/c4milo/node-inotify/tree/v0.1.4
 
 h2. Node v0.1.104
 * "Nitrode v0.3.1":http://github.com/ollym/nitrode/tree/0.3.1
