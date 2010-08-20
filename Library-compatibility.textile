@@ -1,4 +1,4 @@
-Node is under heavy development and its API changes rapidly. Instead of simply a listing of modules which may or may not work with the version of Node installed on one's computer, this will provide a list of module versions which are known to work with specific versions of node.
+
 
 h2. Node v0.2.0
 * "Express 1.0.0rc2":http://github.com/visionmedia/express/tree/1.0.0rc2
