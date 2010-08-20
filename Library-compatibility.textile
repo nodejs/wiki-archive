@@ -18,6 +18,7 @@ h2. Node v0.2.0
 * "node-imagemagick @ 0.1.0":http://github.com/rsms/node-imagemagick
 
 h2. Node v0.1.104
+* "Alligator v0.3":http://github.com/mrohad/Alligator
 * "Nitrode v0.3.1":http://github.com/ollym/nitrode/tree/0.3.1
 * "node-ldapauth @ 34d9cd9":http://github.com/joewalnes/node-ldapauth/tree/34d9cd90222a6f04839bae9a889833b742d114b2
 * "node-htmlparser v1.6.2":http://github.com/tautologistics/node-htmlparser/tree/v1.6.2
@@ -26,6 +27,7 @@ h2. Node v0.1.104
 * "node-email v0.1.0":http://github.com/aheckmann/node-email/commits/v0.1.0
 
 h2. Node v0.1.103
+* "Alligator v0.3":http://github.com/mrohad/Alligator
 * "Grasshopper v0.2.2":http://github.com/tuxychandru/grasshopper/tree/0.2.2
 * "node-htmlparser v1.6.2":http://github.com/tautologistics/node-htmlparser/tree/v1.6.2
 * "nodemachine v0.2.5":http://github.com/tautologistics/nodemachine/tree/v0.2.5
@@ -33,6 +35,7 @@ h2. Node v0.1.103
 * "node-email v0.0.4":http://github.com/aheckmann/node-email/tree/v0.0.4
 
 h2. Node v0.1.102
+* "Alligator v0.3":http://github.com/mrohad/Alligator
 * "gm v0.2.1":http://github.com/aheckmann/gm/tree/v0.2.1
 * "stencil v0.4":http://github.com/thetalecrafter/stencil/tree/v0.4
 * "Grasshopper v0.2.0":http://github.com/tuxychandru/grasshopper/tree/0.2.0
@@ -54,6 +57,7 @@ h2. Node v0.1.101
 * "grappler @ f50fc81":http://github.com/mscdex/grappler/tree/f50fc81110a6d97ceaa6a2ca8094f3aa983ee8ce
 * "gm v0.1.1":http://github.com/aheckmann/gm/tree/v0.1.1
 * "node-email v0.0.4":http://github.com/aheckmann/node-email/tree/v0.0.4
+* "Alligator v0.3":http://github.com/mrohad/Alligator
 
 h2. Node v0.1.100
 * "redis2json":http://github.com/igo/redis2json/tree/d053872e5b7c36a6bfdbf0b0efb31fb3ea68a7e3
@@ -66,6 +70,7 @@ h2. Node v0.1.100
 * "grappler @ f50fc81":http://github.com/mscdex/grappler/tree/f50fc81110a6d97ceaa6a2ca8094f3aa983ee8ce
 * "gm v0.1.0":http://github.com/aheckmann/gm/tree/v0.1.0
 * "node-email v0.0.4":http://github.com/aheckmann/node-email/tree/v0.0.4
+* "Alligator v0.3":http://github.com/mrohad/Alligator
 
 h2. Node v0.1.99
 * "node-twiml 0.0.1":http://github.com/derferman/node-twiml/tree/0.0.1
@@ -78,6 +83,7 @@ h2. Node v0.1.99
 * "node-xml v0.3.0":http://github.com/robrighter/node-xml/tree/v0.3
 * "node-websocket-server v1.2.00":http://github.com/miksago/node-websocket-server/tree/v1.2.00 (Requires ssl)
 * "node-email v0.0.4":http://github.com/aheckmann/node-email/tree/v0.0.4
+
 
 h2. Node v0.1.98
 * "josi v0.2.0":http://github.com/thatismatt/josi/tree/v0.2.0
