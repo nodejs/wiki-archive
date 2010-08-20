@@ -6,6 +6,7 @@ h2. Node v0.2.0
 * "nodemachine v0.2.5":http://github.com/tautologistics/nodemachine/tree/v0.2.5
 * "node-mysql-libmysqlclient @ 37e32f3":http://github.com/Sannis/node-mysql-libmysqlclient/tree/37e32f3db1866369f2326056d799fa496a6acbd4
 * "npm v0.1.25":http://github.com/isaacs/npm/tree/v0.1.25
+* "limestone v0.1":http://github.com/kurokikaze/limestone/tree/v0.1
 
 h2. Node v0.1.104
 * "Nitrode v0.3.1":http://github.com/ollym/nitrode/tree/0.3.1
@@ -148,7 +149,6 @@ h2. Node v0.1.95
 h2. Node v0.1.94
 * "node-elf-logger v0.1":http://github.com/TooTallNate/node-elf-logger/tree/v0.1
 * "node-htmlparser v1.3.4":http://github.com/tautologistics/node-htmlparser/tree/v1.3.4
-* "limestone v0.1":http://github.com/kurokikaze/limestone/tree/v0.1
 * "node-redis v0.0.1":http://github.com/tristandunn/node-redis/tree/v0.0.1
 * "node-websocket v0.0.1":http://github.com/tristandunn/node-websocket/tree/v0.0.1
 * "ndb v0.1.2":http://github.com/smtlaissezfaire/ndb/tree/0.1.2
