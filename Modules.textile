@@ -360,6 +360,7 @@ h3(#other). "Other":#other
 * "node-github":http://github.com/ajaxorg/node-github -- A wrapper for the "GitHub API":http://develop.github.com/
 * "node-googlemaps":http://github.com/moshen/node-googlemaps -- A wrapper for the Google Maps API
 * "node-growl":http://github.com/visionmedia/node-growl -- unobtrusive notification system (growlnotify "bindings")
+* "node-libnotify":http://github.com/mitkok/node-libnotify -- unobtrusive notification system (libnotify "bindings")
 * "node-logger":http://github.com/quirkey/node-logger -- Simple logging like Ruby's logger.rb and console.log
 * "node-hammer":http://github.com/grippy/node-hammer -- Simple load testing tool similar to AB but with less features.
 * "node-maxmind":http://github.com/gyordanov/node-maxmind — maxmind/geoip module (using libgeoip)
