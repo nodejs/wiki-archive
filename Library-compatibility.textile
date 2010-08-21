@@ -19,6 +19,7 @@ h2. Node v0.2.0
 * "node-imagemagick @ 0.1.0":http://github.com/rsms/node-imagemagick
 * "nun v.0.1.12":http://github.com/akaspin/nun/tree/v0.1.12
 * "node-mongodb-native V0.8.1":http://github.com/christkv/node-mongodb-native/tree/V0.8.1
+* "node-proxy @  3f9b404":http://github.com/brickysam26/node-proxy/tree/3f9b4040d438d29432234834363f8e593e1289c0
 
 h2. Node v0.1.104
 * "Alligator v0.3":http://github.com/mrohad/Alligator
@@ -36,6 +37,7 @@ h2. Node v0.1.103
 * "nodemachine v0.2.5":http://github.com/tautologistics/nodemachine/tree/v0.2.5
 * "gm v0.2.1":http://github.com/aheckmann/gm/tree/v0.2.1
 * "node-email v0.0.4":http://github.com/aheckmann/node-email/tree/v0.0.4
+* "node-proxy @  068a112":http://github.com/brickysam26/node-proxy/tree/068a1122884c1642e332424b9aecde3f56dce30e
 
 h2. Node v0.1.102
 * "Alligator v0.3":http://github.com/mrohad/Alligator
