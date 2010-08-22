@@ -22,6 +22,7 @@ h2. Node v0.2.0
 * "node-proxy @  3f9b404":http://github.com/brickysam26/node-proxy/tree/3f9b4040d438d29432234834363f8e593e1289c0
 * "sequelize @ 0.2.6":http://github.com/sdepold/sequelize/tree/0.2.6
 * "node-mysql":http://github.com/felixge/node-mysql
+* "html5 @ v0.2.0":http://github.com/aredridel/html5
 
 h2. Node v0.1.104
 * "Alligator v0.3":http://github.com/mrohad/Alligator
