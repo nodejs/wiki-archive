@@ -16,7 +16,7 @@ The  <code> --debug-brk  </code> option is needed when your script is short live
 
 h2. Installation
 
-Rather than installing the V8 Eclipse Debugging plugin on an existing Eclipse Java or Eclipse C++ installation, you might want to install the plugin into its own Eclipse Platform. This prevents an instability of the plugin, Node.js or V8 from disrupting your Java or C++ projects. You can download a clean slate Eclipse Platform, then use the plugin update utility to install the 
+Rather than installing the V8 Eclipse Debugging Plugin on an existing Eclipse Java or Eclipse C++ installation, you might want to install the plugin into its own Eclipse Platform. This prevents an instability of the plugin, Node.js or V8 from disrupting your Java or C++ projects. You can download a clean slate Eclipse Platform, then use the plugin update utility to install V8 Eclipse Debugging Plugin.
 
 * Download a clean slate "Eclipse Platform":http://download.eclipse.org/eclipse/downloads/ for your operating system.
 * Unzip the Eclipse Platform to a directory on your hard drive.
@@ -28,7 +28,7 @@ Rather than installing the V8 Eclipse Debugging plugin on an existing Eclipse Ja
 * Now select  *Google Chrome Developer Tools - http://chromedevtools.googlecode.com/svn/update/dev/* from the @Work with:@ combo box. *Google Chrome Developer Tools* will appear in the table below. Click the checkbox next to *Google Chrome Developer Tools* in the table. Click the button labeled @Next >@ at the bottom of the dialog box. The next wizard step titled *Install Details* is displayed.
 * Click the button labeled @Next >@.  The next wizard step titled *Review Licenses* is displayed.
 * Once you are satisfied with the licenses, you can select the @I accept the terms of the license agreement@ radio button and click the button labeled @Finish@. A progress dialog box titled *Installing Software* will be displayed. After installation is complete click the @Restart Now@ button.
-* Eclipse will restart with the V8 Debugging Plugin installed.
+* Eclipse will restart with the V8 Eclipse Debugging Plugin installed.
 
 h2. Sample Debugging Session
 
