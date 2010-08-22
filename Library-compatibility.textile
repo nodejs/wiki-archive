@@ -20,6 +20,7 @@ h2. Node v0.2.0
 * "nun v.0.1.12":http://github.com/akaspin/nun/tree/v0.1.12
 * "node-mongodb-native V0.8.1":http://github.com/christkv/node-mongodb-native/tree/V0.8.1
 * "node-proxy @  3f9b404":http://github.com/brickysam26/node-proxy/tree/3f9b4040d438d29432234834363f8e593e1289c0
+* "sequelize @ 0.2.6":http://github.com/sdepold/sequelize/tree/0.2.6
 
 h2. Node v0.1.104
 * "Alligator v0.3":http://github.com/mrohad/Alligator
