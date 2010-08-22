@@ -50,6 +50,9 @@ h2. Object.prototype
  * @__lookupSetter__(name)@ - Returns the function associated with the specified property by the __defineSetter__ method.
  * @isPrototypeOf(obj)@ - Returns true if @this@ is a prototype of the passed in object.
 
+h2. Function.prototype
+ * @Function.prototype.bind(thisArg, arg1, arg2....)@ - Sets the value of 'this' inside the function to always be the value of thisArg when the function is called. Optionally, function arguments can be specified (arg1, arg2, etc) that will automatically be prepended to the argument list whenever this function is called.
+
 h2. JSON
  * @JSON.stringify(obj)@ - Takes any serializable object and returns the JSON representation as a string.
  * @JSON.parse(string)@ - Takes a well formed JSON string and returns the corresponding JavaScript object.
@@ -69,5 +72,4 @@ h2. Property Descriptor Defaults
 
 h1. Missing features
  * @Object.__noSuchMethod__@
- * @Function.prototype.bind(thisArg, arg1, arg2....)@ (coming in v8 v2.3.4)
  * "use strict"; syntax extension
