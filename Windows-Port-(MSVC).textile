@@ -56,4 +56,4 @@ People who have expressed interest in a Windows port on the mailing list.
 * Howard Rauscher.
 * Maxim Mossienko.
 * Howard Rauscher.
-* Elijah Insua - Forked Node.js for Windows development at one point according to "Windows port":http://groups.google.com/group/nodejs/browse_frm/thread/fa03fb0dc508db5f.
+* Elijah Insua - Forked Node.js for Windows development at one point according to "Windows port":http://groups.google.com/group/nodejs/browse_frm/thread/fa03fb0dc508db5f. Really old fork lives here: http://github.com/tmpvar/node/tree/tmpvar-windoze-old.  This was an attempt to port the now non-existent coupling dependency to windows.
