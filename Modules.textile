@@ -177,7 +177,6 @@ h3(#security). "OpenSSL / Crypto / Hashing":#security
 
 h3(#tcp). "TCP / IP":#tcp
 * "node-httpclient":http://github.com/billywhizz/node-httpclient -- Node HTTP Client (gzip, https, cookies etc.)
-* "node-protocol":http://github.com/miksago/node-protocol -- A framework for implementing protocols.
 * "node-smtp-client":http://github.com/miksago/node-smtp-client -- Implementation of the SMTP protocol in Node
 * "node-smtp":http://github.com/aredridel/node-smtp -- Implementation of an SMTP server (and soon, client)
 * "NodeFTPd":http://github.com/billywhizz/nodeftpd -- Node FTP Server
