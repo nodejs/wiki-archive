@@ -165,6 +165,7 @@ h3(#package-management). "Package Management Systems":#package-management
 h3(#module-loader). "Module Loader":#module-loader
 * "nodules":http://github.com/kriszyp/nodules -- Async module loader with dep resolution/downloading and module reloading w/o server restart
 * "node-DJs":http://github.com/lrbabe/node-DJs - Restart a server after each change in main script and dependencies
+* "node-hot-reload":http://github.com/shimondoodkin/node-hot-reload - watchFile and reload modules dynamically for node.js (very useful for development, less good for production)
 
 h3(#security). "OpenSSL / Crypto / Hashing":#security
 * "hashlib":http://github.com/brainfucker/hashlib -- Fast hashing module, written in C/C++, supports: md4, md5, md6, sha, sha1, sha256, sha512
