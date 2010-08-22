@@ -22,12 +22,13 @@ Rather than installing the V8 Eclipse Debugging plugin on an existing Eclipse Ja
 * Unzip the Eclipse Platform to a directory on your hard drive.
 * Run the Eclipse Platform. You will ask to create a workspace. Create a workspace separate from any Java or C++ workspaces you may already have created. If this is your first time using Eclipse, the default is fine.
 * Proceed to the workbench by clicking the icon with the arrow titled @Workbench@ in the top right corner of the Eclipse window.
-* Select the menu item @Help > Install New Software...@. A dialog box titled *Install* will appear.
+* Select the menu item @Help > Install New Software...@. A dialog box titled *Install* will appear. This contains a plugin installation wizard. The first step of the wizard is titled *Available Software*.
 * At the top of the dialog you will see a combo box labeled @Word with:@. Click the button to the right of the combo box labeled @Add@. A dialog box titled *Add Repository* will appear.
 * In the textbox labeled @Name:@ enter *Google Chrome Developer Tools*. In the textbox labeled @Location:@ enter *http://chromedevtools.googlecode.com/svn/update/dev/*. Click @OK@.
-* Now select  *Google Chrome Developer Tools - http://chromedevtools.googlecode.com/svn/update/dev/* from the @Work with:@ combo box. *Google Chrome Developer Tools* will appear in the table below. Click the checkbox next to *Google Chrome Developer Tools* in the table. Click the button labeled @Next >@ at the bottom of the dialog box.
-* 
-* 
+* Now select  *Google Chrome Developer Tools - http://chromedevtools.googlecode.com/svn/update/dev/* from the @Work with:@ combo box. *Google Chrome Developer Tools* will appear in the table below. Click the checkbox next to *Google Chrome Developer Tools* in the table. Click the button labeled @Next >@ at the bottom of the dialog box. The next wizard step titled *Install Details* is displayed.
+* Click the button labeled @Next >@.  The next wizard step titled *Review Licenses* is displayed.
+* Once you are satisfied with the licenses, you can select the @I accept the terms of the license agreement@ radio button and click the button labeled @Finish@. A progress dialog box titled *Installing Software* will be displayed. After installation is complete click the @Restart Now@ button.
+* Eclipse will restart with the V8 Debugging Plugin installed.
 
 h2. Sample Debugging Session
 
