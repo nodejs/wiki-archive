@@ -20,7 +20,8 @@ Rather than installing the V8 Eclipse Debugging plugin on an existing Eclipse Ja
 
 * Download a clean slate "Eclipse Platform":http://download.eclipse.org/eclipse/downloads/ for your operating system.
 * Unzip the Eclipse Platform to a directory on your hard drive.
-* Run the Eclipse Platform.
+* Run the Eclipse Platform. You will ask to create a workspace. Create a workspace separate from any Java or C++ workspaces you may already have created. If this is your first time using Eclipse, the default is fine.
+* Proceed to the workbench by clicking the icon with the arrow titled @Workbench@ in the top right corner of the Eclipse window.
 * Select the menu item @Help > Install New Software...@. A dialog box titled *Install* will appear.
 * At the top of the dialog you will see a combo box labeled @Word with:@. Click the button to the right of the combo box labeled @Add@. A dialog box titled *Add Repository* will appear.
 * In the textbox labeled @Name:@ enter *Google Chrome Developer Tools*. In the textbox labeled @Location:@ enter *http://chromedevtools.googlecode.com/svn/update/dev/*. Click @OK@.
