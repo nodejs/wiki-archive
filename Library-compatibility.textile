@@ -24,7 +24,7 @@ h2. Node v0.2.0
 * "sequelize @ 0.2.6":http://github.com/sdepold/sequelize/tree/0.2.6
 * "node-mysql":http://github.com/felixge/node-mysql
 * "html5 @ v0.2.0":http://github.com/aredridel/html5
-* "libxmljs v0.3.0":http://github.com/polotek/libxmljs/tree/0.4.1
+* "libxmljs v0.4.1":http://github.com/polotek/libxmljs/tree/0.4.1
 
 h2. Node v0.1.104
 * "Alligator v0.3":http://github.com/mrohad/Alligator
