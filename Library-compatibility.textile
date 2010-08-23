@@ -26,6 +26,7 @@ h2. Node v0.2.0
 * "node-mysql":http://github.com/felixge/node-mysql
 * "html5 @ v0.2.0":http://github.com/aredridel/html5
 * "libxmljs v0.4.1":http://github.com/polotek/libxmljs/tree/0.4.1
+* "nohm @ 207ac57":http://github.com/maritz/nohm/commit/207ac57
 
 h2. Node v0.1.104
 * "Alligator v0.3":http://github.com/mrohad/Alligator
@@ -64,7 +65,6 @@ h2. Node v0.1.101
 * "nun v.0.1.11":http://github.com/akaspin/nun/tree/v0.1.11
 * "Grasshopper @ 294d43d":http://github.com/tuxychandru/grasshopper/commit/294d43da253facce42660a63cf535b1fbbcec9dd
 * "node-twiml 0.0.1":http://github.com/derferman/node-twiml/tree/0.0.1
-* "nohm @ 333c925":http://github.com/maritz/nohm/commit/333c925aa2dc8ea4f59845213367198ad44334f4
 * "grappler @ f50fc81":http://github.com/mscdex/grappler/tree/f50fc81110a6d97ceaa6a2ca8094f3aa983ee8ce
 * "gm v0.1.1":http://github.com/aheckmann/gm/tree/v0.1.1
 * "node-email v0.0.4":http://github.com/aheckmann/node-email/tree/v0.0.4
