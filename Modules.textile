@@ -323,7 +323,7 @@ h3(#graphics). "Graphics":#graphics
 h3(#other). "Other":#other
 * "behaviors":http://github.com/caolan/behaviors -- A simple way to check a module's exports, useful for 3rd party plugins and extensions
 * "box2dnode":http://github.com/jadell/box2dnode -- Port of the box2d physics simulation library
-* "class.js":http://github.com/visionmedia/class.js -- High performance and lightweight class implementation (10-ish SLOC)
+* "class.js":http://github.com/visionmedia/class.js -- High performance and lightweight class implementation (10-ish SLOC) (! LINK IS 404ing)
 * "cookie-node":http://github.com/jed/cookie-node/ -- signed cookie functionality for node.js
 * "node-cookiejar":http://github.com/bmeck/node-cookiejar -- repetitive use cookie jar construction / cookie functionality
 * "daemon.node":http://github.com/Slashed/daemon.node/ -- Unix/Linux Daemons with node.js
