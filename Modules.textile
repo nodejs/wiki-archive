@@ -262,6 +262,7 @@ h4(#parsers-commandline). "Command Line Option Parsers":#parsers-commandline
 * "trollopjs":http://github.com/bentomas/trollopjs -- Another option parser
 * "js-opts":http://www.bitbucket.org/mazzarelli/js-opts/ -- Another simple command line option parser
 * "node-arguments":http://github.com/fczuardi/node-arguments -- Yet another simple command line option parser
+* "argparse":http://github.com/harthur/argparse -- Small option parser with defaults, short, long args
 
 h4(#parser-generators).  "Parser Generators":#parser_generators
 * "canopy":http://github.com/jcoglan/canopy -- PEG parser compiler for JavaScript
