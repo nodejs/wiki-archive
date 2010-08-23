@@ -26,7 +26,7 @@ h2. Node v0.2.0
 * "node-mysql":http://github.com/felixge/node-mysql
 * "html5 @ v0.2.0":http://github.com/aredridel/html5
 * "libxmljs v0.4.1":http://github.com/polotek/libxmljs/tree/0.4.1
-* "nohm @ 207ac57":http://github.com/maritz/nohm/commit/207ac57
+* "nohm v0.1":http://github.com/maritz/nohm/tree/v0.1
 
 h2. Node v0.1.104
 * "Alligator v0.3":http://github.com/mrohad/Alligator
