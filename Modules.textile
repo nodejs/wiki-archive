@@ -366,6 +366,7 @@ h3(#other). "Other":#other
 * "node-libnotify":http://github.com/mitkok/node-libnotify -- unobtrusive notification system (libnotify "bindings")
 * "node-logger":http://github.com/quirkey/node-logger -- Simple logging like Ruby's logger.rb and console.log
 * "node-hammer":http://github.com/grippy/node-hammer -- Simple load testing tool similar to AB but with less features.
+* "node-hash-ring": http://github.com/bnoguchi/node-hash-ring -- A consistent hashing module
 * "node-maxmind":http://github.com/gyordanov/node-maxmind — maxmind/geoip module (using libgeoip)
 * "node-parallel":http://github.com/Tim-Smart/node-parallel -- Create tasks in node.js that run in parallel, or sequences that run tasks one after another.
 * "node_pcap":http://github.com/mranney/node_pcap -- Network packet capture and analysis using libpcap
