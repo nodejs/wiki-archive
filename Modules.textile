@@ -321,6 +321,9 @@ h3(#graphics). "Graphics":#graphics
 * "node-video":http://github.com/pkrumins/node-video -- Create Theora/OGG videos from RGB(A) buffers (and stream them via <video> tag)
 * "node-image":http://github.com/pkrumins/node-image -- Unifies node-png, node-gif, node-jpeg
 
+h3(#payment-gateways). "Payment Gateways":#payment-gateways
+
+* "braintree":http://github.com/braintree/braintree_node -- library for integrating with Braintree
 
 h3(#other). "Other":#other
 * "behaviors":http://github.com/caolan/behaviors -- A simple way to check a module's exports, useful for 3rd party plugins and extensions
