@@ -34,6 +34,7 @@ h2. Node v0.2.0
 * "node-xml v0.3.0":http://github.com/robrighter/node-xml/tree/v0.3
 * "nohm v0.1":http://github.com/maritz/nohm/tree/v0.1
 * "node-syslog v0.5":http://github.com/schamane/node-syslog/tree/v0.5.0
+* "oauth 0.8.0":http://github.com/ciaranj/node-oauth/tree/0.8.0
 
 h2. Node v0.1.104
 * "Alligator v0.3":http://github.com/mrohad/Alligator
