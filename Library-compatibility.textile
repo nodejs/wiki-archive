@@ -1,6 +1,7 @@
 Node is under heavy development and its API changes rapidly. Instead of simply a listing of modules which may or may not work with the version of Node installed on one's computer, this will provide a list of module versions which are known to work with specific versions of node.
 
 h2. Node v0.2.0
+* "node-websocket-server v1.3.00":http://github.com/miksago/node-websocket-server/tree/v1.3.03 (Requires ssl)
 * "Alligator v0.3":http://github.com/mrohad/Alligator
 * "Express 1.0.0rc2":http://github.com/visionmedia/express/tree/1.0.0rc2
 * "Geddy v0.1.3":http://github.com/mde/geddy/tree/v0.1.3
@@ -39,6 +40,7 @@ h2. Node v0.1.104
 * "node-email v0.1.0":http://github.com/aheckmann/node-email/commits/v0.1.0
 
 h2. Node v0.1.103
+* "node-websocket-server v1.3.00":http://github.com/miksago/node-websocket-server/tree/v1.3.03 (Requires ssl)
 * "Alligator v0.3":http://github.com/mrohad/Alligator
 * "Grasshopper v0.2.2":http://github.com/tuxychandru/grasshopper/tree/0.2.2
 * "node-htmlparser v1.6.2":http://github.com/tautologistics/node-htmlparser/tree/v1.6.2
@@ -48,6 +50,7 @@ h2. Node v0.1.103
 * "node-proxy @  068a112":http://github.com/brickysam26/node-proxy/tree/068a1122884c1642e332424b9aecde3f56dce30e
 
 h2. Node v0.1.102
+* "node-websocket-server v1.3.00":http://github.com/miksago/node-websocket-server/tree/v1.3.03 (Requires ssl)
 * "Alligator v0.3":http://github.com/mrohad/Alligator
 * "gm v0.2.1":http://github.com/aheckmann/gm/tree/v0.2.1
 * "stencil v0.4":http://github.com/thetalecrafter/stencil/tree/v0.4
@@ -60,6 +63,7 @@ h2. Node v0.1.102
 * "node-email v0.0.4":http://github.com/aheckmann/node-email/tree/v0.0.4
 
 h2. Node v0.1.101
+* "node-websocket-server v1.3.00":http://github.com/miksago/node-websocket-server/tree/v1.3.03 (Requires ssl)
 * "node-amf @ f427338":http://github.com/timwhitlock/node-amf/tree/f427338da0d61f42fc207c71ab00837a98fe90e9
 * "node-htmlparser v1.6.2":http://github.com/tautologistics/node-htmlparser/tree/v1.6.2
 * "nodemachine v0.2.5":http://github.com/tautologistics/nodemachine/tree/v0.2.5
