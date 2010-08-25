@@ -30,6 +30,7 @@ h2. Node v0.2.0
 * "html5 @ v0.2.0":http://github.com/aredridel/html5
 * "libxmljs v0.4.1":http://github.com/polotek/libxmljs/tree/0.4.1
 * "nohm v0.1":http://github.com/maritz/nohm/tree/v0.1
+* "node-syslog v0.5":http://github.com/schamane/node-syslog/tree/v0.5.0
 
 h2. Node v0.1.104
 * "Alligator v0.3":http://github.com/mrohad/Alligator
