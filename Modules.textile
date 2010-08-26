@@ -320,6 +320,7 @@ h3(#graphics). "Graphics":#graphics
 * "gm":http://github.com/aheckmann/gm -- GraphicsMagick for node
 * "node-video":http://github.com/pkrumins/node-video -- Create Theora/OGG videos from RGB(A) buffers (and stream them via <video> tag)
 * "node-image":http://github.com/pkrumins/node-image -- Unifies node-png, node-gif, node-jpeg
+* "node-pango-view":http://github.com/shimondoodkin/node-pango-view -- print text with pango to temporary png image, then merge it with ImageMagick.
 
 h3(#payment-gateways). "Payment Gateways":#payment-gateways
 
