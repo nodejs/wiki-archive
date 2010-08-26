@@ -426,14 +426,15 @@ h3(#other). "Other":#other
 * "nodejs-clone-extend":http://github.com/shimondoodkin/nodejs-clone-extend -- a versatile clone and extend like underline.js, to clone JavaScript objects, enables DRY.
 
 h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":#commonjs-compat
+* "abbrev-js":http://github.com/isaacs/abbrev-js/ -- Like Ruby's Abbrev module.
 * "commonjs-utils":http://github.com/kriszyp/commonjs-utils -- "JSON Schema":http://json-schema.org/, AOP, XML-RPC, lazy arrays, and other utilities
 * "datatypes-js":http://github.com/jfd/datatypes-js -- Byte encoding/decoding for typical datatypes in JS.
 * "Dojo Toolkit (Node-compatible fork)":http://github.com/novemberborn/dojo -- The Dojo library for Node
 * "email.js":http://github.com/craigw/email.js -- Email generation and parsing in Javascript.
+* "commonjs-geoUtils":http://github.com/moshen/commonjs-geoUtils -- Geographic Formulas for CommonJS
+* "inflection":http://github.com/gmosx/inflection -- A port of the Rails/ActiveSupport inflector to JavaScript
 * "match-js":http://github.com/jfd/match-js -- Simple pattern matching (functional style) in JS.
 * "qxoo":http://github.com/fjakobs/qxoo -- port of the qooxdoo OO system to commonJS
-* "underscore":http://documentcloud.github.com/underscore/ -- Unobtrusive functional programming utility library.
-* "abbrev-js":http://github.com/isaacs/abbrev-js/ -- Like Ruby's Abbrev module.
-* "wu.js":http://fitzgen.github.com/wu.js/ -- A lazy, functional Javascript library that ain't nuthin' ta f*ck wit.
-* "inflection":http://github.com/gmosx/inflection -- A port of the Rails/ActiveSupport inflector to JavaScript
 * "schema.js":http://github.com/akidee/schema.js -- Modular data schema validation and adaptation according to JSON Schema for JavaScript (CommonJS)
+* "underscore":http://documentcloud.github.com/underscore/ -- Unobtrusive functional programming utility library.
+* "wu.js":http://fitzgen.github.com/wu.js/ -- A lazy, functional Javascript library that ain't nuthin' ta f*ck wit.
