@@ -289,7 +289,7 @@ h4(#parsers-other). "Other":#parsers-other
 * "node-bufferlist":http://github.com/substack/node-bufferlist -- Create linked lists of buffers and asynchronously parse binary data from these lists
 * "node-netstring":http://github.com/pgriess/node-netstring -- Read and write "netstrings":http://cr.yp.to/proto/netstrings.txt
 * "apricot":http://github.com/silentrob/Apricot -- Hpricot inspired clone, JSDom with Sizzle Selector engine and XUI for HTML augmentation
-*"node-strtok":http://github.com/pgriess/node-strtok -- A streaming tokenizer library for binary data
+* "node-strtok":http://github.com/pgriess/node-strtok -- A streaming tokenizer library for binary data
 
 h3(#debugging). "Debugging / Console Utilities":#debugging
 * "cfdump.js":http://github.com/figital/cfdump.js -- a prettier way to dump your objects to a browser
