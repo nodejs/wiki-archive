@@ -397,6 +397,7 @@ h3(#other). "Other":#other
 * "node-yql":http://github.com/drgath/node-yql -- A YQL (Yahoo Query Language) module for Node.js
 * "nshtools":http://github.com/rsdoiel/nshtools -- a high level shell scripting library for file and operating system chores
 * "soda.js":http://github.com/tomyan/soda -- Asynchonous JavaScript module loader for client-side and Node.js
+* "speller":http://github.com/past/speller -- A JavaScript spell-checker
 * "Step":http://github.com/creationix/step -- Tool for grouping and chaining asynchronous callbacks, based on "flow-js":http://github.com/willconant/flow-js
 * "async":http://github.com/caolan/async -- Comprehensive async map/reduce and flow control (parallel, series, waterfall, auto...) module that works in node and the browser
 * "Task.node":http://github.com/botanicus/task.node Simple task manager similar to Rake, Scons and others.
