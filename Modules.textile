@@ -217,7 +217,7 @@ h3(#ws-ajax). "Web Sockets & Ajax":#ws-ajax
 * "grappler":http://github.com/mscdex/grappler -- A minimalistic server for handling "comet" connections that supports a variety of connection methods.
 
 h3(#class-system). "Class systems":#class-system
-* "joose":http://github.com/joose/joose -- complete modern object system for JavaScript, based on concepts from many programming languages such as Ruby, Smalltalk, Perl
+* "joose":http://github.com/joose/joose -- complete modern class system for JavaScript, based on concepts from many programming languages
 
 h3(#testing). "Testing / Spec Frameworks":#testing
 * "sinon":http://github.com/cjohansen/sinon.js -- JavaScript test spies, stubs and mocks for Node.js and the browser
