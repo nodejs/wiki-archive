@@ -384,7 +384,7 @@ h3(#other). "Other":#other
 * "node-s3":http://github.com/grippy/node-s3 -- App for basic Amazon Web Services S3 administration (upload files, bucket admin, etc.)
 * "node.Amazon-S3":http://github.com/nuxusr/Node.js---Amazon-S3 -- S3 implementation with Md5 signing, upload/download progress% events, streaming, large file support. 
 * "node-solr":http://github.com/gsf/node-solr -- Solr module for Node
-* "node-solr":http://github.com/drudge/node-sosumi -- Use Find My Phone services from your node apps
+* "node-sosumi":http://github.com/drudge/node-sosumi -- Use Find My Phone services from your node apps
 * "nodestalker":http://github.com/pascalopitz/nodestalker -- A beanstalkd client for node
 * "node-stomp":http://github.com/kates/node-stomp -- A basic STOMP client.
 * "node-syslog":http://github.com/schamane/node-syslog/ -- Allows sending messages to syslog.
