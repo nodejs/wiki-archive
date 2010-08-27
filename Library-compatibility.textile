@@ -1,42 +1,43 @@
 Node is under heavy development and its API changes rapidly. Instead of simply a listing of modules which may or may not work with the version of Node installed on one's computer, this will provide a list of module versions which are known to work with specific versions of node.
 
 h2. Node v0.2.0
-* "nodetk v0.1.0":http://github.com/AF83/nodetk/tree/v0.1.0
-* "Rest-mongo v0.1.0":http://github.com/AF83/rest-mongo/tree/v0.1.0
-* "node-useragent v0.0.0":http://github.com/3rd-Eden/node-useragent
-* "node-websocket-server v1.3.00":http://github.com/miksago/node-websocket-server/tree/v1.3.03 (Requires ssl)
 * "Alligator v0.3":http://github.com/mrohad/Alligator
 * "Express 1.0.0rc2":http://github.com/visionmedia/express/tree/1.0.0rc2
 * "Geddy v0.1.3":http://github.com/mde/geddy/tree/v0.1.3
 * "gm v0.3.0":http://github.com/aheckmann/gm/commits/v0.3.0 (graphicsmagick)
-* "Nitrode v0.3.2":http://github.com/ollym/nitrode/tree/0.3.2
-* "node-email v0.1.0":http://github.com/aheckmann/node-email/commits/v0.1.0
-* "node-htmlparser v1.6.2":http://github.com/tautologistics/node-htmlparser/tree/v1.6.2
-* "nodemachine v0.2.5":http://github.com/tautologistics/nodemachine/tree/v0.2.5
-* "node-mysql-libmysqlclient @ 37e32f3":http://github.com/Sannis/node-mysql-libmysqlclient/tree/37e32f3db1866369f2326056d799fa496a6acbd4
-* "npm v0.1.25":http://github.com/isaacs/npm/tree/v0.1.25
-* "limestone v0.1":http://github.com/kurokikaze/limestone/tree/v0.1
-* "node-hash-ring v0.1.0":http://github.com/bnoguchi/node-hash-ring/tree/v0.1.0
-* "node-ncurses @ 9bf36bf":http://github.com/mscdex/node-ncurses/tree/9bf36bfe1640b2b324f4242331245f0d9a5f80f7
-* "node-rtp @ 45a4c88":http://github.com/mscdex/node-rtp/tree/45a4c888a34ff04891530cb0e7b235181acede34
 * "grappler @ 93cff46":http://github.com/mscdex/grappler/tree/93cff46ca2fec768187876937227b76f58f684fc
-* "node-inotify v0.1.4":http://github.com/c4milo/node-inotify/tree/v0.1.4
-* "node_pcap @ 09d1763":http://github.com/mranney/node_pcap/tree/09d176314c987528b7a3f83d9f60655a46c79bca
-* "Socket.IO @ 0.5.3":http://github.com/LearnBoost/Socket.IO-node/tree/0.5.3
-* "node-imagemagick @ 0.1.0":http://github.com/rsms/node-imagemagick
-* "nun v.0.1.12":http://github.com/akaspin/nun/tree/v0.1.12
-* "node-mongodb-native V0.8.1":http://github.com/christkv/node-mongodb-native/tree/V0.8.1
-* "node-proxy @  3f9b404":http://github.com/brickysam26/node-proxy/tree/3f9b4040d438d29432234834363f8e593e1289c0
-* "sequelize @ 0.2.6":http://github.com/sdepold/sequelize/tree/0.2.6
-* "node-mysql":http://github.com/felixge/node-mysql
 * "html5 @ v0.2.0":http://github.com/aredridel/html5
 * "libxmljs v0.4.1":http://github.com/polotek/libxmljs/tree/0.4.1
-* "node-xml v0.3.0":http://github.com/robrighter/node-xml/tree/v0.3
-* "nohm v0.1":http://github.com/maritz/nohm/tree/v0.1
-* "node-syslog v0.5":http://github.com/schamane/node-syslog/tree/v0.5.0
-* "oauth 0.8.0":http://github.com/ciaranj/node-oauth/tree/0.8.0
+* "limestone v0.1":http://github.com/kurokikaze/limestone/tree/v0.1
+* "Nitrode v0.3.2":http://github.com/ollym/nitrode/tree/0.3.2
+* "node-email v0.1.0":http://github.com/aheckmann/node-email/commits/v0.1.0
+* "node-hash-ring v0.1.0":http://github.com/bnoguchi/node-hash-ring/tree/v0.1.0
+* "node-htmlparser v1.6.2":http://github.com/tautologistics/node-htmlparser/tree/v1.6.2
+* "node-imagemagick @ 0.1.0":http://github.com/rsms/node-imagemagick
+* "node-inotify v0.1.4":http://github.com/c4milo/node-inotify/tree/v0.1.4
+* "node-mongodb-native V0.8.1":http://github.com/christkv/node-mongodb-native/tree/V0.8.1
+* "node-mysql":http://github.com/felixge/node-mysql
+* "node-mysql-libmysqlclient @ 37e32f3":http://github.com/Sannis/node-mysql-libmysqlclient/tree/37e32f3db1866369f2326056d799fa496a6acbd4
+* "node-ncurses @ 9bf36bf":http://github.com/mscdex/node-ncurses/tree/9bf36bfe1640b2b324f4242331245f0d9a5f80f7
+* "node-proxy @  3f9b404":http://github.com/brickysam26/node-proxy/tree/3f9b4040d438d29432234834363f8e593e1289c0
+* "node-rtp @ 45a4c88":http://github.com/mscdex/node-rtp/tree/45a4c888a34ff04891530cb0e7b235181acede34
 * "node-spread 0.1":http://github.com/iwater/node-spread
+* "node-syslog v0.5":http://github.com/schamane/node-syslog/tree/v0.5.0
+* "node-useragent v0.0.0":http://github.com/3rd-Eden/node-useragent
+* "node-websocket-server v1.3.00":http://github.com/miksago/node-websocket-server/tree/v1.3.03 (Requires ssl)
+* "node-xml v0.3.0":http://github.com/robrighter/node-xml/tree/v0.3
+* "node-yql v0.1.0":http://github.com/drgath/node-yql
+* "nodemachine v0.2.5":http://github.com/tautologistics/nodemachine/tree/v0.2.5
+* "nodetk v0.1.0":http://github.com/AF83/nodetk/tree/v0.1.0
+* "node_pcap @ 09d1763":http://github.com/mranney/node_pcap/tree/09d176314c987528b7a3f83d9f60655a46c79bca
+* "nohm v0.1":http://github.com/maritz/nohm/tree/v0.1
+* "npm v0.1.25":http://github.com/isaacs/npm/tree/v0.1.25
+* "nun v.0.1.12":http://github.com/akaspin/nun/tree/v0.1.12
+* "oauth 0.8.0":http://github.com/ciaranj/node-oauth/tree/0.8.0
+* "Rest-mongo v0.1.0":http://github.com/AF83/rest-mongo/tree/v0.1.0
 * "schema.js":http://github.com/akidee/schema.js
+* "sequelize @ 0.2.6":http://github.com/sdepold/sequelize/tree/0.2.6
+* "Socket.IO @ 0.5.3":http://github.com/LearnBoost/Socket.IO-node/tree/0.5.3
 
 h2. Node v0.1.104
 * "Alligator v0.3":http://github.com/mrohad/Alligator
