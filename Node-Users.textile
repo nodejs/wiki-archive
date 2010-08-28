@@ -328,6 +328,8 @@ h2. UTC+1 (+2)
 ** "GitHub":http://github.com/Floby
 * Vincent RABAH (France)
 ** "Blog":http://www.it-wars.com,"Twitter":http://twitter.com/itwars
+* Johan Euphrosine (proppy)
+** "GitHub":http://github.com/proppy, "Twitter":http://twitter.com/proppy, "Website":http://www.aminche.com/
 
 h2. UTC+2 (+3)
 
