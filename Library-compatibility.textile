@@ -45,6 +45,7 @@ h2. Node v0.2.0
 * "pintura v0.2.0":http://github.com/kriszyp/pintura/tree/v0.2.0
 * "promised-io v0.2.0":http://github.com/kriszyp/promised-io/tree/v0.2.0
 * "Rest-mongo v0.1.0":http://github.com/AF83/rest-mongo/tree/v0.1.0
+* "request v0.10.0":http://github.com/mikeal/node-utils/tree/master/request/
 * "schema.js":http://github.com/akidee/schema.js
 * "sequelize @ 0.2.6":http://github.com/sdepold/sequelize/tree/0.2.6
 * "Socket.IO @ 0.5.3":http://github.com/LearnBoost/Socket.IO-node/tree/0.5.3
