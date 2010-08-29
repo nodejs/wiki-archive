@@ -44,6 +44,7 @@ h2. Projects / Applications
 * "Trending Topics Client":http://github.com/fczuardi/ttc -- Command line tool to get trending topics from Twitter
 * "nTunes":http://github.com/TooTallNate/nTunes by TooTallNate -- A REST (HTTP) API for interacting with iTunes written in NodeJS.
 * "nTunesAnywhere":http://github.com/TooTallNate/nTunesAnywhere by TooTallNate -- A mobile WebApp to access your iTunes library from anywhere (using nTunes and jQTouch)!
+* "Node.js Interactive Shell":http://github.com/bancek/node-interactive-shell -- Interactive shell for Node.js
 
 
 
