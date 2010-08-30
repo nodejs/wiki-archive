@@ -330,6 +330,8 @@ h2. UTC+1 (+2)
 ** "Blog":http://www.it-wars.com,"Twitter":http://twitter.com/itwars
 * Johan Euphrosine (proppy)
 ** "GitHub":http://github.com/proppy, "Twitter":http://twitter.com/proppy, "Website":http://www.aminche.com/
+* Timo Derstappen (teemow)
+** "GitHub":http://github.com/teemow, "Twitter":http://twitter.com/teemow, "Website":http://teemow.com/
 
 h2. UTC+2 (+3)
 
