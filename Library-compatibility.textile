@@ -3,7 +3,7 @@ Node is under heavy development and its API changes rapidly. Instead of simply a
 h2. Node v0.2.0
 * "Parrot v0.2.0":http://github.com/ollym/parrot/tree/0.2.0
 * "joose v3.11.0":http://github.com/joose/joose
-* "Alligator v0.3":http://github.com/mrohad/Alligator
+* "Alligator v0.37":http://github.com/mrohad/Alligator
 * "commonjs-utils v0.2.0":http://github.com/kriszyp/commonjs-utils/tree/v0.2.0
 * "Express 1.0.0rc2":http://github.com/visionmedia/express/tree/1.0.0rc2
 * "Geddy v0.1.3":http://github.com/mde/geddy/tree/v0.1.3
