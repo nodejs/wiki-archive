@@ -345,6 +345,8 @@ h2. UTC+2 (+3)
 ** "Github":http://github.com/zmack, "Website":http://andascarygoat.com, "Twitter":http://twitter.com/monsieur_pickle
 * Peteris Krumins (pkrumins), Latvia
 ** "Github":http://github.com/pkrumins, "Blog":http://www.catonmat.net, "Twitter":http://twitter.com/pkrumins
+* Andris Reinman (andris9), Estonia
+** "Github":http://github.com/andris9, "Blog":http://www.andrisreinman.com, "Twitter":http://twitter.com/andris9
 
 h2. UTC+3 (+4)
 
