@@ -369,6 +369,8 @@ h2. UTC+5
 ** "Twitter":http://twitter.com/_shiv, "Github":http://github.com/shiv/, "Website":http://pietisticmonk.com/
 * Chandra Sekar (chandru_in)
 ** "Twitter":http://twitter.com/tuxychandru, "Github":http://github.com/tuxychandru/, "Website":http://tuxychandru.blogspot.com/
+* Rakshit Menpara (deltasquare4)
+** "Twitter":http://twitter.com/deltasquare4, "Github":http://github.com/deltasquare4/, "Website":http://www.rakshitmenpara.com/
 
 h2. UTC+6
 
