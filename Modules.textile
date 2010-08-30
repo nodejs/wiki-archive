@@ -155,6 +155,7 @@ h3(#templating). "Templating":#templating
 * "node.magic_dom":http://github.com/amix/node.magic_dom -- A DSL for building HTML in node.js, similar to Python's Stan
 * "stencil":http://github.com/thetalecrafter/stencil -- Renders asynchronous templates shared by server and browser
 * "strobe-templates":http://github.com/skid/strobe-templates -- An asynchronous templating engine with syntax like Django's
+* "nTPL":http://github.com/donnerjack13589/nTPL -- Fast & Native extendable template system
 
 h3(#build-and-deployment). "Build and Deployment":#build-and-deployment
 * "nodejs-autorestart":http://github.com/shimondoodkin/nodejs-autorestart -- It is a way to watch all .js files if they have been changed and to restart nodejs. It allows easy development and stable production.
