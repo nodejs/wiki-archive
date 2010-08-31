@@ -402,6 +402,8 @@ h2. UTC+9
 ** "Website":http://jedschmidt.com, "Twitter":http://twitter.com/jedschmidt, "GitHub":http://github.com/jed
 * Taegon Kim (taggon), South Korea
 ** "Twitter":http://twitter.com/taggon, "GitHub":http://github.com/taggon, "Blog":http://mygony.com
+* Michael(@tm@) Smith (mikew3c), Tokyo
+** "github":http://github.com/sideshowbarker, "twitter":http://twitter.com/sideshowbarker, "w3.org/mike":http://people.w3.org/mike/
 
 h2. UTC+10 or UTC+11
 
