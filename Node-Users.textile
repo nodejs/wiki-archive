@@ -193,6 +193,8 @@ h2. UTC-5 (-4)
 ** "Github":http://github.com/georgenava, "Twitter":http://twitter.com/georgenava, "Website":http://georgenava.appspot.com
 * Kieran Huggins (khug), Toronto, ON, Canada
 ** "GitHub":http://github.com/kieran ; "Twitter":http://twitter.com/kieran
+* Ryan Tenney (ryantenney), Rochester, NY, US / Ottawa, ON, Canada
+** "GitHub":http://github.com/ryantenney, "Twitter":http://twitter.com/ryantenney, "Website":http://ryan.10e.us
 
 h2. UTC-4 (-3)
 
