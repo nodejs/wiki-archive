@@ -107,7 +107,7 @@ h2. UTC-7 (-6)
 * Xavi Ramirez (Xavi), Boston, MA, US
 ** "GitHub":http://github.com/xavi-/ "Twitter":http://twitter.com/xavi_/, "Website":http://the-xavi.com
 * Rob Robbins (robrobbins), Phoenix, AZ, US
-** "GitHub":http://github.com/robrobbins/ "Twitter":http://twitter.com/RobRobbins/, "Website":http://robrobbins.info
+** "GitHub":http://github.com/robrobbins/, "Twitter":http://twitter.com/RobRobbins/, "Blog":http://robrobbins.info
 
 h2. UTC-6 (-5)
 * Tim Caswell (creationix), Dallas, TX, US
