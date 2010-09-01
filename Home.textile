@@ -50,6 +50,7 @@ h2. Projects / Applications
 
 
 h2. Articles
+* "Mastering Node":http://visionmedia.github.com/masteringnode/ - Open Source eBook by TJ Holowaychuk and the node community
 * "How to start develop with node js on linux from windows":http://wiki.github.com/shimondoodkin/nodejs-autorestart/how-to-start-develop-with-node-js-on-linux -- by Shimon Doodkin
 * "pubsub":http://www.nonblocking.io/2009/06/scalable-pubsub-with-nodejs.html -- by Malte Ubl
 * "Going Evented with Node.js":http://www.nakedjavascript.com/going-evented-with-nodejs -- Naked JavaScript
