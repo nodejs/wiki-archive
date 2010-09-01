@@ -179,6 +179,7 @@ h3(#security). "OpenSSL / Crypto / Hashing":#security
 * "hashlib":http://github.com/brainfucker/hashlib -- Fast hashing module, written in C/C++, supports: md4, md5, md6, sha, sha1, sha256, sha512
 * "brainfucker's node-base64":http://github.com/brainfucker/node-base64 -- C++ base64 lib
 * "pkrumins's node-base64":http://github.com/pkrumins/node-base64 -- C++ base64 lib that actually works
+* "amir's node-base62":http://github.com/amir/node-base62 -- C++ base62 lib for representing big numbers
 * "node.bcrypt.js":http://github.com/ncb000gt/node.bcrypt.js -- C/C++ bcrypt lib
 * "node-crypto":http://github.com/waveto/node-crypto -- OpenSSL based Hashing, Signing and Verifying
 * "node-oauth":http://github.com/ciaranj/node-oauth -- OAuth client (1 and 2)
