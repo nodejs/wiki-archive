@@ -80,6 +80,7 @@ h4(#middleware). "Middleware":#middleware
 * "dispatch":http://github.com/caolan/dispatch -- Regular expression URL dispatcher (Connect)
 * "quip":http://github.com/caolan/quip -- Chainable HTTP response API (Connect)
 * "cookie-sessions":http://github.com/caolan/cookie-sessions -- Secure cookie-based session store (Connect)
+* "protobuf_for_node":http://code.google.com/p/protobuf-for-node/ -- In-process JS-to-C++ communication using protocol buffer services
 
 h4(#web-frameworks-other). "Other":#web-frameworks-other
 * "Alligator":http://github.com/mrohad/Alligator -- Application Server on top of NodeJS (JSSP and SSJS support)
@@ -298,6 +299,7 @@ h4(#parsers-other). "Other Parsers":#parsers-other
 * "node-netstring":http://github.com/pgriess/node-netstring -- Read and write "netstrings":http://cr.yp.to/proto/netstrings.txt
 * "apricot":http://github.com/silentrob/Apricot -- Hpricot inspired clone, JSDom with Sizzle Selector engine and XUI for HTML augmentation
 * "node-strtok":http://github.com/pgriess/node-strtok -- A streaming tokenizer library for binary data
+* "protobuf_for_node":http://code.google.com/p/protobuf-for-node/ -- Protocol buffer parsing and serialization
 
 h3(#debugging). "Debugging / Console Utilities":#debugging
 * "cfdump.js":http://github.com/figital/cfdump.js -- a prettier way to dump your objects to a browser
