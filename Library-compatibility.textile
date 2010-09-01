@@ -52,6 +52,7 @@ h2. Node v0.2.0
 * "schema.js":http://github.com/akidee/schema.js
 * "sequelize @ 0.2.6":http://github.com/sdepold/sequelize/tree/0.2.6
 * "Socket.IO @ 0.5.3":http://github.com/LearnBoost/Socket.IO-node/tree/0.5.3
+* "squeeze @ 0.5.0":http://github.com/nikhilm/squeeze
 * "transporter v0.2.0":http://github.com/kriszyp/transporter/tree/v0.2.0
 * "tunguska v0.2.0":http://github.com/kriszyp/tunguska/tree/v0.2.0
 * "rql v0.2.0":http://github.com/kriszyp/rql/tree/v0.2.0
