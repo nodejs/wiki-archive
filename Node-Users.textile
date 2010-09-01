@@ -195,6 +195,8 @@ h2. UTC-5 (-4)
 ** "GitHub":http://github.com/kieran ; "Twitter":http://twitter.com/kieran
 * Ryan Tenney (ryantenney), Rochester, NY, US / Ottawa, ON, Canada
 ** "GitHub":http://github.com/ryantenney, "Twitter":http://twitter.com/ryantenney, "Website":http://ryan.10e.us
+* Bill Casarin (jb55), Waterloo, ON, Canada
+** "GitHub":http://github.com/jb55, "Twitter":http://twitter.com/jb55, "Website":http://jb55.com
 
 h2. UTC-4 (-3)
 
