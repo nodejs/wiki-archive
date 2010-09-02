@@ -301,6 +301,7 @@ h4(#parsers-other). "Other Parsers":#parsers-other
 * "apricot":http://github.com/silentrob/Apricot -- Hpricot inspired clone, JSDom with Sizzle Selector engine and XUI for HTML augmentation
 * "node-strtok":http://github.com/pgriess/node-strtok -- A streaming tokenizer library for binary data
 * "protobuf_for_node":http://code.google.com/p/protobuf-for-node/ -- Protocol buffer parsing and serialization
+* "node-markdown":http://github.com/andris9/node-markdown -- Easy to use Markdown parser
 
 h3(#debugging). "Debugging / Console Utilities":#debugging
 * "cfdump.js":http://github.com/figital/cfdump.js -- a prettier way to dump your objects to a browser
