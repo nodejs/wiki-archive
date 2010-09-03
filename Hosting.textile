@@ -11,3 +11,4 @@ h1. Hosting compatible with Node
 # "VPS.Net":https://www.vps.net/vps-signup
 # "Joyent":http://www.joyent.com/services/cloudhosting/
 # "DreamHostPS":http://www.dreamhost.com/hosting-vps.html - Need a total reconfiguration of virtual machines
+# "Webbynode":http://www.webbynode.com/ - "guide":http://blog.dtrejo.com/nodejs-for-server-newbs
