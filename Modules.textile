@@ -135,6 +135,7 @@ h3(#database). "Database":#database
 * "sequelize":http://github.com/sdepold/sequelize - An easy-to-use MySQL Object-Relational-Mapper (ORM) for Node.JS
 
 h3(#templating). "Templating":#templating
+* "jqtpl":http://github.com/kof/node-jqtpl -- A port of the new jQuery template engine.
 * "Parrot":http://github.com/ollym/parrot -- A lightning fast and lightweight templating engine for Node.js (Just 33 LOC!)
 * "nodejs-meta-templates":http://github.com/shimondoodkin/nodejs-meta-templates -- like php mixed with html, processed twice, 1st  static data, 2nd dynamic data.
 * "asyncEJS":http://github.com/cramforce/node-asyncEJS -- Asynchronous implementation of embedded JavaScript
