@@ -187,6 +187,7 @@ h3(#security). "OpenSSL / Crypto / Hashing":#security
 * "node-crypto":http://github.com/waveto/node-crypto -- OpenSSL based Hashing, Signing and Verifying
 * "node-oauth":http://github.com/ciaranj/node-oauth -- OAuth client (1 and 2)
 * "sasljs":http://github.com/nikhilm/sasljs -- "Gsasl":http://www.gnu.org/software/gsasl/ wrapper to performs server-side SASL authentication.
+* "Hash":http://github.com/michaelsbradleyjr/Hash -- md5 and sha256 methods implemented purely in JavaScript, same module can be used with node.js and in browsers, extensively tested against ASCII and UTF-8 input.
 
 h3(#tcp). "TCP / IP":#tcp
 * "node-httpclient":http://github.com/billywhizz/node-httpclient -- Node HTTP Client (gzip, https, cookies etc.)
