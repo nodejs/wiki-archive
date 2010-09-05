@@ -10,6 +10,7 @@ h1. Hosting compatible with Node
 # "Rackspace Cloud":http://www.rackspacecloud.com/
 # "VPS.Net":https://www.vps.net/vps-signup
 # "Joyent":http://www.joyent.com/services/cloudhosting/
+# "Joyent no.de":http://no.de - Closed Beta
 # "DreamHostPS":http://www.dreamhost.com/hosting-vps.html - Need a total reconfiguration of virtual machines
 # "Webbynode":http://www.webbynode.com/ - "guide":http://blog.dtrejo.com/nodejs-for-server-newbs
 
