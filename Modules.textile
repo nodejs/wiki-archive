@@ -306,7 +306,7 @@ h4(#parsers-other). "Other Parsers":#parsers-other
 * "node-strtok":http://github.com/pgriess/node-strtok -- A streaming tokenizer library for binary data
 * "protobuf_for_node":http://code.google.com/p/protobuf-for-node/ -- Protocol buffer parsing and serialization
 * "node-markdown":http://github.com/andris9/node-markdown -- Easy to use Markdown parser
-* "highlight":http://github.com/andris9/highlight -- Code highlighter for Markdown &lt;code&gt; blocks and for automatic language detection
+* "highlight":http://github.com/andris9/highlight -- Code highlighter for Markdown <code> blocks and for automatic language detection
 
 h3(#debugging). "Debugging / Console Utilities":#debugging
 * "cfdump.js":http://github.com/figital/cfdump.js -- a prettier way to dump your objects to a browser
@@ -358,6 +358,7 @@ h3(#other). "Other":#other
 * "dox":http://github.com/visionmedia/dox -- Documentation generator using JSdoc and markdown comments
 * "evented-twitter":http://github.com/polotek/evented-twitter -- asynchronous twitter client, supports streaming api
 * "express-chat":http://github.com/Tug/express-chat -- A chat application demo for testing node.js + MongoDB scalability
+* "express-contrib":http://github.com/visionmedia/express-contrib -- Express utilities that do not belong in core, but are still awesome :)
 * "ext":http://github.com/visionmedia/ext.js -- High quality / performance JavaScript extensions specifically for node.js
 * "flickrnode":http://github.com/ciaranj/flickrnode -- A library to enable use of the flickr api (not as complete as node-flickr, but supports auth)
 * "flickr-reflection":http://github.com/teemow/node-flickr-reflection -- A flickr client that uses their reflection API (supports auth)
