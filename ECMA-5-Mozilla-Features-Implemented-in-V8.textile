@@ -51,7 +51,7 @@ h2. Object.prototype
  * @isPrototypeOf(obj)@ - Returns true if @this@ is a prototype of the passed in object.
 
 h2. Function.prototype
- * @Function.prototype.bind(thisArg, arg1, arg2....)@ - Sets the value of 'this' inside the function to always be the value of thisArg when the function is called. Optionally, function arguments can be specified (arg1, arg2, etc) that will automatically be prepended to the argument list whenever this function is called.
+ * @Function.prototype.bind(thisArg, arg1, arg2....)@ - (buggy: only works according to specs if thisArg is object) Sets the value of 'this' inside the function to always be the value of thisArg when the function is called. Optionally, function arguments can be specified (arg1, arg2, etc) that will automatically be prepended to the argument list whenever this function is called.
 
 h2. JSON
  * @JSON.stringify(obj)@ - Takes any serializable object and returns the JSON representation as a string.
@@ -73,4 +73,4 @@ h2. Property Descriptor Defaults
 h1. Missing features
  * @Object.__noSuchMethod__@
  * "use strict"; syntax extension
- * @Function.prototype.call()@ and @.apply()@ behaviour for non-objects (in ES5, thisArg should be passed unchanged)
+ * @Function.prototype.call()@, @.apply()@ and @.bind()@ behaviour for non-objects (in ES5, thisArg should be passed unchanged)
