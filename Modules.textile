@@ -202,7 +202,7 @@ h3(#tcp). "TCP / IP":#tcp
 * "node-snpp":http://github.com/jsanders/node-snpp -- Node SNPP server library
 * "node_mdns":http://github.com/agnat/node_mdns -- mdns/zeroconf/bonjour service discovery add-on
 * "macaddr":http://github.com/carter-thaxton/macaddr -- Obtain MAC addresses for current machine from Node
-
+* "n3":http://github.com/andris9/n3 -- Experimental POP3 server to serve arbritary data to e-mail client software
 
 h3(#rpc). "RPC":#rpc
 * "bertrpc":http://github.com/rtomayko/node-bertrpc
