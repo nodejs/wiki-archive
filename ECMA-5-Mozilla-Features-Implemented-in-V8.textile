@@ -73,3 +73,4 @@ h2. Property Descriptor Defaults
 h1. Missing features
  * @Object.__noSuchMethod__@
  * "use strict"; syntax extension
+ * Function.prototype.call() and .apply() behaviour for non-objects (in ES5, thisArg should be passed unchanged)
