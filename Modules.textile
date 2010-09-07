@@ -451,7 +451,7 @@ h3(#other). "Other":#other
 * "node-proxy":http://github.com/brickysam26/node-proxy -- Object Overloading and catch-all property interceptors using "Harmony Proxies":http://wiki.ecmascript.org/doku.php?id=harmony:proxies
 * "node-ldapauth":http://github.com/joewalnes/node-ldapauth -- Authenticates users against an LDAP server
 * "nodejs-clone-extend":http://github.com/shimondoodkin/nodejs-clone-extend -- a versatile clone and extend like underline.js, to clone JavaScript objects, enables DRY.
-* "Search":http://github.com/talltyler/Search -- A full text search
+* "node-search":http://github.com/talltyler/node-search -- An asynchronous full text search engine for node
 * "Sibilant":http://github.com/jbr/sibilant -- A lispy language that compiles to js
 
 h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":#commonjs-compat
