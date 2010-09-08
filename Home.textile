@@ -46,6 +46,7 @@ h2. Projects / Applications
 * "nTunesAnywhere":http://github.com/TooTallNate/nTunesAnywhere by TooTallNate -- A mobile WebApp to access your iTunes library from anywhere (using nTunes and jQTouch)!
 * "Node.js Interactive Shell":http://github.com/bancek/node-interactive-shell -- Interactive shell for Node.js
 * "Alligator":http://github.com/mrohad/Alligator -- Application Server on top of NodeJS (JSSP and SSJS support)
+* "node-build":http://github.com/linkitprojects/node-build -- ant like build tool for nodejs without the xml hassle 
 
 
 
@@ -104,3 +105,4 @@ h2. Companies using node
 * "NewsBasis":http://newsbasis.com (not yet launched) -- Web crawler and async work in node
 * "ipowerhouse":http://www.ipowerhouse.com - Focused on haXe/Node.js  game dev; first all haxe/node bingo product.
 * "clickdummy":http://clickdummy.net - Fast prototyping for designers and dummies
+* "LinkiT projects":http://linkit-projects.nl - Use nodejs for developing javascript sites. (http://yalia.nl/
