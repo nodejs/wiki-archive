@@ -151,6 +151,7 @@ h3(#templating). "Templating":#templating
 * "Mu (Mustache)":http://github.com/raycmorgan/Mu -- A Mustache engine that compiles templates into very fast rendering functions. Also streams the rendering process.
 * "node-template":http://github.com/graphnode/node-template -- Fast and light cached templates.
 * "sass.js":http://github.com/visionmedia/sass.js -- Parses Sass templates and renders css.
+* "scss-js":http://github.com/bmavity/scss-js -- Parses SCSS templates and renders css.
 * "template.node.js":http://github.com/jazzychad/template.node.js -- A light, fast, cached template module for node.
 * "tmpl-node":http://github.com/jed/tmpl-node -- a feature-rich template module for node.js
 * "jsdom":http://github.com/tmpvar/jsdom -- pure js implementation of the dom level 1 with some browser augmentation. Level 2 and 3 are being considered.
@@ -304,6 +305,7 @@ h4(#parsers-other). "Other Parsers":#parsers-other
 * "node-netstring":http://github.com/pgriess/node-netstring -- Read and write "netstrings":http://cr.yp.to/proto/netstrings.txt
 * "apricot":http://github.com/silentrob/Apricot -- Hpricot inspired clone, JSDom with Sizzle Selector engine and XUI for HTML augmentation
 * "node-strtok":http://github.com/pgriess/node-strtok -- A streaming tokenizer library for binary data
+* "ometa-js":http://github.com/bmavity/ometa-js -- A JavaScript OMeta implementation
 * "protobuf_for_node":http://code.google.com/p/protobuf-for-node/ -- Protocol buffer parsing and serialization
 * "node-markdown":http://github.com/andris9/node-markdown -- Easy to use Markdown parser
 * "highlight":http://github.com/andris9/highlight -- Code highlighter for Markdown <code> blocks and for automatic language detection
