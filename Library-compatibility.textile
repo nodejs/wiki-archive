@@ -53,7 +53,7 @@ h2. Node v0.2.0
 * "Rest-mongo v0.1.0":http://github.com/AF83/rest-mongo/tree/v0.1.0
 * "request v0.10.0":http://github.com/mikeal/node-utils/tree/master/request/
 * "schema.js":http://github.com/akidee/schema.js
-* "scss":http://github.com/bmavity/scss-js/tree/semver
+* "scss v0.1.0":http://github.com/bmavity/scss-js/tree/semver
 * "sequelize @ 0.2.6":http://github.com/sdepold/sequelize/tree/0.2.6
 * "Socket.IO @ 0.5.3":http://github.com/LearnBoost/Socket.IO-node/tree/0.5.3
 * "squeeze @ 0.5.0":http://github.com/nikhilm/squeeze
