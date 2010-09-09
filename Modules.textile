@@ -87,6 +87,7 @@ h4(#web-frameworks-other). "Other":#web-frameworks-other
 * "Alligator":http://github.com/mrohad/Alligator -- Application Server on top of NodeJS (JSSP and SSJS support)
 * "Nitrode":http://github.com/ollym/nitrode -- A lightweight, super fast HTTP 1.1 with internal JS API
 * "Connect":http://github.com/senchalabs/connect -- Middleware framework packed with high quality / performance middleware
+* "Spark":http://github.com/senchalabs/spark -- A command-line tool used to manage node server processes
 * "node-elf-logger":http://github.com/TooTallNate/node-elf-logger -- Configurable HTTP logging library following the "W3C Extended Log File Format specification":http://www.w3.org/TR/WD-logfile.html
 * "JSGI-Node":http://github.com/kriszyp/jsgi-node/ -- Asynchronous JSGI 0.3 Adapter for Node, for standards-based middleware
 * "node-mime":http://github.com/bentomas/node-mime -- Utility module for mime-type lookups
