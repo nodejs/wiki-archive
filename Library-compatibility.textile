@@ -64,6 +64,7 @@ h2. Node v0.2.0
 * "protobuf_for_node @ 5803427b8f":http://code.google.com/p/protobuf-for-node/
 * "socket-logger v0.2.0":http://github.com/saikat/socket-logger/
 * "ya-csv v0.1.4":http://github.com/koles/ya-csv/
+* "protos v0.1.1":http://github.com/dulac/protos
 
 h2. Node v0.1.104
 * "Alligator v0.3":http://github.com/mrohad/Alligator
