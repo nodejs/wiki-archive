@@ -65,6 +65,7 @@ h2. Node v0.2.0
 * "socket-logger v0.2.0":http://github.com/saikat/socket-logger/
 * "ya-csv v0.1.4":http://github.com/koles/ya-csv/
 * "protos v0.1.1":http://github.com/dulac/protos
+* "gzip":http://github.com/waveto/node-compress
 
 h2. Node v0.1.104
 * "Alligator v0.3":http://github.com/mrohad/Alligator
