@@ -385,6 +385,7 @@ h3(#other). "Other":#other
 * "node-amqp":http://github.com/ry/node-amqp -- AMQP client
 * "node-amqp":http://github.com/xaviershay/node-amqp -- Basic AMQP client
 * "node-asterisk":http://github.com/mscdex/node-asterisk -- Listen to events in realtime and issue commands on Asterisk servers
+* "node-bitly":http://githib.com/tanepiper/node-bitly -- A bit.ly API library for node.js - provides URL shortening/expanding.  Features full API.
 * "node-bittorrent":http://github.com/WizKid/node-bittorrent -- A library for handling the bittorrent protocol
 * "node-chat":http://github.com/scottgonzalez/node-chat -- A simple web-based chat server
 * "node-continuables":http://github.com/bentomas/node-continuables -- A library making dealing with asynchronous code easier
