@@ -75,6 +75,7 @@ h2. Companies using node
 * "Heroku":http://blog.heroku.com/archives/2010/4/28/node_js_support_experimental/ Dead simple Node deployment for you, and internal tools for us.
 * "Academia.edu":http://www.academia.edu/ - uses node for background data processing
 * "Adcloud":http://adcloud.com/ -- Javascript Adserver on EC2
+* "AdGear":http://adgear.com/ -- Real-time advertising reporting
 * "Bocoup":http://bocoup.com
 * "BrandedCode":http://brandedcode.com
 * "Chompin":http://chompin.com - discover new music, mobile app, uses node for the entire back end api
