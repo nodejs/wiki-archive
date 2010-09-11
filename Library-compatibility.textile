@@ -2,6 +2,7 @@ Node is under heavy development and its API changes rapidly. Instead of simply a
 
 h2. Node v0.2.1
 * "schema.js 0.1a":http://github.com/akidee/schema.js
+* "solder v0.0.1":http://github.com/brettstimmerman/solder
 
 h2. Node v0.2.0
 * "Grasshopper v0.2.3":http://github.com/tuxychandru/grasshopper/tree/0.2.3
