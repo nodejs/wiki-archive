@@ -352,7 +352,7 @@ h3(#graphics). "Graphics":#graphics
 * "node-graphviz":http://github.com/glejeune/node-graphviz -- GraphViz for node
 
 h3(#payment-gateways). "Payment Gateways":#payment-gateways
-
+* "paynode":http://github.com/jamescarr/paynode - library for integrating with various payment gateways
 * "braintree":http://github.com/braintree/braintree_node -- library for integrating with Braintree
 
 h3(#other). "Other":#other
