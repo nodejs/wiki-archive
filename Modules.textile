@@ -4,7 +4,7 @@ When you add a framework to this page, have a look at how others have done so, i
 
 If you see a module without a description, feel free to edit the page and add it in, any contributions are appreciated.
 
-When you edit this list, also add your module to "http://wiki.github.com/ry/node/library-compatibility":http://wiki.github.com/ry/node/library-compatibility so that users will know which versions of Node it was tested with.
+When you edit this list, also add your module to [[library-compatibility]] so that users will know which versions of Node it was tested with.
 
 h2(#modules). "Modules":#modules
 
