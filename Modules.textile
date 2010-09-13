@@ -39,7 +39,6 @@ h4(#web-frameworks-micro). "Microframeworks":#web-frameworks-micro
 * "Picard":http://github.com/dantebronto/picard
 * "simplex":http://github.com/mshakhan/simplex (October 2009, node.JS 0.1.14)
 * "Pipe-Layer":http://cgit.voodoowarez.com/pipe-layer/ -- Asynchronous HTTP router.
-* "Meryl":http://github.com/coffeemate/meryl -- Minimalistic web framework!
 
 h4(#web-frameworks-full). "Frameworks":#web-frameworks-full
 * "broke":http://github.com/brokenseal/broke/ -- A porting of the most famous "Django Web Framework":http://www.djangoproject.com/
@@ -52,6 +51,7 @@ h4(#web-frameworks-full). "Frameworks":#web-frameworks-full
 * "jimi":http://github.com/colingourlay/jimi -- A framework for writing modular web applications in node.js ("tutorial":http://wiki.github.com/colingourlay/jimi/tutorial-hello-world)
 * "js.io":http://github.com/mcarter/js.io -- Javascript Networking Library for building real-time web applications. Also see "JS.io":http://js.io
 * "josi":http://github.com/thatismatt/josi -- An MVC web framework that's easy to pick up but doesn't get in the way. Also see "here":http://thatismatt.github.com/josi/.
+* "Meryl":http://github.com/coffeemate/meryl -- Minimalist web framework!
 * "nodemachine":http://github.com/tautologistics/nodemachine -- A port of WebMachine to Node.js
 * "pintura":http://github.com/kriszyp/pintura -- REST-based web framework/"middleware":http://github.com/kriszyp/pintura/tree/master/lib/jsgi/ stack built for Ajax-style "JSON-driven applications":http://www.sitepen.com/blog/2010/01/22/introducing-pintura/.
 
