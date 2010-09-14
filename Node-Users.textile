@@ -201,6 +201,8 @@ h2. UTC-5 (-4)
 ** "GitHub":http://github.com/ryantenney, "Twitter":http://twitter.com/ryantenney, "Website":http://ryan.10e.us
 * Bill Casarin (jb55), Waterloo, ON, Canada
 ** "GitHub":http://github.com/jb55, "Twitter":http://twitter.com/jb55, "Website":http://jb55.com
+* Justin Campbell, Philadelphia, PA
+** "GitHub":http://github.com/JustinCampbell, "Twitter":http://twitter.com/JustinCampbell, "Website":http://justincampbell.me
 
 h2. UTC-4 (-3)
 
