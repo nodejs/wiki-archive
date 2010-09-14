@@ -217,6 +217,8 @@ h2. UTC-3 (-2)
 ** "Google Profile":http://www.google.com/profiles/emilio.astarita
 * Federico Romero, Montevideo, Uruguay
 ** "Google Profile":http://www.google.com/profiles/federomero
+* Murilo Santana
+** "Twitter":http://twitter.com/mvrilo, "Google Profile":http://www.google.com/profiles/mvrilo
 
 
 h2. UTC+0 (0)
