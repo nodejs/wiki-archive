@@ -7,6 +7,7 @@ h2. Node v0.2.1
 * "Hash v0.06":http://github.com/michaelsbradleyjr/Hash
 
 h2. Node v0.2.0
+* "tumblrrr v0.1.1":http://github.com/mvrilo/tumblrrr
 * "choreographer 0.2.0":http://github.com/laughinghan/choreographer
 * "Grasshopper v0.2.3":http://github.com/tuxychandru/grasshopper/tree/0.2.3
 * "Parrot v0.2.0":http://github.com/ollym/parrot/tree/0.2.0
