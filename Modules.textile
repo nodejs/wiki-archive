@@ -208,6 +208,7 @@ h3(#tcp). "TCP / IP":#tcp
 * "node_mdns":http://github.com/agnat/node_mdns -- mdns/zeroconf/bonjour service discovery add-on
 * "macaddr":http://github.com/carter-thaxton/macaddr -- Obtain MAC addresses for current machine from Node
 * "n3":http://github.com/andris9/n3 -- Experimental POP3 server to send arbitrary data to e-mail clients (including e-mails)
+* "node-radio-stream":http://github.com/TooTallNate/node-radio-stream -- An interface for connecting to, parsing metadata, and reading from SHOUTcast/Icecast radio streams.
 
 h3(#rpc). "RPC":#rpc
 * "bertrpc":http://github.com/rtomayko/node-bertrpc
