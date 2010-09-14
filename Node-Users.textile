@@ -396,6 +396,8 @@ h2. UTC+7
 ** "Twitter":http://twitter.com/xinuc, "Github":http://github.com/xinuc/, "Website":http://xinuc.org/
 * Chakrit Wichian (chakrit), Thailand
 ** "Twitter":http://twitter.com/chakrit, "Github":http://github.com/chakrit/, "Website":http://chakrit.net/
+* Clément Nodet (clement), Vietnam
+** "Github":http://github.com/clement/, "Website":http://clementnodet.com/
 
 h2. UTC+8
 * Vanilla Hsu(vanillahsu),Taiwan
