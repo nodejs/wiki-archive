@@ -342,6 +342,8 @@ h2. UTC+1 (+2)
 ** "GitHub":http://github.com/proppy, "Twitter":http://twitter.com/proppy, "Website":http://www.aminche.com/
 * Timo Derstappen (teemow)
 ** "GitHub":http://github.com/teemow, "Twitter":http://twitter.com/teemow, "Website":http://teemow.com/
+* Jakub Nešetřil (zzen) - Prague
+** "GitHub":http://github.com/zzen, "Twitter":http://twitter.com/jakubnesetril
 
 h2. UTC+2 (+3)
 
