@@ -51,7 +51,7 @@ h2. Object.prototype
  * @isPrototypeOf(obj)@ - Returns true if @this@ is a prototype of the passed in object.
 
 h2. Function.prototype
- * @Function.prototype.bind(thisArg, arg1, arg2....)@ - Sets the value of 'this' inside the function to always be the value of thisArg when the function is called. Optionally, function arguments can be specified (arg1, arg2, etc) that will automatically be prepended to the argument list whenever this function is called.
+ * @bind(thisArg[, arg1[, argN]])@ - Sets the value of 'this' inside the function to always be the value of thisArg when the function is called. Optionally, function arguments can be specified (arg1, arg2, etc) that will automatically be prepended to the argument list whenever this function is called.
 
 h2. JSON
  * @JSON.stringify(obj)@ - Takes any serializable object and returns the JSON representation as a string.
