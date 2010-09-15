@@ -348,6 +348,8 @@ h2. UTC+1 (+2)
 ** "GitHub":http://github.com/teemow, "Twitter":http://twitter.com/teemow, "Website":http://teemow.com/
 * Jakub Nešetřil (zzen) - Prague
 ** "GitHub":http://github.com/zzen, "Twitter":http://twitter.com/jakubnesetril
+* Zef Hemel (The Netherlands)
+** "Website":http://zef.me, "Github":http://github.com/zefhemel, "Twitter":http://twitter.com/zef
 
 h2. UTC+2 (+3)
 
