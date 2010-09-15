@@ -88,6 +88,7 @@ h2. Companies using node
 * "Fictorial":http://fictorial.com
 * "Fostle":http://fostle.com/
 * "Joyent":http://www.joyent.com/
+* "LearnBoost":http://www.learnboost.com/
 * "Medium":http://thisismedium.com
 * "MyBrands":http://www.mybrands.de -- web-tracker and product recommendations (node + couchdb)
 * "Next Feature":http://www.nextfeature.com
