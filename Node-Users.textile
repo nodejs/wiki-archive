@@ -203,6 +203,9 @@ h2. UTC-5 (-4)
 ** "GitHub":http://github.com/jb55, "Twitter":http://twitter.com/jb55, "Website":http://jb55.com
 * Justin Campbell, Philadelphia, PA
 ** "GitHub":http://github.com/JustinCampbell, "Twitter":http://twitter.com/JustinCampbell, "Website":http://justincampbell.me
+* André Milton, Montreal, QC, Canada
+** "GitHub":http://github.com/Wred, "Twitter":http://twitter.com/mediafresh, "Website":http://mediafresh.net/
+
 
 h2. UTC-4 (-3)
 
