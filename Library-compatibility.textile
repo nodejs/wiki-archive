@@ -6,6 +6,7 @@ h2. Node v0.2.1
 * "solder v0.0.1":http://github.com/brettstimmerman/solder
 * "Hash v0.06":http://github.com/michaelsbradleyjr/Hash
 * "node-async-testing v0.3.2":http://github.com/bentomas/node-async-testing
+* "Grasshopper v0.2.4":http://github.com/tuxychandru/grasshopper/tree/0.2.4
 
 h2. Node v0.2.0
 * "tumblrrr v0.1.1":http://github.com/mvrilo/tumblrrr
