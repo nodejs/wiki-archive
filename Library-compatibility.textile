@@ -7,6 +7,7 @@ h2. Node v0.2.1
 * "Hash v0.06":http://github.com/michaelsbradleyjr/Hash
 * "node-async-testing v0.3.2":http://github.com/bentomas/node-async-testing
 * "Grasshopper v0.2.4":http://github.com/tuxychandru/grasshopper/tree/0.2.4
+* "node-mysql-libmysqlclient v0.0.9":http://github.com/Sannis/node-mysql-libmysqlclient/tree/v0.0.9
 
 h2. Node v0.2.0
 * "tumblrrr v0.1.1":http://github.com/mvrilo/tumblrrr
