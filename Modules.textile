@@ -238,6 +238,7 @@ h3(#class-system). "Class systems":#class-system
 * "joose":http://github.com/joose/joose -- complete modern class system for JavaScript, based on concepts from many programming languages
 
 h3(#testing). "Testing / Spec Frameworks":#testing
+* "node-qunit":http://github.com/kof/node-qunit -- QUnit port for nodejs. Very simple API, async testing, good tested testing framework.
 * "sinon":http://github.com/cjohansen/sinon.js -- JavaScript test spies, stubs and mocks for Node.js and the browser
 * "espionage":http://github.com/smtlaissezfaire/espionage -- A mock/stub framework using the test spy pattern.
 * "expresso":http://github.com/visionmedia/expresso -- TDD framework by the author of "JSpec":http://jspec.info
