@@ -353,6 +353,8 @@ h2. UTC+1 (+2)
 ** "GitHub":http://github.com/zzen, "Twitter":http://twitter.com/jakubnesetril
 * Zef Hemel (The Netherlands)
 ** "Website":http://zef.me, "Github":http://github.com/zefhemel, "Twitter":http://twitter.com/zef
+* Sven Pfleiderer (Germany)
+** "Website":http://blog.roothausen.de, "Github":http://github.com/pfleidi, "Twitter":http://twitter.com/pfleidi
 
 h2. UTC+2 (+3)
 
