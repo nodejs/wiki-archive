@@ -231,6 +231,8 @@ h2. UTC+0 (0)
 
 h2. UTC+0 (+1)
 
+* Jerome Etienne (jetienne)
+** "Website":http://jetienne.com, "Github":http://github.com/jeromeetienne, "Twitter":http://twitter.com/jerome_etienne
 * Caolan McMahon (caolanm)
 ** "Website":http://caolanmcmahon.com, "Github":http://github.com/caolan, "Twitter":http://twitter.com/caolan
 * Tav (tav)
@@ -353,8 +355,6 @@ h2. UTC+1 (+2)
 ** "GitHub":http://github.com/zzen, "Twitter":http://twitter.com/jakubnesetril
 * Zef Hemel (The Netherlands)
 ** "Website":http://zef.me, "Github":http://github.com/zefhemel, "Twitter":http://twitter.com/zef
-* Sven Pfleiderer (Germany)
-** "Website":http://blog.roothausen.de, "Github":http://github.com/pfleidi, "Twitter":http://twitter.com/pfleidi
 
 h2. UTC+2 (+3)
 
