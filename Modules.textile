@@ -134,6 +134,7 @@ h3(#database). "Database":#database
 * "redis2json":http://github.com/igo/redis2json/ -- Easily loads data from Redis into structured JS object
 * "nohm":http://github.com/maritz/nohm -- Redis object relational mapper (ORM)
 * "riak-js":http://github.com/frank06/riak-js -- Riak Javascript client (works on node v0.1.30+)
+* "node_redis":http://github.com/mranney/node_redis/ -- High performance Redis client
 * "node-tokyocabinet":http://github.com/edvakf/node-tokyocabinet -- Tokyo Cabinet binding
 * "node-migrate":http://github.com/rsandor/node-migrate -- Migrate - A database agnostic migration system for Node.js
 * "sequelize":http://github.com/sdepold/sequelize - An easy-to-use MySQL Object-Relational-Mapper (ORM) for Node.JS
