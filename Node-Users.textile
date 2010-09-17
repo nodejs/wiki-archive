@@ -92,6 +92,8 @@ h2. UTC-8
 ** "Github":http://github.com/techwraith, "Twitter":http://twitter.com/techwraith, "Website":http://techwraith.com
 * Robert Doiel (USC Web Services), Los Angeles, CA, US
 ** "Github":http://github.com/rsdoiel, "Twitter":http://twitter.com/rsdoiel
+* Nathan Rajlich (TooTallNate), San Rafael, CA, US
+** "Github":http://github.com/TooTallNate, "Website":http://tootallnate.net
 
 h2. UTC-7 (-6)
 * Michaeljohn Clement (inimino)
