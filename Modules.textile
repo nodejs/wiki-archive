@@ -30,6 +30,7 @@ h4(#web-frameworks-static). "Static file servers":#web-frameworks-static
 * "oui":http://github.com/rsms/oui -- Web service server with great static files support
 * "static":http://github.com/kriszyp/pintura/blob/master/lib/jsgi/static.js - Static file handler using asynchronous streaming as JSGI middleware
 * "protos":http://github.com/dulac/protos - Static file server with JSON configuration, similar to Apache
+* "Prick":http://github.com/SingAlong/Prick - tiny web framework
 
 h4(#web-frameworks-micro). "Microframeworks":#web-frameworks-micro
 * "(fab)":http://www.fabjs.org -- A modular and concise async web framework for node.js
