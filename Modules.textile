@@ -257,7 +257,6 @@ h3(#testing). "Testing / Spec Frameworks":#testing
 * "spectacular":http://github.com/jcrosby/spectacular -- for testing
 * "Speks":http://github.com/ecavazos/speks -- A specification framework for your node-code
 * "Vows":http://github.com/cloudhead/vows -- asynchronous behaviour-driven development for node.js
-* "Willful":http://github.com/anglicangeek/willful -- a simple spec'ing library for Node.
 * "Gently":http://github.com/felixge/node-gently -- A node.js module that helps with mocking and behavior verification.
 * "patr":http://github.com/kriszyp/patr -- Promise-based asynchronous test runner: lightweight & simple.
 
