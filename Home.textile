@@ -71,6 +71,10 @@ h2. Talks
 * "Node.js at JSConf.eu 2009":http://jsconf.eu/2009/video_nodejs_by_ryan_dahl.html -- by Ryan Dahl
 * "Node.js at JSConf.us 2010":http://nodejs.org/jsconf2010.pdf -- by Ryan Dahl
 * "Running YUI3 on Node.js":http://www.slideshare.net/apmoore/running-yui-3-on-nodejs -- by Adam Moore
+* "What Does Node Need From Us?":http://www.slideshare.net/creationix/what-does-node-need-from-us -- By Tim Caswell
+* "SenchaLabs Connect & Express":http://www.slideshare.net/creationix/senchalabs-connect-express -- By Tim Caswell
+* "Real Time Web with Node":http://www.slideshare.net/creationix/real-time-web-with-node -- By Tim Caswell
+* "Node Powered Mobile":http://www.slideshare.net/creationix/node-powered-mobile -- By Tim Caswell
 
 h2. Companies using node
 * "Heroku":http://blog.heroku.com/archives/2010/4/28/node_js_support_experimental/ Dead simple Node deployment for you, and internal tools for us.
