@@ -39,9 +39,9 @@ h2. UTC-8
 * Marcus Westin
 ** "Github":http://github.com/marcuswestin, "Twitter":http://twitter.com/marcuswestin, "Website":http://marcuswestin.com
 * Josh Hundley (hundleyj), Portland, OR, US
-** "Github":http://github.com/jtoy, "Twitter":http://twitter.com/jtoy, "Website":http://jtoy.net
-* Jason Toy, San Francisco,CA, US
 ** "GitHub":http://github.com/hundleyj, "Twitter":http://twitter.com/oJshua, "Website":http://joshhundley.com
+* Jason Toy, San Francisco,CA, US
+** "Github":http://github.com/jtoy, "Twitter":http://twitter.com/jtoy, "Website":http://jtoy.net
 * Guillermo Rauch
 ** "Github":http://github.com/Guille, "Twitter":http://twitter.com/rauchg, "Website":http://devthought.com
 * John Reeves (vectorjohn), Portland, OR, US
