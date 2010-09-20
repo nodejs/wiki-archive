@@ -47,6 +47,7 @@ h2. Projects / Applications
 * "Node.js Interactive Shell":http://github.com/bancek/node-interactive-shell -- Interactive shell for Node.js
 * "Alligator":http://github.com/mrohad/Alligator -- Application Server on top of NodeJS (JSSP and SSJS support)
 * "node-build":http://github.com/linkitprojects/node-build -- ant like build tool for nodejs without the xml hassle 
+* "scriptable-node-irc-bot":http://github.com/haxd/scriptable-node-irc-bot -- Scriptable Node IRC Bot
 
 
 
