@@ -56,6 +56,7 @@ h4(#web-frameworks-full). "Frameworks":#web-frameworks-full
 * "Meryl":http://github.com/coffeemate/meryl -- Minimalist web framework! See "homepage":http://coffeemate.github.com/meryl
 * "nodemachine":http://github.com/tautologistics/nodemachine -- A port of WebMachine to Node.js
 * "pintura":http://github.com/kriszyp/pintura -- REST-based web framework/"middleware":http://github.com/kriszyp/pintura/tree/master/lib/jsgi/ stack built for Ajax-style "JSON-driven applications":http://www.sitepen.com/blog/2010/01/22/introducing-pintura/.
+* "spludo":http://spludo.com -- A full featured web framework. Fully Async + MVC with DI, AOP and Storages. ("tutorial":http://docsforit.spludo.com/ + "user-guide":http://spludo.com/user-guide/full/)
 
 h4(#middleware). "Middleware":#middleware
 * "cascade":http://github.com/kriszyp/pintura/blob/master/lib/jsgi/cascade.js -- Sequentially attempts multiple middleware apps (JSGI).
