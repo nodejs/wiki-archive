@@ -358,6 +358,7 @@ h3(#graphics). "Graphics":#graphics
 h3(#payment-gateways). "Payment Gateways":#payment-gateways
 * "paynode":http://github.com/jamescarr/paynode - library for integrating with various payment gateways
 * "braintree":http://github.com/braintree/braintree_node -- library for integrating with Braintree
+* "node-fortumo":http://github.com/andris9/node-fortumo -- bindings for Fortumo SMS payment API
 
 h3(#other). "Other":#other
 * "behaviors":http://github.com/caolan/behaviors -- A simple way to check a module's exports, useful for 3rd party plugins and extensions
