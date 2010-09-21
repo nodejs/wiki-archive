@@ -413,6 +413,7 @@ h3(#other). "Other":#other
 * "node-hammer":http://github.com/grippy/node-hammer -- Simple load testing tool similar to AB but with less features.
 * "node-hash-ring":http://github.com/bnoguchi/node-hash-ring -- A consistent hashing module
 * "node-maxmind":http://github.com/gyordanov/node-maxmind — maxmind/geoip module (using libgeoip)
+* "node-memstream":http://github.com/jfd/node-memstream — MemStream is a memory-based Stream implementation
 * "node-parallel":http://github.com/Tim-Smart/node-parallel -- Create tasks in node.js that run in parallel, or sequences that run tasks one after another.
 * "node_pcap":http://github.com/mranney/node_pcap -- Network packet capture and analysis using libpcap
 * "node-promise":http://github.com/kriszyp/node-promise -- Robust promises for node.js, includes promise utilities and promise-based I/O library
