@@ -169,7 +169,7 @@ h3(#templating). "Templating":#templating
 * "stencil":http://github.com/thetalecrafter/stencil -- Renders asynchronous templates shared by server and browser
 * "strobe-templates":http://github.com/skid/strobe-templates -- An asynchronous templating engine with syntax like Django's
 * "nTPL":http://github.com/donnerjack13589/nTPL -- Fast & Native extendable template system
-* "CoffeeKup":http://github.com/mauricemach/coffeekup -- Markup as CoffeeScript. (sep 2010, node 0.2.0)
+* "CoffeeKup":http://github.com/mauricemach/coffeekup -- Markup as CoffeeScript. (node 0.2.0 - 0.2.2)
 
 h3(#build-and-deployment). "Build and Deployment":#build-and-deployment
 * "nodejs-autorestart":http://github.com/shimondoodkin/nodejs-autorestart -- It is a way to watch all .js files if they have been changed and to restart nodejs. It allows easy development and stable production.
