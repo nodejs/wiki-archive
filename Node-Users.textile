@@ -377,6 +377,8 @@ h2. UTC+2 (+3)
 ** "Github":http://github.com/pkrumins, "Blog":http://www.catonmat.net, "Twitter":http://twitter.com/pkrumins
 * Andris Reinman (andris9), Estonia
 ** "Github":http://github.com/andris9, "Blog":http://www.andrisreinman.com, "Twitter":http://twitter.com/andris9
+* Berker Peksag (berkerpeksag), Turkey
+** "Github":http://github.com/berkerpeksag, "Blog":http://www.berkerpeksag.com, "Twitter":http://twitter.com/berkerpeksag
 
 h2. UTC+3 (+4)
 
