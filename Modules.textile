@@ -50,7 +50,7 @@ h4(#web-frameworks-full). "Frameworks":#web-frameworks-full
 * "Express":http://github.com/visionmedia/express/tree/master -- A robust feature rich web development framework **inspired by Sinatra**
 * "Grasshopper":http://github.com/tuxychandru/grasshopper/tree/master -- A simple MVC framework for **REST**-ful applications, with integrated **dependency injection**.
 * "Geddy":http://github.com/mde/geddy/tree/master -- A hackable Web-app development framework similar to Merb/Rails/Pylons/Django
-* "jimi":http://github.com/colingourlay/jimi -- A framework for writing modular web applications in node.js ("tutorial":http://wiki.github.com/colingourlay/jimi/tutorial-hello-world)
+* "jimi":http://github.com/colingourlay/jimi -- A framework for writing modular web applications in node.js ("tutorial":http://github.com/colingourlay/jimi/wiki/Tutorial:-%22Hello-World%22)
 * "js.io":http://github.com/mcarter/js.io -- Javascript Networking Library for building real-time web applications. Also see "JS.io":http://js.io
 * "josi":http://github.com/thatismatt/josi -- An MVC web framework that's easy to pick up but doesn't get in the way. Also see "here":http://thatismatt.github.com/josi/.
 * "Meryl":http://github.com/coffeemate/meryl -- Minimalist web framework! See "homepage":http://coffeemate.github.com/meryl
