@@ -234,7 +234,7 @@ h2. UTC+0 (0)
 
 h2. UTC+0 (+1)
 
-* Kiril Piskunov (ciudilo)
+* Kiril Piskunov (ciudilo), London
 ** "Github":http://github.com/ciudilo, "Twitter":http://twitter.com/ciudilo
 * Caolan McMahon (caolanm)
 ** "Website":http://caolanmcmahon.com, "Github":http://github.com/caolan, "Twitter":http://twitter.com/caolan
