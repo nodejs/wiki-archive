@@ -418,6 +418,8 @@ h2. UTC+7
 ** "Twitter":http://twitter.com/chakrit, "Github":http://github.com/chakrit/, "Website":http://chakrit.net/
 * Clément Nodet (clement), Vietnam
 ** "Github":http://github.com/clement/, "Website":http://clementnodet.com/
+* Dhi Aurrahman (dio), Indonesia
+** "Twitter":http://twitter.com/diorahman, "Github":http://github.com/dio/, "Website":http://dio.posterous.com
 
 h2. UTC+8
 * Vanilla Hsu(vanillahsu),Taiwan
