@@ -170,6 +170,7 @@ h3(#templating). "Templating":#templating
 * "strobe-templates":http://github.com/skid/strobe-templates -- An asynchronous templating engine with syntax like Django's
 * "nTPL":http://github.com/donnerjack13589/nTPL -- Fast & Native extendable template system
 * "CoffeeKup":http://github.com/mauricemach/coffeekup -- Markup as CoffeeScript. (node 0.2.0 - 0.2.2)
+* "Eco":http://github.com/sstephenson/eco -- Embedded CoffeeScript templates
 
 h3(#build-and-deployment). "Build and Deployment":#build-and-deployment
 * "nodejs-autorestart":http://github.com/shimondoodkin/nodejs-autorestart -- It is a way to watch all .js files if they have been changed and to restart nodejs. It allows easy development and stable production.
@@ -321,6 +322,7 @@ h4(#parsers-other). "Other Parsers":#parsers-other
 * "protobuf_for_node":http://code.google.com/p/protobuf-for-node/ -- Protocol buffer parsing and serialization
 * "node-markdown":http://github.com/andris9/node-markdown -- Easy to use Markdown parser
 * "highlight":http://github.com/andris9/highlight -- Code highlighter for Markdown <code> blocks and for automatic language detection
+* "strscan":http://github.com/sstephenson/strscan-js -- Simple string tokenizer for lexical scanning operations
 
 h3(#debugging). "Debugging / Console Utilities":#debugging
 * "cfdump.js":http://github.com/figital/cfdump.js -- a prettier way to dump your objects to a browser
