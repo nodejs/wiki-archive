@@ -360,6 +360,8 @@ h2. UTC+1 (+2)
 ** "Website":http://zef.me, "Github":http://github.com/zefhemel, "Twitter":http://twitter.com/zef
 * Sven Pfleiderer (Germany)
 ** "Website":http://blog.roothausen.de, "Github":http://github.com/pfleidi, "Twitter":http://twitter.com/pfleidi
+* Robert Sköld (slaskis), Stockholm, Sweden
+** "Github":http://github.com/slaskis, "Website":http://publicclass.se/
 
 h2. UTC+2 (+3)
 
