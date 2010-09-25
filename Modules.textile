@@ -132,6 +132,7 @@ h3(#database). "Database":#database
 * "perstore":http://github.com/kriszyp/perstore -- JavaScript persistence/object store with pluggable storage based on the "W3C DB API":http://www.w3.org/TR/IndexedDB/
 * "postgres-js":http://github.com/creationix/postgres-js/tree/master -- Postgres protocol implemented in pure JS
 * "rapid":http://github.com/visionmedia/rapid - Redis ORM-like abstraction layer with query support, type coercion and validations
+* "redis-node":http://github.com/bnoguchi/redis-node -- Comprehensive, high speed Redis client
 * "redis-node-client":http://github.com/fictorial/redis-node-client/tree/master -- Redis Client by Fictorial
 * "redis2json":http://github.com/igo/redis2json/ -- Easily loads data from Redis into structured JS object
 * "nohm":http://github.com/maritz/nohm -- Redis object relational mapper (ORM)
