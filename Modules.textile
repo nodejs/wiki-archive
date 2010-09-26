@@ -449,6 +449,7 @@ h3(#other). "Other":#other
 * "simplesets":http://github.com/PeterScott/simplesets-nodejs -- Set data type, with API similar to Python's sets module. Supports any data type, with equality tested by @===@.
 * "soda.js":http://github.com/tomyan/soda -- Asynchonous JavaScript module loader for client-side and Node.js
 * "Step":http://github.com/creationix/step -- Tool for grouping and chaining asynchronous callbacks, based on "flow-js":http://github.com/willconant/flow-js
+* "node-inflow":http://github.com/shimondoodkin/node-inflow -- A next generation async control-flow library, with a shared object for called functions and debugging made easy.
 * "async.js":http://github.com/fjakobs/async.js -- Async chaining and file system utilities. Async.js is to node's fs module, what jQuery is to the DOM.
 * "async":http://github.com/caolan/async -- Comprehensive async map/reduce and flow control (parallel, series, waterfall, auto...) module that works in node and the browser
 * "Task.node":http://github.com/botanicus/task.node Simple task manager similar to Rake, Scons and others.
