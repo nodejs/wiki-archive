@@ -428,6 +428,7 @@ h3(#other). "Other":#other
 * "node-prowl":http://github.com/mape/node-prowl -- A module that allows you to send push notifications to your iPhone through the Prowl API
 * "node-resque":http://github.com/jbr/node-resque -- Resque redis-backed job queue workers in node.js
 * "node-sandbox":http://github.com/gf3/node-sandbox -- A rudimentary javascript sandbox for use with node.js
+* "node-AWS":http://github.com/mirkok/Node-AWS -- An extendable library for Amazon Web Services currently including EC2 and the Product Advertising API
 * "node-s3":http://github.com/grippy/node-s3 -- App for basic Amazon Web Services S3 administration (upload files, bucket admin, etc.)
 * "node.Amazon-S3":http://github.com/nuxusr/Node.js---Amazon-S3 -- S3 implementation with Md5 signing, upload/download progress% events, streaming, large file support. 
 * "node-solr":http://github.com/gsf/node-solr -- Solr module for Node
