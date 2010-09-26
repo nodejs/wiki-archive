@@ -72,6 +72,7 @@ h2. Node v0.2.0
 * "pintura v0.2.0":http://github.com/kriszyp/pintura/tree/v0.2.0
 * "promised-io v0.2.0":http://github.com/kriszyp/promised-io/tree/v0.2.0
 * "Rest-mongo v0.1.0":http://github.com/AF83/rest-mongo/tree/v0.1.0
+* "riak-js v0.3.0beta":http://github.com/frank06/riak-js/commit/819b08
 * "request v0.10.0":http://github.com/mikeal/node-utils/tree/master/request/
 * "schema.js 0.1a":http://github.com/akidee/schema.js
 * "scss v0.1.0":http://github.com/bmavity/scss-js/tree/semver
