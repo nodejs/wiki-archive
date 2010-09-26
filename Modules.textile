@@ -308,6 +308,7 @@ h4(#parsers-other). "Other Parsers":#parsers-other
 * "node-discount":http://github.com/visionmedia/node-discount -- C markdown parser "discount" bindings
 * "node-csv":http://github.com/voodootikigod/node-csv -- Efficient Evented CSV Parsing.
 * "ya-csv":http://github.com/koles/ya-csv -- Evented CSV parser and writer with configurable separator, escape and quote characters
+* "node-csv-parser":http://github.com/wdavidw/node-csv-parser -- Full featured CSV parser with simple api and tested against large datasets.
 * "querystring.node.js":http://github.com/jazzychad/querystring.node.js -- Robust query string parsing for node.
 * "yajl-js":http://bitbucket.org/nikhilm/yajl-js -- SAX-like evented JSON parsing using "yajl":http://lloyd.github.com/yajl
 * "node-htmlparser":http://github.com/tautologistics/node-htmlparser -- Forgiving HTML Parser in JS for both Node and Browsers
