@@ -77,7 +77,6 @@ h2. Talks
 * "Node Powered Mobile":http://www.slideshare.net/creationix/node-powered-mobile -- By Tim Caswell
 
 h2. Companies using node
-* "Heroku":http://blog.heroku.com/archives/2010/4/28/node_js_support_experimental/ Dead simple Node deployment for you, and internal tools for us.
 * "Academia.edu":http://www.academia.edu/ - uses node for background data processing
 * "Adcloud":http://adcloud.com/ -- Javascript Adserver on EC2
 * "AdGear":http://adgear.com/ -- Real-time advertising reporting
@@ -92,6 +91,7 @@ h2. Companies using node
 * Feisty Studios
 * "Fictorial":http://fictorial.com
 * "Fostle":http://fostle.com/
+* "Heroku":http://blog.heroku.com/archives/2010/4/28/node_js_support_experimental/ Dead simple Node deployment for you, and internal tools for us.
 * "Joyent":http://www.joyent.com/
 * "LearnBoost":http://www.learnboost.com/ - free "gradebook":http://www.learnboost.com and lesson plan software
 * "Medium":http://thisismedium.com
@@ -99,6 +99,7 @@ h2. Companies using node
 * "Next Feature":http://www.nextfeature.com
 * "Next Please!":http://nextplea.se - uses node to match "Adobe Stratus":http://labs.adobe.com/technologies/stratus/ id's.
 * "nitobi":http://nitobi.com
+* "Nodejitsu":http://nodejitsu.com Hosting and ninja training for node.js.
 * "Plurk":http://www.plurk.com/ -- using node.js for its "new comet system":http://amix.dk/blog/post/19490#Plurk-Instant-conversations-using-comet
 * "Sexbyfood":http://www.sexbyfood.com -- a web-based reservations book for restaurateurs
 * "SitePen":http://www.sitepen.com/ - Using node for persevere
