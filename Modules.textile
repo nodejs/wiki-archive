@@ -87,9 +87,6 @@ h4(#middleware). "Middleware":#middleware
 * "protobuf_for_node":http://code.google.com/p/protobuf-for-node/ -- In-process JS-to-C++ communication using protocol buffer services
 * "socket-logger":http://github.com/saikat/socket-logger/ -- JSON-parsable logs for Socket.IO that can push log messages to a client over Socket.IO.
 
-h4(#linguistics). "Linguistics":#linguistics
-*"Lingo":http://bit.ly/cuaHAh -- Inflection, transformation and more
-
 h4(#web-frameworks-other). "Other":#web-frameworks-other
 * "Alligator":http://github.com/mrohad/Alligator -- Application Server on top of NodeJS (JSSP and SSJS support)
 * "Nitrode":http://github.com/ollym/nitrode -- A lightweight, super fast HTTP 1.1 with internal JS API
@@ -396,6 +393,7 @@ h3(#other). "Other":#other
 * "Jerk":http://github.com/gf3/Jerk -- A fun little IRC bot library for node.js.
 * "koala":http://github.com/visionmedia/koala.js -- Code syntax highlighting library 
 * "lepote":http://github.com/tdebarochez/lepote -- XMPP bot
+* "Lingo":http://bit.ly/cuaHAh -- Inflection, transformation and more
 * "limestone":http://github.com/kurokikaze/limestone -- Sphinx search server connector
 * "nDistro":http://github.com/visionmedia/ndistro -- Node distribution toolkit. Create and install distributions in seconds without GIT or npm
 * "node-applescript":http://github.com/TooTallNate/node-applescript -- A module to easily execute arbitrary AppleScript code on OS X through NodeJS.
