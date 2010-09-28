@@ -352,6 +352,7 @@ h3(#compression). "Compression":#compression
 h3(#graphics). "Graphics":#graphics
 * "node-gd":http://github.com/taggon/node-gd -- GD graphic library bindings
 * "magickal-node":http://github.com/quiiver/magickal-node -- GraphicsMagick wrapper for node.js
+* "node-magick":http://github.com/mirkok/Node-Magick -- rewrite of GraphicsMagick wrapper magickal-node fixing some issues
 * "node-imagemagick":http://github.com/rsms/node-imagemagick -- ImageMagick module
 * "node-png":http://github.com/pkrumins/node-png -- Convert an RGB or RGBA buffer to PNG fast
 * "node-gif":http://github.com/pkrumins/node-gif -- Convert an RGB or RGBA buffer to GIF fast
