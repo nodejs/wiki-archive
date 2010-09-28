@@ -327,6 +327,7 @@ h4(#parsers-other). "Other Parsers":#parsers-other
 * "node-markdown":http://github.com/andris9/node-markdown -- Easy to use Markdown parser
 * "highlight":http://github.com/andris9/highlight -- Code highlighter for Markdown <code> blocks and for automatic language detection
 * "strscan":http://github.com/sstephenson/strscan-js -- Simple string tokenizer for lexical scanning operations
+* "iniparser":http://github.com/shockie/node-iniparser -- A Simple .ini parser 
 
 h3(#debugging). "Debugging / Console Utilities":#debugging
 * "cfdump.js":http://github.com/figital/cfdump.js -- a prettier way to dump your objects to a browser
