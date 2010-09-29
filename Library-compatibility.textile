@@ -6,6 +6,7 @@ h2. Node v0.2.2
 * "node-mysql-libmysqlclient v0.0.10":http://github.com/Sannis/node-mysql-libmysqlclient/tree/v0.0.10
 * "node-htmlparser v1.6.2":http://github.com/tautologistics/node-htmlparser/tree/v1.6.2
 * "nodemachine v0.2.5":http://github.com/tautologistics/nodemachine/tree/v0.2.5
+* "node-evented":http://github.com/donnerjack13589/node-evented
 
 h2. Node v0.2.1
 * "choreographer 0.2.0":http://github.com/laughinghan/choreographer
