@@ -12,7 +12,7 @@ h1. Hosting compatible with Node
 # "Joyent":http://www.joyent.com/services/cloudhosting/
 # "no.de":http://no.de - Closed Beta
 # "DreamHostPS":http://www.dreamhost.com/hosting-vps.html - Need a total reconfiguration of virtual machines
-# "Webbynode":http://www.webbynode.com/ - "setup guide here":http://blog.dtrejo.com/nodejs-for-server-newbs
+# "Webbynode":http://www.webbynode.com/ - "setup guide here":http://blog.dtrejo.com/nodejs-for-server-newbs - "deployment guide":http://guides.webbynode.com/articles/rapidapps/nodejs.html - screencast:http://vimeo.com/15406437
 # "Gandi":http://en.gandi.net/hosting/
 
 Most of the above are just VPS providers, which require you to set everything up yourself, including the operating system.
