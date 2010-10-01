@@ -105,6 +105,7 @@ h2. Companies using node
 * "Plurk":http://www.plurk.com/ -- using node.js for its "new comet system":http://amix.dk/blog/post/19490#Plurk-Instant-conversations-using-comet
 * "Sexbyfood":http://www.sexbyfood.com -- a web-based reservations book for restaurateurs
 * "SitePen":http://www.sitepen.com/ - Using node for persevere
+* "Sentymetr":http://sentymetr.pl - Social media monitoring in Poland. We use JavaScript and node.js for data processing.
 * "Szpil":https://szpil.com - Keep detailed contact histories. Review past calls and conversations. Collaborate with colleagues. 
 * "Telefónica R&D":http://tid.es
 * "Vision Media":http://vision-media.ca -- Web development firm based in Victoria, BC
