@@ -67,6 +67,7 @@ h2. Articles
 * "Implementing Web Socket servers with Node.js":http://www.web2media.net/laktek/2010/05/04/implementing-web-socket-servers-with-node-js/ -- by Lakshan Perera
 * "ServerSide JavaScript with MooTools and NodeJS":http://davidwalsh.name/mootools-nodejs -- by Christoph Pojer
 * "Step by step instructions to install NodeJS on Windows":http://boxysystems.com/?p=203 -- by Siddique Hameed
+* "Check Gmail with Node.js":http://www.mgutz.com/2010/10/01/check_gmail_with_node_js.html -- by Mario Gutierrez
 
 h2. Talks
 * "GoogleTechTalk: Node.js":http://www.youtube.com/watch?v=F6k8lTrAE2g -- by Ryan Dahl
