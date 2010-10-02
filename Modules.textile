@@ -436,6 +436,7 @@ h3(#other). "Other":#other
 * "node-memstream":http://github.com/jfd/node-memstream — MemStream is a memory-based Stream implementation
 * "node-parallel":http://github.com/Tim-Smart/node-parallel -- Create tasks in node.js that run in parallel, or sequences that run tasks one after another.
 * "node_pcap":http://github.com/mranney/node_pcap -- Network packet capture and analysis using libpcap
+* "node-pool":http://github.com/coopernurse/node-pool -- Generic resource pool.  Useful for pooling database connections or other precious things.
 * "node-promise":http://github.com/kriszyp/node-promise -- Robust promises for node.js, includes promise utilities and promise-based I/O library
 * "node-prowl":http://github.com/mape/node-prowl -- A module that allows you to send push notifications to your iPhone through the Prowl API
 * "node-resque":http://github.com/jbr/node-resque -- Resque redis-backed job queue workers in node.js
