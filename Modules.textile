@@ -270,7 +270,7 @@ h3(#testing). "Testing / Spec Frameworks":#testing
 * "Vows":http://github.com/cloudhead/vows -- asynchronous behaviour-driven development for node.js
 * "Gently":http://github.com/felixge/node-gently -- A node.js module that helps with mocking and behavior verification.
 * "patr":http://github.com/kriszyp/patr -- Promise-based asynchronous test runner: lightweight & simple.
-
+* "fragile":http://github.com/coffeemate/fragile -- Lightweight command line unit testing tool for nodejs 
 
 h3(#wrappers). "Wrappers":#wrappers
 * "bdog-node":http://github.com/blackdog66/bdog-node -- haXe wrappers for node.
