@@ -495,6 +495,7 @@ h3(#other). "Other":#other
 * "nodejs-clone-extend":http://github.com/shimondoodkin/nodejs-clone-extend -- a versatile clone and extend like underline.js, to clone JavaScript objects, enables DRY.
 * "node-search":http://github.com/talltyler/node-search -- An asynchronous full text search engine for node
 * "Sibilant":http://github.com/jbr/sibilant -- A lispy language that compiles to js
+* "pdf.js":http://github.com/marak/pdf.js -- A pdf renderer for node
 
 h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":#commonjs-compat
 * "abbrev-js":http://github.com/isaacs/abbrev-js/ -- Like Ruby's Abbrev module.
