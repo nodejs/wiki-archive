@@ -51,7 +51,7 @@ h2. Projects / Applications
 * "scriptable-node-irc-bot":http://github.com/haxd/scriptable-node-irc-bot -- Scriptable Node IRC Bot
 * "Top Twitter Trends":http://www.toptwittertrends.com -- Real time trending tweets by node.js, nginx and mongodb
 * "Cloud9":http://www.cloud9ide.com -- Cloud9 IDE is aiming to be the IDE for Javascript developers, built with NodeJS and lots of other Node modules
-
+* "OPOWER Jobs":http://github.com/dylang/opowerjobs -- Open source example of a full live site using Express, Connect, EJS, AssetManager, Logging, and other Node modules.
 
 
 h2. Articles
@@ -105,6 +105,7 @@ h2. Companies using node
 * "Next Please!":http://nextplea.se - uses node to match "Adobe Stratus":http://labs.adobe.com/technologies/stratus/ id's.
 * "nitobi":http://nitobi.com
 * "Nodejitsu":http://nodejitsu.com Hosting and ninja training for node.js.
+* "OPOWER":http://opowerjobs.com - Using Node for recruiting site, referral tracking, and other new projects.
 * "Plurk":http://www.plurk.com/ -- using node.js for its "new comet system":http://amix.dk/blog/post/19490#Plurk-Instant-conversations-using-comet
 * "Sexbyfood":http://www.sexbyfood.com -- a web-based reservations book for restaurateurs
 * "SitePen":http://www.sitepen.com/ - Using node for persevere
