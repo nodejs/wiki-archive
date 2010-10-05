@@ -221,6 +221,7 @@ h3(#tcp). "TCP / IP":#tcp
 * "n3":http://github.com/andris9/n3 -- Experimental POP3 server to send arbitrary data to e-mail clients (including e-mails)
 * "node-radio-stream":http://github.com/TooTallNate/node-radio-stream -- An interface for connecting to, parsing metadata, and reading from SHOUTcast/Icecast radio streams.
 * "ndns":http://github.com/skampler/ndns -- DNS client/server library and parser
+* "jsDAV":http://github.com/mikedeboer/jsdav -- jsDAV allows you to easily add WebDAV and CalDAV support to a NodeJS application. jsDAV is meant to cover the entire standard, and attempts to allow integration using an easy to understand API.
 
 h3(#rpc). "RPC":#rpc
 * "bertrpc":http://github.com/rtomayko/node-bertrpc
