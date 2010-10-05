@@ -396,6 +396,7 @@ h3(#other). "Other":#other
 * "flickr-reflection":http://github.com/teemow/node-flickr-reflection -- A flickr client that uses their reflection API (supports auth)
 * "Faker.js":http://github.com/marak/Faker.js/ -- generate massive amounts of fake data in Node.js and the browser
 * "flow-js":http://github.com/willconant/flow-js -- Continuation-esque contruct for expressing multi-step asynchronous logic
+* "futures":http://github.com/coolaj86/futures - Asynchronous Method Queueing, Futures, Promises, Subscriptions, and other async goodies
 * "groupie":http://github.com/alexkwolfe/groupie -- A simple flow control library for executing multiple functions as a group or in a chain, calling back when complete.
 * "hub.js":http://github.com/greut/hubbub.js -- in-memory and in progress PubSubHubBub server
 * "IRC-js":http://github.com/gf3/IRC-js -- An IRC library for node.js 
