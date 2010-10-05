@@ -50,6 +50,7 @@ h2. Projects / Applications
 * "node-build":http://github.com/linkitprojects/node-build -- ant like build tool for nodejs without the xml hassle 
 * "scriptable-node-irc-bot":http://github.com/haxd/scriptable-node-irc-bot -- Scriptable Node IRC Bot
 * "Top Twitter Trends":http://www.toptwittertrends.com -- Real time trending tweets by node.js, nginx and mongodb
+* "Cloud9":http://www.cloud9ide.com -- Cloud9 IDE is aiming to be the IDE for Javascript developers, built with NodeJS and lots of other Node modules
 
 
 
@@ -83,6 +84,7 @@ h2. Companies using node
 * "Academia.edu":http://www.academia.edu/ - uses node for background data processing
 * "Adcloud":http://adcloud.com/ -- Javascript Adserver on EC2
 * "AdGear":http://adgear.com/ -- Real-time advertising reporting
+* "Ajax.org":http://ajax.org/ -- Home of the Cloud9 IDE, Ajax.org Platform and O3 Node modules
 * "Bocoup":http://bocoup.com
 * "BrandedCode":http://brandedcode.com
 * "Chompin":http://chompin.com - discover new music, mobile app, uses node for the entire back end api
