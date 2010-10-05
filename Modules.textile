@@ -288,6 +288,7 @@ h3(#parsers). "Parsers":#parsers
 
 h4(#parsers-xml). "XML":#parsers-xml
 * "node-o3-xml":http://github.com/ajaxorg/node-o3-xml -- W3C Standard based XML DOM with XPath and namespaces. Based on libxml2
+* "node-o3-fastxml":http://github.com/ajaxorg/node-o3-fastxml -- W3C Standards based XML DOM based on fastest xml parser in the world pugiXML
 * "libxmljs":http://github.com/polotek/libxmljs -- Bindings to libxml2
 * "node-xml":http://github.com/robrighter/node-xml -- An xml parser for node.js
 * "sax-js":http://github.com/isaacs/sax-js -- SAX-like parser in pure JS
