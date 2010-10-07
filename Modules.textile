@@ -116,9 +116,9 @@ h3(#database). "Database":#database
 * "node-fleet":http://github.com/jfd/node-fleet -- a FleetDB Client
 * "node-memcache":http://github.com/vanillahsu/node-memcache -- a memcache client base on libmemcached
 * "node-mongodb":http://github.com/orlandov/node-mongodb -- Basic MongoDB client implementation in JS/C++
-* "node-mongodb-native":http://github.com/christkv/node-mongodb-native -- A pure javascript driver for MongoDB
-* "mongoose":http://www.learnboost.com/mongoose/ -- Mongoose is a javascript library that makes working with MongoDB a breeze.
+* "node-mongodb-native":http://github.com/christkv/node-mongodb-native -- A pure javascript driver for MongoDB.
 * "mongolia":http://github.com/masylum/mongolia -- Flexible wrapper for the nodejs Mongo driver. Lighter than a ORM but easier to use than the driver.
+* "mongoose":http://www.learnboost.com/mongoose/ -- Mongoose is a javascript library that makes working with MongoDB a breeze.
 * "node-poormansmysql":http://github.com/mscdex/node-poormansmysql -- Asynchronous MySQL driver for node.js using the mysql command-line tool
 * "node-mysql":http://github.com/felixge/node-mysql -- A node.js module implementing the MySQL protocol 
 * "node-mysql":http://github.com/masuidrive/node-mysql -- Pure Javascript MySQL async driver
@@ -401,6 +401,7 @@ h3(#other). "Other":#other
 * "flickr-reflection":http://github.com/teemow/node-flickr-reflection -- A flickr client that uses their reflection API (supports auth)
 * "Faker.js":http://github.com/marak/Faker.js/ -- generate massive amounts of fake data in Node.js and the browser
 * "flow-js":http://github.com/willconant/flow-js -- Continuation-esque contruct for expressing multi-step asynchronous logic
+* "funk":http://github.com/masylum/funk -- Asynchronous parallel functions made funky!
 * "futures":http://github.com/coolaj86/futures - Asynchronous Method Queueing, Futures, Promises, Subscriptions, and other async goodies
 * "groupie":http://github.com/alexkwolfe/groupie -- A simple flow control library for executing multiple functions as a group or in a chain, calling back when complete.
 * "hub.js":http://github.com/greut/hubbub.js -- in-memory and in progress PubSubHubBub server
