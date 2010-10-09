@@ -5,6 +5,8 @@ See the "Modules":http://wiki.github.com/ry/node/modules page.
 h2. Projects / Applications
 * "node_chat":http://github.com/ry/node_chat by ry (live demo at <a href="http://chat.tinyclouds.org">chat.tinyclouds.org</a>)
 * "q-chess":http://github.com/wsdookadr/Q-Chess/tree/rewrite by wsookadr — chess game multiplayer server using [[faye|http://github.com/jcoglan/faye]] + client written using [[Qooxdoo|http://qooxdoo.org/]] 
+* "node3p":http://github.com/ncb000gt/node3p by ncb000gt -- AmazonMP3 downloader
+* "node3p-web":http://github.com/ncb000gt/node3p-web by ncb000gt -- Web interface for node3p
 * "nodelint":http://github.com/tav/nodelint by tav — run jslint from the command line
 * "nodeload":http://github.com/benschmaus/nodeload by benschmaus and jonjlee  — utility for benchmarking HTTP APIs
 * "nodewiki":http://github.com/gjritter/nodewiki -- a simple wiki based on node and redis
