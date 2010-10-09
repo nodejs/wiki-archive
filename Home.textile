@@ -54,6 +54,7 @@ h2. Projects / Applications
 * "Top Twitter Trends":http://www.toptwittertrends.com -- Real time trending tweets by node.js, nginx and mongodb
 * "Cloud9":http://www.cloud9ide.com -- Cloud9 IDE is aiming to be the IDE for Javascript developers, built with NodeJS and lots of other Node modules
 * "OPOWER Jobs":http://github.com/dylang/opowerjobs -- Open source example of a full live site using Express, Connect, EJS, AssetManager, Logging, and other Node modules.
+* "nodemon":"http://github.com/remy/nodemon" -- Development tool for automatically restarting Node server when changes are made to any app files
 
 
 h2. Articles
@@ -101,6 +102,7 @@ h2. Companies using node
 * "Heroku":http://blog.heroku.com/archives/2010/4/28/node_js_support_experimental/ Dead simple Node deployment for you, and internal tools for us.
 * "Joyent":http://www.joyent.com/
 * "LearnBoost":http://www.learnboost.com/ - free "gradebook":http://www.learnboost.com and lesson plan software
+* "Left Logic":http://leftlogic.com
 * "Medium":http://thisismedium.com
 * "MyBrands":http://www.mybrands.de -- web-tracker and product recommendations (node + couchdb)
 * "Next Feature":http://www.nextfeature.com
