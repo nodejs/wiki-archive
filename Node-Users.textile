@@ -274,6 +274,9 @@ h2. UTC+0 (+1)
 ** "GitHub":http://github.com/premasagar, "Twitter":http://twitter.com/premasagar, "Website":http://dharmafly.com
 * Paulo Ferreira (paulobsf)
 ** "GitHub":http://github.com/paulobsf, "Twitter":http://twitter.com/paulobsf, "Website":http://paulobsf.tumblr.com
+* Remy Sharp
+** "Website":http://remysharp.com/, "GitHub":http://github.com/remy, "Twitter":http://twitter.com/rem
+
 
 h2. UTC+1 (+2)
 * Arnout Kazemier (V1), The Netherlands
