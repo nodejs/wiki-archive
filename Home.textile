@@ -54,8 +54,8 @@ h2. Projects / Applications
 * "Top Twitter Trends":http://www.toptwittertrends.com -- Real time trending tweets by node.js, nginx and mongodb
 * "Cloud9":http://www.cloud9ide.com -- Cloud9 IDE is aiming to be the IDE for Javascript developers, built with NodeJS and lots of other Node modules
 * "OPOWER Jobs":http://github.com/dylang/opowerjobs -- Open source example of a full live site using Express, Connect, EJS, AssetManager, Logging, and other Node modules.
-* "nodemon":"http://github.com/remy/nodemon" -- Development tool for automatically restarting Node server when changes are made to any app files
-
+* "nodemon":http://github.com/remy/nodemon -- Development tool for automatically restarting Node server when changes are made to any app files
+* "jsbuild":http://github.com/azer/jsbuild -- A command-line utility that provides building CommonJS modules and packages for web
 
 h2. Articles
 * "Mastering Node":http://visionmedia.github.com/masteringnode/ - Open Source eBook by TJ Holowaychuk and the node community
