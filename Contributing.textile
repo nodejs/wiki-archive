@@ -8,4 +8,4 @@ Email patches to ry@tinyclouds.org or post them to the "node.js mailing list":ht
 ## no space between function name and open paren e.g. <code>blah(arg)</code> not <code>blah (arg)</code>
 ## multi-line <code>if</code> statements must have braces.
 # C++ code should follow "Google's C++ style guide":http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml and be run through "cpplint.py":http://google-styleguide.googlecode.com/svn/trunk/cpplint/cpplint.py
-# All code must be MIT licensed
+# Agree to http://nodejs.org/cla.html
