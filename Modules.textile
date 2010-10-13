@@ -340,6 +340,7 @@ h4(#parsers-other). "Other Parsers":#parsers-other
 * "strscan":http://github.com/sstephenson/strscan-js -- Simple string tokenizer for lexical scanning operations
 * "iniparser":http://github.com/shockie/node-iniparser -- A Simple .ini parser 
 * "mailparser":http://github.com/andris9/mailparser -- Parse mime encoded e-mails into structured objects
+* "node-browscap":http://github.com/dangrossman/node-browscap -- browscap.ini parser and port of PHP's get_browser function
 
 h3(#debugging). "Debugging / Console Utilities":#debugging
 * "cfdump.js":http://github.com/figital/cfdump.js -- a prettier way to dump your objects to a browser
