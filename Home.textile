@@ -119,7 +119,7 @@ h2. Companies using node
 * "Telefónica R&D":http://tid.es
 * "Vision Media":http://vision-media.ca -- Web development firm based in Victoria, BC
 * "Widescript":http://widescript.com -- A digital reading app targeted to people who study or make use of reference material.
-* "Yammer":https://www.yammer.com
+* "Yammer":https://www.yammer.com -- The Yammer Application Platform heavily uses node.js
 * "Ylastic":http://ylastic.com/ - uses node for report processing and admin app
 * "Pixelspark":http://www.pixelspark.nl/
 * "Newspaper Club":http://www.newspaperclub.co.uk - Uses node.js for wrapping a nasty SOAP interface to InDesign Server.
