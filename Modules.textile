@@ -147,6 +147,7 @@ h3(#database). "Database":#database
 * "node-tokyocabinet":http://github.com/edvakf/node-tokyocabinet -- Tokyo Cabinet binding
 * "node-migrate":http://github.com/rsandor/node-migrate -- Migrate - A database agnostic migration system for Node.js
 * "sequelize":http://github.com/sdepold/sequelize - An easy-to-use MySQL Object-Relational-Mapper (ORM) for Node.JS
+* "nosql-thin":http://github.com/dmcquay/node-nosql-thin - Makes easier to work with MongoDB. Not an ORM. Not production ready.
 
 h3(#templating). "Templating":#templating
 * "jqtpl":http://github.com/kof/node-jqtpl -- A port of the new jQuery template engine. "Express":http://expressjs.com compliant
