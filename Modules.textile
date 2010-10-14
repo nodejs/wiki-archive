@@ -103,6 +103,7 @@ h4(#web-frameworks-other). "Other":#web-frameworks-other
 * "multi-node":http://github.com/kriszyp/multi-node -- Launch multiple node processes for HTTP servers
 * "node-http-digest":http://github.com/thedjinn/node-http-digest -- Provides HTTP Digest authentication for HTTP servers
 * "solder":http://github.com/brettstimmerman/solder -- Combines and minifies JavaScript and CSS at runtime and build time
+* "fugue":http://github.com/pgte/fugue -- Unicorn for Node.js - Multiple node server instance manager with Unicorn-like features
 
 h3(#database). "Database":#database
 * "awesome":http://github.com/janl/awesome -- a Redis clone in node.js
