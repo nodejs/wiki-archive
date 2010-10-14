@@ -344,6 +344,7 @@ h4(#parsers-other). "Other Parsers":#parsers-other
 * "mailparser":http://github.com/andris9/mailparser -- Parse mime encoded e-mails into structured objects
 * "node-browscap":http://github.com/dangrossman/node-browscap -- browscap.ini parser and port of PHP's get_browser function
 * "node_spreadsheet":http://github.com/shimondoodkin/node_spreadsheet -- Read xls,xlsx,ods,csv spreadsheets (php based)
+* "carrier":http://github.com/pgte/carrier -- Evented stream line reader for node.js
 
 
 h3(#debugging). "Debugging / Console Utilities":#debugging
