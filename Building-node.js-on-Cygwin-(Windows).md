@@ -7,6 +7,7 @@ Building node.js on Cygwin (Windows)
    * `devel  -> git`
    * `devel  -> make`
    * `devel  -> openssl`
+   * `libs    -> openssl-devel`
    * `devel  -> pkg-config`
    * `devel  -> zlib-devel`
    * `python -> python`
