@@ -3,6 +3,9 @@ Node is under heavy development and its API changes rapidly. Instead of simply a
 h2. Node v0.3.0-pre
 * "Ni v0.1.0beta":http://github.com/chetan51/ni
 
+h2. Node v0.2.3
+* "choreographer 0.2.0":http://github.com/laughinghan/choreographer
+
 h2. Node v0.2.2
 * "Ni v0.1.0beta":http://github.com/chetan51/ni
 * "spludo 1.0.1":http://github.com/DracoBlue/spludo/tree/v1.0
