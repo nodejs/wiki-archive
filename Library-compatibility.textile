@@ -4,7 +4,7 @@ h2. Node v0.3.0-pre
 * "Ni v0.1.0beta":http://github.com/chetan51/ni
 
 h2. Node v0.2.3
-* "choreographer 0.2.0":http://github.com/laughinghan/choreographer
+* "choreographer v0.2.0":http://github.com/laughinghan/choreographer
 
 h2. Node v0.2.2
 * "Ni v0.1.0beta":http://github.com/chetan51/ni
@@ -15,9 +15,10 @@ h2. Node v0.2.2
 * "nodemachine v0.2.5":http://github.com/tautologistics/nodemachine/tree/v0.2.5
 * "node-evented":http://github.com/donnerjack13589/node-evented
 * "node-solr v0.0.6":http://github.com/gsf/node-solr/tree/v0.0.6
+* "choreographer v0.2.0":http://github.com/laughinghan/choreographer
 
 h2. Node v0.2.1
-* "choreographer 0.2.0":http://github.com/laughinghan/choreographer
+* "choreographer v0.2.0":http://github.com/laughinghan/choreographer
 * "schema.js 0.1a":http://github.com/akidee/schema.js
 * "solder v0.0.1":http://github.com/brettstimmerman/solder
 * "Hash v0.06":http://github.com/michaelsbradleyjr/Hash
