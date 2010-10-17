@@ -47,6 +47,7 @@ h2. Node v0.2.0
 * "highlight v0.1.0":http://github.com/andris9/highlight
 * "html5 @ v0.2.0":http://github.com/aredridel/html5
 * "jsgi-node v0.2.0":http://github.com/kriszyp/jsgi-node/tree/v0.2.0
+* "lastfm-node v0.3.2":http://github.com/jammus/lastfm-node
 * "libxmljs v0.4.1":http://github.com/polotek/libxmljs/tree/0.4.1
 * "limestone v0.1":http://github.com/kurokikaze/limestone/tree/v0.1
 * "Mongoose v0.0.3":http://github.com/LearnBoost/mongoose/tree/0.0.3
