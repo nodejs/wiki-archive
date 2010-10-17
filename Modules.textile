@@ -473,6 +473,7 @@ h3(#other). "Other":#other
 * "node-syslog":http://github.com/schamane/node-syslog/ -- Allows sending messages to syslog.
 * "node-taglib":http://github.com/nikhilm/node-taglib -- Beginnings of bindings to "taglib":http://developer.kde.org/~wheeler/taglib
 * "node-twiml":http://github.com/derferman/node-twiml -- Easy TwiML creation in node.js
+* "node-twitter":http://github.com/jdub/node-twitter -- Asynchronous Twitter REST/stream/search client for node.js
 * "node-ugly":http://github.com/felixge/node-ugly -- Allows to run PHP code from within node.js
 * "node-uneval":http://github.com/chakrit/node-uneval -- Adds uneval() support to node.js
 * "node-worker":http://github.com/cramforce/node-worker -- An implementation of the WebWorker API for node.js
