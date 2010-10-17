@@ -519,6 +519,7 @@ h3(#other). "Other":#other
 * "node-search":http://github.com/talltyler/node-search -- An asynchronous full text search engine for node
 * "Sibilant":http://github.com/jbr/sibilant -- A lispy language that compiles to js
 * "pdf.js":http://github.com/marak/pdf.js -- A pdf renderer for node
+* "node-recaptcha":http://github.com/mirhampt/node-recaptcha -- Display and verify Recaptcha captchas
 
 h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":#commonjs-compat
 * "abbrev-js":http://github.com/isaacs/abbrev-js/ -- Like Ruby's Abbrev module.
