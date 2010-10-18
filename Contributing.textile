@@ -1,4 +1,4 @@
-Email patches to ry@tinyclouds.org or post them to the "node.js mailing list":http://groups.google.com/group/nodejs
+Email patches to ry@tinyclouds.org or post them to the "node.js development mailing list":http://groups.google.com/group/nodejs-dev
 
 # Discuss large changes on mailing list before coding
 # Javascript code style
