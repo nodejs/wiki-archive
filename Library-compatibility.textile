@@ -36,6 +36,7 @@ h2. Node v0.2.1
 * "nodemachine v0.2.5":http://github.com/tautologistics/nodemachine/tree/v0.2.5
 
 h2. Node v0.2.0
+* "node-config":http://github.com/ArtS/node-config
 * "tumblrrr v0.1.1":http://github.com/mvrilo/tumblrrr
 * "choreographer 0.2.0":http://github.com/laughinghan/choreographer
 * "Grasshopper v0.2.3":http://github.com/tuxychandru/grasshopper/tree/0.2.3
