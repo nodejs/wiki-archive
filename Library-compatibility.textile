@@ -9,6 +9,7 @@ h2. Node v0.2.3
 * "node-mysql-libmysqlclient v1.0.2":http://github.com/Sannis/node-mysql-libmysqlclient/tree/v1.0.2
 * "node-twitter 0.1":http://github.com/jdub/node-twitter
 * "node_redis":http://github.com/mranney/node_redis
+* "ya-csv v0.1.5":http://github.com/koles/ya-csv/
 
 h2. Node v0.2.2
 * "Ni v0.1.0beta":http://github.com/chetan51/ni
