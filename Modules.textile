@@ -300,6 +300,7 @@ h4(#parsers-xml). "XML":#parsers-xml
 * "node-xml":http://github.com/robrighter/node-xml -- An xml parser for node.js
 * "sax-js":http://github.com/isaacs/sax-js -- SAX-like parser in pure JS
 * "node-expat":http://github.com/astro/node-expat -- Fast SAX parser binding to expat
+* "node-expat":http://github.com/shimondoodkin/node-expat -- a fork of Fast SAX parser binding to expat, also includes XML to JavaScript object converter
 * "node-xml2js":http://github.com/maqr/node-xml2js/ -- Simple XML to JavaScript object converter.
 * "node-plist":http://github.com/TooTallNate/node-plist -- Apple Plist parser for NodeJS. Convert a Plist file or string into a native JS object.
 
