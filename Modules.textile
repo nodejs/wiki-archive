@@ -397,6 +397,39 @@ h3(#payment-gateways). "Payment Gateways":#payment-gateways
 * "braintree":http://github.com/braintree/braintree_node -- library for integrating with Braintree
 * "node-fortumo":http://github.com/andris9/node-fortumo -- bindings for Fortumo SMS payment API
 
+h3(#api-clients). "API clients":#api-clients
+* "evented-twitter":http://github.com/polotek/evented-twitter -- asynchronous twitter client, supports streaming api
+* "facebook-js":http://github.com/masylum/facebook-js -- Easy peasy facebook client for connect.
+* "flickr-reflection":http://github.com/teemow/node-flickr-reflection -- A flickr client that uses their reflection API (supports auth)
+* "flickrnode":http://github.com/ciaranj/flickrnode -- A library to enable use of the flickr api (not as complete as node-flickr, but supports auth) 
+* "lastfm-node":http://github.com/jammus/lastfm-node -- Read and write to users' recent plays on Last.fm
+* "node-bitly":http://github.com/tanepiper/node-bitly -- A bit.ly API library for node.js - provides URL shortening/expanding.  Features full API.
+* "node-flickr":http://github.com/edds/node-flickr -- A simple library to enable easy use of the flickr api
+* "node-github":http://github.com/ajaxorg/node-github -- A wrapper for the "GitHub API":http://develop.github.com/
+* "node-googlemaps":http://github.com/moshen/node-googlemaps -- A wrapper for the Google Maps API
+* "node-prowl":http://github.com/mape/node-prowl -- A module that allows you to send push notifications to your iPhone through the Prowl API
+* "nodestalker":http://github.com/pascalopitz/nodestalker -- A beanstalkd client for node
+* "node-twitter":http://github.com/jdub/node-twitter -- Asynchronous Twitter REST/stream/search client for node.js
+* "tumblrrr":http://github.com/mvrilo/tumblrrr -- A wrapper for Tumblr's API
+* "tweetstream":http://github.com/mikeal/tweetstream -- Stream like API for twitter's HTTP streaming interface.
+* "TwitScript":http://github.com/ryanmcgrath/twitscript -- A port of Twython to Node.js (Twitter API Library)
+* "twitter-js":http://github.com/masylum/twitter-js -- Easy peasy twitter client for connect.
+
+h3(#async-flow). "Flow control / Async goodies":#async-flow
+* "flow-js":http://github.com/willconant/flow-js -- Continuation-esque contruct for expressing multi-step asynchronous logic
+* "funk":http://github.com/masylum/funk -- Asynchronous parallel functions made funky!
+* "futures":http://github.com/coolaj86/futures - Asynchronous Method Queueing, Futures, Promises, Subscriptions, and other async goodies
+* "groupie":http://github.com/alexkwolfe/groupie -- A simple flow control library for executing multiple functions as a group or in a chain, calling back when complete.
+* "node-continuables":http://github.com/bentomas/node-continuables -- A library making dealing with asynchronous code easier
+* "node-cron":http://github.com/ncb000gt/node-cron -- Schedule callbacks with cron syntax
+* "node-parallel":http://github.com/Tim-Smart/node-parallel -- Create tasks in node.js that run in parallel, or sequences that run tasks one after another.
+* "node-promise":http://github.com/kriszyp/node-promise -- Robust promises for node.js, includes promise utilities and promise-based I/O library
+* "soda.js":http://github.com/tomyan/soda -- Asynchonous JavaScript module loader for client-side and Node.js
+* "Step":http://github.com/creationix/step -- Tool for grouping and chaining asynchronous callbacks, based on "flow-js":http://github.com/willconant/flow-js
+* "node-inflow":http://github.com/shimondoodkin/node-inflow -- A next generation async control-flow library, with a shared object for called functions and debugging made easy.
+* "async.js":http://github.com/fjakobs/async.js -- Async chaining and file system utilities. Async.js is to node's fs module, what jQuery is to the DOM.
+* "async":http://github.com/caolan/async -- Comprehensive async map/reduce and flow control (parallel, series, waterfall, auto...) module that works in node and the browser
+
 h3(#other). "Other":#other
 * "behaviors":http://github.com/caolan/behaviors -- A simple way to check a module's exports, useful for 3rd party plugins and extensions
 * "box2dnode":http://github.com/jadell/box2dnode -- Port of the box2d physics simulation library
@@ -408,23 +441,15 @@ h3(#other). "Other":#other
 * "daemon.node":http://github.com/Slashed/daemon.node/ -- Unix/Linux Daemons with node.js
 * "dust":http://github.com/pasviegas/dust -- OO way to fill your database with not totally random content
 * "dox":http://github.com/visionmedia/dox -- Documentation generator using JSdoc and markdown comments
-* "evented-twitter":http://github.com/polotek/evented-twitter -- asynchronous twitter client, supports streaming api
 * "express-chat":http://github.com/Tug/express-chat -- A chat application demo for testing node.js + MongoDB scalability
 * "express-contrib":http://github.com/visionmedia/express-contrib -- Express utilities that do not belong in core, but are still awesome :)
 * "ext":http://github.com/visionmedia/ext.js -- High quality / performance JavaScript extensions specifically for node.js
-* "flickrnode":http://github.com/ciaranj/flickrnode -- A library to enable use of the flickr api (not as complete as node-flickr, but supports auth)
-* "flickr-reflection":http://github.com/teemow/node-flickr-reflection -- A flickr client that uses their reflection API (supports auth)
 * "Faker.js":http://github.com/marak/Faker.js/ -- generate massive amounts of fake data in Node.js and the browser
-* "flow-js":http://github.com/willconant/flow-js -- Continuation-esque contruct for expressing multi-step asynchronous logic
-* "funk":http://github.com/masylum/funk -- Asynchronous parallel functions made funky!
-* "futures":http://github.com/coolaj86/futures - Asynchronous Method Queueing, Futures, Promises, Subscriptions, and other async goodies
-* "groupie":http://github.com/alexkwolfe/groupie -- A simple flow control library for executing multiple functions as a group or in a chain, calling back when complete.
 * "hub.js":http://github.com/greut/hubbub.js -- in-memory and in progress PubSubHubBub server
 * "IRC-js":http://github.com/gf3/IRC-js -- An IRC library for node.js 
 * "Jefe":http://github.com/fictorial/jefe -- Jefe is a safe sandbox for running user scripts in Node.js
 * "Jerk":http://github.com/gf3/Jerk -- A fun little IRC bot library for node.js.
-* "koala":http://github.com/visionmedia/koala.js -- Code syntax highlighting library 
-* "lastfm-node":http://github.com/jammus/lastfm-node -- Read and write to users' recent plays on Last.fm
+* "koala":http://github.com/visionmedia/koala.js -- Code syntax highlighting library
 * "lepote":http://github.com/tdebarochez/lepote -- XMPP bot
 * "Lingo":http://bit.ly/cuaHAh -- Inflection, transformation and more
 * "limestone":http://github.com/kurokikaze/limestone -- Sphinx search server connector
@@ -436,22 +461,16 @@ h3(#other). "Other":#other
 * "node-amqp":http://github.com/ry/node-amqp -- AMQP client
 * "node-amqp":http://github.com/xaviershay/node-amqp -- Basic AMQP client
 * "node-asterisk":http://github.com/mscdex/node-asterisk -- Listen to events in realtime and issue commands on Asterisk servers
-* "node-bitly":http://github.com/tanepiper/node-bitly -- A bit.ly API library for node.js - provides URL shortening/expanding.  Features full API.
 * "node-bittorrent":http://github.com/WizKid/node-bittorrent -- A library for handling the bittorrent protocol
 * "node-chat":http://github.com/scottgonzalez/node-chat -- A simple web-based chat server
-* "node-continuables":http://github.com/bentomas/node-continuables -- A library making dealing with asynchronous code easier
 * "node-control":http://github.com/tsmith/node-control -- System admin and code deployment via ssh (similar to Capistrano/Vlad)
-* "node-cron":http://github.com/ncb000gt/node-cron -- Schedule callbacks with cron syntax
 * "node-email":http://github.com/aheckmann/node-email -- A simple wrapper around sendmail
 * "node-Daemon":http://github.com/Eyjafjallajokull/node-Daemon -- Restart node script after each change in main script or its dependencies
 * "node-daemon":http://github.com/theteam/node-daemon -- Node daemon is a simple way to start, stop and restart your node based application without having to manage external scripts.
 * "node-iconv":http://github.com/bnoordhuis/node-iconv -- iconv bindings, character encoding conversion made easy.
 * "node_mailer":http://github.com/marak/node_mailer -- send emails from node.js to an smtp server, simple as cake 
 * "node-fork":http://github.com/ryantenney/node-fork -- C bindings to fork or daemonize the process.
-* "node-flickr":http://github.com/edds/node-flickr -- A simple library to enable easy use of the flickr api
 * "node-geoip":http://github.com/strange/node-geoip -- geoip city lookup module (uses libgeoip)
-* "node-github":http://github.com/ajaxorg/node-github -- A wrapper for the "GitHub API":http://develop.github.com/
-* "node-googlemaps":http://github.com/moshen/node-googlemaps -- A wrapper for the Google Maps API
 * "node-growl":http://github.com/visionmedia/node-growl -- unobtrusive notification system (growlnotify "bindings")
 * "node-libnotify":http://github.com/mitkok/node-libnotify -- unobtrusive notification system (libnotify "bindings")
 * "node-logger":http://github.com/quirkey/node-logger -- Simple logging like Ruby's logger.rb and console.log
@@ -459,11 +478,8 @@ h3(#other). "Other":#other
 * "node-hash-ring":http://github.com/bnoguchi/node-hash-ring -- A consistent hashing module
 * "node-maxmind":http://github.com/gyordanov/node-maxmind — maxmind/geoip module (using libgeoip)
 * "node-memstream":http://github.com/jfd/node-memstream — MemStream is a memory-based Stream implementation
-* "node-parallel":http://github.com/Tim-Smart/node-parallel -- Create tasks in node.js that run in parallel, or sequences that run tasks one after another.
 * "node_pcap":http://github.com/mranney/node_pcap -- Network packet capture and analysis using libpcap
 * "node-pool":http://github.com/coopernurse/node-pool -- Generic resource pool.  Useful for pooling database connections or other precious things.
-* "node-promise":http://github.com/kriszyp/node-promise -- Robust promises for node.js, includes promise utilities and promise-based I/O library
-* "node-prowl":http://github.com/mape/node-prowl -- A module that allows you to send push notifications to your iPhone through the Prowl API
 * "node-resque":http://github.com/jbr/node-resque -- Resque redis-backed job queue workers in node.js
 * "node-sandbox":http://github.com/gf3/node-sandbox -- A rudimentary javascript sandbox for use with node.js
 * "node-AWS":http://github.com/mirkok/Node-AWS -- An extendable library for Amazon Web Services currently including EC2 and the Product Advertising API
@@ -471,12 +487,10 @@ h3(#other). "Other":#other
 * "node.Amazon-S3":http://github.com/nuxusr/Node.js---Amazon-S3 -- S3 implementation with Md5 signing, upload/download progress% events, streaming, large file support. 
 * "node-solr":http://github.com/gsf/node-solr -- Solr module for Node
 * "node-sosumi":http://github.com/drudge/node-sosumi -- Use Find My Phone services from your node apps
-* "nodestalker":http://github.com/pascalopitz/nodestalker -- A beanstalkd client for node
 * "node-stomp":http://github.com/kates/node-stomp -- A basic STOMP client.
 * "node-syslog":http://github.com/schamane/node-syslog/ -- Allows sending messages to syslog.
 * "node-taglib":http://github.com/nikhilm/node-taglib -- Beginnings of bindings to "taglib":http://developer.kde.org/~wheeler/taglib
 * "node-twiml":http://github.com/derferman/node-twiml -- Easy TwiML creation in node.js
-* "node-twitter":http://github.com/jdub/node-twitter -- Asynchronous Twitter REST/stream/search client for node.js
 * "node-ugly":http://github.com/felixge/node-ugly -- Allows to run PHP code from within node.js
 * "node-uneval":http://github.com/chakrit/node-uneval -- Adds uneval() support to node.js
 * "node-worker":http://github.com/cramforce/node-worker -- An implementation of the WebWorker API for node.js
@@ -485,17 +499,9 @@ h3(#other). "Other":#other
 * "node-yql":http://github.com/drgath/node-yql -- A YQL (Yahoo Query Language) module for Node.js
 * "nshtools":http://github.com/rsdoiel/nshtools -- a high level shell scripting library for file and operating system chores
 * "simplesets":http://github.com/PeterScott/simplesets-nodejs -- Set data type, with API similar to Python's sets module. Supports any data type, with equality tested by @===@.
-* "soda.js":http://github.com/tomyan/soda -- Asynchonous JavaScript module loader for client-side and Node.js
-* "Step":http://github.com/creationix/step -- Tool for grouping and chaining asynchronous callbacks, based on "flow-js":http://github.com/willconant/flow-js
-* "node-inflow":http://github.com/shimondoodkin/node-inflow -- A next generation async control-flow library, with a shared object for called functions and debugging made easy.
-* "async.js":http://github.com/fjakobs/async.js -- Async chaining and file system utilities. Async.js is to node's fs module, what jQuery is to the DOM.
-* "async":http://github.com/caolan/async -- Comprehensive async map/reduce and flow control (parallel, series, waterfall, auto...) module that works in node and the browser
 * "Task.node":http://github.com/botanicus/task.node Simple task manager similar to Rake, Scons and others.
 * "tasks.js":http://github.com/dandean/tasks.js Tasks for Node (like Rake!) with a very JavaScripty API.
 * "temp":http://github.com/bruce/node-temp -- Temporary files and directories
-* "tumblrrr":http://github.com/mvrilo/tumblrrr -- A wrapper for Tumblr's API
-* "tweetstream":http://github.com/mikeal/tweetstream -- Stream like API for twitter's HTTP streaming interface.
-* "TwitScript":http://github.com/ryanmcgrath/twitscript -- A port of Twython to Node.js (Twitter API Library)
 * "user-agent":http://github.com/visionmedia/user-agent.js -- user agent string parser
 * "uuid":http://gist.github.com/393456 -- Efficient bulk UUID generation and caching via command-line OSSP uuid.
 * "uuid-2":http://gist.github.com/394936 -- Fork of above, works on OS X and fixes bug.
