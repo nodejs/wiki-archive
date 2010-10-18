@@ -10,6 +10,7 @@ h2. Node v0.2.3
 * "node-twitter 0.1":http://github.com/jdub/node-twitter
 * "node_redis":http://github.com/mranney/node_redis
 * "ya-csv v0.1.5":http://github.com/koles/ya-csv/
+* "node-solr v0.0.7":http://github.com/gsf/node-solr/tree/v0.0.7
 
 h2. Node v0.2.2
 * "Ni v0.1.0beta":http://github.com/chetan51/ni
