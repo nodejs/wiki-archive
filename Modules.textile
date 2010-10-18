@@ -184,7 +184,7 @@ h3(#templating). "Templating":#templating
 
 h3(#build-and-deployment). "Build and Deployment":#build-and-deployment
 * "nodejs-autorestart":http://github.com/shimondoodkin/nodejs-autorestart -- It is a way to watch all .js files if they have been changed and to restart nodejs. It allows easy development and stable production.
-* "node-config":http://github.com/ArtS/node-config -- Lightweigh configuration engine for Node.js
+* "node-config":http://github.com/ArtS/node-config -- Lightweight configuration engine for Node.js
 * "Jake":http://github.com/mde/node-jake -- JavaScript build tool similar to Make or Rake.
 * "Masson":http://github.com/wdavidw/node-masson -- Build system and rule management similar to tools like Make, Ant or Rake
 * "node-properties":http://github.com/theteam/node-properties -- Simple property reader, externalise your configuration through JSON
