@@ -101,6 +101,7 @@ h2. Companies using node
 * "Fictorial":http://fictorial.com
 * "Fostle":http://fostle.com/
 * "Heroku":http://blog.heroku.com/archives/2010/4/28/node_js_support_experimental/ Dead simple Node deployment for you, and internal tools for us.
+* "Humansized Inc.":http://www.humansized.com
 * "Joyent":http://www.joyent.com/
 * "LearnBoost":http://www.learnboost.com/ - free "gradebook":http://www.learnboost.com and lesson plan software
 * "Left Logic":http://leftlogic.com
