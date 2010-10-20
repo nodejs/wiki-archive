@@ -338,7 +338,7 @@ h4(#parsers-other). "Other Parsers":#parsers-other
 * "node-netstring":http://github.com/pgriess/node-netstring -- Read and write "netstrings":http://cr.yp.to/proto/netstrings.txt
 * "apricot":http://github.com/silentrob/Apricot -- Hpricot inspired clone, JSDom with Sizzle Selector engine and XUI for HTML augmentation
 * "node-strtok":http://github.com/pgriess/node-strtok -- A streaming tokenizer library for binary data
-* "ometa-js":http://github.com/bmavity/ometa-js -- A JavaScript OMeta implementation
+* "ometa-js":http://github.com/bmavity/ometa-js , "ometajs":http://github.com/veged/ometa-js -- A JavaScript OMeta implementation
 * "protobuf_for_node":http://code.google.com/p/protobuf-for-node/ -- Protocol buffer parsing and serialization
 * "node-markdown":http://github.com/andris9/node-markdown -- Easy to use Markdown parser
 * "highlight":http://github.com/andris9/highlight -- Code highlighter for Markdown <code> blocks and for automatic language detection
