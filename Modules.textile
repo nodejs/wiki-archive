@@ -349,6 +349,7 @@ h4(#parsers-other). "Other Parsers":#parsers-other
 * "node_spreadsheet":http://github.com/shimondoodkin/node_spreadsheet -- Read xls,xlsx,ods,csv spreadsheets (php based)
 * "carrier":http://github.com/pgte/carrier -- Evented stream line reader for node.js
 * "parser_email":http://github.com/jrgns/parser_email - Simple multi type email parser
+* "memcache-parser":http://github.com/billywhizz/node-memcache-parser - Memcached binary protocol parser
 
 
 h3(#debugging). "Debugging / Console Utilities":#debugging
