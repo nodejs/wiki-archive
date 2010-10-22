@@ -484,6 +484,7 @@ h3(#other). "Other":#other
 * "node_pcap":http://github.com/mranney/node_pcap -- Network packet capture and analysis using libpcap
 * "node-pool":http://github.com/coopernurse/node-pool -- Generic resource pool.  Useful for pooling database connections or other precious things.
 * "node-resque":http://github.com/jbr/node-resque -- Resque redis-backed job queue workers in node.js
+* "node-queue":http://github.com/pagameba/node-queue -- simple queueing service for node, similar model to SQS but much higher performance
 * "node-sandbox":http://github.com/gf3/node-sandbox -- A rudimentary javascript sandbox for use with node.js
 * "node-AWS":http://github.com/mirkok/Node-AWS -- An extendable library for Amazon Web Services currently including EC2 and the Product Advertising API
 * "node-s3":http://github.com/grippy/node-s3 -- App for basic Amazon Web Services S3 administration (upload files, bucket admin, etc.)
