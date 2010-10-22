@@ -110,6 +110,7 @@ h2. Node v0.2.0
 * "gzip":http://github.com/waveto/node-compress
 * "Hash v0.06":http://github.com/michaelsbradleyjr/Hash
 * "node-recaptcha 1.0.0":http://github.com/mirhampt/node-recaptcha
+* "node-queue 0.1":http://github.com/pagameba/node-queue/tree/rev-0.1
 
 h2. Node v0.1.104
 * "Alligator v0.3":http://github.com/mrohad/Alligator
