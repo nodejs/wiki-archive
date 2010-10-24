@@ -126,7 +126,7 @@ h2. Companies using node
 * "Ylastic":http://ylastic.com/ - uses node for report processing and admin app
 * "Pixelspark":http://www.pixelspark.nl/
 * "Newspaper Club":http://www.newspaperclub.co.uk - Uses node.js for wrapping a nasty SOAP interface to InDesign Server.
-* "NewsBasis":http://newsbasis.com (not yet launched) -- Web crawler and async work in node
+* "NewsBasis":http://newsbasis.com -- Web crawler and async work in node
 * "ipowerhouse":http://www.ipowerhouse.com - Focused on haXe/Node.js  game dev; first all haxe/node bingo product.
 * "clickdummy":http://clickdummy.net - Fast prototyping for designers and dummies
 * "LinkiT projects":http://linkit-projects.nl - Use nodejs for developing javascript sites. (http://yalia.nl/
