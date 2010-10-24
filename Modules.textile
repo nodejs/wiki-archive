@@ -524,7 +524,7 @@ h3(#other). "Other":#other
 * "forms":http://github.com/caolan/forms -- An easy way to create, parse and validate forms
 * "promised-io":http://github.com/kriszyp/promised-io -- Cross-platform promise-based I/O provides composibility on evented I/O.
 * "node-inotify":http://github.com/c4milo/node-inotify -- Bindings to GNU/Linux Inotify API
-* "node-inotify":http://github.com/coolaj86/node-inotify-plusplus -- Thin, high-level wrapper around `node-inotify`
+* "node-inotify++":http://github.com/coolaj86/node-inotify-plusplus -- Thin, high-level wrapper around `node-inotify`
 * "sneaker":http://github.com/coffeemate/sneaker -- Helps you observing objects if any attribute changes 
 * "node-proxy":http://github.com/brickysam26/node-proxy -- Object Overloading and catch-all property interceptors using "Harmony Proxies":http://wiki.ecmascript.org/doku.php?id=harmony:proxies
 * "node-ldapauth":http://github.com/joewalnes/node-ldapauth -- Authenticates users against an LDAP server
