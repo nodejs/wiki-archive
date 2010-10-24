@@ -58,6 +58,7 @@ h2. Projects / Applications
 * "jsbuild":http://github.com/azer/jsbuild -- A command-line utility that provides building CommonJS modules and packages for web
 * "NodeGame Shooter":http://github.com/BonsaiDen/NodeGame-Shooter - Multiplayer asteroids with powerups etc. Using a fat Node.js server with thin clients
 * "NodeCli":http://github.com/SchizoDuckie/Node-CLI - A super-simple class for Node.js to spice up your Node.js console output. Position cursor, clear screen, change colors
+* "noatta.ch":http://noatta.ch/ -- Instant Personal File Sharing
 
 h2. Articles
 * "Mastering Node":http://visionmedia.github.com/masteringnode/ - Open Source eBook by TJ Holowaychuk and the node community
