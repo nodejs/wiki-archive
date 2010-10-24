@@ -95,7 +95,7 @@ h2. Companies using node
 * "BrandedCode":http://brandedcode.com
 * "Chompin":http://chompin.com - discover new music, mobile app, uses node for the entire back end api
 * "Datagraph":http://datagraph.org/ - uses node as part of a sharded large-scale RDF storage system.
-* "Debuggable":http://debuggable.com/ -- Creators of "TransloadIt's":http://transloadit.com/ (image / video uploading and encoding as a service), also offers node.js training and consulting.
+* "Debuggable":http://debuggable.com/ -- Creators of "Transloadit":http://transloadit.com/ (image / video uploading and encoding as a service), also offers node.js training and consulting.
 * "Dextrose":http://dextrose.com/ -- heavily uses node for their upcoming JavaScript based game engine "Aves Engine"
 * "Deco":http://www.on-deco.com - Real-time collaborative mood boarding for web designers
 * "e-resistible":http://www.e-resistible.co.uk - uses node to handle network communication to restaurant printers
