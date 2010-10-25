@@ -178,7 +178,7 @@ h3(#templating). "Templating":#templating
 * "stencil":http://github.com/thetalecrafter/stencil -- Renders asynchronous templates shared by server and browser
 * "strobe-templates":http://github.com/skid/strobe-templates -- An asynchronous templating engine with syntax like Django's
 * "nTPL":http://github.com/donnerjack13589/nTPL -- Fast & Native extendable template system
-* "CoffeeKup":http://github.com/mauricemach/coffeekup -- Markup as CoffeeScript. "Zappa":http://expressjs.com, "Meryl":http://expressjs.com and "Express":http://expressjs.com support (node 0.2.3)
+* "CoffeeKup":http://github.com/mauricemach/coffeekup -- Markup as CoffeeScript. "Zappa":http://github.com/mauricemach/zappa, "Meryl":http://coffeemate.github.com/meryl/ and "Express":http://expressjs.com support (node 0.2.3)
 * "Eco":http://github.com/sstephenson/eco -- Embedded CoffeeScript templates
 
 h3(#build-and-deployment). "Build and Deployment":#build-and-deployment
