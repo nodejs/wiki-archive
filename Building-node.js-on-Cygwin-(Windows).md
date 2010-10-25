@@ -1,30 +1,36 @@
 Building node.js on Cygwin (Windows)
 ====
 
-1. Install [Cygwin](http://www.cygwin.com/) and use `setup.exe` to install the following required packages: 
+This tutorial will guide you through setting up the latest stable version of node.js on Cygwin. You don't need to have a working Cygwin install.
+
+1. Install [Cygwin](http://www.cygwin.com/).
+2. Use `setup.exe` from Cygwin and install the following packages required to compile node.js:
 
    * `devel  -> gcc-g++`
    * `devel  -> git`
    * `devel  -> make`
    * `devel  -> openssl`
-   * `libs    -> openssl-devel`
+   * `libs   -> openssl-devel`
    * `devel  -> pkg-config`
    * `devel  -> zlib-devel`
    * `python -> python`
- 
-2. Clone the repository and build node.js. Open `Start -> Cygwin -> Cygwin Bash Shell` and run the following commands:
+
+   You can use the search box at the top-left to locate packages quickly.
+
+2. It's time to clone the Git repository and build node.js. Start a new Cygwin shell (bash, zsh, etc.), open `Start -> Cygwin -> Cygwin Bash Shell`. Run the following commands:
 
        $ cd ~
        $ git clone git://github.com/ry/node.git
        $ cd node
        $ git fetch --all
        $ git tag
-       $ git checkout [latest-stable-tag]
+       $ git checkout [latest-stable-tag, e.g., v0.2.4]
        $ ./configure
        $ make
        $ make install
 
    It is recommended you checkout a stable tag since most of the time building **master** on Cygwin fails.
+   If you receive an error at any of the above steps, look further down for possible solutions.
 
 3. Set up Domain Name Resolution (DNS)
 
@@ -38,25 +44,37 @@ Building node.js on Cygwin (Windows)
 Build Problems
 ====
 
-python.exe: can't open file 'waf-light':
+python.exe: Can't Open File 'waf-light':
 ----
+
+    C:\Program Files\Python26\python.exe: can't open file '/home/stan/node/tools/waf-light': [Errno 2] No such file or directory
 
 This is not an issue with node.js. You are using the Windows version of `python` in Cygwin. It doesn't know how to process Cygwin style path names. You need to remove the Windows version (or make sure is not in the `PATH`) and install the Cygwin version of Python using `setup.exe`.
 
-    # Full error details
-    C:\Program Files\Python27\python.exe: can't open file '/cygdrive/c/node/tools/waf-light': [Errno 2] No such file or directory
+    # Update PATH before running ./configure for node.js
+    export PATH=/usr/bin:$PATH
 
-unable to remap to same address as parent
+Unable to Remap to Same Address as Parent
 ----
 
-This is not an issue with node.js either. Install `base -> rebase` first then close all Cygwin instances. Using `dash` or `ash` as a shell run:
+    fatal error – unable to remap \\?\C:\cygwin\lib\python2.6\lib-dynload\time.dll to same address as parent: 0×360000 != 0×3E0000
+
+This is not an issue with node.js either. Install `base -> rebase` using `setup.exe` first then close all Cygwin instances. Using `dash` or `ash` as a shell run:
 
     $ /bin/rebaseall -v
 
-It will tell you what to do further.
+Once you are done, restart your PC.
 
-    # Full error details
-    fatal error – unable to remap \\?\C:\cygwin\lib\python2.6\lib-dynload\time.dll to same address as parent: 0×360000 != 0×3E0000
+../deps/v8/tools/jsmin.py SyntaxError: invalid syntax
+----
+
+Cygwin uses a different way of handling symlinks than a regular Unix system. If you open up `jsmin.py` in an editor, you will see the actual path it needs to be symlinked to.
+
+    # from the node.js cloned repository directory, run:
+    % cd tools
+    % ln -fs `cat jsmin.py`
+
+Re-run `./configure`.
 
 Help! I've done EVERYTHING above and I'm still having trouble
 ====
