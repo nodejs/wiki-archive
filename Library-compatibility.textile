@@ -5,6 +5,7 @@ h2. Node v0.3.0-pre
 * "node_redis":http://github.com/mranney/node_redis
 * "node-syslog":http://github.com/schamane/node-syslog
 * "nun v.0.1.13":http://github.com/akaspin/nun/tree/v0.1.12
+* "pit v.0.1":http://github.com/akaspin/pit/tree/v0.1
 
 h2. Node v0.2.4
 * "dropbox-node v0.0.4":http://github.com/evnm/dropbox-node
