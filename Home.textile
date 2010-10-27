@@ -120,6 +120,7 @@ h2. Companies using node
 * "Redman Tech":http://redmantech.com -- using Node to power internal tools, real time log monitoring, and R&D projects.
 * "Plurk":http://www.plurk.com/ -- using node.js for its "new comet system":http://amix.dk/blog/post/19490#Plurk-Instant-conversations-using-comet
 * "Sexbyfood":http://www.sexbyfood.com -- a web-based reservations book for restaurateurs
+* "Shine Technologies":http://www.shinetech.com/ -- Software consultancy with offices in Brisbane & Melbourne. We're helping our client to rewrite one of Australia's largest web sites using node.
 * "SitePen":http://www.sitepen.com/ - Using node for persevere
 * "Sentymetr":http://sentymetr.pl - Social media monitoring in Poland. We use JavaScript and node.js for data processing.
 * "Szpil":https://szpil.com - Keep detailed contact histories. Review past calls and conversations. Collaborate with colleagues. 
