@@ -134,3 +134,4 @@ h2. Companies using node
 * "clickdummy":http://clickdummy.net - Fast prototyping for designers and dummies
 * "LinkiT projects":http://linkit-projects.nl - Use nodejs for developing javascript sites. (http://yalia.nl/
 * "Webbynode":http://webbynode.com
+* "Scrabbly":http://scrabb.ly - A Massively Multiplayer word game written on node.js. A Node Knockout winner.
