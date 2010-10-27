@@ -280,6 +280,7 @@ h3(#testing). "Testing / Spec Frameworks":#testing
 * "Gently":http://github.com/felixge/node-gently -- A node.js module that helps with mocking and behavior verification.
 * "patr":http://github.com/kriszyp/patr -- Promise-based asynchronous test runner: lightweight & simple.
 * "fragile":http://github.com/coffeemate/fragile -- Lightweight command line unit testing tool for nodejs 
+* "pit":http://github.com/akaspin/pit -- Simple drop-in test runner with optional control tools
 
 h3(#wrappers). "Wrappers":#wrappers
 * "bdog-node":http://github.com/blackdog66/bdog-node -- haXe wrappers for node.
