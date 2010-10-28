@@ -377,6 +377,8 @@ h2. UTC+1 (+2)
 ** "Website":http://blog.roothausen.de, "Github":http://github.com/pfleidi, "Twitter":http://twitter.com/pfleidi
 * Robert Sköld (slaskis), Stockholm, Sweden
 ** "Github":http://github.com/slaskis, "Website":http://publicclass.se/
+* Mario Volke (Germany)
+** "Website":http://mariovolke.com, "Github":http://github.com/webholics, "Twitter":http://twitter.com/webholics
 
 h2. UTC+2 (+3)
 * Shimon Doodkin (shimondoodkin), Israel
