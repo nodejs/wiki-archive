@@ -375,7 +375,8 @@ h2. UTC+1 (+2)
 ** "Github":http://github.com/slaskis, "Website":http://publicclass.se/
 
 h2. UTC+2 (+3)
-
+* Shimon Doodkin (Yehood), Israel
+** "Github":http://github.com/shimondoodkin, "Twitter":http://twitter.com/doodkin, "Website":http://doodkin.com
 * Artem Gnilov (Boo), Ukraine
 ** "Github":http://github.com/BooBSD, "Blog":http://boo.openbdsm.org/, "Twitter":http://twitter.com/BooBSD
 * Yuriy Bogdanov (octave), Ukraine
