@@ -421,6 +421,8 @@ h2. UTC+1 (+2)
 **  "Github":http://github.com/garrensmith, "Twitter":http://twitter.com/garrensmith
 * Stéphan Kochen (stephank), The Netherlands
 ** "Github":http://github.com/stephank, "Website":http://stephan.kochen.nl/, "Twitter":http://twitter.com/ko_si_nus
+* Tomaž Muraus (Kami), Maribor, Slovenia
+** "Github":http://github.com/Kami, "Twitter":http://twitter.com/KamiSLO
 
 h2. UTC+2 (+3)
 * Shimon Doodkin (shimondoodkin), Israel
