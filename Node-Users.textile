@@ -448,7 +448,7 @@ h2. UTC+2 (+3)
 * Erdem Gezer (erdemgezer), Turkey
 ** "Website":http://www.toptwittertrends.com, "Twitter":http://twitter.com/erdemgezer
 * Dionysios G. Synodinos (synodinos), Greece
-** "Twitter":http://twitter.com/synodinos
+** "Github":http://github.com/synodinos, "Twitter":http://twitter.com/synodinos
 
 h2. UTC+3 (+4)
 
