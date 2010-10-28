@@ -316,6 +316,8 @@ h2. UTC+0 (+1)
 ** "GitHub":http://github.com/fjakobs, "Twitter":http://twitter.com/fjakobs
 * Rob Tweed (rtweed)
 ** "Website":http://www.mgateway.com/, "GitHub":http://github.com/robtweed, "Twitter":http://twitter.com/rtweed
+* Jonathan Lister (jayfresh), London
+** "Github":http://github.com/jayfresh, "Twitter":http://twitter.com/jayfresh, "Website":http://withjandj.com
 
 h2. UTC+1 (+2)
 * Arnout Kazemier (V1), The Netherlands
