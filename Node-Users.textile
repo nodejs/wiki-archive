@@ -140,6 +140,8 @@ h2. UTC-6 (-5)
 ** "GitHub":http://github.com/bigeasy, "Twitter":http://twitter.com/bigeasy
 * James Pearce (jamesgpearce), San Pedro, Belize
 ** "GitHub":http://github.com/jamesgpearce, "Twitter":http://twitter.com/jamesgpearce, "Website":http://www.tripleodeon.com
+* Ryan Gahl (ryan_gahl)
+** "GitHub":http://github.com/ryedin, "Twitter":http://twitter.com/ryangahl
 
 h2. UTC-5 (-4)
 
