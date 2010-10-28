@@ -230,6 +230,8 @@ h2. UTC-5 (-4)
 ** "GitHub":http://github.com/nefD, "Website":http://www.sevrd.com/
 * Dean Landolt (deanlandolt), Clarksburg, MD
 ** "GitHub":http://github.com/deanlandolt, "Website":http://deanlandolt.com/
+* Scott Fitchet (figital), Jamaica Plain, MA
+** "GitHub":http://github.com/figital, "Website":http://figital.com/
 
 h2. UTC-4 (-3)
 
