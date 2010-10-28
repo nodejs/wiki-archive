@@ -144,7 +144,8 @@ h2. UTC-6 (-5)
 ** "Website":http://cloudhead.io, "Twitter":http://twitter.com/cloudhead, "Github":http://github.com/cloudhead
 * James Carr (jamescarr), Columbia, MO, US
 ** "GitHub":http://github.com/jamescarr, "Twitter":http://twitter.com/jamescarr, "Website":http://blog.james-carr.org
-
+* Marc Grabanski (1marc), Minneapolis, MN, US
+** "GitHub":http://github.com/1marc, "Twitter":http://twitter.com/1marc, "Website":http://marcgrabanski.com
 * Stephen Veit (srveit), St. Louis, MO, US
 ** "GitHub":http://github.com/srveit, "Twitter":http://twitter.com/srveit, "Website":http://TradeHarbor.com
 * Sean Carley (milythael), St. Louis, MO, US
