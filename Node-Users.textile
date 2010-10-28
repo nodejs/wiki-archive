@@ -490,6 +490,8 @@ h2. UTC+8
 ** "GitHub":http://juvenn.github.com, "Twitter":http://twitter.com/juvenn
 * Senmiao Liu (zir), China
 ** "Github":http://github.com/zir/
+* Kenny Shen(kennyshen), Singapore
+** "Github":http://www.github.com/kennyshen, "Website":http://www.northpole.sg, "Twitter":http://twitter.com/kenny_shen
 
 h2. UTC+9
 
