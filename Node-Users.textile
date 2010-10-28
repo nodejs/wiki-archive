@@ -477,6 +477,8 @@ h2. UTC+9
 ** "github":http://github.com/kawaz, "Twitter":http://twitter.com/kawaz, "Blog":http://d.hatena.ne.jp/y-kawaz/
 * Motohiro Takayama (mootoh), Tokyo
 ** "github":http://github.com/mootoh, "Twitter":http://twitter.com/mootoh, "Blog":http://deadbeaf.org
+* Tomoyuki Maruta (maru_cc), Tokyo
+** "github":http://github.com/marucc, "Twitter":http://twitter.com/maru_cc, "Blog":http://maru.cc/
 
 h2. UTC+10 or UTC+11
 
