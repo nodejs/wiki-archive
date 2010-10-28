@@ -228,6 +228,8 @@ h2. UTC-5 (-4)
 ** "GitHub":http://github.com/Wred, "Twitter":http://twitter.com/mediafresh, "Website":http://mediafresh.net/
 * Corey Martin (nefD), Atlanta, GA
 ** "GitHub":http://github.com/nefD, "Website":http://www.sevrd.com/
+* Dean Landolt (deanlandolt), Clarksburg, MD
+** "GitHub":http://github.com/deanlandolt, "Website":http://deanlandolt.com/
 
 h2. UTC-4 (-3)
 
