@@ -106,6 +106,8 @@ h2. UTC-8
 ** "Github":http://github.com/nrub, "Twitter":http://twitter.com/nrub, "Website":http://typosfrompaul.com
 * Cagdas Tulek (cagdas)
 ** "Github":http://github.com/ctulek, "Twitter":http://twitter.com/ctulek, "Website":http://tulek.org
+* Anders Conbere (aconbere), Seattle, WA, USA
+** "Github":http://github.com/aconbere, "Twitter":http://twitter.com/aconbere, "Website":http://anders.conbere.org
 
 h2. UTC-7 (-6)
 * Michaeljohn Clement (inimino)
