@@ -92,6 +92,8 @@ h2. UTC-8
 ** "Github":http://github.com/rsdoiel, "Twitter":http://twitter.com/rsdoiel
 * Nathan Rajlich (TooTallNate), San Rafael, CA, US
 ** "Github":http://github.com/TooTallNate, "Website":http://tootallnate.net
+* Evan Meagher (evanmeagher), Seattle, WA, US
+** "GitHub":http://github.com/evnm, "Twitter":http://twitter.com/evanmeagher, "Website":http://evanmeagher.net
 
 h2. UTC-7 (-6)
 * Michaeljohn Clement (inimino)
