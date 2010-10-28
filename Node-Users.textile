@@ -245,6 +245,8 @@ h2. UTC-5 (-4)
 ** "GitHub":http://github.com/figital, "Website":http://figital.com/
 * Tyler Larson (talltyler), New York, NY
 ** "GitHub":http://github.com/talltyler
+* Francis Houle, Montréal, Canada
+** "GitHub":http://github.com/fr6, "Website":http://www.francishoule.com
 
 h2. UTC-4 (-3)
 
