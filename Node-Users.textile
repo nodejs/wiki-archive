@@ -256,7 +256,8 @@ h2. UTC-3 (-2)
 ** "Twitter":http://twitter.com/mvrilo, "Google Profile":http://www.google.com/profiles/mvrilo
 * Filipe La Ruina (filaruina)
 ** "Github":http://github.com/filipelaruina, "Twitter":http://twitter.com/filipelaruina, "Google Profile":http://www.google.com/profiles/filaruina
-
+* Valentin Starck
+** "Google Profile":http://www.google.com/profiles/Valentin.starck
 
 h2. UTC+0 (0)
 
