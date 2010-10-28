@@ -454,7 +454,7 @@ h2. UTC+9
 * Michael(@tm@) Smith (mikew3c), Tokyo
 ** "github":http://github.com/sideshowbarker, "twitter":http://twitter.com/sideshowbarker, "w3.org/mike":http://people.w3.org/mike/
 * Jeonghoon Byun (outsider), South Korea
-** "Twitter":http://twitter.com/outsider__, "GitHub":http://github.com/outsideris, "Blog":http://blog.outsider.ne.kr/
+** "Twitter":http://twitter.com/outsider__/, "GitHub":http://github.com/outsideris, "Blog":http://blog.outsider.ne.kr/
 
 h2. UTC+10 or UTC+11
 
