@@ -418,6 +418,8 @@ h2. UTC+5
 ** "Twitter":http://twitter.com/deltasquare4, "Github":http://github.com/deltasquare4/, "Website":http://www.rakshitmenpara.com/
 * Shreeram Dittakavi (shreekavi), India
 ** "Twitter":http://twitter.com/shreekavi, "Github":http://github.com/shreekavi/
+* Shripad K (shripadk), India
+** "Twitter":http://twitter.com/24shri, "Github":http://github.com/shripadk/
 
 h2. UTC+6
 
