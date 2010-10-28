@@ -258,6 +258,8 @@ h2. UTC+0 (0)
 
 * Jon Gretar Borgthorsson (JonGretar)
 ** "Website":http://medevyoujane.com, "Github":http://github.com/JonGretar, "Twitter":http://twitter.com/JonGretar
+* Tane Piper (digitalspaghetti)
+** "GitHub":http://github.com/tanepiper, "Website":http://tanepiper.com, "Twitter":http://twitter.com/tanepiper
 
 h2. UTC+0 (+1)
 
