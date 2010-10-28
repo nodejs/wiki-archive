@@ -155,6 +155,7 @@ h3(#templating). "Templating":#templating
 * "Parrot":http://github.com/ollym/parrot -- A lightning fast and lightweight templating engine for Node.js (Just 33 LOC!)
 * "nodejs-meta-templates":http://github.com/shimondoodkin/nodejs-meta-templates -- like php mixed with html, processed twice, 1st  static data, 2nd dynamic data.
 * "asyncEJS":http://github.com/cramforce/node-asyncEJS -- Asynchronous implementation of embedded JavaScript
+* "dust":http://akdubya.github.com/dustjs -- Async, streaming & composable templates for the browser and node
 * "ejs":http://github.com/visionmedia/ejs -- Light-weight Embedded JavaScript implementation. "Express":http://expressjs.com compliant
 * "haml.js":http://github.com/visionmedia/haml.js -- Faster / more compliant implementation of Haml. "Express":http://expressjs.com support
 * "haml-js":http://github.com/creationix/haml-js -- Server side html generation using javascript.  Parses haml templates and renders html.
