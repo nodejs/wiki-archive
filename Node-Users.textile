@@ -490,7 +490,7 @@ h2. UTC+9
 ** "github":http://github.com/masahiroh, "Twitter":http://twitter.com/masahiroh,
 * Hidekazu Kobayashi (KOBA789), Saitama Japan
 ** "Twitter":http://twitter.com/koba789
-* Norihiro Ide (norry_gogo), Tokyo
+* Norihiro Ide (norry_gogo), Kanagawa
 ** "github":http://github.com/norry-gogo, "Twitter":http://twitter.com/norry_gogo
 
 h2. UTC+10 or UTC+11
