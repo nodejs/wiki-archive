@@ -466,6 +466,11 @@ h2. UTC+9
 * Jeonghoon Byun (outsider), South Korea
 ** "Twitter":http://twitter.com/outsider__/, "GitHub":http://github.com/outsideris, "Blog":http://blog.outsider.ne.kr/
 
+h2. UTC+/-n (+/-n summer)
+
+* Toshihiro Shimizu (meso)
+** "github":http://github.com/meso, "Twitter":http://twitter.com/meso, "Node.js Japan User Group":http://nodejs.jp
+
 h2. UTC+10 or UTC+11
 
 * Gareth Jones, Melbourne, Australia
