@@ -102,6 +102,8 @@ h2. UTC-8
 ** "Github":http://github.com/lucisferre, "Twitter":http://twitter.com/lucsiferre, "Website":http://lucisferre.net
 * Corey Hart (codenothing), San Jose, CA, US
 ** "Github":http://github.com/codenothing, "Twitter":http://twitter.com/codeNothing, "Website":http://codenothing.com
+* Paul English (nrub), San Luis Obispo, CA, US
+** "Github":http://github.com/nrub, "Twitter":http://twitter.com/nrub, "Website":http://typosfrompaul.com
 
 h2. UTC-7 (-6)
 * Michaeljohn Clement (inimino)
