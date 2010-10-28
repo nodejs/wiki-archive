@@ -448,13 +448,14 @@ h2. UTC+7
 h2. UTC+8
 * Vanilla Hsu(vanillahsu),Taiwan
 ** "Github":http://github.com/vanillahsu/
+* Yu-Chung Wang(wycc), Taiwan
+** "Website":http://www.assembla.com/wiki/show/MadButterfly
 * Jerry sun(sjerrys),China
 ** "group":http://www.douban.com/group/second.life/
 * Juvenn Woo (juvenn), China
 ** "GitHub":http://juvenn.github.com, "Twitter":http://twitter.com/juvenn
 * Senmiao Liu (zir), China
 ** "Github":http://github.com/zir/
-
 h2. UTC+9
 * Jed Schmidt (jed)
 ** "Website":http://jedschmidt.com, "Twitter":http://twitter.com/jedschmidt, "GitHub":http://github.com/jed
