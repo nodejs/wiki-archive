@@ -61,6 +61,7 @@ h2. Projects / Applications
 * "noatta.ch":http://noatta.ch/ -- Instant Personal File Sharing
 * "node-tracker":http://github.com/pleax/node-tracker -- BitTorrent tracker implemented with Node.js
 * "Scrabbly":http://scrabb.ly - A Massively Multiplayer word game written on node.js. A Node Knockout winner.
+* "node-boilerplate":http://github.com/robrighter/node-boilerplate -- Everything you need to get started on a Node.js website with express and socket.IO
 
 h2. Articles
 * "Mastering Node":http://visionmedia.github.com/masteringnode/ - Open Source eBook by TJ Holowaychuk and the node community
