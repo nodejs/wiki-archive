@@ -345,6 +345,8 @@ h2. UTC+1 (+2)
 ** "Github":http://github.com/tidal,  "Blog":http://blog.esfex.com/
 * Stephen Band (stephband)
 ** "Github":http://github.com/stephband,  "Twitter":http://twitter.com/stephband, "Website":http://webdev.stephband.info
+* Tim Burkert (gehhilfe)
+** "Github":http://github.com/Gehhilfe, "Twitter":http://twitter.com/Gehhilfe
 * Tim Eggert (elbart)
 ** "Github":http://github.com/elbart, "Twitter":http://twitter.com/elbartus
 * Nico Tübingen (nico2280)
