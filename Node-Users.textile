@@ -126,6 +126,8 @@ h2. UTC-7 (-6)
 ** "GitHub":http://github.com/tristandunn, "Twitter":http://twitter.com/tristandunn, "Website":http://tristandunn.com
 * Xavi Ramirez (Xavi), Boston, MA, US
 ** "GitHub":http://github.com/xavi-/ "Twitter":http://twitter.com/xavi_/, "Website":http://the-xavi.com
+* Robert Schultz (Sembiance), Boston, MA, US
+** "GitHub":http://github.com/Sembiance, "Twitter":http://twitter.com/sembiance
 * Rob Robbins (robrobbins), Phoenix, AZ, US
 ** "GitHub":http://github.com/robrobbins/, "Twitter":http://twitter.com/RobRobbins/, "Blog":http://robrobbins.info
 
