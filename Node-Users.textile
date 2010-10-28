@@ -292,7 +292,8 @@ h2. UTC+0 (+1)
 ** "GitHub":http://github.com/paulobsf, "Twitter":http://twitter.com/paulobsf, "Website":http://paulobsf.tumblr.com
 * Remy Sharp
 ** "Website":http://remysharp.com/, "GitHub":http://github.com/remy, "Twitter":http://twitter.com/rem
-
+* Seyi Ogunyemi
+** "GitHub":http://github.com/micrypt, "Twitter":http://twitter.com/micrypt, "Website":http://micrypt.com
 
 h2. UTC+1 (+2)
 * Arnout Kazemier (V1), The Netherlands
