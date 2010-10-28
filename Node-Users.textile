@@ -94,6 +94,8 @@ h2. UTC-8
 ** "Github":http://github.com/TooTallNate, "Website":http://tootallnate.net
 * Evan Meagher (evanmeagher), Seattle, WA, US
 ** "GitHub":http://github.com/evnm, "Twitter":http://twitter.com/evanmeagher, "Website":http://evanmeagher.net
+* Jacob Chapel (chapel), Spokane, WA, US
+** "GitHub":http://github.com/chapel, "Twitter":http://twitter.com/jacobchapel, "Website":http://wastingyourlife.co
 
 h2. UTC-7 (-6)
 * Michaeljohn Clement (inimino)
