@@ -497,6 +497,8 @@ h2. UTC+10 or UTC+11
 ** "Twitter":http://twitter.com/nomiddlename, "Github":http://github.com/csausdev
 * Daniel Neighman, Melbourne, Australia
 ** "Twitter":http://twitter.com/hassox, "Github":http://github.com/hassox
+* Mark Nottingham, Melbourne, Australia
+** "Twitter":http://twitter.com/mnot, "Github":http://github.com/mnot, "Website":http://www.mnot.net
 * Eugene Ware, Melbourne, Australia
 ** "Twitter":http://twitter.com/eugeneware, "Github":http://github.com/nharbour, "Website":http://eugeneware.com
 
