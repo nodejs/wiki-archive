@@ -386,6 +386,8 @@ h2. UTC+1 (+2)
 ** "Github":http://github.com/slaskis, "Website":http://publicclass.se/
 * Gregoire Lejeune
 ** "Website":http://algorithmique.net, "Github":http://github.com/glejeune, "Twitter":http://twitter.com/glejeune
+* Garren Smith
+**  "Github":http://github.com/garrensmith, "Twitter":http://twitter.com/garrensmith
 
 h2. UTC+2 (+3)
 * Shimon Doodkin (shimondoodkin), Israel
