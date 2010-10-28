@@ -488,7 +488,7 @@ h2. UTC+9
 ** "github":http://github.com/marucc, "Twitter":http://twitter.com/maru_cc, "Website":http://maru.cc/, "Blog":http://d.hatena.ne.jp/maru_cc/
 * Masahiro Hayashi (masahiroh), Tokyo
 ** "github":http://github.com/masahiroh, "Twitter":http://twitter.com/masahiroh,
-* Hidekazu Kobayashi (KOBA789), Saitama Japan
+* Hidekazu Kobayashi (KOBA789), Saitama
 ** "Twitter":http://twitter.com/koba789
 * Norihiro Ide (norry_gogo), Kanagawa
 ** "github":http://github.com/norry-gogo, "Twitter":http://twitter.com/norry_gogo
