@@ -521,6 +521,8 @@ h2. UTC+9
 ** "Github":http://github.com/koichik, "Twitter":http://twitter.com/koichik/, "Blog":http://d.hatena.ne.jp/koichik/
 * Yusuke Kagiwada (Jxck), Tokyo, Japan
 ** "Github":http://github.com/Jxck, "Twitter":http://twitter.com/Jxck_/, "Blog":http://d.hatena.ne.jp/Jxck/
+* Shotaro Tsubouchi (shootaroo), Tokyo, Japan
+** "Github":http://github.com/shootaroo, "Twitter":http://twitter.com/shootaroo, "Blog":http://d.hatena.ne.jp/shootaroo/
 
 h2. UTC+10 or UTC+11
 
