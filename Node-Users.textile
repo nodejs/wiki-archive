@@ -377,8 +377,6 @@ h2. UTC+1 (+2)
 ** "Website":http://blog.roothausen.de, "Github":http://github.com/pfleidi, "Twitter":http://twitter.com/pfleidi
 * Robert Sköld (slaskis), Stockholm, Sweden
 ** "Github":http://github.com/slaskis, "Website":http://publicclass.se/
-* Mario Volke (Germany)
-** "Website":http://mariovolke.com, "Github":http://github.com/webholics, "Twitter":http://twitter.com/webholics
 
 h2. UTC+2 (+3)
 * Shimon Doodkin (shimondoodkin), Israel
@@ -471,6 +469,8 @@ h2. UTC+9
 ** "Twitter":http://twitter.com/outsider__/, "GitHub":http://github.com/outsideris, "Blog":http://blog.outsider.ne.kr/
 * Toshihiro Shimizu (meso), Tokyo
 ** "github":http://github.com/meso, "Twitter":http://twitter.com/meso, "Node.js Japan User Group":http://nodejs.jp
+* Yoshiaki Kawazu (kawaz), Chiba
+** "github":http://github.com/kawaz, "Twitter":http://twitter.com/kawaz, "Blog":http://d.hatena.ne.jp/y-kawaz/, 
 
 h2. UTC+10 or UTC+11
 
