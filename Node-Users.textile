@@ -100,6 +100,7 @@ h2. UTC-8
 ** "Github":http://github.com/trentm, "Twitter":http://twitter.com/trentmick
 * Chris Nicola (lucisferre), Vancouver, BC, Canada
 ** "Github":http://github.com/lucisferre, "Twitter":http://twitter.com/lucsiferre
+
 h2. UTC-7 (-6)
 * Michaeljohn Clement (inimino)
 ** "Blog":http://inimino.org/~inimino/blog/, "Code":http://boshi.inimino.org/3box/, "Twitter":http://twitter.com/inimino
