@@ -96,6 +96,8 @@ h2. UTC-8
 ** "GitHub":http://github.com/evnm, "Twitter":http://twitter.com/evanmeagher, "Website":http://evanmeagher.net
 * Jacob Chapel (chapel), Spokane, WA, US
 ** "GitHub":http://github.com/chapel, "Twitter":http://twitter.com/jacobchapel, "Website":http://wastingyourlife.co
+* Trent Mick (trentm), Vancouver, BC, Canada
+** "Github":http://github.com/trentm, "Twitter":http://twitter.com/trentmick
 
 h2. UTC-7 (-6)
 * Michaeljohn Clement (inimino)
