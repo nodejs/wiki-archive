@@ -487,7 +487,9 @@ h2. UTC+9
 * Tomoyuki Maruta (maru_cc), Tokyo
 ** "github":http://github.com/marucc, "Twitter":http://twitter.com/maru_cc, "Website":http://maru.cc/, "Blog":http://d.hatena.ne.jp/maru_cc/
 * Masahiro Hayashi (masahiroh), Tokyo
-** "github":http://github.com/masahiroh, "Twitter":http://twitter.com/masahiroh
+** "github":http://github.com/masahiroh, "Twitter":http://twitter.com/masahiroh,
+* Hidekazu Kobayashi (KOBA789), Saitama Japan
+** "Twitter":http://twitter.com/koba789
 
 h2. UTC+10 or UTC+11
 
