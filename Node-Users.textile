@@ -486,6 +486,8 @@ h2. UTC+9
 ** "github":http://github.com/mootoh, "Twitter":http://twitter.com/mootoh, "Blog":http://deadbeaf.org
 * Tomoyuki Maruta (maru_cc), Tokyo
 ** "github":http://github.com/marucc, "Twitter":http://twitter.com/maru_cc, "Website":http://maru.cc/, "Blog":http://d.hatena.ne.jp/maru_cc/
+* Masahiro Hayashi (masahiroh), Tokyo
+** "github":http://github.com/masahiroh, "Twitter":http://twitter.com/maasahiroh,
 
 h2. UTC+10 or UTC+11
 
