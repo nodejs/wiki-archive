@@ -511,6 +511,8 @@ h2. UTC+9
 ** "github":http://github.com/norry-gogo, "Twitter":http://twitter.com/norry_gogo
 * Koichi Kobayashi (koichik), Kanagawa, Japan
 ** "Github":http://github.com/koichik, "Twitter":http://twitter.com/koichik/, "Blog":http://d.hatena.ne.jp/koichik/
+* Yusuke Kagiwada (Jxck), Tokyo, Japan
+** "Github":http://github.com/Jxck, "Twitter":http://twitter.com/Jxck_/, "Blog":http://d.hatena.ne.jp/Jxck/
 
 h2. UTC+10 or UTC+11
 
