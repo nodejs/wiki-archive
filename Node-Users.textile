@@ -492,6 +492,8 @@ h2. UTC+9
 ** "Twitter":http://twitter.com/koba789
 * Norihiro Ide (norry_gogo), Kanagawa
 ** "github":http://github.com/norry-gogo, "Twitter":http://twitter.com/norry_gogo
+* Koichi Kobayashi (koichik), Kanagawa, Japan
+** "Github":http://github.com/koichik, "Twitter":http://twitter.com/koichik/, "Blog":http://d.hatena.ne.jp/koichik/
 
 h2. UTC+10 or UTC+11
 
