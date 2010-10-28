@@ -84,8 +84,6 @@ h2. UTC-8
 ** "Github":http://github.com/saikat, "Twitter":http://twitter.com/saikatc, "Website":http://gomockingbird.com
 * Brian Noguchi (bnoguchi), San Francisco, CA, US
 ** "Github":http://github.com/bnoguchi, "Twitter":http://twitter.com/briannoguchi
-* Nick Poulden (nick), San Francisco, CA, US
-** "Github":http://github.com/nick, "Twitter":http://twitter.com/nick_p, "Website":http://www.e-resistible.co.uk
 * Dylan Clendenin (deepthawtz), Santa Cruz, CA, US
 ** "Github":http://github.com/deepthawtz, "Twitter":http://twitter.com/deepthawtz
 * Daniel Erickson (techwraith), Portland, OR, US
@@ -165,6 +163,8 @@ h2. UTC-6 (-5)
 ** "GitHub":http://github.com/ryedin, "Twitter":http://twitter.com/ryangahl
 * Dav Glass (davglass), Marion, IL, US
 ** "GitHub":http://github.com/davglass, "Twitter":http://twitter.com/davglass, "Website":http://blog.davglass.com
+* Alex Brown (destructivegenius), Dallas, TX, US
+** "Website":http://destructivegenius.com/, "GitHub":http://github.com/abrown28
 
 h2. UTC-5 (-4)
 
