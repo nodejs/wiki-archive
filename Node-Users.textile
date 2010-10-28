@@ -165,6 +165,8 @@ h2. UTC-6 (-5)
 ** "GitHub":http://github.com/davglass, "Twitter":http://twitter.com/davglass, "Website":http://blog.davglass.com
 * Alex Brown (destructivegenius), Dallas, TX, US
 ** "Website":http://destructivegenius.com/, "GitHub":http://github.com/abrown28
+* Brian Carlson (brianc), Austin, TX, US
+** "GitHub":http://github.com/brianc, "Twitter":http://twitter.com/briancarlson
 
 h2. UTC-5 (-4)
 
