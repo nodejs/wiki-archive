@@ -548,6 +548,8 @@ h2. UTC+10 or UTC+11
 ** "Twitter":http://twitter.com/mnot, "Github":http://github.com/mnot, "Website":http://www.mnot.net
 * Eugene Ware, Melbourne, Australia
 ** "Twitter":http://twitter.com/eugeneware, "Github":http://github.com/nharbour, "Website":http://eugeneware.com
+* Peter Georgeson, Melbourne, Australia
+** "Twitter":http://twitter.com/petergeorgeson, "Github":http://github.com/supernifty, "Website":http://www.supernifty.com.au/
 
 * Dr Nic Williams, Brisbane, Australia
 ** "Twitter":http://twitter.com/drnic, "Github":http://github.com/drnic, "Website":http://drnicwilliams.com
