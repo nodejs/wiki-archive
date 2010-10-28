@@ -470,7 +470,7 @@ h2. UTC+9
 * Toshihiro Shimizu (meso), Tokyo
 ** "github":http://github.com/meso, "Twitter":http://twitter.com/meso, "Node.js Japan User Group":http://nodejs.jp
 * Yoshiaki Kawazu (kawaz), Chiba
-** "github":http://github.com/kawaz, "Twitter":http://twitter.com/kawaz, "Blog":http://d.hatena.ne.jp/y-kawaz/, 
+** "github":http://github.com/kawaz, "Twitter":http://twitter.com/kawaz, "Blog":http://d.hatena.ne.jp/y-kawaz/
 
 h2. UTC+10 or UTC+11
 
