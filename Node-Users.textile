@@ -112,6 +112,8 @@ h2. UTC-8
 ** "Github":http://github.com/samsonjs, "Twitter":http://twitter.com/_sjs, "Website":http://samhuri.net
 * Jim Pick (jpick), Vancouver, BC, Canada
 ** "GitHub":http://github.com/jpick, "Twitter":http://twitter.com/jimpick, "Website":http://jimpick.com
+* Gregory McWhirter (gsmcwhirter), Irvine, CA, USA
+** "GitHub":http://github.com/gsmcwhirter, "Twitter":http://twitter.com/gsmcwhirter
 
 h2. UTC-7 (-6)
 * Aria Stewart (Aria, aredridel), Ridgway, CO, US
