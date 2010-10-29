@@ -176,9 +176,11 @@ h2. UTC-5 (-4)
 * Paul Barry (pjb3)
 ** "GitHub":http://github.com/pjb3, "Twitter":http://twitter.com/pjb3, "Website":http://paulbarry.com
 * Marak Squires (JimBastard)
-** "GitHub":http://github.com/marak, "Website":http://maraksquires.com, "node_debug":http://maraksquires.com/node_debug/
+** "GitHub":http://github.com/marak, "Website":http://maraksquires.com, "Nodejitsu":http://nodejitsu.com, "node_debug":http://maraksquires.com/node_debug/
 * Elijah Insua (tmpvar)
-** "Twitter":http://twitter.com/tmpvar, "Github":http://github.com/tmpvar
+** "Twitter":http://twitter.com/tmpvar, "Github":http://github.com/tmpvar, "Nodejitsu":http://nodejitsu.com
+* Charlie Robbins (indexzero)
+** "Twitter":http://twitter.com/indexzero, "Github":http://github.com/indexzero, "Website":http://charlierobbins.com, "Nodejitsu":http://nodejitsu.com
 * Kyle Slattery
 ** "Twitter":http://twitter.com/kyleslattery, "Github":http://github.com/kyleslattery/, "Website":http://kyleslattery.com
 * Adam Solove
