@@ -490,7 +490,6 @@ h3(#other). "Other":#other
 * "node-pool":http://github.com/coopernurse/node-pool -- Generic resource pool.  Useful for pooling database connections or other precious things.
 * "node-resque":http://github.com/jbr/node-resque -- Resque redis-backed job queue workers in node.js
 * "node-queue":http://github.com/pagameba/node-queue -- simple queueing service for node, similar model to SQS but much higher performance
-* "node-sandbox":http://github.com/gf3/node-sandbox -- A rudimentary javascript sandbox for use with node.js
 * "node-AWS":http://github.com/mirkok/Node-AWS -- An extendable library for Amazon Web Services currently including EC2 and the Product Advertising API
 * "node-s3":http://github.com/grippy/node-s3 -- App for basic Amazon Web Services S3 administration (upload files, bucket admin, etc.)
 * "node.Amazon-S3":http://github.com/nuxusr/Node.js---Amazon-S3 -- S3 implementation with Md5 signing, upload/download progress% events, streaming, large file support. 
@@ -535,6 +534,7 @@ h3(#other). "Other":#other
 * "node-ldapauth":http://github.com/joewalnes/node-ldapauth -- Authenticates users against an LDAP server
 * "nodejs-clone-extend":http://github.com/shimondoodkin/nodejs-clone-extend -- a versatile clone and extend like underline.js, to clone JavaScript objects, enables DRY.
 * "node-search":http://github.com/talltyler/node-search -- An asynchronous full text search engine for node
+* "sandbox":http://github.com/gf3/sandbox -- A nifty javascript sandbox for use with node.js
 * "Sibilant":http://github.com/jbr/sibilant -- A lispy language that compiles to js
 * "pdf.js":http://github.com/marak/pdf.js -- A pdf renderer for node
 * "node-recaptcha":http://github.com/mirhampt/node-recaptcha -- Display and verify Recaptcha captchas
