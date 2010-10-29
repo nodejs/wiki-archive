@@ -112,6 +112,8 @@ h2. UTC-8
 ** "Github":http://github.com/samsonjs, "Twitter":http://twitter.com/_sjs, "Website":http://samhuri.net
 
 h2. UTC-7 (-6)
+* Aria Stewart (Aria, aredridel), Ridgway, CO, US
+** "Blog":http://aria.blogs.theinternetco.net/, "GitHub":http://githut.com/aredridel/, "Twitter":http://twitter.com/aredridel
 * Michaeljohn Clement (inimino)
 ** "Blog":http://inimino.org/~inimino/blog/, "Code":http://boshi.inimino.org/3box/, "Twitter":http://twitter.com/inimino
 * Greg Ritter (gjritter)
