@@ -459,6 +459,8 @@ h2. UTC+2 (+3)
 ** "Website":http://www.toptwittertrends.com, "Twitter":http://twitter.com/erdemgezer
 * Dionysios G. Synodinos (synodinos), Greece
 ** "Github":http://github.com/synodinos, "Twitter":http://twitter.com/synodinos
+* George Stagakis (stagas), Greece
+** "Website":http://stagas.com, "Github":http://github.com/stagas, "Twitter":http://twitter.com/stagas
 
 h2. UTC+3 (+4)
 
