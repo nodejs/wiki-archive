@@ -249,6 +249,8 @@ h2. UTC-5 (-4)
 ** "GitHub":http://github.com/talltyler
 * Francis Houle, Montréal, Canada
 ** "GitHub":http://github.com/fr6, "Website":http://www.francishoule.com
+* David Trejo (DTrejo), Providence, RI, US (also Berkeley, CA)
+** "Github":http://github.com/DTrejo, "Twitter":http://twitter.com/ddtrejo, "Website":http://dtrejo.com
 
 h2. UTC-4 (-3)
 
