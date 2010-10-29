@@ -549,6 +549,8 @@ h2. UTC+9
 ** "Github":http://github.com/Jxck, "Twitter":http://twitter.com/Jxck_/, "Blog":http://d.hatena.ne.jp/Jxck/
 * Shotaro Tsubouchi (shootaroo), Tokyo, Japan
 ** "Github":http://github.com/shootaroo, "Twitter":http://twitter.com/shootaroo, "Blog":http://d.hatena.ne.jp/shootaroo/
+* Yuya Nishiyama (nsyee), Tokyo, Japan
+** "Github":http://github.com/nsyee, "Twitter":http://twitter.com/nsyee, "Blog":http://madvib.es/
 
 h2. UTC+10 or UTC+11
 
