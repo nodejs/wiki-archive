@@ -12,7 +12,7 @@ h2. UTC-9
 ** "GitHub":http://github.com/substack, "Website":http://substack.net
 
 h2. UTC-8
-* Ryan Dahl (ryah)
+* Ryan Dahl (ryah), San Francisco, CA, US
 ** "GitHub":http://github.com/ry, "Twitter":http://twitter.com/ryah, "Website":http://tinyclouds.org
 * Mikeal Rogers (mikeal), Oakland, CA, US
 ** "GitHub":http://github.com/mikeal, "Twitter":http://twitter.com/mikeal, "Website":http://www.mikealrogers.com
@@ -110,6 +110,8 @@ h2. UTC-8
 ** "Github":http://github.com/aconbere, "Twitter":http://twitter.com/aconbere, "Website":http://anders.conbere.org
 * Sami Samhuri (samsonjs), Victoria, BC, Canada
 ** "Github":http://github.com/samsonjs, "Twitter":http://twitter.com/_sjs, "Website":http://samhuri.net
+* Jim Pick (jpick), Vancouver, BC, Canada
+** "GitHub":http://github.com/jpick, "Twitter":http://twitter.com/jimpick, "Website":http://jimpick.com
 
 h2. UTC-7 (-6)
 * Aria Stewart (Aria, aredridel), Ridgway, CO, US
