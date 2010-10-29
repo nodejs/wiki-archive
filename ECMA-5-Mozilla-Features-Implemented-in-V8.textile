@@ -71,5 +71,5 @@ h2. Property Descriptor Defaults
 * @configurable@ - false
 
 h1. Missing features
- * @Object.__noSuchMethod__@
+ * @Object.__noSuchMethod__@ (Mozilla extension, not ECMAScript 5)
  * "use strict"; syntax extension
