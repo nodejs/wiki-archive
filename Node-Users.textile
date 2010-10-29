@@ -461,6 +461,8 @@ h2. UTC+2 (+3)
 ** "Github":http://github.com/synodinos, "Twitter":http://twitter.com/synodinos
 * George Stagakis (stagas), Greece
 ** "Website":http://stagas.com, "Github":http://github.com/stagas, "Twitter":http://twitter.com/stagas
+* Panagiotis Astithas, Greece
+** "Website":http://astithas.com, "Github":http://github.com/past, "Twitter":http://twitter.com/pastith
 
 h2. UTC+3 (+4)
 
