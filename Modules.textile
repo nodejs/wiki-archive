@@ -242,6 +242,7 @@ h3(#rpc). "RPC":#rpc
 * "msgpack-rpc":http://github.com/bpot/node-msgpack-rpc -- Implementation of Msgpack-RPC (http://msgpack.org)
 
 h3(#ws-ajax). "Web Sockets & Ajax":#ws-ajax
+* "Abstract HTTP Request":http://github.com/coolaj86/abstract-http-request -- An HTTP Client wrapper for the browser (XHR) and node.js (http module)
 * "Comet LongPollingBuffer":http://github.com/robrighter/Long-Polling-Buffer -- A Library to simplify the server side of Comet AJAX long polling
 * "Faye":http://github.com/jcoglan/faye -- Bayeux protocol Comet client and server for Node.js and Rack
 * "Socket.io":http://github.com/LearnBoost/Socket.IO -- WebSocket-compatible server and client with fallback for legacy browsers
