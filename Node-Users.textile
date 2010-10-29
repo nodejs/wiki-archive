@@ -554,6 +554,10 @@ h2. UTC+9
 * Yuya Nishiyama (nsyee), Tokyo, Japan
 ** "Github":http://github.com/nsyee, "Twitter":http://twitter.com/nsyee, "Blog":http://madvib.es/
 
+h2. UTC+9.5 (+10.5)
+* Paul Shirren, Regional SA, Australia
+** "Twitter":http://twitter.com/shirro, "Github":http://github.com/shirro
+
 h2. UTC+10 or UTC+11
 
 * Gareth Jones, Melbourne, Australia
