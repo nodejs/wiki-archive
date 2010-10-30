@@ -433,6 +433,7 @@ h3(#async-flow). "Flow control / Async goodies":#async-flow
 * "node-cron":http://github.com/ncb000gt/node-cron -- Schedule callbacks with cron syntax
 * "node-parallel":http://github.com/Tim-Smart/node-parallel -- Create tasks in node.js that run in parallel, or sequences that run tasks one after another.
 * "node-promise":http://github.com/kriszyp/node-promise -- Robust promises for node.js, includes promise utilities and promise-based I/O library
+* "Slide":http://github.com/isaacs/slide-flow-control  -- A flow control library that fits in a slide presentation
 * "soda.js":http://github.com/tomyan/soda -- Asynchonous JavaScript module loader for client-side and Node.js
 * "Step":http://github.com/creationix/step -- Tool for grouping and chaining asynchronous callbacks, based on "flow-js":http://github.com/willconant/flow-js
 * "node-inflow":http://github.com/shimondoodkin/node-inflow -- A next generation async control-flow library, with a shared object for called functions and debugging made easy.
