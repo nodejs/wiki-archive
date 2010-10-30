@@ -439,6 +439,10 @@ h3(#async-flow). "Flow control / Async goodies":#async-flow
 * "async.js":http://github.com/fjakobs/async.js -- Async chaining and file system utilities. Async.js is to node's fs module, what jQuery is to the DOM.
 * "async":http://github.com/caolan/async -- Comprehensive async map/reduce and flow control (parallel, series, waterfall, auto...) module that works in node and the browser
 
+h3(#i18n). "I18n and L10n modules":#i18n
+* "Lingo":http://bit.ly/cuaHAh -- Inflection, transformation and more
+* "Dialect":http://github.com/masylum/dialect -- Dialect is a painless nodejs module that deals with i18n, and L10n.
+
 h3(#other). "Other":#other
 * "behaviors":http://github.com/caolan/behaviors -- A simple way to check a module's exports, useful for 3rd party plugins and extensions
 * "box2dnode":http://github.com/jadell/box2dnode -- Port of the box2d physics simulation library
