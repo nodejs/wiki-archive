@@ -190,6 +190,7 @@ h3(#build-and-deployment). "Build and Deployment":#build-and-deployment
 * "node-properties":http://github.com/theteam/node-properties -- Simple property reader, externalise your configuration through JSON
 * "Node.js builds for cygwin":http://net-machine.com/indefero/p/nodewindows/downloads/ -- Up to date cygwin/windows builds
 * "node-dev":http://github.com/fgnass/node-dev -- Supervisor that restarts node when a source-file is modified. Displays notifications via Growl.
+* "Ready.js":http://github.com/dsimard/ready.js -- Prepare your javascript for production by compiling, minifying and running jsLint
 
 h3(#package-management). "Package Management Systems":#package-management
 * "kiwi":http://github.com/visionmedia/kiwi -- Feature rich, fast, node.js package management system -- server sponsored by Slicehost ("no longer in active development":http://goo.gl/BqGu)
