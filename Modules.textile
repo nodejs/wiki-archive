@@ -90,6 +90,7 @@ h4(#middleware). "Middleware":#middleware
 * "protobuf_for_node":http://code.google.com/p/protobuf-for-node/ -- In-process JS-to-C++ communication using protocol buffer services
 * "socket-logger":http://github.com/saikat/socket-logger/ -- JSON-parsable logs for Socket.IO that can push log messages to a client over Socket.IO.
 * "monomi":http://github.com/jamesgpearce/monomi/ -- Provides tools for handling tablet, touch, and mobile browsers (Connect)
+* "trust-reverse-proxy":http://github.com/zazengo/trust-reverse-proxy - Trust (SSL) connections coming from (a) specific reverse prox(y)(ies) (Connect)
 * "node-evented":http://github.com/donnerjack13589/node-evented -- Extended EventEmitter
 
 h4(#web-frameworks-other). "Other":#web-frameworks-other
