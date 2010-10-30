@@ -473,6 +473,8 @@ h2. UTC+2 (+3)
 ** "Website":http://stagas.com, "Github":http://github.com/stagas, "Twitter":http://twitter.com/stagas
 * Panagiotis Astithas, Greece
 ** "Website":http://astithas.com, "Github":http://github.com/past, "Twitter":http://twitter.com/pastith
+* Jacques Marneweck, Cape Town, South Africa
+** "Website":http://www.powertrip.co.za, "GitHub":http://github.com/jacques, "Twitter":http://twitter.com/jacques
 
 h2. UTC+3 (+4)
 
