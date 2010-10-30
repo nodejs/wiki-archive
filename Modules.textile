@@ -274,7 +274,7 @@ h3(#testing). "Testing / Spec Frameworks":#testing
 * "minitest.js":http://github.com/botanicus/minitest.js -- Light-weight & simple testing framework designed specially for testing asynchronous code.
 * "mjsunit.runner":http://github.com/tmpvar/mjsunit.runner -- Command line mjsunit runner which provides an easy way to hook into mjsunit and start running tests immediately.
 * "node-assert-extras":http://gitorious.org/node-assert-extras -- Additional high level asserts
-* "node-async-testing":http://github.com/bentomas/node-async-testing -- Simple testing (hopefully)
+* "node-async-testing":http://bentomas.github.com/node-async-testing/ -- Simple, fast, extendable unit testing.  
 * "node-stories":http://github.com/tobiassvn/node-stories -- Given/When/Then integration awesomeness for Node.
 * "nodeunit":http://github.com/caolan/nodeunit -- Quick and easy unit testing, based on a simplified version of the QUnit API
 * "ntest":http://github.com/technoweenie/ntest -- another unit testing framework
