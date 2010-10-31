@@ -376,7 +376,7 @@ h3(#debugging). "Debugging / Console Utilities":#debugging
 * "ndb":http://github.com/smtlaissezfaire/ndb -- traditional command line debugger
 * "node-profiler":http://github.com/bnoordhuis/node-profiler -- access the V8 profiler from node.js
 * "node-inspector":http://github.com/dannycoates/node-inspector -- browser based node debugger
-* "node-cli": http://github.com/SchizoDuckie/Node-CLI/ -- cli.clear().move(20,20).color('green').write('Node-cli).down(1).back(7).color('yellow').write('Rocks!')
+* "node-cli":http://github.com/SchizoDuckie/Node-CLI/ -- cli.clear().move(20,20).color('green').write('Node-cli).down(1).back(7).color('yellow').write('Rocks!')
 
 h3(#compression). "Compression":#compression
 * "node-compress":http://github.com/waveto/node-compress -- streaming compression / gzip library
