@@ -65,11 +65,9 @@ This is not an issue with node.js either. Install `base -> rebase` using `setup.
 
 Once you are done, restart your PC.
 
-../deps/v8/tools/jsmin.py SyntaxError: invalid syntax
-
 (on vista: 1. close the cygwin shell 2. type cmd in the search box of the start menu. 3. type cd cygwin/bin 4. type ash 5. type ./rebaseall -v)
 
-
+../deps/v8/tools/jsmin.py SyntaxError: invalid syntax
 ----
 
 Cygwin uses a different way of handling symlinks than a regular Unix system. If you open up `jsmin.py` in an editor, you will see the actual path it needs to be symlinked to.
