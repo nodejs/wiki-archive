@@ -272,6 +272,7 @@ h3(#testing). "Testing / Spec Frameworks":#testing
 * "expresso":http://github.com/visionmedia/expresso -- TDD framework by the author of "JSpec":http://jspec.info
 * "exemplor.js":http://github.com/chrislloyd/exemplor.js -- A port of "exemplor":http://github.com/quackingduck/exemplor with Node goodness.
 * "jasmine-node":http://github.com/mhevery/jasmine-node -- integration with "Pivotal's Jasmine Spec":http://github.com/pivotal/jasmine framework
+* "Jody":http://github.com/garrensmith/Jody -- A descriptive BDD Testing framework 
 * "jspec":http://github.com/visionmedia/jspec -- Feature Rich BDD Testing Framework
 * "minitest.js":http://github.com/botanicus/minitest.js -- Light-weight & simple testing framework designed specially for testing asynchronous code.
 * "mjsunit.runner":http://github.com/tmpvar/mjsunit.runner -- Command line mjsunit runner which provides an easy way to hook into mjsunit and start running tests immediately.
