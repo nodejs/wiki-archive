@@ -486,6 +486,8 @@ h2. UTC+3 (+4)
 ** "Github":http://github.com/sannis, "Website":http://sannis.ru/, "Twitter":http://twitter.com/SannisDev
 * Anton Byrna (itrelease), Russia
 ** "Github":http://github.com/itrelease, "Twitter":http://twitter.com/itrelease
+* Dmitry Lipovoi (pleax), Russia
+** "Github":http://github.com/pleax, "Twitter":http://twitter.com/pleax
 
 h2. UTC+5
 
