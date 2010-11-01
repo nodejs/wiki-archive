@@ -562,4 +562,4 @@ h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":
 * "schema.js":http://github.com/akidee/schema.js -- Modular data schema validation and adaptation according to JSON Schema for JavaScript
 * "underscore":http://documentcloud.github.com/underscore/ -- Unobtrusive functional programming utility library.
 * "wu.js":http://fitzgen.github.com/wu.js/ -- A lazy, functional Javascript library that ain't nuthin' ta f*ck wit.
-* [http://www.dissertationwritinghelp.co.uk/[Dissertation Help]] and [http://www.dissertationwritinghelp.co.uk/buy-custom-dissertation.html[Custom Dissertation]]
+* [[Dissertation Help|http://www.dissertationwritinghelp.co.uk/]] and [[Custom Dissertation|http://www.dissertationwritinghelp.co.uk/buy-custom-dissertation.html]]
