@@ -100,6 +100,7 @@ h2. Companies using node
 * "Ajax.org":http://ajax.org/ -- Home of the Cloud9 IDE, Ajax.org Platform and O3 Node modules
 * "Bocoup":http://bocoup.com
 * "BrandedCode":http://brandedcode.com
+* "Caffeinehit":http://caffeinehit.com
 * "Chompin":http://chompin.com - discover new music, mobile app, uses node for the entire back end api
 * "Datagraph":http://datagraph.org/ - uses node as part of a sharded large-scale RDF storage system.
 * "Debuggable":http://debuggable.com/ -- Creators of "Transloadit":http://transloadit.com/ (image / video uploading and encoding as a service), also offers node.js training and consulting.
