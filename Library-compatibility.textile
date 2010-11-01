@@ -7,9 +7,11 @@ h2. Node v0.3.0-pre
 * "nun v.0.1.13":http://github.com/akaspin/nun/tree/v0.1.12
 * "pit v.0.2":http://github.com/akaspin/pit/tree/v0.2
 * "dust v0.0.1":http://akdubya.github.com/dustjs/
+* "frank v1.1.0":http://github.com/mvrilo/frank
 
 h2. Node v0.2.4
 * "dropbox-node v0.0.4":http://github.com/evnm/dropbox-node
+* "frank v1.1.0":http://github.com/mvrilo/frank
 
 h2. Node v0.2.3
 * "choreographer v0.2.0":http://github.com/laughinghan/choreographer
