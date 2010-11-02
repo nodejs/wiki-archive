@@ -567,6 +567,8 @@ h2. UTC+9
 ** "Github":http://github.com/shootaroo, "Twitter":http://twitter.com/shootaroo, "Blog":http://d.hatena.ne.jp/shootaroo/
 * Yuya Nishiyama (nsyee), Tokyo, Japan
 ** "Github":http://github.com/nsyee, "Twitter":http://twitter.com/nsyee, "Blog":http://madvib.es/
+* Yohei Sasaki (yssk22), Kanagawa, Japan
+** "Github":http://github.com/yssk22, "Twitter":http://twitter.com/yssk22, "Blog":http://d.hatena.ne.jp/yssk22/
 
 h2. UTC+9:30 (+10:30)
 * Paul Shirren (shirro), Regional SA, Australia
