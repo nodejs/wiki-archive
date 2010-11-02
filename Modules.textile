@@ -179,7 +179,6 @@ rendering process.
 * "node-template":http://github.com/graphnode/node-template -- Fast and light cached templates.
 * "node-properties":http://github.com/theteam/node-properties -- Simple property reader, externalise your configuration through JSON
 * "Node.js builds for cygwin":http://net-machine.com/indefero/p/nodewindows/downloads/ -- Up to date cygwin/windows builds
-* "node-dev":http://github.com/fgnass/node-dev -- Supervisor that restarts node when a source-file is modified. Displays notifications via Growl.
 * "Parrot":http://github.com/ollym/parrot -- A lightning fast and lightweight templating engine for Node.js (Just 33 LOC!)
 * "sass.js":http://github.com/visionmedia/sass.js -- Parses Sass templates and renders css.
 * "scss-js":http://github.com/bmavity/scss-js -- Parses SCSS templates and renders css.
@@ -192,6 +191,7 @@ rendering process.
 h3(#build-and-deployment). "Build and Deployment":#build-and-deployment
 * "nodejs-autorestart":http://github.com/shimondoodkin/nodejs-autorestart -- It is a way to watch all .js files if they have been changed and to restart nodejs. It allows easy development and stable production.
 * "node-config":http://github.com/ArtS/node-config -- Lightweight configuration engine for Node.js
+* "node-dev":http://github.com/fgnass/node-dev -- Automatically restarts node when a source-file is modified. Displays notifications via Growl.
 * "Jake":http://github.com/mde/node-jake -- JavaScript build tool similar to Make or Rake.
 * "Masson":http://github.com/wdavidw/node-masson -- Build system and rule management similar to tools like Make, Ant or Rake
 * "Ready.js":http://github.com/dsimard/ready.js -- Continuous integration using jslint, nodejs and git
