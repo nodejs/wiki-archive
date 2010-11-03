@@ -3,6 +3,7 @@ Node is under heavy development and its API changes rapidly. Instead of simply a
 h2. node v0.3.0
 * "ndb v0.2.1":http://github.com/smtlaissezfaire/ndb/tree/0.2.1
 * "node-zookeeper 0.0.1":http://github.com/yfinkelstein/node-zookeeper
+* "node-postgres":http://github.com/brianc/node-postgres
 
 h2. Node v0.3.0-pre
 * "Ni v0.1.0beta":http://github.com/chetan51/ni
@@ -16,6 +17,7 @@ h2. Node v0.3.0-pre
 h2. Node v0.2.4
 * "dropbox-node v0.0.4":http://github.com/evnm/dropbox-node
 * "frank v1.1.0":http://github.com/mvrilo/frank
+* "node-postgres":http://github.com/brianc/node-postgres
 
 h2. Node v0.2.3
 * "choreographer v0.2.0":http://github.com/laughinghan/choreographer
@@ -25,6 +27,7 @@ h2. Node v0.2.3
 * "node_redis":http://github.com/mranney/node_redis
 * "ya-csv v0.1.5":http://github.com/koles/ya-csv/
 * "node-solr v0.0.7":http://github.com/gsf/node-solr/tree/v0.0.7
+* "node-postgres":http://github.com/brianc/node-postgres
 
 h2. Node v0.2.2
 * "Ni v0.1.0beta":http://github.com/chetan51/ni
@@ -37,6 +40,7 @@ h2. Node v0.2.2
 * "node-evented":http://github.com/donnerjack13589/node-evented
 * "node-solr v0.0.6":http://github.com/gsf/node-solr/tree/v0.0.6
 * "choreographer v0.2.0":http://github.com/laughinghan/choreographer
+* "node-postgres":http://github.com/brianc/node-postgres
 
 h2. Node v0.2.1
 * "choreographer v0.2.0":http://github.com/laughinghan/choreographer
