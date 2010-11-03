@@ -266,6 +266,8 @@ h2. UTC-4 (-3)
 
 * Ritchie Turner (blackdog)
 ** "Website":http://blackdog66.wordpress.com, "Twitter":http://www.twitter.com/blackdog66, "Github":http://github.com/blackdog66
+* Fabio Zendhi Nagao (nagaozen)
+** "Website":http://zend.lojcomm.com.br, "Twitter":http://www.twitter.com.br/nagaozen, "Github":http://github.com/nagaozen
 
 h2. UTC-3 (-2)
 
