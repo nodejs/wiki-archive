@@ -1,6 +1,6 @@
 h2. Modules
 
-See the "Modules":http://wiki.github.com/ry/node/modules page.
+See the "Modules":http://github.com/ry/node/wiki/modules page.
 
 h2. Projects / Applications
 * "node_chat":http://github.com/ry/node_chat by ry (live demo at <a href="http://chat.tinyclouds.org">chat.tinyclouds.org</a>)
