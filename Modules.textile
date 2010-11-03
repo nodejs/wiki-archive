@@ -187,6 +187,7 @@ rendering process.
 * "template.node.js":http://github.com/jazzychad/template.node.js -- A light, fast, cached template module for node.
 * "tmpl-node":http://github.com/jed/tmpl-node -- a feature-rich template module for node.js
 * "xmlbuilder.js":http://github.com/btakita/xmlbuilder.js -- An xml builder in Javascript inspired by Ruby's Builder, Markaby, and Erector.
+* "xmlbuilder-js":https://github.com/oozcitak/xmlbuilder-js -- An xml builder for node.js similar to java-xmlbuilder.
 
 h3(#build-and-deployment). "Build and Deployment":#build-and-deployment
 * "nodejs-autorestart":http://github.com/shimondoodkin/nodejs-autorestart -- It is a way to watch all .js files if they have been changed and to restart nodejs. It allows easy development and stable production.
