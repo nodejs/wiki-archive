@@ -559,6 +559,7 @@ h3(#other). "Other":#other
 
 h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":#commonjs-compat
 * "abbrev-js":http://github.com/isaacs/abbrev-js/ -- Like Ruby's Abbrev module.
+* "async.js":https://github.com/caolan/async/ -- Idiomatic Functional programming lib adapted for asynchronous programming (ie. callbacks)
 * "commonjs-geoUtils":http://github.com/moshen/commonjs-geoUtils -- Geographic Formulas for CommonJS
 * "commonjs-utils":http://github.com/kriszyp/commonjs-utils -- "JSON Schema":http://json-schema.org/, AOP, XML-RPC, lazy arrays, and other utilities
 * "datatypes-js":http://github.com/jfd/datatypes-js -- Byte encoding/decoding for typical datatypes in JS.
