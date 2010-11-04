@@ -484,6 +484,8 @@ h2. UTC+2 (+3)
 
 h2. UTC+3 (+4)
 
+* Akzhan Abdulin, Moscow, Russia
+** "Github":http://github.com/akzhan
 * Serge Shirokov (Kuroki Kaze), Russia
 ** "Github":http://github.com/kurokikaze, "Blog":http://kuroikaze85.wordpress.com/, "Twitter":http://twitter.com/kurokikaze
 * Oleg Illarionov (Brainfucker), Russia
