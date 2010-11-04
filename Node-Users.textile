@@ -481,6 +481,8 @@ h2. UTC+2 (+3)
 ** "Website":http://astithas.com, "Github":http://github.com/past, "Twitter":http://twitter.com/pastith
 * Jacques Marneweck, Cape Town, South Africa
 ** "Website":http://www.powertrip.co.za, "GitHub":http://github.com/jacques, "Twitter":http://twitter.com/jacques
+* Andreas Wolff, Berlin, Germany
+** "Website":http://phunkwork.com, "GitHub":http://github.com/phunkwork, "Twitter":http://twitter.com/rubyphunk
 
 h2. UTC+3 (+4)
 
