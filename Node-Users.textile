@@ -619,7 +619,7 @@ h2. UTC+10 or UTC+11
 * Jeff Waugh (jdub), Yass, Australia
 ** "Website":http://bethesignal.org/, "Twitter":http://twitter.com/jdub, "Github":http://github.com/jdub
 * Chris O'Hara, Brisbane, Australia
-** "Website":http://node.io/, "Github":http://github.com/chriso
+** "Website":http://node.io/, "Github":http://github.com/chriso, "Facebook":http://facebook.com/chriso
 
 h2. UTC+12
 
