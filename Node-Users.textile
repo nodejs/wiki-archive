@@ -292,6 +292,8 @@ h2. UTC+0 (0)
 ** "Website":http://medevyoujane.com, "Github":http://github.com/JonGretar, "Twitter":http://twitter.com/JonGretar
 * Tane Piper (digitalspaghetti)
 ** "GitHub":http://github.com/tanepiper, "Website":http://tanepiper.com, "Twitter":http://twitter.com/tanepiper
+* Pedro Teixeira (pgte)
+** "Website":http://metaduck.com, "Github":http://github.com/pgte, "Twitter":http://twitter.com/pedrogteixeira
 
 h2. UTC+0 (+1)
 
