@@ -538,6 +538,8 @@ h2. UTC+8
 ** "Github":http://github.com/zir/
 * Kenny Shen(kennyshen), Singapore
 ** "Github":http://www.github.com/kennyshen, "Website":http://www.northpole.sg, "Twitter":http://twitter.com/kenny_shen
+* Xin Yu(is), China
+** "Github":http://www.github.com/is
 
 h2. UTC+9
 
