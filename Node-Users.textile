@@ -114,6 +114,8 @@ h2. UTC-8
 ** "GitHub":http://github.com/jpick, "Twitter":http://twitter.com/jimpick, "Website":http://jimpick.com
 * Gregory McWhirter (gsmcwhirter), Irvine, CA, USA
 ** "GitHub":http://github.com/gsmcwhirter, "Twitter":http://twitter.com/gsmcwhirter
+* Gerad Suyderhoud (gerad), San Francisco, CA
+** "GitHub":http://github.com/gerad, "Twitter":http://twitter.com/gerad
 
 h2. UTC-7 (-6)
 * Aria Stewart (Aria, aredridel), Ridgway, CO, US
