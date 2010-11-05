@@ -392,6 +392,7 @@ h3(#compression). "Compression":#compression
 * "gzip":http://github.com/donnerjack13589/node.gzip -- simple compression using default linux "gzip" utility
 
 h3(#graphics). "Graphics":#graphics
+* "node-canvas":https://github.com/learnboost/node-canvas -- High performance canvas implementation backed by the phenomenal Cairo graphics library
 * "node-o3-canvas":http://github.com/ajaxorg/node-o3-canvas -- Fast HTML5 Canvas and image processing implementation based on AGG
 * "node-gd":http://github.com/taggon/node-gd -- GD graphic library bindings
 * "magickal-node":http://github.com/quiiver/magickal-node -- GraphicsMagick wrapper for node.js
