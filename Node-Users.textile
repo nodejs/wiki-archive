@@ -528,6 +528,8 @@ h2. UTC+6
 ** "Twitter":http://twitter.com/stevebest, "Github":http://github.com/stevebest
 * Andrey Tarantsov (andreyvit), Novosibirsk, Russia
 ** "Twitter":http://twitter.com/andreyvit (in Eng), "GitHub":http://github.com/andreyvit, "Blog":http://blog.tarantsov.com (rus)
+* Fedor Indutny (donnerjack13589), Omsk, Russia
+** "Twitter":http://twitter.com/indutny, "Github":http://github.com/donnerjack13589
 
 h2. UTC+7
 * Nugroho Herucahyono(xinuc), Indonesia
