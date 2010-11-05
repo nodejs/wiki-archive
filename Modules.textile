@@ -425,6 +425,7 @@ h3(#api-clients). "API clients":#api-clients
 * "flickrnode":http://github.com/ciaranj/flickrnode -- A library to enable use of the flickr api (not as complete as node-flickr, but supports auth) 
 * "lastfm-node":http://github.com/jammus/lastfm-node -- Read and write to users' recent plays on Last.fm
 * "linkedin-js":http://github.com/masylum/linkedin-js -- Easy peasy linkedin client for connect.
+* "node-apn":http://github.com/argon/node-apn -- A library to send messages using the Apple Push Notification Service.
 * "node-bitly":http://github.com/tanepiper/node-bitly -- A bit.ly API library for node.js - provides URL shortening/expanding.  Features full API.
 * "node-flickr":http://github.com/edds/node-flickr -- A simple library to enable easy use of the flickr api
 * "node-github":http://github.com/ajaxorg/node-github -- A wrapper for the "GitHub API":http://develop.github.com/
