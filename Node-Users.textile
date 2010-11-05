@@ -120,6 +120,8 @@ h2. UTC-8
 ** "GitHub":http://github.com/springmeyer, "Twitter":http://twitter.com/springmeyer, "Website":http://dbsgeo.com
 * Reid Burke (reid), Sunnyvale, CA
 ** "GitHub":http://github.com/reid, "Twitter":http://twitter.com/reid, "Website":http://reidburke.com
+* Mario Gutierrez (mgutz), San Diego, CA
+** "GitHub":http://github.com/mgutz, "Website":http://mgutz.com
 
 h2. UTC-7 (-6)
 * Aria Stewart (Aria, aredridel), Ridgway, CO, US
