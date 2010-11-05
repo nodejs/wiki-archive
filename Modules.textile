@@ -425,6 +425,7 @@ h3(#api-clients). "API clients":#api-clients
 * "node-bitly":http://github.com/tanepiper/node-bitly -- A bit.ly API library for node.js - provides URL shortening/expanding.  Features full API.
 * "node-flickr":http://github.com/edds/node-flickr -- A simple library to enable easy use of the flickr api
 * "node-github":http://github.com/ajaxorg/node-github -- A wrapper for the "GitHub API":http://develop.github.com/
+* "node-googleanalytics":http://github.com/ncb000gt/node-googleanalytics -- Google Analytics GData export library
 * "node-googlemaps":http://github.com/moshen/node-googlemaps -- A wrapper for the Google Maps API
 * "node-prowl":http://github.com/mape/node-prowl -- A module that allows you to send push notifications to your iPhone through the Prowl API
 * "nodestalker":http://github.com/pascalopitz/nodestalker -- A beanstalkd client for node
