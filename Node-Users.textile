@@ -359,6 +359,8 @@ h2. UTC+0 (+1)
 ** "Github":http://github.com/jayfresh, "Twitter":http://twitter.com/jayfresh, "Website":http://withjandj.com
 * Chris Dew, UK
 ** "Github":http://github.com/chrisdew, "Twitter":http://twitter.com/chrisdew, "Website":http://www.finalcog.com
+* Lupo Montero (lupomontero), London, UK
+** "Github":http://github.com/lupomontero, "Twitter":http://twitter.com/lupomontero
 
 h2. UTC+1 (+2)
 * Arnout Kazemier (V1), The Netherlands
