@@ -144,6 +144,8 @@ h2. UTC-7 (-6)
 ** "GitHub":http://github.com/Sembiance, "Twitter":http://twitter.com/sembiance, "Website":http://cosmicrealms.com/
 * Rob Robbins (robrobbins), Phoenix, AZ, US
 ** "GitHub":http://github.com/robrobbins/, "Twitter":http://twitter.com/RobRobbins/, "Blog":http://robrobbins.info
+* AJ ONeal (coolaj86), Provo, UT, US
+** "Website":http://coolaj86.info, "GitHub":http://github.com/coolaj86, "Twitter":http://twitter.com/coolaj86 
 
 h2. UTC-6 (-5)
 * Tim Caswell (creationix), Dallas, TX, US
