@@ -145,3 +145,4 @@ h2. Companies using node
 * "clickdummy":http://clickdummy.net - Fast prototyping for designers and dummies
 * "LinkiT projects":http://linkit-projects.nl - Use nodejs for developing javascript sites. (http://yalia.nl/
 * "Webbynode":http://webbynode.com
+* "Original Machine":http://originalmachine.com - Using node for realtime statistics in "Stereofeed":http://stereofeed.com .
