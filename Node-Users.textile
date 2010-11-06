@@ -514,6 +514,8 @@ h2. UTC+3 (+4)
 ** "Github":http://github.com/itrelease, "Twitter":http://twitter.com/itrelease
 * Dmitry Lipovoi (pleax), Russia
 ** "Github":http://github.com/pleax, "Twitter":http://twitter.com/pleax
+* Vladimir Dronnikov (dvv)
+** "GitHub":http://github.com/dvv, "Twitter":http://twitter.com/dvv, "Website":http://busybox.net
 
 h2. UTC+5
 
