@@ -209,6 +209,8 @@ h2. UTC-5 (-4)
 ** "GitHub":http://github.com/weilawei, "Twitter":http://twitter.com/weilawei
 * Gabriel Farrell (gsf), Philadelphia
 ** "GitHub":http://github.com/gsf, "Website":http://rc98.net
+* Ricardo Lanziano (arpunk), Bogotá, Colombia
+** "GitHub":http://github.com/arpunk, "Twitter":http://twitter.com/arpunk
 * Guan Yang
 ** "GitHub":http://github.com/guanix, "Twitter":http://twitter.com/guan
 * Arlo Breault (arlolra), Montréal, QC, Canada
