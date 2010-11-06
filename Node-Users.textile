@@ -188,6 +188,8 @@ h2. UTC-6 (-5)
 ** "GitHub":https://github.com/pguillory
 * Lou Gonzalez
 ** "Github":http://github.com/hostsamurai, "Twitter":http://twitter.com/kuroi_kenshi, "Website":http://terminal-phantoms.com
+* Peter Wong (peterwmwong), Waukegan, IL, US
+** "GitHub":http://github.com/peterwmwong, "Twitter":http://twitter.com/peterwmwong
 
 h2. UTC-5 (-4)
 
