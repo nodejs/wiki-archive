@@ -4,6 +4,7 @@ h2. node v0.3.0
 * "ndb v0.2.1":http://github.com/smtlaissezfaire/ndb/tree/0.2.1
 * "node-zookeeper 0.0.1":http://github.com/yfinkelstein/node-zookeeper
 * "node-postgres":http://github.com/brianc/node-postgres
+* "hrtime v1.0":http://github.com/runelabs/hrtime
 
 h2. Node v0.3.0-pre
 * "Ni v0.1.0beta":http://github.com/chetan51/ni
