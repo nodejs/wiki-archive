@@ -432,6 +432,7 @@ h3(#api-clients). "API clients":#api-clients
 * "node-googleanalytics":http://github.com/ncb000gt/node-googleanalytics -- Google Analytics GData export library
 * "node-googlemaps":http://github.com/moshen/node-googlemaps -- A wrapper for the Google Maps API
 * "node-prowl":http://github.com/mape/node-prowl -- A module that allows you to send push notifications to your iPhone through the Prowl API
+* "nodefm":https://github.com/mikebannister/nodefm -- So far just a util for consuming last.fm recent tracks history for a user.
 * "nodestalker":http://github.com/pascalopitz/nodestalker -- A beanstalkd client for node
 * "node-twitter":http://github.com/jdub/node-twitter -- Asynchronous Twitter REST/stream/search client for node.js
 * "tumblrrr":http://github.com/mvrilo/tumblrrr -- A wrapper for Tumblr's API
