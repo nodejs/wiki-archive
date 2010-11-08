@@ -564,6 +564,7 @@ h3(#other). "Other":#other
 * "node-recaptcha":http://github.com/mirhampt/node-recaptcha -- Display and verify Recaptcha captchas
 * "jsinc":http://github.com/shimondoodkin/jsinc -- Include non-module JavaScript file in node js, for example jslinq
 * "sprintf":http://github.com/maritz/node-sprintf -- Sprintf() functionality
+* "hrtime":http://github.com/runelabs/hrtime -- Simple high resolution time POSIX-based functions providing nanosecond resolution, realtime clock, system uptime, process cputime, process runtime.
 
 h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":#commonjs-compat
 * "abbrev-js":http://github.com/isaacs/abbrev-js/ -- Like Ruby's Abbrev module.
