@@ -19,6 +19,7 @@ h2. Node v0.2.4
 * "dropbox-node v0.0.4":http://github.com/evnm/dropbox-node
 * "frank v1.1.0":http://github.com/mvrilo/frank
 * "node-postgres":http://github.com/brianc/node-postgres
+* "daemonchk.js":https://github.com/dulac/daemonchk.js
 
 h2. Node v0.2.3
 * "choreographer v0.2.0":http://github.com/laughinghan/choreographer
