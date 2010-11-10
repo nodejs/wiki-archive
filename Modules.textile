@@ -160,7 +160,7 @@ h3(#templating). "Templating":#templating
 * "asyncEJS":http://github.com/cramforce/node-asyncEJS -- Asynchronous implementation of embedded JavaScript
 * "bind-js":http://github.com/Xavi-/bind-js -- a simple templating engine for node.js that smiles back.
 * "dust":http://akdubya.github.com/dustjs -- Async, streaming & composable templates for the browser and node
-* "CoffeeKup":http://github.com/mauricemach/coffeekup -- Markup as CoffeeScript. "Zappa":http://github.com/mauricemach/zappa, "Meryl":http://coffeemate.github.com/meryl/ and "Express":http://expressjs.com support (node 0.2.4/0.3.0)
+* "Coffeekup":http://github.com/mauricemach/coffeekup -- Markup as CoffeeScript. Live "demo":http://coffeekup.org. "Zappa":http://github.com/mauricemach/zappa, "Meryl":http://coffeemate.github.com/meryl/ and "Express":http://expressjs.com support (node 0.2.4/0.3.0)
 * "Eco":http://github.com/sstephenson/eco -- Embedded CoffeeScript templates
 * "ejs":http://github.com/visionmedia/ejs -- Light-weight Embedded JavaScript implementation. "Express":http://expressjs.com compliant
 * "haml.js":http://github.com/visionmedia/haml.js -- Faster / more compliant implementation of Haml. "Express":http://expressjs.com support
