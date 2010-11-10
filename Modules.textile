@@ -115,6 +115,7 @@ h4(#web-frameworks-other). "Other":#web-frameworks-other
 h3(#database). "Database":#database
 * "awesome":http://github.com/janl/awesome -- a Redis clone in node.js
 * "cradle":http://github.com/cloudhead/cradle -- a high-level, caching, CouchDB client
+* "chaos":http://github.com/stagas/chaos -- Chaos is a Node.js database
 * "JSLINQ":http://github.com/marak/JSLINQ -- Clean and simple port of Microsoft's LINQ to node.js (and the browser)
 * "keys":http://github.com/visionmedia/keys -- Unified interface for key/value store clients
 * "node-couch":http://github.com/sixtus/node-couch/tree/master -- a CouchDB connector
