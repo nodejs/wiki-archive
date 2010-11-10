@@ -465,6 +465,8 @@ h2. UTC+1 (+2)
 ** "Github":http://github.com/Kami, "Twitter":http://twitter.com/KamiSLO
 * Bruno Jouhier (bjouhier), Paris, France
 ** "Github":http://github.com/bjouhier, "Blog":http://bjouhier.wordpress.com/
+* Daniel Gröber (darklord/dxld), Innsbruck, Austria
+** "Github":http://github.com/DanielG
 
 h2. UTC+2 (+3)
 * Shimon Doodkin (shimondoodkin), Israel
