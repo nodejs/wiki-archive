@@ -200,7 +200,7 @@ h3(#build-and-deployment). "Build and Deployment":#build-and-deployment
 * "node-dev":http://github.com/fgnass/node-dev -- Automatically restarts node when a source-file is modified. Displays notifications via Growl.
 * "Jake":http://github.com/mde/node-jake -- JavaScript build tool similar to Make or Rake.
 * "Masson":http://github.com/wdavidw/node-masson -- Build system and rule management similar to tools like Make, Ant or Rake
-* "Ready.js":http://github.com/dsimard/ready.js -- Continuous integration using jslint, nodejs and git
+* "Ready.js":http://github.com/dsimard/ready.js -- Continuous javascript integration using JSLint, Google Compiler, Node.js and Git
 
 h3(#package-management). "Package Management Systems":#package-management
 * "kiwi":http://github.com/visionmedia/kiwi -- Feature rich, fast, node.js package management system -- server sponsored by Slicehost ("no longer in active development":http://goo.gl/BqGu)
