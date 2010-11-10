@@ -122,6 +122,8 @@ h2. UTC-8
 ** "GitHub":http://github.com/reid, "Twitter":http://twitter.com/reid, "Website":http://reidburke.com
 * Mario Gutierrez (mgutz), San Diego, CA
 ** "GitHub":http://github.com/mgutz, "Website":http://mgutz.com
+* James Pozdena (jpoz), Portland, OR, US
+** "GitHub":http://github.com/jpoz, "Twitter":http://twitter.com/jpoz, "Website":http://jpoz.net
 
 h2. UTC-7 (-6)
 * Aria Stewart (Aria, aredridel), Ridgway, CO, US
