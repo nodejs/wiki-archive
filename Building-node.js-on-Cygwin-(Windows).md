@@ -15,6 +15,11 @@ This tutorial will guide you through setting up the latest stable version of nod
    * `devel  -> zlib-devel`
    * `python -> python`
 
+   You may also want to install the following packages:
+
+   * `editors -> vim` (for step 4. below)
+   * `web -> curl` (if you want to follow [[npm Simple Install instructions|https://github.com/isaacs/npm]])
+
    You can use the search box at the top-left to locate packages quickly.
 
 2. It's time to clone the Git repository and build node.js. Start a new Cygwin shell (bash, zsh, etc.), open `Start -> Cygwin -> Cygwin Bash Shell`. Run the following commands:
