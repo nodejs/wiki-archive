@@ -94,6 +94,7 @@ h4(#middleware). "Middleware":#middleware
 * "trust-reverse-proxy":http://github.com/zazengo/trust-reverse-proxy - Trust (SSL) connections coming from (a) specific reverse prox(y)(ies) (Connect)
 * "node-evented":http://github.com/donnerjack13589/node-evented -- Extended EventEmitter
 * "form2json":https://github.com/fgnass/form2json -- Decoder for form-urlencoded data that supports arrays of nested objects (Connect)
+* "http-proxy-selective": https://github.com/zentooo/node-http-proxy-selective -- Proxy server replace some remote static files with local ones
 
 h4(#web-frameworks-other). "Other":#web-frameworks-other
 * "Alligator":http://github.com/mrohad/Alligator -- Application Server on top of NodeJS (JSSP and SSJS support)
