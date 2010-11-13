@@ -1,5 +1,3 @@
-<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
-
 h2. Adding to this page
 
 When you add a framework to this page, have a look at how others have done so, it should be a single item, with a link to the project's source code, and a short description (one line after formatting has been applied).
@@ -447,19 +445,12 @@ h3(#api-clients). "API clients":#api-clients
 
 h3(#async-flow). "Flow control / Async goodies":#async-flow
 * "flow-js":http://github.com/willconant/flow-js -- Continuation-esque contruct for expressing multi-step asynchronous logic
-   <fb:like href="https://github.com/ry/node/wiki/modules?module=flow-js" layout="button_count" width="170"></fb:like>
 * "funk":http://github.com/masylum/funk -- Asynchronous parallel functions made funky!
-   <fb:like href="https://github.com/ry/node/wiki/modules?module=funk" layout="button_count" width="170"></fb:like>
 * "futures":http://github.com/coolaj86/futures - Asynchronous Method Queueing, Futures, Promises, Subscriptions, and other async goodies
-   <fb:like href="https://github.com/ry/node/wiki/modules?module=futures" layout="button_count" width="170"></fb:like>
 * "groupie":http://github.com/alexkwolfe/groupie -- A simple flow control library for executing multiple functions as a group or in a chain, calling back when complete.
-   <fb:like href="https://github.com/ry/node/wiki/modules?module=groupie" layout="button_count" width="170"></fb:like>
 * "node-continuables":http://github.com/bentomas/node-continuables -- A library making dealing with asynchronous code easier
-   <fb:like href="https://github.com/ry/node/wiki/modules?module=node-continuables" layout="button_count" width="170"></fb:like>
 * "node-cron":http://github.com/ncb000gt/node-cron -- Schedule callbacks with cron syntax
-   <fb:like href="https://github.com/ry/node/wiki/modules?module=node-cron" layout="button_count" width="170"></fb:like>
 * "node-parallel":http://github.com/Tim-Smart/node-parallel -- Create tasks in node.js that run in parallel, or sequences that run tasks one after another.
-   <fb:like href="https://github.com/ry/node/wiki/modules?module=node-cron" layout="button_count" width="170"></fb:like>
 * "node-promise":http://github.com/kriszyp/node-promise -- Robust promises for node.js, includes promise utilities and promise-based I/O library
 * "Slide":http://github.com/isaacs/slide-flow-control  -- A flow control library that fits in a slide presentation
 * "soda.js":http://github.com/tomyan/soda -- Asynchonous JavaScript module loader for client-side and Node.js
