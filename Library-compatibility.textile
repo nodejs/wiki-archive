@@ -21,6 +21,7 @@ h2. Node v0.2.4
 * "node-postgres":http://github.com/brianc/node-postgres
 * "daemonchk.js":https://github.com/dulac/daemonchk.js
 * "node-ncurses @ 17c3532":https://github.com/mscdex/node-ncurses/tree/17c353202fa73a57214218fb5271349ef342ce0e
+* "odot":https://github.com/tsmith/odot
 
 h2. Node v0.2.3
 * "choreographer v0.2.0":http://github.com/laughinghan/choreographer
