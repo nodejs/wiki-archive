@@ -83,6 +83,15 @@ Cygwin uses a different way of handling symlinks than a regular Unix system. If 
 
 Re-run `./configure`.
 
+Exception: supported architectures are arm, ia32, x64 but NOT 'x86'.
+----
+
+This means cygwin is returning the wrong cpu architecture, use the dest-cpu option with the value 'ia32', like this:
+
+    % ./configure --dest-cpu=ia32
+
+
+
 Help! I've done EVERYTHING above and I'm still having trouble
 ====
 
