@@ -539,7 +539,7 @@ h3(#other). "Other":#other
 * "node-zoneinfo":http://github.com/gsmcwhirter/node-zoneinfo -- A wrapper around Date to be able to use zoneinfo file timezone information
 * "node-zookeeper":http://github.com/yfinkelstein/node-zookeeper - Apache Zookeeper client API for node.js
 * "nshtools":http://github.com/rsdoiel/nshtools -- a high level shell scripting library for file and operating system chores
-* "odot":https://github.com/tsmith/odot - persistent, dynamic code reloading, interactive object space
+* "odot":https://github.com/tsmith/odot - persistent, code reloading, interactive object space
 * "simplesets":http://github.com/PeterScott/simplesets-nodejs -- Set data type, with API similar to Python's sets module. Supports any data type, with equality tested by @===@.
 * "Task.node":http://github.com/botanicus/task.node Simple task manager similar to Rake, Scons and others.
 * "tasks.js":http://github.com/dandean/tasks.js Tasks for Node (like Rake!) with a very JavaScripty API.
