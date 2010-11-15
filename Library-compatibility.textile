@@ -5,6 +5,7 @@ h2. node v0.3.0
 * "node-zookeeper 0.0.1":http://github.com/yfinkelstein/node-zookeeper
 * "node-postgres":http://github.com/brianc/node-postgres
 * "hrtime v1.0":http://github.com/runelabs/hrtime
+* "node-mysql-libmysqlclient @ e4b5d00":http://github.com/Sannis/node-mysql-libmysqlclient/tree/e4b5d008cc5f738f2b62941d4f723eb406d36a34
 
 h2. Node v0.3.0-pre
 * "Ni v0.1.0beta":http://github.com/chetan51/ni
@@ -23,6 +24,7 @@ h2. Node v0.2.4
 * "node-ncurses @ 17c3532":https://github.com/mscdex/node-ncurses/tree/17c353202fa73a57214218fb5271349ef342ce0e
 * "odot":https://github.com/tsmith/odot
 * "node-imap v0.0.1":https://github.com/mscdex/node-imap/tree/v0.0.1
+* "node-mysql-libmysqlclient v1.0.3":http://github.com/Sannis/node-mysql-libmysqlclient/tree/v1.0.3
 
 h2. Node v0.2.3
 * "choreographer v0.2.0":http://github.com/laughinghan/choreographer
