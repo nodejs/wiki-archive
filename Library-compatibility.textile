@@ -25,6 +25,7 @@ h2. Node v0.2.4
 * "odot":https://github.com/tsmith/odot
 * "node-imap v0.0.1":https://github.com/mscdex/node-imap/tree/v0.0.1
 * "node-mysql-libmysqlclient v1.0.3":http://github.com/Sannis/node-mysql-libmysqlclient/tree/v1.0.3
+* "Grasshopper v0.3.2":http://github.com/tuxychandru/grasshopper/tree/0.3.2
 
 h2. Node v0.2.3
 * "choreographer v0.2.0":http://github.com/laughinghan/choreographer
