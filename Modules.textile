@@ -416,6 +416,7 @@ h3(#graphics). "Graphics":#graphics
 * "node-pango-view":http://github.com/shimondoodkin/node-pango-view -- print text with pango to temporary png image, then merge it with ImageMagick. 
 * "squeeze":http://github.com/nikhilm/squeeze -- Mince and convert images on the cloud using "UploadJuicer":http://www.uploadjuicer.com .
 * "node-graphviz":http://github.com/glejeune/node-graphviz -- GraphViz for node
+* "node-mapnik":http://github.com/mapnik/node-mapnik -- Mapnik bindings for high performance rendering of map tiles.
 
 h3(#payment-gateways). "Payment Gateways":#payment-gateways
 * "paynode":http://github.com/jamescarr/paynode - library for integrating with various payment gateways
