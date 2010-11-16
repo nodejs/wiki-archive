@@ -14,6 +14,7 @@ Example install:
 * [Node.js v0.3.x repos list](http://bit.ly/nodejs3_repos)
 
 Available RPM packages for: CentOS 5; Fedora 12 and 13; openSUSE 11.2, 11.3 and factory.
+
 Available DEB packages of Node.js v0.2.x for: Debian 5.0; Ubuntu 9.10 and 10.04.
 
 Example install on openSUSE 11.3:
