@@ -187,6 +187,7 @@ rendering process.
 * "node-properties":http://github.com/theteam/node-properties -- Simple property reader, externalise your configuration through JSON
 * "Node.js builds for cygwin":http://net-machine.com/indefero/p/nodewindows/downloads/ -- Up to date cygwin/windows builds
 * "Parrot":http://github.com/ollym/parrot -- A lightning fast and lightweight templating engine for Node.js (Just 33 LOC!)
+* "PURE":http://github.com/pure/pure -- Unobtrusive Rendering Engine. The HTML view and the JS logic remain strictly separated. Works with jsdom.
 * "sass.js":http://github.com/visionmedia/sass.js -- Parses Sass templates and renders css.
 * "scss-js":http://github.com/bmavity/scss-js -- Parses SCSS templates and renders css.
 * "stencil":http://github.com/thetalecrafter/stencil -- Renders asynchronous templates shared by server and browser
