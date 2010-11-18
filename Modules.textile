@@ -555,7 +555,7 @@ h3(#other). "Other":#other
 * "Wrench-JS":http://github.com/ryanmcgrath/wrench-js -- Useful Node.js operations (recursive directory operations, etc)
 * "yaml":http://github.com/visionmedia/js-yaml -- CommonJS YAML parser
 * "node-ncurses":http://github.com/mscdex/node-ncurses -- An ncurses binding for node.js
-* "node-terminal":http://github.com/bmeck/node-terminal -- A simple terminal module for ansi control codes.
+* -"node-terminal":http://github.com/bmeck/node-terminal- -- A simple terminal module for ansi control codes. (broken link)
 * "swirl-node":http://github.com/bmizerany/swirl-node -- A simple EC2 client
 * "node-hoptoad-notifier":http://github.com/tristandunn/node-hoptoad-notifier -- Report exceptions to "Hoptoad":http://hoptoadapp.com.
 * "html filtre":http://github.com/yikulju/HtmlFiltre - A proxy that filters Html requests and give you an opportunity to add custom content into the response
