@@ -273,6 +273,7 @@ h3(#ws-ajax). "Web Sockets & Ajax":#ws-ajax
 * "spacesocket":http://github.com/astro/spacesocket -- WebSocket server not invented here
 * "Weasel":http://github.com/hackfrag/Weasel -- a command based websocket application framework
 * "node-wwwdude":http://github.com/pfleidi/node-wwwdude -- A simplified, flexible HTTP/REST client library for node.js
+* "node-bus":https://github.com/node-bus/node-bus -- A distributed pubsub engine for JSON-based events
 
 h3(#class-system). "Class systems":#class-system
 * "joose":http://github.com/joose/joose -- complete modern class system for JavaScript, based on concepts from many programming languages
