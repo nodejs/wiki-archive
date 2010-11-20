@@ -497,6 +497,7 @@ h3(#other). "Other":#other
 * "limestone":http://github.com/kurokikaze/limestone -- Sphinx search server connector
 * "nDistro":http://github.com/visionmedia/ndistro -- Node distribution toolkit. Create and install distributions in seconds without GIT or npm
 * "Nodaphone":http://github.com/DTrejo/nodaphone -- Use a **phone** to talk to your webapp or any other internet-enabled device. "See the example":http://dtrejo.no.de.
+* "Node.io":http://node.io/ -- A distributed data scraping and processing framework.
 * "NodeQ":http://github.com/shripadk/nodeq -- A module for Background Processing using Node.js (still Alpha).
 * "node-applescript":http://github.com/TooTallNate/node-applescript -- A module to easily execute arbitrary AppleScript code on OS X through NodeJS.
 * "node-discount":http://github.com/visionmedia/node-discount -- C markdown parser "discount" bindings
