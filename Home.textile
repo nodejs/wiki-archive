@@ -64,6 +64,7 @@ h2. Projects / Applications
 * "node-boilerplate":http://github.com/robrighter/node-boilerplate -- Everything you need to get started on a Node.js website with express and socket.IO
 * "Orona":http://stephank.github.com/orona/ -- A multiplayer game of tank warfare. (Remake of the classic Mac game Bolo.)
 * "Hummingbird":http://hummingbirdstats.com/ -- A realtime web analytics app using socket.io 
+* "Node.io":http://node.io/ -- A distributed data scraping and processing framework
 
 h2. Articles
 * "Mastering Node":http://visionmedia.github.com/masteringnode/ - Open Source eBook by TJ Holowaychuk and the node community
