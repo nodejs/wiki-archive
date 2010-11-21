@@ -84,6 +84,7 @@ h2. Articles
 * "Step by step instructions to install NodeJS on Windows":http://boxysystems.com/?p=203 -- by Siddique Hameed
 * "Check Gmail with Node.js":http://www.mgutz.com/2010/10/01/check_gmail_with_node_js.html -- by Mario Gutierrez
 * "Writing for node and the browser":http://caolanmcmahon.com/writing_for_node_and_the_browser.html -- by Caolan McMahon
+* "Backbone Examples Ported From Knockout (WIP)":https://github.com/mgutz/backbone-knockout-examples -- by Mario Gutierrez
 
 h2. Talks
 * "GoogleTechTalk: Node.js":http://www.youtube.com/watch?v=F6k8lTrAE2g -- by Ryan Dahl
