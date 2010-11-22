@@ -471,6 +471,8 @@ h2. UTC+1 (+2)
 ** "Github":http://github.com/DanielG
 * Christopher Klein (schakko), Wolfsburg, Germany
 ** "Github":http://github.com/schakko, "Blog":http://wap.ecw.de/, "Twitter":http://twitter.com/schakko
+* Martin Jagusch
+** "Github":http://github.com/martinjagusch, "Blog":http://martinjagusch.com/
 
 h2. UTC+2 (+3)
 * Shimon Doodkin (shimondoodkin), Israel
