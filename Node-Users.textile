@@ -148,6 +148,8 @@ h2. UTC-7 (-6)
 ** "GitHub":http://github.com/robrobbins/, "Twitter":http://twitter.com/RobRobbins/, "Blog":http://robrobbins.info
 * AJ ONeal (coolaj86), Provo, UT, US
 ** "Website":http://coolaj86.info, "GitHub":http://github.com/coolaj86, "Twitter":http://twitter.com/coolaj86 
+* Stephen J. Walters (sjwalter), Yellowknife, NT, Canada
+** "Website":http://stephenwalters.posterous.com, "GitHub":http://github.com/sjwalter, "Twitter":http://twitter.com/sjwalter
 
 h2. UTC-6 (-5)
 * Tim Caswell (creationix), Dallas, TX, US
