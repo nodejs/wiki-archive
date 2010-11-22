@@ -66,6 +66,7 @@ h2. Projects / Applications
 * "Hummingbird":http://hummingbirdstats.com/ -- A realtime web analytics app using socket.io 
 * "Node.io":http://node.io/ -- A distributed data scraping and processing framework
 * "Backbone Examples Ported From Knockout (WIP)":https://github.com/mgutz/backbone-knockout-examples -- by Mario Gutierrez
+* "TxtAtlas: Put your texts on the map":http://txtatlas.com -- A demo Twilio/Node.js/Redis application by Stephen J. Walters
 
 h2. Articles
 * "Mastering Node":http://visionmedia.github.com/masteringnode/ - Open Source eBook by TJ Holowaychuk and the node community
@@ -85,6 +86,7 @@ h2. Articles
 * "Step by step instructions to install NodeJS on Windows":http://boxysystems.com/?p=203 -- by Siddique Hameed
 * "Check Gmail with Node.js":http://www.mgutz.com/2010/10/01/check_gmail_with_node_js.html -- by Mario Gutierrez
 * "Writing for node and the browser":http://caolanmcmahon.com/writing_for_node_and_the_browser.html -- by Caolan McMahon
+
 
 h2. Talks
 * "GoogleTechTalk: Node.js":http://www.youtube.com/watch?v=F6k8lTrAE2g -- by Ryan Dahl
