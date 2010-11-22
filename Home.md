@@ -112,6 +112,7 @@ h2. Companies using node
 * "Development Seed":http://developmentseed.org/ - building data sites  
 * "Dextrose":http://dextrose.com/ -- heavily uses node for their upcoming JavaScript based game engine "Aves Engine"
 * "Deco":http://www.on-deco.com - Real-time collaborative mood boarding for web designers
+* "Durchblicker":http://durchblicker.at - The Austrian price comparison site. (price calculation engine)
 * "e-resistible":http://www.e-resistible.co.uk - uses node to handle network communication to restaurant printers
 * Feisty Studios
 * "Fictorial":http://fictorial.com
