@@ -46,6 +46,8 @@ This tutorial will guide you through setting up the latest stable version of nod
        nameserver 8.8.8.8
        nameserver 8.8.4.4
 
+(for vim newbies:  use :wq to (w)rite and (q)uit)
+
 Build Problems
 ====
 
