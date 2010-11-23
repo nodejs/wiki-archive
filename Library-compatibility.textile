@@ -7,12 +7,13 @@ h2. node v0.3.0
 * "hrtime v1.0":http://github.com/runelabs/hrtime
 * "node-mysql-libmysqlclient @ e4b5d00":http://github.com/Sannis/node-mysql-libmysqlclient/tree/e4b5d008cc5f738f2b62941d4f723eb406d36a34
 * "node-mapnik v0.1.0":http://github.com/mapnik/node-mapnik
+* "nun v.0.1.13":http://github.com/akaspin/nun/tree/v0.1.13
 
 h2. Node v0.3.0-pre
 * "Ni v0.1.0beta":http://github.com/chetan51/ni
 * "node_redis":http://github.com/mranney/node_redis
 * "node-syslog":http://github.com/schamane/node-syslog
-* "nun v.0.1.13":http://github.com/akaspin/nun/tree/v0.1.12
+* "nun v.0.1.13":http://github.com/akaspin/nun/tree/v0.1.13
 * "pit v.0.2":http://github.com/akaspin/pit/tree/v0.2
 * "dust v0.0.1":http://akdubya.github.com/dustjs/
 * "frank v1.1.0":http://github.com/mvrilo/frank
