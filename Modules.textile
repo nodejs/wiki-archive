@@ -335,6 +335,7 @@ h4(#parsers-commandline). "Command Line Option Parsers":#parsers-commandline
 * "js-opts":http://www.bitbucket.org/mazzarelli/js-opts/ -- Another simple command line option parser, easily installed via NPM
 * "node-arguments":http://github.com/fczuardi/node-arguments -- Yet another simple command line option parser
 * "nomnomargs":http://github.com/harthur/nomnomargs -- Option parser with defaults, positional args, usage
+* "tav":https://github.com/akaspin/tav -- Brain-free command-line options parser for node.js
 
 h4(#parser-generators).  "Parser Generators":#parser_generators
 * "canopy":http://github.com/jcoglan/canopy -- PEG parser compiler for JavaScript
