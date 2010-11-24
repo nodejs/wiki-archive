@@ -28,6 +28,7 @@ Contact [jim@joyent.com](mailto:jim@joyent.com) if you need access.
 
 * Joyent SmartMachine (OpenSolaris Zone)
 * ssh jill@8.19.35.141
+* built automatically from a script
 
 ## Ubuntu
 
