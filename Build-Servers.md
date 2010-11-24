@@ -27,18 +27,18 @@ Contact [jim@joyent.com](mailto:jim@joyent.com) if you need access.
 ## Solaris
 
 * Joyent SmartMachine (OpenSolaris Zone)
-* ssh jill@8.19.35.141
+* ssh jill@solaris.build.nodejs.org
 * built automatically from a script
 
 ## Ubuntu
 
 * Ubuntu 10.04 LTS
 * KVM-based Virtual Machine hosted by Joyent
-* ssh jill@64.30.133.142
+* ssh jill@ubuntu.build.nodejs.org
 
 ## Windows / Cygwin
 
 * KVM-based Virtual Machine hosted by Joyent
 * RDP to connect to Adminstrator on 64.30.133.118
-* ssh bamboo@64.30.133.118
+* ssh bamboo@cygwin.build.nodejs.org
 
