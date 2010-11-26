@@ -19,6 +19,9 @@ h2. Node v0.3.0-pre
 * "dust v0.0.1":http://akdubya.github.com/dustjs/
 * "frank v1.1.0":http://github.com/mvrilo/frank
 
+h2. Node v0.2.5
+* "node-imap v0.1.0":http://github.com/mscdex/node-imap/tree/v0.1.0
+
 h2. Node v0.2.4
 * "dropbox-node v0.0.4":http://github.com/evnm/dropbox-node
 * "frank v1.1.0":http://github.com/mvrilo/frank
@@ -26,7 +29,7 @@ h2. Node v0.2.4
 * "daemonchk.js":https://github.com/dulac/daemonchk.js
 * "node-ncurses @ 17c3532":https://github.com/mscdex/node-ncurses/tree/17c353202fa73a57214218fb5271349ef342ce0e
 * "odot":https://github.com/tsmith/odot
-* "node-imap v0.0.1":https://github.com/mscdex/node-imap/tree/v0.0.1
+* "node-imap v0.1.0":https://github.com/mscdex/node-imap/tree/v0.1.0
 * "node-mysql-libmysqlclient v1.0.3":http://github.com/Sannis/node-mysql-libmysqlclient/tree/v1.0.3
 * "Grasshopper v0.3.2":http://github.com/tuxychandru/grasshopper/tree/0.3.2
 * "node-mapnik v0.1.0":http://github.com/mapnik/node-mapnik
