@@ -130,6 +130,7 @@ h2. Companies using node
 * "nitobi":http://nitobi.com
 * "Nodejitsu":http://nodejitsu.com Hosting and ninja training for node.js.
 * "OPOWER":http://opowerjobs.com - Using Node for recruiting site, referral tracking, and other new projects.
+* "Razorshift Entertainment":http://www.razorshift.com/ - Online social properties and services.
 * "Redman Tech":http://redmantech.com -- using Node to power internal tools, real time log monitoring, and R&D projects.
 * "Plurk":http://www.plurk.com/ -- using node.js for its "new comet system":http://amix.dk/blog/post/19490#Plurk-Instant-conversations-using-comet
 * "Sexbyfood":http://www.sexbyfood.com -- a web-based reservations book for restaurateurs
