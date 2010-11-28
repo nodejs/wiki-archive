@@ -491,6 +491,7 @@ h3(#other). "Other":#other
 * "express-contrib":http://github.com/visionmedia/express-contrib -- Express utilities that do not belong in core, but are still awesome :)
 * "ext":http://github.com/visionmedia/ext.js -- High quality / performance JavaScript extensions specifically for node.js
 * "Faker.js":http://github.com/marak/Faker.js/ -- generate massive amounts of fake data in Node.js and the browser
+* "GeoIP":http://github.com/kuno/GeoIP -- Get geolocation information based on domain or IP address
 * "hub.js":http://github.com/greut/hubbub.js -- in-memory and in progress PubSubHubBub server
 * "IRC-js":http://github.com/gf3/IRC-js -- An IRC library for node.js 
 * "Jefe":http://github.com/fictorial/jefe -- Jefe is a safe sandbox for running user scripts in Node.js
