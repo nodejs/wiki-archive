@@ -594,6 +594,7 @@ h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":
 * "async.js":https://github.com/caolan/async/ -- Idiomatic Functional programming lib adapted for asynchronous programming (ie. callbacks)
 * "commonjs-geoUtils":http://github.com/moshen/commonjs-geoUtils -- Geographic Formulas for CommonJS
 * "commonjs-utils":http://github.com/kriszyp/commonjs-utils -- "JSON Schema":http://json-schema.org/, AOP, XML-RPC, lazy arrays, and other utilities
+* "data.js":http://github.com/michael/data/ -- A Javascript data manipulation library (features Data.Graph and Data.Collection data abstractions)
 * "datatypes-js":http://github.com/jfd/datatypes-js -- Byte encoding/decoding for typical datatypes in JS.
 * "Dojo Toolkit (Node-compatible fork)":http://github.com/novemberborn/dojo -- The Dojo library for Node
 * "email.js":http://github.com/craigw/email.js -- Email generation and parsing in Javascript.
