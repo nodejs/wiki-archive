@@ -455,6 +455,7 @@ h3(#api-clients). "API clients":#api-clients
 * "TwitScript":http://github.com/ryanmcgrath/twitscript -- A port of Twython to Node.js (Twitter API Library)
 * "twitter-js":http://github.com/masylum/twitter-js -- Easy peasy twitter client for connect.
 * "node-gravatar":https://github.com/arnabc/node-gravatar -- Node.js Gravatar URL generator, can be used with Node.js blogging frameworks 
+* "node-spore":http://github.com/francois2metz/node-spore -- Node.js implementation of "spore":http://github.com/SPORE/ Generate api client with a json file.
 
 h3(#async-flow). "Flow control / Async goodies":#async-flow
 * "flow-js":http://github.com/willconant/flow-js -- Continuation-esque contruct for expressing multi-step asynchronous logic
