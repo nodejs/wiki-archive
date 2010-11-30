@@ -477,6 +477,8 @@ h2. UTC+1 (+2)
 ** "Github":http://github.com/martinjagusch, "Blog":http://martinjagusch.com/
 
 h2. UTC+2 (+3)
+* Aurimas Rimša
+** "Github":https://github.com/arimsa, "Website":http://aurimas.rimsa.name/
 * Shimon Doodkin (shimondoodkin), Israel
 ** "Github":http://github.com/shimondoodkin, "Twitter":http://twitter.com/doodkin, "Website":http://doodkin.com
 * Artem Gnilov (Boo), Ukraine
