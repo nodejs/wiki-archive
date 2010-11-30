@@ -93,6 +93,10 @@ This means cygwin is returning the wrong cpu architecture, use the dest-cpu opti
     % ./configure --dest-cpu=ia32
 
 
+Could not configure cxx compiler
+====
+
+Follow directions at http://stackoverflow.com/questions/3360948/compiling-node-js-on-cygwin
 
 Help! I've done EVERYTHING above and I'm still having trouble
 ====
