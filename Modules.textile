@@ -45,6 +45,7 @@ h4(#web-frameworks-micro). "Microframeworks":#web-frameworks-micro
 * "Pipe-Layer":http://cgit.voodoowarez.com/pipe-layer/ -- Asynchronous HTTP router.
 * "frank":http://github.com/mvrilo/frank -- yet another sinatra-like microframework for node
 * "zappa":http://github.com/mauricemach/zappa -- Razor-sharp DSL for modern web apps. (node 0.2.3)
+* "m1node":http://github.com/mikebannister/m1node -- A thin layer of utils for working with node.js, connect, express, CouchDB and friends
 
 h4(#web-frameworks-full). "Frameworks":#web-frameworks-full
 * "broke":http://github.com/brokenseal/broke/ -- A porting of the most famous "Django Web Framework":http://www.djangoproject.com/
@@ -447,7 +448,7 @@ h3(#api-clients). "API clients":#api-clients
 * "node-googleanalytics":http://github.com/ncb000gt/node-googleanalytics -- Google Analytics GData export library
 * "node-googlemaps":http://github.com/moshen/node-googlemaps -- A wrapper for the Google Maps API
 * "node-prowl":http://github.com/mape/node-prowl -- A module that allows you to send push notifications to your iPhone through the Prowl API
-* "nodefm":https://github.com/mikebannister/nodefm -- So far just a util for consuming last.fm recent tracks history for a user
+* "nodefm":http://github.com/mikebannister/nodefm -- So far just a util for consuming last.fm recent tracks history for a user
 * "nodestalker":http://github.com/pascalopitz/nodestalker -- A beanstalkd client for node
 * "node-twitter":http://github.com/jdub/node-twitter -- Asynchronous Twitter REST/stream/search client for node.js
 * "tumblrrr":http://github.com/mvrilo/tumblrrr -- A wrapper for Tumblr's API
