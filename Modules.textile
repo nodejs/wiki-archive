@@ -400,6 +400,7 @@ h3(#debugging). "Debugging / Console Utilities":#debugging
 * "node-profiler":http://github.com/bnoordhuis/node-profiler -- access the V8 profiler from node.js
 * "node-inspector":http://github.com/dannycoates/node-inspector -- browser based node debugger
 * "node-cli":http://github.com/SchizoDuckie/Node-CLI/ -- cli.clear().move(20,20).color('green').write('Node-cli').down(1).back(7).color('yellow').write('Rocks!')
+* "v8-profiler":http://github.com/dannycoates/v8-profiler -- v8 profiler bindings with node-inspector integration
 
 h3(#compression). "Compression":#compression
 * "node-compress":http://github.com/waveto/node-compress -- streaming compression / gzip library
