@@ -3,38 +3,39 @@ Building node.js on Cygwin (Windows)
 
 This tutorial will guide you through setting up the latest stable version of node.js on Cygwin. You don't need to have a working Cygwin install.
 
-1. Install [Cygwin](http://www.cygwin.com/).
-2. Use `setup.exe` from Cygwin and install the following packages required to compile node.js:
+1. Grab and install [Cygwin](http://www.cygwin.com/).
+2. Using `setup.exe` from Cygwin (1), install the following packages required to compile node.js:
 
-   * `devel  -> gcc-g++`
-   * `devel  -> git`
-   * `devel  -> make`
-   * `devel  -> openssl`
-   * `libs   -> openssl-devel`
-   * `devel  -> pkg-config`
-   * `devel  -> zlib-devel`
-   * `python -> python`
+   * `devel  → gcc-g++`
+   * `devel  → git`
+   * `devel  → make`
+   * `devel  → openssl`
+   * `libs   → openssl-devel`
+   * `devel  → pkg-config`
+   * `devel  → zlib-devel`
+   * `python → python`
 
-   You may also want to install the following packages:
+   You may also want to install the following:
 
-   * `editors -> vim` (for step 4. below)
-   * `web -> curl` (if you want to follow [[npm Simple Install instructions|https://github.com/isaacs/npm]])
+   * `editors → vim` or `editors → nano` for (4) below
+   * `web → curl` if you wish to install [[npm|https://github.com/isaacs/npm]], node's package manager
 
    You can use the search box at the top-left to locate packages quickly.
 
-2. It's time to clone the Git repository and build node.js. Start a new Cygwin shell (bash, zsh, etc.), open `Start -> Cygwin -> Cygwin Bash Shell`. Run the following commands:
+2. It's time to clone the Git repository and build node.js. Start a new Cygwin shell (bash, zsh, etc.), open `Start → Cygwin → Cygwin Bash Shell`. Run the following commands:
 
        $ cd ~
        $ git clone git://github.com/ry/node.git
        $ cd node
        $ git fetch --all
+       # if the above fails complaining --all is not recognised, try: git fetch origin
        $ git tag
-       $ git checkout [latest-stable-tag, e.g., v0.2.4]
+       $ git checkout [latest stable tag from previous command, e.g., v0.2.5]
        $ ./configure
        $ make
        $ make install
 
-   It is recommended you checkout a stable tag since most of the time building **master** on Cygwin fails.
+   It is recommended you checkout a stable tag since most of the time building **master** fails.
    If you receive an error at any of the above steps, look further down for possible solutions.
 
 3. Set up Domain Name Resolution (DNS)
@@ -46,7 +47,7 @@ This tutorial will guide you through setting up the latest stable version of nod
        nameserver 8.8.8.8
        nameserver 8.8.4.4
 
-(for vim newbies:  use :wq to (w)rite and (q)uit)
+For Vim newbies:  use `i` to enter insert mode, `<Esc>:wq` to exit insert mode, enter the command window, **w**rite and **q**uit. If you are uncomfortable with Vim, use `nano /etc/resolv.conf` instead.
 
 Build Problems
 ====
@@ -66,39 +67,32 @@ Unable to Remap to Same Address as Parent
 
     fatal error – unable to remap \\?\C:\cygwin\lib\python2.6\lib-dynload\time.dll to same address as parent: 0×360000 != 0×3E0000
 
-This is not an issue with node.js either. Install `base -> rebase` using `setup.exe` first then close all Cygwin instances. Using `dash` or `ash` as a shell run ):
+This is not an issue with node.js either. Install `base → rebase` using `setup.exe` first then close all Cygwin instances. Start `dash` or `ash` (located in the `bin` directory under Cygwin's installation) and run:
 
     $ /bin/rebaseall -v
 
-Once you are done, restart your PC.
-
-(on vista: 1. close the cygwin shell 2. type cmd in the search box of the start menu. 3. type cd cygwin/bin 4. type ash 5. type ./rebaseall -v)
+Once you are done, restart your PC. Remember to close all open Cygwin shells before using `rebaseall`.
 
 ../deps/v8/tools/jsmin.py SyntaxError: invalid syntax
 ----
 
-Cygwin uses a different way of handling symlinks than a regular Unix system. If you open up `jsmin.py` in an editor, you will see the actual path it needs to be symlinked to.
+Cygwin uses a different way of handling symlinks than a regular Unix system. If you cloned node.js using msysGit it's likely you'll end up here as well. Open up `jsmin.py` in an editor – you will see the actual path it needs to be symlinked to. To address this, start a new Cygwin shell and `cd` to the cloned node.js directory. Run:
 
     # from the node.js cloned repository directory, run:
-    % cd tools
-    % ln -fs `cat jsmin.py`
+    $ cd tools
+    $ ln -fs `cat jsmin.py`
+    $ cd ..
 
 Re-run `./configure`.
 
 Exception: supported architectures are arm, ia32, x64 but NOT 'x86'.
 ----
 
-This means cygwin is returning the wrong cpu architecture, use the dest-cpu option with the value 'ia32', like this:
+Cygwin is returning the wrong CPU architecture (usually `uname` from minGw gets in the way). Use the `dest-cpu` flag with the value of `ia32`:
 
-    % ./configure --dest-cpu=ia32
+    $ ./configure --dest-cpu=ia32
 
-
-Could not configure cxx compiler
+Help! I've done EVERYTHING above and I'm still having issues…
 ====
 
-Follow directions at http://stackoverflow.com/questions/3360948/compiling-node-js-on-cygwin
-
-Help! I've done EVERYTHING above and I'm still having trouble
-====
-
-If you have tried all of the above steps and you still need some help, pop into the [#node.js chat channel](http://webchat.freenode.net?channels=node.js) on irc.freenode.net.
+If you have followed all of the steps above and you still need further help, pop into the [#node.js IRC channel](http://webchat.freenode.net?channels=node.js) on `irc.freenode.net`.
