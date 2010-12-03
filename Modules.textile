@@ -300,6 +300,7 @@ h3(#testing). "Testing / Spec Frameworks":#testing
 * "node-stories":http://github.com/tobiassvn/node-stories -- Given/When/Then integration awesomeness for Node.
 * "nodeunit":http://github.com/caolan/nodeunit -- Simple syntax, powerful tools. Based on the assert module. Available for node.js and the browser!
 * "ntest":http://github.com/technoweenie/ntest -- another unit testing framework
+* "reut":http://github.com/5long/reut -- Heavyweight unit testing framework.
 * "spectacular":http://github.com/jcrosby/spectacular -- for testing
 * "Speks":http://github.com/ecavazos/speks -- A specification framework for your node-code
 * "Vows":http://github.com/cloudhead/vows -- asynchronous behaviour-driven development for node.js
