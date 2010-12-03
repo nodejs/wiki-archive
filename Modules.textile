@@ -505,6 +505,7 @@ h3(#other). "Other":#other
 * "Jefe":http://github.com/fictorial/jefe -- Jefe is a safe sandbox for running user scripts in Node.js
 * "Jerk":http://github.com/gf3/Jerk -- A fun little IRC bot library for node.js.
 * "koala":http://github.com/visionmedia/koala.js -- Code syntax highlighting library
+* "knox":http://github.com/LearnBoost/knox -- Amazon S3 client from the team at LearnBoost
 * "LDAP":http://github.com/jeremycx/node-LDAP -- LDAP search/authenticate binding
 * "lepote":http://github.com/tdebarochez/lepote -- XMPP bot
 * "Lingo":http://bit.ly/cuaHAh -- Inflection, transformation and more
