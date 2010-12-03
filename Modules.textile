@@ -201,6 +201,7 @@ rendering process.
 h3(#build-and-deployment). "Build and Deployment":#build-and-deployment
 * "nodejs-autorestart":http://github.com/shimondoodkin/nodejs-autorestart -- It is a way to watch all .js files if they have been changed and to restart nodejs. It allows easy development and stable production.
 * "node-config":http://github.com/ArtS/node-config -- Lightweight configuration engine for Node.js
+* "node-config":http://github.com/lorenwest/node-config -- Runtime configuration for node.js modules - npm install config
 * "node-dev":http://github.com/fgnass/node-dev -- Automatically restarts node when a source-file is modified. Displays notifications via Growl.
 * "Jake":http://github.com/mde/node-jake -- JavaScript build tool similar to Make or Rake.
 * "Masson":http://github.com/wdavidw/node-masson -- Build system and rule management similar to tools like Make, Ant or Rake
