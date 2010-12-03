@@ -75,31 +75,31 @@ DEBUG: Tick count: 3
 
 Assuming that you have already installed Eclipse, together with the "plugin":http://code.google.com/p/chromedevtools/  mentioned above, now you need to make initial debug profile.
 
-!http://imgur.com/54LA2.png!
+!http://i.imgur.com/54LA2.png!
 
 Click the drop box button (llitle black triangle) next to the green bug one and select "Debug Configurations ..." option.
 
-!http://imgur.com/sZqH3.png!
+!http://i.imgur.com/sZqH3.png!
 
 Now start making new debug configuration by clicking the "New" button:
 
-!http://imgur.com/eixxg.png!
+!http://i.imgur.com/eixxg.png!
 
 Note that this configuration is named Node-5858 and the port is set accordingly. While you there create one or more additional configurations such as Node-5859, Node-5860, ... with respective ports, so you can later debug more than one node executable at the same time. 
 
-!http://imgur.com/KqpC6.png!
+!http://i.imgur.com/KqpC6.png!
 
 Start the debugging session by clicking "Debug" button. If everything goes well, you will get something like this:
 
-!http://imgur.com/Lz1UA.png!
+!http://i.imgur.com/Lz1UA.png!
 
 You can suspend the execution by pressing "Pause" button, however since it will most likely stop at node.js:process.loop() which, being a native C++ function, is not very interesting - it is better to expand Node-5858 in Project Explorer, open dbgtest.js and set a break somewhere in timer callback, such as line 11, by double click on the line number.
 
-!http://imgur.com/wB1vx.png!
+!http://i.imgur.com/wB1vx.png!
 
 The breakpoint will be reached within a second:
 
-!http://imgur.com/TuqCv.png!
+!http://i.imgur.com/TuqCv.png!
 
 Now you can examine stack frames, browse program variables - and do all the other useful stuff. If the same script was started with:
 
@@ -112,7 +112,7 @@ Waiting for remote debugger connection...
 
 then debugger screen after session is connected would look like this:
 
-!http://imgur.com/6sAJP.png!
+!http://i.imgur.com/6sAJP.png!
 
 As it was mentioned before, avoid stepping over or into require() calls, so the first safe place to stop is at line 4.
 If you set breakpoint there and resume execution by  clicking "Play" button, the script will stop at line 6, most likely due to JIT interaction.
