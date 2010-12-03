@@ -524,6 +524,8 @@ h3(#other). "Other":#other
 * "node-chat":http://github.com/scottgonzalez/node-chat -- A simple web-based chat server
 * "node-control":http://github.com/tsmith/node-control -- System admin and code deployment via ssh (similar to Capistrano/Vlad)
 * "node-email":http://github.com/aheckmann/node-email -- A simple wrapper around sendmail
+* "nodejs-phpmailer":https://github.com/shimondoodkin/nodejs-phpmailer -- enables to send  emails with inline images with phpmailer from nodejs.
+
 * "node-Daemon":http://github.com/Eyjafjallajokull/node-Daemon -- Restart node script after each change in main script or its dependencies
 * "node-daemon":http://github.com/theteam/node-daemon -- Node daemon is a simple way to start, stop and restart your node based application without having to manage external scripts.
 * "node-iconv":http://github.com/bnoordhuis/node-iconv -- iconv bindings, character encoding conversion made easy.
