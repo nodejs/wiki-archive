@@ -200,8 +200,8 @@ rendering process.
 
 h3(#build-and-deployment). "Build and Deployment":#build-and-deployment
 * "nodejs-autorestart":http://github.com/shimondoodkin/nodejs-autorestart -- It is a way to watch all .js files if they have been changed and to restart nodejs. It allows easy development and stable production.
+* "config":http://github.com/lorenwest/node-config -- Runtime configuration for node.js deployment - npm install config
 * "node-config":http://github.com/ArtS/node-config -- Lightweight configuration engine for Node.js
-* "node-config":http://github.com/lorenwest/node-config -- Runtime configuration for node.js modules - npm install config
 * "node-dev":http://github.com/fgnass/node-dev -- Automatically restarts node when a source-file is modified. Displays notifications via Growl.
 * "Jake":http://github.com/mde/node-jake -- JavaScript build tool similar to Make or Rake.
 * "Masson":http://github.com/wdavidw/node-masson -- Build system and rule management similar to tools like Make, Ant or Rake
@@ -395,6 +395,7 @@ h3(#debugging). "Debugging / Console Utilities":#debugging
 * "log4js-node":http://github.com/csausdev/log4js-node -- a port of log4js framework for node.js
 * "logging":http://github.com/dylang/logging -- Super sexy color console logging.
 * "node-logger":http://github.com/igo/node-logger -- Logging lib that can print also module names and line numbers, optionally in color
+* "monitor":http://github.com/lorenwest/node-monitor -- Runtime monitoring for node.js applications - npm install monitor
 * "node-prompt":http://github.com/jesusabdullah/node-prompt -- Prompt the user for questions in cli!
 * "node-streamlogger":http://github.com/andrewvc/node-streamlogger -- Extensively customizable logging, with support for rotation
 * "node_debug":http://github.com/Connorhd/node_debug/tree/master -- HTTP based console and object explorer
