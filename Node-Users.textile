@@ -477,6 +477,8 @@ h2. UTC+1 (+2)
 ** "Github":http://github.com/schakko, "Blog":http://wap.ecw.de/, "Twitter":http://twitter.com/schakko
 * Martin Jagusch, (martinjagusch)
 ** "Github":http://github.com/martinjagusch, "Blog":http://martinjagusch.com/
+* Hendrik Schnepel (hsch), Hamburg, Germany
+** "Github":http://github.com/hsch, "Twitter":http://twitter.com/heshist
 
 h2. UTC+2 (+3)
 * Aurimas Rimša, Lithuania
