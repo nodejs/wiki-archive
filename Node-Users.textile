@@ -283,6 +283,8 @@ h2. UTC-5 (-4)
 ** "Github":http://github.com/DTrejo, "Twitter":http://twitter.com/ddtrejo, "Website":http://dtrejo.com
 * Evan Q Jones (ejones), Toronto, ON, Canada
 ** "GitHub":http://github.com/ejones
+* Tom Smith (tsmith), Portland, ME
+** "GitHub":http://github.com/tsmith
 
 h2. UTC-4 (-3)
 
