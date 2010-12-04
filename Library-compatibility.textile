@@ -36,6 +36,7 @@ h2. Node v0.2.4
 * "Grasshopper v0.3.2":http://github.com/tuxychandru/grasshopper/tree/0.3.2
 * "node-mapnik v0.1.0":http://github.com/mapnik/node-mapnik
 * "NormAndVal 0.1.0":https://github.com/roberthahn/NormAndVal
+* "minlint":https://github.com/tsmith/minlint
 
 h2. Node v0.2.3
 * "choreographer v0.2.0":http://github.com/laughinghan/choreographer
