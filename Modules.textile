@@ -354,6 +354,8 @@ h4(#parser-generators).  "Parser Generators":#parser_generators
 * "OMeta Javascript compiler":http://tinlizzie.org/ometa-js/#JavaScript_Compiler
 
 h4(#parsers-other). "Other Parsers":#parsers-other
+
+* "node-brainfuck":https://github.com/masylum/node-brainfuck -- Brainfuck interpreter
 * "node-discount":http://github.com/visionmedia/node-discount -- C markdown parser "discount" bindings
 * "node-csv":http://github.com/voodootikigod/node-csv -- Efficient Evented CSV Parsing.
 * "ya-csv":http://github.com/koles/ya-csv -- Evented CSV parser and writer with configurable separator, escape and quote characters
