@@ -8,6 +8,7 @@ h2. Projects / Applications
 * "node3p":http://github.com/ncb000gt/node3p by ncb000gt -- AmazonMP3 downloader
 * "node3p-web":http://github.com/ncb000gt/node3p-web by ncb000gt -- Web interface for node3p
 * "nodelint":http://github.com/tav/nodelint by tav — run jslint from the command line
+* "minlint":https://github.com/tsmith/minlint - minimalist version of jslint from command line
 * "nodeload":http://github.com/benschmaus/nodeload by benschmaus and jonjlee  — utility for benchmarking HTTP APIs
 * "nodewiki":http://github.com/gjritter/nodewiki -- a simple wiki based on node and redis
 * "blog.js":http://github.com/furtivefelon/blog.js -- Simple blogging engine based on node.js
