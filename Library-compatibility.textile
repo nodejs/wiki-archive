@@ -8,8 +8,9 @@ h2. node v0.3.0
 * "hrtime v1.0":http://github.com/runelabs/hrtime
 * "node-mysql-libmysqlclient @ e4b5d00":http://github.com/Sannis/node-mysql-libmysqlclient/tree/e4b5d008cc5f738f2b62941d4f723eb406d36a34
 * "node-mapnik v0.1.0":http://github.com/mapnik/node-mapnik
-* "nun v.0.1.13":http://github.com/akaspin/nun/tree/v0.1.13
-* "tav v.0.1.0":http://github.com/akaspin/tav/tree/v0.1.0
+* "nun v0.1.13":http://github.com/akaspin/nun/tree/v0.1.13
+* "tav v0.1.0":http://github.com/akaspin/tav/tree/v0.1.0
+* "ain v0.0.1":http://github.com/akaspin/ain/tree/v0.0.1
 
 h2. Node v0.3.0-pre
 * "Ni v0.1.0beta":http://github.com/chetan51/ni
