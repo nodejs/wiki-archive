@@ -339,6 +339,7 @@ h4(#parsers-commandline). "Command Line Option Parsers":#parsers-commandline
 * "argsparser":http://github.com/kof/node-argsparser -- A tiny limited arguments parser, returns a hash.
 * "optimist":http://github.com/substack/node-optimist -- Light-weight option parsing without optstrings or any of that silliness. It's just a hash!
 * "optparse-js":http://github.com/jfd/optparse-js/tree/master -- Option Parser in JS
+* "parseopt":http://bitbucket.org/panzi/javascript-utils/src/tip/parseopt/ -- Flexible and extensible option parser in JavaScript.
 * "trollopjs":http://github.com/bentomas/trollopjs -- Another option parser
 * "js-opts":http://www.bitbucket.org/mazzarelli/js-opts/ -- Another simple command line option parser, easily installed via NPM
 * "node-arguments":http://github.com/fczuardi/node-arguments -- Yet another simple command line option parser
