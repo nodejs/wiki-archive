@@ -285,6 +285,8 @@ h2. UTC-5 (-4)
 ** "GitHub":http://github.com/ejones
 * Tom Smith (tsmith), Portland, ME
 ** "GitHub":http://github.com/tsmith
+* Mike Bannister (possibilities), Portland, ME
+** "GitHub":http://github.com/mikebannister, "Twitter":http://www.twitter.com/possibilities
 
 h2. UTC-4 (-3)
 
