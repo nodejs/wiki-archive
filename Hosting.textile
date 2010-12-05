@@ -15,5 +15,6 @@ h1. Hosting compatible with Node
 # "Webbynode":http://www.webbynode.com/ - "setup guide here":http://blog.dtrejo.com/nodejs-for-server-newbs - "deployment guide":http://guides.webbynode.com/articles/rapidapps/nodejs.html - "screencast":http://vimeo.com/15406437
 # "Gandi":http://en.gandi.net/hosting/
 # "BuyVM":http://www.buyvm.net/
+# "Oversun Scalaxy":http://www.scalaxy.ru/ - Site in Russian
 
 Most of the above are just VPS providers, which require you to set everything up yourself, including the operating system.
