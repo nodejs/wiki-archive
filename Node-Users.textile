@@ -592,6 +592,8 @@ h2. UTC+8
 ** "Github":http://www.github.com/is
 * Zhao Lei (firede), China
 ** "Github":http://github.com/firede
+* YANG Xudong (Wyverald), Beijing, China
+** "Github":http://github.com/Wyverald, "Website":http://wyverald.tumblr.com, "Twitter":http://twitter.com/wyverald
 
 h2. UTC+9
 
