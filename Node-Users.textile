@@ -483,6 +483,8 @@ h2. UTC+1 (+2)
 ** "Github":http://github.com/martinjagusch, "Blog":http://martinjagusch.com/
 * Hendrik Schnepel (hsch), Hamburg, Germany
 ** "Github":http://github.com/hsch, "Twitter":http://twitter.com/heshist
+* Frank Grimm (stride)
+** "Blog":http://blog.frankgrimm.net, "Twitter":http://twitter.com/frank_grimm
 
 h2. UTC+2 (+3)
 * Aurimas Rimša, Lithuania
