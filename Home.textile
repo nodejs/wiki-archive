@@ -72,7 +72,7 @@ h2. Projects / Applications
 * "Node.io":http://node.io/ -- A distributed data scraping and processing framework
 * "Backbone Examples Ported From Knockout (WIP)":https://github.com/mgutz/backbone-knockout-examples -- by Mario Gutierrez
 * "TxtAtlas: Put your texts on the map":http://txtatlas.com -- A demo Twilio/Node.js/Redis application by Stephen J. Walters
-* "Substance — A data-driven and cloud-aware realtime document authoring engine":https://github.com/michael/substance
+* "Substance":https://github.com/michael/substance — A data-driven and cloud-aware realtime document authoring engine
 
 h2. Articles
 * "Mastering Node":http://visionmedia.github.com/masteringnode/ - Open Source eBook by TJ Holowaychuk and the node community
