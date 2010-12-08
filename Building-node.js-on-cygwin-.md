@@ -1,0 +1,1 @@
+You are probably trying to go here: [https://github.com/ry/node/wiki/Building-node.js-on-Cygwin-(Windows)](https://github.com/ry/node/wiki/Building-node.js-on-Cygwin-(Windows))
