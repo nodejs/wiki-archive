@@ -284,6 +284,9 @@ h3(#ws-ajax). "Web Sockets & Ajax":#ws-ajax
 * "node-bus":https://github.com/node-bus/node-bus -- A distributed pubsub engine for JSON-based events
 * "wave-node":https://github.com/scottbw/wave-node -- An implementation of the Google Wave Gadget API for node.js
 
+h3(#message-queue). "Message Queues":#message-queue
+* "websocket.MQ":https://github.com/networkimprov/websocket.MQ -- Reliable message queue server accessible via websockets, socket.IO, etc
+
 h3(#class-system). "Class systems":#class-system
 * "joose":http://github.com/joose/joose -- complete modern class system for JavaScript, based on concepts from many programming languages
 
