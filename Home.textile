@@ -74,6 +74,7 @@ h2. Projects / Applications
 * "TxtAtlas: Put your texts on the map":http ://txtatlas.com -- A demo Twilio/Node.js/Redis application by Stephen J. Walters
 * "Substance":https://github.com/michael/substance — A data-driven and cloud-aware realtime document authoring engine
 * "Graffiti &beta;":http://yay3d.com — Interactive multi-user shared canvas whiteboard
+* "BirdChat":http://birdch.at/ — Chat with your friends from Twitter
 
 h2. Articles
 * "Mastering Node":http://visionmedia.github.com/masteringnode/ - Open Source eBook by TJ Holowaychuk and the node community
