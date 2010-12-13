@@ -11,6 +11,7 @@ h2. node v0.3.0
 * "nun v0.1.13":http://github.com/akaspin/nun/tree/v0.1.13
 * "tav v0.1.0":http://github.com/akaspin/tav/tree/v0.1.0
 * "ain v0.0.1":http://github.com/akaspin/ain/tree/v0.0.1
+* "Grasshopper v0.3.3":http://github.com/tuxychandru/grasshopper/tree/0.3.3
 
 h2. Node v0.3.0-pre
 * "Ni v0.1.0beta":http://github.com/chetan51/ni
@@ -24,6 +25,7 @@ h2. Node v0.3.0-pre
 h2. Node v0.2.5
 * "Minotaur":http://github.com/yojimbo87/minotaur
 * "node-imap v0.1.0":http://github.com/mscdex/node-imap/tree/v0.1.0
+* "Grasshopper v0.3.3":http://github.com/tuxychandru/grasshopper/tree/0.3.3
 
 h2. Node v0.2.4
 * "dropbox-node v0.0.4":http://github.com/evnm/dropbox-node
