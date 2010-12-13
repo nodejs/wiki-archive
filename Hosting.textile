@@ -18,6 +18,7 @@ h1. Hosting compatible with Node
 # "Oversun Scalaxy":http://www.scalaxy.ru/ - Site in Russian
 # "DuoStack":http://www.duostack.com/
 # "NodeJsCloud":http://www.nodejscloud.com/
+# "Nodejitsu":http://nodejitsu.com/
 
 
 Most of the above are just VPS providers, which require you to set everything up yourself, including the operating system.
