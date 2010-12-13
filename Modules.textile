@@ -8,43 +8,6 @@ When you edit this list, also add your module to [[library-compatibility]] so th
 
 h2(#modules). "Modules":#modules
 
-
-  * "Web Frameworks":#web-frameworks
-  ** "routers":#web-frameworks-routers
-  ** "static serving":#web-frameworks-static
-  ** "micro frameworks":#web-frameworks-micro
-  ** "frameworks":#web-frameworks-full
-  ** "middleware":#web-frameworks-middleware
-  ** "other":#web-frameworks-other
-  * "Database":#database
-  * "Templating":#templating
-  * "Build and Deployment":#build-and-deployment
-  * "Package Management":#package-management
-  * "Module Loader":#module-loader
-  * "Security":#security
-  * "TCP/IP":#tcp
-  * "RPC":#rpc
-  * "Web Sockets & Ajax":#ws-ajax
-  * "Message Queues":#message-queue
-  * "Class Systems":#class-system
-  * "Testing & Spec Frameworks":#testing
-  * "Wrappers":#wrappers
-  * "Parsers":#parsers
-  ** "XML":#parsers-xml
-  ** "Command Line Option Parsers":#parsers-commandline
-  ** "Parser Generators":#parser_generators
-  ** "Other Parsers":#parsers-other
-  * "Debuging / Console Utilities":#debugging
-  * "Compression":#compression
-  * "Graphics":#graphics
-  * "Payment Gateways":#payment-gateways
-  * "API Clients":#api-clients
-  * "Flow Control / Async Goodies":#async-flow
-  * "I18n & L10n modules":#i18n
-  * "Other":#other
-  * "Common JS compatible modules":#commonjs-compat
-
-
 h3(#web-frameworks). "Web frameworks":#web-frameworks
 
 h4(#web-frameworks-routers). "Routers":#web-frameworks-routers
