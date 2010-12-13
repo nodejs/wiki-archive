@@ -16,5 +16,8 @@ h1. Hosting compatible with Node
 # "Gandi":http://en.gandi.net/hosting/
 # "BuyVM":http://www.buyvm.net/
 # "Oversun Scalaxy":http://www.scalaxy.ru/ - Site in Russian
+# "DuoStack":http://www.duostack.com/
+# "NodeJsCloud":http://www.nodejscloud.com/
+
 
 Most of the above are just VPS providers, which require you to set everything up yourself, including the operating system.
