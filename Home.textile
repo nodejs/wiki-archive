@@ -75,6 +75,7 @@ h2. Projects / Applications
 * "Substance":https://github.com/michael/substance — A data-driven and cloud-aware realtime document authoring engine
 * "Graffiti &beta;":http://yay3d.com — Interactive multi-user shared canvas whiteboard
 * "BirdChat":http://birdch.at/ — Chat with your friends from Twitter
+* "bookfriend.me":http://bookfriend.me/ — Community site for Barnes and Noble Nook owners who want to borrow/lend books
 
 h2. Articles
 * "Mastering Node":http://visionmedia.github.com/masteringnode/ - Open Source eBook by TJ Holowaychuk and the node community
@@ -112,6 +113,7 @@ h2. Companies using node
 * "Adcloud":http://adcloud.com/ -- Javascript Adserver on EC2
 * "AdGear":http://adgear.com/ -- Real-time advertising reporting
 * "Ajax.org":http://ajax.org/ -- Home of the Cloud9 IDE, Ajax.org Platform and O3 Node modules
+* "Bitmechanic":http://www.bitmechanic.com/
 * "Bocoup":http://bocoup.com
 * "BrandedCode":http://brandedcode.com
 * "Caffeinehit":http://caffeinehit.com
