@@ -45,7 +45,6 @@ h4(#web-frameworks-micro). "Microframeworks":#web-frameworks-micro
 * "Pipe-Layer":http://cgit.voodoowarez.com/pipe-layer/ -- Asynchronous HTTP router.
 * "frank":http://github.com/mvrilo/frank -- yet another sinatra-like microframework for node
 * "zappa":http://github.com/mauricemach/zappa -- Razor-sharp DSL for modern web apps. (node 0.2.3)
-* "m1node":http://github.com/mikebannister/m1node -- A thin layer of utils for working with node.js, connect, express, CouchDB and friends
 
 h4(#web-frameworks-full). "Frameworks":#web-frameworks-full
 * "broke":http://github.com/brokenseal/broke/ -- A porting of the most famous "Django Web Framework":http://www.djangoproject.com/
