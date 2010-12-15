@@ -126,6 +126,7 @@ h3(#database). "Database":#database
 * "node-couchdb-min":http://github.com/rsms/node-couchdb-min -- Light-weight client with low level of abstraction and connection pooling.
 * "node-dirty":http://github.com/felixge/node-dirty -- A key value store for node.js that is simple, fast & dirty.
 * "node-fleet":http://github.com/jfd/node-fleet -- a FleetDB Client
+* "node-firebird-libfbclient":https://github.com/xdenser/node-firebird-libfbclient -- Firebird SQL client
 * "node-handlersocket":https://github.com/koichik/node-handlersocket -- Pure JavaScript client for HandlerSocket 
 * "node-hbase":http://github.com/wdavidw/node-hbase -- HBase client with full API support through the REST connector
 * "node-mdbm":http://github.com/robtweed/node-mdbm -- a client for GT.M and Cache, using an HTTP interface that is based on SimpleDB
