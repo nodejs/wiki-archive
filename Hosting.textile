@@ -16,7 +16,7 @@ h1. Hosting compatible with Node
 # "Gandi":http://en.gandi.net/hosting/
 # "BuyVM":http://www.buyvm.net/
 # "Oversun Scalaxy":http://www.scalaxy.ru/ - Site in Russian
-# "DuoStack":http://www.duostack.com/
+# "Duostack":http://www.duostack.com/
 # "NodeJsCloud":http://www.nodejscloud.com/
 # "Nodejitsu":http://nodejitsu.com/
 
