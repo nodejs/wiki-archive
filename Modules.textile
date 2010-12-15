@@ -616,6 +616,7 @@ h3(#other). "Other":#other
 * "hrtime":http://github.com/runelabs/hrtime -- Simple high resolution time POSIX-based functions providing nanosecond resolution, realtime clock, system uptime, process cputime, process runtime.
 * "simplewhois":http://github.com/davidcoallier/node-simplewhois -- Retrieve Whois information for hostnames
 * "nodepal":http://github.com/synodinos/nodepal -- A Drupal integration layer for Node.js developers
+* "node-usb":http://github.com/schakko/node-usb -- USB asynchronous bindings based on libusb-1.0
 
 h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":#commonjs-compat
 * "abbrev-js":http://github.com/isaacs/abbrev-js/ -- Like Ruby's Abbrev module.
