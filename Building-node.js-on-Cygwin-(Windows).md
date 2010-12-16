@@ -71,6 +71,16 @@ This is not an issue with node.js either. Install `base → rebase` using `setup
 
     $ /bin/rebaseall -v
 
+It should finish with no errors. If instead the above results in an error like:
+
+    rebaseall:'/cygdrive/c/Users/ADMINI~1/AppData/Local/Temp' is not writable
+
+Open up a Cygwin shell and run:
+   
+    chmod 777 ~/AppData/Local/Temp
+
+Close your shell window and repeat the steps above.
+
 Once you are done, restart your PC. Remember to close all open Cygwin shells before using `rebaseall`.
 
 ../deps/v8/tools/jsmin.py SyntaxError: invalid syntax
@@ -91,34 +101,6 @@ Exception: supported architectures are arm, ia32, x64 but NOT 'x86'.
 Cygwin is returning the wrong CPU architecture (usually `uname` from minGw gets in the way). Use the `dest-cpu` flag with the value of `ia32`:
 
     $ ./configure --dest-cpu=ia32
-
-Unable to remap error when running configure
-----
-    ./configure
-
-    0 [main] python 3968 C:\cygwin\bin\python.exe: *** fatal error - 
-       unable to remap \\?\C:\cygwin\lib\python2.6\lib-dynload\time.dll to same 
-       address as parent: 0x360000 != 0x3E0000
-    1 [main] python 8064 fork: child 3968 - died waiting for dll 
-       loading, errno 11
-       /c/bin/node.js.git.files/node/wscript:132: error: could not configure a 
-       c compiler!
-
-To solve the above issue you need to run the rebaseall command. In order to run rebase all you will need to exit all cygwin windows and any cygwin processes. Then open up the windows command line and run the following.
-
-    cd \cygwin\bin
-    ash
-    PATH=. rebaseall -v
-
-If this results in an error like...
-
-    rebaseall:'/cygdrive/c/Users/ADMINI~1/AppData/Local/Temp' is not writable
-
-Then open up a cygwin window and run chmod 777 on the directory
-   
-    chmod 777 ~/AppData/Local/Temp
-
-Then close that window and run the rebase all command from above.  Once this has been completed you will be able to open up cygwin again and run the ./configure command.
 
 Help! I've done EVERYTHING above and I'm still having issues…
 ====
