@@ -73,7 +73,7 @@ h2. Projects / Applications
 * "Backbone Examples Ported From Knockout (WIP)":https://github.com/mgutz/backbone-knockout-examples -- by Mario Gutierrez
 * "TxtAtlas: Put your texts on the map":http ://txtatlas.com -- A demo Twilio/Node.js/Redis application by Stephen J. Walters
 * "Substance":https://github.com/michael/substance — A data-driven and cloud-aware realtime document authoring engine
-* "Graffiti &beta;":http://yay3d.com — Interactive multi-user shared canvas whiteboard
+* "Graffiti &beta;":http://yay3d.com/graffiti — Interactive multi-user shared canvas whiteboard
 * "BirdChat":http://birdch.at/ — Chat with your friends from Twitter
 * "bookfriend.me":http://bookfriend.me/ — Community site for Barnes and Noble Nook owners who want to borrow/lend books
 * "Fishl.com":http://fishl.com/ — Mark and save quotes you like all over the Web
