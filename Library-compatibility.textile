@@ -1,5 +1,11 @@
 Node is under heavy development and its API changes rapidly. Instead of simply a listing of modules which may or may not work with the version of Node installed on one's computer, this will provide a list of module versions which are known to work with specific versions of node.
 
+h2. node v0.3.2
+* "node-postgres":https://github.com/brianc/node-postgres
+
+h2. node v0.3.1
+* "node-postgres":https://github.com/brianc/node-postgres
+
 h2. node v0.3.0
 * "Minotaur":http://github.com/yojimbo87/minotaur
 * "ndb v0.2.1":http://github.com/smtlaissezfaire/ndb/tree/0.2.1
@@ -12,6 +18,7 @@ h2. node v0.3.0
 * "tav v0.1.0":http://github.com/akaspin/tav/tree/v0.1.0
 * "ain v0.0.1":http://github.com/akaspin/ain/tree/v0.0.1
 * "Grasshopper v0.3.3":http://github.com/tuxychandru/grasshopper/tree/0.3.3
+* "node-postgres":https://github.com/brianc/node-postgres
 
 h2. Node v0.3.0-pre
 * "Ni v0.1.0beta":http://github.com/chetan51/ni
@@ -28,6 +35,7 @@ h2. Node v0.2.5
 * "Grasshopper v0.3.3":http://github.com/tuxychandru/grasshopper/tree/0.3.3
 * "spludo 1.0.2":http://github.com/DracoBlue/spludo/tree/v1.0
 * "node-multivariate":https://github.com/grippy/node-multivariate
+* "node-postgres":https://github.com/brianc/node-postgres
 
 h2. Node v0.2.4
 * "dropbox-node v0.0.4":http://github.com/evnm/dropbox-node
