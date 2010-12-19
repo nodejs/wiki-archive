@@ -555,6 +555,7 @@ h3(#other). "Other":#other
 * "node-logger":http://github.com/quirkey/node-logger -- Simple logging like Ruby's logger.rb and console.log
 * "node-hammer":http://github.com/grippy/node-hammer -- Simple load testing tool similar to AB but with less features.
 * "node-hash-ring":http://github.com/bnoguchi/node-hash-ring -- A consistent hashing module
+* "node-irc-server":http://github.com/niklasf/node-irc-server -- An extensible IRC server implementation (only supports one server in a network, still in development)
 * "node-maxmind":http://github.com/gyordanov/node-maxmind — maxmind/geoip module (using libgeoip)
 * "node-maxmind-native":http://github.com/roymap/node-maxmind-native — maxmind/geoip module written in native node.js
 * "node-memstream":http://github.com/jfd/node-memstream — MemStream is a memory-based Stream implementation
