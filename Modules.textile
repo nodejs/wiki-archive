@@ -514,6 +514,7 @@ h3(#other). "Other":#other
 * "dox":http://github.com/visionmedia/dox -- Documentation generator using JSdoc and markdown comments
 * "express-chat":http://github.com/Tug/express-chat -- A chat application demo for testing node.js + MongoDB scalability
 * "express-contrib":http://github.com/visionmedia/express-contrib -- Express utilities that do not belong in core, but are still awesome :)
+* "express-helpers":http://github.com/masahiroh/express-helpers -- Express view helpers
 * "ext":http://github.com/visionmedia/ext.js -- High quality / performance JavaScript extensions specifically for node.js
 * "Faker.js":http://github.com/marak/Faker.js/ -- generate massive amounts of fake data in Node.js and the browser
 * "GeoIP":http://github.com/kuno/GeoIP -- Get geolocation information based on domain or IP address
