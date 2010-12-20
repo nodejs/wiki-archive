@@ -148,7 +148,7 @@ h3(#database). "Database":#database
 * "node-tyrant":http://github.com/waveto/node-tyrant/tree/master -- An implementation of the Tokyo Tyrant network protocol for the Node.js
 * "node.dbslayer.js":http://github.com/Guille/node.dbslayer.js/ - Interface to DBSlayer (MySQL)
 * "node_postgres":http://github.com/ry/node_postgres -- Beginning of bindings to libpg
-* "node-postgres":http://github.com/brianc/node-postgres -- Pure JavaScript PostgreSQL client (alpha, under heavy development)
+* "node-postgres":http://github.com/brianc/node-postgres -- Heavily tested, heavily documented, working Postgres client
 * "persistence":http://github.com/creationix/node-persistence -- Multi-backend database/nosql system.  Backends: Sqlite3, Postgres and Memory.
 * "persistence.js":http://github.com/zefhemel/persistencejs -- An object-relational mapper (ORM) for node. Backends: MySQL.
 * "perstore":http://github.com/kriszyp/perstore -- JavaScript persistence/object store with pluggable storage based on the "W3C DB API":http://www.w3.org/TR/IndexedDB/
