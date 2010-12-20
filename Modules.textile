@@ -119,6 +119,7 @@ h3(#database). "Database":#database
 * "couch-ar":https://github.com/scottburch/couch-ar -- a active record implementation for couchDB (uses cradle)
 * "cradle":http://github.com/cloudhead/cradle -- a high-level, caching, CouchDB client
 * "chaos":http://github.com/stagas/chaos -- Chaos is a Node.js database
+* "data.js":http://github.com/michael/data/ -- Graph persistence for Node.js with CouchDB
 * "JSLINQ":http://github.com/marak/JSLINQ -- Clean and simple port of Microsoft's LINQ to node.js (and the browser)
 * "keys":http://github.com/visionmedia/keys -- Unified interface for key/value store clients
 * "node-couch":http://github.com/sixtus/node-couch/tree/master -- a CouchDB connector
