@@ -455,6 +455,7 @@ h3(#payment-gateways). "Payment Gateways":#payment-gateways
 * "node-fortumo":http://github.com/andris9/node-fortumo -- bindings for Fortumo SMS payment API
 
 h3(#api-clients). "API clients":#api-clients
+* "tropo-webapi-node":https://github.com/tropo/tropo-webapi-node -- A library for building multi-channel communication apps with the Tropo WebAPI.
 * "node-twilio":http://github.com/sjwalter/node-twilio/ -- A helper library for the Twilio API
 * "dropbox-node":http://github.com/evnm/dropbox-node -- A wrapper for the Dropbox API 
 * "evented-twitter":http://github.com/polotek/evented-twitter -- asynchronous twitter client, supports streaming api
