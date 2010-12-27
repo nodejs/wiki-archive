@@ -8,7 +8,7 @@ See the "Modules":http://github.com/ry/node/wiki/modules page.
 
 h2. Projects / Applications
 * "node_chat":http://github.com/ry/node_chat by ry (live demo at <a href="http://chat.tinyclouds.org">chat.tinyclouds.org</a>)
-* "q-chess":http://github.com/wsdookadr/Q-Chess/tree/rewrite by wsookadr — chess game multiplayer server using [[faye|http://github.com/jcoglan/faye]] + client written using [[Qooxdoo|http://qooxdoo.org/]] 
+* "q-chess":http://github.com/wsdookadr/Q-Chess/tree/rewrite by wsdookadr — chess game multiplayer server using [[faye|http://github.com/jcoglan/faye]] + client written using [[Qooxdoo|http://qooxdoo.org/]] 
 * "node3p":http://github.com/ncb000gt/node3p by ncb000gt -- AmazonMP3 downloader
 * "node3p-web":http://github.com/ncb000gt/node3p-web by ncb000gt -- Web interface for node3p
 * "nodelint":http://github.com/tav/nodelint by tav — run jslint from the command line
