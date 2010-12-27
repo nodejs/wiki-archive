@@ -491,6 +491,7 @@ h3(#async-flow). "Flow control / Async goodies":#async-flow
 * "groupie":http://github.com/alexkwolfe/groupie -- A simple flow control library for executing multiple functions as a group or in a chain, calling back when complete.
 * "node-continuables":http://github.com/bentomas/node-continuables -- A library making dealing with asynchronous code easier
 * "node-cron":http://github.com/ncb000gt/node-cron -- Schedule callbacks with cron syntax
+* "node-crontab":http://github.com/dachev/node-crontab -- Allows reading, manipulating, and writing user crontabs from node.js
 * "node-parallel":http://github.com/Tim-Smart/node-parallel -- Create tasks in node.js that run in parallel, or sequences that run tasks one after another.
 * "node-promise":http://github.com/kriszyp/node-promise -- Robust promises for node.js, includes promise utilities and promise-based I/O library
 * "Slide":http://github.com/isaacs/slide-flow-control  -- A flow control library that fits in a slide presentation
