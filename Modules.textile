@@ -482,7 +482,7 @@ h3(#api-clients). "API clients":#api-clients
 * "twitter-js":http://github.com/masylum/twitter-js -- Easy peasy twitter client for connect.
 * "node-gravatar":https://github.com/arnabc/node-gravatar -- Node.js Gravatar URL generator, can be used with Node.js blogging frameworks 
 * "node-spore":http://github.com/francois2metz/node-spore -- Node.js implementation of "spore":http://github.com/SPORE/ Generate api client with a json file.
-* "akismet-js":https://github.com/oozcitak/akismet-js -- A wrapper for Akismet API
+* "akismet-js":https://github.com/oozcitak/akismet-js -- A client for the "Akismet spam detection API":http://akismet.com/development/api/
 
 h3(#async-flow). "Flow control / Async goodies":#async-flow
 * "flow-js":http://github.com/willconant/flow-js -- Continuation-esque contruct for expressing multi-step asynchronous logic
