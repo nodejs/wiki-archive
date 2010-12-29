@@ -323,6 +323,7 @@ h3(#testing). "Testing / Spec Frameworks":#testing
 * "fragile":http://github.com/coffeemate/fragile -- Lightweight command line unit testing tool for nodejs 
 * "pit":http://github.com/akaspin/pit -- Simple drop-in test runner with optional control tools
 * "uubench":http://github.com/akdubya/uubench -- A tiny asynchronous JavaScript benchmarking library
+* "zombie.js":http://github.com/assaf/zombie -- Insanely fast, full-stack, headless testing using node.js
 
 h3(#wrappers). "Wrappers":#wrappers
 * "bdog-node":http://github.com/blackdog66/bdog-node -- haXe wrappers for node.
