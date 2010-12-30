@@ -596,6 +596,7 @@ h3(#other). "Other":#other
 * "NormAndVal":https://github.com/roberthahn/NormAndVal -- Data normalization and validation for Node.js and the browser
 * "nshtools":http://github.com/rsdoiel/nshtools -- a high level shell scripting library for file and operating system chores
 * "odot":https://github.com/tsmith/odot - persistent, code reloading, interactive object space
+* "sh.js":http://shjs.tuton.fr -- library for Unix shell scripting, replace Bash scripts with JavaScript
 * "simplesets":http://github.com/PeterScott/simplesets-nodejs -- Set data type, with API similar to Python's sets module. Supports any data type, with equality tested by @===@.
 * "Task.node":http://github.com/botanicus/task.node Simple task manager similar to Rake, Scons and others.
 * "tasks.js":http://github.com/dandean/tasks.js Tasks for Node (like Rake!) with a very JavaScripty API.
