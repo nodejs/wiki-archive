@@ -582,6 +582,7 @@ h3(#other). "Other":#other
 * "node-sosumi":http://github.com/drudge/node-sosumi -- Use Find My Phone services from your node apps
 * "node-stomp":http://github.com/kates/node-stomp -- A basic STOMP client.
 * "node-stomp-server":http://github.com/jbalonso/node-stomp-server -- A modular STOMP server framework and server
+* "stomp-js":http://github.com/benjaminws/stomp-js -- Full featured STOMP client.
 * "node-syslog":http://github.com/schamane/node-syslog/ -- Allows sending messages to syslog.
 * "node-taglib":http://github.com/nikhilm/node-taglib -- Beginnings of bindings to "taglib":http://developer.kde.org/~wheeler/taglib
 * "node-twiml":http://github.com/derferman/node-twiml -- Easy TwiML creation in node.js
