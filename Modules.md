@@ -637,6 +637,7 @@ h3(#other). "Other":#other
 * "nodepal":http://github.com/synodinos/nodepal -- A Drupal integration layer for Node.js developers
 * "node-usb":http://github.com/schakko/node-usb -- USB asynchronous bindings based on libusb-1.0
 * "stem":https://github.com/cwolves/stem -- English, French & German Porter2 stemming algorithm & basic tokenizer
+* "functools":https://github.com/azer/functools -- A library for functional programming
 
 h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":#commonjs-compat
 * "abbrev-js":http://github.com/isaacs/abbrev-js/ -- Like Ruby's Abbrev module.
