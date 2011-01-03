@@ -160,6 +160,7 @@ h2. Companies using node
 * "Siteworx":http://www.siteworx.com/
 * "Szpil":https://szpil.com - Keep detailed contact histories. Review past calls and conversations. Collaborate with colleagues. 
 * "Telefónica R&D":http://tid.es
+* "URGE IO":http://urge.io
 * "Vision Media":http://vision-media.ca -- Web development firm based in Victoria, BC
 * "Webbynode":http://webbynode.com
 * "Widescript":http://widescript.com -- A digital reading app targeted to people who study or make use of reference material.
