@@ -372,6 +372,7 @@ h4(#parser-generators).  "Parser Generators":#parser_generators
 
 h4(#parsers-other). "Other Parsers":#parsers-other
 
+* "node-rdf2json":https://github.com/baxtree/node-rdf2json -- A simple RDF/XML to JSON converter
 * "node-brainfuck":https://github.com/masylum/node-brainfuck -- Brainfuck interpreter
 * "node-discount":http://github.com/visionmedia/node-discount -- C markdown parser "discount" bindings
 * "node-csv":http://github.com/voodootikigod/node-csv -- Efficient Evented CSV Parsing.
