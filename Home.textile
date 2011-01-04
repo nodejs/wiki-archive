@@ -78,6 +78,7 @@ h2. Projects / Applications
 * "bookfriend.me":http://bookfriend.me/ — Community site for Barnes and Noble Nook owners who want to borrow/lend books
 * "Fishl.com":http://fishl.com/ — Mark and save quotes you like all over the Web
 * "slyncr":http://cleverchris.com/slyncr/ — bookmarklet to control web slideshows via a remote site
+* "Applifier - Largest social game cross promo network)":http://www.applifier.com (reference <a href="http://twitter.com/jussil/status/12048190433918976">http://twitter.com/jussil/status/12048190433918976</a>)
 
 h2. Articles
 * "Mastering Node":http://visionmedia.github.com/masteringnode/ - Open Source eBook by TJ Holowaychuk and the node community
@@ -167,4 +168,3 @@ h2. Companies using node
 * "Yammer":https://www.yammer.com -- The Yammer Application Platform heavily uses node.js
 * "Ylastic":http://ylastic.com/ - uses node for report processing and admin app
 * "[[BörseGo AG|http://boerse-go.ag|]]" - they use a nodejs server for providing news pushed via websockets on http://www.jandaya.de
-* "Applifier (Largest Social Game cross promo bar)":http://www.applifier.com (reference <a href="http://twitter.com/jussil/status/12048190433918976">http://twitter.com/jussil/status/12048190433918976</a>)
