@@ -350,6 +350,7 @@ h4(#parsers-xml). "XML":#parsers-xml
 * "node-plist":http://github.com/TooTallNate/node-plist -- Apple Plist parser for NodeJS. Convert a Plist file or string into a native JS object.
 
 h4(#parsers-commandline). "Command Line Option Parsers":#parsers-commandline
+* "cli":https://github.com/chriso/cli -- Rapidly build command line apps. Full featured opts/args parser + plugin support
 * "argsparser":http://github.com/kof/node-argsparser -- A tiny limited arguments parser, returns a hash.
 * "optimist":http://github.com/substack/node-optimist -- Light-weight option parsing without optstrings or any of that silliness. It's just a hash!
 * "optparse-js":http://github.com/jfd/optparse-js/tree/master -- Option Parser in JS
