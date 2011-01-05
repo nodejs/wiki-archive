@@ -510,6 +510,12 @@ h3(#async-flow). "Flow control / Async goodies":#async-flow
 h3(#i18n). "I18n and L10n modules":#i18n
 * "Lingo":http://bit.ly/cuaHAh -- Inflection, transformation and more
 * "Dialect":http://github.com/masylum/dialect -- Dialect is a painless nodejs module that deals with i18n, and L10n.
+* "express-dialect":https://github.com/masylum/express-dialect -- ExpressDialect is a "pluggable" express application that deals with i18n.
+
+h3(#boilerplates). "Boilerplates":#boilerplates
+* "node-boilerplate": https://github.com/robrighter/node-boilerplate -- Everything you need to get started on a Node.js website with express and socket.IO
+* "transsiberian": https://github.com/masylum/transsiberian -- nodejs boilerplate built upon Express and Mongolia
+
 
 h3(#other). "Other":#other
 * "behaviors":http://github.com/caolan/behaviors -- A simple way to check a module's exports, useful for 3rd party plugins and extensions
