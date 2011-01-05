@@ -17,8 +17,8 @@ h1. Hosting compatible with Node
 # "BuyVM":http://www.buyvm.net/
 # "Oversun Scalaxy":http://www.scalaxy.ru/ - Site in Russian
 # "Duostack":http://www.duostack.com/
-# "NodeJsCloud":http://www.nodejscloud.com/
-# "Nodejitsu":http://nodejitsu.com/
+# "NodeJsCloud":http://www.nodejscloud.com/ - Beta Coming Soon (accepting signups)
+# "Nodejitsu":http://nodejitsu.com/ - Beta Coming Soon (accepting signups)
 
 
 Most of the above are just VPS providers, which require you to set everything up yourself, including the operating system.
