@@ -640,6 +640,10 @@ h3(#other). "Other":#other
 * "stem":https://github.com/cwolves/stem -- English, French & German Porter2 stemming algorithm & basic tokenizer
 * "functools":https://github.com/azer/functools -- A library for functional programming
 
+h2(#managment). "Node Management Utilities":#management
+
+* "n":https://github.com/visionmedia/n -- node version manager
+
 h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":#commonjs-compat
 * "abbrev-js":http://github.com/isaacs/abbrev-js/ -- Like Ruby's Abbrev module.
 * "async.js":https://github.com/caolan/async/ -- Idiomatic Functional programming lib adapted for asynchronous programming (ie. callbacks)
