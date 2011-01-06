@@ -514,8 +514,8 @@ h3(#i18n). "I18n and L10n modules":#i18n
 * "express-dialect":https://github.com/masylum/express-dialect -- ExpressDialect is a "pluggable" express application that deals with i18n.
 
 h3(#boilerplates). "Boilerplates":#boilerplates
-* "node-boilerplate": https://github.com/robrighter/node-boilerplate -- Everything you need to get started on a Node.js website with express and socket.IO
-* "transsiberian": https://github.com/masylum/transsiberian -- nodejs boilerplate built upon Express and Mongolia
+* "node-boilerplate":https://github.com/robrighter/node-boilerplate -- Everything you need to get started on a Node.js website with express and socket.IO
+* "transsiberian":https://github.com/masylum/transsiberian -- nodejs boilerplate built upon Express and Mongolia
 
 
 h3(#other). "Other":#other
