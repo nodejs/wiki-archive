@@ -210,6 +210,7 @@ h3(#build-and-deployment). "Build and Deployment":#build-and-deployment
 * "config":http://github.com/lorenwest/node-config -- Runtime configuration for node.js deployment - npm install config
 * "node-config":http://github.com/ArtS/node-config -- Lightweight configuration engine for Node.js
 * "node-dev":http://github.com/fgnass/node-dev -- Automatically restarts node when a source-file is modified. Displays notifications via Growl.
+* "node-settings":https://github.com/mgutz/node-settings -- Simple, hierarchical environment-based app settings.
 * "Jake":http://github.com/mde/node-jake -- JavaScript build tool similar to Make or Rake.
 * "Masson":http://github.com/wdavidw/node-masson -- Build system and rule management similar to tools like Make, Ant or Rake
 * "Ready.js":http://github.com/dsimard/ready.js -- Continuous javascript integration using JSLint, Google Compiler, Node.js and Git
