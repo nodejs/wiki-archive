@@ -108,6 +108,8 @@ This is a v8 issue. To resolve this:
 
 Download and apply this patch for [deps/v8/src/platform-cygwin.cc](http://nodejs.googlegroups.com/attach/8c24ccb4b209572f/cygwin_033.patch?gda=3gXBKEcAAADJGyyZmWU5Ct7DEbvXm_oaF2J3Emxhh_MkFLdNUXdQOhhcOFKy5Im8CsmuOI0s2BYbQwFxJw55cVwemAxM-EWmeV4duv6pDMGhhhZdjQlNAw&view=1&part=4)
 
+    cd node-v0.3.3/
+    git apply ./cygwin_033.patch
 
 Help! I've done EVERYTHING above and I'm still having issues…
 ====
