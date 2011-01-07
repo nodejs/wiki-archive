@@ -55,7 +55,7 @@ h4(#web-frameworks-full). "Frameworks":#web-frameworks-full
 * "Express":http://github.com/visionmedia/express/tree/master -- A robust feature rich web development framework **inspired by Sinatra**
 * "Grasshopper":http://github.com/tuxychandru/grasshopper/tree/master -- A feature-rich and flexible MVC framework for web applications and services, with integrated **dependency injection**.
 * "Geddy":http://github.com/mde/geddy/tree/master -- A hackable Web-app development framework similar to Merb/Rails/Pylons/Django
-* "jimi":http://github.com/colingourlay/jimi -- A framework for writing modular web applications in node.js ("tutorial":http://github.com/colingourlay/jimi/wiki/Tutorial:-%22Hello-World%22)
+* "jimi":http://github.com/colingourlay/jimi -- A framework for writing modular web applications in node.js ("tutorial":https://github.com/colingourlay/jimi/wiki)
 * "js.io":http://github.com/mcarter/js.io -- Javascript Networking Library for building real-time web applications. Also see "JS.io":http://js.io
 * "josi":http://github.com/thatismatt/josi -- An MVC web framework that's easy to pick up but doesn't get in the way. Also see "here":http://thatismatt.github.com/josi/.
 * "Meryl":http://github.com/coffeemate/meryl -- Minimalist web framework! See "homepage":http://coffeemate.github.com/meryl
@@ -144,7 +144,7 @@ h3(#database). "Database":#database
 * "node-poormansmysql":http://github.com/mscdex/node-poormansmysql -- Asynchronous MySQL driver for node.js using the mysql command-line tool
 * "node-mwire":http://github.com/robtweed/node-mwire -- a client for GT.M & Cache, based on the Redis protocol, with connection pooling (includes web server log to database)
 * "node-mysql":http://github.com/felixge/node-mysql -- A node.js module implementing the MySQL protocol 
-* "node-mysql":http://github.com/masuidrive/node-mysql -- Pure Javascript MySQL async driver
+* "-node-mysql-":http://github.com/masuidrive/node-mysql -- -Pure Javascript MySQL async driver- [obsolete]
 * "node-mysql-native":http://github.com/sidorares/nodejs-mysql-native -- Yet another pure JS async driver. Pipelining, prepared statements.
 * "node-mysql-libmysqlclient":http://github.com/Sannis/node-mysql-libmysqlclient -- MySQL asynchronous bindings based on libmysqlclient
 * "node-sqlite":http://github.com/grumdrig/node-sqlite -- Bindings for SQLite3. Interface conforms to the "HTML5 Web SQL API":http://dev.w3.org/html5/webdatabase/#sql.
