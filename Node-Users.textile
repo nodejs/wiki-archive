@@ -485,6 +485,8 @@ h2. UTC+1 (+2)
 ** "Github":http://github.com/hsch, "Twitter":http://twitter.com/heshist
 * Frank Grimm (stride)
 ** "Blog":http://blog.frankgrimm.net, "Twitter":http://twitter.com/frank_grimm
+* Marco Egli (eglinetwork), Zürich, Switzerland
+** "Github":http://github.com/eglinetwork, "Website":http://eglinetwork.no.de/, "Twitter":http://twitter.com/marcoegli
 
 h2. UTC+2 (+3)
 * Aurimas Rimša, Lithuania
