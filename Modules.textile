@@ -527,7 +527,7 @@ h3(#other). "Other":#other
 * "chess":http://github.com/wsdookadr/Q-Chess/blob/rewrite/server/chess.js -- library for checking legal chess moves
 * "chess.js":http://github.com/jhlywa/chess.js -- library for chess move generation, validation, and mate/draw detection
 * "class.js":http://github.com/visionmedia/class.js -- High performance and lightweight class implementation (10-ish SLOC) (! LINK IS 404ing)
-* "closure": http://github.com/lm1/node-closure -- Google closure library wrapper for node.js.
+* "closure":http://github.com/lm1/node-closure -- Google closure library wrapper for node.js
 * "cookie-node":http://github.com/jed/cookie-node/ -- signed cookie functionality for node.js
 * "node-cookiejar":http://github.com/bmeck/node-cookiejar -- repetitive use cookie jar construction / cookie functionality
 * "daemon.node":http://github.com/Slashed/daemon.node/ -- Unix/Linux Daemons with node.js
