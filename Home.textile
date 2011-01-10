@@ -79,6 +79,7 @@ h2. Projects / Applications
 * "Fishl.com":http://fishl.com/ — Mark and save quotes you like all over the Web
 * "slyncr":http://cleverchris.com/slyncr/ — bookmarklet to control web slideshows via a remote site
 * "Applifier - Largest social game cross promo network)":http://www.applifier.com (reference <a href="http://twitter.com/jussil/status/12048190433918976">http://twitter.com/jussil/status/12048190433918976</a>)
+* "memcached.js":https://github.com/dalssoft/memcached.js — Port of Memcached for Node.js
 
 h2. Articles
 * "Mastering Node":http://visionmedia.github.com/masteringnode/ - Open Source eBook by TJ Holowaychuk and the node community
