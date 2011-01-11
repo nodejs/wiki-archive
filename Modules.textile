@@ -407,7 +407,7 @@ h4(#parsers-other). "Other Parsers":#parsers-other
 * "carrier":http://github.com/pgte/carrier -- Evented stream line reader for node.js
 * "parser_email":http://github.com/jrgns/parser_email - Simple multi type email parser
 * "memcache-parser":http://github.com/billywhizz/node-memcache-parser - Memcached binary protocol parser
-
+* "node-searchparser":http://github.com/dangrossman/node-searchparser -- Parse referrer URL strings for search engine names and keywords
 
 h3(#debugging). "Debugging / Console Utilities":#debugging
 * "ain":http://github.com/akaspin/ain -- Brain-free syslog logging
