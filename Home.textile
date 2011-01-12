@@ -116,6 +116,7 @@ h2. Companies using node
 * "Academia.edu":http://www.academia.edu/ - uses node for background data processing
 * "Adcloud":http://adcloud.com/ -- Javascript Adserver on EC2
 * "AdGear":http://adgear.com/ -- Real-time advertising reporting
+* "af83":http://af83.com/ -- uses node on several projects ("Geeks":https://github.com/AF83/Geeks for example)
 * "Ajax.org":http://ajax.org/ -- Home of the Cloud9 IDE, Ajax.org Platform and O3 Node modules
 * "Bitmechanic":http://www.bitmechanic.com/
 * "Bocoup":http://bocoup.com
