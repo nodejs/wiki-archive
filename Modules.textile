@@ -117,6 +117,7 @@ h4(#web-frameworks-other). "Other":#web-frameworks-other
 * "solder":http://github.com/brettstimmerman/solder -- Combines and minifies JavaScript and CSS at runtime and build time
 * "fugue":http://github.com/pgte/fugue -- Unicorn for Node.js - Multiple node server instance manager with Unicorn-like features
 * "what":https://github.com/entmike/what -- What - A Node.JS Web Container/Application Server
+* "mongrel2":https://github.com/darkhelmet/node-mongrel2 -- mongrel2 - Mongrel2 handler for node
 
 h3(#database). "Database":#database
 * "alfred":http://pgte.github.com/alfred/ -- a fast in-process key-value store for node.js that has functional indexes, streams, replication,  ...
