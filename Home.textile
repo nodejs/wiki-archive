@@ -81,6 +81,7 @@ h2. Projects / Applications
 * "Applifier - Largest social game cross promo network)":http://www.applifier.com (reference <a href="http://twitter.com/jussil/status/12048190433918976">http://twitter.com/jussil/status/12048190433918976</a>)
 * "memcached.js":https://github.com/dalssoft/memcached.js — Port of Memcached for Node.js
 * "Loggly":http://loggly.com/ — Webservice for receiving syslog and HTTP based logs.
+* "spotted@":http://spotted.at/ — spotted @ provides local classifieds for jobs, housing, for sale, personals, services, local community, and events.
 
 h2. Articles
 * "Mastering Node":http://visionmedia.github.com/masteringnode/ - Open Source eBook by TJ Holowaychuk and the node community
