@@ -168,6 +168,7 @@ h2. Companies using node
 * "URGE IO":http://urge.io
 * "Vision Media":http://vision-media.ca -- Web development firm based in Victoria, BC
 * "Webbynode":http://webbynode.com
+* "Webdigi Web Development":http://www.webdigi.co.uk -- Web development agency based in London, UK
 * "Widescript":http://widescript.com -- A digital reading app targeted to people who study or make use of reference material.
 * "Yammer":https://www.yammer.com -- The Yammer Application Platform heavily uses node.js
 * "Ylastic":http://ylastic.com/ - uses node for report processing and admin app
