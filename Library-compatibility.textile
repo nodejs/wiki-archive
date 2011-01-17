@@ -30,7 +30,11 @@ h2. Node v0.3.0-pre
 * "dust v0.0.1":http://akdubya.github.com/dustjs/
 * "frank v1.1.0":http://github.com/mvrilo/frank
 
+h2. Node v0.2.6
+* "choreographer v0.2.2a":http://github.com/laughinghan/choreographer
+
 h2. Node v0.2.5
+* "choreographer v0.2.2a":http://github.com/laughinghan/choreographer
 * "Minotaur":http://github.com/yojimbo87/minotaur
 * "node-imap v0.1.0":http://github.com/mscdex/node-imap/tree/v0.1.0
 * "Grasshopper v0.3.3":http://github.com/tuxychandru/grasshopper/tree/0.3.3
@@ -40,6 +44,7 @@ h2. Node v0.2.5
 * "node-solr v0.1.0":https://github.com/gsf/node-solr/tree/v0.1.0
 
 h2. Node v0.2.4
+* "choreographer v0.2.2a":http://github.com/laughinghan/choreographer
 * "dropbox-node v0.0.4":http://github.com/evnm/dropbox-node
 * "frank v1.1.0":http://github.com/mvrilo/frank
 * "node-postgres":http://github.com/brianc/node-postgres
@@ -54,7 +59,7 @@ h2. Node v0.2.4
 * "minlint":https://github.com/tsmith/minlint
 
 h2. Node v0.2.3
-* "choreographer v0.2.0":http://github.com/laughinghan/choreographer
+* "choreographer v0.2.2a":http://github.com/laughinghan/choreographer
 * "dropbox-node v0.0.4":http://github.com/evnm/dropbox-node
 * "node-mysql-libmysqlclient v1.0.2":http://github.com/Sannis/node-mysql-libmysqlclient/tree/v1.0.2
 * "node-twitter 0.1":http://github.com/jdub/node-twitter
@@ -73,11 +78,11 @@ h2. Node v0.2.2
 * "nodemachine v0.2.5":http://github.com/tautologistics/nodemachine/tree/v0.2.5
 * "node-evented":http://github.com/donnerjack13589/node-evented
 * "node-solr v0.0.6":http://github.com/gsf/node-solr/tree/v0.0.6
-* "choreographer v0.2.0":http://github.com/laughinghan/choreographer
+* "choreographer v0.2.2a":http://github.com/laughinghan/choreographer
 * "node-postgres":http://github.com/brianc/node-postgres
 
 h2. Node v0.2.1
-* "choreographer v0.2.0":http://github.com/laughinghan/choreographer
+* "choreographer v0.2.2a":http://github.com/laughinghan/choreographer
 * "schema.js 0.1a":http://github.com/akidee/schema.js
 * "solder v0.0.1":http://github.com/brettstimmerman/solder
 * "Hash v0.06":http://github.com/michaelsbradleyjr/Hash
@@ -91,7 +96,7 @@ h2. Node v0.2.1
 h2. Node v0.2.0
 * "node-config":http://github.com/ArtS/node-config
 * "tumblrrr v0.1.1":http://github.com/mvrilo/tumblrrr
-* "choreographer 0.2.0":http://github.com/laughinghan/choreographer
+* "choreographer v0.2.2a":http://github.com/laughinghan/choreographer
 * "Grasshopper v0.2.3":http://github.com/tuxychandru/grasshopper/tree/0.2.3
 * "Parrot v0.2.0":http://github.com/ollym/parrot/tree/0.2.0
 * "joose v3.11.0":http://github.com/joose/joose
