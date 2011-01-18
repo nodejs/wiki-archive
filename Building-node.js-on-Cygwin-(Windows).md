@@ -113,7 +113,9 @@ Download and apply this patch for [deps/v8/src/platform-cygwin.cc](http://nodejs
 
 Build failed:  -> task failed (err #2): 	{task: libv8.a SConstruct -> libv8.a}
 ----
-This comes about when $SHELL has a windows based path instead of  a unix based one.  E.g., C:\bin\bash instead of of /bin/bash.  So, try, explort SHELL=/bin/bash and re-run make.
+This comes about when $SHELL has a windows based path instead of  a unix based one.  E.g., C:\bin\bash instead of of /bin/bash. So, try, 
+    export SHELL=/bin/bash
+and re-run make.
 
 
 Help! I've done EVERYTHING above and I'm still having issues…
