@@ -1,3 +1,5 @@
+_*Note: this page is now really outdated. Although not finished, a mingw port is coming along.*_
+
 Overview of issues and checklist for a port of Node.js to Windows using "MinGW":http://www.mingw.org/.
 
 h3. Discussion
