@@ -657,6 +657,7 @@ h3(#other). "Other":#other
 * "node-usb":http://github.com/schakko/node-usb -- USB asynchronous bindings based on libusb-1.0
 * "stem":https://github.com/cwolves/stem -- English, French & German Porter2 stemming algorithm & basic tokenizer
 * "functools":https://github.com/azer/functools -- A library for functional programming
+* "node-srs":https://github.com/springmeyer/node-srs -- Bindings to libosr for handling spatial references in node
 
 h2(#managment). "Node Management Utilities":#management
 
