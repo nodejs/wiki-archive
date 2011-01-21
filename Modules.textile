@@ -615,6 +615,7 @@ h3(#other). "Other":#other
 * "node-yql":http://github.com/drgath/node-yql -- A YQL (Yahoo Query Language) module for Node.js
 * "node-zoneinfo":http://github.com/gsmcwhirter/node-zoneinfo -- A wrapper around Date to be able to use zoneinfo file timezone information
 * "node-zookeeper":http://github.com/yfinkelstein/node-zookeeper - Apache Zookeeper client API for node.js
+* "Nodemailer":https://github.com/andris9/Nodemailer - Easy to use module to send e-mails with Node.JS, unicode friendly
 * "NormAndVal":https://github.com/roberthahn/NormAndVal -- Data normalization and validation for Node.js and the browser
 * "nshtools":http://github.com/rsdoiel/nshtools -- a high level shell scripting library for file and operating system chores
 * "odot":https://github.com/tsmith/odot - persistent, code reloading, interactive object space
