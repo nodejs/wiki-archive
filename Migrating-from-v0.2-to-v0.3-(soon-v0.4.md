@@ -8,3 +8,7 @@ However, if something broke, these are the likely culprits:
 
 #### C++ API
    [Buffer](https://github.com/ry/node/blob/master/src/node_buffer.h)
+
+
+#### JS API
+* sys module is now the util module (soft deprecation)
