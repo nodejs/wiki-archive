@@ -12,6 +12,10 @@ Many people are running code on the stable branch v0.2. Soon the unstable branch
 
 * NEW: [require.resolve](http://nodejs.org/docs/v0.3.6/api/all.html#require.resolve)
 
+* NEW: [path.resolve](http://nodejs.org/docs/v0.3.6/api/all.html#path.resolve)
+
+* REMOVED: path.split, path.normalizeArray
+
 
 ## Internal C++ API (inside of NODE_ROOT/src/*.cc)
 
