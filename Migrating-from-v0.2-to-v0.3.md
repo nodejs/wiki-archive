@@ -8,6 +8,8 @@ Many people are running code on the stable branch v0.2. Soon the unstable branch
 
 * sys module is now the util module (soft deprecation)
 
+* querystring.parse and querystring.stringify were [made simpler](https://github.com/ry/node/commit/422d3c93bc7391e105cfb4363011088c27ec86a6). They no longer handle deep objects.
+
 * v0.3.6 introduced a new interface for making outbound http requests: http.request() and http.get(). Previously users had to construct a http.Client instance and issue client.request() calls. The old http.Client interface should be considered deprecated. That said, there is a legacy interface for http.Client accessible which runs on top of http.request() - you may find inconsistencies between v0.3.6+ http.Client and the http.Client before v0.3.6. These inconsistencies are considered bugs and should be reported.
 
 * NEW: [require.resolve](http://nodejs.org/docs/v0.3.6/api/all.html#require.resolve)
