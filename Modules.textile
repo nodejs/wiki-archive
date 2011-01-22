@@ -596,7 +596,7 @@ h3(#other). "Other":#other
 * "node-multivariate":http://github.com/grippy/node-multivariate — Application and framework for conducting A/B or Multivariate webpage testing (similar to mixpanel but with less features).
 * "node_pcap":http://github.com/mranney/node_pcap -- Network packet capture and analysis using libpcap
 * "node-pool":http://github.com/coopernurse/node-pool -- Generic resource pool.  Useful for pooling database connections or other precious things.
-* "node-resque":http://github.com/jbr/node-resque -- Resque redis-backed job queue workers in node.js
+* "node-resque":http://github.com/jbr/node-resque -- Resque redis-backed job queue workers in node.js (no longer under active development)
 * "node-queue":http://github.com/pagameba/node-queue -- simple queueing service for node, similar model to SQS but much higher performance
 * "node-s3":http://github.com/grippy/node-s3 -- App for basic Amazon Web Services S3 administration (upload files, bucket admin, etc.)
 * "node.Amazon-S3":http://github.com/nuxusr/Node.js---Amazon-S3 -- S3 implementation with Md5 signing, upload/download progress% events, streaming, large file support. 
