@@ -505,6 +505,7 @@ h3(#async-flow). "Flow control / Async goodies":#async-flow
 * "async.js":http://github.com/fjakobs/async.js -- Async chaining and file system utilities. Async.js is to node's fs module, what jQuery is to the DOM.
 * "async":http://github.com/caolan/async -- Comprehensive async map/reduce and flow control (parallel, series, waterfall, auto...) module that works in node and the browser
 * "chainsaw":https://github.com/substack/node-chainsaw -- Build chainable fluent interfaces the easy way in node.js
+* "fibers":https://github.com/laverdet/node-fibers -- The closest thing to a thread you'll find in Javascript
 * "flow-js":http://github.com/willconant/flow-js -- Continuation-esque contruct for expressing multi-step asynchronous logic
 * "funk":http://github.com/masylum/funk -- Asynchronous parallel functions made funky!
 * "futures":http://github.com/coolaj86/futures - Asynchronous Method Queueing, Futures, Promises, Subscriptions, and other async goodies
