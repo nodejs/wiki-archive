@@ -12,12 +12,13 @@ Many people are running code on the stable branch v0.2. Soon the unstable branch
 
 * v0.3.6 introduced a new interface for making outbound http requests: http.request() and http.get(). Previously users had to construct a http.Client instance and issue client.request() calls. The old http.Client interface should be considered deprecated. That said, there is a legacy interface for http.Client accessible which runs on top of http.request() - you may find inconsistencies between v0.3.6+ http.Client and the http.Client before v0.3.6. These inconsistencies are considered bugs and should be reported.
 
+* The stdio module got renamed to tty
+
 * NEW: [require.resolve](http://nodejs.org/docs/v0.3.6/api/all.html#require.resolve)
 
 * NEW: [path.resolve](http://nodejs.org/docs/v0.3.6/api/all.html#path.resolve)
 
 * REMOVED: path.split, path.normalizeArray
-
 
 ## Internal C++ API (inside of NODE_ROOT/src/*.cc)
 
