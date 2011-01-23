@@ -20,7 +20,7 @@ Rather than installing the V8 Eclipse Debugging Plugin on an existing Eclipse Ja
 
 * Download a clean slate "Eclipse Platform":http://download.eclipse.org/eclipse/downloads/ for your operating system.
 * Unzip the Eclipse Platform to a directory on your hard drive.
-* Run the Eclipse Platform. You will ask to create a workspace. Create a workspace separate from any Java or C++ workspaces you may already have created. If this is your first time using Eclipse, the default is fine.
+* Run the Eclipse Platform. You will be asked to create a workspace. Create a workspace separate from any Java or C++ workspaces you may already have created. If this is your first time using Eclipse, the default is fine.
 * Proceed to the workbench by clicking the icon with the arrow titled @Workbench@ in the top right corner of the Eclipse window.
 * Select the menu item @Help > Install New Software...@. A dialog box titled *Install* will appear. This contains a plugin installation wizard. The first step of the wizard is titled *Available Software*.
 * At the top of the dialog you will see a combo box labeled @Word with:@. Click the button to the right of the combo box labeled @Add@. A dialog box titled *Add Repository* will appear.
@@ -77,7 +77,7 @@ Assuming that you have already installed Eclipse, together with the "plugin":htt
 
 !http://i.imgur.com/54LA2.png!
 
-Click the drop box button (llitle black triangle) next to the green bug one and select "Debug Configurations ..." option.
+Click the drop box button (little black triangle) next to the green bug one and select "Debug Configurations ..." option.
 
 !http://i.imgur.com/sZqH3.png!
 
