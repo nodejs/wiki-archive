@@ -82,6 +82,7 @@ h2. Projects / Applications
 * "memcached.js":https://github.com/dalssoft/memcached.js — Port of Memcached for Node.js
 * "Loggly":http://loggly.com/ — Webservice for receiving syslog and HTTP based logs.
 * "spotted@":http://spotted.at/ — spotted @ provides local classifieds for jobs, housing, for sale, personals, services, local community, and events.
+* "designo":https://github.com/kazuyukitanimura/designo — Realtime Twitter client demo exploiting Node.js+Websockets+HTML5
 
 h2. Articles
 * "Mastering Node":http://visionmedia.github.com/masteringnode/ - Open Source eBook by TJ Holowaychuk and the node community
