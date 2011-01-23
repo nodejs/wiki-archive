@@ -232,6 +232,7 @@ h3(#module-loader). "Module Loader":#module-loader
 * "nodules":http://github.com/kriszyp/nodules -- Async module loader with dep resolution/downloading and module reloading w/o server restart
 * "node-DJs":http://github.com/lrbabe/node-DJs - Restart a server after each change in main script and dependencies
 * "node-hot-reload":http://github.com/shimondoodkin/node-hot-reload - watchFile and reload modules dynamically for node.js (very useful for development, less good for production)
+* "remap": https://github.com/dominictarr/remap - reroute require for mocks, wrappers, or shenanigans (useful for testing)
 
 h3(#security). "OpenSSL / Crypto / Hashing":#security
 * "packnode":https://github.com/chriso/packnode -- Obfuscate, minify and/or encrypt JS files
