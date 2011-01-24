@@ -1,0 +1,31 @@
+
+h2. Articles
+* "Mastering Node":http://visionmedia.github.com/masteringnode/ - Open Source eBook by TJ Holowaychuk and the node community
+* "How to start develop with node js on linux from windows":http://wiki.github.com/shimondoodkin/nodejs-autorestart/how-to-start-develop-with-node-js-on-linux -- by Shimon Doodkin
+* "pubsub":http://www.nonblocking.io/2009/06/scalable-pubsub-with-nodejs.html -- by Malte Ubl
+* "Going Evented with Node.js":http://www.nakedjavascript.com/going-evented-with-nodejs -- Naked JavaScript
+* "Node.js is genuinely exciting":http://simonwillison.net/2009/Nov/23/node/ -- by Simon Willison
+* "Unit testing in node.js":http://caolanmcmahon.com/unit_testing_nodejs.html -- by Caolan McMahon
+* "Deploying Node.js with Upstart and Monit":http://howtonode.org/deploying-node-upstart-monit -- by Tim Smart
+* "Deploying node.js with Upstart":http://caolanmcmahon.com/deploying_nodejs_applications_with_upstart.html -- a few updates to the above article -- by Caolan McMahon
+* "Several tutorials about Node.js":http://howtonode.org/ -- by Tim Caswell (How to Node)
+* "Advanced JavaScript $4 eBook":http://www.dev-mag.com/2010/02/18/advanced-javascript/ -- by TJ Holowaychuk
+* "Node.js - I just have to use it for something":http://www.hawksworx.com/journal/2010/02/15/nodejs-i-just-have-to-use-it-for-something/ -- by Phil Hawksworth
+* "node by example":http://blog.osbutler.com/categories/node-by-example/ -- by Hendrik Daldrup
+* "Implementing Web Socket servers with Node.js":http://www.web2media.net/laktek/2010/05/04/implementing-web-socket-servers-with-node-js/ -- by Lakshan Perera
+* "ServerSide JavaScript with MooTools and NodeJS":http://davidwalsh.name/mootools-nodejs -- by Christoph Pojer
+* "Step by step instructions to install NodeJS on Windows":http://boxysystems.com/?p=203 -- by Siddique Hameed
+* "Check Gmail with Node.js":http://www.mgutz.com/2010/10/01/check_gmail_with_node_js.html -- by Mario Gutierrez
+* "Writing for node and the browser":http://caolanmcmahon.com/writing_for_node_and_the_browser.html -- by Caolan McMahon
+* "NodeJS-Keychain":https://github.com/aschlosberg/NodeJS-Keychain -- by Arran Schlosberg
+* "Move the Brush":http://www.movethebrush.com - by Gershon Bialer
+
+h2. Talks
+* "GoogleTechTalk: Node.js":http://www.youtube.com/watch?v=F6k8lTrAE2g -- by Ryan Dahl
+* "Node.js at JSConf.eu 2009":http://jsconf.eu/2009/video_nodejs_by_ryan_dahl.html -- by Ryan Dahl
+* "Node.js at JSConf.us 2010":http://nodejs.org/jsconf2010.pdf -- by Ryan Dahl
+* "Running YUI3 on Node.js":http://www.slideshare.net/apmoore/running-yui-3-on-nodejs -- by Adam Moore
+* "What Does Node Need From Us?":http://www.slideshare.net/creationix/what-does-node-need-from-us -- By Tim Caswell
+* "SenchaLabs Connect & Express":http://www.slideshare.net/creationix/senchalabs-connect-express -- By Tim Caswell
+* "Real Time Web with Node":http://www.slideshare.net/creationix/real-time-web-with-node -- By Tim Caswell
+* "Node Powered Mobile":http://www.slideshare.net/creationix/node-powered-mobile -- By Tim Caswell
