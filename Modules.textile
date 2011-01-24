@@ -547,6 +547,7 @@ h3(#other). "Other":#other
 * "cookie-node":http://github.com/jed/cookie-node/ -- signed cookie functionality for node.js
 * "node-cookiejar":http://github.com/bmeck/node-cookiejar -- repetitive use cookie jar construction / cookie functionality
 * "daemon.node":http://github.com/Slashed/daemon.node/ -- Unix/Linux Daemons with node.js
+* "deja":http://github.com/mcantelon/node-deja -- CLI utility for managing git versioning of dotfiles and such
 * "daemonchk.js":https://github.com/dulac/daemonchk.js/ -- Daemon Monitor (with HTTP interface)
 * "dust":http://github.com/pasviegas/dust -- OO way to fill your database with not totally random content
 * "dox":http://github.com/visionmedia/dox -- Documentation generator using JSdoc and markdown comments
