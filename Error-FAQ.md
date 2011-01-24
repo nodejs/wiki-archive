@@ -9,4 +9,6 @@ resolution:
 Error: ETIMEDOUT
 cause: unknown
 
-hit max files 'ulimit -n' for os x |launchctl see: https://github.com/ry/node/wiki/OS-X-snow-leopard
+Error: hit max files 'ulimit -n' 
+cause: unknown
+resolution: for os x use launchctl see: https://github.com/ry/node/wiki/OS-X-snow-leopard
