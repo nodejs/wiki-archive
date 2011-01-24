@@ -569,6 +569,7 @@ h3(#other). "Other":#other
 * "Node.io":http://node.io/ -- A distributed data scraping and processing framework.
 * "NodeQ":http://github.com/shripadk/nodeq -- A module for Background Processing using Node.js (still Alpha).
 * "node-applescript":http://github.com/TooTallNate/node-applescript -- A module to easily execute arbitrary AppleScript code on OS X through NodeJS.
+* "node-date-utils":https://github.com/JerrySievert/node-date-utils -- Date extensions for NodeJS and client side.
 * "node-discount":http://github.com/visionmedia/node-discount -- C markdown parser "discount" bindings
 * "node-amf":http://github.com/timwhitlock/node-amf -- AMF library and web service gateway for Flash remoting
 * "node-amqp":http://github.com/ry/node-amqp -- AMQP client
