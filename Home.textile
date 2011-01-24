@@ -40,3 +40,8 @@ h2. Talks
 * "SenchaLabs Connect & Express":http://www.slideshare.net/creationix/senchalabs-connect-express -- By Tim Caswell
 * "Real Time Web with Node":http://www.slideshare.net/creationix/real-time-web-with-node -- By Tim Caswell
 * "Node Powered Mobile":http://www.slideshare.net/creationix/node-powered-mobile -- By Tim Caswell
+
+
+h2. Project Organization
+
+"Information about who runs the project":https://github.com/ry/node/wiki/Project-Organization
