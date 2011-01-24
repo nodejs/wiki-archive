@@ -445,6 +445,7 @@ h3(#compression). "Compression":#compression
 * "node-compress":http://github.com/waveto/node-compress -- streaming compression / gzip library
 * "node-compress by egorich239":http://github.com/egorich239/node-compress -- asynchronous streaming (de)compression library with gzip and bzip2 support, originally forked from "waveto's":http://github.com/waveto/node-compress
 * "gzip":http://github.com/donnerjack13589/node.gzip -- simple compression using default linux "gzip" utility
+* "node-zipfile":http://github.com/springmeyer/node-zipfile -- inspect and uncompress zipfile archives (C++ around libzip)
 
 h3(#graphics). "Graphics":#graphics
 * "node-canvas":https://github.com/learnboost/node-canvas -- High performance canvas implementation backed by the phenomenal Cairo graphics library
