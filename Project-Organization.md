@@ -5,7 +5,8 @@ Node is an open source project run by Joyent. Joyent employees both Ryan Dahl (r
 Currently all changes to the Node repository are approved by Ryan. 
 
 Statements about the direction and progress on the Node project are made in a quarterly Roadmap email to the mailing list.
-* "2010 Q4":http://permalink.gmane.org/gmane.comp.lang.javascript.nodejs/14462
+
+* [2010 Q4](http://permalink.gmane.org/gmane.comp.lang.javascript.nodejs/14462)
 
 
 ## Community Leaders
