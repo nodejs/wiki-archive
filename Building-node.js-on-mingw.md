@@ -28,7 +28,7 @@ This will assume you're checking out and compiling node in c:\node
 These are known issues with the build process. A list of known issues with mingw-built node can be found found in [TODO.win32](https://github.com/ry/node/raw/master/TODO.win32).
 
 ### Git doesn't work from the mingw bash shell
-Some people have reported problems getting this to work. If you are affected by this, use git from the windows console
+Some people have reported problems getting this to work. If you are affected by this, use git from the windows command prompt.
 
 ### Build fails with msvc / Microsoft Visual Studio installed
 Having Microsoft Visual Studio installed confuses the V8 build system. This is a know issue, there is currently no good solution for it.
