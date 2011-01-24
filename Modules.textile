@@ -475,8 +475,7 @@ h3(#payment-gateways). "Payment Gateways":#payment-gateways
 
 h3(#api-clients). "API clients":#api-clients
 * "aws-lib":http://github.com/mirkok/aws-lib -- An extensible library for Amazon Web Services including EC2, SimpleDB and the Product Advertising API
-* "tropo-webapi-node":https://github.com/tropo/tropo-webapi-node -- A library for building multi-channel communication apps with the Tropo WebAPI.
-* "node-twilio":http://github.com/sjwalter/node-twilio/ -- A helper library for the Twilio API
+* "calais":http://github.com/mcantelon/node-calais -- Semantically analyze text using the Calais web service
 * "dropbox-node":http://github.com/evnm/dropbox-node -- A wrapper for the Dropbox API 
 * "evented-twitter":http://github.com/polotek/evented-twitter -- asynchronous twitter client, supports streaming api
 * "facebook-js":http://github.com/masylum/facebook-js -- Easy peasy facebook client for connect.
@@ -493,7 +492,9 @@ h3(#api-clients). "API clients":#api-clients
 * "node-prowl":http://github.com/mape/node-prowl -- A module that allows you to send push notifications to your iPhone through the Prowl API
 * "nodefm":http://github.com/mikebannister/nodefm -- So far just a util for consuming last.fm recent tracks history for a user
 * "nodestalker":http://github.com/pascalopitz/nodestalker -- A beanstalkd client for node
+* "node-twilio":http://github.com/sjwalter/node-twilio/ -- A helper library for the Twilio API
 * "node-twitter":http://github.com/jdub/node-twitter -- Asynchronous Twitter REST/stream/search client for node.js
+* "tropo-webapi-node":https://github.com/tropo/tropo-webapi-node -- A library for building multi-channel communication apps with the Tropo WebAPI.
 * "tumblrrr":http://github.com/mvrilo/tumblrrr -- A wrapper for Tumblr's API
 * "tweetstream":http://github.com/mikeal/tweetstream -- Stream like API for twitter's HTTP streaming interface.
 * "TwitScript":http://github.com/ryanmcgrath/twitscript -- A port of Twython to Node.js (Twitter API Library)
