@@ -2,6 +2,10 @@ h2. Building on Windows
 
 See the "Cygwin":https://github.com/ry/node/wiki/Building-node.js-on-Cygwin-%28Windows%29 page.
 
+h2. Users
+
+"Projects, Applications, and Companies using Node":https://github.com/ry/node/wiki/Projects,-Applications,-and-Companies-Using-Node
+
 h2. Modules
 
 See the "Modules":http://github.com/ry/node/wiki/modules page.
