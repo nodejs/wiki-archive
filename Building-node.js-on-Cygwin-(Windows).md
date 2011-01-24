@@ -1,6 +1,10 @@
 Building node.js on Cygwin (Windows)
 ====
 
+NOTE: v0.2.6 and v0.3.1 build on Cygwin. The latests versions do not.
+
+
+
 This tutorial will guide you through setting up the latest stable version of node.js on Cygwin. You don't need to have a working Cygwin install.
 
 1. Grab and install [Cygwin](http://www.cygwin.com/).
