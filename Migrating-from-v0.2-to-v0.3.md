@@ -4,7 +4,7 @@ Many people are running code on the stable branch v0.2. Soon the unstable branch
 
 * The internal node::Buffer class had dramatic changes early on in the v0.3. Any addons which used node:Buffer will require heavy rewrite. You might find [this](https://github.com/pkrumins/node-png/blob/791d4c6df1402daa15dc7930f084d95c48e63c98/src/buffer_compat.h) helpful. [buffer.h](https://github.com/ry/node/blob/v0.3.6/src/node_buffer.h)
 
-* If you are using libraries that have C++ addons and were installed through npm, you may need to re-install them with npm in order for the addons to recompile against the new api.  Then, they should start working again.  An example of this would be isaac's "glob" module.
+* The ABI has changed between v0.2 and v0.3. You must recompile all addons. An example of this would be isaac's "glob" module. v0.4 will introduce new ABI stability, until then expect to recompile all addons every time you upgrade Node on the v0.3 branch.
 
 ## JavaScript API
 
