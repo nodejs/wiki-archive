@@ -1,4 +1,3 @@
-
 h2. Projects and Applications
 
 * "node_chat":http://github.com/ry/node_chat by ry
@@ -122,6 +121,7 @@ h2. Companies
 * "Palm/HP":http://developer.palm.com/ - powers all the services in the new WebOS platform for mobile devices.
 * "Pixelspark":http://www.pixelspark.nl/
 * "Plurk":http://www.plurk.com/ -- using node.js for its "new comet system":http://amix.dk/blog/post/19490#Plurk-Instant-conversations-using-comet
+* "Public Class":http://publicclass.se
 * "Razorshift Entertainment":http://www.razorshift.com/ - Online social properties and services.
 * "Redman Tech":http://redmantech.com -- using Node to power internal tools, real time log monitoring, and R&D projects.
 * "Sentymetr":http://sentymetr.pl - Social media monitoring in Poland. We use JavaScript and node.js for data processing.
