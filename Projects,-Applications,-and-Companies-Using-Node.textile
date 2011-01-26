@@ -76,6 +76,7 @@ h2. Projects and Applications
 * "Loggly":http://loggly.com/ — Webservice for receiving syslog and HTTP based logs.
 * "spotted@":http://spotted.at/ — spotted @ provides local classifieds for jobs, housing, for sale, personals, services, local community, and events.
 * "designo":https://github.com/kazuyukitanimura/designo — Realtime Twitter client demo exploiting Node.js+Websockets+HTML5
+* "Bittorrent Tracker":https://github.com/anhel/node-bittorrent-tracker - High performance bittorrent tracker by anhel
 
 
 h2. Companies
