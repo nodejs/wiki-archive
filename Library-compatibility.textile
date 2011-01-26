@@ -283,6 +283,7 @@ h2. Node v0.1.97
 * "gm v0.1.0":http://github.com/aheckmann/gm/tree/v0.1.0
 * "node-htmlparser v1.6.2":http://github.com/tautologistics/node-htmlparser/tree/v1.6.2
 * "nodemachine v0.2.5":http://github.com/tautologistics/nodemachine/tree/v0.2.5
+* "sexy v0.0.3":https://github.com/CrabDude/sexy/tree/97e03b2f9c9752722461da9d997696443a81fafc
 
 h2. Node v0.1.96
 * "commonjs-utils v0.1.0":http://github.com/kriszyp/commonjs-utils/tree/v0.1.0
