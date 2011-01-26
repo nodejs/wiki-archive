@@ -593,6 +593,7 @@ h3(#other). "Other":#other
 * "node-iconv":http://github.com/bnoordhuis/node-iconv -- iconv bindings, character encoding conversion made easy.
 * "node_mailer":http://github.com/marak/node_mailer -- send emails from node.js to an smtp server, simple as cake 
 * "node-fork":http://github.com/ryantenney/node-fork -- C bindings to fork or daemonize the process.
+* "node-genx":https://github.com/wezm/node-genx -- XML generation via the Genx C libary
 * "node-geoip":http://github.com/strange/node-geoip -- geoip city lookup module (uses libgeoip)
 * "node-growl":http://github.com/visionmedia/node-growl -- unobtrusive notification system (growlnotify "bindings")
 * "node-libnotify":http://github.com/mitkok/node-libnotify -- unobtrusive notification system (libnotify "bindings")
