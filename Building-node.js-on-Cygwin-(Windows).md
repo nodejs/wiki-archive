@@ -1,7 +1,7 @@
 Building node.js on Cygwin (Windows)
 ====
 
-NOTE: v0.2.6 and v0.3.1 build on Cygwin. The latests versions do not.
+**NOTE: v0.2.6 and v0.3.1 build on Cygwin. The latests versions do not.**
 
 
 
