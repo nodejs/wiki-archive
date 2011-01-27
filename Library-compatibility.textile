@@ -1,5 +1,8 @@
 Node is under heavy development and its API changes rapidly. Instead of simply a listing of modules which may or may not work with the version of Node installed on one's computer, this will provide a list of module versions which are known to work with specific versions of node.
 
+h2. node v0.3.6
+* "node-gnomenotify":https://github.com/bodil/node-gnomenotify
+
 h2. node v0.3.2
 * "node-postgres":https://github.com/brianc/node-postgres
 * "node-solr v0.1.0":https://github.com/gsf/node-solr/tree/v0.1.0
