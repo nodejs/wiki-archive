@@ -87,6 +87,8 @@ Now start making new debug configuration by clicking the "New" button:
 
 Note that this configuration is named Node-5858 and the port is set accordingly. While you there create one or more additional configurations such as Node-5859, Node-5860, ... with respective ports, so you can later debug more than one node executable at the same time. 
 
+If you decided to edit the source lookup path, be sure to leave the 'Default' entry. Break points won't work if you remove it.
+
 !http://i.imgur.com/KqpC6.png!
 
 Start the debugging session by clicking "Debug" button. If everything goes well, you will get something like this:
