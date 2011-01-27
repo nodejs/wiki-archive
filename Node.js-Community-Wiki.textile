@@ -1,11 +1,6 @@
 h2. "FAQ":https://github.com/ry/node/wiki/FAQ
 
-
-h2. Building on Windows
-
-There are two ways of building Node. One is over the Cygwin emulation layer the other is using MinGW (GNU toolchain for windows). See the "Cygwin":https://github.com/ry/node/wiki/Building-node.js-on-Cygwin-%28Windows%29 and "MinGW":https://github.com/ry/node/wiki/Building-node.js-on-mingw pages.
-
-Neither builds are satisfactorily stable but it is possible to get something running.
+h2. Installation
 
 h2. Users
 
