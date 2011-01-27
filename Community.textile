@@ -21,3 +21,4 @@ h1. Localized sites
 
 | "nodejs.ru":http://nodejs.ru/ | Russian nodejs blog |
 | "Mechanical world":http://kuroikaze85.wordpress.com/all-node-js-entries/ | Another blog in russian |
+| "nodejs.jp":http://nodejs.jp/ | Japan user group |
