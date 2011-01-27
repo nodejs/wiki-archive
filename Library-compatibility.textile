@@ -32,6 +32,7 @@ h2. Node v0.3.0-pre
 
 h2. Node v0.2.6
 * "choreographer v0.2.2a":http://github.com/laughinghan/choreographer
+* "ranger v0.1.1":http://github.com/mrduncan/ranger
 
 h2. Node v0.2.5
 * "choreographer v0.2.2a":http://github.com/laughinghan/choreographer
