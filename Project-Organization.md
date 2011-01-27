@@ -17,7 +17,7 @@ There are a number of people who are very involved with development and generall
 * Tim Caswell (creationix)
 * TJ Holowaychuk (tjholowaychuk)
 * Felix Geisendoerfer (felixge) 
-* Paul Querna (pqurena)
+* Paul Querna (pquerna)
 * Matt Ranney (mjr_)
 * Mikeal Rogers (mikeal)
 * Micheil Smith (micheil)
