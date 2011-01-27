@@ -1,4 +1,4 @@
-h1. Welcome to the Node.js community wiki
+h1. Node.js community wiki
 
 h2. "FAQ":https://github.com/ry/node/wiki/FAQ
 
