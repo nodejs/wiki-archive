@@ -1,11 +1,6 @@
 Email patches to ry@tinyclouds.org or post them to the "node.js development mailing list":http://groups.google.com/group/nodejs-dev
 
 # Discuss large changes on mailing list before coding
-# Javascript code style
-## has two space indention
-## maximum 80 column width
-## keywords followed by open-paren must be separated by a space. eg. <code>if (blah)</code> not <code>if(blah)</code>
-## no space between function name and open paren e.g. <code>blah(arg)</code> not <code>blah (arg)</code>
-## multi-line <code>if</code> statements must have braces.
-# C++ code should follow "Google's C++ style guide":http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml and be run through "cpplint.py":http://google-styleguide.googlecode.com/svn/trunk/cpplint/cpplint.py
+# Javascript code style should follow "Google's JavaScript style guide":http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml and be run through the linter.  `make jslint` to validate.
+# C++ code should follow "Google's C++ style guide":http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml and be run through cpplint with `make cpplint`.
 # Agree to "the contributor agreement":http://nodejs.org/cla.html
