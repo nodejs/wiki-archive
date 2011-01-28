@@ -1,6 +1,4 @@
-#### Notes:
-
-### 2011.01.21, Version 0.3.6 (unstable)
+# 2011.01.21, Version 0.3.6 (unstable)
 
 * REPL and other improvements on MinGW (Bert Belder)
 
@@ -11,9 +9,13 @@
 * Upgrade V8 to 3.0.9
 
 
-#### Notes:
+## Notes:
 
-### 2011.01.16, Version 0.3.5 (unstable), b622bc6305e3c675e0edfcdbaa387d849ad0bba0
+* http.Client has new implementation and is missing many methods. It will be more complete in the next version.
+
+* large HTTPS responses appear to be broken
+
+# 2011.01.16, Version 0.3.5 (unstable), b622bc6305e3c675e0edfcdbaa387d849ad0bba0
 
 * Built-in debugger improvements.
 
@@ -30,9 +32,9 @@
 * Don't stat() on cached modules. (Felix Geisendörfer)
 
 
-#### Notes:
+## Notes:
 
-### 2011.01.08, Version 0.3.4 (unstable)
+# 2011.01.08, Version 0.3.4 (unstable)
 
 * Primordal mingw build (Bert Belder)
 
@@ -48,9 +50,9 @@
 * Fix process.platform
 
 
-#### Notes:
+## Notes:
 
-### 2011.01.02, Version 0.3.3 (unstable), 57544ba1c54c7d0da890317deeb73076350c5647
+# 2011.01.02, Version 0.3.3 (unstable), 57544ba1c54c7d0da890317deeb73076350c5647
 
 * TLS improvements.
 
@@ -73,9 +75,9 @@
 * Disable TLS tests when node doesn't have OpenSSL.
 
 
-#### Notes:
+## Notes:
 
-### 2010.12.16, Version 0.3.2 (unstable), 4bb914bde9f3c2d6de00853353b6b8fc9c66143a
+# 2010.12.16, Version 0.3.2 (unstable), 4bb914bde9f3c2d6de00853353b6b8fc9c66143a
 
 * Rip out the old (broken) TLS implementation introduce new tested
   implementation and API. See docs. HTTPS not supported in this release.
@@ -107,9 +109,9 @@
 * Upgrade V8 to 3.0.3, upgrade http-parser.
 
 
-#### Notes:
+## Notes:
 
-### 2010.11.16, Version 0.3.1 (unstable), ce9a54aa1fbf709dd30316af8a2f14d83150e947
+# 2010.11.16, Version 0.3.1 (unstable), ce9a54aa1fbf709dd30316af8a2f14d83150e947
 
 * TLS improvments (Paul Querna)
   - Centralize error handling in SecureStream
@@ -171,9 +173,9 @@
 * Upgrade http-parser to latest and V8 to 2.5.3
 
 
-#### Notes:
+## Notes:
 
-### 2010.10.23, Version 0.3.0 (unstable) 1582cfebd6719b2d2373547994b3dca5c8c569c0
+# 2010.10.23, Version 0.3.0 (unstable) 1582cfebd6719b2d2373547994b3dca5c8c569c0
 
 * Bugfix: Do not spin on aceept() with EMFILE
 
@@ -239,9 +241,9 @@
 * Upgrade V8 to 2.5.1, Libev to 4.00, libeio, http-parser
 
 
-#### Notes:
+## Notes:
 
-### 2010.08.20, Version 0.2.0, 9283e134e558900ba89d9a33c18a9bdedab07cb9
+# 2010.08.20, Version 0.2.0, 9283e134e558900ba89d9a33c18a9bdedab07cb9
 
 * process.title support for FreeBSD, Macintosh, Linux
 
@@ -260,9 +262,9 @@
 * Upgrade V8 to 2.3.8
 
 
-#### Notes:
+## Notes:
 
-### 2010.08.13, Version 0.1.104
+# 2010.08.13, Version 0.1.104
 
 * Various bug fixes (console, querystring, require)
 
@@ -276,9 +278,9 @@
 * Upgrade V8 to 2.3.6
 
 
-#### Notes:
+## Notes:
 
-### 2010.08.04, Version 0.1.103, 0b925d075d359d03426f0b32bb58a5e05825b4ea
+# 2010.08.04, Version 0.1.103, 0b925d075d359d03426f0b32bb58a5e05825b4ea
 
 * Implement keep-alive for http.Client (Mikeal Rogers)
 
@@ -302,9 +304,9 @@
 * Upgrade http-parser, V8 to 2.3.5
 
 
-#### Notes:
+## Notes:
 
-### 2010.07.25, Version 0.1.102, 2a4568c85f33869c75ff43ccd30f0ec188b43eab
+# 2010.07.25, Version 0.1.102, 2a4568c85f33869c75ff43ccd30f0ec188b43eab
 
 * base64 encoding for Buffers.
 
@@ -325,9 +327,9 @@
 * Upgrade http-parser, upgrade V8 to 2.3.2
 
 
-#### Notes:
+## Notes:
 
-### 2010.07.16, Version 0.1.101, 0174ceb6b24caa0bdfc523934c56af9600fa9b58
+# 2010.07.16, Version 0.1.101, 0174ceb6b24caa0bdfc523934c56af9600fa9b58
 
 * Added env to child_process.exec (Сергей Крыжановский)
 
@@ -348,9 +350,9 @@
 * Upgrade V8 to 2.3.0
 
 
-#### Notes:
+## Notes:
 
-### 2010.07.03, Version 0.1.100, a6b8586e947f9c3ced180fe68c233d0c252add8b
+# 2010.07.03, Version 0.1.100, a6b8586e947f9c3ced180fe68c233d0c252add8b
 
 * process.execPath (Marshall Culpepper)
 
@@ -369,9 +371,9 @@
 * Upgrade http-parser, V8 to 2.2.21
 
 
-#### Notes:
+## Notes:
 
-### 2010.06.21, Version 0.1.99, a620b7298f68f68a855306437a3b60b650d61d78 
+# 2010.06.21, Version 0.1.99, a620b7298f68f68a855306437a3b60b650d61d78 
 
 * Datagram sockets (Paul Querna)
 
@@ -388,9 +390,9 @@
 * Upgrade V8 to 2.2.18
 
 
-#### Notes:
+## Notes:
 
-### 2010.06.11, Version 0.1.98, 10d8adb08933d1d4cea60192c2a31c56d896733d
+# 2010.06.11, Version 0.1.98, 10d8adb08933d1d4cea60192c2a31c56d896733d
 
 * Port to Windows/Cygwin (Raffaele Sena)
 
@@ -405,9 +407,9 @@
 * Upgrade V8 to 2.2.16, http-parser fixes, upgrade c-ares to 1.7.3.
 
 
-#### Notes:
+## Notes:
 
-### 2010.05.29, Version 0.1.97, 0c1aa36835fa6a3557843dcbc6ed6714d353a783
+# 2010.05.29, Version 0.1.97, 0c1aa36835fa6a3557843dcbc6ed6714d353a783
 
 * HTTP throttling: outgoing messages emit 'drain' and write() returns false
   when send buffer is full.
@@ -427,9 +429,9 @@
 * Upgrade V8 to 2.2.12, libeio, http-parser.
 
 
-#### Notes:
+## Notes:
 
-### 2010.05.21, Version 0.1.96, 9514a4d5476225e8c8310ce5acae2857033bcaaa
+# 2010.05.21, Version 0.1.96, 9514a4d5476225e8c8310ce5acae2857033bcaaa
 
 * Thrown errors in http and socket call back get bubbled up.
 
@@ -457,9 +459,9 @@
 * FIX path.dirname('/tmp') => '/'. (Jonathan Rentzsch)
 
 
-#### Notes:
+## Notes:
 
-### 2010.05.13, Version 0.1.95, 0914d33842976c2c870df06573b68f9192a1fb7a
+# 2010.05.13, Version 0.1.95, 0914d33842976c2c870df06573b68f9192a1fb7a
 
 * Change GC idle notify so that it runs alongside setInterval
 
@@ -483,9 +485,9 @@
 * Upgrade to V8 2.2.9
 
 
-#### Notes:
+## Notes:
 
-### 2010.05.06, Version 0.1.94, f711d5343b29d1e72e87107315708e40951a7826
+# 2010.05.06, Version 0.1.94, f711d5343b29d1e72e87107315708e40951a7826
 
 * Look in /usr/local/lib/node for modules, so that there's a way 
   to install modules globally (Issac Schlueter)
@@ -513,9 +515,9 @@
 * Upgrade V8 to 2.2.8
 
 
-#### Notes:
+## Notes:
 
-### 2010.04.29, Version 0.1.93, 557ba6bd97bad3afe0f9bd3ac07efac0a39978c1
+# 2010.04.29, Version 0.1.93, 557ba6bd97bad3afe0f9bd3ac07efac0a39978c1
 
   * Fixed no 'end' event on long chunked HTTP messages
     http://github.com/ry/node/issues/#issue/77
@@ -534,9 +536,9 @@
   * Upgrade V8 to 2.2.6
 
 
-#### Notes:
+## Notes:
 
-### 2010.04.23, Version 0.1.92, caa828a242f39b6158084ef4376355161c14fe34
+# 2010.04.23, Version 0.1.92, caa828a242f39b6158084ef4376355161c14fe34
 
   * OpenSSL support. Still undocumented (see tests). (Rhys Jones)
 
@@ -552,9 +554,9 @@
   * Upgrade Waf to 1.5.16, V8 to 2.2.4.2
 
 
-#### Notes:
+## Notes:
 
-### 2010.04.15, Version 0.1.91, 311d7dee19034ff1c6bc9098c36973b8d687eaba
+# 2010.04.15, Version 0.1.91, 311d7dee19034ff1c6bc9098c36973b8d687eaba
 
   * Add incoming.httpVersion
 
@@ -576,9 +578,9 @@
   * Upgrade V8 to 2.2.3.1
 
 
-#### Notes:
+## Notes:
 
-### 2010.04.09, Version 0.1.90, 07e64d45ffa1856e824c4fa6afd0442ba61d6fd8
+# 2010.04.09, Version 0.1.90, 07e64d45ffa1856e824c4fa6afd0442ba61d6fd8
 
   * Merge writing of networking system (net2)
    - New Buffer object for binary data.
@@ -599,9 +601,9 @@
   * Upgrade V8 to 2.2.X, WAF 1.5.15
 
 
-#### Notes:
+## Notes:
 
-### 2010.03.19, Version 0.1.33, 618296ef571e873976f608d91a3d6b9e65fe8284
+# 2010.03.19, Version 0.1.33, 618296ef571e873976f608d91a3d6b9e65fe8284
 
   * Include lib/ directory in node executable. Compile on demand.
 
@@ -612,9 +614,9 @@
   * V8 upgraded to 2.1.5
 
 
-#### Notes:
+## Notes:
 
-### 2010.03.12, Version 0.1.32, 61c801413544a50000faa7f58376e9b33ba6254f
+# 2010.03.12, Version 0.1.32, 61c801413544a50000faa7f58376e9b33ba6254f
 
   * Optimize event emitter for single listener
 
@@ -636,9 +638,9 @@
   * Upgrade to V8 2.1.3, WAF 1.5.14a, libev
 
 
-#### Notes:
+## Notes:
 
-### 2010.03.05, Version 0.1.31, 39b63dfe1737d46a8c8818c92773ef181fd174b3
+# 2010.03.05, Version 0.1.31, 39b63dfe1737d46a8c8818c92773ef181fd174b3
 
   * API: - Move process.watchFile into fs module
          - Move process.inherits to sys
@@ -666,9 +668,9 @@
   * Upgrade V8 to 2.1.2
 
 
-#### Notes:
+## Notes:
 
-### 2010.02.22, Version 0.1.30, bb0d1e65e1671aaeb21fac186b066701da0bc33b
+# 2010.02.22, Version 0.1.30, bb0d1e65e1671aaeb21fac186b066701da0bc33b
 
   * Major API Changes
 
@@ -709,9 +711,9 @@
   * Upgrade V8 to 2.1.1
 
 
-#### Notes:
+## Notes:
 
-### 2010.02.17, Version 0.1.29, 87d5e5b316a4276bcf881f176971c1a237dcdc7a
+# 2010.02.17, Version 0.1.29, 87d5e5b316a4276bcf881f176971c1a237dcdc7a
 
   * Major API Changes
     - Remove 'file' module
@@ -752,9 +754,9 @@
     (Reported by James Golick)
 
 
-#### Notes:
+## Notes:
 
-### 2010.02.09, Version 0.1.28, 49de41ef463292988ddacfb01a20543b963d9669
+# 2010.02.09, Version 0.1.28, 49de41ef463292988ddacfb01a20543b963d9669
 
   * Use Google's jsmin.py which can be used for evil.
 
@@ -773,9 +775,9 @@
   * Multipart library rewrite (isaacs)
 
 
-#### Notes:
+## Notes:
 
-### 2010.02.03, Version 0.1.27, 0cfa789cc530848725a8cb5595224e78ae7b9dd0
+# 2010.02.03, Version 0.1.27, 0cfa789cc530848725a8cb5595224e78ae7b9dd0
 
   * Implemented __dirname (Felix Geisendörfer)
 
@@ -809,9 +811,9 @@
   * Various other bug fixes, performance improvements.
 
 
-#### Notes:
+## Notes:
 
-### 2010.01.20, Version 0.1.26, da00413196e432247346d9e587f8c78ce5ceb087
+# 2010.01.20, Version 0.1.26, da00413196e432247346d9e587f8c78ce5ceb087
 
   * Bugfix, HTTP eof causing crash (Ben Williamson)
 
@@ -834,9 +836,9 @@
   * Solaris port (Erich Ocean)
 
 
-#### Notes:
+## Notes:
 
-### 2010.01.09, Version 0.1.25, 39ca93549af91575ca9d4cbafd1e170fbcef3dfa
+# 2010.01.09, Version 0.1.25, 39ca93549af91575ca9d4cbafd1e170fbcef3dfa
 
   * sys.inspect() improvements (Tim Caswell)
 
@@ -861,9 +863,9 @@
   * getmem for freebsd (Vanilla Hsu)
 
 
-#### Notes:
+## Notes:
 
-### 2009.12.31, Version 0.1.24, 642c2773a7eb2034f597af1cd404b9e086b59632
+# 2009.12.31, Version 0.1.24, 642c2773a7eb2034f597af1cd404b9e086b59632
 
   * Bugfix: don't chunk responses to HTTP/1.0 clients, even if
     they send Connection: Keep-Alive (e.g. wget)
@@ -877,9 +879,9 @@
   * Upgrade V8 to 2.0.5.4
 
 
-#### Notes:
+## Notes:
 
-### 2009.12.22, Version 0.1.23, f91e347eeeeac1a8bd6a7b462df0321b60f3affc
+# 2009.12.22, Version 0.1.23, f91e347eeeeac1a8bd6a7b462df0321b60f3affc
 
   * Bugfix: require("../blah") issues (isaacs)
 
@@ -888,9 +890,9 @@
   * Do not pause request for multipart parsing (Felix Geisendörfer)
 
 
-#### Notes:
+## Notes:
 
-### 2009.12.19, Version 0.1.22, a2d809fe902f6c4102dba8f2e3e9551aad137c0f
+# 2009.12.19, Version 0.1.22, a2d809fe902f6c4102dba8f2e3e9551aad137c0f
 
   * Bugfix: child modules get wrong id with "index.js" (isaacs)
 
@@ -918,9 +920,9 @@
   * API: http.Client.prototype.request() (Christopher Lenz)
 
 
-#### Notes:
+## Notes:
 
-### 2009.12.06, Version 0.1.21, c6affb64f96a403a14d20035e7fbd6d0ce089db5
+# 2009.12.06, Version 0.1.21, c6affb64f96a403a14d20035e7fbd6d0ce089db5
 
   * Feature: Add HTTP client TLS support (Rhys Jones)
 
@@ -937,9 +939,9 @@
   * Use CommonJS assert API (Felix Geisendörfer, Karl Guertin)
 
 
-#### Notes:
+## Notes:
 
-### 2009.11.28, Version 0.1.20, aa42c6790da8ed2cd2b72051c07f6251fe1724d8
+# 2009.11.28, Version 0.1.20, aa42c6790da8ed2cd2b72051c07f6251fe1724d8
 
   * Add gnutls version to configure script
 
@@ -949,9 +951,9 @@
     (choonkeat@gmail.com)
 
 
-#### Notes:
+## Notes:
 
-### 2009.11.28, Version 0.1.19, 633d6be328708055897b72327b88ac88e158935f
+# 2009.11.28, Version 0.1.19, 633d6be328708055897b72327b88ac88e158935f
 
   * Feature: Initial TLS support for TCP servers and clients.
     (Rhys Jones)
@@ -978,9 +980,9 @@
   * Upgrade v8 to 2.0.2
 
 
-#### Notes:
+## Notes:
 
-### 2009.11.17, Version 0.1.18, 027829d2853a14490e6de9fc5f7094652d045ab8
+# 2009.11.17, Version 0.1.18, 027829d2853a14490e6de9fc5f7094652d045ab8
 
   * Feature: process.watchFile() process.unwatchFile()
 
@@ -1005,9 +1007,9 @@
   * Upgrade libev to latest CVS
 
 
-#### Notes:
+## Notes:
 
-### 2009.11.07, Version 0.1.17, d1f69ef35dac810530df8249d523add168e09f03
+# 2009.11.07, Version 0.1.17, d1f69ef35dac810530df8249d523add168e09f03
 
   * Feature: process.chdir() (Brandon Beacher)
 
@@ -1017,9 +1019,9 @@
   * API: rename process.inherits to sys.inherits
 
 
-#### Notes:
+## Notes:
 
-### 2009.11.03, Version 0.1.16, 726865af7bbafe58435986f4a193ff11c84e4bfe
+# 2009.11.03, Version 0.1.16, 726865af7bbafe58435986f4a193ff11c84e4bfe
 
   * API: Use CommonJS-style module requiring
     - require("/sys.js") becomes require("sys")
@@ -1044,9 +1046,9 @@
   * Upgrade V8 to 1.3.18
 
 
-#### Notes:
+## Notes:
 
-### 2009.10.28, Version 0.1.15, eca2de73ed786b935507fd1c6faccd8df9938fd3
+# 2009.10.28, Version 0.1.15, eca2de73ed786b935507fd1c6faccd8df9938fd3
 
   * Many build system fixes (esp. for OSX users)
 
@@ -1066,9 +1068,9 @@
   * Upgrade v8 to 1.3.16
 
 
-#### Notes:
+## Notes:
 
-### 2009.10.09, Version 0.1.14, b12c809bb84d1265b6a4d970a5b54ee8a4890513
+# 2009.10.09, Version 0.1.14, b12c809bb84d1265b6a4d970a5b54ee8a4890513
 
   * Feature: Improved addon builds with node-waf
 
@@ -1095,9 +1097,9 @@
   * Upgrade V8 to 1.3.15
 
 
-#### Notes:
+## Notes:
 
-### 2009.09.30, Version 0.1.13, 58493bb05b3da3dc8051fabc0bdea9e575c1a107
+# 2009.09.30, Version 0.1.13, 58493bb05b3da3dc8051fabc0bdea9e575c1a107
 
   * Feature: Multipart stream parser (Felix Geisendörfer)
 
@@ -1124,9 +1126,9 @@
     whole files at once.
 
 
-#### Notes:
+## Notes:
 
-### 2009.09.24, Version 0.1.12, 2f56ccb45e87510de712f56705598b3b4e3548ec
+# 2009.09.24, Version 0.1.12, 2f56ccb45e87510de712f56705598b3b4e3548ec
 
   * Feature: System modules, node.libraryPaths
 
@@ -1141,9 +1143,9 @@
   * Upgrade v8 to 1.3.13
 
 
-#### Notes:
+## Notes:
 
-### 2009.09.18, Version 0.1.11, 5ddc4f5d0c002bac0ae3d62fc0dc58f0d2d83ec4
+# 2009.09.18, Version 0.1.11, 5ddc4f5d0c002bac0ae3d62fc0dc58f0d2d83ec4
 
   * API: default to utf8 encoding for node.fs.cat()
 
@@ -1164,9 +1166,9 @@
   * Upgrade v8 to 1.3.11
 
 
-#### Notes:
+## Notes:
 
-### 2009.09.11, Version 0.1.10, 12bb0d46ce761e3d00a27170e63b40408c15b558
+# 2009.09.11, Version 0.1.10, 12bb0d46ce761e3d00a27170e63b40408c15b558
 
   * Feature: raw string encoding "raws"
 
@@ -1187,17 +1189,17 @@
 
   * Upgrade v8 to 1.3.10
 
-#### Notes:
+## Notes:
 
-### 2009.09.05, Version 0.1.9, d029764bb32058389ecb31ed54a5d24d2915ad4c
+# 2009.09.05, Version 0.1.9, d029764bb32058389ecb31ed54a5d24d2915ad4c
 
   * Bugfix: Compile on Snow Leopard.
 
   * Bugfix: Malformed URIs raising exceptions.
 
-#### Notes:
+## Notes:
 
-### 2009.09.04, Version 0.1.8, e6d712a937b61567e81b15085edba863be16ba96
+# 2009.09.04, Version 0.1.8, e6d712a937b61567e81b15085edba863be16ba96
 
   * Feature: External modules
 
@@ -1217,9 +1219,9 @@
 
   * Upgrade v8 to 1.3.9
 
-#### Notes:
+## Notes:
 
-### 2009.08.27, Version 0.1.7, f7acef9acf8ba8433d697ad5ed99d2e857387e4b
+# 2009.08.27, Version 0.1.7, f7acef9acf8ba8433d697ad5ed99d2e857387e4b
 
   * Feature: global 'process' object. Emits "exit".
 
@@ -1246,15 +1248,15 @@
 
   * Upgrade v8 to 1.3.7
 
-#### Notes:
+## Notes:
 
-### 2009.08.22, Version 0.1.6, 9c97b1db3099d61cd292aa59ec2227a619f3a7ab
+# 2009.08.22, Version 0.1.6, 9c97b1db3099d61cd292aa59ec2227a619f3a7ab
 
   * Bugfix: Ignore SIGPIPE.
 
-#### Notes:
+## Notes:
 
-### 2009.08.21, Version 0.1.5, b0fd3e281cb5f7cd8d3a26bd2b89e1b59998e5ed
+# 2009.08.21, Version 0.1.5, b0fd3e281cb5f7cd8d3a26bd2b89e1b59998e5ed
 
   * Bugfix: Buggy connections could crash node.js. Now check
     connection before sending data every time (Kevin van Zonneveld)
@@ -1270,9 +1272,9 @@
   * Upgrade evcom
     Upgrade v8 to 1.3.6
 
-#### Notes:
+## Notes:
 
-### 2009.08.13, Version 0.1.4, 0f888ed6de153f68c17005211d7e0f960a5e34f3
+# 2009.08.13, Version 0.1.4, 0f888ed6de153f68c17005211d7e0f960a5e34f3
 
   * Major refactor to evcom.
 
@@ -1293,9 +1295,9 @@
     Upgrade libev to 3.8
     Upgrade http_parser to v0.2
 
-#### Notes:
+## Notes:
 
-### 2009.08.06, Version 0.1.3, 695f0296e35b30cf8322fd1bd934810403cca9f3
+# 2009.08.06, Version 0.1.3, 695f0296e35b30cf8322fd1bd934810403cca9f3
 
   * Upgrade v8 to 1.3.2
 
@@ -1315,9 +1317,9 @@
   * Add node.version API
 
 
-#### Notes:
+## Notes:
 
-### 2009.08.01, Version 0.1.2, 025a34244d1cea94d6d40ad7bf92671cb909a96c
+# 2009.08.01, Version 0.1.2, 025a34244d1cea94d6d40ad7bf92671cb909a96c
 
   * Add DNS API
 
@@ -1335,9 +1337,9 @@
   * Bugfix: node.fs.File was not passing args to promise callbacks.
 
 
-#### Notes:
+## Notes:
 
-### 2009.07.27, Version 0.1.1, 77d407df2826b20e9177c26c0d2bb4481e497937
+# 2009.07.27, Version 0.1.1, 77d407df2826b20e9177c26c0d2bb4481e497937
 
   * Simplify and clean up ObjectWrap.
 
@@ -1370,9 +1372,9 @@
   * Add benchmark scripts. Run with "make benchmark".
 
 
-#### Notes:
+## Notes:
 
-### 2009.06.30, Version 0.1.0, 0fe44d52fe75f151bceb59534394658aae6ac328
+# 2009.06.30, Version 0.1.0, 0fe44d52fe75f151bceb59534394658aae6ac328
 
   * Update documentation, use asciidoc.
 
@@ -1391,9 +1393,9 @@
     (reported by Felix Geisendörfer)
 
 
-#### Notes:
+## Notes:
 
-### 2009.06.24, Version 0.0.6, fbe0be19ebfb422d8fa20ea5204c1713e9214d5f
+# 2009.06.24, Version 0.0.6, fbe0be19ebfb422d8fa20ea5204c1713e9214d5f
 
   * Load modules via HTTP URLs (Urban Hafner)
 
@@ -1407,9 +1409,9 @@
     pool watcher.
 
 
-#### Notes:
+## Notes:
 
-### 2009.06.18, Version 0.0.5, 3a2b41de74b6c343b8464a68eff04c4bfd9aebea
+# 2009.06.18, Version 0.0.5, 3a2b41de74b6c343b8464a68eff04c4bfd9aebea
 
   * Support for IPv6
 
@@ -1431,9 +1433,9 @@
   * Add global print() function.
 
 
-#### Notes:
+## Notes:
 
-### 2009.06.13, Version 0.0.4, 916b9ca715b229b0703f0ed6c2fc065410fb189c
+# 2009.06.13, Version 0.0.4, 916b9ca715b229b0703f0ed6c2fc065410fb189c
 
  * Add interrupt() method to server-side HTTP requests.
 
@@ -1441,9 +1443,9 @@
    HTTP
 
 
-#### Notes:
+## Notes:
 
-### 2009.06.11, Version 0.0.3, 6e0dfe50006ae4f5dac987f055e0c9338662f40a
+# 2009.06.11, Version 0.0.3, 6e0dfe50006ae4f5dac987f055e0c9338662f40a
 
  * Many bug fixes including the problem with http.Client on
    macintosh
