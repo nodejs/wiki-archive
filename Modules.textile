@@ -466,7 +466,8 @@ h3(#graphics). "Graphics":#graphics
 * "squeeze":http://github.com/nikhilm/squeeze -- Mince and convert images on the cloud using "UploadJuicer":http://www.uploadjuicer.com .
 * "node-graphviz":http://github.com/glejeune/node-graphviz -- GraphViz for node
 * "node-mapnik":http://github.com/mapnik/node-mapnik -- Mapnik bindings for high performance rendering of map tiles.
-* "node-mapserver":http://github.com/pagameba/node-mapserver - mapserver bindings for rendering mapserver MAP files via node
+* "node-mapserver":http://github.com/pagameba/node-mapserver -- mapserver bindings for rendering mapserver MAP files via node
+* "node-exif":http://github.com/gomfunkel/node-exif -- Library to extract Exif metadata from images
 
 h3(#payment-gateways). "Payment Gateways":#payment-gateways
 * "paynode":http://github.com/jamescarr/paynode - library for integrating with various payment gateways
