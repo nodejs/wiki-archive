@@ -523,6 +523,7 @@ h3(#async-flow). "Flow control / Async goodies":#async-flow
 * "node-cron":http://github.com/ncb000gt/node-cron -- Schedule callbacks with cron syntax
 * "node-crontab":http://github.com/dachev/node-crontab -- Allows reading, manipulating, and writing user crontabs from node.js
 * "node-inflow":http://github.com/shimondoodkin/node-inflow -- A next generation async control-flow library, with a shared object for called functions and debugging made easy.
+* "node_memo":http://github.com/akidee/node_memo -- Asynchronous function memoization
 * "node-parallel":http://github.com/Tim-Smart/node-parallel -- Create tasks in node.js that run in parallel, or sequences that run tasks one after another.
 * "node-promise":http://github.com/kriszyp/node-promise -- Robust promises for node.js, includes promise utilities and promise-based I/O library
 * "seq":https://github.com/substack/node-seq -- Chainable asynchronous flow control for node.js with sequential and parallel primitives and pipeline-style error handling
