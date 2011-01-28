@@ -71,7 +71,7 @@ h2. Projects and Applications
 * "Fishl.com":http://fishl.com/ — Mark and save quotes you like all over the Web
 * "slyncr":http://cleverchris.com/slyncr/ — bookmarklet to control web slideshows via a remote site
 * "Applifier - Largest social game cross promo network)":http://www.applifier.com (reference <a href="http://twitter.com/jussil/status/12048190433918976">http://twitter.com/jussil/status/12048190433918976</a>)
-* "memcached.js":https://github.com/dalssoft/memcached.js — Port of Memcached for Node.js
+* "memcached.js":https://github.com/dalssoft/memcached.js — Port of Memcached server for Node.js
 * "Loggly":http://loggly.com/ — Webservice for receiving syslog and HTTP based logs.
 * "spotted@":http://spotted.at/ — spotted @ provides local classifieds for jobs, housing, for sale, personals, services, local community, and events.
 * "designo":https://github.com/kazuyukitanimura/designo — Realtime Twitter client demo exploiting Node.js+Websockets+HTML5
