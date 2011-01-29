@@ -109,6 +109,7 @@ h2. Companies
 * "LinkiT projects":http://linkit-projects.nl - Use nodejs for developing javascript sites. (http://yalia.nl/
 * "Medium":http://thisismedium.com
 * "Mockingbird":http://gomockingbird.com -- Using Node.js and operational transformations to do real-time, collaborative wireframing
+* "M-Way Solutions": http://www.mway-solutions.com -- Developing node.js based build tools for The-M-Project
 * "MyBrands":http://www.mybrands.de -- web-tracker and product recommendations (node + couchdb)
 * "NewsBasis":http://newsbasis.com -- Web crawler and async work in node
 * "Newspaper Club":http://www.newspaperclub.co.uk - Uses node.js for wrapping a nasty SOAP interface to InDesign Server.
