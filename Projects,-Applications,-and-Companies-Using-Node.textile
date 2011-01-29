@@ -76,7 +76,7 @@ h2. Projects and Applications
 * "spotted@":http://spotted.at/ — spotted @ provides local classifieds for jobs, housing, for sale, personals, services, local community, and events.
 * "designo":https://github.com/kazuyukitanimura/designo — Realtime Twitter client demo exploiting Node.js+Websockets+HTML5
 * "Bittorrent Tracker":https://github.com/anhel/node-bittorrent-tracker - High performance bittorrent tracker by anhel
-
+* "The-M-Project":https://github.com/mwaylabs/the-m-project - HTML5 JavaScript framework for mobile apps with nodeJS build tool
 
 h2. Companies
 * "Academia.edu":http://www.academia.edu/ - uses node for background data processing
