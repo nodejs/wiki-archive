@@ -4,3 +4,21 @@ Email patches to ry@tinyclouds.org or post them to the "node.js development mail
 # Javascript code style should follow "Google's JavaScript style guide":http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml and be run through the linter.  `make jslint` to validate.
 # C++ code should follow "Google's C++ style guide":http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml and be run through cpplint with `make cpplint`.
 # Agree to "the contributor agreement":http://nodejs.org/cla.html
+
+
+
+From an email Ryan sent round on nodejs-dev on 28 october 2010:
+Git commits
+# the first line should be maximum 50 columns
+# the second line should blank
+# any additional lines should not exceed 80 columns.
+# should have the author field properly filled out with your full
+name and email address.
+
+Source Code
+# C++ source style is defined by Google's C++ style doc (see V8
+source code for example)
+# JavaScript is to be camel cased, two space indention, and
+generally follow Node's style.
+# Lines should not exceed 80 columns.
+# Tab characters are not allowed.
