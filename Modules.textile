@@ -427,6 +427,7 @@ h3(#debugging). "Debugging / Console Utilities":#debugging
 * "eyes.js":http://github.com/cloudhead/eyes.js -- A better, customizable value inspector for node.js
 * "hexy.js":https://github.com/a2800276/hexy.js -- hex pretty printing like xxd
 * "http-console":http://github.com/cloudhead/http-console -- A simple & intuitive HTTP console for testing APIs.
+* "inspect":https://github.com/visionmedia/inspect -- hierarchical object inspection displaying ancestry, properties, methods, and accessors in great detail.
 * "log.js":http://github.com/visionmedia/log.js -- light-weight logger that works with any writable stream, also supports a streaming parser for reading the log files generated
 * "log4js-node":http://github.com/csausdev/log4js-node -- a port of log4js framework for node.js
 * "logging":http://github.com/dylang/logging -- Super sexy color console logging.
