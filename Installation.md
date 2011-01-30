@@ -4,7 +4,7 @@ Node should install out of the box on Linux, Macintosh, and Solaris.
 
 With some effort you should be able to get it running on other Unix platforms and Windows (either via Cygwin or MinGW).
 
-##Step 2a - Building on Unix
+##Step 2a - Building on Unix (including BSD and Mac)
 
 Just as you install any other program
 
@@ -14,6 +14,9 @@ Just as you install any other program
     make install
     export PATH=$HOME/local/node/bin:$PATH
 
+If you have any installation problems, looak at [installation notes](https://github.com/ry/node/wiki/Installation-Notes).
+
+Also you can install node from packages: [RPM and DEB packages for Node.js](https://github.com/ry/node/wiki/RPM-and-DEB-packages-for-Node.js).
 
 ##Step 2b - Building on Windows
 
