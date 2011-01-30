@@ -415,7 +415,7 @@ h4(#parsers-other). "Other Parsers":#parsers-other
 * "parser_email":http://github.com/jrgns/parser_email - Simple multi type email parser
 * "memcache-parser":http://github.com/billywhizz/node-memcache-parser - Memcached binary protocol parser
 * "node-formidable":https://github.com/felixge/node-formidable - A node.js module for parsing form data, especially file uploads.
-
+* "CSSOM":https://github.com/NV/CSSOM - CSS parser and CSS Object Model implementation.
 
 h3(#debugging). "Debugging / Console Utilities":#debugging
 * "ain":http://github.com/akaspin/ain -- Brain-free syslog logging
