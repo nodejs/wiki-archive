@@ -16,7 +16,7 @@ Many people are running code on the stable branch v0.2. Soon the unstable branch
 
 * The stdio module got renamed to tty
 
-* require() now calls realpath modules. That means if the module is a symlink relative requires will be relative to where the actual file is.
+* [require() now calls realpath on modules.](https://github.com/ry/node/commit/0853730c35e567b1cd2e553986298e57f3908f02) That means if the module is a symlink relative requires will be relative to where the actual file is.
 
 * NEW: [require.resolve](http://nodejs.org/docs/v0.3.6/api/all.html#require.resolve)
 
