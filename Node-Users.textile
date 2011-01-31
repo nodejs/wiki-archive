@@ -489,6 +489,8 @@ h2. UTC+1 (+2)
 ** "Github":http://github.com/eglinetwork, "Website":http://eglinetwork.no.de/, "Twitter":http://twitter.com/marcoegli
 * Eric Abouaf (neyric), Paris, France
 ** "GitHub":http://github.com/neyric, "Twitter":http://twitter.com/neyric, "Website":http://www.neyric.com
+* Patrick Pfeiffer (guybrush), Austria
+** "Github":http://github.com/guybrush
 
 h2. UTC+2 (+3)
 * Aurimas Rimša, Lithuania
