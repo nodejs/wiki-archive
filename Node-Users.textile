@@ -318,6 +318,8 @@ h2. UTC+0 (0)
 ** "GitHub":http://github.com/tanepiper, "Website":http://tanepiper.com, "Twitter":http://twitter.com/tanepiper
 * Pedro Teixeira (pgte)
 ** "Website":http://metaduck.com, "Github":http://github.com/pgte, "Twitter":http://twitter.com/pedrogteixeira
+* Mathias Bynens (matjas)
+** "Website":http://mathiasbynens.be/, "Github":http://github.com/mathiasbynens, "Twitter":http://twitter.com/mathias
 
 h2. UTC+0 (+1)
 
