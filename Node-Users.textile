@@ -497,6 +497,8 @@ h2. UTC+1 (+2)
 ** "GitHub":http://github.com/guybrush
 * Mathias Bynens (matjas)
 ** "Website":http://mathiasbynens.be/, "GitHub":http://github.com/mathiasbynens, "Twitter":http://twitter.com/mathias
+* Anton Podviaznikov, Montenegro
+** "GitHub":http://github.com/podviaznikov, "Twitter":http://twitter.com/podviaznikov
 
 h2. UTC+2 (+3)
 * Aurimas Rimša, Lithuania
