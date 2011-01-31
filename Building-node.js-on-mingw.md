@@ -2,7 +2,7 @@ The latests versions of Node (v0.3.6 and better) can be built with mingw. This i
 
 # Prerequisites
 
-* Windows xp sp1 or later
+* Windows xp sp2 or later
 * The latest mingw
   * use mingw-get-inst from [mingw.org](http://www.mingw.org/wiki/InstallationHOWTOforMinGW)
   * install the developer toolkit as well as C and C++ compilers.
