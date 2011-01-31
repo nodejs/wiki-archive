@@ -487,6 +487,8 @@ h2. UTC+1 (+2)
 ** "Blog":http://blog.frankgrimm.net, "Twitter":http://twitter.com/frank_grimm
 * Marco Egli (eglinetwork), Zürich, Switzerland
 ** "Github":http://github.com/eglinetwork, "Website":http://eglinetwork.no.de/, "Twitter":http://twitter.com/marcoegli
+* Eric Abouaf (neyric), Paris, France
+** "GitHub":http://github.com/neyric, "Twitter":http://twitter.com/neyric, "Website":http://www.neyric.com
 
 h2. UTC+2 (+3)
 * Aurimas Rimša, Lithuania
