@@ -600,6 +600,8 @@ h2. UTC+8
 ** "Github":http://github.com/firede
 * YANG Xudong (Wyverald), Beijing, China
 ** "Github":http://github.com/Wyverald, "Website":http://wyverald.tumblr.com, "Twitter":http://twitter.com/wyverald
+* Kai Chen (kaichen), Hangzhou, China
+** "Github":http://github.com/kaichen, "Website":http://thekaiway.com, "Twitter":http://twitter.com/chenk85
 
 h2. UTC+9
 
