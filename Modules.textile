@@ -308,9 +308,8 @@ h3(#class-system). "Class systems":#class-system
 * "joose":http://github.com/joose/joose -- complete modern class system for JavaScript, based on concepts from many programming languages
 
 h3(#testing). "Testing / Spec Frameworks":#testing
-* "should":http://github.com/visionmedia/should.js -- expressive test framework agnostic BDD-style assertions
-* "node-qunit":http://github.com/kof/node-qunit -- QUnit port for nodejs. Very simple API, async testing, good tested testing framework.
-* "sinon":http://github.com/cjohansen/sinon.js -- JavaScript test spies, stubs and mocks for Node.js and the browser
+* "fragile":http://github.com/coffeemate/fragile -- Lightweight command line unit testing tool for nodejs
+* "Gently":http://github.com/felixge/node-gently -- A node.js module that helps with mocking and behavior verification.
 * "espionage":http://github.com/smtlaissezfaire/espionage -- A mock/stub framework using the test spy pattern.
 * "expresso":http://github.com/visionmedia/expresso -- TDD framework by the author of "JSpec":http://jspec.info
 * "exemplor.js":http://github.com/chrislloyd/exemplor.js -- A port of "exemplor":http://github.com/quackingduck/exemplor with Node goodness.
@@ -321,20 +320,22 @@ h3(#testing). "Testing / Spec Frameworks":#testing
 * "mjsunit.runner":http://github.com/tmpvar/mjsunit.runner -- Command line mjsunit runner which provides an easy way to hook into mjsunit and start running tests immediately.
 * "node-assert-extras":http://gitorious.org/node-assert-extras -- Additional high level asserts
 * "node-async-testing":http://bentomas.github.com/node-async-testing/ -- Simple, fast, extendable unit testing.  
+* "node-qunit":http://github.com/kof/node-qunit -- QUnit port for nodejs. Very simple API, async testing, good tested testing framework.
 * "node-stories":http://github.com/tobiassvn/node-stories -- Given/When/Then integration awesomeness for Node.
 * "nodeunit":http://github.com/caolan/nodeunit -- Simple syntax, powerful tools. Based on the assert module. Available for node.js and the browser!
 * "ntest":http://github.com/technoweenie/ntest -- another unit testing framework
-* "reut":http://github.com/5long/reut -- Heavyweight unit testing framework.
-* "spectacular":http://github.com/jcrosby/spectacular -- for testing
-* "Speks":http://github.com/ecavazos/speks -- A specification framework for your node-code
-* "Vows":http://github.com/cloudhead/vows -- asynchronous behaviour-driven development for node.js
-* "Gently":http://github.com/felixge/node-gently -- A node.js module that helps with mocking and behavior verification.
 * "patr":http://github.com/kriszyp/patr -- Promise-based asynchronous test runner: lightweight & simple.
-* "fragile":http://github.com/coffeemate/fragile -- Lightweight command line unit testing tool for nodejs 
 * "pit":http://github.com/akaspin/pit -- Simple drop-in test runner with optional control tools
+* "reut":http://github.com/5long/reut -- Heavyweight unit testing framework.
+* "should":http://github.com/visionmedia/should.js -- expressive test framework agnostic BDD-style assertions
+* "sinon":http://github.com/cjohansen/sinon.js -- JavaScript test spies, stubs and mocks for Node.js and the browser
+* "spectacular":http://github.com/jcrosby/spectacular -- for testing
+* "soda-runner":http://github.com/doug-martin/soda-runner -- Provides a command line interface, runner, and selenium ide adapter for for soda.
+* "Speks":http://github.com/ecavazos/speks -- A specification framework for your node-code
+* "testosterone": https://github.com/masylum/testosterone -- Virile testing for http servers or any nodejs application.
 * "uubench":http://github.com/akdubya/uubench -- A tiny asynchronous JavaScript benchmarking library
+* "Vows":http://github.com/cloudhead/vows -- asynchronous behaviour-driven development for node.js 
 * "zombie.js":http://github.com/assaf/zombie -- Insanely fast, full-stack, headless testing using node.js
-* "soda-runner":http://github.com/doug-martin/soda-runner -- Provides a command line interface, runner, and selenium ide adapter for for soda. 
 
 h3(#wrappers). "Wrappers":#wrappers
 * "bdog-node":http://github.com/blackdog66/bdog-node -- haXe wrappers for node.
