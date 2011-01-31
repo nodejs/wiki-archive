@@ -578,6 +578,8 @@ h2. UTC+6
 ** "Twitter":http://twitter.com/andreyvit (in Eng), "GitHub":http://github.com/andreyvit, "Blog":http://blog.tarantsov.com (rus)
 * Fedor Indutny (donnerjack13589), Omsk, Russia
 ** "Twitter":http://twitter.com/indutny, "GitHub":http://github.com/donnerjack13589
+* Sasha Koss (kossnocorp), Omsk, Russia
+** "Twitter":http://twitter.com/kossnocorp, "GitHub":http://github.com/kossnocorp
 
 h2. UTC+7
 * Nugroho Herucahyono(xinuc), Indonesia
