@@ -332,7 +332,7 @@ h3(#testing). "Testing / Spec Frameworks":#testing
 * "spectacular":http://github.com/jcrosby/spectacular -- for testing
 * "soda-runner":http://github.com/doug-martin/soda-runner -- Provides a command line interface, runner, and selenium ide adapter for for soda.
 * "Speks":http://github.com/ecavazos/speks -- A specification framework for your node-code
-* "testosterone": https://github.com/masylum/testosterone -- Virile testing for http servers or any nodejs application.
+* "testosterone":https://github.com/masylum/testosterone -- Virile testing for http servers or any nodejs application.
 * "uubench":http://github.com/akdubya/uubench -- A tiny asynchronous JavaScript benchmarking library
 * "Vows":http://github.com/cloudhead/vows -- asynchronous behaviour-driven development for node.js 
 * "zombie.js":http://github.com/assaf/zombie -- Insanely fast, full-stack, headless testing using node.js
