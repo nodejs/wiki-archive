@@ -196,6 +196,8 @@ h2. UTC-6 (-5)
 ** "GitHub":http://github.com/hostsamurai, "Twitter":http://twitter.com/kuroi_kenshi, "Website":http://terminal-phantoms.com
 * Peter Wong (peterwmwong), Waukegan, IL, US
 ** "GitHub":http://github.com/peterwmwong, "Twitter":http://twitter.com/peterwmwong
+* Chad Smith (chadsmith), Wichita, KS, US
+** "GitHub":http://github.com/chadsmith, "Twitter":http://twitter.com/chadsmith
 
 h2. UTC-5 (-4)
 
