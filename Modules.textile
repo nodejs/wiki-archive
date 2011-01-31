@@ -212,6 +212,9 @@ rendering process.
 * "xmlbuilder.js":http://github.com/btakita/xmlbuilder.js -- An xml builder in Javascript inspired by Ruby's Builder, Markaby, and Erector.
 * "xmlbuilder-js":https://github.com/oozcitak/xmlbuilder-js -- An xml builder for node.js similar to java-xmlbuilder.
 
+h3(#css-engines). "CSS Engines":#css-engines
+* "Stylus":https://github.com/LearnBoost/stylus -- Expressive, dynamic, robust CSS language written by the author of Express, Connect, Jade and more
+
 h3(#build-and-deployment). "Build and Deployment":#build-and-deployment
 * "nodejs-autorestart":http://github.com/shimondoodkin/nodejs-autorestart -- It is a way to watch all .js files if they have been changed and to restart nodejs. It allows easy development and stable production.
 * "config":http://github.com/lorenwest/node-config -- Runtime configuration for node.js deployment - npm install config
