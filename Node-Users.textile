@@ -318,8 +318,6 @@ h2. UTC+0 (0)
 ** "GitHub":http://github.com/tanepiper, "Website":http://tanepiper.com, "Twitter":http://twitter.com/tanepiper
 * Pedro Teixeira (pgte)
 ** "Website":http://metaduck.com, "Github":http://github.com/pgte, "Twitter":http://twitter.com/pedrogteixeira
-* Mathias Bynens (matjas)
-** "Website":http://mathiasbynens.be/, "Github":http://github.com/mathiasbynens, "Twitter":http://twitter.com/mathias
 
 h2. UTC+0 (+1)
 
@@ -493,6 +491,8 @@ h2. UTC+1 (+2)
 ** "GitHub":http://github.com/neyric, "Twitter":http://twitter.com/neyric, "Website":http://www.neyric.com
 * Patrick Pfeiffer (guybrush), Austria
 ** "Github":http://github.com/guybrush
+* Mathias Bynens (matjas)
+** "Website":http://mathiasbynens.be/, "Github":http://github.com/mathiasbynens, "Twitter":http://twitter.com/mathias
 
 h2. UTC+2 (+3)
 * Aurimas Rimša, Lithuania
