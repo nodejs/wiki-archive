@@ -198,6 +198,8 @@ h2. UTC-6 (-5)
 ** "GitHub":http://github.com/peterwmwong, "Twitter":http://twitter.com/peterwmwong
 * Chad Smith (chadsmith), Wichita, KS, US
 ** "GitHub":http://github.com/chadsmith, "Twitter":http://twitter.com/chadsmith
+* Jason Hutchinson (zikes), Bentonville, AR, US
+** "GitHub":http://github.com/Zikes, "Twitter":http://twitter.com/Zikes, "Website":http://jasonwhutchinson.com
 
 h2. UTC-5 (-4)
 
