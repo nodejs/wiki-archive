@@ -28,6 +28,7 @@ only need 2 things.
 
 Use make to build and install Node
 
+    $ export JOBS=2 # optional, sets number of parallel commands.
     $ mkdir ~/local
     $ ./configure --prefix=$HOME/local/node
     $ make
