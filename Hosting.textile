@@ -19,6 +19,6 @@ h1. Hosting compatible with Node
 # "Duostack":http://www.duostack.com/
 # "NodeJsCloud":http://www.nodejscloud.com/ - Beta Coming Soon (accepting signups)
 # "Nodejitsu":http://nodejitsu.com/ - Beta Coming Soon (accepting signups)
-
+# "Nodester":http://nodester.com/
 
 Most of the above are just VPS providers, which require you to set everything up yourself, including the operating system.
