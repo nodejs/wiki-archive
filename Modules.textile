@@ -571,7 +571,6 @@ h3(#other). "Other":#other
 * "ext":http://github.com/visionmedia/ext.js -- High quality / performance JavaScript extensions specifically for node.js
 * "Faker.js":http://github.com/marak/Faker.js/ -- generate massive amounts of fake data in Node.js and the browser
 * "GeoIP":http://github.com/kuno/GeoIP -- Get geolocation information based on domain or IP address
-* "Grillode":http://github.com/stephenmcd/grillode -- Chat server with various modes such as customer support queues, fixed rooms or Chatroulette random matchups. Written in CoffeeScript and uses express, socket.io and Coffeekup.
 * "goog":https://github.com/hsch/node-goog -- Server-side Google Closure with Node.js
 * "hub.js":http://github.com/greut/hubbub.js -- in-memory and in progress PubSubHubBub server
 * "IRC-js":http://github.com/gf3/IRC-js -- An IRC library for node.js 
