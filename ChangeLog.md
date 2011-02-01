@@ -1,3 +1,36 @@
+## 2011.01.27, Version 0.3.7 (unstable)
+
+* Expose agent in http and https client. (Mikeal Rogers)
+
+* Fix bug in http request's end method. (Ali Farhadi)
+
+* MinGW: better net support (Bert Belder)
+
+* fs.open should set FD_CLOEXEC
+
+* DTrace probes (Bryan Cantrill)
+
+* REPL fixes and improvements (isaacs, Bert Belder)
+
+* Fix many bugs with legacy http.Client interface
+
+* Deprecate process.assert. Use require('assert').ok
+
+* Add callback parameter to socket.setTimeout(). (Ali Farhadi)
+
+* Fixing bug in http request default encoding (Ali Farhadi)
+
+* require: A module ID with a trailing slash must be a dir.
+  (isaacs)
+
+* Add ext_key_usage to getPeerCertificate (Greg Hughes)
+
+* Error when child_process.exec hits maxBuffer.
+
+* Fix option parsing in tls.connect()
+
+* Upgrade to V8 3.0.10
+
 ## 2011.01.21, Version 0.3.6 (unstable)
 
 * REPL and other improvements on MinGW (Bert Belder)
@@ -242,6 +275,144 @@
 
 
 ### Notes:
+
+
+## 2010.12.30, Version 0.2.6
+
+* Make sure raw mode is disabled when exiting a terminal-based REPL.
+  (Brian White)
+
+* Fix OpenSSL SSL_library_init function check on OpenBSD.
+  (Brian White)
+
+* Fix test-http-allow-req-after-204-res.js
+
+* Fix length of arguments emitted by EventEmitter (Jeremy Martin)
+
+* Fix unhandled ECONNABORTED (Theo Schlossnagle)
+
+* Default to gcc for V8 build on Solaris (Trent Mick)
+
+* Fix various memory leaks (Tom Hughes)
+
+* Apple's threaded write()s bug (Jorge Chamorro Bieling)
+
+
+## 2010.11.16, Version 0.2.5, 74a1fc334e486683d6da02fd918725d246ffc273
+
+* Add ref to buffer during fs.write and fs.read. Sometimes buffers
+  would be GCed before making it to the thread pool.
+
+* Fix http buffer pushing bug:
+  http://groups.google.com/group/nodejs/browse_thread/thread/f66cd3c960406919
+
+* Gracefully handle EMFILE and server.maxConnections
+
+* "node --eval" evals in the global scope. (Jorge Chamorro Bieling)
+
+* Handle cyclic links smarter in fs.realpath (isaacs, Issue #167)
+
+* Rewrite libeio After callback to use req->result instead of req->errorno
+  for error checking (Micheil Smith)
+
+* Removed range read optimization as it doesn't work with libeio. (Chandra
+  Sekar S)
+
+* Make writes to process.env update the real environment (Ben Noordhuis)
+
+* Set FD_CLOEXEC flag on stdio FDs before spawning. (Guillaume Tuton)
+
+* Upgrade http-parser
+
+* Readline: Switch \n with \r\n for all strings printed out.
+  Simplify displayPrompt
+
+* Fix segfault on test-crypto
+
+* Add --profile flag to configure script, enables gprof profiling. (Ben
+  Noordhuis)
+
+* writeFileSync could exhibit pathological behavior when a buffer could
+  not be written to the file in a single write() call. (isaacs)
+
+* Fix OS::GetExecutablePath for platform_none shouldn't return garbage.
+
+
+## 2010.10.24, Version 0.2.4, 428a67012158eb2ff478a0dc58336e85e4c6399a
+
+* Add --eval to command line options (TJ Holowaychuk)
+
+* net fixes
+  - TCP clients buffer writes before connection
+  - Don't flush net writeQueue on end() if its still connecting
+    (Joshua Peek)
+  - Do not spin on aceept() with EMFILE
+
+* Add --max-stack-size flag. (Tom Hughes)
+
+* Fixes to child_process.exec (timeouts and proper termination)
+  Default to SIGTERM instead of SIGKILL.
+
+* Add signal handlers so we clean up before exiting. (Tom Hughes)
+
+* Fix parsing of linux memory (Vitali Lovich)
+
+* http-parser: Allow whitespace in the 'Content-Length' header.
+  (Nathan Rajlich)
+
+* Add flag to disable colors in REPL
+
+## 2010.10.02, Version 0.2.3, dc103ae020ecd6182aa2adb482ac72ea944130ee
+
+* Fix require in REPL (bug introduced in v0.2.2)
+
+* Pass correct message in client HTTP upgrade event.
+  (Fedor Indutny)
+
+* Show function names in sys.inspect (Jorge Chamorro Bieling)
+
+* In HTTP, close connection on the "connection:close" header.
+  (Mikeal Rogers)
+
+* fs.ReadStream bug fixes (Tj Holowaychuk, Evan Larkin, Marco Rogers)
+
+* Fix zero length buffer bug for http res.end()
+
+
+## 2010.09.17, Version 0.2.2, 7bf46bc9808f4db98f1cf177d58a6ecf3a50b65d
+
+* REPL improvements (Trent Mick)
+
+* Fix bug in fs.realpath (Isaac Schlueter)
+
+* sys.pump catches errors (Russell Haering)
+
+
+## 2010.09.10, Version 0.2.1, da235fa12c208fc8243600e128db2c9b55624c5c
+
+* REPL improvements (Johan Euphrosine, Brian White)
+
+* nextTick bug fixes (Benjamin Thomas, Felix Geisendörfer,
+  Trent Mick)
+
+* fs module bug fixes (Russell Haering, Marco Rogers, Tobie Langel,
+  Isaac Schlueter)
+
+* Build script change for OpenEmbedded.
+
+* Most constrctuors work without 'new' now.
+
+* Allow Strings for ports on net.Server.listen (Bradley Meck)
+
+* setInterval(cb, 0) loops infinitely
+
+* Fixes for NODE_MODULE_CONTEXTS=1 (Herbert Vojčík)
+
+* Expose fingerproint from getPeerCertificate (Paul Querna)
+
+* API: forceClose -> destroy for WriteStreams
+
+
 
 ## 2010.08.20, Version 0.2.0, 9283e134e558900ba89d9a33c18a9bdedab07cb9
 
