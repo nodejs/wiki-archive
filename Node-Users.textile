@@ -381,6 +381,8 @@ h2. UTC+0 (+1)
 ** "GitHub":http://github.com/chrisdew, "Twitter":http://twitter.com/chrisdew, "Website":http://www.finalcog.com
 * Lupo Montero (lupomontero), London, UK
 ** "GitHub":http://github.com/lupomontero, "Twitter":http://twitter.com/lupomontero
+* Kilian Ciuffolo (kilianc), Brescia, IT
+** "GitHub":http://github.com/kilianc, "Twitter":http://twitter.com/keysee, "Website":http://www.nailik.org
 
 h2. UTC+1 (+2)
 * Arnout Kazemier (V1), The Netherlands
