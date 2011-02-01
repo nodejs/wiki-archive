@@ -1,24 +1,26 @@
 h1. Hosting compatible with Node
 
-# "WebFaction":http://webfaction.com
-# "Heroku":http://heroku.com/ - Closed Beta
-# "ElusiveHippo":http://elusivehippo.com/ - Not Working
-# "Prgmr":http://prgmr.com/
-# "Slicehost":http://www.slicehost.com/
-# "Linode":http://www.linode.com/
-# "Amazon EC2":http://aws.amazon.com/ec2/
-# "Rackspace Cloud":http://www.rackspacecloud.com/
-# "VPS.Net":https://www.vps.net/vps-signup
-# "Joyent":http://www.joyent.com/services/cloudhosting/
-# "no.de":http://no.de - Closed Beta
-# "DreamHostPS":http://www.dreamhost.com/hosting-vps.html - Need a total reconfiguration of virtual machines
-# "Webbynode":http://www.webbynode.com/ - "setup guide here":http://blog.dtrejo.com/nodejs-for-server-newbs - "deployment guide":http://guides.webbynode.com/articles/rapidapps/nodejs.html - "screencast":http://vimeo.com/15406437
-# "Gandi":http://en.gandi.net/hosting/
-# "BuyVM":http://www.buyvm.net/
-# "Oversun Scalaxy":http://www.scalaxy.ru/ - Site in Russian
-# "Duostack":http://www.duostack.com/
-# "NodeJsCloud":http://www.nodejscloud.com/ - Beta Coming Soon (accepting signups)
-# "Nodejitsu":http://nodejitsu.com/ - Beta Coming Soon (accepting signups)
-# "Nodester":http://nodester.com/
+h2. Managed
+* "Duostack":http://www.duostack.com/
+* "Heroku":http://heroku.com/ - Closed Beta
+* "no.de":http://no.de - Closed Beta
+* "Nodejitsu":http://nodejitsu.com/ - Beta Coming Soon (accepting signups)
+* "NodeJsCloud":http://www.nodejscloud.com/ - Beta Coming Soon (accepting signups)
+* "Nodester":http://nodester.com/
 
-Most of the above are just VPS providers, which require you to set everything up yourself, including the operating system.
+h2. Self-Managed
+
+VPS providers, which often require you to set everything up yourself, including the operating system.
+* "Amazon EC2":http://aws.amazon.com/ec2/
+* "BuyVM":http://www.buyvm.net/
+* "DreamHostPS":http://www.dreamhost.com/hosting-vps.html - Need a total reconfiguration of virtual machines
+* "Gandi":http://en.gandi.net/hosting/
+* "Joyent":http://www.joyent.com/services/cloudhosting/
+* "Linode":http://www.linode.com/
+* "Oversun Scalaxy":http://www.scalaxy.ru/ - Site in Russian
+* "Prgmr":http://prgmr.com/
+* "Rackspace Cloud":http://www.rackspacecloud.com/
+* "Slicehost":http://www.slicehost.com/
+* "VPS.Net":https://www.vps.net/vps-signup
+* "Webbynode":http://www.webbynode.com/ - "setup guide here":http://blog.dtrejo.com/nodejs-for-server-newbs - "deployment guide":http://guides.webbynode.com/articles/rapidapps/nodejs.html - "screencast":http://vimeo.com/15406437
+* "WebFaction":http://webfaction.com
