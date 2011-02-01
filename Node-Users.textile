@@ -63,7 +63,7 @@ h2. UTC-8
 * Matt Ranney (mjr), Oakland, CA, US
 ** "GitHub":http://github.com/mranney, "Twitter":http://twitter.com/mranney
 * Aaron Blohowiak (aaronblohowiak)
-** "GitHub":http://github.com/aaronblohowiak
+** "GitHub":http://github.com/aaronblohowiak, "Twitter":http://twitter.com/aaronblohowiak, "Blog":http://aaronblohowiak.com
 * Matthew Lyon (mattly)
 ** "GitHub":http://github.com/mattly "Twitter":http://twitter.com/mattly
 * Matthew Eernisse (mde)
