@@ -152,6 +152,8 @@ h2. UTC-7 (-6)
 ** "Website":http://stephenwalters.posterous.com, "GitHub":http://github.com/sjwalter, "Twitter":http://twitter.com/sjwalter
 * Tamera Mitchell (tmitchell), Logan, UT, US
 ** "GitHub":http://github.com/tameramitchell, "Twitter":http://twitter.com/tameramitchell
+* Chris Matthieu (chrismatthieu), Phoenix, AZ, US
+** "GitHub":http://github.com/chrismatthieu/, "Twitter":http://twitter.com/chrismatthieu/, "Website":http://chrismatthieu.com
 
 h2. UTC-6 (-5)
 * Tim Caswell (creationix), Dallas, TX, US
