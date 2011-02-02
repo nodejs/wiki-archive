@@ -14,6 +14,8 @@ The "FAQ":https://github.com/ry/node/wiki/FAQ answers common questions people ha
 
 h2. Users
 
+Come talk to us in the **#node.js** IRC channel on "freenode.net":http://freenode.net or on the "nodejs google group":http://groups.google.com/group/nodejs
+
 "Projects, Applications, and Companies using Node":https://github.com/ry/node/wiki/Projects,-Applications,-and-Companies-Using-Node
 
 h2. Modules
