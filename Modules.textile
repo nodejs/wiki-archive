@@ -687,6 +687,7 @@ h3(#other). "Other":#other
 * "stem":https://github.com/cwolves/stem -- English, French & German Porter2 stemming algorithm & basic tokenizer
 * "functools":https://github.com/azer/functools -- A library for functional programming
 * "node-srs":https://github.com/springmeyer/node-srs -- Bindings to libosr for handling spatial references in node
+* "node-i3":https://github.com/badboy/node-i3 -- inter-process communication with i3 using node.js' asynchronous programming style
 
 h2(#managment). "Node Management Utilities":#management
 
