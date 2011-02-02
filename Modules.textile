@@ -560,6 +560,7 @@ h3(#other). "Other":#other
 * "cookie-node":http://github.com/jed/cookie-node/ -- signed cookie functionality for node.js
 * "node-cookiejar":http://github.com/bmeck/node-cookiejar -- repetitive use cookie jar construction / cookie functionality
 * "daemon.node":http://github.com/Slashed/daemon.node/ -- Unix/Linux Daemons with node.js
+* "datejs":https://github.com/chrisdew/datejs -- DateJS wrapped up as an NPM package for node.js
 * "deja":http://github.com/mcantelon/node-deja -- CLI utility for managing git versioning of dotfiles and such
 * "daemonchk.js":https://github.com/dulac/daemonchk.js/ -- Daemon Monitor (with HTTP interface)
 * "dir2html":http://github.com/mcantelon/node-dir2html -- Render a directory as HTML
