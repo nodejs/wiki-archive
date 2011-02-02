@@ -494,7 +494,7 @@ h2. UTC+1 (+2)
 * Frank Grimm (stride)
 ** "Blog":http://blog.frankgrimm.net, "Twitter":http://twitter.com/frank_grimm
 * Marco Egli (eglinetwork), Zürich, Switzerland
-** "GitHub":http://github.com/eglinetwork, "Website":http://eglinetwork.no.de/, "Twitter":http://twitter.com/marcoegli
+** "GitHub":http://github.com/eglinetwork, "Website":http://eglinetwork.ch/, "Twitter":http://twitter.com/marcoegli
 * Eric Abouaf (neyric), Paris, France
 ** "GitHub":http://github.com/neyric, "Twitter":http://twitter.com/neyric, "Website":http://www.neyric.com
 * Patrick Pfeiffer (guybrush), Austria
