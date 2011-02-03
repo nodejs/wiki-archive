@@ -6,9 +6,9 @@ Many people are running code on the stable branch v0.2. Soon the unstable branch
 
 * `querystring.parse()` and `querystring.stringify()` were [made simpler](https://github.com/ry/node/commit/422d3c93bc7391e105cfb4363011088c27ec86a6). They no longer handle deep objects.
 
-* v0.3.6 introduced a new interface for making outbound http requests: `http.request()` and `http.get()`. Previously users had to construct a `http.Client` instance and issue `client.request()` calls. The old `http.Client` interface should be considered deprecated. That said, there is a legacy interface for `http.Client` accessible which runs on top of `http.request()` - you may find inconsistencies between v0.3.6+ `http.Client` and the `http.Client` before v0.3.6. These inconsistencies are considered bugs and should be reported.
-  - v0.3.7 resolved many of these bugs.
-  - `setSecure()` is missing and will not be implemented. Use the new interface for making HTTPS requests. See [the `https` module documentation](https://github.com/ry/node/blob/v0.3.7/doc/api/https.markdown) for the new interface.
+*** v0.3.6 introduced a new interface for making outbound http requests: `http.request()` and `http.get()`. Previously users had to construct a `http.Client` instance and issue `client.request()` calls. The old `http.Client` interface should be considered deprecated. That said, there is a legacy interface for `http.Client` accessible which runs on top of `http.request()` - you may find inconsistencies between v0.3.6+ `http.Client` and the `http.Client` before v0.3.6. These inconsistencies are considered bugs and should be reported.**
+**  - v0.3.7 resolved many of these bugs.**
+**  - `setSecure()` is missing and will not be implemented. Use the new interface for making HTTPS requests. See [the `https` module documentation](https://github.com/ry/node/blob/v0.3.7/doc/api/https.markdown) for the new interface.**
 
 * The internal `process.binding('stdio')` module got exposed and renamed to `require('tty')`
 
