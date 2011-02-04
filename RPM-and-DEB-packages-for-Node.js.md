@@ -5,6 +5,7 @@
 
 Example install:
 
+    sudo apt-get install python-software-properties
     sudo add-apt-repository ppa:jerome-etienne/neoip
     sudo apt-get update
     sudo apt-get install nodejs
