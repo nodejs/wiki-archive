@@ -2,6 +2,8 @@ Many people are running code on the stable branch v0.2. Soon the unstable branch
 
 ## JavaScript API
 
+* Instead of testing exceptions with `if (exception.errno == require('constants').EADDRINUSE)`, the exceptions now have an member `code` which is just the string. So you can now do: `if (exception.code == 'EADDRINUSE')`
+
 * `sys` module is now the `util` module (soft deprecation)
 
 * `querystring.parse()` and `querystring.stringify()` were [made simpler](https://github.com/ry/node/commit/422d3c93bc7391e105cfb4363011088c27ec86a6). They no longer handle deep objects.
