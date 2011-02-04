@@ -165,6 +165,7 @@ h3(#database). "Database":#database
 * "postgres-js":http://github.com/creationix/postgres-js/tree/master -- Postgres protocol implemented in pure JS
 * "postgres-js":http://github.com/aurynn/postgres-js/ -- Fork of postgres-js, adds parameterized queries and prepared statements.
 * "rapid":http://github.com/visionmedia/rapid - Redis ORM-like abstraction layer with query support, type coercion and validations
+* "RDX":http://github.com/kreetitech/RDX - An object-relational mapper (ORM) for node. Backends: node-mysql-libmysqlclient.
 * "redis-node":http://github.com/bnoguchi/redis-node -- Comprehensive, high speed Redis client
 * "redis-node-client":http://github.com/fictorial/redis-node-client/tree/master -- Redis Client by Fictorial (deprecated)
 * "node_redis":http://github.com/mranney/node_redis/ -- Complete Redis client that works well with new node and new Redis
