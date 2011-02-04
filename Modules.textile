@@ -250,6 +250,7 @@ h3(#security). "OpenSSL / Crypto / Hashing":#security
 * "node-crypto":http://github.com/waveto/node-crypto -- OpenSSL based Hashing, Signing and Verifying
 * "node-oauth":http://github.com/ciaranj/node-oauth -- OAuth client (1 and 2)
 * "oauthjs":http://github.com/itea/oauthjs -- OAuth client
+* "oauth-server":http://github.com/selead/oauth-server -- OAuth server (1.0A)
 * "node-openid":http://github.com/havard/node-openid -- OpenID 1.1/2.0 Relying Party (client)
 * "rbytes":http://github.com/akdubya/rbytes -- Secure random byte generator for session keys, UUIDs, etc.
 * "sasljs":http://github.com/nikhilm/sasljs -- "Gsasl":http://www.gnu.org/software/gsasl/ wrapper to performs server-side SASL authentication.
