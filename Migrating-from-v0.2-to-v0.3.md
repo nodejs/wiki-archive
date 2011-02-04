@@ -10,6 +10,42 @@ Many people are running code on the stable branch v0.2. Soon the unstable branch
 **  - v0.3.7 resolved many of these bugs.**
 **  - `setSecure()` is missing and will not be implemented. Use the new interface for making HTTPS requests. See [the `https` module documentation](https://github.com/ry/node/blob/v0.3.7/doc/api/https.markdown) for the new interface.**
 
+
+The old http client API:
+
+    var http = require('http');
+    var google = http.createClient(80, 'www.google.com');
+    var request = google.request('GET', '/',
+      {'host': 'www.google.com'});
+    request.end();
+    request.on('response', function (response) {
+      console.log('STATUS: ' + response.statusCode);
+      console.log('HEADERS: ' + JSON.stringify(response.headers));
+      response.setEncoding('utf8');
+      response.on('data', function (chunk) {
+        console.log('BODY: ' + chunk);
+      });
+    });
+
+The new http client API:
+
+    var options = {
+      host: 'www.google.com',
+      path: '/',
+    };
+    http.get(options, function(response) {
+      console.log('STATUS: ' + response.statusCode);
+      console.log('HEADERS: ' + JSON.stringify(response.headers));
+      response.setEncoding('utf8');
+      response.on('data', function (chunk) {
+        console.log('BODY: ' + chunk);
+      });
+    });
+
+
+
+
+
 * The internal `process.binding('stdio')` module got exposed and renamed to `require('tty')`
 
 * `readline.createInterface` now takes three arguments, an input stream, an output stream, and a completion callback. Previously only a output stream was provided.
