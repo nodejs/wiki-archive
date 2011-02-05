@@ -540,12 +540,12 @@ h3(#async-flow). "Flow control / Async goodies":#async-flow
 * "node_memo":http://github.com/akidee/node_memo -- Asynchronous function memoization
 * "node-parallel":http://github.com/Tim-Smart/node-parallel -- Create tasks in node.js that run in parallel, or sequences that run tasks one after another.
 * "node-promise":http://github.com/kriszyp/node-promise -- Robust promises for node.js, includes promise utilities and promise-based I/O library
+* "Pulsar":https://github.com/michaelsbradleyjr/Pulsar -- An event emitter abstraction class; reuse your custom-emitter logic across JavaScript environments, transparently falling back to node's EventEmitter on the server-side.
 * "seq":https://github.com/substack/node-seq -- Chainable asynchronous flow control for node.js with sequential and parallel primitives and pipeline-style error handling
 * "sexy":http://github.com/crabdude/sexy -- Proxy (ES5) for writing sequential asynchronous code in a synchronous style
 * "Slide":http://github.com/isaacs/slide-flow-control  -- A flow control library that fits in a slide presentation
 * "soda.js":http://github.com/tomyan/soda -- Asynchonous JavaScript module loader for client-side and Node.js
 * "Step":http://github.com/creationix/step -- Tool for grouping and chaining asynchronous callbacks, based on "flow-js":http://github.com/willconant/flow-js
-
 
 h3(#i18n). "I18n and L10n modules":#i18n
 * "Lingo":http://bit.ly/cuaHAh -- Inflection, transformation and more
