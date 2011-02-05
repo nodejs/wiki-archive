@@ -44,11 +44,11 @@ h2. Object
  * @Object.isFrozen(obj)@ - Checks if Object.freeze() has been called on this object.
 
 h2. Object.prototype
- * @__defineGetter__(name, callback)@ - Associates a function with a property that, when accessed, executes that function and returns its return value.
- * @__defineSetter__(name, callback)@ - Associates a function with a property that, when set, executes that function which modifies the property.
- * @__lookupGetter__(name)@ - Returns the function associated with the specified property by the __defineGetter__ method.
- * @__lookupSetter__(name)@ - Returns the function associated with the specified property by the __defineSetter__ method.
- * @isPrototypeOf(obj)@ - Returns true if @this@ is a prototype of the passed in object.
+ * @__defineGetter__(name, callback)@ - (Mozilla extension, not ECMAScript 5) Associates a function with a property that, when accessed, executes that function and returns its return value.
+ * @__defineSetter__(name, callback)@ - (Mozilla extension, not ECMAScript 5) Associates a function with a property that, when set, executes that function which modifies the property.
+ * @__lookupGetter__(name)@ - (Mozilla extension, not ECMAScript 5) Returns the function associated with the specified property by the __defineGetter__ method.
+ * @__lookupSetter__(name)@ - (Mozilla extension, not ECMAScript 5) Returns the function associated with the specified property by the __defineSetter__ method.
+ * @isPrototypeOf(obj)@ - (EcmaScript 3 and 5) Returns true if @this@ is a prototype of the passed in object.
 
 h2. Function.prototype
  * @bind(thisArg[, arg1[, argN]])@ - Sets the value of 'this' inside the function to always be the value of thisArg when the function is called. Optionally, function arguments can be specified (arg1, arg2, etc) that will automatically be prepended to the argument list whenever this function is called.
