@@ -1,3 +1,11 @@
+h2.
+
+Check out http://search.npmjs.org/ too
+
+*** 
+
+
+
 h2. Adding to this page
 
 When you add a framework to this page, have a look at how others have done so, it should be a single item, with a link to the project's source code, and a short description (one line after formatting has been applied).
