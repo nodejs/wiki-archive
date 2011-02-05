@@ -22,3 +22,15 @@ Example install on openSUSE 11.3:
 
     sudo zypper ar http://download.opensuse.org/repositories/home:/SannisDev/openSUSE_11.3/ SannisDevBuildService 
     sudo zypper in nodejs nodejs-devel
+
+## Arch Linux
+Node.js [stable](https://aur.archlinux.org/packages.php?ID=32930) and [unstable](https://aur.archlinux.org/packages.php?ID=44279) are both available in the [AUR](http://aur.archlinux.org/).
+
+Example install using [packer](https://aur.archlinux.org/packages.php?ID=33378):
+
+    packer -S nodejs
+
+## OSX
+Using [homebrew](https://github.com/mxcl/homebrew):
+
+    brew install node
