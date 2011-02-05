@@ -1,10 +1,4 @@
-h2.
-
-Check out http://search.npmjs.org/ too
-
-*** 
-
-
+Check out "search.npmjs.org":http://search.npmjs.org/ too
 
 h2. Adding to this page
 
