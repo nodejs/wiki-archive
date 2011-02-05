@@ -295,6 +295,8 @@ h2. UTC-5 (-4)
 ** "GitHub":http://github.com/tsmith
 * Mike Bannister (possibilities), Portland, ME
 ** "GitHub":http://github.com/mikebannister, "Twitter":http://www.twitter.com/possibilities
+* Silas Sewell (silas), New York, NY, US
+** "GitHub":http://github.com/silas, "Twitter":http://twitter.com/silassewell, "Website":http://www.silassewell.com
 
 h2. UTC-4 (-3)
 
