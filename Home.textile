@@ -20,7 +20,8 @@ Come talk to us in the **#node.js** IRC channel on "freenode.net":http://freenod
 
 h2. Modules
 
-See the "Modules":http://github.com/ry/node/wiki/modules page.
+Most modules are in the "npm registry":http://search.npmjs.org/ 
+There is also a list of modules on this wiki: "Modules":http://github.com/ry/node/wiki/modules page.
 
 h2. Resources
 
