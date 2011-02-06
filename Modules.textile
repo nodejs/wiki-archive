@@ -231,7 +231,7 @@ h3(#build-and-deployment). "Build and Deployment":#build-and-deployment
 * "Masson":http://github.com/wdavidw/node-masson -- Build system and rule management similar to tools like Make, Ant or Rake
 * "Ready.js":http://github.com/dsimard/ready.js -- Continuous javascript integration using JSLint, Google Compiler, Node.js and Git
 * "nodemon":http://github.com/remy/nodemon -- Monitors all source files, restarts node on changes. Command-line usage, code-passive with ignore list.
-* "node-linter":https://github.com/kof/node-linter generic lint wrapper for JSLint, closure-linter, closure-compiler, and Javascript Lint.
+* "node-linter":https://github.com/kof/node-linter -- generic lint wrapper for JSLint, closure-linter, closure-compiler, and Javascript Lint.
 
 h3(#package-management). "Package Management Systems":#package-management
 * "kiwi":http://github.com/visionmedia/kiwi -- Feature rich, fast, node.js package management system -- server sponsored by Slicehost ("no longer in active development":http://goo.gl/BqGu)
