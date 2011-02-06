@@ -7,6 +7,7 @@ h2. Managed
 * "Nodejitsu":http://nodejitsu.com/ - Beta Coming Soon (accepting signups)
 * "NodeJsCloud":http://www.nodejscloud.com/ - Beta Coming Soon (accepting signups)
 * "Nodester":http://nodester.com/
+* "JSApp.US":http://jsapp.us/ - Open signup, web editing/npm command
 
 h2. Self-Managed
 
