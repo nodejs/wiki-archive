@@ -104,6 +104,7 @@ h4(#middleware). "Middleware":#middleware
 * "resource-router":https://github.com/s3u/resource-router -- A resource-oriented router to replace the default routing in express (Connect)
 * "session-web-sockets":https://github.com/kazuyukitanimura/session-web-sockets -- Pass session to (Socket.IO-node) in a secure manner (Connect) Originally forked from "bmeck/session-web-sockets":https://github.com/bmeck/session-web-sockets
 * "proxy-tamper":https://github.com/tsyd/proxy-tamper -- A proxy server that allows for the tampering of requests and responses.
+* "node-facebook-session-cookie":https://github.com/jonashuckestein/node-facebook-session-cookie -- eats facebook cookies from client FB.login() and makes the session available as req.fb_session (Connect)
 
 h4(#web-frameworks-other). "Other":#web-frameworks-other
 * "Alligator":http://github.com/mrohad/Alligator -- Application Server on top of NodeJS (JSSP and SSJS support)
@@ -311,6 +312,7 @@ h3(#ws-ajax). "Web Sockets & Ajax":#ws-ajax
 * "node-wwwdude":http://github.com/pfleidi/node-wwwdude -- A simplified, flexible HTTP/REST client library for node.js
 * "node-bus":https://github.com/node-bus/node-bus -- A distributed pubsub engine for JSON-based events
 * "wave-node":https://github.com/scottbw/wave-node -- An implementation of the Google Wave Gadget API for node.js
+* "node-object-sync":https://github.com/jonashuckestein/node-object-sync -- Transparently synchronize objects across connected clients
 
 h3(#message-queue). "Message Queues":#message-queue
 * "websocket.MQ":https://github.com/networkimprov/websocket.MQ -- Reliable message queue server accessible via websockets, socket.IO, etc
@@ -521,6 +523,7 @@ h3(#api-clients). "API clients":#api-clients
 * "spotify":http://github.com/roncioso/node-spotify-metadata -- Spotify api wrapper. Metadata lookup and search. Works with Spotify and http uris
 * "node-mailchimp":http://github.com/gomfunkel/node-mailchimp -- A wrapper for the MailChimp API, MailChimp Export API and MailChimp Webhooks
 * "ranger":http://github.com/mrduncan/ranger/ -- A simple library which wraps Campfire's API
+
 
 h3(#async-flow). "Flow control / Async goodies":#async-flow
 * "async.js":http://github.com/fjakobs/async.js -- Async chaining and file system utilities. Async.js is to node's fs module, what jQuery is to the DOM.
