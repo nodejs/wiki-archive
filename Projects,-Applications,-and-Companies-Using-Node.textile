@@ -135,6 +135,7 @@ h2. Companies
 * "Telefónica R&D":http://tid.es
 * "URGE IO":http://urge.io
 * "Vision Media":http://vision-media.ca -- Web development firm based in Victoria, BC
+* "Voxer":http://voxer.com -- Walkie Talkie for your iOS device, backend uses all kinds of node
 * "Webbynode":http://webbynode.com
 * "Webdigi Web Development":http://www.webdigi.co.uk -- Web development agency based in London, UK
 * "Widescript":http://widescript.com -- A digital reading app targeted to people who study or make use of reference material.
