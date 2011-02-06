@@ -137,6 +137,7 @@ h2. Companies
 * "Siteworx":http://www.siteworx.com/
 * "Szpil":https://szpil.com - Keep detailed contact histories. Review past calls and conversations. Collaborate with colleagues. 
 * "Telefónica R&D":http://tid.es
+* "TRData Limited":https://trdata.com - real-time data processing and comet-server
 * "URGE IO":http://urge.io
 * "Vision Media":http://vision-media.ca -- Web development firm based in Victoria, BC
 * "Voxer":http://voxer.com -- Walkie Talkie for your iOS device, backend uses all kinds of node
