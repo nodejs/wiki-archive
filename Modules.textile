@@ -258,7 +258,7 @@ h3(#security). "OpenSSL / Crypto / Hashing":#security
 * "node-openid":http://github.com/havard/node-openid -- OpenID 1.1/2.0 Relying Party (client)
 * "rbytes":http://github.com/akdubya/rbytes -- Secure random byte generator for session keys, UUIDs, etc.
 * "sasljs":http://github.com/nikhilm/sasljs -- "Gsasl":http://www.gnu.org/software/gsasl/ wrapper to performs server-side SASL authentication.
-* "Hash":http://github.com/michaelsbradleyjr/Hash -- md5, sha1, sha256, sha512, ripemd160 algorithms in JavaScript; same module can be used with node.js and browsers; extensively tested with ascii and utf-8 input
+* "Hash":http://github.com/michaelsbradleyjr/Hash -- md5, sha1, sha256, sha512, ripemd160 algorithms in JavaScript. Can be used with node.js and browsers.
 * "node-whirlpool":https://github.com/Sembiance/node-whirlpool -- C/C++ mhash lib wrapper providing whirlpool hash support
 
 h3(#tcp). "TCP / IP":#tcp
