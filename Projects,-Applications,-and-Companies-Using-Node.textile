@@ -104,6 +104,7 @@ h2. Companies
 * "Fostle":http://fostle.com/
 * "Heroku":http://blog.heroku.com/archives/2010/4/28/node_js_support_experimental/ Dead simple Node deployment for you, and internal tools for us.
 * "Humansized Inc.":http://www.humansized.com
+* "IDFuze":http://www.idfuze.com - Working on a real time cards game using node.js and socket.io
 * "ipowerhouse":http://www.ipowerhouse.com - Focused on haXe/Node.js  game dev; first all haxe/node bingo product.
 * "Joyent":http://www.joyent.com/
 * "LearnBoost":http://www.learnboost.com/ - free "gradebook":http://www.learnboost.com and lesson plan software
