@@ -87,6 +87,7 @@ h2. Companies
 * "Ajax.org":http://ajax.org/ -- Home of the Cloud9 IDE, Ajax.org Platform and O3 Node modules
 * "Bitmechanic":http://www.bitmechanic.com/
 * "Bocoup":http://bocoup.com
+* "[[BörseGo AG|http://boerse-go.ag|]]" - they use a nodejs server for providing news pushed via websockets on http://www.jandaya.de
 * "BrandedCode":http://brandedcode.com
 * "Caffeinehit":http://caffeinehit.com
 * "Chompin":http://chompin.com - discover new music, mobile app, uses node for the entire back end api
@@ -123,6 +124,8 @@ h2. Companies
 * "Palm/HP":http://developer.palm.com/ - powers all the services in the new WebOS platform for mobile devices.
 * "Pixelspark":http://www.pixelspark.nl/
 * "Plurk":http://www.plurk.com/ -- using node.js for its "new comet system":http://amix.dk/blog/post/19490#Plurk-Instant-conversations-using-comet
+* "Proxlet":http://proxlet.com -- Twitter API proxy & browser extension to filter out the noise.
+* "Pushme.to":http://pushme.to -- web to iPhone messenger is using node.js for real-time messaging passing and push notifications
 * "Public Class":http://publicclass.se
 * "Razorshift Entertainment":http://www.razorshift.com/ - Online social properties and services.
 * "Redman Tech":http://redmantech.com -- using Node to power internal tools, real time log monitoring, and R&D projects.
@@ -141,6 +144,3 @@ h2. Companies
 * "Widescript":http://widescript.com -- A digital reading app targeted to people who study or make use of reference material.
 * "Yammer":https://www.yammer.com -- The Yammer Application Platform heavily uses node.js
 * "Ylastic":http://ylastic.com/ - uses node for report processing and admin app
-* "[[BörseGo AG|http://boerse-go.ag|]]" - they use a nodejs server for providing news pushed via websockets on http://www.jandaya.de
-* "Proxlet":http://proxlet.com -- Twitter API proxy & browser extension to filter out the noise.
-* "Pushme.to":http://pushme.to -- web to iPhone messenger is using node.js for real-time messaging passing and push notifications
