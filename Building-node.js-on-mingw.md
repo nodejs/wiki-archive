@@ -51,3 +51,23 @@ Fix above to following(changing order of c_compilers).
 ### ./configure can't find openssl
 Linking with openssl is currently unsupported. Use `./configure --without-ssl`.
 
+There is few openssl packages working on win32. But it is difference about linker options.
+Below is a workaround that I tried.
+
+1. Open editor to modify 'wscript'.
+2. Comment out 262-264. and add following.
+
+        conf.env["USE_OPENSSL"] = Options.options.use_openssl = True
+        conf.env.append_value("CPPFLAGS", "-DHAVE_OPENSSL=1")
+
+3. configure & mingw32-make. You'll get fail to link.
+4. Open editor to modify 'build/c4che/default.cache.py'. And Change LIB and LIB_OPENSSL.
+
+  I succeeded to compile nodejs-SSL on mingw32 with following.
+
+    LIB = ['ws2_32', 'winmm', 'pthread.dll', 'ssl32']
+    LIBPATH_ST = '-L%s'
+    LIB_CEIL = ['m']
+    LIB_DL = ['dl']
+    LIB_OPENSSL = ['crypto', 'gdi32']
+
