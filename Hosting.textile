@@ -1,6 +1,7 @@
 h1. Hosting compatible with Node
 
 h2. Managed
+* "bejes.us":http://bejes.us/ - Beta Coming Soon (accepting signups)
 * "Duostack":http://www.duostack.com/
 * "Heroku":http://heroku.com/ - Closed Beta
 * "no.de":http://no.de - Closed Beta
