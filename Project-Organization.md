@@ -1,6 +1,6 @@
 ## Core
 
-Node is an open source project run by Joyent. Joyent employees both Ryan Dahl (ryah_) and Isaac Schlueter (isaacs). 
+Node is an open source project run by Joyent. Joyent employs both Ryan Dahl (ryah_) and Isaac Schlueter (isaacs). 
 
 Currently all changes to the Node repository are approved by Ryan. 
 
