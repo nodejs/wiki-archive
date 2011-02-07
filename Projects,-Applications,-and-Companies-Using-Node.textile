@@ -108,6 +108,7 @@ h2. Companies
 * "IDFuze":http://www.idfuze.com - Working on a real time cards game using node.js and socket.io
 * "ipowerhouse":http://www.ipowerhouse.com - Focused on haXe/Node.js  game dev; first all haxe/node bingo product.
 * "Joyent":http://www.joyent.com/
+* "Kodingen":http://kodingen.com/ - Cloud IDE using nodejs backend to execute tasks.
 * "LearnBoost":http://www.learnboost.com/ - free "gradebook":http://www.learnboost.com and lesson plan software
 * "Left Logic":http://leftlogic.com
 * "LinkiT projects":http://linkit-projects.nl - Use nodejs for developing javascript sites. (http://yalia.nl/
