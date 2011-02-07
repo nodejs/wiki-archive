@@ -17,7 +17,7 @@ only need 2 things.
   Node run on python.
 
 * **libssl-dev** - If you plan to use SSL/TLS encryption in your
-  networking. You'll need this.  Libssl is the library used in the
+  networking, you'll need this.  Libssl is the library used in the
   [openssl](http://www.openssl.org/) tool. On Linux and Unix systems
   it can usually be installed with your favorite package manager. The
   lib comes pre- installed on OS X.
