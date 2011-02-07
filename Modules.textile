@@ -723,3 +723,7 @@ h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":
 * "schema.js":https://github.com/akidee/schema.js -- Modular data schema validation and adaptation according to JSON Schema for JavaScript
 * "underscore":http://documentcloud.github.com/underscore/ -- Unobtrusive functional programming utility library.
 * "wu.js":http://fitzgen.github.com/wu.js/ -- A lazy, functional Javascript library that ain't nuthin' ta f*ck wit.
+
+h2(#coffee-script). "CoffeeScript modules":#coffee-script
+
+* "simple-geoip":https://github.com/dvv/simple-geoip -- Simple maxmind GeoIP lookup, doesn't require libgeoip. 4-6 times faster than node-maxmind-native. See wiki for details
