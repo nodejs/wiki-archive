@@ -273,6 +273,7 @@ h3(#tcp). "TCP / IP":#tcp
 * "xmpp.js":http://xmppjs.prosody.im/ -- Library for implementing XMPP server components with Node
 * "node-http-digest":https://github.com/codehero/node-http-digest -- Node HTTP Client with support for Digest Authentication
 * "request":https://github.com/mikeal/node-utils/tree/master/request/ -- Simple HTTP client library.
+* "open-uri":https://github.com/publicclass/open-uri -- Client library similar to Rubys Open-URI, reads based on URI scheme (depends on "addressable":https://github.com/publicclass/addressable for the URI magic).
 * "node-xmpp":https://github.com/astro/node-xmpp -- Node XMPP library
 * "node-snpp":https://github.com/jsanders/node-snpp -- Node SNPP server library
 * "mdns":https://github.com/agnat/node_mdns -- mdns/zeroconf/bonjour service discovery add-on
