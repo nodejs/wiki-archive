@@ -47,6 +47,8 @@ The new http client API:
 
 * The internal `process.binding('stdio')` module got exposed and renamed to `require('tty')`
 
+* `stdio.getColumns()` and `stdio.getRows()` are coalesced into `tty.getWindowSize(fd)`
+
 * `readline.createInterface` now takes three arguments, an input stream, an output stream, and a completion callback. Previously only a output stream was provided.
 
 * [`require()` now calls realpath on modules.](https://github.com/ry/node/commit/0853730c35e567b1cd2e553986298e57f3908f02) That means if the module is a symlink relative requires will be relative to where the actual file is.
