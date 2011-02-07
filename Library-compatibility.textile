@@ -1,5 +1,8 @@
 Node is under heavy development and its API changes rapidly. Instead of simply a listing of modules which may or may not work with the version of Node installed on one's computer, this will provide a list of module versions which are known to work with specific versions of node.
 
+h2. node v0.3.8
+* "NormAndVal 0.1.0":https://github.com/roberthahn/NormAndVal
+
 h2. node v0.3.7
 * "nodemon":http://github.com/remy/nodemon
 
