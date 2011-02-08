@@ -6,7 +6,7 @@ Node.js is a server-side JavaScript environment that uses an asynchronous event-
 
 h2. Installation
 
-The "installation guide":wiki/installation explains how to get started installing Node.js and the Node Package Manager (NPM) on your system.
+The "installation guide":https://github.com/ry/node/wiki/Installation explains how to get started installing Node.js and the Node Package Manager (NPM) on your system.
 
 h2. FAQ
 
