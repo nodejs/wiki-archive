@@ -2,6 +2,8 @@ Many people are running code on the stable branch v0.2. Soon the unstable branch
 
 ## JavaScript API
 
+* TLS/SSL API has changed completely. In v0.2 `setSecure()` was used on TCP connections to upgrade them. In v0.3 there is a dedicated `tls` module. [See the documentation.](http://nodejs.org/docs/v0.3.8/api/tls.html)
+
 * Instead of testing exceptions with `if (exception.errno == require('constants').EADDRINUSE)`, the exceptions now have a member `code` which is just the string. So you can now do: `if (exception.code == 'EADDRINUSE')`
 
 * `sys` module is now the `util` module (soft deprecation)
