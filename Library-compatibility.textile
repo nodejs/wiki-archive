@@ -2,6 +2,7 @@ Node is under heavy development and its API changes rapidly. Instead of simply a
 
 h2. node v0.3.8
 * "NormAndVal 0.1.0":https://github.com/roberthahn/NormAndVal
+* "Grasshopper @ 488155a":https://github.com/tuxychandru/grasshopper/commit/488155adae4307c98d799c8f7313536ebe8b2585
 
 h2. node v0.3.7
 * "nodemon":http://github.com/remy/nodemon
