@@ -25,4 +25,4 @@ VPS providers, which often require you to set everything up yourself, including 
 * "Slicehost":http://www.slicehost.com/
 * "VPS.Net":https://www.vps.net/vps-signup
 * "Webbynode":http://www.webbynode.com/ - "setup guide here":http://blog.dtrejo.com/nodejs-for-server-newbs - "deployment guide":http://guides.webbynode.com/articles/rapidapps/nodejs.html - "screencast":http://vimeo.com/15406437
-* "WebFaction":http://webfaction.com
+* "WebFaction":http://webfaction.com - "setup guide here":http://davestevens.us/articles/setting-up-node-js-and-couchdb-on-webfaction
