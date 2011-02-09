@@ -32,13 +32,13 @@ h4(#web-frameworks-static). "Static file servers":#web-frameworks-static
 * "oui":https://github.com/rsms/oui -- Web service server with great static files support
 * "static":https://github.com/kriszyp/pintura/blob/master/lib/jsgi/static.js - Static file handler using asynchronous streaming as JSGI middleware
 * "protos":https://github.com/dulac/protos - Static file server with JSON configuration, similar to Apache
-* "Prick":https://github.com/SingAlong/Prick - tiny web framework
 
 h4(#web-frameworks-micro). "Microframeworks":#web-frameworks-micro
 * "Ni":https://github.com/chetan51/ni -- A minimalistic Node module / framework that makes setting up an MVC project a breeze
 * "(fab)":http://www.fabjs.org -- A modular and concise async web framework for node.js
 * "kaph":https://github.com/akaspin/kaph -- Not framework
 * "Nerve":https://github.com/gjritter/nerve -- Microframework with simple array-based syntax for defining an app on top of node. (node.JS 0.1.30)
+* "Prick":https://github.com/SingAlong/Prick - tiny web framework
 * "rowan":https://github.com/idmillington/rowan -- A hierarchical microframework of reusable controllers and modular app logic.
 * "scylla":https://github.com/ithinkihaveacat/node-scylla -- Create simple one object applications by doubling up method names as URL-matching patterns (node.JS 0.1.102)
 * "vroom":https://github.com/raycmorgan/vroom/tree/master -- A simple resource oriented web framework built on top of Node.js (November 2009, node.JS 0.1.16)
