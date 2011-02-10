@@ -127,6 +127,7 @@ h4(#web-frameworks-other). "Other":#web-frameworks-other
 h3(#database). "Database":#database
 * "alfred":http://pgte.github.com/alfred/ -- a fast in-process key-value store for node.js that has functional indexes, streams, replication,  ...
 * "awesome":https://github.com/janl/awesome -- a Redis clone in node.js
+* "barricane-db":https://github.com/chrisdew/barricane-db -- a transparent object persistence mechanism
 * "couch-ar":https://github.com/scottburch/couch-ar -- a active record implementation for couchDB (uses cradle)
 * "couch-client":https://github.com/creationix/couch-client -- a simple wrapper around CouchDB's http interface
 * "cradle":https://github.com/cloudhead/cradle -- a high-level, caching, CouchDB client
