@@ -2,6 +2,8 @@ Many people are running code on the stable branch v0.2. Soon the unstable branch
 
 ## JavaScript API
 
+* Move `process.binding('evals')` to `require('vm')`
+
 * In `v0.2` you might have aborted HTTP client requests with `req.connection.destroy()`. In `v0.4` there is a special method to handle this `req.abort()`
 
 * `headers['set-cookie']` is now an array even if it only contains one element.
