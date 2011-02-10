@@ -40,8 +40,7 @@ Installation](https://github.com/ry/node/wiki/Troubleshooting-Installation).
 
 **Pre-built binaries**
 
-You can also install node from packages: [RPM and DEB packages for
-Node.js](https://github.com/ry/node/wiki/RPM-and-DEB-packages-for-Node.js).
+You can also install node from packages: [[Installing Node.js via package manager]]
 
 ## Step 3b - Building on Windows
 
