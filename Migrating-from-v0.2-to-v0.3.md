@@ -2,6 +2,8 @@ Many people are running code on the stable branch v0.2. Soon the unstable branch
 
 ## JavaScript API
 
+* In `v0.2` you might have aborted HTTP client requests with `req.connection.destroy()`. In `v0.4` there is a special method to handle this `req.abort()`
+
 * `headers['set-cookie']` is now an array even if it only contains one element.
 
 * TLS/SSL API has changed completely. In v0.2 `setSecure()` was used on TCP connections to upgrade them. In v0.3 there is a dedicated `tls` module. [See the documentation.](http://nodejs.org/docs/v0.3.8/api/tls.html)
