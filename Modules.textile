@@ -507,6 +507,7 @@ h3(#api-clients). "API clients":#api-clients
 * "lastfm-node":https://github.com/jammus/lastfm-node -- Read and write to users' recent plays on Last.fm
 * "linkedin-js":https://github.com/masylum/linkedin-js -- Easy peasy linkedin client for connect.
 * "mixpanel-node":https://github.com/carlsverre/mixpanel-node -- A simple Mixpanel API library for server-side analytics.
+* "madmimi-node":https://github.com/garrensmith/Madmimi-node -- Client library for the MadMimi email api [[www.madmimi.com]].
 * "node-mixpanel-api":https://github.com/campfirelabs/node-mixpanel-api -- A simple client for the Mixpanel Data API (not event tracking! see above)
 * "node-apn":https://github.com/argon/node-apn -- A library to send messages using the Apple Push Notification Service.
 * "node-c2dm":https://github.com/SpeCT/node-c2dm -- A library to send messages using the Android Cloud to Device Messaging (C2DM) service.
