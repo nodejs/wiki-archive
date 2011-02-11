@@ -2,6 +2,7 @@ Node is under heavy development and its API changes rapidly. Instead of simply a
 
 h2. Node v0.4.0
 * "Grasshopper v0.4.0":http://github.com/tuxychandru/grasshopper/tree/0.4.0
+* "Mixpanel-node v0.0.3":https://github.com/carlsverre/mixpanel-node/tree/v0.0.3
 
 h2. node v0.3.8
 * "NormAndVal 0.1.0":https://github.com/roberthahn/NormAndVal
