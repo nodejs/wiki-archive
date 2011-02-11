@@ -507,6 +507,7 @@ h3(#api-clients). "API clients":#api-clients
 * "lastfm-node":https://github.com/jammus/lastfm-node -- Read and write to users' recent plays on Last.fm
 * "linkedin-js":https://github.com/masylum/linkedin-js -- Easy peasy linkedin client for connect.
 * "mixpanel-node":https://github.com/carlsverre/mixpanel-node -- A simple Mixpanel API library for server-side analytics.
+* "node-mixpanel-api":https://github.com/campfirelabs/node-mixpanel-api -- A simple client for the Mixpanel Data API (not event tracking! see above)
 * "node-apn":https://github.com/argon/node-apn -- A library to send messages using the Apple Push Notification Service.
 * "node-c2dm":https://github.com/SpeCT/node-c2dm -- A library to send messages using the Android Cloud to Device Messaging (C2DM) service.
 * "node-bitly":https://github.com/tanepiper/node-bitly -- A bit.ly API library for node.js - provides URL shortening/expanding.  Features full API.
@@ -531,7 +532,6 @@ h3(#api-clients). "API clients":#api-clients
 * "spotify":https://github.com/roncioso/node-spotify-metadata -- Spotify api wrapper. Metadata lookup and search. Works with Spotify and http uris
 * "node-mailchimp":https://github.com/gomfunkel/node-mailchimp -- A wrapper for the MailChimp API, MailChimp Export API and MailChimp Webhooks
 * "ranger":https://github.com/mrduncan/ranger/ -- A simple library which wraps Campfire's API
-
 
 h3(#async-flow). "Flow control / Async goodies":#async-flow
 * "async.js":https://github.com/fjakobs/async.js -- Async chaining and file system utilities. Async.js is to node's fs module, what jQuery is to the DOM.
