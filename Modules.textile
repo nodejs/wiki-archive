@@ -309,6 +309,7 @@ h3(#ws-ajax). "Web Sockets & Ajax":#ws-ajax
 * "node-websocket-server":https://github.com/miksago/node-websocket-server -- Another websocket server on top of the http server.
 * "Restler":https://github.com/danwrong/restler -- Simplified REST client for Node.js
 * "node-websocket-client":https://github.com/pgriess/node-websocket-client -- An HTML5 Web Socket client.
+* "Reston":https://github.com/maxpert/Reston -- REST client with multipart support and friendly API
 * "tunguska":https://github.com/kriszyp/tunguska -- A comet publish/subscribe distributed hub (runs across multiple node instances).
 * "grappler":https://github.com/mscdex/grappler -- A minimalistic server for handling "comet" connections that supports a variety of connection methods.
 * "spacesocket":https://github.com/astro/spacesocket -- WebSocket server not invented here
