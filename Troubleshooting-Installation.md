@@ -48,7 +48,13 @@ Also, calling autoconf and/or ./configure may help.
 
 **Solution:**
 
-    $ apt-get install g++
+     $ apt-get install g++
+
+### error: Could not autodetect OpenSSL support.
+
+**Solution:**
+
+    $ apt-get install libcurl4-openssl-dev
 
 ## Thanks
 
