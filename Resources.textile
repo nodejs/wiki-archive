@@ -22,12 +22,12 @@ h2. Articles
 * "Writing a Long Polling Event Server with node":https://go-left.com/blog/programming/long-polling-with-node-js/ -- by Frank Schröder
 
 h2. Talks
-* "GoogleTechTalk: Node.js":http://www.youtube.com/watch?v=F6k8lTrAE2g -- by Ryan Dahl
-* "Node.js at JSConf.eu 2009":http://jsconf.eu/2009/video_nodejs_by_ryan_dahl.html -- by Ryan Dahl
-* "Node.js at JSConf.us 2010":http://nodejs.org/jsconf2010.pdf -- by Ryan Dahl
-* "Running YUI3 on Node.js":http://www.slideshare.net/apmoore/running-yui-3-on-nodejs -- by Adam Moore
-* "Techniques and Tools for Taming Tangled Twisted Trains of Thought":http://www.slideshare.net/creationix/techniques-and-tools-for-taming-tangled-twisted-trains-of-thought -- By Tim Caswell
-* "What Does Node Need From Us?":http://www.slideshare.net/creationix/what-does-node-need-from-us -- By Tim Caswell
-* "SenchaLabs Connect & Express":http://www.slideshare.net/creationix/senchalabs-connect-express -- By Tim Caswell
-* "Real Time Web with Node":http://www.slideshare.net/creationix/real-time-web-with-node -- By Tim Caswell
-* "Node Powered Mobile":http://www.slideshare.net/creationix/node-powered-mobile -- By Tim Caswell
+* "GoogleTechTalk: Node.js":http://www.youtube.com/watch?v=F6k8lTrAE2g -- by Ryan Dahl (video, 2010-07-28)
+* "Node.js at JSConf.eu 2009":http://jsconf.eu/2009/video_nodejs_by_ryan_dahl.html -- by Ryan Dahl (video, 2009-11-08)
+* "Node.js at JSConf.us 2010":http://nodejs.org/jsconf2010.pdf -- by Ryan Dahl (slides PDF, 2010-04-17) 
+* "Running YUI3 on Node.js":http://www.slideshare.net/apmoore/running-yui-3-on-nodejs -- by Adam Moore (slideshare, 2010-04-17)
+* "Techniques and Tools for Taming Tangled Twisted Trains of Thought":http://www.slideshare.net/creationix/techniques-and-tools-for-taming-tangled-twisted-trains-of-thought -- By Tim Caswell (slideshare, 2010-09)
+* "What Does Node Need From Us?":http://www.slideshare.net/creationix/what-does-node-need-from-us -- By Tim Caswell (slideshare, 2010-09-14)
+* "SenchaLabs Connect & Express":http://www.slideshare.net/creationix/senchalabs-connect-express -- By Tim Caswell (slideshare, 2010-09-20)
+* "Real Time Web with Node":http://www.slideshare.net/creationix/real-time-web-with-node -- By Tim Caswell (slideshare, 2010-06-05)
+* "Node Powered Mobile":http://www.slideshare.net/creationix/node-powered-mobile -- By Tim Caswell (slideshare, 2010-06-05)
