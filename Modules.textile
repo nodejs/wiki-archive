@@ -260,6 +260,7 @@ h3(#security). "OpenSSL / Crypto / Hashing":#security
 * "oauthjs":https://github.com/itea/oauthjs -- OAuth client
 * "oauth-server":https://github.com/selead/oauth-server -- OAuth server (1.0A)
 * "node-openid":https://github.com/havard/node-openid -- OpenID 1.1/2.0 Relying Party (client)
+* "pass":https://github.com/andris9/pass -- Validate/generate Apache htpasswd passwords (for Basic Auth)
 * "rbytes":https://github.com/akdubya/rbytes -- Secure random byte generator for session keys, UUIDs, etc.
 * "sasljs":https://github.com/nikhilm/sasljs -- "Gsasl":http://www.gnu.org/software/gsasl/ wrapper to performs server-side SASL authentication.
 * "Hash":https://github.com/michaelsbradleyjr/Hash -- md5, sha1, sha256, sha512, ripemd160 algorithms in JavaScript. Can be used with node.js and browsers.
