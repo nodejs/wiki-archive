@@ -43,6 +43,13 @@ Also, calling autoconf and/or ./configure may help.
     $ make
     $ sudo make install
 
+
+### error: could not configure a cxx compiler!
+
+**Solution:**
+
+    $ apt-get install g++
+
 ## Thanks
 
 [Travis Swicegood](http://www.travisswicegood.com/index.php/2009/07/11/compiling-node-js-on-ubuntu-9-04)
