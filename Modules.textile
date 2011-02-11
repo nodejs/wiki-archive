@@ -266,10 +266,14 @@ h3(#security). "OpenSSL / Crypto / Hashing":#security
 * "Hash":https://github.com/michaelsbradleyjr/Hash -- md5, sha1, sha256, sha512, ripemd160 algorithms in JavaScript. Can be used with node.js and browsers.
 * "node-whirlpool":https://github.com/Sembiance/node-whirlpool -- C/C++ mhash lib wrapper providing whirlpool hash support
 
-h3(#tcp). "TCP / IP":#tcp
-* "node-httpclient":https://github.com/billywhizz/node-httpclient -- Node HTTP Client (gzip, https, cookies etc.)
+h3(#smtp). "SMTP":#smtp
+* "smtp-client":https://github.com/sleeplessinc/smtp-client -- Simple SMTP client supporting AUTH and TLS/SSL (2.4)
 * "node-smtp-client":https://github.com/miksago/node-smtp-client -- Implementation of the SMTP protocol in Node
 * "node-smtp":https://github.com/aredridel/node-smtp -- Implementation of an SMTP server (and soon, client)
+* "node_mailer":https://github.com/marak/node_mailer -- send emails from node.js to an smtp server, simple as cake 
+
+h3(#tcp). "TCP / IP":#tcp
+* "node-httpclient":https://github.com/billywhizz/node-httpclient -- Node HTTP Client (gzip, https, cookies etc.)
 * "node-imap":https://github.com/mscdex/node-imap -- A module for interacting with IMAP mail servers
 * "NodeFTPd":https://github.com/billywhizz/nodeftpd -- Node FTP Server
 * "node-ftpclient":https://github.com/seanhess/node-ftpclient -- Node FTP Client
@@ -629,7 +633,6 @@ h3(#other). "Other":#other
 * "node-Daemon":https://github.com/Eyjafjallajokull/node-Daemon -- Restart node script after each change in main script or its dependencies
 * "node-daemon":https://github.com/theteam/node-daemon -- Node daemon is a simple way to start, stop and restart your node based application without having to manage external scripts.
 * "node-iconv":https://github.com/bnoordhuis/node-iconv -- iconv bindings, character encoding conversion made easy.
-* "node_mailer":https://github.com/marak/node_mailer -- send emails from node.js to an smtp server, simple as cake 
 * "node-fork":https://github.com/ryantenney/node-fork -- C bindings to fork or daemonize the process.
 * "node-genx":https://github.com/wezm/node-genx -- XML generation via the Genx C libary
 * "node-geoip":https://github.com/strange/node-geoip -- geoip city lookup module (uses libgeoip)
