@@ -34,3 +34,7 @@ Example install using [packer](https://aur.archlinux.org/packages.php?ID=33378):
 Using [homebrew](https://github.com/mxcl/homebrew):
 
     brew install node
+
+Using [macports](http://www.macports.org/):
+
+    port install nodejs
