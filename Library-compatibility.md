@@ -6,6 +6,7 @@ h2. Node v0.4.0
 * "madmimi-node v0.1.0":https://github.com/garrensmith/Madmimi-node
 * "node-ncurses @ 1e0d901":https://github.com/mscdex/node-ncurses/tree/1e0d901fbc72efce9d1274afcbb97dce9d846c6b
 * "node-notifo v1.0":https://github.com/nerocreativo/node-notifo/tree/1.0
+* "nohm v0.2":http://github.com/maritz/nohm/tree/v0.2
 
 h2. node v0.3.8
 * "NormAndVal 0.1.0":https://github.com/roberthahn/NormAndVal
