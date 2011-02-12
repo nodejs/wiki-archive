@@ -81,6 +81,7 @@ h2. Projects and Applications
 * "JamBox":http://jambox.us/ – a collaborative real-time musicmaking app.
 * "boxsocial.fm":http://boxsocial.fm/ - Party mode for Last.fm.
 * "CamanJS":https://github.com/meltingice/CamanJS/tree/node - NodeJS port of a Canvas Image Manipulation Library
+* "KansoJS":http://kansojs.org - A surprisingly simple way to write CouchApps, by making use of the design_doc api in the browser
 
 h2. Companies
 * "Academia.edu":http://www.academia.edu/ - uses node for background data processing
