@@ -80,6 +80,7 @@ h2. Projects and Applications
 * "Nodester":http://nodester.com/ — Open source Node.JS hosting platform.
 * "JamBox":http://jambox.us/ – a collaborative real-time musicmaking app.
 * "boxsocial.fm":http://boxsocial.fm/ - Party mode for Last.fm.
+* "CamanJS":https://github.com/meltingice/CamanJS/tree/node - NodeJS port of a Canvas Image Manipulation Library
 
 h2. Companies
 * "Academia.edu":http://www.academia.edu/ - uses node for background data processing
