@@ -581,7 +581,7 @@ h3(#boilerplates). "Boilerplates":#boilerplates
 h3(#other). "Other":#other
 * "behaviors":https://github.com/caolan/behaviors -- A simple way to check a module's exports, useful for 3rd party plugins and extensions
 * "box2dnode":https://github.com/jadell/box2dnode -- Port of the box2d physics simulation library
-* "node-bullet":https://github.com/feisty/bullet -- (Bullet Physics)[http://bulletphysics.org/] for node.js
+* "node-bullet":https://github.com/feisty/bullet -- "Bullet Physics":http://bulletphysics.org/ for node.js
 * "chess":https://github.com/wsdookadr/Q-Chess/blob/rewrite/server/chess.js -- library for checking legal chess moves
 * "chess.js":https://github.com/jhlywa/chess.js -- library for chess move generation, validation, and mate/draw detection
 * "class.js":https://github.com/visionmedia/class.js -- High performance and lightweight class implementation (10-ish SLOC) (! LINK IS 404ing)
