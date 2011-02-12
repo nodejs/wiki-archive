@@ -223,6 +223,7 @@ h3(#css-engines). "CSS Engines":#css-engines
 * "sass.js":https://github.com/visionmedia/sass.js -- Parses Sass templates and renders css.
 * "scss-js":https://github.com/bmavity/scss-js -- Parses SCSS templates and renders css.
 * "carto":https://github.com/mapbox/carto -- Parses MSS templates and renders XML for "Mapnik":http://mapnik.org/
+* "ccss":https://github.com/aeosynth/ccss -- Parses a JavaScript object and renders css.
 
 h3(#build-and-deployment). "Build and Deployment":#build-and-deployment
 * "nodejs-autorestart":https://github.com/shimondoodkin/nodejs-autorestart -- It is a way to watch all .js files if they have been changed and to restart nodejs. It allows easy development and stable production.
