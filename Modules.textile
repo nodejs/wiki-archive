@@ -238,10 +238,7 @@ h3(#build-and-deployment). "Build and Deployment":#build-and-deployment
 * "node-linter":https://github.com/kof/node-linter -- generic lint wrapper for JSLint, closure-linter, closure-compiler, and Javascript Lint.
 
 h3(#package-management). "Package Management Systems":#package-management
-* "kiwi":https://github.com/visionmedia/kiwi -- Feature rich, fast, node.js package management system -- server sponsored by Slicehost ("no longer in active development":http://goo.gl/BqGu)
 * "npm":https://github.com/isaacs/npm -- A node package manager that uses CommonJS-compatible package.json files, written in asynchronous javascript.
-* "mode":https://github.com/rsms/mode -- Distributed Node module repository.  Uses a "github repository":https://github.com/rsms/mode/tree/master/index/ to contain info about installable modules.
-* "seed":http://seedjs.org -- Universal package manager for CommonJS.  Includes command line tools and async server
 
 h3(#module-loader). "Module Loader":#module-loader
 * "nodules":https://github.com/kriszyp/nodules -- Async module loader with dep resolution/downloading and module reloading w/o server restart
