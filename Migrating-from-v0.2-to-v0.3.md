@@ -16,6 +16,8 @@ Many people are running code on the stable branch v0.2. Soon the unstable branch
 
 * `querystring.parse()` and `querystring.stringify()` were [made simpler](https://github.com/ry/node/commit/422d3c93bc7391e105cfb4363011088c27ec86a6). They no longer handle deep objects, for nested support view [node-querystring](http://github.com/visionmedia/node-querystring).
 
+* `querystring.parse()` with `parseQueryString` set to `true` now creates an empty `query` object if there is no query string. In v0.2.6, no object was created in such a case. 
+
 * v0.3.6 introduced a new interface for making outbound http requests: `http.request()` and `http.get()`. Previously users had to construct a `http.Client` instance and issue `client.request()` calls. The old `http.Client` interface is deprecated. The old interface is still supported. `setSecure()` is missing and will not be implemented. Use the new interface for making HTTPS requests. See [the `https` module documentation](https://github.com/ry/node/blob/v0.3.7/doc/api/https.markdown) for the new interface. The old HTTPS implementation was never working properly.
 
 The old http client API:
