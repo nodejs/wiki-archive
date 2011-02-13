@@ -40,7 +40,6 @@ h4(#web-frameworks-micro). "Microframeworks":#web-frameworks-micro
 * "Nerve":https://github.com/gjritter/nerve -- Microframework with simple array-based syntax for defining an app on top of node. (node.JS 0.1.30)
 * "Prick":https://github.com/SingAlong/Prick - tiny web framework
 * "rowan":https://github.com/idmillington/rowan -- A hierarchical microframework of reusable controllers and modular app logic.
-* "scylla":https://github.com/ithinkihaveacat/node-scylla -- Create simple one object applications by doubling up method names as URL-matching patterns (node.JS 0.1.102)
 * "vroom":https://github.com/raycmorgan/vroom/tree/master -- A simple resource oriented web framework built on top of Node.js (November 2009, node.JS 0.1.16)
 * "Picard":https://github.com/dantebronto/picard
 * "simplex":https://github.com/mshakhan/simplex (October 2009, node.JS 0.1.14)
