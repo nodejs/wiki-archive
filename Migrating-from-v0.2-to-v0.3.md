@@ -40,6 +40,7 @@ The new http client API:
 
     var options = {
       host: 'www.google.com',
+      port: 80,
       path: '/',
     };
     http.get(options, function(response) {
