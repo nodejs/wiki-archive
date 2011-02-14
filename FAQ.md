@@ -11,4 +11,4 @@ The official name of Node is "Node". The unofficial name is "Node.js" to disambi
 
 ### What is an easy way to manage Node.js versions / installations?
 
-https://github.com/visionmedia/n
+[[https://github.com/visionmedia/n]]
