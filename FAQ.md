@@ -8,3 +8,7 @@ Odd versions are unstable, even versions are stable. v0.2 and v0.4 are even/stab
 ### What is the correct capitalization of Node.js?
 
 The official name of Node is "Node". The unofficial name is "Node.js" to disambiguate it from other nodes.
+
+### What is an easy way to manage Node.js versions / installations?
+
+https://github.com/visionmedia/n
