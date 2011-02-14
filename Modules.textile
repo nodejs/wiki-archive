@@ -268,6 +268,7 @@ h3(#smtp). "SMTP":#smtp
 * "node-smtp-client":https://github.com/miksago/node-smtp-client -- Implementation of the SMTP protocol in Node
 * "node-smtp":https://github.com/aredridel/node-smtp -- Implementation of an SMTP server (and soon, client)
 * "node_mailer":https://github.com/marak/node_mailer -- send emails from node.js to an smtp server, simple as cake 
+* "Nodemailer":https://github.com/andris9/Nodemailer - Easy to use module to send e-mails with Node.JS, unicode friendly
 
 h3(#tcp). "TCP / IP":#tcp
 * "node-httpclient":https://github.com/billywhizz/node-httpclient -- Node HTTP Client (gzip, https, cookies etc.)
@@ -670,7 +671,6 @@ h3(#other). "Other":#other
 * "node-yql":https://github.com/drgath/node-yql -- A YQL (Yahoo Query Language) module for Node.js
 * "node-zoneinfo":https://github.com/gsmcwhirter/node-zoneinfo -- A wrapper around Date to be able to use zoneinfo file timezone information
 * "node-zookeeper":https://github.com/yfinkelstein/node-zookeeper - Apache Zookeeper client API for node.js
-* "Nodemailer":https://github.com/andris9/Nodemailer - Easy to use module to send e-mails with Node.JS, unicode friendly
 * "NormAndVal":https://github.com/roberthahn/NormAndVal -- Data normalization and validation for Node.js and the browser
 * "nshtools":https://github.com/rsdoiel/nshtools -- a high level shell scripting library for file and operating system chores
 * "odot":https://github.com/tsmith/odot - persistent, code reloading, interactive object space
