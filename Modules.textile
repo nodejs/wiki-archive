@@ -386,7 +386,6 @@ h4(#parsers-xml). "XML":#parsers-xml
 h4(#parsers-commandline). "Command Line Option Parsers":#parsers-commandline
 * "cli":https://github.com/chriso/cli -- Rapidly build command line apps. Full featured opts/args parser + plugin support
 * "argsparser":https://github.com/kof/node-argsparser -- A tiny limited arguments parser, returns a hash.
-* "mingy":https://github.com/mcantelon/node-mingy -- Command parser for CLI tool and adventure game needs. Works well with the optimist module.
 * "optimist":https://github.com/substack/node-optimist -- Light-weight option parsing without optstrings or any of that silliness. It's just a hash!
 * "optparse-js":https://github.com/jfd/optparse-js/tree/master -- Option Parser in JS
 * "parseopt":http://bitbucket.org/panzi/javascript-utils/src/tip/parseopt/ -- Flexible and extensible option parser in JavaScript.
@@ -408,6 +407,7 @@ h4(#parser-generators).  "Parser Generators":#parser_generators
 
 h4(#parsers-other). "Other Parsers":#parsers-other
 
+* "mingy":https://github.com/mcantelon/node-mingy -- Command parser for CLI tool and adventure game needs. Works well with the optimist module.
 * "node-rdf2json":https://github.com/baxtree/node-rdf2json -- A simple RDF/XML to JSON converter
 * "node-brainfuck":https://github.com/masylum/node-brainfuck -- Brainfuck interpreter
 * "node-discount":https://github.com/visionmedia/node-discount -- C markdown parser "discount" bindings
