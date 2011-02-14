@@ -80,3 +80,5 @@ The new http client API:
 ## Broken Modules
 
 It appears that connect-auth (with the GitHub module) is broken in v0.3.  [example application.](https://github.com/aaronblohowiak/connect-auth-37-bug-example)
+
+Seem that node-couchdb (https://github.com/felixge/node-couchdb) doesn't work with node 0.4.
