@@ -1,3 +1,58 @@
+## 2011.02.10, Version 0.4.0 (stable)
+
+* require() improvements (isaacs) 
+  - understand package.json (isaacs)
+  - look for 'node_modules' dir
+
+* cmake fixes (Daniel Gröber)
+
+* http: fix buffer writes to outgoing messages (Russell Haering)
+
+* Expose UCS-2 Encoding (Konstantin Käfer)
+
+* Support strings for octal modes (isaacs)
+
+* Support array-ish args to Buffer ctor (isaacs)
+
+* cygwin and mingw improvements (Bert Belder)
+
+* TLS improvements
+
+* Fewer syscalls during require (Bert Belder, isaacs)
+
+* More DTrace probes (Bryan Cantrill,  Robert Mustacchi)
+
+* 'pipe' event on pipe() (Mikeal Rogers)
+
+* CRL support in TLS (Theo Schlossnagle)
+
+* HTTP header manipulation methods (Tim Caswell, Charlie Robbins)
+
+* Upgrade V8 to 3.1.2
+
+
+## 2011.02.04, Version 0.3.8 (unstable)
+
+* Add req.abort() for client side requests.
+
+* Add exception.code for easy testing:
+  Example: if (err.code == 'EADDRINUSE');
+
+* Add process.stderr.
+
+* require.main is the main module. (Isaac Schlueter)
+
+* dgram: setMulticastTTL, setMulticastLoopback and addMembership.
+  (Joe Walnes)
+
+* Fix throttling in TLS connections
+
+* Add socket.bufferSize
+
+* MinGW improvements (Bert Belder)
+
+* Upgrade V8 to 3.1.1
+
 ## 2011.01.27, Version 0.3.7 (unstable)
 
 * Expose agent in http and https client. (Mikeal Rogers)
