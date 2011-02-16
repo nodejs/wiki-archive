@@ -47,7 +47,7 @@ Some people have reported problems getting this to work. If you are affected by 
 ### Build fails with msvc / Microsoft Visual Studio installed
 Having Microsoft Visual Studio installed confuses the V8 build system. This is a know issue, there is currently no good solution for it.
 
-Then you need to fix toolician for scons: 'tools/scons/scons-local-1.2.0/SCons/Tool/'__init__'.py'.
+Then you need to fix toolician for scons: 'tools/scons/scons-local-1.2.0/SCons/Tool/\__init__.py'.
 
         if str(platform) == 'win32':
             "prefer Microsoft tools on Windows"
