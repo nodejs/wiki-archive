@@ -125,6 +125,7 @@ h2. Companies
 * "Newspaper Club":http://www.newspaperclub.co.uk - Uses node.js for wrapping a nasty SOAP interface to InDesign Server.
 * "Next Feature":http://www.nextfeature.com
 * "Next Please!":http://nextplea.se - uses node to match "Adobe Stratus":http://labs.adobe.com/technologies/stratus/ id's.
+* "Next Generation Spinners":http://www.ngspinners.com/ - Supporting web developers, developing next generation tools. Database - Server - Browser - Language.
 * "nitobi":http://nitobi.com
 * "Nodejitsu":http://nodejitsu.com Hosting and ninja training for node.js.
 * "OPOWER":http://opowerjobs.com - Using Node for recruiting site, referral tracking, and other new projects.
