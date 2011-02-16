@@ -25,10 +25,10 @@ This will assume you're checking out and compiling node in `c:\node`.
 
 # Building with SSL support
 
-To build node with ssl support you need to build OpenSSL first. By default the node build script will look for openssl in `..\openssl`, so if you put node in `c:\node` it will expect that openssl is `c:\openssl`.
+To build node with ssl support you need to build OpenSSL first.
 
 * Download OpenSSL from [openssl.org](http://www.openssl.org/source/)
-* Untar it
+* Untar it. By default the node build script will look for openssl in `..\openssl`, so if you put node in `c:\node` it will expect that openssl is `c:\openssl`.
 * Configure with `./configure no-shared mingw`
 * Build with `make`
 * Do not attempt to `make install` openssl
