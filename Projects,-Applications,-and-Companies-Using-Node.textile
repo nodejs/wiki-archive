@@ -152,6 +152,7 @@ h2. Companies
 * "Voxer":http://voxer.com -- Walkie Talkie for your iOS device, backend uses all kinds of node
 * "Webbynode":http://webbynode.com
 * "Webdigi Web Development":http://www.webdigi.co.uk -- Web development agency based in London, UK
+* "Well.ca":http://well.ca - Canada's largest online pharmacy
 * "Widescript":http://widescript.com -- A digital reading app targeted to people who study or make use of reference material.
 * "Yammer":https://www.yammer.com -- The Yammer Application Platform heavily uses node.js
 * "Ylastic":http://ylastic.com/ - uses node for report processing and admin app
