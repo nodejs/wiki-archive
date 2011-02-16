@@ -23,6 +23,19 @@ This will assume you're checking out and compiling node in `c:\node`.
 * `make`
 * `./node.exe`
 
+# Building with SSL support
+
+To build node with ssl support you need to build OpenSSL first. By default the node build script will look for openssl in `..\openssl`, so if you put node in `c:\node` it will expect that openssl is `c:\openssl`.
+
+* Download OpenSSL from [openssl.org](http://www.openssl.org/source/)
+* Untar it
+* Configure with `./configure no-shared mingw`
+* Build with `make`
+* Do not attempt to `make install` openssl
+* Reconfigure node without the --without-ssl option. 
+* If `./configure` does not detect openssl automatically, use the `--openssl-libpath` and `--openssl-includes` options to tell it where it can find openssl.
+* Rebuild node with `make`
+
 # Known issues
 
 These are known issues with the build process. A list of known issues with mingw-built node can be found found in [TODO.win32](https://github.com/ry/node/raw/master/TODO.win32).
@@ -46,28 +59,3 @@ Fix above to following(changing order of c_compilers).
             "prefer Microsoft tools on Windows"
             linkers = ['mslink', 'gnulink', 'ilink', 'linkloc', 'ilink32' ]
             c_compilers = ['mingw', 'msvc', 'gcc', 'intelc', 'icl', 'icc', 'cc', 'bcc32' ]
-
-
-### ./configure can't find openssl
-Linking with openssl is currently unsupported. Use `./configure --without-ssl`.
-
-There is few openssl packages working on win32. But it is difference about linker options.
-Below is a workaround that I tried.
-
-1. Open editor to modify 'wscript'.
-2. Comment out 262-264. and add following.
-
-        conf.env["USE_OPENSSL"] = Options.options.use_openssl = True
-        conf.env.append_value("CPPFLAGS", "-DHAVE_OPENSSL=1")
-
-3. configure & mingw32-make. You'll get fail to link.
-4. Open editor to modify 'build/c4che/default.cache.py'. And Change LIB and LIB_OPENSSL.
-
-  I succeeded to compile nodejs-SSL on mingw32 with following.
-
-    LIB = ['ws2_32', 'winmm', 'pthread.dll', 'ssl32']
-    LIBPATH_ST = '-L%s'
-    LIB_CEIL = ['m']
-    LIB_DL = ['dl']
-    LIB_OPENSSL = ['crypto', 'gdi32']
-
