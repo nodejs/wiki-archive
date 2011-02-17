@@ -118,7 +118,7 @@ You have to remove the old build files.
     $ git clean -f -d -x
 and re-run make.
 
-You may also experience this problem when trying to build v0.4.0, try updating your version of gcc.
+You may also experience this problem when trying to build v0.4.0, try updating your version of gcc (v8 in v0.4.0 requires gcc-4.x to compile).
 
 Help! I've done EVERYTHING above and I'm still having issues…
 ====
