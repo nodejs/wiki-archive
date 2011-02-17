@@ -670,6 +670,7 @@ h3(#other). "Other":#other
 * "node-twiml":https://github.com/derferman/node-twiml -- Easy TwiML creation in node.js
 * "node-ugly":https://github.com/felixge/node-ugly -- Allows to run PHP code from within node.js
 * "node-uneval":https://github.com/chakrit/node-uneval -- Adds uneval() support to node.js
+* "node-url-expander":https://github.com/cakebaker/node-url-expander -- An url expander.
 * "node-worker":https://github.com/cramforce/node-worker -- An implementation of the WebWorker API for node.js
 * "node-webworker":https://github.com/pgriess/node-webworker -- An implementation of the HTML5 Web Worker API.
 * "node-yui3":https://github.com/davglass/nodejs-yui3 -- Use the "YUI 3":http://developer.yahoo.com/yui/3 JS library from node.js
