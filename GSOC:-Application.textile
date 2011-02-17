@@ -40,7 +40,7 @@ Node is a young and active project. There are several large, independent tasks t
 (No previous application)
 
 *What is the URL for your ideas page?*
-"http://wiki.github.com/ry/node/google-summer-of-code-2010-ideas":http://wiki.github.com/ry/node/google-summer-of-code-2010-ideas
+"http://github.com/ry/node/wiki/Google-Summer-Of-Code-2010:-Ideas":http://github.com/ry/node/wiki/Google-Summer-Of-Code-2010:-Ideas
 
 *What is the main development mailing list for your organization? This question will be shown to students who would like to get more information about applying to your organization for GSoC 2010. If your organization uses more than one list, please make sure to include a description of the list so students know which to use.*
 
