@@ -112,9 +112,7 @@ This comes about when $SHELL has a windows based path instead of  a unix based o
     export SHELL=/bin/bash
 and re-run make.
 
-Note: v8 requires gcc-4.x to compile. If you still failed here, check gcc version.
-
-You may also experience this problem when trying to build v0.4.0, try updating your version of gcc.
+You may also experience this problem when trying to build v0.4.0, try updating your version of gcc(v8 in v0.4.0 requires gcc-4.x to compile).
 
 Help! I've done EVERYTHING above and I'm still having issues…
 ====
