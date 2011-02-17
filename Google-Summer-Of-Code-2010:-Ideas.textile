@@ -29,3 +29,5 @@ h2. Other
 * A graphics library, ideally using the same API as html canvas (a solid set of low level bindings to Cairo or AGG or Skia would suffice) - this is being worked on by a few people
 * Implement a well-documented, @require()@able message queue server (using AMQP?)
 * Implement a well-documented, @require()@able IRC server
+
+_[KDE SOC ideas](http://community.kde.org/GSoC/2010/Ideas) is a great place to look for a template for ideas_
