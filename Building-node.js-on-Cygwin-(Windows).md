@@ -106,15 +106,6 @@ Cygwin is returning the wrong CPU architecture (usually `uname` from minGw gets 
 
     $ ./configure --dest-cpu=ia32
 
-Error: prototype for ‘v8::internal::Sampler::Sampler(int, bool)’ does not match any in class ‘v8::internal::Sampler’
-----
-This is a v8 issue. To resolve this:
-
-Download and apply this patch for [deps/v8/src/platform-cygwin.cc](http://nodejs.googlegroups.com/attach/8c24ccb4b209572f/cygwin_033.patch?gda=3gXBKEcAAADJGyyZmWU5Ct7DEbvXm_oaF2J3Emxhh_MkFLdNUXdQOhhcOFKy5Im8CsmuOI0s2BYbQwFxJw55cVwemAxM-EWmeV4duv6pDMGhhhZdjQlNAw&view=1&part=4)
-
-    cd node-v0.3.3/
-    git apply ./cygwin_033.patch
-
 Build failed:  -> task failed (err #2): 	{task: libv8.a SConstruct -> libv8.a}
 ----
 This comes about when $SHELL has a windows based path instead of  a unix based one.  E.g., C:\bin\bash instead of of /bin/bash. So, try, 
