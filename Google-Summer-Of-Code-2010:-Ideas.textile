@@ -30,4 +30,4 @@ h2. Other
 * Implement a well-documented, @require()@able message queue server (using AMQP?)
 * Implement a well-documented, @require()@able IRC server
 
-_[KDE SOC ideas](http://community.kde.org/GSoC/2010/Ideas) is a great place to look for a template for ideas_
+_"KDE SOC ideas":http://community.kde.org/GSoC/2010/Ideas is a great place to look for a template for ideas_
