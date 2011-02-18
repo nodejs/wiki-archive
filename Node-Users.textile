@@ -303,6 +303,8 @@ h2. UTC-5 (-4)
 ** "GitHub":http://github.com/silas, "Twitter":http://twitter.com/silassewell, "Website":http://www.silassewell.com
 * Daniel Ennis (Aikar), Raleigh, NC
 ** "GitHub":http://github.com/Aikar, "Twitter":http://twitter.com/Aikar, "Website":http://aikar.co, 
+* James Sun
+** "Twitter":http://twitter.com/jamessun, "GitHub":http://github.com/jamessun/, "Website":http://www.agilemediaventures.com
 
 h2. UTC-4 (-3)
 
