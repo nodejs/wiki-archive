@@ -128,6 +128,8 @@ h2. UTC-8
 ** "GitHub":http://github.com/soldair, "Twitter":http://twitter.com/soldair, "Website":http://ryanday.org
 * Huned Botee (huned), San Francisco, CA
 ** "GitHub":http://github.com/huned, "Twitter":http://twitter.com/huned, "Website":http://hunedbotee.com
+* Joe Hitchens (sleeplessinc), Port Orchard, WA
+** "GitHub":http://github.com/sleeplessinc, "Website":http://sleepless.com
 
 h2. UTC-7 (-6)
 * Aria Stewart (Aria, aredridel), Ridgway, CO, US
