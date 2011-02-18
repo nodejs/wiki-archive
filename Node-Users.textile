@@ -515,6 +515,8 @@ h2. UTC+1 (+2)
 ** "GitHub":http://github.com/podviaznikov, "Twitter":http://twitter.com/podviaznikov
 * Kilian Ciuffolo (kilianc), Brescia, IT
 ** "GitHub":http://github.com/kilianc, "Twitter":http://twitter.com/keysee, "Website":http://www.nailik.org
+* Jean-Cédric Thérond (Kane-Thornwyrd), Paris, Fr
+** "GitHub":https://github.com/kane-thornwyrd, "Twitter":https://twitter.com/#!/Kane_Thornwyrd, "Website":http://jean.cedric.t.free.fr
 
 h2. UTC+2 (+3)
 * Aurimas Rimša, Lithuania
