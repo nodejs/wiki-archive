@@ -17,6 +17,7 @@ h2. Web
 h2. Bindings
 
 * <strike>Async MySQL bindings - using "MySAC":http://freshmeat.net/projects/mysac</strike>
+* Net-SNMP bindings (http://www.net-snmp.org/)
 
 h2. Other
 
