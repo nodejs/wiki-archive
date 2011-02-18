@@ -282,7 +282,7 @@ h3(#tcp). "TCP / IP":#tcp
 * "node-get":https://github.com/tmcw/node-get -- Moderately higher-level HTTP client library.
 * "xmpp.js":http://xmppjs.prosody.im/ -- Library for implementing XMPP server components with Node
 * "node-http-digest":https://github.com/codehero/node-http-digest -- Node HTTP Client with support for Digest Authentication
-* "request":https://github.com/mikeal/node-utils/tree/master/request/ -- Simple HTTP client library.
+* "request":https://github.com/mikeal/request -- Simple HTTP client library.
 * "node-xmpp":https://github.com/astro/node-xmpp -- Node XMPP library
 * "node-snpp":https://github.com/jsanders/node-snpp -- Node SNPP server library
 * "mdns":https://github.com/agnat/node_mdns -- mdns/zeroconf/bonjour service discovery add-on
