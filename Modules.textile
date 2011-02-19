@@ -474,6 +474,7 @@ h3(#debugging). "Debugging / Console Utilities":#debugging
 * "node-inspector":https://github.com/dannycoates/node-inspector -- browser based node debugger
 * "node-cli":https://github.com/SchizoDuckie/Node-CLI/ -- cli.clear().move(20,20).color('green').write('Node-cli').down(1).back(7).color('yellow').write('Rocks!')
 * "v8-profiler":https://github.com/dannycoates/v8-profiler -- v8 profiler bindings with node-inspector integration
+* "webrepl":https://github.com/mmattozzi/webrepl -- Serve a repl for a node process via a simple web ui
 
 h3(#compression). "Compression":#compression
 * "node-compress":https://github.com/waveto/node-compress -- streaming compression / gzip library
