@@ -363,6 +363,7 @@ h3(#testing). "Testing / Spec Frameworks":#testing
 * "soda-runner":https://github.com/doug-martin/soda-runner -- Provides a command line interface, runner, and selenium ide adapter for for soda.
 * "Speks":https://github.com/ecavazos/speks -- A specification framework for your node-code
 * "testosterone":https://github.com/masylum/testosterone -- Virile testing for http servers or any nodejs application.
+* "twerp":https://github.com/philjackson/twerp -- Simple test framework which is suited to Coffeescript users. Synchronous, simple and easy. 
 * "uubench":https://github.com/akdubya/uubench -- A tiny asynchronous JavaScript benchmarking library
 * "Vows":https://github.com/cloudhead/vows -- asynchronous behaviour-driven development for node.js 
 * "zombie.js":https://github.com/assaf/zombie -- Insanely fast, full-stack, headless testing using node.js
