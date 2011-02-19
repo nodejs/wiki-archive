@@ -205,6 +205,7 @@ h3(#templating). "Templating":#templating
 * "jsdom":https://github.com/tmpvar/jsdom -- pure js implementation of the dom level 1 with some browser augmentation. Level 2 and 3 are being considered.
 * "less.js":https://github.com/cloudhead/less.js -- official port of Less to javascript/node.
 rendering process.
+* "minimal.js":https://github.com/ruidlopes/minimal.js -- a fast HTML+JSON template engine (both browser and Node.js compatible)
 * "Mu (Mustache)":https://github.com/raycmorgan/Mu -- A Mustache engine that compiles templates into very fast rendering functions. Also streams the 
 * "nTPL":https://github.com/donnerjack13589/nTPL -- Fast & Native extendable template system
 * "nodejs-meta-templates":https://github.com/shimondoodkin/nodejs-meta-templates -- like php mixed with html, processed twice, 1st  static data, 2nd dynamic data.
