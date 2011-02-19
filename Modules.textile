@@ -139,6 +139,7 @@ h3(#database). "Database":#database
 * "JSLINQ":https://github.com/marak/JSLINQ -- Clean and simple port of Microsoft's LINQ to node.js (and the browser)
 * "keys":https://github.com/visionmedia/keys -- Unified interface for key/value store clients
 * "kyoto-client":https://github.com/wezm/kyoto-client -- A client for the Kyoto Tycoon key-value store
+* "node-cask":https://github.com/randomekek/node-cask -- A 140 loc mmap-ed key/value store, based on bitcask
 * "node-couch":https://github.com/sixtus/node-couch/tree/master -- a CouchDB connector
 * "node-couchdb":https://github.com/felixge/node-couchdb -- A full API implementation
 * "node-couchdb-min":https://github.com/rsms/node-couchdb-min -- Light-weight client with low level of abstraction and connection pooling.
