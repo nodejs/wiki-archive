@@ -1,0 +1,1 @@
+* a DOM-like interface to creating ncurses console
