@@ -107,6 +107,7 @@ h4(#middleware). "Middleware":#middleware
 * "proxy-tamper":https://github.com/tsyd/proxy-tamper -- A proxy server that allows for the tampering of requests and responses.
 * "node-facebook-session-cookie":https://github.com/jonashuckestein/node-facebook-session-cookie -- eats facebook cookies from client FB.login() and makes the session available as req.fb_session (Connect)
 * "connect-force-domain":https://github.com/shapeshed/connect-force-domain -- force all visitors onto a single domain  (Connect)
+* "googleclientlogin":https://github.com/Ajnasz/GoogleClientLogin -- Log in to Google services using CllientLogin method
 
 h4(#web-frameworks-other). "Other":#web-frameworks-other
 * "Alligator":https://github.com/mrohad/Alligator -- Application Server on top of NodeJS (JSSP and SSJS support)
