@@ -270,6 +270,7 @@ h3(#security). "OpenSSL / Crypto / Hashing":#security
 * "sasljs":https://github.com/nikhilm/sasljs -- "Gsasl":http://www.gnu.org/software/gsasl/ wrapper to performs server-side SASL authentication.
 * "Hash":https://github.com/michaelsbradleyjr/Hash -- md5, sha1, sha256, sha512, ripemd160 algorithms in JavaScript. Can be used with node.js and browsers.
 * "node-whirlpool":https://github.com/Sembiance/node-whirlpool -- C/C++ mhash lib wrapper providing whirlpool hash support
+* "NodeJS-Keychain":https://github.com/aschlosberg/NodeJS-Keychain -- A security-oriented keychain web service
 
 h3(#smtp). "SMTP":#smtp
 * "node-smtpclient":https://github.com/sleeplessinc/node-smtpclient -- Simple SMTP that uses AUTH and TLS/SSL (2.4)
