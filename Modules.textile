@@ -418,7 +418,7 @@ h4(#parser-generators).  "Parser Generators":#parser_generators
 * "OMeta Javascript compiler":http://tinlizzie.org/ometa-js/#JavaScript_Compiler
 
 h4(#parsers-other). "Other Parsers":#parsers-other
-
+* "benejson":https://github.com/codehero/benejson -- Includes pure javascript incremental JSON parser
 * "mingy":https://github.com/mcantelon/node-mingy -- Command parser for CLI tool and adventure game needs. Works well with the optimist module.
 * "node-rdf2json":https://github.com/baxtree/node-rdf2json -- A simple RDF/XML to JSON converter
 * "node-brainfuck":https://github.com/masylum/node-brainfuck -- Brainfuck interpreter
