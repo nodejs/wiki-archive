@@ -755,4 +755,4 @@ h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":
 h2(#coffee-script). "CoffeeScript modules":#coffee-script
 
 * "simple":https://github.com/dvv/simple -- Simple JSON REST/RPC server secured by Object Capability
-* "simple-geoip":https://github.com/dvv/simple-geoip -- Simple _native_ maxmind GeoIP lookup. 4-6 times faster than node-maxmind-native. See wiki for details
+* "simple-geoip":https://github.com/dvv/simple-geoip -- Simple _native_ maxmind GeoIP lookup. 4-6 times faster than node-maxmind-native. See wiki for details. Compiled database of countries "geo.json":https://github.com/dvv/simple-geoip/raw/master/geo.json is available
