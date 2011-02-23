@@ -143,6 +143,7 @@ h2. Companies
 * "Sentymetr":http://sentymetr.pl - Social media monitoring in Poland. We use JavaScript and node.js for data processing.
 * "Sexbyfood":http://www.sexbyfood.com -- a web-based reservations book for restaurateurs
 * "Shine Technologies":http://www.shinetech.com/ -- Software consultancy with offices in Brisbane & Melbourne. We're helping our client to rewrite one of Australia's largest web sites using node.
+* "Shiny Ads":http://www.ShinyAds.com/ -- Self-Serve Advertising platform for online publishers.  Using node.js for a super-fast/low memory internal ad server.
 * "SitePen":http://www.sitepen.com/ - Using node for persevere
 * "Siteworx":http://www.siteworx.com/
 * "Sleepless Software Inc.":http://sleepless.com - Servers for large scale Facebook games.
