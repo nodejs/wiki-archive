@@ -112,6 +112,7 @@ h2. Companies
 * "Humansized Inc.":http://www.humansized.com
 * "IDFuze":http://www.idfuze.com - Working on a real time cards game using node.js and socket.io
 * "ipowerhouse":http://www.ipowerhouse.com - Focused on haXe/Node.js  game dev; first all haxe/node bingo product.
+* "Joshfire":http://www.joshfire.com/ - Internet Of Things company, Multi-device app development
 * "Joyent":http://www.joyent.com/
 * "Kodingen":http://kodingen.com/ - Cloud IDE using nodejs backend to execute tasks.
 * "LearnBoost":http://www.learnboost.com/ - free "gradebook":http://www.learnboost.com and lesson plan software
