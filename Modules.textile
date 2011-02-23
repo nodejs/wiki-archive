@@ -279,6 +279,7 @@ h3(#smtp). "SMTP":#smtp
 * "node-smtp":https://github.com/aredridel/node-smtp -- Implementation of an SMTP server (and soon, client)
 * "node_mailer":https://github.com/marak/node_mailer -- send emails from node.js to an smtp server, simple as cake 
 * "Nodemailer":https://github.com/andris9/Nodemailer - Easy to use module to send e-mails with Node.JS, unicode friendly
+* "emailjs":https://github.com/eleith/emailjs - send emails, html and attachments from node.js to any smtp server (ex: gmail)
 
 h3(#tcp). "TCP / IP":#tcp
 * "node-httpclient":https://github.com/billywhizz/node-httpclient -- Node HTTP Client (gzip, https, cookies etc.)
