@@ -1,0 +1,3 @@
+## Try/Catch blocks can be expensive inside functions
+
+If you have a function that has performance critical code in it (particularly if it's allocating a lot of variables), then don't use a try/catch inside the function.  Catch the errors from outside the function instead. [See this mailing list thread for background](https://groups.google.com/forum/#!topic/nodejs-dev/E-Re9KDDo5w) and [this performance test case.](http://jsperf.com/try-catch-performance-overhead)
