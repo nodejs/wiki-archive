@@ -605,6 +605,7 @@ h3(#other). "Other":#other
 * "chess.js":https://github.com/jhlywa/chess.js -- library for chess move generation, validation, and mate/draw detection
 * "closure":https://github.com/lm1/node-closure -- Google closure library wrapper for node.js
 * "cookie-node":https://github.com/jed/cookie-node/ -- signed cookie functionality for node.js
+* "node-cuda":https://github.com/kashif/node-cuda -- NVIDIA CUDA bindings for node.js
 * "node-cookiejar":https://github.com/bmeck/node-cookiejar -- repetitive use cookie jar construction / cookie functionality
 * "daemon.node":https://github.com/Slashed/daemon.node/ -- Unix/Linux Daemons with node.js
 * "datejs":https://github.com/chrisdew/datejs -- DateJS wrapped up as an NPM package for node.js
