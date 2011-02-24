@@ -29,7 +29,7 @@ This tutorial will guide you through setting up the latest stable version of nod
 2. It's time to clone the Git repository and build node.js. Start a new Cygwin shell (bash, zsh, etc.), open `Start → Cygwin → Cygwin Bash Shell`. Run the following commands:
 
        $ cd ~
-       $ git clone git://github.com/ry/node.git
+       $ git clone git://github.com/joyent/node.git
        $ cd node
        $ git fetch --all
        # if the above fails complaining --all is not recognised, try: git fetch origin
