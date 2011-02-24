@@ -12,10 +12,3 @@ h2. Git commits
 # should have the author field properly filled out with your full
 name and email address.
 
-h2. Documentation Contributions
-
-- For contributing to the documentation, send pull requests to: "http://github.com/votizen/node.git":http://github.com/votizen/node
-- For current issues relating to documentation, see: "votizen/node/issues":http://github.com/votizen/node/issues/
-- As for the outline of where we are heading with the documentation, see "google groups documentation thread":http://groups.google.com/group/nodejs-dev/browse_thread/thread/7ee4d9bbb79e0481 or "the etherpad document":http://typewith.me/ep/pad/view/improve-node-docs/rev.1811:
-- For conversations about the documentation, the mailing list to use is this one (nodejs-dev@googlegroups.com), and the subject should be prefixed with "Doc: ".
-
