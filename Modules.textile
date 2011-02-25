@@ -492,6 +492,7 @@ h3(#compression). "Compression":#compression
 * "node-zipfile":https://github.com/springmeyer/node-zipfile -- inspect and uncompress zipfile archives (C++ around libzip)
 
 h3(#graphics). "Graphics":#graphics
+* "drawback": https://github.com/LearnBoost/drawback -- Seamless way to render 2D drawings on the client side using HTML5 technologies with a server-side backend.
 * "node-canvas":https://github.com/learnboost/node-canvas -- High performance canvas implementation backed by the phenomenal Cairo graphics library
 * "node-o3-canvas":https://github.com/ajaxorg/node-o3-canvas -- Fast HTML5 Canvas and image processing implementation based on AGG
 * "node-gd":https://github.com/taggon/node-gd -- GD graphic library bindings
