@@ -2,7 +2,7 @@
 [Node.js is available in official repo for Debian Wheezy(testing) and Debian Sid(unstable)](http://packages.debian.org/search?searchon=names&keywords=nodejs).  
 For Debian Squeeze:
 
-    root@host: ~ # echo deb http://ftp.us.debian.org/debian/ wheezy main > /etc/apt/sources.list.d/wheezy.list
+    root@host: ~ # echo deb http://ftp.us.debian.org/debian/ sid main > /etc/apt/sources.list.d/wheezy.list
     root@host: ~ # /usr/bin/aptitude update;/usr/bin/aptitude safe-upgrade # Nice idea to alias this to 'cu'
     root@host: ~ # aptitude install nodejs # Documentation is great.
 
