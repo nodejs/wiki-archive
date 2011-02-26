@@ -567,7 +567,7 @@ h3(#async-flow). "Flow control / Async goodies":#async-flow
 * "async.js":https://github.com/fjakobs/async.js -- Async chaining and file system utilities. Async.js is to node's fs module, what jQuery is to the DOM.
 * "async":https://github.com/caolan/async -- Comprehensive async map/reduce and flow control (parallel, series, waterfall, auto...) module that works in node and the browser
 * "chainsaw":https://github.com/substack/node-chainsaw -- Build chainable fluent interfaces the easy way in node.js
-* "cinch":https://github.com/pguillory/cinch -- Write async code in sync form.
+* "Cinch":https://github.com/pguillory/cinch -- Write async code in sync form.
 * "fiberize":https://github.com/lm1/node-fiberize -- Node API wrapper for use with fibers.
 * "fibers":https://github.com/laverdet/node-fibers -- The closest thing to a thread you'll find in Javascript
 * "fibers-promise":https://github.com/lm1/node-fibers-promise -- Small yet powerful promises based on fibers.
