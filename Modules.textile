@@ -458,6 +458,7 @@ h4(#parsers-other). "Other Parsers":#parsers-other
 * "node-formidable":https://github.com/felixge/node-formidable - A node.js module for parsing form data, especially file uploads.
 * "CSSOM":https://github.com/NV/CSSOM - CSS parser and CSS Object Model implementation.
 * "glossy":https://github.com/squeeks/glossy - Syslog message parser and producer
+* "UglifyJS":https://github.com/mishoo/UglifyJS - JavaScript parser and compressor/beautifier
 
 h3(#debugging). "Debugging / Console Utilities":#debugging
 * "ain":https://github.com/akaspin/ain -- Brain-free syslog logging
