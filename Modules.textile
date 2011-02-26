@@ -591,6 +591,7 @@ h3(#async-flow). "Flow control / Async goodies":#async-flow
 * "Slide":https://github.com/isaacs/slide-flow-control  -- A flow control library that fits in a slide presentation
 * "soda.js":https://github.com/tomyan/soda -- Asynchonous JavaScript module loader for client-side and Node.js
 * "Step":https://github.com/creationix/step -- Tool for grouping and chaining asynchronous callbacks, based on "flow-js":https://github.com/willconant/flow-js
+* "streamline.js":https://github.com/Sage/streamlinejs -- Tool that transforms synchronous code into asynchronous code with callbacks. 
 
 h3(#i18n). "I18n and L10n modules":#i18n
 * "Lingo":http://bit.ly/cuaHAh -- Inflection, transformation and more
