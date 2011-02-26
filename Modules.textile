@@ -416,7 +416,7 @@ h4(#parser-generators).  "Parser Generators":#parser_generators
 * "canopy":https://github.com/jcoglan/canopy -- PEG parser compiler for JavaScript
 * "jison":https://github.com/zaach/jison -- A parser generator written in JavaScript; similar to Bison for C
 * "PEG.js":http://pegjs.majda.cz/ -- Parser Generator for JavaScript
-* "inimino's PEG":http://inimino.org/~inimino/blog/peg_first_release -- A PEG Packrat Parser Generator for JavaScript
+* "PanPG":http://boshi.inimino.org/3box/PanPG/about.html -- A PEG Packrat Parser Generator for JavaScript
 * "jparse":https://github.com/doublec/jsparse -- A parser combinator for javascript based on Packrat parsers and Parsing expression grammars
 * "ReParse":https://github.com/weaver/ReParse -- A parser combinator library for Javascript like Haskell's Parsec
 * "OMeta Javascript compiler":http://tinlizzie.org/ometa-js/#JavaScript_Compiler
