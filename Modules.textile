@@ -258,6 +258,7 @@ h3(#module-loader). "Module Loader":#module-loader
 h3(#security). "OpenSSL / Crypto / Hashing":#security
 * "packnode":https://github.com/chriso/packnode -- Obfuscate, minify and/or encrypt JS files
 * "hashlib":https://github.com/brainfucker/hashlib -- Fast hashing module, written in C/C++, supports: md4, md5, md6, sha, sha1, sha256, sha512
+* "keygrip":https://github.com/jed/keygrip -- Key signing and verification for rotated credentials
 * "brainfucker's node-base64":https://github.com/brainfucker/node-base64 -- C++ base64 lib
 * "pkrumins's node-base64":https://github.com/pkrumins/node-base64 -- C++ base64 lib that actually works
 * "amir's node-base62":https://github.com/amir/node-base62 -- C++ base62 lib for representing big numbers
