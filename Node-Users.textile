@@ -307,6 +307,8 @@ h2. UTC-5 (-4)
 ** "GitHub":http://github.com/Aikar, "Twitter":http://twitter.com/Aikar, "Website":http://aikar.co, 
 * James Sun
 ** "Twitter":http://twitter.com/jamessun, "GitHub":http://github.com/jamessun/, "Website":http://www.agilemediaventures.com
+* Daniel Luxemburg, New York NY
+** "Twitter":http://twitter.com/dluxemburg, "GitHub":https://github.com/dluxemburg
 
 h2. UTC-4 (-3)
 
