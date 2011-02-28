@@ -152,6 +152,7 @@ h2. Companies
 * "TRData Limited":https://trdata.com - real-time data processing and comet-server
 * "URGE IO":http://urge.io
 * "Vision Media":http://vision-media.ca -- Web development firm based in Victoria, BC
+* "Votizen":http://votizen.com -- Social lobbying for registered voters.
 * "Voxer":http://voxer.com -- Walkie Talkie for your iOS device, backend uses all kinds of node
 * "Webbynode":http://webbynode.com
 * "Webdigi Web Development":http://www.webdigi.co.uk -- Web development agency based in London, UK
