@@ -33,6 +33,10 @@ Example install using [packer](https://aur.archlinux.org/packages.php?ID=33378):
     packer -S nodejs
 
 ## OSX
+Using [a package](https://sites.google.com/site/nodejsmacosx)
+
+> Simply [download](https://sites.google.com/site/nodejsmacosx) and double-click.
+
 Using [homebrew](https://github.com/mxcl/homebrew):
 
     brew install node
