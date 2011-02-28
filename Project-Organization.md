@@ -20,4 +20,4 @@ There are a number of people who are very involved with development and generall
 * Paul Querna (pquerna)
 * Matt Ranney (mjr_)
 * Mikeal Rogers (mikeal)
-* Micheil Smith (micheil)
+* Micheil Smith (micheil / miksago)
