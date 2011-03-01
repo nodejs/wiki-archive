@@ -10,6 +10,7 @@ h2. Node v0.4.0
 * "node-beaconpush v0.1.0":https://github.com/cgbystrom/node-beaconpush
 * "node-syslog":http://github.com/schamane/node-syslog
 * "node-sqlite3":https://github.com/developmentseed/node-sqlite3
+* "node2node-socket.io":https://github.com/dotmaster/node2node-socket.io
 
 h2. node v0.3.8
 * "NormAndVal 0.1.0":https://github.com/roberthahn/NormAndVal
