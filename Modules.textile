@@ -633,6 +633,7 @@ h3(#other). "Other":#other
 * "GeoIP":https://github.com/kuno/GeoIP -- Get geolocation information based on domain or IP address
 * "Grillode":https://github.com/stephenmcd/grillode -- Chat server with various modes such as customer support queues, fixed rooms or Chatroulette random matchups. Written in CoffeeScript and uses express, socket.io and Coffeekup.
 * "goog":https://github.com/hsch/node-goog -- Server-side Google Closure with Node.js
+* "gss":https://github.com/DTrejo/gss -- Golden Section Search for javascript. A line search technique used to *minimize* or *maximize* the output a function.
 * "hub.js":https://github.com/greut/hubbub.js -- in-memory and in progress PubSubHubBub server
 * "IRC-js":https://github.com/gf3/IRC-js -- An IRC library for node.js 
 * "Jefe":https://github.com/fictorial/jefe -- Jefe is a safe sandbox for running user scripts in Node.js
