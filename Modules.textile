@@ -711,6 +711,7 @@ h3(#other). "Other":#other
 * "Task.node":https://github.com/botanicus/task.node Simple task manager similar to Rake, Scons and others.
 * "tasks.js":https://github.com/dandean/tasks.js Tasks for Node (like Rake!) with a very JavaScripty API.
 * "temp":https://github.com/bruce/node-temp -- Temporary files and directories
+* "tictoc":https://github.com/DTrejo/tictoc -- A simple timer just like the one from matlab. tic() dowork() toc();
 * "user-agent":https://github.com/visionmedia/user-agent.js -- user agent string parser
 * "uuidjs":http://bitbucket.org/nikhilm/uuidjs -- Simple, fast UUID generation (uses native binding to libuuid)
 * "node-uuid":https://github.com/broofa/node-uuid -- Simple, fast(er?) UUID generation (pure JS, works in node + browsers)
