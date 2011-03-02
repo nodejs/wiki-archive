@@ -8,7 +8,11 @@ If you see a module without a description, feel free to edit the page and add it
 
 When you edit this list, also add your module to [[library-compatibility]] so that users will know which versions of Node it was tested with.
 
+<a name="modules"></a>
+
 h2(#modules). "Modules":#modules
+
+<a name="web-frameworks"></a>
 
 h3(#web-frameworks). "Web frameworks":#web-frameworks
 
@@ -26,6 +30,8 @@ h4(#web-frameworks-routers). "Routers":#web-frameworks-routers
 * "nozzle":https://github.com/fictorial/nozzle -- web app/service framework
 * "sherpa":https://github.com/joshbuddy/sherpa -- HTTP router/generator with support for regex and parameters
 
+<a name="web-frameworks-static"></a>
+
 h4(#web-frameworks-static). "Static file servers":#web-frameworks-static
 * "Lightnode":http://www.ngspinners.com/lightnode/ -- Easy to understand. Fast. Provides simple framework. (heirarchical servers, delegation, caching, virtual hosts).
 * "Nitrode":https://github.com/ollym/nitrode -- A lightweight, super fast HTTP 1.1 with internal JS API
@@ -36,6 +42,8 @@ h4(#web-frameworks-static). "Static file servers":#web-frameworks-static
 * "static":https://github.com/kriszyp/pintura/blob/master/lib/jsgi/static.js - Static file handler using asynchronous streaming as JSGI middleware
 * "protos":https://github.com/dulac/protos - Static file server with JSON configuration, similar to Apache
 * "static-resource":https://github.com/atsuya/static-resource - Static resource handling for node.js
+
+<a name="web-frameworks-micro"></a>
 
 h4(#web-frameworks-micro). "Microframeworks":#web-frameworks-micro
 * "Ni":https://github.com/chetan51/ni -- A minimalistic Node module / framework that makes setting up an MVC project a breeze
@@ -50,6 +58,8 @@ h4(#web-frameworks-micro). "Microframeworks":#web-frameworks-micro
 * "Pipe-Layer":http://cgit.voodoowarez.com/pipe-layer/ -- Asynchronous HTTP router.
 * "frank":https://github.com/mvrilo/frank -- yet another sinatra-like microframework for node
 * "zappa":https://github.com/mauricemach/zappa -- Razor-sharp DSL for modern web apps. (node 0.2.3)
+
+<a name="web-frameworks-full"></a>
 
 h4(#web-frameworks-full). "Frameworks":#web-frameworks-full
 * "broke":https://github.com/brokenseal/broke/ -- A porting of the most famous "Django Web Framework":http://www.djangoproject.com/
@@ -69,6 +79,8 @@ h4(#web-frameworks-full). "Frameworks":#web-frameworks-full
 * "spludo":http://spludo.com -- A full featured web framework. Fully Async + MVC with DI, AOP and Storages. ("tutorial":http://docsforit.spludo.com/ + "user-guide":http://spludo.com/user-guide/full/)
 * "WIN":https://github.com/mathgladiator/win -- A simple page centric framework designed around CouchDB+Mustache
 * "Zeppelin":https://github.com/pelger/Zeppelin -- An early stage, low friction cloud development framework    
+
+<a name="middleware"></a>
 
 h4(#middleware). "Middleware":#middleware
 * "cascade":https://github.com/kriszyp/pintura/blob/master/lib/jsgi/cascade.js -- Sequentially attempts multiple middleware apps (JSGI).
@@ -111,6 +123,8 @@ h4(#middleware). "Middleware":#middleware
 * "connect-force-domain":https://github.com/shapeshed/connect-force-domain -- force all visitors onto a single domain  (Connect)
 * "googleclientlogin":https://github.com/Ajnasz/GoogleClientLogin -- Log in to Google services using CllientLogin method
 
+<a name="web-frameworks-other"></a>
+
 h4(#web-frameworks-other). "Other":#web-frameworks-other
 * "Alligator":https://github.com/mrohad/Alligator -- Application Server on top of NodeJS (JSSP and SSJS support)
 * "Nitrode":https://github.com/ollym/nitrode -- A lightweight, super fast HTTP 1.1 with internal JS API
@@ -129,6 +143,8 @@ h4(#web-frameworks-other). "Other":#web-frameworks-other
 * "fugue":https://github.com/pgte/fugue -- Unicorn for Node.js - Multiple node server instance manager with Unicorn-like features
 * "what":https://github.com/entmike/what -- What - A Node.JS Web Container/Application Server
 * "mongrel2":https://github.com/darkhelmet/node-mongrel2 -- mongrel2 - Mongrel2 handler for node
+
+<a name="database"></a>
 
 h3(#database). "Database":#database
 * "alfred":http://pgte.github.com/alfred/ -- a fast in-process key-value store for node.js that has functional indexes, streams, replication,  ...
@@ -191,6 +207,7 @@ h3(#database). "Database":#database
 * "simpledb":https://github.com/rjrodger/simpledb -- An Amazon AWS SimpleDB library for Node.js that is user-friendly and fault-tolerant
 * "sequelize":https://github.com/sdepold/sequelize - An easy-to-use MySQL Object-Relational-Mapper (ORM) for Node.JS
 
+<a name="templating"></a>
 
 h3(#templating). "Templating":#templating
 * "asyncEJS":https://github.com/cramforce/node-asyncEJS -- Asynchronous implementation of embedded JavaScript
@@ -228,6 +245,8 @@ rendering process.
 * "xmlbuilder.js":https://github.com/btakita/xmlbuilder.js -- An xml builder in Javascript inspired by Ruby's Builder, Markaby, and Erector.
 * "xmlbuilder-js":https://github.com/oozcitak/xmlbuilder-js -- An xml builder for node.js similar to java-xmlbuilder.
 
+<a name="css-engines"></a>
+
 h3(#css-engines). "CSS Engines":#css-engines
 * "Stylus":https://github.com/LearnBoost/stylus -- Expressive, dynamic, robust CSS language written by the author of Express, Connect, Jade and more
 * "sass.js":https://github.com/visionmedia/sass.js -- Parses Sass templates and renders css.
@@ -235,8 +254,12 @@ h3(#css-engines). "CSS Engines":#css-engines
 * "carto":https://github.com/mapbox/carto -- Parses MSS templates and renders XML for "Mapnik":http://mapnik.org/
 * "ccss":https://github.com/aeosynth/ccss -- Parses a JavaScript object and renders css.
 
+<a name="content-management"></a>
+
 h3(#content-management). "Content Management Systems":#content-management
 * "Nodepad":https://github.com/alexyoung/nodepad -- A nice basic web-based notepad.
+
+<a name="build-and-deployment"></a>
 
 h3(#build-and-deployment). "Build and Deployment":#build-and-deployment
 * "nodejs-autorestart":https://github.com/shimondoodkin/nodejs-autorestart -- It is a way to watch all .js files if they have been changed and to restart nodejs. It allows easy development and stable production.
@@ -252,14 +275,20 @@ h3(#build-and-deployment). "Build and Deployment":#build-and-deployment
 * "nib.js":https://github.com/blambeau/nib.js -- package and minify javascript/coffeescript projects to be embedded in the browser as a single .js file 
 * "nclosure":http://gatapia.github.com/nclosure/ -- Compiler, Style Checker, Utility Library, Unit Testing Framework, JSDoc Documentation Tool.  Built on top of Google Closure tools.
 
+<a name="package-management"></a>
+
 h3(#package-management). "Package Management Systems":#package-management
 * "npm":https://github.com/isaacs/npm -- A node package manager that uses CommonJS-compatible package.json files, written in asynchronous javascript.
+
+<a name="module-loader"></a>
 
 h3(#module-loader). "Module Loader":#module-loader
 * "nodules":https://github.com/kriszyp/nodules -- Async module loader with dep resolution/downloading and module reloading w/o server restart
 * "node-DJs":https://github.com/lrbabe/node-DJs - Restart a server after each change in main script and dependencies
 * "node-hot-reload":https://github.com/shimondoodkin/node-hot-reload - watchFile and reload modules dynamically for node.js (very useful for development, less good for production)
 * "remap":https://github.com/dominictarr/remap - reroute require for mocks, wrappers, or shenanigans (useful for testing)
+
+<a name="security"></a>
 
 h3(#security). "OpenSSL / Crypto / Hashing":#security
 * "packnode":https://github.com/chriso/packnode -- Obfuscate, minify and/or encrypt JS files
@@ -281,6 +310,8 @@ h3(#security). "OpenSSL / Crypto / Hashing":#security
 * "node-whirlpool":https://github.com/Sembiance/node-whirlpool -- C/C++ mhash lib wrapper providing whirlpool hash support
 * "NodeJS-Keychain":https://github.com/aschlosberg/NodeJS-Keychain -- A security-oriented keychain web service
 
+<a name="smtp"></a>
+
 h3(#smtp). "SMTP":#smtp
 * "node-smtpclient":https://github.com/sleeplessinc/node-smtpclient -- Simple SMTP that uses AUTH and TLS/SSL (2.4)
 * "node-smtp-client":https://github.com/miksago/node-smtp-client -- Implementation of the SMTP protocol in Node
@@ -288,6 +319,8 @@ h3(#smtp). "SMTP":#smtp
 * "node_mailer":https://github.com/marak/node_mailer -- send emails from node.js to an smtp server, simple as cake 
 * "Nodemailer":https://github.com/andris9/Nodemailer - Easy to use module to send e-mails with Node.JS, unicode friendly
 * "emailjs":https://github.com/eleith/emailjs - send emails, html and attachments from node.js to any smtp server (ex: gmail)
+
+<a name="tcp"></a>
 
 h3(#tcp). "TCP / IP":#tcp
 * "node-httpclient":https://github.com/billywhizz/node-httpclient -- Node HTTP Client (gzip, https, cookies etc.)
@@ -309,6 +342,8 @@ h3(#tcp). "TCP / IP":#tcp
 * "wake_on_lan":https://github.com/agnat/node_wake_on_lan -- Generate and send Wake-on-LAN magic packets
 * "node-tld":https://github.com/donpark/node-tld -- for working with TLD data (registered domain name, etc)
 
+<a name="rpc"></a>
+
 h3(#rpc). "RPC":#rpc
 * "bertrpc":https://github.com/rtomayko/node-bertrpc
 * "jsonrpc":https://github.com/ericflo/node-jsonrpc
@@ -318,6 +353,8 @@ h3(#rpc). "RPC":#rpc
 * "IPCNode":https://github.com/Frans-Willem/IPCNode -- Asynchronous RPC library based on node.js Stream object,  with support for circular objects, and explicit reference counting to ensure proper garbage collection.
 * "msgpack-rpc":https://github.com/bpot/node-msgpack-rpc -- Implementation of Msgpack-RPC (http://msgpack.org)
 * "node-ipcbuffer":https://github.com/dazhazit/node-ipcbuffer -- A modified Buffer object to pass large amounts of data between processes using POSIX or System V IPC shared memory and or do fast read and writes to files. (Windows soon).
+
+<a name="ws-ajax"></a>
 
 h3(#ws-ajax). "Web Sockets & Ajax":#ws-ajax
 * "Abstract HTTP Request":https://github.com/coolaj86/abstract-http-request -- An HTTP Client wrapper for the browser (XHR) and node.js (http module)
@@ -343,11 +380,17 @@ h3(#ws-ajax). "Web Sockets & Ajax":#ws-ajax
 * "wave-node":https://github.com/scottbw/wave-node -- An implementation of the Google Wave Gadget API for node.js
 * "node-object-sync":https://github.com/jonashuckestein/node-object-sync -- Transparently synchronize objects across connected clients
 
+<a name="message-queue"></a>
+
 h3(#message-queue). "Message Queues":#message-queue
 * "websocket.MQ":https://github.com/networkimprov/websocket.MQ -- Reliable message queue server accessible via websockets, socket.IO, etc
 
+<a name="class-system"></a>
+
 h3(#class-system). "Class systems":#class-system
 * "joose":https://github.com/joose/joose -- complete modern class system for JavaScript, based on concepts from many programming languages
+
+<a name="testing"></a>
 
 h3(#testing). "Testing / Spec Frameworks":#testing
 * "Benchmark.js":https://github.com/mathiasbynens/Benchmark.js -- A benchmarking library that works on nearly all JavaScript platforms, supports high-resolution timers, and returns statistically significant results.
@@ -382,6 +425,8 @@ h3(#testing). "Testing / Spec Frameworks":#testing
 * "Vows":https://github.com/cloudhead/vows -- asynchronous behaviour-driven development for node.js 
 * "zombie.js":https://github.com/assaf/zombie -- Insanely fast, full-stack, headless testing using node.js
 
+<a name="wrappers"></a>
+
 h3(#wrappers). "Wrappers":#wrappers
 * "bdog-node":https://github.com/blackdog66/bdog-node -- haXe wrappers for node.
 * "bdog-redis":https://github.com/blackdog66/bdog-redis -- haXe wrappers for Fictorial's redis client
@@ -392,8 +437,11 @@ h3(#wrappers). "Wrappers":#wrappers
 
 
 
+<a name="parsers"></a>
 
 h3(#parsers). "Parsers":#parsers
+
+<a name="parsers-xml"></a>
 
 h4(#parsers-xml). "XML":#parsers-xml
 * "node-o3-xml":https://github.com/ajaxorg/node-o3-xml -- W3C Standard based XML DOM with XPath and namespaces. Built on libxml2
@@ -405,6 +453,8 @@ h4(#parsers-xml). "XML":#parsers-xml
 * "node-expat":https://github.com/shimondoodkin/node-expat -- a fork of Fast SAX parser binding to expat, also includes XML to JavaScript object converter
 * "node-xml2js":https://github.com/maqr/node-xml2js/ -- Simple XML to JavaScript object converter.
 * "node-plist":https://github.com/TooTallNate/node-plist -- Apple Plist parser for NodeJS. Convert a Plist file or string into a native JS object.
+
+<a name="parsers-commandline"></a>
 
 h4(#parsers-commandline). "Command Line Option Parsers":#parsers-commandline
 * "cli":https://github.com/chriso/cli -- Rapidly build command line apps. Full featured opts/args parser + plugin support
@@ -419,6 +469,8 @@ h4(#parsers-commandline). "Command Line Option Parsers":#parsers-commandline
 * "tav":https://github.com/akaspin/tav -- Brain-free command-line options parser for node.js
 * "Operetta":https://github.com/tricknik/node-operetta -- A Node Option Parser That Sings!
 
+<a name="parser-generators"></a>
+
 h4(#parser-generators).  "Parser Generators":#parser_generators
 * "canopy":https://github.com/jcoglan/canopy -- PEG parser compiler for JavaScript
 * "jison":https://github.com/zaach/jison -- A parser generator written in JavaScript; similar to Bison for C
@@ -427,6 +479,8 @@ h4(#parser-generators).  "Parser Generators":#parser_generators
 * "jparse":https://github.com/doublec/jsparse -- A parser combinator for javascript based on Packrat parsers and Parsing expression grammars
 * "ReParse":https://github.com/weaver/ReParse -- A parser combinator library for Javascript like Haskell's Parsec
 * "OMeta Javascript compiler":http://tinlizzie.org/ometa-js/#JavaScript_Compiler
+
+<a name="parsers-other"></a>
 
 h4(#parsers-other). "Other Parsers":#parsers-other
 * "benejson":https://github.com/codehero/benejson -- Includes pure javascript incremental JSON parser
@@ -467,6 +521,8 @@ h4(#parsers-other). "Other Parsers":#parsers-other
 * "glossy":https://github.com/squeeks/glossy - Syslog message parser and producer
 * "UglifyJS":https://github.com/mishoo/UglifyJS - JavaScript parser and compressor/beautifier
 
+<a name="debugging"></a>
+
 h3(#debugging). "Debugging / Console Utilities":#debugging
 * "ain":https://github.com/akaspin/ain -- Brain-free syslog logging
 * "cfdump.js":https://github.com/figital/cfdump.js -- a more visually inspiring way to dump your objects to a browser
@@ -494,11 +550,15 @@ h3(#debugging). "Debugging / Console Utilities":#debugging
 * "v8-profiler":https://github.com/dannycoates/v8-profiler -- v8 profiler bindings with node-inspector integration
 * "webrepl":https://github.com/mmattozzi/webrepl -- Serve a repl for a node process via a simple web ui
 
+<a name="compressions"></a>
+
 h3(#compression). "Compression":#compression
 * "node-compress":https://github.com/waveto/node-compress -- streaming compression / gzip library
 * "node-compress by egorich239":https://github.com/egorich239/node-compress -- asynchronous streaming (de)compression library with gzip and bzip2 support, originally forked from "waveto's":https://github.com/waveto/node-compress
 * "gzip":https://github.com/donnerjack13589/node.gzip -- simple compression using default linux "gzip" utility
 * "node-zipfile":https://github.com/springmeyer/node-zipfile -- inspect and uncompress zipfile archives (C++ around libzip)
+
+<a name="graphics"></a>
 
 h3(#graphics). "Graphics":#graphics
 * "drawback":https://github.com/LearnBoost/drawback -- Seamless way to render 2D drawings on the client side using HTML5 technologies with a server-side backend.
@@ -524,10 +584,14 @@ h3(#graphics). "Graphics":#graphics
 * "node-exif":https://github.com/gomfunkel/node-exif -- Library to extract Exif metadata from images
 * "ffmpeg-node":https://github.com/xonecas/ffmpeg-node -- Node.js driver for ffmpeg library
 
+<a name="payment-gateways"></a>
+
 h3(#payment-gateways). "Payment Gateways":#payment-gateways
 * "paynode":https://github.com/jamescarr/paynode - library for integrating with various payment gateways
 * "braintree":https://github.com/braintree/braintree_node -- library for integrating with Braintree
 * "node-fortumo":https://github.com/andris9/node-fortumo -- bindings for Fortumo SMS payment API
+
+<a name="api-clients"></a>
 
 h3(#api-clients). "API clients":#api-clients
 * "aws-lib":https://github.com/mirkok/aws-lib -- An extensible library for Amazon Web Services including EC2, SimpleDB and the Product Advertising API
@@ -570,6 +634,8 @@ h3(#api-clients). "API clients":#api-clients
 * "node-notifo":https://github.com/nerocreativo/node-notifo -- Real-time notifications pushed to your mobile phone (and more).
 * "node-beaconpush":https://github.com/cgbystrom/node-beaconpush -- Client for the Beaconpush REST API. A real-time push service for browsers supporting WebSockets and Comet.
 
+<a name="async-flow"></a>
+
 h3(#async-flow). "Flow control / Async goodies":#async-flow
 * "async.js":https://github.com/fjakobs/async.js -- Async chaining and file system utilities. Async.js is to node's fs module, what jQuery is to the DOM.
 * "async":https://github.com/caolan/async -- Comprehensive async map/reduce and flow control (parallel, series, waterfall, auto...) module that works in node and the browser
@@ -600,16 +666,22 @@ h3(#async-flow). "Flow control / Async goodies":#async-flow
 * "Step":https://github.com/creationix/step -- Tool for grouping and chaining asynchronous callbacks, based on "flow-js":https://github.com/willconant/flow-js
 * "streamline.js":https://github.com/Sage/streamlinejs -- Tool that transforms synchronous code into asynchronous code with callbacks. 
 
+<a name="i18n"></a>
+
 h3(#i18n). "I18n and L10n modules":#i18n
 * "Lingo":http://bit.ly/cuaHAh -- Inflection, transformation and more
 * "Dialect":https://github.com/masylum/dialect -- Dialect is a painless nodejs module that deals with i18n, and L10n.
 * "express-dialect":https://github.com/masylum/express-dialect -- ExpressDialect is a "pluggable" express application that deals with i18n.
 * "node-i18n":https://github.com/ohaibbq/node-i18n -- node-i18n is a minimalistic internationalization module with templating 
 
+<a name="boilerplates"></a>
+
 h3(#boilerplates). "Boilerplates":#boilerplates
 * "node-boilerplate":https://github.com/robrighter/node-boilerplate -- Everything you need to get started on a Node.js website with express and socket.IO
 * "transsiberian":https://github.com/masylum/transsiberian -- nodejs boilerplate built upon Express and Mongolia
 
+
+<a name="other"></a>
 
 h3(#other). "Other":#other
 * "behaviors":https://github.com/caolan/behaviors -- A simple way to check a module's exports, useful for 3rd party plugins and extensions
@@ -753,9 +825,13 @@ h3(#other). "Other":#other
 * "node-srs":https://github.com/springmeyer/node-srs -- Bindings to libosr for handling spatial references in node
 * "node-i3":https://github.com/badboy/node-i3 -- inter-process communication with i3 using node.js' asynchronous programming style
 
+<a name="management"></a>
+
 h2(#managment). "Node Management Utilities":#management
 
 * "n":https://github.com/visionmedia/n -- node version manager
+
+<a name="commonjs-compat"></a>
 
 h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":#commonjs-compat
 * "abbrev-js":https://github.com/isaacs/abbrev-js/ -- Like Ruby's Abbrev module.
@@ -772,6 +848,8 @@ h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":
 * "schema.js":https://github.com/akidee/schema.js -- Modular data schema validation and adaptation according to JSON Schema for JavaScript
 * "underscore":http://documentcloud.github.com/underscore/ -- Unobtrusive functional programming utility library.
 * "wu.js":http://fitzgen.github.com/wu.js/ -- A lazy, functional Javascript library that ain't nuthin' ta f*ck wit.
+
+<a name="coffee-script"></a>
 
 h2(#coffee-script). "CoffeeScript modules":#coffee-script
 
