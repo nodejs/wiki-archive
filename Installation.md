@@ -26,14 +26,14 @@ only need 2 things.
 
 **Building from source**
 
-Use make to build and install Node
+Use make to build and install Node (execute the following on the command line)
 
-    $ export JOBS=2 # optional, sets number of parallel commands.
-    $ mkdir ~/local
-    $ ./configure --prefix=$HOME/local/node
-    $ make
-    $ make install
-    $ export PATH=$HOME/local/node/bin:$PATH
+    export JOBS=2 # optional, sets number of parallel commands.
+    mkdir ~/local
+    ./configure --prefix=$HOME/local/node
+    make
+    make install
+    export PATH=$HOME/local/node/bin:$PATH
 
 If you have any installation problems, look at [Troubleshooting
 Installation](https://github.com/ry/node/wiki/Troubleshooting-Installation).
