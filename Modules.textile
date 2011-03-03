@@ -423,6 +423,7 @@ h3(#testing). "Testing / Spec Frameworks":#testing
 * "twerp":https://github.com/philjackson/twerp -- Simple test framework which is suited to Coffeescript users. Synchronous, simple and easy. 
 * "uubench":https://github.com/akdubya/uubench -- A tiny asynchronous JavaScript benchmarking library
 * "Vows":https://github.com/cloudhead/vows -- asynchronous behaviour-driven development for node.js 
+* "zap":https://github.com/nornagon/node-zap -- a tiny testing tool for node.js
 * "zombie.js":https://github.com/assaf/zombie -- Insanely fast, full-stack, headless testing using node.js
 
 <a name="wrappers"></a>
