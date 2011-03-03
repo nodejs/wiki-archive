@@ -17,7 +17,7 @@ This will assume you're checking out and compiling node in `c:\node`.
   A guide to editing path on windows can be found [here](http://www.java.com/en/download/help/path.xml).
 * Open the mingw bash shell
 * `cd /c`
-* `git clone https://github.com/ry/node.git`
+* `git clone https://github.com/joyent/node.git`
 * `cd /c/node`
 * `./configure --without-ssl`
 * `make`
