@@ -812,6 +812,7 @@ h3(#other). "Other":#other
 * "node-ldapauth":https://github.com/joewalnes/node-ldapauth -- Authenticates users against an LDAP server
 * "nodejs-clone-extend":https://github.com/shimondoodkin/nodejs-clone-extend -- a versatile clone and extend like underline.js, to clone JavaScript objects, enables DRY.
 * "node-search":https://github.com/talltyler/node-search -- An asynchronous full text search engine for node
+* "printf":https://github.com/wdavidw/node-printf -- Write formatted data (complete implementation of printf and sprintf)
 * "sandbox":https://github.com/gf3/sandbox -- A nifty javascript sandbox for use with node.js
 * "Sibilant":https://github.com/jbr/sibilant -- A lispy language that compiles to js
 * "pdf.js":https://github.com/marak/pdf.js -- A pdf renderer for node
