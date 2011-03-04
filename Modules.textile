@@ -62,6 +62,7 @@ h4(#web-frameworks-micro). "Microframeworks":#web-frameworks-micro
 <a name="web-frameworks-full"></a>
 
 h4(#web-frameworks-full). "Frameworks":#web-frameworks-full
+* "archetype":https://github.com/jefftrudeau/archetype/ -- A web framework leveraging Node.js
 * "broke":https://github.com/brokenseal/broke/ -- A porting of the most famous "Django Web Framework":http://www.djangoproject.com/
 * "chain":https://github.com/hassox/chain/ -- An evented convention for building Node Applications (Stopped Development, for ejsgi)
 * "coltrane":https://github.com/ujh/coltrane/tree/master -- A try at a higher level library/framework for node.js web development (July 2009, node.JS 0.1.1)
