@@ -83,7 +83,8 @@ h4(#web-frameworks-full). "Frameworks":#web-frameworks-full
 <a name="middleware"></a>
 
 h4(#middleware). "Middleware":#middleware
-* JSGI
+<a name="middleware-jsgi"></a>
+* "JSGI":#middleware-jsgi 
 ** "cascade":https://github.com/kriszyp/pintura/blob/master/lib/jsgi/cascade.js -- Sequentially attempts multiple middleware apps.
 ** "compress":https://github.com/kriszyp/pintura/blob/master/lib/jsgi/compress.js - Gzip compresses (using node-compress) the response when appropriate based on request headers.
 ** "media":https://github.com/kriszyp/pintura/blob/master/lib/jsgi/media.js - Performs content type negotiation (per RFC2616) delegating to appropriate media handler.
@@ -104,7 +105,8 @@ h4(#middleware). "Middleware":#middleware
 ** "transporter":https://github.com/kriszyp/transporter - Share modules with browser, works RequireJS and Yabble
 ** "routes":https://github.com/dvv/pintura/blob/master/lib/jsgi/routes.js - Simple RegExp based router
 ** "session":https://github.com/kriszyp/pintura/blob/master/lib/jsgi/session.js - Session manager with pluggable storage handling
-* Connect
+<a name="middleware-connect"></a>
+* "Connect":#middleware-connect 
 ** "connect-rpx":https://github.com/xrd/connect-rpx - Use RPX with Node.js and Connect  
 ** "connect-assetmanager":https://github.com/mape/connect-assetmanager - Asset manager for Connect for handling CSS/JS files  
 ** "dispatch":https://github.com/caolan/dispatch -- Regular expression URL dispatcher  
@@ -117,7 +119,8 @@ h4(#middleware). "Middleware":#middleware
 ** "session-web-sockets":https://github.com/kazuyukitanimura/session-web-sockets -- Pass session to (Socket.IO-node) in a secure manner.   Originally forked from "bmeck/session-web-sockets":https://github.com/bmeck/session-web-sockets
 ** "node-facebook-session-cookie":https://github.com/jonashuckestein/node-facebook-session-cookie -- eats facebook cookies from client FB.login() and makes the session available as req.fb_session  
 ** "connect-force-domain":https://github.com/shapeshed/connect-force-domain -- force all visitors onto a single domain   
-* Other
+<a name="middleware-other"></a>
+* "Other":#middleware-other 
 ** "node-file-cache":https://github.com/FLYBYME/node-file-cache - Very small file cache for node.js http server.
 ** "protobuf_for_node":http://code.google.com/p/protobuf-for-node/ -- In-process JS-to-C++ communication using protocol buffer services
 ** "socket-logger":https://github.com/saikat/socket-logger/ -- JSON-parsable logs for Socket.IO that can push log messages to a client over Socket.IO.
