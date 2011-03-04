@@ -707,6 +707,7 @@ h3(#other). "Other":#other
 * "ext":https://github.com/visionmedia/ext.js -- High quality / performance JavaScript extensions specifically for node.js
 * "Faker.js":https://github.com/marak/Faker.js/ -- generate massive amounts of fake data in Node.js and the browser
 * "GeoIP":https://github.com/kuno/GeoIP -- Get geolocation information based on domain or IP address
+* "gex":https://github.com/rjrodger/gex -- Glob expressions for JavaScript
 * "Grillode":https://github.com/stephenmcd/grillode -- Chat server with various modes such as customer support queues, fixed rooms or Chatroulette random matchups. Written in CoffeeScript and uses express, socket.io and Coffeekup.
 * "goog":https://github.com/hsch/node-goog -- Server-side Google Closure with Node.js
 * "gss":https://github.com/DTrejo/gss -- Golden Section Search for javascript. A line search technique used to *minimize* or *maximize* the output of a function.
