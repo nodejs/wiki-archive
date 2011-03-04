@@ -20,6 +20,7 @@ h2. node v0.3.7
 * "nodemon":http://github.com/remy/nodemon
 
 h2. node v0.3.6
+* "archetype":https://github.com/jefftrudeau/archetype
 * "node-gnomenotify":https://github.com/bodil/node-gnomenotify
 
 h2. node v0.3.2
