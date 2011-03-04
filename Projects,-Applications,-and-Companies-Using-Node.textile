@@ -2,6 +2,7 @@ h2. Projects and Applications
 
 * "node_chat":http://github.com/ry/node_chat by ry
 * "q-chess":http://github.com/wsdookadr/Q-Chess/tree/rewrite by wsdookadr — chess game multiplayer server using [[faye|http://github.com/jcoglan/faye]] + client written using [[Qooxdoo|http://qooxdoo.org/]] 
+* "64squares":http://64sq.com - by weepy - real time live chess running on node + socket.io with facebook
 * "node3p":http://github.com/ncb000gt/node3p by ncb000gt -- AmazonMP3 downloader
 * "node3p-web":http://github.com/ncb000gt/node3p-web by ncb000gt -- Web interface for node3p
 * "nodelint":http://github.com/tav/nodelint by tav — run jslint from the command line
@@ -29,7 +30,6 @@ h2. Projects and Applications
 * "zztmmo":http://github.com/marak/zztmmo - a zzt based massive multiplayer online game built in node.js and jQuery (currently only single player)
 * "diretto":http://www.diretto.org/ - Distributed Recon/Reporting Transceiver Toolkit – Uses Node.js for web-based media storage and for its RESTful webservice implementation
 * "ElusiveHippo":http://elusivehippo.com - Push deployment for nodejs (non-functional / doesn't work)
-* "Chess Riot":http://chessriot.com - a live Lightning Chess app built in node.js, express, CoffeeScript and jQuery. By @weepy
 * "Realie":http://www.web2media.net/laktek/2010/05/25/real-time-collaborative-editing-with-websockets-node-js-redis/ - Real-time Collaborative Editor using Web Sockets, Node.js & Redis (non-functional / doesn't work)
 * "GrowlHub":http://github.com/idris/growlhub - Growl Notifications for GitHub
 * "Simple Node.js MUD":http://github.com/gumho/simple-node.js-mud - Simple multi-user dungeon using Node.js
