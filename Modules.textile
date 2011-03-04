@@ -680,6 +680,7 @@ h3(#i18n). "I18n and L10n modules":#i18n
 h3(#boilerplates). "Boilerplates":#boilerplates
 * "node-boilerplate":https://github.com/robrighter/node-boilerplate -- Everything you need to get started on a Node.js website with express and socket.IO
 * "transsiberian":https://github.com/masylum/transsiberian -- nodejs boilerplate built upon Express and Mongolia
+* "NodeBase":https://github.com/dotmaster/NodeBase -- A node base class for Javascript and Coffeescript (logging, options, defaults and EventEmitter)
 
 
 <a name="other"></a>
@@ -858,3 +859,4 @@ h2(#coffee-script). "CoffeeScript modules":#coffee-script
 
 * "simple":https://github.com/dvv/simple -- Simple JSON REST/RPC server secured by Object Capability
 * "simple-geoip":https://github.com/dvv/simple-geoip -- Simple _native_ maxmind GeoIP lookup. 4-6 times faster than node-maxmind-native. See wiki for details. Compiled database of countries "geo.json":https://github.com/dvv/simple-geoip/raw/master/geo.json is available
+* "NodeBase":https://github.com/dotmaster/NodeBase -- A node base class for Javascript and Coffeescript (logging, options, defaults and EventEmitter)
