@@ -433,6 +433,7 @@ h2. Node v0.1.91
 * "nodemachine v0.2.5":http://github.com/tautologistics/nodemachine/tree/v0.2.5
 * "ndb v0.1.2":http://github.com/smtlaissezfaire/ndb/tree/0.1.2
 * "node-email v0.0.1":http://github.com/aheckmann/node-email/tree/v0.0.1
+* "NodeBase v0.3.0":https://github.com/dotmaster/NodeBase
 
 h2. Node v0.1.90
 
