@@ -4,7 +4,7 @@ h2. Managed
 * "bejes.us":http://bejes.us/ - Beta Coming Soon (accepting signups)
 * "Duostack":http://www.duostack.com/
 * "Heroku":http://heroku.com/ - Closed Beta
-* "no.de":http://no.de - Closed Beta
+* "no.de":http://no.de - Open
 * "Nodejitsu":http://nodejitsu.com/ - Beta Coming Soon (accepting signups)
 * "NodeJsCloud":http://www.nodejscloud.com/ - Beta Coming Soon (accepting signups)
 * "Nodester":http://nodester.com/
