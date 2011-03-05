@@ -645,6 +645,7 @@ h3(#api-clients). "API clients":#api-clients
 * "ranger":https://github.com/mrduncan/ranger/ -- A simple library which wraps Campfire's API
 * "node-notifo":https://github.com/nerocreativo/node-notifo -- Real-time notifications pushed to your mobile phone (and more).
 * "node-beaconpush":https://github.com/cgbystrom/node-beaconpush -- Client for the Beaconpush REST API. A real-time push service for browsers supporting WebSockets and Comet.
+* "node-neoip":https://github.com/jeromeetienne/node-neoip -- binding for neoip
 
 <a name="async-flow"></a>
 
