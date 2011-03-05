@@ -287,6 +287,7 @@ h3(#build-and-deployment). "Build and Deployment":#build-and-deployment
 
 h3(#package-management). "Package Management Systems":#package-management
 * "npm":https://github.com/isaacs/npm -- A node package manager that uses CommonJS-compatible package.json files, written in asynchronous javascript.
+* "nmod":https://github.com/jeromeetienne/nmod -- nmod is a node_modules manager. able to install from npm and git
 
 <a name="module-loader"></a>
 
