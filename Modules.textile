@@ -252,6 +252,7 @@ rendering process.
 * "weld":https://github.com/hij1nx/weld -- unobtrusive. portable. ANTI-TEMPLATING.
 * "xmlbuilder.js":https://github.com/btakita/xmlbuilder.js -- An xml builder in Javascript inspired by Ruby's Builder, Markaby, and Erector.
 * "xmlbuilder-js":https://github.com/oozcitak/xmlbuilder-js -- An xml builder for node.js similar to java-xmlbuilder.
+* "node-tmpl":https://github.com/jeromeetienne/node-tmpl -- basic templating system in node.js based on shorttag
 
 <a name="css-engines"></a>
 
