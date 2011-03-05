@@ -389,6 +389,7 @@ h3(#ws-ajax). "Web Sockets & Ajax":#ws-ajax
 * "node-bus":https://github.com/node-bus/node-bus -- A distributed pubsub engine for JSON-based events
 * "wave-node":https://github.com/scottbw/wave-node -- An implementation of the Google Wave Gadget API for node.js
 * "node-object-sync":https://github.com/jonashuckestein/node-object-sync -- Transparently synchronize objects across connected clients
+* "easywebsocket":https://github.com/jeromeetienne/EasyWebsocket -- WebSocket to broadcast messages to webpages
 
 <a name="message-queue"></a>
 
