@@ -674,6 +674,7 @@ h3(#async-flow). "Flow control / Async goodies":#async-flow
 * "soda.js":https://github.com/tomyan/soda -- Asynchonous JavaScript module loader for client-side and Node.js
 * "Step":https://github.com/creationix/step -- Tool for grouping and chaining asynchronous callbacks, based on "flow-js":https://github.com/willconant/flow-js
 * "streamline.js":https://github.com/Sage/streamlinejs -- Tool that transforms synchronous code into asynchronous code with callbacks. 
+* "zo.js":https://github.com/refractalize/zo -- Async-friendly versions of the usual list processing suspects: `map`, `select`, `reduce` and friends.
 
 <a name="i18n"></a>
 
