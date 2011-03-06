@@ -6,13 +6,6 @@ The only "official" node repository is https://github.com/joyent/node. For code,
 # Send a pull request via github to joyent/node
 # Post an issue to the mailing list describing the problem and paste a url to the patch "gist":https://gist.github.com/
 
-To generate patch files:
-
-# clone the "git repository":https://github.com/joyent/node
-# make your change. Remember to update tests and docs as well as code!
-# commit your change
-# Use the <code>git format-patch</code> command to generate patch files.
-
 h2. Some participation guidelines
 # Discuss large changes on mailing list before coding
 # Javascript code style should follow "Google's JavaScript style guide":http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml and be run through the linter.  `make jslint` to validate.
@@ -26,3 +19,9 @@ h2. Git commits/patches
 # should have the author field properly filled out with your full
 name and email address.
 
+To generate patch files:
+
+# clone the "git repository":https://github.com/joyent/node
+# make your change. Remember to update tests and docs as well as code!
+# commit your change
+# Use the <code>git format-patch</code> command to generate patch files.
