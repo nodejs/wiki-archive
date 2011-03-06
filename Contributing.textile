@@ -1,6 +1,6 @@
 h2. Getting your code into Node
 
-The only "official" node repository is https://github.com/joyent/node. For code, docs, tests, or anything else, joyent/node is the repository that reflects the official state of the Node.js project. That's where all patches have to end up if they are going to be in the release, website, or API docs. There are a variety of ways to do this.
+The only "official" node repository is "https://github.com/joyent/node":https://github.com/joyent/node. For code, docs, tests, or anything else, joyent/node is the repository that reflects the official state of the Node.js project. That's where all patches have to end up if they are going to be in the release, website, or API docs. There are a variety of ways to do this.
 
 # Email patches to ry@tinyclouds.org and post them to the "node.js development mailing list":http://groups.google.com/group/nodejs-dev. Please add "[PATCH]" in the subject
 # Send a pull request via github to joyent/node
