@@ -631,6 +631,7 @@ h3(#api-clients). "API clients":#api-clients
 * "node-prowl":https://github.com/mape/node-prowl -- A module that allows you to send push notifications to your iPhone through the Prowl API
 * "nodefm":https://github.com/mikebannister/nodefm -- So far just a util for consuming last.fm recent tracks history for a user
 * "nodestalker":https://github.com/pascalopitz/nodestalker -- A beanstalkd client for node
+* "nodestagram:https://github.com/Swizec/nodestagram -- Instagram client for node
 * "node-twilio":https://github.com/sjwalter/node-twilio/ -- A helper library for the Twilio API
 * "node-twitter":https://github.com/jdub/node-twitter -- Asynchronous Twitter REST/stream/search client for node.js
 * "tropo-webapi-node":https://github.com/tropo/tropo-webapi-node -- A library for building multi-channel communication apps with the Tropo WebAPI.
