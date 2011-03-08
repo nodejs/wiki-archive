@@ -28,7 +28,6 @@ h4(#web-frameworks-routers). "Routers":#web-frameworks-routers
 * "node-router":https://github.com/creationix/node-router -- Simple Sinatra-like http server based on fu.js from the original node-chat demo.
 * "node.routes.js":https://github.com/defrex/node.routes.js/ -- A simple url router
 * "nozzle":https://github.com/fictorial/nozzle -- web app/service framework
-* "restmvc.js":https://github.com/keithnlarsen/restmvc.js -- A simple library to help you quickly create RESTful webservices using Express, Mongoose, and MongoDB. 
 * "sherpa":https://github.com/joshbuddy/sherpa -- HTTP router/generator with support for regex and parameters
 
 <a name="web-frameworks-static"></a>
@@ -52,6 +51,7 @@ h4(#web-frameworks-micro). "Microframeworks":#web-frameworks-micro
 * "kaph":https://github.com/akaspin/kaph -- Not framework
 * "Nerve":https://github.com/gjritter/nerve -- Microframework with simple array-based syntax for defining an app on top of node. (node.JS 0.1.30)
 * "Prick":https://github.com/SingAlong/Prick - tiny web framework
+* "restmvc.js":https://github.com/keithnlarsen/restmvc.js -- A simple library to help you quickly create RESTful webservices using Express, Mongoose, and MongoDB.
 * "rowan":https://github.com/idmillington/rowan -- A hierarchical microframework of reusable controllers and modular app logic.
 * "vroom":https://github.com/raycmorgan/vroom/tree/master -- A simple resource oriented web framework built on top of Node.js (November 2009, node.JS 0.1.16)
 * "Picard":https://github.com/dantebronto/picard
