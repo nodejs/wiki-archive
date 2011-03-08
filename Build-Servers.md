@@ -2,9 +2,9 @@
 
 ## Buildbot
 
-[http://buildbot.nodejs.org:8010/](http://buildbot.nodejs.org:8010/)
+[http://buildbot.nodejs.org/](http://buildbot.nodejs.org/)
 
-Community-run Python-based continuous integration server.  Tests builds against Solaris, Ubuntu, FreeBSD.
+Community-run Python-based continuous integration server.  Tests builds against Solaris, Ubuntu, FreeBSD, OSX, MinGW32, and Cygwin.  Runs performance tests graphed at [http://arlolra.no.de/](http://arlolra.no.de/).
 
 ## Bamboo
 
