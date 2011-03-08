@@ -1,1 +1,1 @@
-[[Migrating-from-v0.2-to-v0.4]]
+[[Migrating-from-v0.2-to-v0.3]]
