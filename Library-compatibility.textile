@@ -8,6 +8,7 @@ h2. Node v0.4.0
 * "node-notifo v1.0":https://github.com/nerocreativo/node-notifo/tree/1.0
 * "nohm v0.2.1":http://github.com/maritz/nohm
 * "node-beaconpush v0.1.0":https://github.com/cgbystrom/node-beaconpush
+* "node-facebook-client v1.2.0":https://github.com/dracoblue/node-facebook-client
 * "node-syslog":http://github.com/schamane/node-syslog
 * "node-sqlite3":https://github.com/developmentseed/node-sqlite3
 * "node2node-socket.io":https://github.com/dotmaster/node2node-socket.io
@@ -68,6 +69,7 @@ h2. Node v0.2.5
 * "node-multivariate":https://github.com/grippy/node-multivariate
 * "node-postgres":https://github.com/brianc/node-postgres
 * "node-solr v0.1.0":https://github.com/gsf/node-solr/tree/v0.1.0
+* "node-facebook-client v1.1.0": https://github.com/DracoBlue/node-facebook-client/tree/v1.1.0
 
 h2. Node v0.2.4
 * "choreographer v0.2.2a":http://github.com/laughinghan/choreographer
