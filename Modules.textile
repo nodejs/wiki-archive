@@ -861,6 +861,7 @@ h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":
 * "data.js":https://github.com/michael/data/ -- A Javascript data manipulation library (features Graph and Collection data abstraction formats)
 * "datatypes-js":https://github.com/jfd/datatypes-js -- Byte encoding/decoding for typical datatypes in JS.
 * "Dojo Toolkit (Node-compatible fork)":https://github.com/novemberborn/dojo -- The Dojo library for Node
+* "dojo-node (original source used v1.6)":https://github.com/agebrock/dojo-node -- runs dojo, dojox and dijit (special requirements) on node 
 * "email.js":https://github.com/craigw/email.js -- Email generation and parsing in Javascript.
 * "inflection":https://github.com/gmosx/inflection -- A port of the Rails/ActiveSupport inflector to JavaScript
 * "match-js":https://github.com/jfd/match-js -- Simple pattern matching (functional style) in JS.
