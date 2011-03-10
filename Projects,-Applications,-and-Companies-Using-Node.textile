@@ -141,6 +141,7 @@ h2. Companies
 * "Pushme.to":http://pushme.to -- web to iPhone messenger is using node.js for real-time messaging passing and push notifications
 * "Public Class":http://publicclass.se
 * "radicalDESIGNS":http://radicaldesigns.org/ - Online campaign tools for nonprofits and grassroots movements.
+* "Radical Dynamic":http://www.radicaldynamic.com -- uses Node to power the "GroupComplete":http://www.groupcomplete.com app server.
 * "Razorshift Entertainment":http://www.razorshift.com/ - Online social properties and services.
 * "Redman Tech":http://redmantech.com -- using Node to power internal tools, real time log monitoring, and R&D projects.
 * "Sentymetr":http://sentymetr.pl - Social media monitoring in Poland. We use JavaScript and node.js for data processing.
