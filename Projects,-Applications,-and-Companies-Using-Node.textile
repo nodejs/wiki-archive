@@ -85,6 +85,7 @@ h2. Projects and Applications
 * "wikiedge.org":http://www.wikiedge.org/ - A website to promote Chinese Wikipedia by deliver a daily magazine by good Wikipedia content, it is an opensource project, and code is at "github":https://github.com/mountain/distilled .
 * "Filsh":http://www.filsh.net - Converts online videos to other formats in a big server cluster. (German)
 * "EasyWebSocket":http://easywebsocket.org - a WebSocket client to broadcast messages to webpages
+* "node-asset-server":https://github.com/TrueCar/node-asset-server - An asset packaging/minification web service
 
 h2. Companies
 * "Academia.edu":http://www.academia.edu/ - uses node for background data processing
