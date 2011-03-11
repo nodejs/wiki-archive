@@ -663,6 +663,7 @@ h3(#async-flow). "Flow control / Async goodies":#async-flow
 * "fiberize":https://github.com/lm1/node-fiberize -- Node API wrapper for use with fibers.
 * "fibers":https://github.com/laverdet/node-fibers -- The closest thing to a thread you'll find in Javascript
 * "fibers-promise":https://github.com/lm1/node-fibers-promise -- Small yet powerful promises based on fibers.
+* "sync":https://github.com/0ctave/node-sync -- Makes simple to run any asynchronous function in synchronous way, using "node-fibers":https://github.com/laverdet/node-fibers
 * "flow-js":https://github.com/willconant/flow-js -- Continuation-esque contruct for expressing multi-step asynchronous logic
 * "funk":https://github.com/masylum/funk -- Asynchronous parallel functions made funky!
 * "futures":https://github.com/coolaj86/futures - Asynchronous Method Queueing, Futures, Promises, Subscriptions, and other async goodies
