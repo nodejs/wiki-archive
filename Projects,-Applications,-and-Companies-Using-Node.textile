@@ -164,3 +164,4 @@ h2. Companies
 * "Widescript":http://widescript.com -- A digital reading app targeted to people who study or make use of reference material.
 * "Yammer":https://www.yammer.com -- The Yammer Application Platform heavily uses node.js
 * "Ylastic":http://ylastic.com/ - uses node for report processing and admin app
+* "Comvel GmbH":http://www.weg.de -- One of the biggest travelsites in Germany 
