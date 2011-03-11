@@ -613,6 +613,7 @@ h3(#api-clients). "API clients":#api-clients
 * "dropbox-node":https://github.com/evnm/dropbox-node -- A wrapper for the Dropbox API 
 * "evented-twitter":https://github.com/polotek/evented-twitter -- asynchronous twitter client, supports streaming api
 * "facebook-js":https://github.com/masylum/facebook-js -- Easy peasy facebook client for connect.
+* "facebook-api":https://github.com/mren/facebook-api -- offers high level and low level calls against the facebook graph API
 * "flickr-reflection":https://github.com/teemow/node-flickr-reflection -- A flickr client that uses their reflection API (supports auth)
 * "flickrnode":https://github.com/ciaranj/flickrnode -- A library to enable use of the flickr api (not as complete as node-flickr, but supports auth) 
 * "lastfm-node":https://github.com/jammus/lastfm-node -- Read and write to users' recent plays on Last.fm
