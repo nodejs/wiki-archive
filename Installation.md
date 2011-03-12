@@ -44,6 +44,10 @@ You can also install node from packages: [[Installing Node.js via package manage
 
 ## Step 3b - Building on Windows
 
+**Pre-built binaries**
+
+Self-contained binaries are available at [node-js.prcn.co.cc](http://node-js.prcn.co.cc/)
+
 **Building from source**
 
 There are two ways of building Node on Windows. One is over the Cygwin
