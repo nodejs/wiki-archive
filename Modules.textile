@@ -780,6 +780,7 @@ h3(#other). "Other":#other
 * "node-maxmind-native":https://github.com/roymap/node-maxmind-native — maxmind/geoip module written in native node.js
 * "node-memstream":https://github.com/jfd/node-memstream — MemStream is a memory-based Stream implementation
 * "node-multivariate":https://github.com/grippy/node-multivariate — Application and framework for conducting A/B or Multivariate webpage testing (similar to mixpanel but with less features).
+* "node-oscar":https://github.com/mscdex/node-oscar - An OSCAR (AIM/ICQ) protocol implementation for node.js
 * "node_pcap":https://github.com/mranney/node_pcap -- Network packet capture and analysis using libpcap
 * "node-pool":https://github.com/coopernurse/node-pool -- Generic resource pool.  Useful for pooling database connections or other precious things.
 * "node-resque":https://github.com/jbr/node-resque -- Resque redis-backed job queue workers in node.js (no longer under active development)
