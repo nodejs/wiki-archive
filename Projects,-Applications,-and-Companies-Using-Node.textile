@@ -162,6 +162,7 @@ h2. Companies
 * "Webdigi Web Development":http://www.webdigi.co.uk -- Web development agency based in London, UK
 * "Well.ca":http://well.ca - Canada's largest online pharmacy
 * "Widescript":http://widescript.com -- A digital reading app targeted to people who study or make use of reference material.
+* "Wompt":http://wompt.com -- A polished web-chatroom application with open authentication.
 * "Yammer":https://www.yammer.com -- The Yammer Application Platform heavily uses node.js
 * "Ylastic":http://ylastic.com/ - uses node for report processing and admin app
 * "Comvel GmbH":http://www.weg.de -- One of the biggest travelsites in Germany 
