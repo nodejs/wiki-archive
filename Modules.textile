@@ -719,6 +719,7 @@ h3(#other). "Other":#other
 * "node-cookiejar":https://github.com/bmeck/node-cookiejar -- repetitive use cookie jar construction / cookie functionality
 * "daemon.node":https://github.com/Slashed/daemon.node/ -- Unix/Linux Daemons with node.js
 * "datejs":https://github.com/chrisdew/datejs -- DateJS wrapped up as an NPM package for node.js
+* "dateformat":https://github.com/felixge/node-dateformat -- A node.js package for Steven Levithan's excellent dateFormat() function
 * "relative-date":https://github.com/azer/relative-date/ -- Javascript module for outputting relative dates. 
 * "deja":https://github.com/mcantelon/node-deja -- CLI utility for managing git versioning of dotfiles and such
 * "daemonchk.js":https://github.com/dulac/daemonchk.js/ -- Daemon Monitor (with HTTP interface)
