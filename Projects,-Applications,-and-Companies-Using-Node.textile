@@ -104,6 +104,7 @@ h2. Companies
 * "Caffeinehit":http://caffeinehit.com
 * "Chompin":http://chompin.com - discover new music, mobile app, uses node for the entire back end api
 * "clickdummy":http://clickdummy.net - Fast prototyping for designers and dummies
+* "cloudnode":http://cloudno.de/ -- NodeJS hosting and CouchDB hosting based on Nodester and CouchDB.
 * "Datagraph":http://datagraph.org/ - uses node as part of a sharded large-scale RDF storage system.
 * "Debuggable":http://debuggable.com/ -- Creators of "Transloadit":http://transloadit.com/ (image / video uploading and encoding as a service), also offers node.js training and consulting.
 * "Deco":http://www.on-deco.com - Real-time collaborative mood boarding for web designers
