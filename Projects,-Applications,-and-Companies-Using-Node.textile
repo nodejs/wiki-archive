@@ -86,6 +86,7 @@ h2. Projects and Applications
 * "Filsh":http://www.filsh.net - Converts online videos to other formats in a big server cluster. (German)
 * "EasyWebSocket":http://easywebsocket.org - a WebSocket client to broadcast messages to webpages
 * "node-asset-server":https://github.com/TrueCar/node-asset-server - An asset packaging/minification web service
+* "teamit.org":http://teamit.org - Teaim iT is a free and simple issue tracker for small teams and individuals
 
 h2. Companies
 * "Academia.edu":http://www.academia.edu/ - uses node for background data processing
