@@ -140,6 +140,7 @@ h4(#web-frameworks-other). "Other":#web-frameworks-other
 * "Connect":https://github.com/senchalabs/connect -- Middleware framework packed with high quality / performance middleware
 * "Spark":https://github.com/senchalabs/spark -- A command-line tool used to manage node server processes
 * "Spark2":https://github.com/davglass/spark2 -- Fork of "Spark":https://github.com/senchalabs/spark with some improvements.
+* "Stereo":https://github.com/dvv/stereo -- A simple drop-in multi-core node application controller
 * "node-elf-logger":https://github.com/TooTallNate/node-elf-logger -- Configurable HTTP logging library following the "W3C Extended Log File Format specification":http://www.w3.org/TR/WD-logfile.html
 * "JSGI-Node":https://github.com/kriszyp/jsgi-node/ -- Asynchronous JSGI 0.3 Adapter for Node, for standards-based middleware
 * "node-mime":https://github.com/bentomas/node-mime -- Utility module for mime-type lookups
@@ -887,6 +888,5 @@ h2(#project-generators). "Project Generators":#project-generators
 
 h2(#coffee-script). "CoffeeScript modules":#coffee-script
 
-* "simple":https://github.com/dvv/simple -- Simple JSON REST/RPC server secured by Object Capability
 * "simple-geoip":https://github.com/dvv/simple-geoip -- Simple _native_ maxmind GeoIP lookup. 4-6 times faster than node-maxmind-native. See wiki for details. Compiled database of countries "geo.json":https://github.com/dvv/simple-geoip/raw/master/geo.json is available
 * "NodeBase":https://github.com/dotmaster/NodeBase -- A node base class for Javascript and Coffeescript (logging, options, defaults and EventEmitter)
