@@ -1,5 +1,8 @@
 Node is under heavy development and its API changes rapidly. Instead of simply a listing of modules which may or may not work with the version of Node installed on one's computer, this will provide a list of module versions which are known to work with specific versions of node.
 
+h2. Node v0.5.0-pre
+* "quickcheck v0.0.0":https://github.com/mcandre/node-quickcheck
+
 h2. Node v0.4.2
 * "node-imap @ 7a9ae9f":https://github.com/mscdex/node-imap/tree/7a9ae9f9bd1acf6a347328a6eeb5ce0a56575f70
 * "node-ncurses @ 0ea9f9d":https://github.com/mscdex/node-ncurses/tree/0ea9f9d4c9a237478d193a8ea85054366e4a2a31
