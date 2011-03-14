@@ -87,6 +87,7 @@ h2. Projects and Applications
 * "EasyWebSocket":http://easywebsocket.org - a WebSocket client to broadcast messages to webpages
 * "node-asset-server":https://github.com/TrueCar/node-asset-server - An asset packaging/minification web service
 * "teamit.org":http://teamit.org - Teaim iT is a free and simple issue tracker for small teams and individuals
+* "Multi Touch Multi User Canvas":https://github.com/eddanger/Multi-Touch-Multi-User-Canvas - Node.js, Socket.IO, Express, and a multi touch canvas!
 
 h2. Companies
 * "Academia.edu":http://www.academia.edu/ - uses node for background data processing
