@@ -328,6 +328,7 @@ h3(#security). "OpenSSL / Crypto / Hashing":#security
 <a name="smtp"></a>
 
 h3(#smtp). "SMTP":#smtp
+* "Haraka":https://github.com/baudehlo/Haraka -- Full Featured SMTP Server
 * "node-smtpclient":https://github.com/sleeplessinc/node-smtpclient -- Simple SMTP that uses AUTH and TLS/SSL (2.4)
 * "node-smtp-client":https://github.com/miksago/node-smtp-client -- Implementation of the SMTP protocol in Node
 * "node-smtp":https://github.com/aredridel/node-smtp -- Implementation of an SMTP server (and soon, client)
