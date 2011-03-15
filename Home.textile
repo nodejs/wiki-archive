@@ -40,3 +40,7 @@ The ChangeLog is also mirrored on this wiki so that users can make notes about b
 h2. Contributing
 
 See the "Contributing":https://github.com/ry/node/wiki/Contributing page
+
+h2. API Documents
+
+see the "API Doc":http://nodejs.org/docs/v0.4.0/api/http.html
