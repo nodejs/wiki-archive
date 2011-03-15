@@ -6,3 +6,10 @@ in the root directory of the source code:
     make  
     sudo make install  
 
+`configure` is currently broken for some versions of MacOS; for more details, see [How to compile Node.js v0.4.2 on MacOS 10.5.8](http://canonical.org/~kragen/compiling-node-on-macos.html). The working approach cited there is as follows:
+
+    export PATH=/Developer/usr/bin:$PATH
+    ISYSROOT="-isysroot /Developer/SDKs/MacOSX10.5.sdk"
+    export LINKFLAGS=$ISYSROOT CXXFLAGS=$ISYSROOT CFLAGS=$ISYSROOT
+    ./configure --prefix=$HOME --without-ssl
+    make
