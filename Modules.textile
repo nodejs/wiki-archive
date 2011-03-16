@@ -358,7 +358,7 @@ h3(#tcp). "TCP / IP":#tcp
 * "jsDAV":https://github.com/mikedeboer/jsdav -- jsDAV allows you to easily add WebDAV and CalDAV support to a NodeJS application. jsDAV is meant to cover the entire standard, and attempts to allow integration using an easy to understand API.
 * "wake_on_lan":https://github.com/agnat/node_wake_on_lan -- Generate and send Wake-on-LAN magic packets
 * "node-tld":https://github.com/donpark/node-tld -- for working with TLD data (registered domain name, etc)
-
+* "NodeSSH":https://github.com/FlashFan/NodeSSH -- a lightweight SSH client
 <a name="rpc"></a>
 
 h3(#rpc). "RPC":#rpc
