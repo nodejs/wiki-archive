@@ -192,6 +192,7 @@ h3(#database). "Database":#database
 * "-node-mysql-":https://github.com/masuidrive/node-mysql -- -Pure Javascript MySQL async driver- [obsolete]
 * "node-mysql-native":https://github.com/sidorares/nodejs-mysql-native -- Yet another pure JS async driver. Pipelining, prepared statements.
 * "node-mysql-libmysqlclient":https://github.com/Sannis/node-mysql-libmysqlclient -- MySQL asynchronous bindings based on libmysqlclient
+* "node-mysql-pool":https://github.com/Kijewski/node-mysql-pool -- connection pool for node.js on top of Felix Geisendörfer's MySQL client node-mysql.
 * "node-sqlite":https://github.com/grumdrig/node-sqlite -- Bindings for SQLite3. Interface conforms to the "HTML5 Web SQL API":http://dev.w3.org/html5/webdatabase/#sql.
 * "node-sqlite":https://github.com/orlandov/node-sqlite -- Fast asynchronous driver: New evented Node.js look, same great SQLite3 taste
 * "node-sqlite3":https://github.com/developmentseed/node-sqlite3 -- Full-featured, asynchronous SQLite bindings with query serialization/parallelization and verbose stack traces
