@@ -407,6 +407,8 @@ h3(#message-queue). "Message Queues":#message-queue
 
 h3(#class-system). "Class systems":#class-system
 * "joose":https://github.com/joose/joose -- complete modern class system for JavaScript, based on concepts from many programming languages
+* "Klass":https://github.com/polvero/klass -- An expressive, cross platform JavaScript Class provider with a slick, classical interface to prototypal inheritance. Includes extends, implements, and the ability to call super classes/methods
+
 
 <a name="testing"></a>
 
