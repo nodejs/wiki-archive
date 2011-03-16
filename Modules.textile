@@ -75,7 +75,7 @@ h4(#web-frameworks-full). "Frameworks":#web-frameworks-full
 * "jimi":https://github.com/colingourlay/jimi -- A framework for writing modular web applications in node.js ("tutorial":https://github.com/colingourlay/jimi/wiki)
 * "js.io":https://github.com/mcarter/js.io -- Javascript Networking Library for building real-time web applications. Also see "JS.io":http://js.io
 * "josi":https://github.com/thatismatt/josi -- An MVC web framework that's easy to pick up but doesn't get in the way. Also see "here":http://thatismatt.github.com/josi/.
-* "Meryl":https://github.com/coffeemate/meryl -- Minimalist web framework! See "homepage":http://coffeemate.github.com/meryl
+* "Meryl":https://github.com/coffeemate/meryl -- Minimalist web framework! See "wiki":http://github.com/coffeemate/meryl/wiki
 * "nodemachine":https://github.com/tautologistics/nodemachine -- A port of WebMachine to Node.js
 * "pintura":https://github.com/kriszyp/pintura -- REST-based web framework/"middleware":https://github.com/kriszyp/pintura/tree/master/lib/jsgi/ stack built for Ajax-style "JSON-driven applications":http://www.sitepen.com/blog/2010/01/22/introducing-pintura/.
 * "spludo":http://spludo.com -- A full featured web framework. Fully Async + MVC with DI, AOP and Storages. ("tutorial":http://docsforit.spludo.com/ + "user-guide":http://spludo.com/user-guide/full/)
