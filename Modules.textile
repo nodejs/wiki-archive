@@ -636,7 +636,7 @@ h3(#api-clients). "API clients":#api-clients
 * "node-bitly":https://github.com/tanepiper/node-bitly -- A bit.ly API library for node.js - provides URL shortening/expanding.  Features full API.
 * "node-flickr":https://github.com/edds/node-flickr -- A simple library to enable easy use of the flickr api
 * "node-github":https://github.com/ajaxorg/node-github -- A wrapper for the "GitHub API":http://develop.github.com/
-* "node-gitteh":https://github.com/samcday/node-gitteh -- Bindings for the "libgit2":http://libgit2.github.com/ library.
+* "node-gitteh":https://github.com/libgit2/node-gitteh -- Async, stable, feature-complete bindings for the "libgit2":http://libgit2.github.com/ library.
 * "nodegit":https://github.com/tbranyen/nodegit -- Asynchronous native Node.js "libgit2":http://libgit2.github.com/ bindings with a convenient api
 * "node-gdata":https://github.com/ammmir/node-gdata -- A generic Google Data API client library
 * "node-googleanalytics":https://github.com/ncb000gt/node-googleanalytics -- Google Analytics GData export library
