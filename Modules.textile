@@ -542,7 +542,7 @@ h4(#parsers-other). "Other Parsers":#parsers-other
 * "CSSOM":https://github.com/NV/CSSOM - CSS parser and CSS Object Model implementation.
 * "glossy":https://github.com/squeeks/glossy - Syslog message parser and producer
 * "UglifyJS":https://github.com/mishoo/UglifyJS - JavaScript parser and compressor/beautifier
-* "formaline":https://github.com/rootslab/formaline.git - module for handling simple form posts and fast parsing of file uploads
+* "formaline":https://github.com/rootslab/formaline - module for handling simple form posts and fast parsing of file uploads
 
 <a name="debugging"></a>
 
