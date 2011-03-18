@@ -45,7 +45,7 @@ These are known issues with the build process. A list of known issues with mingw
 Some people have reported problems getting this to work. If you are affected by this, use git from the windows command prompt.
 
 ### Build fails with msvc / Microsoft Visual Studio installed
-Having Microsoft Visual Studio installed confuses the V8 build system. This is a know issue, there is currently no good solution for it.
+Having Microsoft Visual Studio installed confuses the V8 build system. This is a known issue; there is currently no good solution for it.
 
 Then you need to fix toolician for scons: 'tools/scons/scons-local-1.2.0/SCons/Tool/\__init__.py'.
 
