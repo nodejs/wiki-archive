@@ -7,7 +7,6 @@ h2. Node v0.4.2
 * "node-imap @ 7a9ae9f":https://github.com/mscdex/node-imap/tree/7a9ae9f9bd1acf6a347328a6eeb5ce0a56575f70
 * "node-ncurses @ 0ea9f9d":https://github.com/mscdex/node-ncurses/tree/0ea9f9d4c9a237478d193a8ea85054366e4a2a31
 * "node-oscar @ aa85712":https://github.com/mscdex/node-oscar/tree/aa8571207b24c0cde8a03987b902a37ac4779cb6
-* "node-inotify v0.1.6":http://github.com/c4milo/node-inotify/tree/v0.1.6
 
 h2. Node v0.4.0
 * "Grasshopper v0.4.0":http://github.com/tuxychandru/grasshopper/tree/0.4.0
