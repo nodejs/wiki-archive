@@ -68,6 +68,7 @@ h2. Node v0.2.6
 * "choreographer v0.2.2a":http://github.com/laughinghan/choreographer
 * "ranger v0.1.1":http://github.com/mrduncan/ranger
 * "node-i18n v0.1":http://github.com/ohaibbq/node-i18n
+* "node-inotify v0.1.6":http://github.com/c4milo/node-inotify/tree/v0.1.6
 
 h2. Node v0.2.5
 * "choreographer v0.2.2a":http://github.com/laughinghan/choreographer
