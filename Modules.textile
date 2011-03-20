@@ -719,6 +719,7 @@ h3(#boilerplates). "Boilerplates":#boilerplates
 <a name="other"></a>
 
 h3(#other). "Other":#other
+* "audience-meter":https://github.com/rs/audience-meter -- A simple audience meter based on Socket.IO, perfect for live events tracking
 * "behaviors":https://github.com/caolan/behaviors -- A simple way to check a module's exports, useful for 3rd party plugins and extensions
 * "box2dnode":https://github.com/jadell/box2dnode -- Port of the box2d physics simulation library
 * "node-bullet":https://github.com/feisty/bullet -- "Bullet Physics":http://bulletphysics.org/ for node.js
