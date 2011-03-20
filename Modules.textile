@@ -112,6 +112,7 @@ h4(#middleware). "Middleware":#middleware
 ** "connect-assetmanager":https://github.com/mape/connect-assetmanager - Asset manager for Connect for handling CSS/JS files
 ** "connect-force-domain":https://github.com/shapeshed/connect-force-domain -- force all visitors onto a single domain
 ** "connect-rpx":https://github.com/xrd/connect-rpx - Use RPX with Node.js and Connect
+** "connect_facebook":https://github.com/rsms/connect_facebook - Facebook session support for Connect
 ** "connect_json":https://github.com/rsms/connect_json - Support for parsing JSON requests and sending JSON responses in Connect
 ** "cookie-sessions":https://github.com/caolan/cookie-sessions -- Secure cookie-based session store
 ** "dispatch":https://github.com/caolan/dispatch -- Regular expression URL dispatcher
