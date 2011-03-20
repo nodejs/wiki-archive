@@ -108,19 +108,20 @@ h4(#middleware). "Middleware":#middleware
 ** "routes":https://github.com/dvv/pintura/blob/master/lib/jsgi/routes.js - Simple RegExp based router
 ** "session":https://github.com/kriszyp/pintura/blob/master/lib/jsgi/session.js - Session manager with pluggable storage handling
 <a name="middleware-connect"></a>
-* "Connect":#middleware-connect 
-** "connect-rpx":https://github.com/xrd/connect-rpx - Use RPX with Node.js and Connect  
-** "connect-assetmanager":https://github.com/mape/connect-assetmanager - Asset manager for Connect for handling CSS/JS files  
-** "dispatch":https://github.com/caolan/dispatch -- Regular expression URL dispatcher  
+* "Connect":#middleware-connect
+** "connect-assetmanager":https://github.com/mape/connect-assetmanager - Asset manager for Connect for handling CSS/JS files
+** "connect-force-domain":https://github.com/shapeshed/connect-force-domain -- force all visitors onto a single domain
+** "connect-rpx":https://github.com/xrd/connect-rpx - Use RPX with Node.js and Connect
+** "connect_json":https://github.com/rsms/connect_json - Support for parsing JSON requests and sending JSON responses in Connect
+** "cookie-sessions":https://github.com/caolan/cookie-sessions -- Secure cookie-based session store
+** "dispatch":https://github.com/caolan/dispatch -- Regular expression URL dispatcher
+** "form2json":https://github.com/fgnass/form2json -- Decoder for form-urlencoded data that supports arrays of nested objects
+** "monomi":https://github.com/jamesgpearce/monomi/ -- Provides tools for handling tablet, touch, and mobile browsers
+** "node-facebook-session-cookie":https://github.com/jonashuckestein/node-facebook-session-cookie -- eats facebook cookies from client FB.login() and makes the session available as req.fb_session
 ** "quip":https://github.com/caolan/quip -- Chainable HTTP response API  
-** "cookie-sessions":https://github.com/caolan/cookie-sessions -- Secure cookie-based session store  
-** "monomi":https://github.com/jamesgpearce/monomi/ -- Provides tools for handling tablet, touch, and mobile browsers  
-** "trust-reverse-proxy":https://github.com/zazengo/trust-reverse-proxy - Trust (SSL) connections coming from (a) specific reverse prox(y)(ies)  
-** "form2json":https://github.com/fgnass/form2json -- Decoder for form-urlencoded data that supports arrays of nested objects  
-** "resource-router":https://github.com/s3u/resource-router -- A resource-oriented router to replace the default routing in express  
+** "resource-router":https://github.com/s3u/resource-router -- A resource-oriented router to replace the default routing in express
 ** "session-web-sockets":https://github.com/kazuyukitanimura/session-web-sockets -- Pass session to (Socket.IO-node) in a secure manner.   Originally forked from "bmeck/session-web-sockets":https://github.com/bmeck/session-web-sockets
-** "node-facebook-session-cookie":https://github.com/jonashuckestein/node-facebook-session-cookie -- eats facebook cookies from client FB.login() and makes the session available as req.fb_session  
-** "connect-force-domain":https://github.com/shapeshed/connect-force-domain -- force all visitors onto a single domain   
+** "trust-reverse-proxy":https://github.com/zazengo/trust-reverse-proxy - Trust (SSL) connections coming from (a) specific reverse prox(y)(ies)
 <a name="middleware-other"></a>
 * "Other":#middleware-other 
 ** "node-file-cache":https://github.com/FLYBYME/node-file-cache - Very small file cache for node.js http server.
