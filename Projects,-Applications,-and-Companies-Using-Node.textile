@@ -89,6 +89,7 @@ h2. Projects and Applications
 * "teamit.org":http://teamit.org - Teaim iT is a free and simple issue tracker for small teams and individuals
 * "Multi Touch Multi User Canvas":https://github.com/eddanger/Multi-Touch-Multi-User-Canvas - Node.js, Socket.IO, Express, and a multi touch canvas!
 * "gwt-node":https://github.com/cretz/gwt-node - Node.js in GWT allowing apps to be written in Java.
+* "colorapi":http://colorapi.com/ - Color palette generator from Flickr images.
 
 h2. Companies
 * "Academia.edu":http://www.academia.edu/ - uses node for background data processing
