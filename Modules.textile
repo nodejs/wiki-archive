@@ -874,6 +874,7 @@ h3(#other). "Other":#other
 h2(#managment). "Node Management Utilities":#management
 
 * "n":https://github.com/visionmedia/n -- node version manager
+* "neco":https://github.com/kuno/neco  -- Nodejs Ecosystem COordinator
 
 <a name="commonjs-compat"></a>
 
