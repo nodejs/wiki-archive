@@ -90,6 +90,7 @@ h2. Projects and Applications
 * "Multi Touch Multi User Canvas":https://github.com/eddanger/Multi-Touch-Multi-User-Canvas - Node.js, Socket.IO, Express, and a multi touch canvas!
 * "gwt-node":https://github.com/cretz/gwt-node - Node.js in GWT allowing apps to be written in Java.
 * "colorapi":http://colorapi.com/ - Color palette generator from Flickr images.
+* "Junkyard Jumbotron":https://github.com/c4fcm/Junkyard-Jumbotron - Take a bunch of random displays and stitch them together into a large, virtual display. 
 
 h2. Companies
 * "Academia.edu":http://www.academia.edu/ - uses node for background data processing
