@@ -142,7 +142,7 @@ h2. Companies
 * "OPOWER":http://opowerjobs.com - Using Node for recruiting site, referral tracking, and other new projects.
 * "Original Machine":http://originalmachine.com - Using node for realtime statistics in "Stereofeed":http://stereofeed.com .
 * "Palm/HP":http://developer.palm.com/ - powers all the services in the new WebOS platform for mobile devices.
-* "Pixelspark":http://www.pixelspark.nl/
+* "Pixelspark":http://www.pixelspark.nl/ -- uses node.js for its "CoStore":http://costore.net online data collaboration and synchronization platform
 * "Plurk":http://www.plurk.com/ -- using node.js for its "new comet system":http://amix.dk/blog/post/19490#Plurk-Instant-conversations-using-comet
 * "Proxlet":http://proxlet.com -- Twitter API proxy & browser extension to filter out the noise.
 * "Pushme.to":http://pushme.to -- web to iPhone messenger is using node.js for real-time messaging passing and push notifications
