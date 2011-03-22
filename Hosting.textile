@@ -7,7 +7,7 @@ h2. Managed
 * "no.de":http://no.de - Open
 * "Nodejitsu":http://nodejitsu.com/ - Beta Coming Soon (accepting signups)
 * "NodeJsCloud":http://www.nodejscloud.com/ - Beta Coming Soon (accepting signups)
-* "Nodester":http://nodester.com/
+* "Nodester":http://nodester.com/ - Open source Node.JS hosting platform and services
 * "JSApp.US":http://jsapp.us/ - Open signup, web editing/npm command
 
 h2. Self-Managed
@@ -26,3 +26,8 @@ VPS providers, which often require you to set everything up yourself, including 
 * "VPS.Net":https://www.vps.net/vps-signup
 * "Webbynode":http://www.webbynode.com/ - "setup guide here":http://blog.dtrejo.com/nodejs-for-server-newbs - "deployment guide":http://guides.webbynode.com/articles/rapidapps/nodejs.html - "screencast":http://vimeo.com/15406437
 * "WebFaction":http://webfaction.com - "setup guide here":http://davestevens.us/articles/setting-up-node-js-and-couchdb-on-webfaction
+
+h2. DIY Platforms
+
+Node.JS hosting platforms that allow you to host Node.JS apps on your own servers or clouds.
+* "Nodester":http://nodester.com/ - Open source Node.JS hosting platform and services
