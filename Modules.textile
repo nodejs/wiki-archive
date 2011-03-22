@@ -694,6 +694,7 @@ h3(#async-flow). "Flow control / Async goodies":#async-flow
 * "node-parallel":https://github.com/Tim-Smart/node-parallel -- Create tasks in node.js that run in parallel, or sequences that run tasks one after another.
 * "node-promise":https://github.com/kriszyp/node-promise -- Robust promises for node.js, includes promise utilities and promise-based I/O library
 * "observer":https://github.com/azer/observer -- An alternative observer implementation, for both ss&cs.
+* "poolr":https://github.com/codingforce/poolr -- A lightweight resource pooling/serialization library 
 * "Pulsar":https://github.com/michaelsbradleyjr/Pulsar -- Event emitter abstraction class, allowing reuse of custom-emitter logic across JavaScript environments.
 * "seq":https://github.com/substack/node-seq -- Chainable asynchronous flow control for node.js with sequential and parallel primitives and pipeline-style error handling
 * "sexy":https://github.com/crabdude/sexy -- Proxy (ES5) for writing sequential asynchronous code in a synchronous style
