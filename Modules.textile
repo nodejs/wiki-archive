@@ -123,6 +123,7 @@ h4(#middleware). "Middleware":#middleware
 ** "resource-router":https://github.com/s3u/resource-router -- A resource-oriented router to replace the default routing in express
 ** "session-web-sockets":https://github.com/kazuyukitanimura/session-web-sockets -- Pass session to (Socket.IO-node) in a secure manner.   Originally forked from "bmeck/session-web-sockets":https://github.com/bmeck/session-web-sockets
 ** "trust-reverse-proxy":https://github.com/zazengo/trust-reverse-proxy - Trust (SSL) connections coming from (a) specific reverse prox(y)(ies)
+** "node_signedcookies":https://github.com/mattrobenolt/node_signedcookies -- Extends Express's cookieParser() to read/write signed cookies.
 <a name="middleware-other"></a>
 * "Other":#middleware-other 
 ** "node-file-cache":https://github.com/FLYBYME/node-file-cache - Very small file cache for node.js http server.
@@ -870,6 +871,7 @@ h3(#other). "Other":#other
 * "functools":https://github.com/azer/functools -- A library for functional programming
 * "node-srs":https://github.com/springmeyer/node-srs -- Bindings to libosr for handling spatial references in node
 * "node-i3":https://github.com/badboy/node-i3 -- inter-process communication with i3 using node.js' asynchronous programming style
+* "node_pickle":https://github.com/mattrobenolt/node_pickle -- A Python pickled object <-> JSON transport. Writing/reading Python pickled objects to Javascript objects.
 
 <a name="management"></a>
 
