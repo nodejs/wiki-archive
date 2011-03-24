@@ -93,6 +93,7 @@ h2. Projects and Applications
 * "Junkyard Jumbotron":https://github.com/c4fcm/Junkyard-Jumbotron - Take a bunch of random displays and stitch them together into a large, virtual display. 
 
 h2. Companies
+* "SecretSocial":http://shh.sh - 100% node + SSL, a place for having private conversations.
 * "Academia.edu":http://www.academia.edu/ - uses node for background data processing
 * "Adcloud":http://adcloud.com/ -- Javascript Adserver on EC2
 * "AdGear":http://adgear.com/ -- Real-time advertising reporting
