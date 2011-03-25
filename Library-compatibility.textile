@@ -3,6 +3,9 @@ Node is under heavy development and its API changes rapidly. Instead of simply a
 h2. Node v0.5.0-pre
 * "quickcheck v0.0.0":https://github.com/mcandre/node-quickcheck
 
+h2. Node v0.4.3
+* "Mixpanel-node v0.0.3":https://github.com/carlsverre/mixpanel-node/tree/v0.0.3
+
 h2. Node v0.4.2
 * "node-imap @ 7a9ae9f":https://github.com/mscdex/node-imap/tree/7a9ae9f9bd1acf6a347328a6eeb5ce0a56575f70
 * "node-ncurses @ 0ea9f9d":https://github.com/mscdex/node-ncurses/tree/0ea9f9d4c9a237478d193a8ea85054366e4a2a31
@@ -10,7 +13,6 @@ h2. Node v0.4.2
 
 h2. Node v0.4.0
 * "Grasshopper v0.4.0":http://github.com/tuxychandru/grasshopper/tree/0.4.0
-* "Mixpanel-node v0.0.3":https://github.com/carlsverre/mixpanel-node/tree/v0.0.3
 * "madmimi-node v0.1.0":https://github.com/garrensmith/Madmimi-node
 * "node-ncurses @ 1e0d901":https://github.com/mscdex/node-ncurses/tree/1e0d901fbc72efce9d1274afcbb97dce9d846c6b
 * "node-notifo v1.0":https://github.com/nerocreativo/node-notifo/tree/1.0
