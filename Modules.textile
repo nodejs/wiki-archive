@@ -421,6 +421,7 @@ h3(#class-system). "Class systems":#class-system
 h3(#testing). "Testing / Spec Frameworks":#testing
 * "Benchmark.js":https://github.com/mathiasbynens/Benchmark.js -- A benchmarking library that works on nearly all JavaScript platforms, supports high-resolution timers, and returns statistically significant results.
 * "cucumis":https://github.com/noblesamurai/cucumis -- A "cucumber nodejs":https://github.com/noblesamurai/cucumis implementation. Run plain text gherkin stories with full asynchronous support in native node.js javascript.
+* "databasecleaner":https://github.com/emerleite/node-database-cleaner -- Clean your database after each test. Supports MongoDB, Redis and CouchDB. Will support MySQL and others.
 * "fragile":https://github.com/coffeemate/fragile -- Lightweight command line unit testing tool for nodejs.
 * "Gently":https://github.com/felixge/node-gently -- A node.js module that helps with mocking and behavior verification.
 * "espionage":https://github.com/smtlaissezfaire/espionage -- A mock/stub framework using the test spy pattern.
