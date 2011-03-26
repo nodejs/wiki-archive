@@ -28,6 +28,8 @@ only need 2 things.
 
 Use make to build and install Node (execute the following on the command line)
 
+    git clone git clone https://github.com/joyent/node.git
+    cd node
     export JOBS=2 # optional, sets number of parallel commands.
     mkdir ~/local
     ./configure --prefix=$HOME/local/node
