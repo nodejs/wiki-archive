@@ -3,8 +3,8 @@
 For Debian Squeeze:
 
     root@host: ~ # echo deb http://ftp.us.debian.org/debian/ sid main > /etc/apt/sources.list.d/sid.list
-    root@host: ~ # /usr/bin/aptitude update;/usr/bin/aptitude safe-upgrade # Nice idea to alias this to 'cu'
-    root@host: ~ # aptitude install nodejs # Documentation is great.
+    root@host: ~ # apt-get update
+    root@host: ~ # apt-get install nodejs # Documentation is great.
 
 ## Ubuntu
 
