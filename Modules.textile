@@ -636,6 +636,7 @@ h3(#api-clients). "API clients":#api-clients
 * "flickr-reflection":https://github.com/teemow/node-flickr-reflection -- A flickr client that uses their reflection API (supports auth)
 * "flickrnode":https://github.com/ciaranj/flickrnode -- A library to enable use of the flickr api (not as complete as node-flickr, but supports auth) 
 * "geo":http://github.com/feliperazeek/geonode -- A very basic, but simple, geocode library, currently using Google Geocode API (v3)
+* "gravatar":https://github.com/emerleite/node-gravatar -- Well tested Node.JS Gravatar URL generator
 * "lastfm-node":https://github.com/jammus/lastfm-node -- Read and write to users' recent plays on Last.fm
 * "linkedin-js":https://github.com/masylum/linkedin-js -- Easy peasy linkedin client for connect.
 * "mixpanel-node":https://github.com/carlsverre/mixpanel-node -- A simple Mixpanel API library for server-side analytics.
@@ -664,7 +665,6 @@ h3(#api-clients). "API clients":#api-clients
 * "tweetstream":https://github.com/mikeal/tweetstream -- Stream like API for twitter's HTTP streaming interface.
 * "TwitScript":https://github.com/ryanmcgrath/twitscript -- A port of Twython to Node.js (Twitter API Library)
 * "twitter-js":https://github.com/masylum/twitter-js -- Easy peasy twitter client for connect.
-* "gravatar":https://github.com/emerleite/node-gravatar -- Well tested Node.JS Gravatar URL generator
 * "node-gravatar":https://github.com/arnabc/node-gravatar -- Node.js Gravatar URL generator, can be used with Node.js blogging frameworks 
 * "node-spore":https://github.com/francois2metz/node-spore -- Node.js implementation of "spore":https://github.com/SPORE/ Generate api client with a json file.
 * "akismet-js":https://github.com/oozcitak/akismet-js -- A client for the "Akismet spam detection API":http://akismet.com/development/api/
