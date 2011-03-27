@@ -585,9 +585,10 @@ h3(#debugging). "Debugging / Console Utilities":#debugging
 <a name="compressions"></a>
 
 h3(#compression). "Compression":#compression
+* "gzip":https://github.com/donnerjack13589/node.gzip -- simple compression using default linux "gzip" utility
 * "node-compress":https://github.com/waveto/node-compress -- streaming compression / gzip library
 * "node-compress by egorich239":https://github.com/egorich239/node-compress -- asynchronous streaming (de)compression library with gzip and bzip2 support, originally forked from "waveto's":https://github.com/waveto/node-compress
-* "gzip":https://github.com/donnerjack13589/node.gzip -- simple compression using default linux "gzip" utility
+* "node-snappy":https://github.com/kesla/node-snappy -- compression using Google's snappy library.
 * "node-zipfile":https://github.com/springmeyer/node-zipfile -- inspect and uncompress zipfile archives (C++ around libzip)
 
 <a name="graphics"></a>
