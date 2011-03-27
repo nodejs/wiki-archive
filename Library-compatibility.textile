@@ -2,6 +2,7 @@ Node is under heavy development and its API changes rapidly. Instead of simply a
 
 h2. Node v0.5.0-pre
 * "quickcheck v0.0.0":https://github.com/mcandre/node-quickcheck
+* "node-flags v0.1":https://github.com/dpup/node-flags
 
 h2. Node v0.4.3
 * "Mixpanel-node v0.0.3":https://github.com/carlsverre/mixpanel-node/tree/v0.0.3
