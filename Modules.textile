@@ -8,6 +8,51 @@ If you see a module without a description, feel free to edit the page and add it
 
 When you edit this list, also add your module to [[library-compatibility]] so that users will know which versions of Node it was tested with.
 
+Table of contents!
+
+* <a href="#modules" rel="nofollow">Modules</a>
+** <a href="#web-frameworks" rel="nofollow">Web frameworks</a>
+*** <a href="#web-frameworks-routers" rel="nofollow">Routers</a>
+*** <a href="#web-frameworks-static" rel="nofollow">Static file servers</a>
+*** <a href="#web-frameworks-micro" rel="nofollow">Microframeworks</a>
+*** <a href="#web-frameworks-full" rel="nofollow">Frameworks</a>
+*** <a href="#middleware" rel="nofollow">Middleware</a><br><a name="middleware-jsgi" rel="nofollow"></a>
+*** <a href="#web-frameworks-other" rel="nofollow">Other</a>
+** <a href="#database" rel="nofollow">Database</a>
+** <a href="#templating" rel="nofollow">Templating</a>
+** <a href="#css-engines" rel="nofollow"><span class="caps">CSS</span> Engines</a>
+** <a href="#content-management" rel="nofollow">Content Management Systems</a>
+** <a href="#build-and-deployment" rel="nofollow">Build and Deployment</a>
+** <a href="#package-management" rel="nofollow">Package Management Systems</a>
+** <a href="#module-loader" rel="nofollow">Module Loader</a>
+** <a href="#security" rel="nofollow">OpenSSL / Crypto / Hashing</a>
+** <a href="#smtp" rel="nofollow"><span class="caps">SMTP</span></a>
+** <a href="#tcp" rel="nofollow"><span class="caps">TCP</span> / IP</a>
+** <a href="#rpc" rel="nofollow"><span class="caps">RPC</span></a>
+** <a href="#ws-ajax" rel="nofollow">Web Sockets &amp; Ajax</a>
+** <a href="#message-queue" rel="nofollow">Message Queues</a>
+** <a href="#class-system" rel="nofollow">Class systems</a>
+** <a href="#testing" rel="nofollow">Testing / Spec Frameworks</a>
+** <a href="#wrappers" rel="nofollow">Wrappers</a>
+** <a href="#parsers" rel="nofollow">Parsers</a>
+*** <a href="#parsers-xml" rel="nofollow"><span class="caps">XML</span></a>
+*** <a href="#parsers-commandline" rel="nofollow">Command Line Option Parsers</a>
+*** <a href="#parser_generators" rel="nofollow">Parser Generators</a>
+*** <a href="#parsers-other" rel="nofollow">Other Parsers</a>
+** <a href="#debugging" rel="nofollow">Debugging / Console Utilities</a>
+** <a href="#compression" rel="nofollow">Compression</a>
+** <a href="#graphics" rel="nofollow">Graphics</a>
+** <a href="#payment-gateways" rel="nofollow">Payment Gateways</a>
+** <a href="#api-clients" rel="nofollow"><span class="caps">API</span> clients</a>
+** <a href="#async-flow" rel="nofollow">Flow control / Async goodies</a>
+** <a href="#i18n" rel="nofollow">I18n and L10n modules</a>
+** <a href="#boilerplates" rel="nofollow">Boilerplates</a>
+** <a href="#other" rel="nofollow">Other</a>
+* <a href="#management" rel="nofollow">Node Management Utilities</a>
+* <a href="#commonjs-compat" rel="nofollow">CommonJS compatible modules that can be used with node.</a>
+* <a href="#project-generators" rel="nofollow">Project Generators</a>
+* <a href="#coffee-script" rel="nofollow">CoffeeScript modules</a>
+
 <a name="modules"></a>
 
 h2(#modules). "Modules":#modules
