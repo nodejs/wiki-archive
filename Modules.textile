@@ -230,6 +230,7 @@ h3(#database). "Database":#database
 * "node-mongodb":https://github.com/orlandov/node-mongodb -- Basic MongoDB client implementation in JS/C++
 * "node-mongodb-native":https://github.com/christkv/node-mongodb-native -- A pure javascript driver for MongoDB.
 * "node-mongodb-provider":https://github.com/guileen/node-mongodb-provider -- A javascript provider class for MongoDB to simplify the coding, base on node-mongodb-native.
+* "node-mongolian":https://github.com/marcello3d/node-monglian -- Mongolian DeadBeef is an awesome Mongo DB node.js driver that attempts to closely approximate the mongodb shell
 * "node-orm":https://github.com/dresende/node-orm -- Basic ORM for multiple drivers (still in development, only MySQL driver for now)
 * "mongolia":https://github.com/masylum/mongolia -- Flexible wrapper for the nodejs Mongo driver. Lighter than a ORM but easier to use than the driver.
 * "mongoose":http://www.learnboost.com/mongoose/ -- Mongoose is a javascript library that makes working with MongoDB a breeze.
