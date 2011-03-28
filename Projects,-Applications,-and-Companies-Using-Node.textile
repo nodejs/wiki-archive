@@ -3,7 +3,7 @@ h2. Projects and Applications
 * "node_chat":http://github.com/ry/node_chat by ry
 * "q-chess":http://github.com/wsdookadr/Q-Chess/tree/rewrite by wsdookadr — chess game multiplayer server using [[faye|http://github.com/jcoglan/faye]] + client written using [[Qooxdoo|http://qooxdoo.org/]] 
 * "64squares":http://64sq.com - by weepy - real time live chess running on node + socket.io with facebook
-* [[Constant Sail: Pirates & Traders|http://constantsail.com]] - real time pirate and trading game
+* [[Constant Sail: Pirates & Traders|http://constantsail.com]] - real time pirate game (uses [[mongodb-native|https://github.com/christkv/node-mongodb-native]] and socket.io
 * "node3p":http://github.com/ncb000gt/node3p by ncb000gt -- AmazonMP3 downloader
 * "node3p-web":http://github.com/ncb000gt/node3p-web by ncb000gt -- Web interface for node3p
 * "nodelint":http://github.com/tav/nodelint by tav — run jslint from the command line
