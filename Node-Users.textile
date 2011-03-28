@@ -584,6 +584,8 @@ h2. UTC+3 (+4)
 ** "GitHub":https://github.com/dvv, "Twitter":http://twitter.com/dvv, "Website":http://busybox.net
 * Artem Kulikov (Emmerman)
 ** "GitHub":https://github.com/Emmerman
+* Morteza Milani (weapi), Tehran
+** "GitHub":https://github.com/weapi, "Twitter":http://twitter.com/morteza_milani, "Website":http://weapi.org
 
 h2. UTC+5
 
