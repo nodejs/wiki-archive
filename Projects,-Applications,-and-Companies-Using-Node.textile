@@ -129,6 +129,7 @@ h2. Companies
 * "LearnBoost":http://www.learnboost.com/ - free "gradebook":http://www.learnboost.com and lesson plan software
 * "Left Logic":http://leftlogic.com
 * "LinkiT projects":http://linkit-projects.nl - Use nodejs for developing javascript sites. (http://yalia.nl/
+* "Listener Approved":http://ListenerApproved.com - The radical new music industry
 * "Medium":http://thisismedium.com
 * "Milewise":http://milewise.com - Using Node.js for real-time fare searching
 * "Mockingbird":http://gomockingbird.com -- Using Node.js and operational transformations to do real-time, collaborative wireframing
