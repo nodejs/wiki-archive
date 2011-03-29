@@ -120,6 +120,8 @@ h2. UTC-8
 ** "GitHub":http://github.com/springmeyer, "Twitter":http://twitter.com/springmeyer, "Website":http://dbsgeo.com
 * Reid Burke (reid), Sunnyvale, CA
 ** "GitHub":http://github.com/reid, "Twitter":http://twitter.com/reid, "Website":http://reidburke.com
+* Amir Malik, Cupertino, CA
+** "GitHub":https://github.com/ammmir, "Twitter":https://twitter.com/ammmir, "Website":http://amir.unoc.net
 * Mario Gutierrez (mgutz), San Diego, CA
 ** "GitHub":http://github.com/mgutz, "Website":http://mgutz.com
 * James Pozdena (jpoz), Portland, OR, US
