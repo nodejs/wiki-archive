@@ -120,8 +120,6 @@ h2. UTC-8
 ** "GitHub":http://github.com/springmeyer, "Twitter":http://twitter.com/springmeyer, "Website":http://dbsgeo.com
 * Reid Burke (reid), Sunnyvale, CA
 ** "GitHub":http://github.com/reid, "Twitter":http://twitter.com/reid, "Website":http://reidburke.com
-* Amir Malik, Cupertino, CA
-** "GitHub":https://github.com/ammmir, "Twitter":https://twitter.com/ammmir, "Website":http://amir.unoc.net
 * Mario Gutierrez (mgutz), San Diego, CA
 ** "GitHub":http://github.com/mgutz, "Website":http://mgutz.com
 * James Pozdena (jpoz), Portland, OR, US
@@ -527,6 +525,8 @@ h2. UTC+1 (+2)
 ** "GitHub":http://github.com/kilianc, "Twitter":http://twitter.com/keysee, "Website":http://www.nailik.org
 * Jean-Cédric Thérond (Kane-Thornwyrd), Paris, Fr
 ** "GitHub":https://github.com/kane-thornwyrd, "Twitter":https://twitter.com/#!/Kane_Thornwyrd, "Website":http://jean.cedric.t.free.fr
+* Tobias Schneider (tobeytailor)
+** "GitHub":https://github.com/tobeytailor, "Twitter":https://twitter.com/tobeytailor, "Website":http://uxebu.com
 
 h2. UTC+2 (+3)
 * Aurimas Rimša, Lithuania
