@@ -313,6 +313,8 @@ h2. UTC-5 (-4)
 ** "Twitter":http://twitter.com/jamessun, "GitHub":http://github.com/jamessun/, "Website":http://www.agilemediaventures.com
 * Daniel Luxemburg, New York NY
 ** "Twitter":http://twitter.com/dluxemburg, "GitHub":https://github.com/dluxemburg
+* Trevor Burnham (trevorburnham), Cambridge, MA
+** "Twitter":http://twitter.com/trevorburnham, "Github":http://github.com/TrevorBurnham, "Website":http://trevorburnham.com
 
 h2. UTC-4 (-3)
 
