@@ -134,6 +134,8 @@ h2. UTC-8
 ** "GitHub":http://github.com/sleeplessinc, "Website":http://sleepless.com
 * Scott Sanders (stonecobra), Rough and Ready, CA, US
 ** "GitHub":http://github.com/stonecobra, "Twitter":http://twitter.com/stonecobra, "Website":http://dotnot.org
+* Mark Gukov (markgukov), Vancouver, BC
+** "GitHub":http://github.com/markgukov, "Twitter":http://twitter.com/gukov, "Website":http://markgukov.com
 
 h2. UTC-7 (-6)
 * Aria Stewart (Aria, aredridel), Ridgway, CO, US
