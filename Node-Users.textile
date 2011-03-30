@@ -348,6 +348,8 @@ h2. UTC+0 (0)
 ** "GitHub":http://github.com/tanepiper, "Website":http://tanepiper.com, "Twitter":http://twitter.com/tanepiper
 * Pedro Teixeira (pgte)
 ** "Website":http://metaduck.com, "GitHub":http://github.com/pgte, "Twitter":http://twitter.com/pedrogteixeira
+* João Machado
+** "Website":http://sapo.pt, "GitHub":http://github.com/joaomachado, "Twitter":http://twitter.com/joao_machado
 
 h2. UTC+0 (+1)
 
