@@ -4,6 +4,9 @@ h2. Node v0.5.0-pre
 * "quickcheck v0.0.0":https://github.com/mcandre/node-quickcheck
 * "node-flags v0.1":https://github.com/dpup/node-flags
 
+h2. Node v0.4.4
+* "nohm v0.3.0":https://github.com/maritz/nohm/tree/7fb3590ce656b1
+
 h2. Node v0.4.3
 * "Mixpanel-node v0.0.3":https://github.com/carlsverre/mixpanel-node/tree/v0.0.3
 
