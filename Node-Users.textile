@@ -233,19 +233,19 @@ h2. UTC-5 (-4)
 ** "GitHub":http://github.com/weilawei, "Twitter":http://twitter.com/weilawei
 * Gabriel Farrell (gsf), Philadelphia
 ** "GitHub":http://github.com/gsf, "Website":http://rc98.net
-* Ricardo Lanziano (arpunk), Bogotá, Colombia
+* Ricardo Lanziano (arpunk), Bogota, Colombia
 ** "GitHub":http://github.com/arpunk, "Twitter":http://twitter.com/arpunk
 * Guan Yang
 ** "GitHub":http://github.com/guanix, "Twitter":http://twitter.com/guan
-* Arlo Breault (arlolra), Montréal, QC, Canada
+* Arlo Breault (arlolra), Montreal, QC, Canada
 ** "GitHub":http://github.com/arlolra, "Twitter":http://twitter.com/arlolra, "Website":http://thoughtherder.com
-* Camilo Aguilar (c4milo), Medellín, Colombia
+* Camilo Aguilar (c4milo), Medellin, Colombia
 ** "GitHub":http://github.com/c4milo, "Twitter":http://twitter.com/c4milo
 * Bryan English (bengl), Ottawa, ON, Canada
 ** "GitHub":http://github.com/bengl, "Twitter":http://twitter.com/bengl, "Website":http://bengl.net
 * Rob Righter (robrighter), Chattanooga, TN
 ** "GitHub":http://github.com/robrighter, "Twitter":http://twitter.com/robrighter, "Website":http://robrighter.com
-* Scott González (scott_gonzalez)
+* Scott Gonzalez (scott_gonzalez)
 ** "GitHub":http://github.com/scottgonzalez, "Twitter":http://twitter.com/scott_gonzalez, "Website":http://nemikor.com
 * Jake McGraw (jakemcgraw)
 ** "GitHub":http://github.com/jakemcgraw, "Twitter":http://twitter.com/jakemcgraw
@@ -287,7 +287,7 @@ h2. UTC-5 (-4)
 ** "GitHub":http://github.com/jb55, "Twitter":http://twitter.com/jb55, "Website":http://jb55.com
 * Justin Campbell, Philadelphia, PA
 ** "GitHub":http://github.com/JustinCampbell, "Twitter":http://twitter.com/JustinCampbell, "Website":http://justincampbell.me
-* André Milton, Montreal, QC, Canada
+* Andre Milton, Montreal, QC, Canada
 ** "GitHub":http://github.com/Wred, "Twitter":http://twitter.com/mediafresh, "Website":http://mediafresh.net/
 * Corey Martin (nefD), Atlanta, GA
 ** "GitHub":http://github.com/nefD, "Website":http://www.sevrd.com/
@@ -297,7 +297,7 @@ h2. UTC-5 (-4)
 ** "GitHub":http://github.com/figital, "Website":http://figital.com/
 * Tyler Larson (talltyler), New York, NY
 ** "GitHub":http://github.com/talltyler
-* Francis Houle, Montréal, Canada
+* Francis Houle, Montreal, Canada
 ** "GitHub":http://github.com/fr6, "Website":http://www.francishoule.com
 * David Trejo (DTrejo), Providence, RI, US (also Berkeley, CA)
 ** "GitHub":http://github.com/DTrejo, "Twitter":http://twitter.com/ddtrejo, "Website":http://dtrejo.com
@@ -350,7 +350,7 @@ h2. UTC+0 (0)
 ** "GitHub":http://github.com/tanepiper, "Website":http://tanepiper.com, "Twitter":http://twitter.com/tanepiper
 * Pedro Teixeira (pgte)
 ** "Website":http://metaduck.com, "GitHub":http://github.com/pgte, "Twitter":http://twitter.com/pedrogteixeira
-* João Machado
+* Joao Machado
 ** "Website":http://sapo.pt, "GitHub":http://github.com/joaomachado, "Twitter":http://twitter.com/joao_machado
 
 h2. UTC+0 (+1)
@@ -417,19 +417,19 @@ h2. UTC+1 (+2)
 ** "GitHub":http://github.com/larssmit, "Twitter":http://twitter.com/larssmit, "Website":http://larssmit.com
 * Tommy van der Vorst (pixelspark)
 ** "Website":http://pixelspark.nl/, "Blog":http://tommy.ech-wel.nl, "Twitter":http://twitter.com/tommyvdv
-* Felix Geisendörfer (felixge)
+* Felix Geisendorfer (felixge)
 ** "Blog":http://debuggable.com/blog, "Twitter":http://twitter.com/felixge
-* Nicolas Mérouze (nmerouze)
+* Nicolas Merouze (nmerouze)
 ** "Blog":http://www.boldr.net/, "Twitter":http://twitter.com/nmerouze
 * Michael Borejdo (mediacoder)
 ** "Website":http://www.mediacoders.de/, "Twitter":http://twitter.com/mediacoder
-* Siegmund Führinger
+* Siegmund Fuhringer
 ** "Website":http://sifu.co.at/, "Twitter":http://twitter.com/0xx0
 * Bruno Michel (N`)
 ** "Website":http://dev.af83.com/, "Twitter":http://twitter.com/brmichel
 * Jonas Pfenniger (zimbatm)
 ** "GitHub":http://github.com/zimbatm
-* Jan Schütze (DracoBlue)
+* Jan Schutze (DracoBlue)
 ** "Blog":http://dracoblue.net, "GitHub":http://github.com/DracoBlue, "Twitter":http://twitter.com/DracoBlue
 * Francisco Treacy (frank06)
 ** "Website":http://franciscotreacy.com, "GitHub":http://github.com/frank06, "Twitter":http://twitter.com/frank06
@@ -445,7 +445,7 @@ h2. UTC+1 (+2)
 ** "GitHub":http://github.com/greut, "Twitter":http://twitter.com/greut, "Website":http://yoan.dosimple.ch
 * Christian Kvalheim (christkv)
 ** "GitHub":http://github.com/christkv, "Twitter":http://twitter.com/christkv
-* Pelle Wessman (voxpelli), Malmö, Sweden
+* Pelle Wessman (voxpelli), Malmo, Sweden
 ** "GitHub":http://github.com/voxpelli, "Twitter":http://twitter.com/voxpelli, "Blog":http://goodold.se/blog/tech
 * Alexander Teinum (alexanderte)
 ** "GitHub":http://github.com/alexanderte, "Website":http://www.brevityos.org
@@ -465,11 +465,11 @@ h2. UTC+1 (+2)
 ** "GitHub":http://github.com/Gehhilfe, "Twitter":http://twitter.com/Gehhilfe
 * Tim Eggert (elbart)
 ** "GitHub":http://github.com/elbart, "Twitter":http://twitter.com/elbartus
-* Nico Tübingen (nico2280)
+* Nico Tubingen (nico2280)
 ** "GitHub":http://github.com/nico2280, "Blog":http://vdqv.blogspot.com, "Twitter":http://twitter.com/hiddenCorp
 * Arto Bendiken (bendiken)
 ** "GitHub":http://github.com/bendiken, "Twitter":http://twitter.com/bendiken, "Website":http://blog.datagraph.org/
-* Herbert Vojčík (herbySk)
+* Herbert Voj?ik (herbySk)
 ** "GitHub":http://github.com/herby, "Blog":http://blog.herby.sk/
 * Mathias Pettersson (mape), Sweden
 ** "GitHub":http://github.com/mape, "Twitter":http://twitter.com/mape
@@ -491,25 +491,25 @@ h2. UTC+1 (+2)
 ** "GitHub":http://github.com/proppy, "Twitter":http://twitter.com/proppy, "Website":http://www.aminche.com/
 * Timo Derstappen (teemow)
 ** "GitHub":http://github.com/teemow, "Twitter":http://twitter.com/teemow, "Website":http://teemow.com/
-* Jakub Nešetřil (zzen) - Prague
+* Jakub Ne?et?il (zzen) - Prague
 ** "GitHub":http://github.com/zzen, "Twitter":http://twitter.com/jakubnesetril
 * Zef Hemel (The Netherlands)
 ** "Website":http://zef.me, "GitHub":http://github.com/zefhemel, "Twitter":http://twitter.com/zef
 * Sven Pfleiderer (Germany)
 ** "Website":http://blog.roothausen.de, "GitHub":http://github.com/pfleidi, "Twitter":http://twitter.com/pfleidi
-* Robert Sköld (slaskis), Stockholm, Sweden
+* Robert Skold (slaskis), Stockholm, Sweden
 ** "GitHub":http://github.com/slaskis, "Website":http://publicclass.se/
 * Gregoire Lejeune
 ** "Website":http://algorithmique.net, "GitHub":http://github.com/glejeune, "Twitter":http://twitter.com/glejeune
 * Garren Smith
 **  "GitHub":http://github.com/garrensmith, "Twitter":http://twitter.com/garrensmith
-* Stéphan Kochen (stephank), The Netherlands
+* Stephan Kochen (stephank), The Netherlands
 ** "GitHub":http://github.com/stephank, "Website":http://stephan.kochen.nl/, "Twitter":http://twitter.com/ko_si_nus
-* Tomaž Muraus (Kami), Maribor, Slovenia
+* Toma? Muraus (Kami), Maribor, Slovenia
 ** "GitHub":http://github.com/Kami, "Twitter":http://twitter.com/KamiSLO
 * Bruno Jouhier (bjouhier), Paris, France
 ** "GitHub":http://github.com/bjouhier, "Blog":http://bjouhier.wordpress.com/
-* Daniel Gröber (darklord/dxld), Innsbruck, Austria
+* Daniel Grober (darklord/dxld), Innsbruck, Austria
 ** "GitHub":http://github.com/DanielG
 * Christopher Klein (schakko), Wolfsburg, Germany
 ** "GitHub":http://github.com/schakko, "Blog":http://wap.ecw.de/, "Twitter":http://twitter.com/schakko
@@ -519,7 +519,7 @@ h2. UTC+1 (+2)
 ** "GitHub":http://github.com/hsch, "Twitter":http://twitter.com/heshist
 * Frank Grimm (stride)
 ** "Blog":http://blog.frankgrimm.net, "Twitter":http://twitter.com/frank_grimm
-* Marco Egli (eglinetwork), Zürich, Switzerland
+* Marco Egli (eglinetwork), Zurich, Switzerland
 ** "GitHub":http://github.com/eglinetwork, "Website":http://eglinetwork.ch/, "Twitter":http://twitter.com/marcoegli
 * Eric Abouaf (neyric), Paris, France
 ** "GitHub":http://github.com/neyric, "Twitter":http://twitter.com/neyric, "Website":http://www.neyric.com
@@ -531,13 +531,13 @@ h2. UTC+1 (+2)
 ** "GitHub":http://github.com/podviaznikov, "Twitter":http://twitter.com/podviaznikov
 * Kilian Ciuffolo (kilianc), Brescia, IT
 ** "GitHub":http://github.com/kilianc, "Twitter":http://twitter.com/keysee, "Website":http://www.nailik.org
-* Jean-Cédric Thérond (Kane-Thornwyrd), Paris, Fr
+* Jean-Cedric Therond (Kane-Thornwyrd), Paris, Fr
 ** "GitHub":https://github.com/kane-thornwyrd, "Twitter":https://twitter.com/#!/Kane_Thornwyrd, "Website":http://jean.cedric.t.free.fr
 * Tobias Schneider (tobeytailor), Munich, Germany
 ** "GitHub":https://github.com/tobeytailor, "Twitter":https://twitter.com/tobeytailor, "Website":http://uxebu.com
 
 h2. UTC+2 (+3)
-* Aurimas Rimša, Lithuania
+* Aurimas Rim?a, Lithuania
 ** "GitHub":https://github.com/arimsa, "Website":http://aurimas.rimsa.name/
 * Shimon Doodkin (shimondoodkin), Israel
 ** "GitHub":http://github.com/shimondoodkin, "Twitter":http://twitter.com/doodkin, "Website":http://doodkin.com
@@ -547,7 +547,7 @@ h2. UTC+2 (+3)
 ** "GitHub":http://github.com/8ctave, "Website":http://eventr.com, "Flickr":http://www.flickr.com/photos/8ctave
 * Alexandr Lozovyuk (aleks_raiden), Ukraine/Kiev
 ** "GitHub":http://github.com/aleksraiden, "Blog":http://abrdev.com,"Twitter":http://twitter.com/abrdev
-* Saulius Žemaitaitis (frgtn), Lithuania
+* Saulius ?emaitaitis (frgtn), Lithuania
 ** "GitHub":http://github.com/frgtn, "Website":http://frgtn.net, "Twitter":http://twitter.com/frgtn
 * Andrei Bocan (zmack), Romania
 ** "GitHub":http://github.com/zmack, "Website":http://andascarygoat.com, "Twitter":http://twitter.com/monsieur_pickle
@@ -573,7 +573,7 @@ h2. UTC+2 (+3)
 ** "Website":http://www.powertrip.co.za, "GitHub":http://github.com/jacques, "Twitter":http://twitter.com/jacques
 * Andreas Wolff, Berlin, Germany
 ** "Website":http://phunkwork.com, "GitHub":http://github.com/phunkwork, "Twitter":http://twitter.com/rubyphunk
-* Janne Hietamäki (janne), Finland
+* Janne Hietamaki (janne), Finland
 ** "GitHub":http://github.com/jannehietamaki, "Twitter":http://twitter.com/jannehietamaki
 
 h2. UTC+3 (+4)
@@ -628,7 +628,7 @@ h2. UTC+7
 ** "Twitter":http://twitter.com/xinuc, "GitHub":http://github.com/xinuc/, "Website":http://xinuc.org/
 * Chakrit Wichian (chakrit), Thailand
 ** "Twitter":http://twitter.com/chakrit, "GitHub":http://github.com/chakrit/, "Website":http://chakrit.net/
-* Clément Nodet (clement), Vietnam
+* Clement Nodet (clement), Vietnam
 ** "GitHub":http://github.com/clement/, "Website":http://clementnodet.com/
 * Dhi Aurrahman (dio), Indonesia
 ** "Twitter":http://twitter.com/diorahman, "GitHub":http://github.com/dio/, "Website":http://dio.posterous.com
@@ -691,6 +691,8 @@ h2. UTC+9
 ** "GitHub":http://github.com/nsyee, "Twitter":http://twitter.com/nsyee, "Blog":http://madvib.es/
 * Yohei Sasaki (yssk22), Kanagawa, Japan
 ** "GitHub":http://github.com/yssk22, "Twitter":http://twitter.com/yssk22, "Blog":http://d.hatena.ne.jp/yssk22/
+* Yasuhiro Matsumoto (mattn), Osaka, Japan
+** "GitHub":http://github.com/mattn, "Twitter":http://twitter.com/mattn_jp, "Blog":http://mattn.kaoriya.net/
 
 h2. UTC+9:30 (+10:30)
 * Paul Shirren (shirro), Regional SA, Australia
