@@ -729,11 +729,11 @@ h2. UTC+10 or UTC+11
 * Micheil Smith (miksago), Regional NSW, Australia
 ** "Website":http://brandedcode.com, "Twitter":http://twitter.com/miksago, "GitHub":http://github.com/miksago
 * Jeff Waugh (jdub), Yass, Australia
-** "Website":http://node.io/, "GitHub":http://github.com/chriso, "Facebook":http://facebook.com/chriso
+** "Website":http://bethesignal.org/, "Twitter":http://twitter.com/jdub, "GitHub":http://github.com/jdub
 * Ben Williamson, Canberra, Australia
 ** "GitHub":http://github.com/benw
-** "Website":http://bethesignal.org/, "Twitter":http://twitter.com/jdub, "GitHub":http://github.com/jdub
 * Chris O'Hara, Sydney, Australia
+** "Website":http://node.io/, "GitHub":http://github.com/chriso, "Facebook":http://facebook.com/chriso
 
 h2. UTC+12
 
