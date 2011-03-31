@@ -376,6 +376,7 @@ h3(#security). "OpenSSL / Crypto / Hashing":#security
 * "Hash":https://github.com/michaelsbradleyjr/Hash -- md5, sha1, sha256, sha512, ripemd160 algorithms in JavaScript. Can be used with node.js and browsers.
 * "node-whirlpool":https://github.com/Sembiance/node-whirlpool -- C/C++ mhash lib wrapper providing whirlpool hash support
 * "NodeJS-Keychain":https://github.com/aschlosberg/NodeJS-Keychain -- A security-oriented keychain web service
+* "node_nibbler":https://github.com/mattrobenolt/node_nibbler -- Base32/base64 encoder/decoder.
 
 <a name="smtp"></a>
 
