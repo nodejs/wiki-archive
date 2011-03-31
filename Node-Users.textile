@@ -712,7 +712,6 @@ h2. UTC+10 or UTC+11
 ** "Twitter":http://twitter.com/eugeneware, "GitHub":http://github.com/nharbour, "Website":http://eugeneware.com
 * Peter Georgeson, Melbourne, Australia
 ** "Twitter":http://twitter.com/petergeorgeson, "GitHub":http://github.com/supernifty, "Website":http://www.supernifty.com.au/
-
 * Dr Nic Williams, Brisbane, Australia
 ** "Twitter":http://twitter.com/drnic, "GitHub":http://github.com/drnic, "Website":http://drnicwilliams.com
 * Brian McKenna, Brisbane, Australia
@@ -730,12 +729,11 @@ h2. UTC+10 or UTC+11
 * Micheil Smith (miksago), Regional NSW, Australia
 ** "Website":http://brandedcode.com, "Twitter":http://twitter.com/miksago, "GitHub":http://github.com/miksago
 * Jeff Waugh (jdub), Yass, Australia
-** "Website":http://bethesignal.org/, "Twitter":http://twitter.com/jdub, "GitHub":http://github.com/jdub
-* Chris O'Hara, Brisbane, Australia
 ** "Website":http://node.io/, "GitHub":http://github.com/chriso, "Facebook":http://facebook.com/chriso
 * Ben Williamson, Canberra, Australia
 ** "GitHub":http://github.com/benw
-
+** "Website":http://bethesignal.org/, "Twitter":http://twitter.com/jdub, "GitHub":http://github.com/jdub
+* Chris O'Hara, Sydney, Australia
 
 h2. UTC+12
 
