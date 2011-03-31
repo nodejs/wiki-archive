@@ -357,6 +357,8 @@ h2. UTC+0 (0)
 
 h2. UTC+0 (+1)
 
+* Guy Halford-Thompson (guyht), London
+** "Website":http://cach.me/blog, "GitHub":http://github.com/guyht, "Twitter":http://twitter.com/mrwooster
 * Kiril Piskunov (ciudilo), London
 ** "GitHub":http://github.com/ciudilo, "Twitter":http://twitter.com/ciudilo
 * Caolan McMahon (caolanm)
