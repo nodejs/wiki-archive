@@ -732,7 +732,7 @@ h2. UTC+10 or UTC+11
 ** "Website":http://bethesignal.org/, "Twitter":http://twitter.com/jdub, "GitHub":http://github.com/jdub
 * Ben Williamson, Canberra, Australia
 ** "GitHub":http://github.com/benw
-* Chris O'Hara ([chriso](http://github.com/chriso)), Sydney, Australia
+* Chris O'Hara ("chriso":http://github.com/chriso), Sydney, Australia
 ** "Website":http://node.io/, "GitHub":http://github.com/chriso, "Facebook":http://facebook.com/chriso
 
 h2. UTC+12
