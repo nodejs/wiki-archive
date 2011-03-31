@@ -317,7 +317,8 @@ h2. UTC-5 (-4)
 ** "Twitter":http://twitter.com/dluxemburg, "GitHub":https://github.com/dluxemburg
 * Trevor Burnham (trevorburnham), Cambridge, MA
 ** "Twitter":http://twitter.com/trevorburnham, "Github":http://github.com/TrevorBurnham, "Website":http://trevorburnham.com
-
+* Dylan Greene (dylang), Washington, DC
+** "Twitter":http://twitter.com/dylang, "Github":http://github.com/dylang
 h2. UTC-4 (-3)
 
 * Ritchie Turner (blackdog)
