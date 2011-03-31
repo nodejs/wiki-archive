@@ -733,7 +733,7 @@ h2. UTC+10 or UTC+11
 * Ben Williamson, Canberra, Australia
 ** "GitHub":http://github.com/benw
 * Chris O'Hara ("chriso":http://github.com/chriso), Sydney, Australia
-** "Website":http://node.io/, "GitHub":http://github.com/chriso, "Facebook":http://facebook.com/chriso
+** "GitHub":http://github.com/chriso, "Twitter":http://twitter.com/chris6F, "Website":http://node.io/
 
 h2. UTC+12
 
