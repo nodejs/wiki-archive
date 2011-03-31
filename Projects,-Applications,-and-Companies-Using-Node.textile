@@ -1,6 +1,7 @@
 h2. Projects and Applications
 
 * "node_chat":http://github.com/ry/node_chat by ry
+* "Cloudspace Mockups":http://cloudspacemockups.com/ - A Mockup Creator using node.js and MongoDB by "Cloudspace":http://cloudspace.com
 * "q-chess":http://github.com/wsdookadr/Q-Chess/tree/rewrite by wsdookadr — chess game multiplayer server using [[faye|http://github.com/jcoglan/faye]] + client written using [[Qooxdoo|http://qooxdoo.org/]] 
 * "64squares":http://64sq.com - by weepy - real time live chess running on node + socket.io with facebook
 * [[Constant Sail: Pirates & Traders|http://constantsail.com]] - real time pirate game (uses [[mongodb-native|https://github.com/christkv/node-mongodb-native]] and socket.io)
