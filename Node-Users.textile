@@ -723,7 +723,8 @@ h2. UTC+10 or UTC+11
 ** "Twitter":http://twitter.com/pyrotechnick, "GitHub":http://github.com/pyrotechnick
 * Nicholas Dancer, Brisbane, Australia
 ** "Twitter":http://twitter.com/nj_dancer, "GitHub":http://github.com/DaNCeR
-
+* Denis Hoctor, Sydney, Australia
+** "Twitter":http://twitter.com/denishoctor, "GitHub":http://github.com/denishoctor, "Website":http://denishoctor.me/
 * Andrei Railean, Sydney, Australia
 ** "Twitter":http://twitter.com/andrei_md, "GitHub":http://github.com/andreirailean, "Website":http://andrei.md/
 * Micheil Smith (miksago), Regional NSW, Australia
