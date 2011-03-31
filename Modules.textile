@@ -786,6 +786,7 @@ h3(#other). "Other":#other
 * "closure":https://github.com/lm1/node-closure -- Google closure library wrapper for node.js
 * "cookies":https://github.com/jed/cookies/ -- Signed and unsigned cookies based on Keygrip
 * "node-cuda":https://github.com/kashif/node-cuda -- NVIDIA CUDA bindings for node.js
+* "Curator.js":https://github.com/clvv/Curator.js -- A flexible process monitoring and management framework
 * "node-cookiejar":https://github.com/bmeck/node-cookiejar -- repetitive use cookie jar construction / cookie functionality
 * "daemon.node":https://github.com/Slashed/daemon.node/ -- Unix/Linux Daemons with node.js
 * "datejs":https://github.com/chrisdew/datejs -- DateJS wrapped up as an NPM package for node.js
