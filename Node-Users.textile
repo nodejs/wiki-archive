@@ -673,6 +673,8 @@ h2. UTC+8
 ** "GitHub":http://github.com/kaichen, "Website":http://thekaiway.com, "Twitter":http://twitter.com/chenk85
 * Shawn Meng, Beijing, China
 ** "GitHub":http://github.com/mengxy, "Website":http://mengxy.net, "Twitter":http://twitter.com/mengxy
+* Furqan Anas, Malaysia
+** "Website":http://www.shimory.com, "Facebook":http://www.facebook.com/pyrostrex
 
 h2. UTC+9
 
