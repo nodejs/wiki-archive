@@ -38,3 +38,4 @@ h2. Sites in other languages
 * "Russian":http://nodejs.ru/
 * "Japanese":http://nodejs.jp/
 * "Spanish":http://www.nodejs.es/
+* "Belarusian":http://www.designcontest.com/show/node-js-be
