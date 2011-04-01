@@ -928,6 +928,7 @@ h3(#other). "Other":#other
 * "node-srs":https://github.com/springmeyer/node-srs -- Bindings to libosr for handling spatial references in node
 * "node-i3":https://github.com/badboy/node-i3 -- inter-process communication with i3 using node.js' asynchronous programming style
 * "node_pickle":https://github.com/mattrobenolt/node_pickle -- A Python pickled object <-> JSON transport. Writing/reading Python pickled objects to Javascript objects.
+* "algorithm-js":https://github.com/directidhruv/algorithm-js/ -- Data Structures & Algorithms in Javascript
 
 <a name="management"></a>
 
