@@ -1,4 +1,13 @@
-if you have trouble building with the directions given try this (mac & maybe linux/bsd)  
+If you encounter the following error on linux:
+
+    error: could not configure a cxx compiler!
+
+Run:
+
+    sudo aptitude install build-essential
+
+
+If you have trouble building with the directions given try this (mac & maybe linux/bsd)  
 
 in the root directory of the source code:  
 
