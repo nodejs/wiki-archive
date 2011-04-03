@@ -119,7 +119,7 @@ h4(#web-frameworks-full). "Frameworks":#web-frameworks-full
 * "Grasshopper":https://github.com/tuxychandru/grasshopper/tree/master -- A feature-rich and flexible MVC framework for web applications and services, with integrated **dependency injection**.
 * "Geddy":https://github.com/mde/geddy/tree/master -- A hackable Web-app development framework similar to Merb/Rails/Pylons/Django
 * "jimi":https://github.com/colingourlay/jimi -- A framework for writing modular web applications in node.js ("tutorial":https://github.com/colingourlay/jimi/wiki)
-* "js.io":https://github.com/mcarter/js.io -- Javascript Networking Library for building real-time web applications. Also see "JS.io":http://js.io
+* "js.io":https://github.com/mcarter/js.io -- JavaScript Networking Library for building real-time web applications. Also see "JS.io":http://js.io
 * "josi":https://github.com/thatismatt/josi -- An MVC web framework that's easy to pick up but doesn't get in the way. Also see "here":http://thatismatt.github.com/josi/.
 * "Meryl":https://github.com/coffeemate/meryl -- Minimalist web framework! See "wiki":http://github.com/coffeemate/meryl/wiki
 * "nodemachine":https://github.com/tautologistics/nodemachine -- A port of WebMachine to Node.js
@@ -229,17 +229,17 @@ h3(#database). "Database":#database
 * "node-mdbm":https://github.com/robtweed/node-mdbm -- a client for GT.M and Cache, using an HTTP interface that is based on SimpleDB
 * "node-memcache":https://github.com/vanillahsu/node-memcache -- a memcache client base on libmemcached
 * "node-mongodb":https://github.com/orlandov/node-mongodb -- Basic MongoDB client implementation in JS/C++
-* "node-mongodb-native":https://github.com/christkv/node-mongodb-native -- A pure javascript driver for MongoDB.
-* "node-mongodb-provider":https://github.com/guileen/node-mongodb-provider -- A javascript provider class for MongoDB to simplify the coding, base on node-mongodb-native.
+* "node-mongodb-native":https://github.com/christkv/node-mongodb-native -- A pure JavaScript driver for MongoDB.
+* "node-mongodb-provider":https://github.com/guileen/node-mongodb-provider -- A JavaScript provider class for MongoDB to simplify the coding, base on node-mongodb-native.
 * "node-mongolian":https://github.com/marcello3d/node-mongolian -- Mongolian DeadBeef is an awesome Mongo DB node.js driver that attempts to closely approximate the mongodb shell
 * "node-orm":https://github.com/dresende/node-orm -- Basic ORM for multiple drivers (still in development, only MySQL driver for now)
 * "mongolia":https://github.com/masylum/mongolia -- Flexible wrapper for the nodejs Mongo driver. Lighter than a ORM but easier to use than the driver.
-* "mongoose":http://www.learnboost.com/mongoose/ -- Mongoose is a javascript library that makes working with MongoDB a breeze.
+* "mongoose":http://www.learnboost.com/mongoose/ -- Mongoose is a JavaScript library that makes working with MongoDB a breeze.
 * "mongous":https://github.com/amark/mongous -- Mongous is a dead simple MongoDB driver that uses a jQuery styled syntax.
 * "node-poormansmysql":https://github.com/mscdex/node-poormansmysql -- Asynchronous MySQL driver for node.js using the mysql command-line tool
 * "node-mwire":https://github.com/robtweed/node-mwire -- a client for GT.M & Cache, based on the Redis protocol, with connection pooling (includes web server log to database)
 * "node-mysql":https://github.com/felixge/node-mysql -- A node.js module implementing the MySQL protocol 
-* "-node-mysql-":https://github.com/masuidrive/node-mysql -- -Pure Javascript MySQL async driver- [obsolete]
+* "-node-mysql-":https://github.com/masuidrive/node-mysql -- -Pure JavaScript MySQL async driver- [obsolete]
 * "node-mysql-native":https://github.com/sidorares/nodejs-mysql-native -- Yet another pure JS async driver. Pipelining, prepared statements.
 * "node-mysql-libmysqlclient":https://github.com/Sannis/node-mysql-libmysqlclient -- MySQL asynchronous bindings based on libmysqlclient
 * "node-mysql-pool":https://github.com/Kijewski/node-mysql-pool -- connection pool for node.js on top of Felix Geisendörfer's MySQL client node-mysql.
@@ -265,7 +265,7 @@ h3(#database). "Database":#database
 * "node_redis":https://github.com/mranney/node_redis/ -- Complete Redis client that works well with new node and new Redis
 * "redis2json":https://github.com/igo/redis2json/ -- Easily loads data from Redis into structured JS object
 * "nohm":https://github.com/maritz/nohm -- Redis object relational mapper (ORM)
-* "riak-js":https://github.com/frank06/riak-js -- Riak Javascript client (works on node v0.1.30+)
+* "riak-js":https://github.com/frank06/riak-js -- Riak JavaScript client (works on node v0.1.30+)
 * "node-tokyocabinet":https://github.com/edvakf/node-tokyocabinet -- Tokyo Cabinet binding
 * "node-migrate":https://github.com/rsandor/node-migrate -- Migrate - A database agnostic migration system for Node.js
 * "simpledb":https://github.com/rjrodger/simpledb -- An Amazon AWS SimpleDB library for Node.js that is user-friendly and fault-tolerant
@@ -281,14 +281,14 @@ h3(#templating). "Templating":#templating
 * "Eco":https://github.com/sstephenson/eco -- Embedded CoffeeScript templates
 * "ejs":https://github.com/visionmedia/ejs -- Light-weight Embedded JavaScript implementation. "Express":http://expressjs.com compliant
 * "haml.js":https://github.com/visionmedia/haml.js -- Faster / more compliant implementation of Haml. "Express":http://expressjs.com support
-* "haml-js":https://github.com/creationix/haml-js -- Server side html generation using javascript.  Parses haml templates and renders html.
+* "haml-js":https://github.com/creationix/haml-js -- Server side html generation using JavaScript.  Parses haml templates and renders html.
 * "jqtpl":https://github.com/kof/node-jqtpl -- A port of the new jQuery template engine. "Express":http://expressjs.com compliant
 * "Jade":https://github.com/visionmedia/jade -- Haml-like template engine, fantastic error reporting, easier to read, higher performance. "Express":http://expressjs.com compliant
 * "jazz":https://github.com/shinetech/jazz -- A readable template language for node.
 * "JSON Template":https://github.com/andychu/json-template -- Minimal but powerful template language with multiple implementations.  This is the CommonJS version, tested on Node
-* "jm":https://github.com/smtlaissezfaire/jm -- Another Builder/Markaby/Erectory clone in javascript.
+* "jm":https://github.com/smtlaissezfaire/jm -- Another Builder/Markaby/Erectory clone in JavaScript.
 * "jsdom":https://github.com/tmpvar/jsdom -- pure js implementation of the dom level 1 with some browser augmentation. Level 2 and 3 are being considered.
-* "less.js":https://github.com/cloudhead/less.js -- official port of Less to javascript/node.
+* "less.js":https://github.com/cloudhead/less.js -- official port of Less to JavaScript/node.
 rendering process.
 * "minimal.js":https://github.com/ruidlopes/minimal.js -- a fast HTML+JSON template engine (both browser and Node.js compatible)
 * "Mu (Mustache)":https://github.com/raycmorgan/Mu -- A Mustache engine that compiles templates into very fast rendering functions. Also streams the 
@@ -306,7 +306,7 @@ rendering process.
 * "template.node.js":https://github.com/jazzychad/template.node.js -- A light, fast, cached template module for node.
 * "tmpl-node":https://github.com/jed/tmpl-node -- a feature-rich template module for node.js
 * "weld":https://github.com/hij1nx/weld -- unobtrusive. portable. ANTI-TEMPLATING.
-* "xmlbuilder.js":https://github.com/btakita/xmlbuilder.js -- An xml builder in Javascript inspired by Ruby's Builder, Markaby, and Erector.
+* "xmlbuilder.js":https://github.com/btakita/xmlbuilder.js -- An xml builder in JavaScript inspired by Ruby's Builder, Markaby, and Erector.
 * "xmlbuilder-js":https://github.com/oozcitak/xmlbuilder-js -- An xml builder for node.js similar to java-xmlbuilder.
 * "node-tmpl":https://github.com/jeromeetienne/node-tmpl -- basic templating system in node.js based on shorttag
 
@@ -335,17 +335,17 @@ h3(#build-and-deployment). "Build and Deployment":#build-and-deployment
 * "node-settings":https://github.com/mgutz/node-settings -- Simple, hierarchical environment-based app settings.
 * "Jake":https://github.com/mde/node-jake -- JavaScript build tool similar to Make or Rake.
 * "Masson":https://github.com/wdavidw/node-masson -- Build system and rule management similar to tools like Make, Ant or Rake
-* "Ready.js":https://github.com/dsimard/ready.js -- Continuous javascript integration using JSLint, Google Compiler, Node.js and Git
+* "Ready.js":https://github.com/dsimard/ready.js -- Continuous JavaScript integration using JSLint, Google Compiler, Node.js and Git
 * "nodemon":https://github.com/remy/nodemon -- Monitors all source files, restarts node on changes. Command-line usage, code-passive with ignore list.
-* "node-linter":https://github.com/kof/node-linter -- generic lint wrapper for JSLint, closure-linter, closure-compiler, and Javascript Lint.
-* "nib.js":https://github.com/blambeau/nib.js -- package and minify javascript/coffeescript projects to be embedded in the browser as a single .js file 
+* "node-linter":https://github.com/kof/node-linter -- generic lint wrapper for JSLint, closure-linter, closure-compiler, and JavaScript Lint.
+* "nib.js":https://github.com/blambeau/nib.js -- package and minify JavaScript/coffeescript projects to be embedded in the browser as a single .js file 
 * "nclosure":http://gatapia.github.com/nclosure/ -- Compiler, Style Checker, Utility Library, Unit Testing Framework, JSDoc Documentation Tool.  Built on top of Google Closure tools.
 * "quickcheck":https://github.com/mcandre/node-quickcheck -- Port of the Haskell QuickCheck unit testing framework
 
 <a name="package-management"></a>
 
 h3(#package-management). "Package Management Systems":#package-management
-* "npm":https://github.com/isaacs/npm -- A node package manager that uses CommonJS-compatible package.json files, written in asynchronous javascript.
+* "npm":https://github.com/isaacs/npm -- A node package manager that uses CommonJS-compatible package.json files, written in asynchronous JavaScript.
 * "nmod":https://github.com/jeromeetienne/nmod -- nmod is a node_modules manager. able to install from npm and git
 
 <a name="module-loader"></a>
@@ -469,7 +469,7 @@ h3(#class-system). "Class systems":#class-system
 
 h3(#testing). "Testing / Spec Frameworks":#testing
 * "Benchmark.js":https://github.com/mathiasbynens/Benchmark.js -- A benchmarking library that works on nearly all JavaScript platforms, supports high-resolution timers, and returns statistically significant results.
-* "cucumis":https://github.com/noblesamurai/cucumis -- A "cucumber nodejs":https://github.com/noblesamurai/cucumis implementation. Run plain text gherkin stories with full asynchronous support in native node.js javascript.
+* "cucumis":https://github.com/noblesamurai/cucumis -- A "cucumber nodejs":https://github.com/noblesamurai/cucumis implementation. Run plain text gherkin stories with full asynchronous support in native node.js JavaScript.
 * "databasecleaner":https://github.com/emerleite/node-database-cleaner -- Clean your database after each test. Supports MongoDB, Redis and CouchDB. Will support MySQL and others.
 * "fragile":https://github.com/coffeemate/fragile -- Lightweight command line unit testing tool for nodejs.
 * "Gently":https://github.com/felixge/node-gently -- A node.js module that helps with mocking and behavior verification.
@@ -555,14 +555,14 @@ h4(#parser-generators).  "Parser Generators":#parser_generators
 * "jison":https://github.com/zaach/jison -- A parser generator written in JavaScript; similar to Bison for C
 * "PEG.js":http://pegjs.majda.cz/ -- Parser Generator for JavaScript
 * "PanPG":http://boshi.inimino.org/3box/PanPG/about.html -- A PEG Packrat Parser Generator for JavaScript
-* "jparse":https://github.com/doublec/jsparse -- A parser combinator for javascript based on Packrat parsers and Parsing expression grammars
-* "ReParse":https://github.com/weaver/ReParse -- A parser combinator library for Javascript like Haskell's Parsec
-* "OMeta Javascript compiler":http://tinlizzie.org/ometa-js/#JavaScript_Compiler
+* "jparse":https://github.com/doublec/jsparse -- A parser combinator for JavaScript based on Packrat parsers and Parsing expression grammars
+* "ReParse":https://github.com/weaver/ReParse -- A parser combinator library for JavaScript like Haskell's Parsec
+* "OMeta JavaScript compiler":http://tinlizzie.org/ometa-js/#JavaScript_Compiler
 
 <a name="parsers-other"></a>
 
 h4(#parsers-other). "Other Parsers":#parsers-other
-* "benejson":https://github.com/codehero/benejson -- Includes pure javascript incremental JSON parser
+* "benejson":https://github.com/codehero/benejson -- Includes pure JavaScript incremental JSON parser
 * "mingy":https://github.com/mcantelon/node-mingy -- Command parser for CLI tool and adventure game needs. Works well with the optimist module.
 * "node-rdf2json":https://github.com/baxtree/node-rdf2json -- A simple RDF/XML to JSON converter
 * "node-brainfuck":https://github.com/masylum/node-brainfuck -- Brainfuck interpreter
@@ -734,7 +734,7 @@ h3(#async-flow). "Flow control / Async goodies":#async-flow
 * "chainsaw":https://github.com/substack/node-chainsaw -- Build chainable fluent interfaces the easy way in node.js
 * "Cinch":https://github.com/pguillory/cinch -- Write async code in sync form.
 * "fiberize":https://github.com/lm1/node-fiberize -- Node API wrapper for use with fibers.
-* "fibers":https://github.com/laverdet/node-fibers -- The closest thing to a thread you'll find in Javascript
+* "fibers":https://github.com/laverdet/node-fibers -- The closest thing to a thread you'll find in JavaScript
 * "fibers-promise":https://github.com/lm1/node-fibers-promise -- Small yet powerful promises based on fibers.
 * "sync":https://github.com/0ctave/node-sync -- Write simple and readable synchronous code in nodejs using fibers (based on "node-fibers":https://github.com/laverdet/node-fibers)
 * "flow-js":https://github.com/willconant/flow-js -- Continuation-esque contruct for expressing multi-step asynchronous logic
@@ -775,7 +775,7 @@ h3(#i18n). "I18n and L10n modules":#i18n
 h3(#boilerplates). "Boilerplates":#boilerplates
 * "node-boilerplate":https://github.com/robrighter/node-boilerplate -- Everything you need to get started on a Node.js website with express and socket.IO
 * "transsiberian":https://github.com/masylum/transsiberian -- nodejs boilerplate built upon Express and Mongolia
-* "NodeBase":https://github.com/dotmaster/NodeBase -- A node base class for Javascript and Coffeescript (logging, options, defaults and EventEmitter)
+* "NodeBase":https://github.com/dotmaster/NodeBase -- A node base class for JavaScript and CoffeeScript (logging, options, defaults and EventEmitter)
 
 
 <a name="other"></a>
@@ -795,7 +795,7 @@ h3(#other). "Other":#other
 * "daemon.node":https://github.com/Slashed/daemon.node/ -- Unix/Linux Daemons with node.js
 * "datejs":https://github.com/chrisdew/datejs -- DateJS wrapped up as an NPM package for node.js
 * "dateformat":https://github.com/felixge/node-dateformat -- A node.js package for Steven Levithan's excellent dateFormat() function
-* "relative-date":https://github.com/azer/relative-date/ -- Javascript module for outputting relative dates. 
+* "relative-date":https://github.com/azer/relative-date/ -- JavaScript module for outputting relative dates. 
 * "deja":https://github.com/mcantelon/node-deja -- CLI utility for managing git versioning of dotfiles and such
 * "daemonchk.js":https://github.com/dulac/daemonchk.js/ -- Daemon Monitor (with HTTP interface)
 * "dir2html":https://github.com/mcantelon/node-dir2html -- Render a directory as HTML
@@ -810,7 +810,7 @@ h3(#other). "Other":#other
 * "gex":https://github.com/rjrodger/gex -- Glob expressions for JavaScript
 * "Grillode":https://github.com/stephenmcd/grillode -- Chat server with various modes such as customer support queues, fixed rooms or Chatroulette random matchups. Written in CoffeeScript and uses express, socket.io and Coffeekup.
 * "goog":https://github.com/hsch/node-goog -- Server-side Google Closure with Node.js
-* "gss":https://github.com/DTrejo/gss -- Golden Section Search for javascript. A line search technique used to *minimize* or *maximize* the output of a function.
+* "gss":https://github.com/DTrejo/gss -- Golden Section Search for JavaScript. A line search technique used to *minimize* or *maximize* the output of a function.
 * "hub.js":https://github.com/greut/hubbub.js -- in-memory and in progress PubSubHubBub server
 * "IRC-js":https://github.com/gf3/IRC-js -- An IRC library for node.js 
 * "Jefe":https://github.com/fictorial/jefe -- Jefe is a safe sandbox for running user scripts in Node.js
@@ -916,7 +916,7 @@ h3(#other). "Other":#other
 * "nodejs-clone-extend":https://github.com/shimondoodkin/nodejs-clone-extend -- a versatile clone and extend like underline.js, to clone JavaScript objects, enables DRY.
 * "node-search":https://github.com/talltyler/node-search -- An asynchronous full text search engine for node
 * "printf":https://github.com/wdavidw/node-printf -- Write formatted data (complete implementation of printf and sprintf)
-* "sandbox":https://github.com/gf3/sandbox -- A nifty javascript sandbox for use with node.js
+* "sandbox":https://github.com/gf3/sandbox -- A nifty JavaScript sandbox for use with node.js
 * "Sibilant":https://github.com/jbr/sibilant -- A lispy language that compiles to js
 * "pdf.js":https://github.com/marak/pdf.js -- A pdf renderer for node
 * "node-recaptcha":https://github.com/mirhampt/node-recaptcha -- Display and verify Recaptcha captchas
@@ -930,8 +930,8 @@ h3(#other). "Other":#other
 * "functools":https://github.com/azer/functools -- A library for functional programming
 * "node-srs":https://github.com/springmeyer/node-srs -- Bindings to libosr for handling spatial references in node
 * "node-i3":https://github.com/badboy/node-i3 -- inter-process communication with i3 using node.js' asynchronous programming style
-* "node_pickle":https://github.com/mattrobenolt/node_pickle -- A Python pickled object <-> JSON transport. Writing/reading Python pickled objects to Javascript objects.
-* "algorithm-js":https://github.com/directidhruv/algorithm-js/ -- Data Structures & Algorithms in Javascript
+* "node_pickle":https://github.com/mattrobenolt/node_pickle -- A Python pickled object <-> JSON transport. Writing/reading Python pickled objects to JavaScript objects.
+* "algorithm-js":https://github.com/directidhruv/algorithm-js/ -- Data Structures & Algorithms in JavaScript
 * "magic":https://github.com/aikar/magic/ -- Magic Getters/Setters to write better Promise implementations similar to PHP's __get and __set methods.
 
 <a name="management"></a>
@@ -948,11 +948,11 @@ h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":
 * "async.js":https://github.com/caolan/async/ -- Idiomatic Functional programming lib adapted for asynchronous programming (ie. callbacks)
 * "commonjs-geoUtils":https://github.com/moshen/commonjs-geoUtils -- Geographic Formulas for CommonJS
 * "commonjs-utils":https://github.com/kriszyp/commonjs-utils -- "JSON Schema":http://json-schema.org/, AOP, XML-RPC, lazy arrays, and other utilities
-* "data.js":https://github.com/michael/data/ -- A Javascript data manipulation library (features Graph and Collection data abstraction formats)
+* "data.js":https://github.com/michael/data/ -- A JavaScript data manipulation library (features Graph and Collection data abstraction formats)
 * "datatypes-js":https://github.com/jfd/datatypes-js -- Byte encoding/decoding for typical datatypes in JS.
 * "Dojo Toolkit (Node-compatible fork)":https://github.com/novemberborn/dojo -- The Dojo library for Node
 * "dojo-node (original source used v1.6)":https://github.com/agebrock/dojo-node -- runs dojo, dojox and dijit (special requirements) on node 
-* "email.js":https://github.com/craigw/email.js -- Email generation and parsing in Javascript.
+* "email.js":https://github.com/craigw/email.js -- Email generation and parsing in JavaScript.
 * "inflection":https://github.com/gmosx/inflection -- A port of the Rails/ActiveSupport inflector to JavaScript
 * "match-js":https://github.com/jfd/match-js -- Simple pattern matching (functional style) in JS.
 * "qxoo":https://github.com/fjakobs/qxoo -- port of the qooxdoo OO system to commonJS
@@ -969,4 +969,4 @@ h2(#project-generators). "Project Generators":#project-generators
 h2(#coffee-script). "CoffeeScript modules":#coffee-script
 
 * "simple-geoip":https://github.com/dvv/simple-geoip -- Simple _native_ maxmind GeoIP lookup. 4-6 times faster than node-maxmind-native. See wiki for details. Compiled database of countries "geo.json":https://github.com/dvv/simple-geoip/raw/master/geo.json is available
-* "NodeBase":https://github.com/dotmaster/NodeBase -- A node base class for Javascript and Coffeescript (logging, options, defaults and EventEmitter)
+* "NodeBase":https://github.com/dotmaster/NodeBase -- A node base class for JavaScript and Coffeescript (logging, options, defaults and EventEmitter)
