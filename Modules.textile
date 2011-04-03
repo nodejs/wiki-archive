@@ -958,7 +958,7 @@ h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":
 * "qxoo":https://github.com/fjakobs/qxoo -- port of the qooxdoo OO system to commonJS
 * "schema.js":https://github.com/akidee/schema.js -- Modular data schema validation and adaptation according to JSON Schema for JavaScript
 * "underscore":http://documentcloud.github.com/underscore/ -- Unobtrusive functional programming utility library.
-* "wu.js":http://fitzgen.github.com/wu.js/ -- A lazy, functional Javascript library that ain't nuthin' ta f*ck wit.
+* "wu.js":http://fitzgen.github.com/wu.js/ -- A lazy, functional JavaScript library that ain't nuthin' ta f*ck wit.
 
 h2(#project-generators). "Project Generators":#project-generators
 
