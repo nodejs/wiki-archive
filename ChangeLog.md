@@ -1,3 +1,62 @@
+## 2011.04.01, Version 0.4.5 (stable)
+
+* Fix listener leak in stream.pipe() (Mikeal Rogers)
+
+* Retain buffers in fs.read/write() GH-814 (Jorge Chamorro Bieling)
+
+* TLS performance improvements
+
+* SlowBuffer.prototype.slice bug GH-843
+
+* process.stderr.write should return true
+
+* Immediate pause/resume race condition GH-535 (isaacs)
+
+* Set default host header properly GH-721 (isaacs)
+
+* Upgrade V8 to 3.1.8.8
+
+
+## 2011.03.26, Version 0.4.4 (stable), 25122b986a90ba0982697b7abcb0158c302a1019
+
+* CryptoStream.end shouldn't throw if not writable GH-820
+
+* Drop out if connection destroyed before connect() GH-819
+
+* expose https.Agent
+
+* Correctly setsid in tty.open GH-815
+
+* Bug fix for failed buffer construction
+
+* Added support for removing .once listeners (GH-806)
+
+* Upgrade V8 to 3.1.8.5
+
+## 2011.03.18, Version 0.4.3 (stable)
+
+* Don't decrease server connection counter again if destroy() is called more
+  than once GH-431 (Andreas Reich, Anders Conbere)
+
+* Documentation improvements (koichik)
+
+* Fix bug with setMaxListeners GH-682
+
+* Start up memory footprint improvement. (Tom Hughes)
+
+* Solaris improvements.
+
+* Buffer::Length(Buffer*) should not invoke itself recursively GH-759 (Ben
+  Noordhuis)
+
+* TLS: Advertise support for client certs GH-774 (Theo Schlossnagle)
+
+* HTTP Agent bugs: GH-787, GH-784, GH-803.
+
+* Don't call GetMemoryUsage every 5 seconds.
+
+* Upgrade V8 to 3.1.8.3
+
 ## 2011.03.02, Version 0.4.2 (stable)
 
 * Improve docs.
