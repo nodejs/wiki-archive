@@ -830,7 +830,7 @@ h3(#other). "Other":#other
 * "node-date-utils":https://github.com/JerrySievert/node-date-utils -- Date extensions for NodeJS and client side.
 * "node-discount":https://github.com/visionmedia/node-discount -- C markdown parser "discount" bindings
 * "node-downloader":https://github.com/rabc/node-downloader -- Downloader module for node.js
-* "node-radclient":https://sourceforge.net/projects/node-radclient/ -- RADIUS client wrapper
+* "node-radclient":http://sourceforge.net/projects/node-radclient/ -- RADIUS client wrapper
 * "node-amf":https://github.com/timwhitlock/node-amf -- AMF library and web service gateway for Flash remoting
 * "node-amqp":https://github.com/ry/node-amqp -- AMQP client
 * "node-amqp":https://github.com/xaviershay/node-amqp -- Basic AMQP client
