@@ -38,7 +38,7 @@ Use make to build and install Node (execute the following on the command line)
     export PATH=$HOME/local/node/bin:$PATH
 
 If you have any installation problems, look at [Troubleshooting
-Installation](https://github.com/ry/node/wiki/Troubleshooting-Installation).
+Installation](https://github.com/ry/node/wiki/Troubleshooting-Installation), try an [alternate installation method](https://gist.github.com/579814), or stop into [#node.js](http://webchat.freenode.net/?channels=node.js&uio=d4) and ask questions.
 
 **Pre-built binaries**
 
