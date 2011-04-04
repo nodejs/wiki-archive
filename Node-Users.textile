@@ -551,6 +551,8 @@ h2. UTC+1 (+2)
 ** "GitHub":http://github.com/fhemberger, "Twitter":http://twitter.com/fhemberger, "Website":http://frederic-hemberger.de/
 * Andreas Wolff, Berlin, Germany
 ** "Website":http://phunkwork.com, "GitHub":http://github.com/phunkwork, "Twitter":http://twitter.com/rubyphunk
+* Bert Belder (piscisaureus), Delft, The Netherlands
+** "GitHub":http://github.com/piscisaureus, "Twitter":http://twitter.com/piscisaureus
 
 
 h2. UTC+2 (+3)
