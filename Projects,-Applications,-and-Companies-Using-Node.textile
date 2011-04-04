@@ -1,5 +1,6 @@
 h2. Projects and Applications
 
+* "instant message God":http://imgod.me - by Yoav Givati - Social Art project using node and MySQL
 * "node_chat":http://github.com/ry/node_chat by ry
 * "64squares":http://64sq.com - by weepy - real time live chess running on node + socket.io with facebook
 * "7 Minutes Chrono":http://www.7minuteschrono.com - A speed-dating chat application. Uses websockets and node.js
