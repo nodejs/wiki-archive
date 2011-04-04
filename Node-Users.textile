@@ -136,6 +136,8 @@ h2. UTC-8
 ** "GitHub":http://github.com/stonecobra, "Twitter":http://twitter.com/stonecobra, "Website":http://dotnot.org
 * Mark Gukov (markgukov), Vancouver, BC
 ** "GitHub":http://github.com/markgukov, "Twitter":http://twitter.com/gukov, "Website":http://markgukov.com
+* Antonio Fernandes (afj176), Las Vegas, NV
+** "GitHub":http://github.com/afj176, "Twitter":http://twitter.com/afj176
 
 h2. UTC-7 (-6)
 * Aria Stewart (Aria, aredridel), Ridgway, CO, US
