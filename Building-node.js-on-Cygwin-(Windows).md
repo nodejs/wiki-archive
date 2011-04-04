@@ -1,7 +1,7 @@
 Building node.js on Cygwin (Windows)
 ====
 
-**NOTE: v0.2.6 and v0.3.1 build on Cygwin. The versions between v0.3.1 and v0.4.0 do not. Since v0.4.0 node builds again on Cygwin.**
+**NOTE: v0.2.6 and v0.3.1 build on Cygwin. The versions between v0.3.1 and v0.4.0 do not. Since v0.4.0 node builds again on Cygwin.  Since v0.4.3 node requires gcc4-g++ on Cygwin.**
 
 
 
@@ -10,7 +10,7 @@ This tutorial will guide you through setting up the latest stable version of nod
 1. Grab and install [Cygwin](http://www.cygwin.com/).
 2. Using `setup.exe` from Cygwin (1), install the following packages required to compile node.js:
 
-   * `devel  → gcc-g++`
+   * `devel  → gcc4-g++ [Builds v0.4.2 and earlier use gcc-g++]`
    * `devel  → git`
    * `devel  → make`
    * `devel  → openssl`
