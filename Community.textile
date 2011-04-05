@@ -2,6 +2,7 @@
 | "Mailinglist":http://groups.google.com/group/nodejs | nodejs on Google groups |
 | "IRC":irc://irc.freenode.net/node.js | Node.js on irc.freenode.net #node.js |
 |"Linkedin Node.js Group":http://www.linkedin.com/groups?home=&gid=2906459&trk=anet_ug_hm | Node.js on Linkedin |
+| Stack Overflow - "Node.js related questions":http://stackoverflow.com/questions/tagged/node.js and "node.js chat room":http://chat.stackoverflow.com/rooms/642/node-js | Node.js within the Stack Overflow community |
 
 For help and discussion subscribe to the mailing list at or send an email to nodejs+subscribe@googlegroups.com. 
 For real-time discussion, check irc.freenode.net #node.js. 
