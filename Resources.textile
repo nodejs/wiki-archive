@@ -39,4 +39,3 @@ h2. Sites in other languages
 * "Japanese":http://nodejs.jp/
 * "Spanish":http://www.nodejs.es/
 * "Belarusian":http://www.designcontest.com/show/node-js-be
-* "Farsi":http://nodejs.ir/
