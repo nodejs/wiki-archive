@@ -814,6 +814,7 @@ h3(#other). "Other":#other
 * "gss":https://github.com/DTrejo/gss -- Golden Section Search for JavaScript. A line search technique used to *minimize* or *maximize* the output of a function.
 * "hub.js":https://github.com/greut/hubbub.js -- in-memory and in progress PubSubHubBub server
 * "IRC-js":https://github.com/gf3/IRC-js -- An IRC library for node.js 
+* "ircbot":https://github.com/draggor/node-ircbot -- An IRC bot with plugin support
 * "Jefe":https://github.com/fictorial/jefe -- Jefe is a safe sandbox for running user scripts in Node.js
 * "Jerk":https://github.com/gf3/Jerk -- A fun little IRC bot library for node.js.
 * "json-streamify":https://github.com/DTrejo/json-streamify -- Streaming version of <code>JSON.stringify</code> for node.js
