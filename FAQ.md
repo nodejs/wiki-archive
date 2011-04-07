@@ -14,7 +14,3 @@ The official name of Node is "Node". The unofficial name is "Node.js" to disambi
 * [[n|https://github.com/visionmedia/n]]
 * [[nvm|https://github.com/creationix/nvm]]
 * [[nave|https://github.com/isaacs/nave]]
-
-### Where can I host my Node application?
-
-[[Hosting compatible with Node|Hosting]]
