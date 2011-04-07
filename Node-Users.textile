@@ -681,6 +681,8 @@ h2. UTC+8
 ** "GitHub":http://github.com/mengxy, "Website":http://mengxy.net, "Twitter":http://twitter.com/mengxy
 * Furqan Anas, Malaysia
 ** "Website":http://www.shimory.com, "Facebook":http://www.facebook.com/pyrostrex
+* Miao Xuefei (mxfli), Beijing, China
+** "GitHub":http://github.com/mxfli, "Twitter":http://twitter.com/mxfli
 
 h2. UTC+9
 
