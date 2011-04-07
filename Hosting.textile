@@ -2,6 +2,7 @@ h1. Hosting compatible with Node
 
 h2. Managed
 * "bejes.us":http://bejes.us/ - Beta Coming Soon (accepting signups)
+* "DotCloud*:http://www.dotcloud.com/ - Beta
 * "Duostack":http://www.duostack.com/
 * "Heroku":http://heroku.com/ - Closed Beta
 * "no.de":http://no.de - Open
