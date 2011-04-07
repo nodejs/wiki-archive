@@ -11,6 +11,10 @@ The official name of Node is "Node". The unofficial name is "Node.js" to disambi
 
 ### What is an easy way to manage Node.js versions / installations?
 
-* [[https://github.com/visionmedia/n]]
-* [[https://github.com/creationix/nvm]]
-* [[https://github.com/isaacs/nave]]
+* [[n|https://github.com/visionmedia/n]]
+* [[nvm|https://github.com/creationix/nvm]]
+* [[nave|https://github.com/isaacs/nave]]
+
+### Where can I host my Node application?
+
+[[Hosting compatible with Node|Hosting]]
