@@ -633,7 +633,7 @@ h3(#debugging). "Debugging / Console Utilities":#debugging
 * "webrepl":https://github.com/mmattozzi/webrepl -- Serve a repl for a node process via a simple web ui
 * "Replica":https://github.com/zentooo/Replica -- Repl to exec JavaScript code on browser
 
-<a name="compressions"></a>
+<a name="compression"></a>
 
 h3(#compression). "Compression":#compression
 * "gzip":https://github.com/donnerjack13589/node.gzip -- simple compression using default linux "gzip" utility
