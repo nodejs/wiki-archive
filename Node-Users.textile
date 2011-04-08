@@ -677,6 +677,8 @@ h2. UTC+8
 ** "GitHub":http://github.com/Wyverald, "Website":http://wyverald.tumblr.com, "Twitter":http://twitter.com/wyverald
 * Kai Chen (kaichen), Hangzhou, China
 ** "GitHub":http://github.com/kaichen, "Website":http://thekaiway.com, "Twitter":http://twitter.com/chenk85
+* Cao Yuanyan (yuanyan), Hangzhou, China
+** "GitHub":http://github.com/yuanyan, "Website":http://www.madscript.com, "Twitter":http://twitter.com/caoyuanyan
 * Shawn Meng, Beijing, China
 ** "GitHub":http://github.com/mengxy, "Website":http://mengxy.net, "Twitter":http://twitter.com/mengxy
 * Furqan Anas, Malaysia
