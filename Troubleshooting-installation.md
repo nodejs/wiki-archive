@@ -6,7 +6,7 @@ Run:
 
     sudo aptitude install build-essential
 
-To permanently add node to the path in RHEL/Fedora, add it to your .bashrc:
+To permanently add node to the path in RHEL/Fedora, add it to your .bashrc by running:
 
     echo 'export PATH=$HOME/local/node/bin:$PATH' >> ~/.bashrc
 
