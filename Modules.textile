@@ -669,6 +669,7 @@ h3(#graphics). "Graphics":#graphics
 * "node-mapserver":https://github.com/pagameba/node-mapserver -- mapserver bindings for rendering mapserver MAP files via node
 * "node-exif":https://github.com/gomfunkel/node-exif -- Library to extract Exif metadata from images
 * "ffmpeg-node":https://github.com/xonecas/ffmpeg-node -- Node.js driver for ffmpeg library
+* "node-fluent-ffmpeg":https://github.com/schaermu/node-fluent-ffmpeg -- Fluent API for ffmpeg (including streaming, thumbnail-generation and custom presets)
 * "Face.js":https://github.com/talvarez/Face.js -- Node.js module for detecting faces in images
 
 <a name="payment-gateways"></a>
