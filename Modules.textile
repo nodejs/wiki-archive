@@ -733,6 +733,7 @@ h3(#api-clients). "API clients":#api-clients
 <a name="async-flow"></a>
 
 h3(#async-flow). "Flow control / Async goodies":#async-flow
+* "$N":https://github.com/chjj/-N -- Simple flow control with pretty syntax.
 * "async.js":https://github.com/fjakobs/async.js -- Async chaining and file system utilities. Async.js is to node's fs module, what jQuery is to the DOM.
 * "async":https://github.com/caolan/async -- Comprehensive async map/reduce and flow control (parallel, series, waterfall, auto...) module that works in node and the browser
 * "chainsaw":https://github.com/substack/node-chainsaw -- Build chainable fluent interfaces the easy way in node.js
