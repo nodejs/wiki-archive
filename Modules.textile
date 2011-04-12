@@ -940,6 +940,7 @@ h3(#other). "Other":#other
 * "node_pickle":https://github.com/mattrobenolt/node_pickle -- A Python pickled object <-> JSON transport. Writing/reading Python pickled objects to JavaScript objects.
 * "algorithm-js":https://github.com/directidhruv/algorithm-js/ -- Data Structures & Algorithms in JavaScript
 * "magic":https://github.com/aikar/magic/ -- Magic Getters/Setters to write better Promise implementations similar to PHP's __get and __set methods.
+* "gsl":https://github.com/wdavidw/node-gsl -- GNU Scientific Library (GSL) for NodeJS (Sampling random and gaussian at the moment)
 
 <a name="management"></a>
 
