@@ -428,6 +428,7 @@ h3(#rpc). "RPC":#rpc
 * "IPCNode":https://github.com/Frans-Willem/IPCNode -- Asynchronous RPC library based on node.js Stream object,  with support for circular objects, and explicit reference counting to ensure proper garbage collection.
 * "msgpack-rpc":https://github.com/bpot/node-msgpack-rpc -- Implementation of Msgpack-RPC (http://msgpack.org)
 * "node-ipcbuffer":https://github.com/dazhazit/node-ipcbuffer -- A modified Buffer object to pass large amounts of data between processes using POSIX or System V IPC shared memory and or do fast read and writes to files. (Windows soon).
+* "node-soap":https://github.com/milewise/node-soap -- SOAP client and service (partial support).
 
 <a name="ws-ajax"></a>
 
