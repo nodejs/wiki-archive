@@ -557,6 +557,8 @@ h2. UTC+1 (+2)
 ** "Website":http://phunkwork.com, "GitHub":http://github.com/phunkwork, "Twitter":http://twitter.com/rubyphunk
 * Bert Belder (piscisaureus), Delft, The Netherlands
 ** "GitHub":http://github.com/piscisaureus, "Twitter":http://twitter.com/piscisaureus
+* Lele (eldios) , Lucca , Italy
+** "Website":http://lele.amicofigo.com, "GitHub":http://github.com/eldios, "Twitter":http://twitter.com/eldios
 
 
 h2. UTC+2 (+3)
