@@ -119,11 +119,13 @@ h4(#web-frameworks-full). "Frameworks":#web-frameworks-full
 * "Express":https://github.com/visionmedia/express/tree/master -- A robust feature rich web development framework **inspired by Sinatra**
 * "Grasshopper":https://github.com/tuxychandru/grasshopper/tree/master -- A feature-rich and flexible MVC framework for web applications and services, with integrated **dependency injection**.
 * "Geddy":https://github.com/mde/geddy/tree/master -- A hackable Web-app development framework similar to Merb/Rails/Pylons/Django
+* "GenJi":https://github.com/zir/genji -- A low-level loosely coupled web framework for nodejs
 * "jimi":https://github.com/colingourlay/jimi -- A framework for writing modular web applications in node.js ("tutorial":https://github.com/colingourlay/jimi/wiki)
 * "js.io":https://github.com/mcarter/js.io -- JavaScript Networking Library for building real-time web applications. Also see "JS.io":http://js.io
 * "josi":https://github.com/thatismatt/josi -- An MVC web framework that's easy to pick up but doesn't get in the way. Also see "here":http://thatismatt.github.com/josi/.
 * "Meryl":https://github.com/coffeemate/meryl -- Minimalist web framework! See "wiki":http://github.com/coffeemate/meryl/wiki
 * "nodemachine":https://github.com/tautologistics/nodemachine -- A port of WebMachine to Node.js
+* "nodepress":https://github.com/zir/nodepress -- High-level web framework for nodejs, can be used as a blog by default
 * "pintura":https://github.com/kriszyp/pintura -- REST-based web framework/"middleware":https://github.com/kriszyp/pintura/tree/master/lib/jsgi/ stack built for Ajax-style "JSON-driven applications":http://www.sitepen.com/blog/2010/01/22/introducing-pintura/.
 * "spludo":http://spludo.com -- A full featured web framework. Fully Async + MVC with DI, AOP and Storages. ("tutorial":http://docsforit.spludo.com/ + "user-guide":http://spludo.com/user-guide/full/)
 * "WIN":https://github.com/mathgladiator/win -- A simple page centric framework designed around CouchDB+Mustache
