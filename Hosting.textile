@@ -18,6 +18,7 @@ VPS providers, which often require you to set everything up yourself, including 
 * "BuyVM":http://www.buyvm.net/
 * "DreamHostPS":http://www.dreamhost.com/hosting-vps.html - Need a total reconfiguration of virtual machines
 * "Gandi":http://en.gandi.net/hosting/
+* "IPAP":http://ipap.co/
 * "Joyent":http://www.joyent.com/services/cloudhosting/
 * "Linode":http://www.linode.com/
 * "Oversun Scalaxy":http://www.scalaxy.ru/ - Site in Russian
@@ -25,6 +26,7 @@ VPS providers, which often require you to set everything up yourself, including 
 * "Rackspace Cloud":http://www.rackspacecloud.com/
 * "Slicehost":http://www.slicehost.com/
 * "VPS.Net":https://www.vps.net/vps-signup
+* "W2Servers":http://w2servers.com/
 * "Webbynode":http://www.webbynode.com/ - "setup guide here":http://blog.dtrejo.com/nodejs-for-server-newbs - "deployment guide":http://guides.webbynode.com/articles/rapidapps/nodejs.html - "screencast":http://vimeo.com/15406437
 * "WebFaction":http://webfaction.com - "setup guide here":http://davestevens.us/articles/setting-up-node-js-and-couchdb-on-webfaction
 
