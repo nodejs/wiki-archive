@@ -94,6 +94,7 @@ h2. Projects and Applications
 * "wtfjs":http://github.com/brianleroux/wtfjs - what the fuck javascript!
 * "zztmmo":http://github.com/marak/zztmmo - a zzt based massive multiplayer online game built in node.js and jQuery (currently only single player)
 * [[Constant Sail: Pirates & Traders|http://constantsail.com]] - real time pirate game (uses [[mongodb-native|https://github.com/christkv/node-mongodb-native]] and socket.io)
+* "Chilitweets":http://chilitweets.com - The service discovers the hottest links in your Twitter timeline. Node.js is used in the backed to fetch Tweets and resolve URLs.
 
 h2. Companies
 * "Academia.edu":http://www.academia.edu/ - uses node for background data processing
