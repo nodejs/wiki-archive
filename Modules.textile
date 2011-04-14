@@ -381,6 +381,7 @@ h3(#security). "OpenSSL / Crypto / Hashing":#security
 * "node-whirlpool":https://github.com/Sembiance/node-whirlpool -- C/C++ mhash lib wrapper providing whirlpool hash support
 * "NodeJS-Keychain":https://github.com/aschlosberg/NodeJS-Keychain -- A security-oriented keychain web service
 * "node_nibbler":https://github.com/mattrobenolt/node_nibbler -- Base32/base64 encoder/decoder.
+* "node-cityhash":https://github.com/fbzhong/node-cityhash -- NodeJS bindings for "Google CityHash":http://code.google.com/p/cityhash/ , both CityHash64 and CityHash128 are supported.
 
 <a name="smtp"></a>
 
