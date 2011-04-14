@@ -778,8 +778,8 @@ h3(#async-flow). "Flow control / Async goodies":#async-flow
 
 h3(#i18n). "I18n and L10n modules":#i18n
 * "Lingo":http://bit.ly/cuaHAh -- Inflection, transformation and more
-* "Dialect":https://github.com/masylum/dialect -- Dialect is a painless nodejs module that deals with i18n, and L10n.
-* "express-dialect":https://github.com/masylum/express-dialect -- ExpressDialect is a "pluggable" express application that deals with i18n.
+* "dialect":https://github.com/masylum/dialect -- Translations for nodejs.
+* "dialect-http":https://github.com/masylum/dialect-http -- http client to manage your dialect translations.
 * "node-i18n":https://github.com/ohaibbq/node-i18n -- node-i18n is a minimalistic internationalization module with templating 
 
 <a name="boilerplates"></a>
