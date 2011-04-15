@@ -68,11 +68,11 @@ NPM is a package manager that has become the de-facto standard for
 installing additional node libraries and programs. Here's the quick
 and easy one-liner for installing on Unix.
 
-    $ curl http://npmjs.org/install.sh | sh
+    # curl http://npmjs.org/install.sh | sh
 
 To install a library e.g. Express:
 
-    $ npm install express
+    # npm install express
 
 And visit
 [https://github.com/isaacs/npm](https://github.com/isaacs/npm) for
