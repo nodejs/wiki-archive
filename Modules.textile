@@ -240,6 +240,7 @@ h3(#database). "Database":#database
 * "mongolia":https://github.com/masylum/mongolia -- Flexible wrapper for the nodejs Mongo driver. Lighter than a ORM but easier to use than the driver.
 * "mongoose":http://www.learnboost.com/mongoose/ -- Mongoose is a JavaScript library that makes working with MongoDB a breeze.
 * "mongous":https://github.com/amark/mongous -- Mongous is a dead simple MongoDB driver that uses a jQuery styled syntax.
+* "node-dbi":https://github.com/DrBenton/Node-DBI -- A database abstraction layer, which allows to work with several database engines (MySQL, SQLite) with a single handy API
 * "node-poormansmysql":https://github.com/mscdex/node-poormansmysql -- Asynchronous MySQL driver for node.js using the mysql command-line tool
 * "node-mwire":https://github.com/robtweed/node-mwire -- a client for GT.M & Cache, based on the Redis protocol, with connection pooling (includes web server log to database)
 * "node-mysql":https://github.com/felixge/node-mysql -- A node.js module implementing the MySQL protocol 
