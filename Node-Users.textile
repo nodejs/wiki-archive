@@ -375,8 +375,8 @@ h2. UTC+0 (+1)
 ** "Website":http://www.jasondavies.com/, "GitHub":http://github.com/jasondavies, "Twitter":http://twitter.com/jasondavies
 * Andrew Johnston
 ** "Website":http://www.beardsoft.com/, "GitHub":http://github.com/billywhizz
-* Benedict Eastaugh (ionfish)
-** "Website":http://extralogical.net/, "GitHub":http://github.com/ionfish, "Twitter":http://twitter.com/extralogical
+* Benedict Eastaugh (beastaugh)
+** "Website":http://extralogical.net/, "GitHub":http://github.com/beastaugh, "Twitter":http://twitter.com/extralogical
 * Michael Stillwell (ithinkihaveacat), London
 ** "Website":http://beebo.org/, "GitHub":http://github.com/ithinkihaveacat, "Twitter":http://twitter.com/ithinkihaveacat
 * James Coglan
