@@ -578,6 +578,8 @@ h2. UTC+2 (+3)
 ** "GitHub":http://github.com/zmack, "Website":http://andascarygoat.com, "Twitter":http://twitter.com/monsieur_pickle
 * Petrea Stefan (wsdookadr), Romania/Bucharest
 ** "GitHub":http://github.com/wsdookadr
+* Rares Mirica (mrares), Romania/Bucharest
+** "GitHub":https://github.com/mrares
 * Peteris Krumins (pkrumins), Latvia
 ** "GitHub":http://github.com/pkrumins, "Blog":http://www.catonmat.net, "Twitter":http://twitter.com/pkrumins
 * Andris Reinman (andris9), Estonia
