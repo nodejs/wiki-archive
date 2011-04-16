@@ -1,5 +1,6 @@
 | "nodejs.org":http://nodejs.org/ | Home and Documentation |
-| "Mailinglist":http://groups.google.com/group/nodejs | nodejs on Google groups |
+| "mailing list":http://groups.google.com/group/nodejs | User mailing list |
+| "node-dev":http://groups.google.com/group/node-dev | development list |
 | "IRC":irc://irc.freenode.net/node.js | Node.js on irc.freenode.net #node.js |
 |"Linkedin Node.js Group":http://www.linkedin.com/groups?home=&gid=2906459&trk=anet_ug_hm | Node.js on Linkedin |
 | "Node.js QA":http://stackoverflow.com/questions/tagged/node.js | Node.js on Stack Overflow |
