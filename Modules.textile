@@ -783,6 +783,7 @@ h3(#i18n). "I18n and L10n modules":#i18n
 * "dialect":https://github.com/masylum/dialect -- Translations for nodejs.
 * "dialect-http":https://github.com/masylum/dialect-http -- http client to manage your dialect translations.
 * "node-i18n":https://github.com/ohaibbq/node-i18n -- node-i18n is a minimalistic internationalization module with templating 
+* "i18n-node":https://github.com/mashpie/i18n-node -- Exports common __(), __n() syntax. Stores JSON objects dynamically on code-change.
 
 <a name="boilerplates"></a>
 
