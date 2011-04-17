@@ -5,6 +5,13 @@ h2. Node v0.5.0-pre
 * "node-flags v0.1":https://github.com/dpup/node-flags
 * "escort v0.0.2":https://github.com/ckknight/escort
 
+h2. Node v0.4.6
+* "node-imap v0.2.2":https://github.com/mscdex/node-imap/tree/v0.2.2
+* "node-ncurses v0.2.0":https://github.com/mscdex/node-ncurses/tree/v0.2.0
+* "node-oscar v0.1.0":https://github.com/mscdex/node-oscar/tree/v0.1.0
+* "node-ftp v0.1.1":https://github.com/mscdex/node-ftp/tree/v0.1.1
+* "node-nntp v0.1.0":https://github.com/mscdex/node-nntp/tree/v0.1.0
+
 h2. Node v0.4.4
 * "nohm v0.3.0":https://github.com/maritz/nohm/tree/7fb3590ce656b1
 * "node-soap v0.0.1":https://github.com/milewise/node-soap
