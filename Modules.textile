@@ -694,6 +694,7 @@ h3(#api-clients). "API clients":#api-clients
 * "aws-lib":https://github.com/mirkok/aws-lib -- An extensible library for Amazon Web Services including EC2, SimpleDB and the Product Advertising API
 * "calais":https://github.com/mcantelon/node-calais -- Semantically analyze text using the Calais web service
 * "dropbox-node":https://github.com/evnm/dropbox-node -- A wrapper for the Dropbox API 
+* "dribbble-node":https://github.com/carlosvillu/Dribbble-node -- A wrapper for the Dribbble API
 * "evented-twitter":https://github.com/polotek/evented-twitter -- asynchronous twitter client, supports streaming api
 * "facebook-js":https://github.com/masylum/facebook-js -- Easy peasy facebook client for connect.
 * "facebook-api":https://github.com/mren/facebook-api -- offers high level and low level calls against the facebook graph API
