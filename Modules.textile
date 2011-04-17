@@ -182,6 +182,7 @@ h4(#middleware). "Middleware":#middleware
 ** "http-proxy-selective":https://github.com/zentooo/node-http-proxy-selective -- Proxy server replace some remote static files with local ones
 ** "proxy-tamper":https://github.com/tsyd/proxy-tamper -- A proxy server that allows for the tampering of requests and responses.
 ** "googleclientlogin":https://github.com/Ajnasz/GoogleClientLogin -- Log in to Google services using CllientLogin method
+** "node-reverse-proxy":http://www.steve.org.uk/Software/node-reverse-proxy -- A reverse proxy which forwards incoming HTTP requests to multiple back-end HTTP servers based upon HTTP Host header.
 
 <a name="web-frameworks-other"></a>
 
