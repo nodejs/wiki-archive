@@ -953,6 +953,7 @@ h3(#other). "Other":#other
 * "algorithm-js":https://github.com/directidhruv/algorithm-js/ -- Data Structures & Algorithms in JavaScript
 * "magic":https://github.com/aikar/magic/ -- Magic Getters/Setters to write better Promise implementations similar to PHP's __get and __set methods.
 * "gsl":https://github.com/wdavidw/node-gsl -- GNU Scientific Library (GSL) for NodeJS (Focusing on random at the moment)
+* "youtube-dl":https://github.com/Neat/node-youtube-dl -- A youtube-dl driver for node.
 
 <a name="management"></a>
 
