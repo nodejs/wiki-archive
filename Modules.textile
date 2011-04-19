@@ -481,6 +481,7 @@ h3(#class-system). "Class systems":#class-system
 <a name="testing"></a>
 
 h3(#testing). "Testing / Spec Frameworks":#testing
+* "API Easy":http://indexzero.github.com/api-easy/ -- Fluent (chainable) syntax for generating Vows tests against any RESTful API. 
 * "Benchmark.js":https://github.com/mathiasbynens/Benchmark.js -- A benchmarking library that works on nearly all JavaScript platforms, supports high-resolution timers, and returns statistically significant results.
 * "cucumis":https://github.com/noblesamurai/cucumis -- A "cucumber nodejs":https://github.com/noblesamurai/cucumis implementation. Run plain text gherkin stories with full asynchronous support in native node.js JavaScript.
 * "databasecleaner":https://github.com/emerleite/node-database-cleaner -- Clean your database after each test. Supports MongoDB, Redis and CouchDB. Will support MySQL and others.
