@@ -167,7 +167,7 @@ h2. Companies
 * "SitePen":http://www.sitepen.com/ - Using node for persevere
 * "Siteworx":http://www.siteworx.com/
 * "Sleepless Software Inc.":http://sleepless.com - Servers for large scale Facebook games.
-* "Spoondatee":http://spoondate.com - A delicious way to meet.
+* "Spoondate":http://spoondate.com - A delicious way to meet.
 * "Szpil":https://szpil.com - Keep detailed contact histories. Review past calls and conversations. Collaborate with colleagues. 
 * "Telefónica R&D":http://tid.es
 * "TRData Limited":https://trdata.com - real-time data processing and comet-server
