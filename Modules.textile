@@ -344,6 +344,7 @@ h3(#build-and-deployment). "Build and Deployment":#build-and-deployment
 * "Jake":https://github.com/mde/node-jake -- JavaScript build tool similar to Make or Rake.
 * "Masson":https://github.com/wdavidw/node-masson -- Build system and rule management similar to tools like Make, Ant or Rake
 * "Ready.js":https://github.com/dsimard/ready.js -- Continuous JavaScript integration using JSLint, Google Compiler, Node.js and Git
+* "ripple":https://github.com/thrashaholic/ripple -- Dynamic runtime configuration for node.js deployment based on lorenwest's config.
 * "nodemon":https://github.com/remy/nodemon -- Monitors all source files, restarts node on changes. Command-line usage, code-passive with ignore list.
 * "node-linter":https://github.com/kof/node-linter -- generic lint wrapper for JSLint, closure-linter, closure-compiler, and JavaScript Lint.
 * "nib.js":https://github.com/blambeau/nib.js -- package and minify JavaScript/coffeescript projects to be embedded in the browser as a single .js file 
@@ -643,6 +644,7 @@ h3(#debugging). "Debugging / Console Utilities":#debugging
 * "node-profiler":https://github.com/bnoordhuis/node-profiler -- access the V8 profiler from node.js
 * "node-inspector":https://github.com/dannycoates/node-inspector -- browser based node debugger
 * "node-cli":https://github.com/SchizoDuckie/Node-CLI/ -- cli.clear().move(20,20).color('green').write('Node-cli').down(1).back(7).color('yellow').write('Rocks!')
+* "spine":https://github.com/thrashaholic/spine -- Dynamic runtime monitoring for node.js applications inspired by lorenwest's monitor.
 * "strack":https://github.com/selead/strack -- bug tracking/tickets system
 * "v8-profiler":https://github.com/dannycoates/v8-profiler -- v8 profiler bindings with node-inspector integration
 * "webrepl":https://github.com/mmattozzi/webrepl -- Serve a repl for a node process via a simple web ui
