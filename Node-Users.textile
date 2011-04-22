@@ -174,6 +174,8 @@ h2. UTC-6 (-5)
 ** "Blog":http://howtonode.org/, "Website":http://creationix.com/, "Twitter":http://twitter.com/creationix
 * Bradley Meck (bradleymeck), Austin, TX, US
 ** "GitHub":http://github.com/bmeck
+* Sam Caldwell (x684867), Round Rock, TX, US
+** "Website":http://samcaldwell.net
 * Jim R. Wilson (jimbojw)
 ** "GitHub":http://github.com/jimbojw, "Blog":http://jimbojw.com, "Website":http://trephine.org
 * Brian Hammond (fictorial)
