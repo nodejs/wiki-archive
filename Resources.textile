@@ -2,7 +2,7 @@ h2. Articles
 * "Mastering Node":http://visionmedia.github.com/masteringnode/ - Open Source eBook by TJ Holowaychuk and the node community
 * "How to start develop with node js on linux from windows":http://wiki.github.com/shimondoodkin/nodejs-autorestart/how-to-start-develop-with-node-js-on-linux -- by Shimon Doodkin
 * "pubsub":http://www.nonblocking.io/2009/06/scalable-pubsub-with-nodejs.html -- by Malte Ubl
-* "Going Evented with Node.js":http://www.nakedjavascript.com/going-evented-with-nodejs -- Naked JavaScript
+* -Going Evented with Node.js- -- Naked JavaScript (link broken)
 * "Node.js is genuinely exciting":http://simonwillison.net/2009/Nov/23/node/ -- by Simon Willison
 * "Unit testing in node.js":http://caolanmcmahon.com/unit_testing_nodejs.html -- by Caolan McMahon
 * "Deploying Node.js with Upstart and Monit":http://howtonode.org/deploying-node-upstart-monit -- by Tim Smart
