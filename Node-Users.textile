@@ -326,7 +326,7 @@ h2. UTC-5 (-4)
 * Humberto Pereira, Campo Grande, MS, Brazil
 ** "Github":http://github.com/begnini,  "Twitter":http://twitter.com/begnini
 * Rodrigo Alves Vieira, Recife, PE, Brazil
-** "Github":http://github.com/rodrigo3n,  "Twitter":http://twitter.com/rodrigo3n
+** "Website":http://rodrigo3n.com, "Twitter":http://twitter.com/rodrigo3n, "Github":http://github.com/rodrigo3n
 
 h2. UTC-4 (-3)
 
