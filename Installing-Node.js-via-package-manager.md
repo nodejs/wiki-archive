@@ -32,6 +32,14 @@ Example install using [packer](https://aur.archlinux.org/packages.php?ID=33378):
 
     packer -S nodejs
 
+Also, npm (nodejs package manager) is available as an arch package. It can be installed through packer
+
+    packer -S nodejs-npm
+
+or through yaourt (another aur tool):
+
+    yaourt -S nodejs-npm
+
 ## OSX
 Using [a package](https://sites.google.com/site/nodejsmacosx)
 
