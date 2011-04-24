@@ -85,6 +85,7 @@ h2. Projects and Applications
 * "The API Playground":http://github.com/jashkenas/api-playground - A website where journalists can play with API examples. (CoffeeScript/Express) "apiplayground.org":http://apiplayground.org
 * "The WPilot Project":http://jfd.github.com/wpilot/ - A multiplayer, space shooter, action game in your browser. Server is built in node
 * "The-M-Project":https://github.com/mwaylabs/the-m-project - HTML5 JavaScript framework for mobile apps with nodeJS build tool
+* "TileMill":http://tilemill.com -- A map design studio built by [DevelopmentSeed](http://developmentseed.org)
 * "Top Twitter Trends":http://www.toptwittertrends.com -- Real time trending tweets by node.js, nginx and mongodb
 * "Trending Topics Client":http://github.com/fczuardi/ttc -- Command line tool to get trending topics from Twitter
 * "TxtAtlas: Put your texts on the map":http ://txtatlas.com -- A demo Twilio/Node.js/Redis application by Stephen J. Walters
