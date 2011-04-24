@@ -722,6 +722,7 @@ h3(#api-clients). "API clients":#api-clients
 * "node-c2dm":https://github.com/SpeCT/node-c2dm -- A library to send messages using the Android Cloud to Device Messaging (C2DM) service.
 * "node-bitly":https://github.com/tanepiper/node-bitly -- A bit.ly API library for node.js - provides URL shortening/expanding.  Features full API.
 * "node-flickr":https://github.com/edds/node-flickr -- A simple library to enable easy use of the flickr api
+* "node-foursquare":https://github.com/clintandrewhall/node-foursquare -- A wrapper for the Foursquare v2 API.
 * "node-github":https://github.com/ajaxorg/node-github -- A wrapper for the "GitHub API":http://develop.github.com/
 * "node-gitteh":https://github.com/libgit2/node-gitteh -- Async, stable, feature-complete bindings for the "libgit2":http://libgit2.github.com/ library.
 * "nodegit":https://github.com/tbranyen/nodegit -- Asynchronous native Node.js "libgit2":http://libgit2.github.com/ bindings with a convenient api
