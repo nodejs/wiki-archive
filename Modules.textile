@@ -468,6 +468,7 @@ h3(#ws-ajax). "Web Sockets & Ajax":#ws-ajax
 * "wave-node":https://github.com/scottbw/wave-node -- An implementation of the Google Wave Gadget API for node.js
 * "node-object-sync":https://github.com/jonashuckestein/node-object-sync -- Transparently synchronize objects across connected clients
 * "easywebsocket":https://github.com/jeromeetienne/EasyWebsocket -- WebSocket to broadcast messages to webpages
+* "websocket-node":https://github.com/Worlize/WebSocket-Node -- A WebSocket library that tracks the latest protocol draft versions released by the IETF HyBi working group, currently draft-07.  Experimental.  Mainstream browsers do not yet support this draft of the protocol.
 
 <a name="message-queue"></a>
 
