@@ -33,6 +33,9 @@ h2. Talks
 h2. Demos
 * "Move the Brush":http://www.movethebrush.com -- by Gershon Bialer
 
+h2. Tools
+* "Node.js Package Manager":http://npmjs.org/- by Isaac Z. Schlueter
+
 h2. Sites in other languages
 
 * "Russian":http://nodejs.ru/
