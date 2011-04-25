@@ -637,7 +637,7 @@ h3(#debugging). "Debugging / Console Utilities":#debugging
 * "log.js":https://github.com/visionmedia/log.js -- light-weight logger that works with any writable stream, also supports a streaming parser for reading the log files generated
 * "log4js-node":https://github.com/csausdev/log4js-node -- a port of log4js framework for node.js
 * "logging":https://github.com/dylang/logging -- Super sexy color console logging.
-* "node-logger":https://github.com/igo/node-logger -- Logging lib that can print also module names and line numbers, optionally in color
+* "nlogger":https://github.com/igo/nlogger -- Logging lib that can print also module names and line numbers, optionally in color
 * "monitor":https://github.com/lorenwest/node-monitor -- Runtime monitoring for node.js applications - npm install monitor
 * "node-prompt":https://github.com/jesusabdullah/node-prompt -- Prompt the user for questions in cli!
 * "node-streamlogger":https://github.com/andrewvc/node-streamlogger -- Extensively customizable logging, with support for rotation
