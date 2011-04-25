@@ -5,7 +5,7 @@ h2. Node v0.5.0-pre
 * "node-flags v0.1":https://github.com/dpup/node-flags
 * "escort v0.0.2":https://github.com/ckknight/escort
 
-h1. Node v0.4.7
+h2. Node v0.4.7
 * "websocket-node @ 519f5ba":https://github.com/Worlize/WebSocket-Node
 
 h2. Node v0.4.6
