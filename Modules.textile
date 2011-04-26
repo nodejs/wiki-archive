@@ -215,7 +215,7 @@ h3(#database). "Database":#database
 * "barricane-db":https://github.com/chrisdew/barricane-db -- a transparent object persistence mechanism
 * "couch-ar":https://github.com/scottburch/couch-ar -- a active record implementation for couchDB (uses cradle)
 * "couch-client":https://github.com/creationix/couch-client -- a simple wrapper around CouchDB's http interface
-* "PJsonCouch":https://github.com/creationix/couch-client -- PJs-on-Couch is a client lib for CouchDB's HTTP API
+* "PJsonCouch":https://github.com/landeiro/PJsonCouch -- PJs-on-Couch is a client lib for CouchDB's HTTP API
 * "cradle":https://github.com/cloudhead/cradle -- a high-level, caching, CouchDB client
 * "chaos":https://github.com/stagas/chaos -- Chaos is a Node.js database
 * "data.js":https://github.com/michael/data/ -- Graph persistence for Node.js with CouchDB
