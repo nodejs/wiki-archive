@@ -1,3 +1,7 @@
+Install NodeJS on Windows using Cygwin
+====
+Step by step instructions to install NodeJS on Windows - [[http://boxysystems.com/index.php/step-by-step-instructions-to-install-nodejs-on-windows/]]
+
 Building node.js on Cygwin (Windows)
 ====
 
@@ -54,7 +58,6 @@ This tutorial will guide you through setting up the latest stable version of nod
 For Vim newbies:  use `i` to enter insert mode, `<Esc>:wq` to exit insert mode, enter the command window, **w**rite and **q**uit. If you are uncomfortable with Vim, use `nano /etc/resolv.conf` instead.
 
 Note even if /etc/resolv.conf is correctly set to Google DNS, ECONNREFUSED will happen on .listen() if Windows is not connected to the Internet and you attempt to listen at localhost or the machine name (ie. joeslaptop etc.) Only workaround for offline Windows (such as a development VM) to successfully .listen() at the local host is to use 127.0.0.1 explicitly, neither localhost nor the machine name will currently (0.4.5) resolve when offline.
-
 
 Build Problems
 ====
