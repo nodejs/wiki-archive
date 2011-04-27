@@ -73,3 +73,8 @@ h2. Property Descriptor Defaults
 h1. Missing features
  * @Object.__noSuchMethod__@ (Mozilla extension, not ECMAScript 5)
  * @"use strict";@ syntax extension ("v8 issue":http://code.google.com/p/v8/issues/detail?id=919)
+
+h1. Non-ES5 extensions
+
+h2. Keywords
+ * @const@
