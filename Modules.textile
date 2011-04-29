@@ -238,6 +238,7 @@ h3(#database). "Database":#database
 * "node-memcache":https://github.com/vanillahsu/node-memcache -- a memcache client base on libmemcached
 * "node-mongodb":https://github.com/orlandov/node-mongodb -- Basic MongoDB client implementation in JS/C++
 * "node-mongodb-native":https://github.com/christkv/node-mongodb-native -- A pure JavaScript driver for MongoDB.
+* "mongoq":https://github.com/zzdhidden/mongoq -- Use mongoDB like this: db('testdb').collection('users').find(function(err, cursor){}).
 * "node-mongoskin":https://github.com/guileen/node-mongoskin -- A future layer for node-mongodb-native.
 * "node-mongolian":https://github.com/marcello3d/node-mongolian -- Mongolian DeadBeef is an awesome Mongo DB node.js driver that attempts to closely approximate the mongodb shell
 * "node-orm":https://github.com/dresende/node-orm -- Basic ORM for multiple drivers (still in development, only MySQL driver for now)
