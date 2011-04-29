@@ -234,6 +234,7 @@ h3(#database). "Database":#database
 * "node-handlersocket":https://github.com/koichik/node-handlersocket -- Pure JavaScript client for HandlerSocket 
 * "node-hbase":https://github.com/wdavidw/node-hbase -- HBase client with full API support through the REST connector
 * "node-mdbm":https://github.com/robtweed/node-mdbm -- a client for GT.M and Cache, using an HTTP interface that is based on SimpleDB
+* "memcached":https://github.com/3rd-Eden/node-memcached -- Memcached, membase client with support for memcached clusters using consistent hashing.
 * "node-memcache":https://github.com/vanillahsu/node-memcache -- a memcache client base on libmemcached
 * "node-mongodb":https://github.com/orlandov/node-mongodb -- Basic MongoDB client implementation in JS/C++
 * "node-mongodb-native":https://github.com/christkv/node-mongodb-native -- A pure JavaScript driver for MongoDB.
