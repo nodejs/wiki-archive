@@ -332,7 +332,7 @@ h3(#css-engines). "CSS Engines":#css-engines
 
 h3(#content-management). "Content Management Systems":#content-management
 * "Nodepad":https://github.com/alexyoung/nodepad -- A nice basic web-based notepad.
-* "Calipso":https://github.com/cliftonc/calipso -- An express based CMS, very much work in progress.
+* "Calipso":http://calip.so -- An express based CMS, very much work in progress.
 * "Murray CMS":https://github.com/thecolorblue/murray-cms -- blog platform using express and mongodb.
 
 <a name="build-and-deployment"></a>
