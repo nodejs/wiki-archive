@@ -312,7 +312,7 @@ rendering process.
 * "Parrot":https://github.com/ollym/parrot -- A lightning fast and lightweight templating engine for Node.js (Just 33 LOC!)
 * "PURE":https://github.com/pure/pure -- Unobtrusive Rendering Engine. The HTML view and the JS logic remain strictly separated. Works with jsdom.
 * "stencil":https://github.com/thetalecrafter/stencil -- Renders asynchronous templates shared by server and browser
-* "strobe-templates":https://github.com/skid/strobe-templates -- An asynchronous templating engine with syntax like Django's
+* "Node-T":https://github.com/skid/node-t -- A fast django-like templating engine for node.js
 * "template.node.js":https://github.com/jazzychad/template.node.js -- A light, fast, cached template module for node.
 * "tmpl-node":https://github.com/jed/tmpl-node -- a feature-rich template module for node.js
 * "weld":https://github.com/hij1nx/weld -- unobtrusive. portable. ANTI-TEMPLATING.
