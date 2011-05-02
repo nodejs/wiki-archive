@@ -772,7 +772,6 @@ h3(#async-flow). "Flow control / Async goodies":#async-flow
 * "fiberize":https://github.com/lm1/node-fiberize -- Node API wrapper for use with fibers.
 * "fibers":https://github.com/laverdet/node-fibers -- The closest thing to a thread you'll find in JavaScript
 * "fibers-promise":https://github.com/lm1/node-fibers-promise -- Small yet powerful promises based on fibers.
-* "sync":https://github.com/0ctave/node-sync -- Write simple and readable synchronous code in nodejs using fibers (based on "node-fibers":https://github.com/laverdet/node-fibers)
 * "flow-js":https://github.com/willconant/flow-js -- Continuation-esque contruct for expressing multi-step asynchronous logic
 * "funk":https://github.com/masylum/funk -- Asynchronous parallel functions made funky!
 * "futures":https://github.com/coolaj86/futures - Asynchronous Method Queueing, Futures, Promises, Subscriptions, and other async goodies
@@ -797,6 +796,7 @@ h3(#async-flow). "Flow control / Async goodies":#async-flow
 * "soda.js":https://github.com/tomyan/soda -- Asynchonous JavaScript module loader for client-side and Node.js
 * "Step":https://github.com/creationix/step -- Tool for grouping and chaining asynchronous callbacks, based on "flow-js":https://github.com/willconant/flow-js
 * "streamline.js":https://github.com/Sage/streamlinejs -- Tool that transforms synchronous code into asynchronous code with callbacks. 
+* "sync":https://github.com/0ctave/node-sync -- Write simple and readable synchronous code in nodejs using fibers (based on "node-fibers":https://github.com/laverdet/node-fibers)
 * "zo.js":https://github.com/refractalize/zo -- Async-friendly versions of the usual list processing functions: `map`, `select`, `reduce` and friends.
 
 <a name="i18n"></a>
