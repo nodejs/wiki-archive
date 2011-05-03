@@ -439,6 +439,7 @@ h3(#tcp). "TCP / IP":#tcp
 <a name="rpc"></a>
 
 h3(#rpc). "RPC":#rpc
+* "rpc-socket":https://github.com/FLYBYME/rpc-socket -- Multi socket support for JSON-RPC NOTE: still under development.
 * "bertrpc":https://github.com/rtomayko/node-bertrpc
 * "jsonrpc":https://github.com/ericflo/node-jsonrpc
 * "xmlrpc-c":https://github.com/caludio/node.xmlrpc-c -- Simple XMLRPC Client
