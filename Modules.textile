@@ -586,11 +586,14 @@ h4(#parser-generators).  "Parser Generators":#parser_generators
 * "jparse":https://github.com/doublec/jsparse -- A parser combinator for JavaScript based on Packrat parsers and Parsing expression grammars
 * "ReParse":https://github.com/weaver/ReParse -- A parser combinator library for JavaScript like Haskell's Parsec
 * "OMeta JavaScript compiler":http://tinlizzie.org/ometa-js/#JavaScript_Compiler
+* "tokenizer":http://github.com/floby/node-tokenizer -- A regex-based and streamed tokenizer
+* "parser":http://github.com/floby/node-parser -- A general purpose parser that feeds on tokens (see "tokenizer":http://github.com/floby/node-tokenizer)
 
 <a name="parsers-other"></a>
 
 h4(#parsers-other). "Other Parsers":#parsers-other
 * "benejson":https://github.com/codehero/benejson -- Includes pure JavaScript incremental JSON parser
+* "json-streams":http://github.com/floby/node-json-streams -- Streamed JSON parser and stringifier
 * "mingy":https://github.com/mcantelon/node-mingy -- Command parser for CLI tool and adventure game needs. Works well with the optimist module.
 * "node-rdf2json":https://github.com/baxtree/node-rdf2json -- A simple RDF/XML to JSON converter
 * "node-brainfuck":https://github.com/masylum/node-brainfuck -- Brainfuck interpreter
