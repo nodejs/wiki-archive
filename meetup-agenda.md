@@ -1,3 +1,5 @@
 API Issues
-* promises
-* stream end vs close
+
+1. promises
+
+2. stream end vs close
