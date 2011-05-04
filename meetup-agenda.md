@@ -5,3 +5,8 @@ API Issues
 2. stream end vs close
 
 3. HTTP Agent
+
+
+Other Issues
+
+1. 0.5 Roadmap
