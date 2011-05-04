@@ -671,6 +671,8 @@ h2. UTC+7
 h2. UTC+8
 * Vanilla Hsu(vanillahsu),Taiwan
 ** "GitHub":http://github.com/vanillahsu/
+* Scott Ballantyne (ballantyne), Shanghai, China
+** "GitHub":http://github.com/ballantyne/, "Website":http://scottballantyne.com, "Twitter":http://twitter.com/ussballantyne, "Sina Weibo":http://t.sina.com.cn/ballantyne
 * Yu-Chung Wang(wycc), Taiwan
 ** "Website":http://www.assembla.com/wiki/show/MadButterfly
 * Jerry sun(sjerrys),China
