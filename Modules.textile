@@ -329,6 +329,7 @@ h3(#css-engines). "CSS Engines":#css-engines
 * "scss-js":https://github.com/bmavity/scss-js -- Parses SCSS templates and renders css.
 * "carto":https://github.com/mapbox/carto -- Parses MSS templates and renders XML for "Mapnik":http://mapnik.org/
 * "ccss":https://github.com/aeosynth/ccss -- Parses a JavaScript object and renders css.
+* "less":https://github.com/cloudhead/less.js -- Parses a LESS template and renders css.
 
 <a name="content-management"></a>
 
