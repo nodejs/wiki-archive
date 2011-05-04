@@ -443,6 +443,7 @@ h3(#rpc). "RPC":#rpc
 * "rpc-socket":https://github.com/FLYBYME/rpc-socket -- Multi socket support for JSON-RPC NOTE: still under development.
 * "bertrpc":https://github.com/rtomayko/node-bertrpc
 * "jsonrpc":https://github.com/ericflo/node-jsonrpc
+* "xmlrpc":https://github.com/baalexander/node-xmlrpc -- A pure JavaScript XML-RPC server and client
 * "xmlrpc-c":https://github.com/caludio/node.xmlrpc-c -- Simple XMLRPC Client
 * "dnode":https://github.com/substack/dnode -- Asynchronous remote method calls with transparently wrapped callbacks. Works with regular network streams or socket.io.
 * "node-jsonrpc":https://github.com/andris9/node-jsonrpc -- Another JSON-RPC server
