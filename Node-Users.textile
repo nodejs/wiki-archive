@@ -168,6 +168,8 @@ h2. UTC-7 (-6)
 ** "GitHub":http://github.com/tameramitchell, "Twitter":http://twitter.com/tameramitchell
 * Chris Matthieu (chrismatthieu), Phoenix, AZ, US
 ** "GitHub":http://github.com/chrismatthieu/, "Twitter":http://twitter.com/chrismatthieu/, "Website":http://chrismatthieu.com
+* Mike Brevoort (mbrevoort), Denver, CO, US
+** "GitHub":http://github.com/mbrevoort/, "Twitter":http://twitter.com/mbrevoort/, "Website":http://mike.brevoort.com
 
 h2. UTC-6 (-5)
 * Tim Caswell (creationix), Dallas, TX, US
