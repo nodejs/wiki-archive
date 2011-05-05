@@ -429,6 +429,8 @@ h2. UTC+0 (+1)
 ** "GitHub":http://github.com/p-m-p, "Twitter":http://twitter.com/phil_parsons, "Website":http://www.profilepicture.co.uk
 * Ben Marvell (easternbloc), London, UK
 ** "GitHub":http://github.com/easternbloc, "Twitter":http://twitter.com/easternbloc
+* Martin Dransfield, UK
+** "GitHub":http://github.com/mdransfield, "Twitter":http://twitter.com/dransfim
 
 h2. UTC+1 (+2)
 * Arnout Kazemier (V1), The Netherlands
