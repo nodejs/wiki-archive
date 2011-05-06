@@ -124,6 +124,7 @@ h2. Companies
 * "e-resistible":http://www.e-resistible.co.uk - uses node to handle network communication to restaurant printers
 * "Fictorial":http://fictorial.com
 * "Fostle":http://fostle.com/
+* "Ge.tt":http://ge.tt Kick ass file sharing service - (oh and it's real time)
 * "Heroku":http://blog.heroku.com/archives/2010/4/28/node_js_support_experimental/ Dead simple Node deployment for you, and internal tools for us.
 * "Humansized Inc.":http://www.humansized.com
 * "IDFuze":http://www.idfuze.com - Working on a real time cards game using node.js and socket.io
