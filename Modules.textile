@@ -1,3 +1,4 @@
+
 Check out "search.npmjs.org":http://search.npmjs.org/ too
 
 h2. Adding to this page
@@ -211,75 +212,85 @@ h4(#web-frameworks-other). "Other":#web-frameworks-other
 <a name="database"></a>
 
 h3(#database). "Database":#database
-* "alfred":http://pgte.github.com/alfred/ -- a fast in-process key-value store for node.js that has functional indexes, streams, replication,  ...
-* "awesome":https://github.com/janl/awesome -- a Redis clone in node.js
-* "barricane-db":https://github.com/chrisdew/barricane-db -- a transparent object persistence mechanism
-* "couch-ar":https://github.com/scottburch/couch-ar -- a active record implementation for couchDB (uses cradle)
-* "couch-client":https://github.com/creationix/couch-client -- a simple wrapper around CouchDB's http interface
-* "PJsonCouch":https://github.com/landeiro/PJsonCouch -- PJs-on-Couch is a client lib for CouchDB's HTTP API
-* "cradle":https://github.com/cloudhead/cradle -- a high-level, caching, CouchDB client
-* "chaos":https://github.com/stagas/chaos -- Chaos is a Node.js database
-* "data.js":https://github.com/michael/data/ -- Graph persistence for Node.js with CouchDB
-* "JSLINQ":https://github.com/marak/JSLINQ -- Clean and simple port of Microsoft's LINQ to node.js (and the browser)
-* "keys":https://github.com/visionmedia/keys -- Unified interface for key/value store clients
-* "kyoto-client":https://github.com/wezm/kyoto-client -- A client for the Kyoto Tycoon key-value store
-* "nedis":https://github.com/visionmedia/nedis -- Redis server implementation written with node
-* "node-cask":https://github.com/randomekek/node-cask -- A 140 loc mmap-ed key/value store, based on bitcask
-* "node-couch":https://github.com/sixtus/node-couch/tree/master -- a CouchDB connector
-* "-node-couchdb-":https://github.com/felixge/node-couchdb -- -A full API implementation- [obsolete]
-* "node-couchdb-min":https://github.com/rsms/node-couchdb-min -- Light-weight client with low level of abstraction and connection pooling.
-* "node-dirty":https://github.com/felixge/node-dirty -- A key value store for node.js that is simple, fast & dirty.
-* "node-fleet":https://github.com/jfd/node-fleet -- a FleetDB Client
-* "node-firebird-libfbclient":https://github.com/xdenser/node-firebird-libfbclient -- Firebird SQL client
-* "node-fsdocs":https://github.com/rsms/node-fsdocs -- Simple, ACID and versioned file system-based document database for quick hacks
-* "node-handlersocket":https://github.com/koichik/node-handlersocket -- Pure JavaScript client for HandlerSocket 
-* "node-hbase":https://github.com/wdavidw/node-hbase -- HBase client with full API support through the REST connector
-* "node-mdbm":https://github.com/robtweed/node-mdbm -- a client for GT.M and Cache, using an HTTP interface that is based on SimpleDB
-* "memcached":https://github.com/3rd-Eden/node-memcached -- Memcached, membase client with support for memcached clusters using consistent hashing.
-* "node-memcache":https://github.com/vanillahsu/node-memcache -- a memcache client base on libmemcached
-* "node-mongodb":https://github.com/orlandov/node-mongodb -- Basic MongoDB client implementation in JS/C++
-* "node-mongodb-native":https://github.com/christkv/node-mongodb-native -- A pure JavaScript driver for MongoDB.
-* "mongoq":https://github.com/zzdhidden/mongoq -- Use mongoDB like this: db('testdb').collection('users').find(function(err, cursor){}).
-* "node-mongoskin":https://github.com/guileen/node-mongoskin -- A future layer for node-mongodb-native.
-* "node-mongolian":https://github.com/marcello3d/node-mongolian -- Mongolian DeadBeef is an awesome Mongo DB node.js driver that attempts to closely approximate the mongodb shell
-* "node-orm":https://github.com/dresende/node-orm -- Basic ORM for multiple drivers (still in development, only MySQL driver for now)
-* "mongolia":https://github.com/masylum/mongolia -- Flexible wrapper for the nodejs Mongo driver. Lighter than a ORM but easier to use than the driver.
-* "mongoose":http://www.learnboost.com/mongoose/ -- Mongoose is a JavaScript library that makes working with MongoDB a breeze.
-* "mongous":https://github.com/amark/mongous -- Mongous is a dead simple MongoDB driver that uses a jQuery styled syntax.
-* "node-dbi":https://github.com/DrBenton/Node-DBI -- A database abstraction layer, which allows to work with several database engines (MySQL, SQLite) with a single handy API
-* "node-poormansmysql":https://github.com/mscdex/node-poormansmysql -- Asynchronous MySQL driver for node.js using the mysql command-line tool
-* "node-mwire":https://github.com/robtweed/node-mwire -- a client for GT.M & Cache, based on the Redis protocol, with connection pooling (includes web server log to database)
-* "node-mysql":https://github.com/felixge/node-mysql -- A node.js module implementing the MySQL protocol 
-* "-node-mysql-":https://github.com/masuidrive/node-mysql -- -Pure JavaScript MySQL async driver- [obsolete]
-* "node-mysql-native":https://github.com/sidorares/nodejs-mysql-native -- Yet another pure JS async driver. Pipelining, prepared statements.
-* "node-mysql-libmysqlclient":https://github.com/Sannis/node-mysql-libmysqlclient -- MySQL asynchronous bindings based on libmysqlclient
-* "node-mysql-pool":https://github.com/Kijewski/node-mysql-pool -- connection pool for node.js on top of Felix Geisendörfer's MySQL client node-mysql.
-* "node-sqlite":https://github.com/grumdrig/node-sqlite -- Bindings for SQLite3. Interface conforms to the "HTML5 Web SQL API":http://dev.w3.org/html5/webdatabase/#sql.
-* "node-sqlite":https://github.com/orlandov/node-sqlite -- Fast asynchronous driver: New evented Node.js look, same great SQLite3 taste
-* "node-sqlite3":https://github.com/developmentseed/node-sqlite3 -- Full-featured, asynchronous SQLite bindings with query serialization/parallelization and verbose stack traces
-* "node-tiny":https://github.com/chjj/node-tiny -- An experimental in-process database similar to nStore.
-* "node-tyrant":https://github.com/waveto/node-tyrant/tree/master -- An implementation of the Tokyo Tyrant network protocol for the Node.js
-* "node.dbslayer.js":https://github.com/Guille/node.dbslayer.js/ - Interface to DBSlayer (MySQL)
-* "node_postgres":https://github.com/ry/node_postgres -- Beginning of bindings to libpg
-* "node-postgres":https://github.com/brianc/node-postgres -- Heavily tested, heavily documented, working Postgres client
-* "FastLegS":https://github.com/didit-tech/FastLegS - PostgreSQL ORM on top of node-postgres.
-* "nosql-thin":https://github.com/dmcquay/node-nosql-thin - Makes easier to work with MongoDB. Not an ORM. Not production ready.
-* "persistence":https://github.com/creationix/node-persistence -- Multi-backend database/nosql system.  Backends: Sqlite3, Postgres and Memory.
-* "persistence.js":https://github.com/zefhemel/persistencejs -- An object-relational mapper (ORM) for node. Backends: MySQL.
-* "perstore":https://github.com/kriszyp/perstore -- JavaScript persistence/object store with pluggable storage based on the "W3C DB API":http://www.w3.org/TR/IndexedDB/
-* "postgres-js":https://github.com/creationix/postgres-js/tree/master -- Postgres protocol implemented in pure JS
-* "postgres-js":https://github.com/aurynn/postgres-js/ -- Fork of postgres-js, adds parameterized queries and prepared statements.
-* "RDX":https://github.com/kreetitech/RDX - An object-relational mapper (ORM) for node. Backends: node-mysql-libmysqlclient.
-* "redis-node":https://github.com/bnoguchi/redis-node -- Comprehensive, high speed Redis client
-* "redis-node-client":https://github.com/fictorial/redis-node-client/tree/master -- Redis Client by Fictorial (deprecated)
-* "node_redis":https://github.com/mranney/node_redis/ -- Complete Redis client that works well with new node and new Redis
-* "redis2json":https://github.com/igo/redis2json/ -- Easily loads data from Redis into structured JS object
-* "nohm":https://github.com/maritz/nohm -- Redis object relational mapper (ORM)
-* "riak-js":https://github.com/frank06/riak-js -- Riak JavaScript client (works on node v0.1.30+)
-* "node-tokyocabinet":https://github.com/edvakf/node-tokyocabinet -- Tokyo Cabinet binding
-* "node-migrate":https://github.com/rsandor/node-migrate -- Migrate - A database agnostic migration system for Node.js
-* "simpledb":https://github.com/rjrodger/simpledb -- An Amazon AWS SimpleDB library for Node.js that is user-friendly and fault-tolerant
-* "sequelize":https://github.com/sdepold/sequelize - An easy-to-use MySQL Object-Relational-Mapper (ORM) for Node.JS
+
+* "Postgresql":#db-pg
+** "node_postgres":https://github.com/ry/node_postgres -- Beginning of bindings to libpg
+** "node-postgres":https://github.com/brianc/node-postgres -- Heavily tested, heavily documented, working Postgres client
+** "FastLegS":https://github.com/didit-tech/FastLegS - PostgreSQL ORM on top of node-postgres.
+** "postgres-js":https://github.com/creationix/postgres-js/tree/master -- Postgres protocol implemented in pure JS
+** "postgres-js":https://github.com/aurynn/postgres-js/ -- Fork of postgres-js, adds parameterized queries and prepared statements.
+* "MySQL":#db-mysql
+** "node.dbslayer.js":https://github.com/Guille/node.dbslayer.js/ - Interface to DBSlayer (MySQL)
+** "node-poormansmysql":https://github.com/mscdex/node-poormansmysql -- Asynchronous MySQL driver for node.js using the mysql command-line tool
+** "node-mysql":https://github.com/felixge/node-mysql -- A node.js module implementing the MySQL protocol 
+*** "node-mysql-pool":https://github.com/Kijewski/node-mysql-pool -- connection pool for node.js on top of Felix Geisendörfer's MySQL client node-mysql.
+** "-node-mysql-":https://github.com/masuidrive/node-mysql -- -Pure JavaScript MySQL async driver- [obsolete]
+** "node-mysql-native":https://github.com/sidorares/nodejs-mysql-native -- Yet another pure JS async driver. Pipelining, prepared statements.
+** "node-mysql-libmysqlclient":https://github.com/Sannis/node-mysql-libmysqlclient -- MySQL asynchronous bindings based on libmysqlclient
+*** "RDX":https://github.com/kreetitech/RDX - An object-relational mapper (ORM) for node. Backends: node-mysql-libmysqlclient.
+** "node-orm":https://github.com/dresende/node-orm -- Basic ORM for multiple drivers (still in development, only MySQL driver for now)
+** "persistence.js":https://github.com/zefhemel/persistencejs -- An object-relational mapper (ORM) for node. Backends: MySQL.
+** "sequelize":https://github.com/sdepold/sequelize - An easy-to-use MySQL Object-Relational-Mapper (ORM) for Node.JS
+* "Sql Lite":#db-sqllite
+** "node-sqlite":https://github.com/grumdrig/node-sqlite -- Bindings for SQLite3. Interface conforms to the "HTML5 Web SQL API":http://dev.w3.org/html5/webdatabase/#sql.
+** "node-sqlite":https://github.com/orlandov/node-sqlite -- Fast asynchronous driver: New evented Node.js look, same great SQLite3 taste
+** "node-sqlite3":https://github.com/developmentseed/node-sqlite3 -- Full-featured, asynchronous SQLite bindings with query serialization/parallelization and verbose stack traces
+* "NoSQL and Key Value":#db-nosql
+** "Mongo":#db-nosql-mongo
+*** "node-mongodb":https://github.com/orlandov/node-mongodb -- Basic MongoDB client implementation in JS/C++
+*** "node-mongodb-native":https://github.com/christkv/node-mongodb-native -- A pure JavaScript driver for MongoDB.
+**** "node-mongoskin":https://github.com/guileen/node-mongoskin -- A future layer for node-mongodb-native.
+*** "node-mongolian":https://github.com/marcello3d/node-mongolian -- Mongolian DeadBeef is an awesome Mongo DB node.js driver that attempts to closely approximate the mongodb shell
+*** "mongoq":https://github.com/zzdhidden/mongoq -- Use mongoDB like this: db('testdb').collection('users').find(function(err, cursor){}).
+*** "mongolia":https://github.com/masylum/mongolia -- Flexible wrapper for the nodejs Mongo driver. Lighter than a ORM but easier to use than the driver.
+*** "mongoose":http://www.learnboost.com/mongoose/ -- Mongoose is a JavaScript library that makes working with MongoDB a breeze.
+*** "mongous":https://github.com/amark/mongous -- Mongous is a dead simple MongoDB driver that uses a jQuery styled syntax.
+*** "nosql-thin":https://github.com/dmcquay/node-nosql-thin - Makes easier to work with MongoDB. Not an ORM. Not production ready.
+** "Redis":#db-nosql-redis
+*** "awesome":https://github.com/janl/awesome -- a Redis clone in node.js
+*** "nedis":https://github.com/visionmedia/nedis -- Redis server implementation written with node
+*** "redis-node":https://github.com/bnoguchi/redis-node -- Comprehensive, high speed Redis client
+*** "node-mwire":https://github.com/robtweed/node-mwire -- a client for GT.M & Cache, based on the Redis protocol, with connection pooling (includes web server log to database)
+*** "redis-node-client":https://github.com/fictorial/redis-node-client/tree/master -- Redis Client by Fictorial (deprecated)
+*** "node_redis":https://github.com/mranney/node_redis/ -- Complete Redis client that works well with new node and new Redis
+*** "redis2json":https://github.com/igo/redis2json/ -- Easily loads data from Redis into structured JS object
+*** "nohm":https://github.com/maritz/nohm -- Redis object relational mapper (ORM)
+** "CouchDB":#db-nosql-couch
+*** "node-couch":https://github.com/sixtus/node-couch/tree/master -- a CouchDB connector
+*** "-node-couchdb-":https://github.com/felixge/node-couchdb -- -A full API implementation- [obsolete]
+*** "node-couchdb-min":https://github.com/rsms/node-couchdb-min -- Light-weight client with low level of abstraction and connection pooling.
+*** "couch-ar":https://github.com/scottburch/couch-ar -- a active record implementation for couchDB (uses cradle)
+*** "couch-client":https://github.com/creationix/couch-client -- a simple wrapper around CouchDB's http interface
+*** "PJsonCouch":https://github.com/landeiro/PJsonCouch -- PJs-on-Couch is a client lib for CouchDB's HTTP API
+*** "cradle":https://github.com/cloudhead/cradle -- a high-level, caching, CouchDB client
+*** "data.js":https://github.com/michael/data/ -- Graph persistence for Node.js with CouchDB
+** "NoSQL Misc":#db-misc
+*** "riak-js":https://github.com/frank06/riak-js -- Riak JavaScript client (works on node v0.1.30+)
+*** "alfred":http://pgte.github.com/alfred/ -- a fast in-process key-value store for node.js that has functional indexes, streams, replication,  ...
+*** "barricane-db":https://github.com/chrisdew/barricane-db -- a transparent object persistence mechanism
+*** "chaos":https://github.com/stagas/chaos -- Chaos is a Node.js database
+*** "node-tokyocabinet":https://github.com/edvakf/node-tokyocabinet -- Tokyo Cabinet binding
+*** "node-tyrant":https://github.com/waveto/node-tyrant/tree/master -- An implementation of the Tokyo Tyrant network protocol for the Node.js
+*** "kyoto-client":https://github.com/wezm/kyoto-client -- A client for the Kyoto Tycoon key-value store
+*** "keys":https://github.com/visionmedia/keys -- Unified interface for key/value store clients
+* "DB Misc and Cross DB":#db-misc
+** "JSLINQ":https://github.com/marak/JSLINQ -- Clean and simple port of Microsoft's LINQ to node.js (and the browser)
+** "node-cask":https://github.com/randomekek/node-cask -- A 140 loc mmap-ed key/value store, based on bitcask
+** "node-dirty":https://github.com/felixge/node-dirty -- A key value store for node.js that is simple, fast & dirty.
+** "node-fleet":https://github.com/jfd/node-fleet -- a FleetDB Client
+** "node-firebird-libfbclient":https://github.com/xdenser/node-firebird-libfbclient -- Firebird SQL client
+** "node-fsdocs":https://github.com/rsms/node-fsdocs -- Simple, ACID and versioned file system-based document database for quick hacks
+** "node-handlersocket":https://github.com/koichik/node-handlersocket -- Pure JavaScript client for HandlerSocket 
+** "node-hbase":https://github.com/wdavidw/node-hbase -- HBase client with full API support through the REST connector
+** "node-mdbm":https://github.com/robtweed/node-mdbm -- a client for GT.M and Cache, using an HTTP interface that is based on SimpleDB
+** "memcached":https://github.com/3rd-Eden/node-memcached -- Memcached, membase client with support for memcached clusters using consistent hashing.
+** "node-memcache":https://github.com/vanillahsu/node-memcache -- a memcache client base on libmemcached
+** "node-dbi":https://github.com/DrBenton/Node-DBI -- A database abstraction layer, which allows to work with several database engines (MySQL, SQLite) with a single handy API
+** "node-tiny":https://github.com/chjj/node-tiny -- An experimental in-process database similar to nStore.
+** "persistence":https://github.com/creationix/node-persistence -- Multi-backend database/nosql system.  Backends: Sqlite3, Postgres and Memory.
+** "perstore":https://github.com/kriszyp/perstore -- JavaScript persistence/object store with pluggable storage based on the "W3C DB API":http://www.w3.org/TR/IndexedDB/
+** "node-migrate":https://github.com/rsandor/node-migrate -- Migrate - A database agnostic migration system for Node.js
+** "simpledb":https://github.com/rjrodger/simpledb -- An Amazon AWS SimpleDB library for Node.js that is user-friendly and fault-tolerant
 
 <a name="templating"></a>
 
