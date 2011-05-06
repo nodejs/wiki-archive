@@ -877,6 +877,7 @@ h3(#other). "Other":#other
 * "lepote":https://github.com/tdebarochez/lepote -- XMPP bot
 * "Lingo":http://bit.ly/cuaHAh -- Inflection, transformation and more
 * "limestone":https://github.com/kurokikaze/limestone -- Sphinx search server connector
+* "mimelib":https://github.com/andris9/mimelib -- MIME encoded text encoder/decoder etc.
 * "nDistro":https://github.com/visionmedia/ndistro -- Node distribution toolkit. Create and install distributions in seconds without GIT or npm
 * "Nodaphone":https://github.com/DTrejo/nodaphone -- Use a **phone** to talk to your webapp or any other internet-enabled device. "See the example":http://dtrejo.no.de.
 * "Node.io":http://node.io/ -- A distributed data scraping and processing framework.
