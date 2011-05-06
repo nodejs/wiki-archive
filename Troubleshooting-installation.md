@@ -25,3 +25,5 @@ in the root directory of the source code:
     export LINKFLAGS=$ISYSROOT CXXFLAGS=$ISYSROOT CFLAGS=$ISYSROOT
     ./configure --prefix=$HOME --without-ssl
     make
+
+Something in the libv8 build process seems to fail erratically when using ccache (on OS X with gcc4, anyway), so if you see errors building accessors.o, try removing ccache from your path.
