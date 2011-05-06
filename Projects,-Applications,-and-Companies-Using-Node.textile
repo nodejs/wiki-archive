@@ -139,7 +139,8 @@ h2. Companies
 * "Medium":http://thisismedium.com
 * "Milewise":http://milewise.com - Using Node.js for real-time fare searching
 * "Mockingbird":http://gomockingbird.com -- Using Node.js and operational transformations to do real-time, collaborative wireframing
-* "MyBrands":http://www.mybrands.de -- web-tracker and product recommendations (node + couchdb)
+* "MyBrands":http://www.mybrands.de -- web-tracker and product recommendations (node + couchdb)  
+* "myGengo":http://status.mygengo.com/ - myGengo uses Node.js for some internal status stuff.  
 * "NewsBasis":http://newsbasis.com -- Web crawler and async work in node
 * "Newspaper Club":http://www.newspaperclub.co.uk - Uses node.js for wrapping a nasty SOAP interface to InDesign Server.
 * "Next Feature":http://www.nextfeature.com
