@@ -367,6 +367,7 @@ h3(#build-and-deployment). "Build and Deployment":#build-and-deployment
 * "nclosure":http://gatapia.github.com/nclosure/ -- Compiler, Style Checker, Utility Library, Unit Testing Framework, JSDoc Documentation Tool.  Built on top of Google Closure tools.
 * "quickcheck":https://github.com/mcandre/node-quickcheck -- Port of the Haskell QuickCheck unit testing framework
 * "buildr":https://github.com/balupton/buildr.npm -- Javascript Project Builder, Compresses Images, CSS and JS, Bundles CSS and JS, Checks Javascript, Supports SubPackages/Plugins
+* "poly.shell":https://github.com/dvidelabs/poly.shell -- distributed shell job control with role based configuration
 
 <a name="package-management"></a>
 
