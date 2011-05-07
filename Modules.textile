@@ -1,4 +1,3 @@
-
 Check out "search.npmjs.org":http://search.npmjs.org/ too
 
 h2. Adding to this page
@@ -356,7 +355,7 @@ h3(#build-and-deployment). "Build and Deployment":#build-and-deployment
 * "config":https://github.com/lorenwest/node-config -- Runtime configuration for node.js deployment - npm install config
 * "node-config":https://github.com/ArtS/node-config -- Lightweight configuration engine for Node.js
 * "node-dev":https://github.com/fgnass/node-dev -- Automatically restarts node when a source-file is modified. Displays notifications via Growl.
-* "run":https://github.com/DTrejo/run.js -- Rerun your js file whenever there's a change in the current directory: <code>npm install run</code>, <code>runjs yourcode.js</code>. Never alt-tab to your terminal again.
+* "run":https://github.com/DTrejo/run.js -- Rerun your js file whenever there's a change in the current directory: <code>npm install -g run</code>, <code>runjs yourcode.js</code>. Never alt-tab to your terminal again.
 * "node-settings":https://github.com/mgutz/node-settings -- Simple, hierarchical environment-based app settings.
 * "Jake":https://github.com/mde/node-jake -- JavaScript build tool similar to Make or Rake.
 * "Masson":https://github.com/wdavidw/node-masson -- Build system and rule management similar to tools like Make, Ant or Rake
