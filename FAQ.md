@@ -14,3 +14,6 @@ The official name of Node is "Node". The unofficial name is "Node.js" to disambi
 * [[n|https://github.com/visionmedia/n]]
 * [[nvm|https://github.com/creationix/nvm]]
 * [[nave|https://github.com/isaacs/nave]]
+
+### [Meta] How have release sizes changed over time?
+![Graph of size in MB vs node release, by dtrejo.com](http://c0848462.cdn.cloudfiles.rackspacecloud.com/c97716dd8e4f943501bfcaadcecfdd75d06407afde.jpg "Graph of size in MB vs node release, by dtrejo.com")
