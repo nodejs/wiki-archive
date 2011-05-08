@@ -290,7 +290,7 @@ h3(#database). "Database":#database
 ** "perstore":https://github.com/kriszyp/perstore -- JavaScript persistence/object store with pluggable storage based on the "W3C DB API":http://www.w3.org/TR/IndexedDB/
 ** "node-migrate":https://github.com/rsandor/node-migrate -- Migrate - A database agnostic migration system for Node.js
 ** "simpledb":https://github.com/rjrodger/simpledb -- An Amazon AWS SimpleDB library for Node.js that is user-friendly and fault-tolerant
-
+** "ueberDB":https://github.com/Pita/ueberDB -- Transforms every database into a object key value store
 <a name="templating"></a>
 
 h3(#templating). "Templating":#templating
