@@ -243,6 +243,8 @@ h2. UTC-5 (-4)
 ** "GitHub":http://github.com/arpunk, "Twitter":http://twitter.com/arpunk
 * Daniel Aristizabal (cronopio), Bogota, Colombia
 ** "GitHub":http://github.com/cronopio, "Twitter":http://twitter.com/cronopio2
+* Tim Branyen (tbranyen), Boston, Massachusetts
+** "GitHub":http://github.com/tbranyen, "Twitter":http://twitter.com/tbranyen
 * Guan Yang
 ** "GitHub":http://github.com/guanix, "Twitter":http://twitter.com/guan
 * Arlo Breault (arlolra), Montreal, QC, Canada
