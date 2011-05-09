@@ -170,6 +170,8 @@ h2. UTC-7 (-6)
 ** "GitHub":http://github.com/chrismatthieu/, "Twitter":http://twitter.com/chrismatthieu/, "Website":http://chrismatthieu.com
 * Mike Brevoort (mbrevoort), Denver, CO, US
 ** "GitHub":http://github.com/mbrevoort/, "Twitter":http://twitter.com/mbrevoort/, "Website":http://mike.brevoort.com
+* Alejandro Lechuga (alejandrolechuga), Tijuana, BC, MX
+** "GitHub":https://github.com/alejandrolechuga, "Twitter":http://twitter.com/ramonlechuga/, "Website":http://blog.ramonlechuga.com
 
 h2. UTC-6 (-5)
 * Tim Caswell (creationix), Dallas, TX, US
