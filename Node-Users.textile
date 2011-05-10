@@ -575,6 +575,8 @@ h2. UTC+1 (+2)
 ** "GitHub":http://github.com/piscisaureus, "Twitter":http://twitter.com/piscisaureus
 * Lele (eldios) , Lucca , Italy
 ** "Website":http://lele.amicofigo.com, "GitHub":http://github.com/eldios, "Twitter":http://twitter.com/eldios
+* Jonas Höglund (FireyFly), Stockholm, Sweden
+** "Bitbucket":http://bitbucket.org/firefly, "GitHub":http://github.com/FireyFly, "Twitter":http://twitter.com/FireyFly, "Website":http://www.firefly.nu
 
 
 h2. UTC+2 (+3)
