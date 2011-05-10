@@ -633,7 +633,7 @@ h2. UTC+3 (+4)
 * Oleg Efimov (Sannis), Russia
 ** "GitHub":http://github.com/sannis, "Website":http://sannis.ru/, "Twitter":http://twitter.com/SannisDev
 * Anton Byrna (itrelease), Russia
-** "GitHub":http://github.com/itrelease, "Twitter":http://twitter.com/itrelease
+** "GitHub":http://github.com/itrelease, "Twitter":http://twitter.com/anton_byrna
 * Dmitry Lipovoi (pleax), Russia
 ** "GitHub":http://github.com/pleax, "Twitter":http://twitter.com/pleax
 * Anatoliy Chakkaev (1602), Russia
