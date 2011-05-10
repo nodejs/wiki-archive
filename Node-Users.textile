@@ -361,6 +361,8 @@ h2. UTC-3 (-2)
 ** "Google Profile":http://www.google.com/profiles/Valentin.starck
 * Juan Silva, Montevideo, Uruguay
 ** "GitHub":http://github.com/juansilva, "Twitter":http://twitter.com/juansanuy
+* Mariano Iglesias (mariano_iglesias), Miramar, Argentina
+** "GitHub":http://github.com/mariano, "Twitter":http://twitter.com/mgiglesias, "Website":http://marianoiglesias.com.ar
 
 h2. UTC+0 (0)
 
