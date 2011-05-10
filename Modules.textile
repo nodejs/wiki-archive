@@ -336,6 +336,7 @@ rendering process.
 
 h3(#css-engines). "CSS Engines":#css-engines
 * "Stylus":https://github.com/LearnBoost/stylus -- Expressive, dynamic, robust CSS language written by the author of Express, Connect, Jade and more
+* "Stylus-Sprite":https://github.com/andris9/stylus-sprite -- Extension for Stylus to generate sprite images
 * "sass.js":https://github.com/visionmedia/sass.js -- Parses Sass templates and renders css.
 * "scss-js":https://github.com/bmavity/scss-js -- Parses SCSS templates and renders css.
 * "carto":https://github.com/mapbox/carto -- Parses MSS templates and renders XML for "Mapnik":http://mapnik.org/
