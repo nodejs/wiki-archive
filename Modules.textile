@@ -219,6 +219,7 @@ h3(#database). "Database":#database
 ** "postgres-js":https://github.com/creationix/postgres-js/tree/master -- Postgres protocol implemented in pure JS
 ** "postgres-js":https://github.com/aurynn/postgres-js/ -- Fork of postgres-js, adds parameterized queries and prepared statements.
 * "MySQL":#db-mysql
+** "db-mysql":https://github.com/mariano/node-db-mysql/ - Binary driver for MySQL (using libmysql). Part of the "Node.js DB":http://nodejsdb.org effort
 ** "node.dbslayer.js":https://github.com/Guille/node.dbslayer.js/ - Interface to DBSlayer (MySQL)
 ** "node-poormansmysql":https://github.com/mscdex/node-poormansmysql -- Asynchronous MySQL driver for node.js using the mysql command-line tool
 ** "node-mysql":https://github.com/felixge/node-mysql -- A node.js module implementing the MySQL protocol 
@@ -273,6 +274,7 @@ h3(#database). "Database":#database
 *** "kyoto-client":https://github.com/wezm/kyoto-client -- A client for the Kyoto Tycoon key-value store
 *** "keys":https://github.com/visionmedia/keys -- Unified interface for key/value store clients
 * "DB Misc and Cross DB":#db-misc
+** "db-drizzle":https://github.com/mariano/node-db-drizzle/ - Binary driver for Drizzle (using libdrizzle). Part of the "Node.js DB":http://nodejsdb.org effort
 ** "JSLINQ":https://github.com/marak/JSLINQ -- Clean and simple port of Microsoft's LINQ to node.js (and the browser)
 ** "node-cask":https://github.com/randomekek/node-cask -- A 140 loc mmap-ed key/value store, based on bitcask
 ** "node-dirty":https://github.com/felixge/node-dirty -- A key value store for node.js that is simple, fast & dirty.
