@@ -886,6 +886,7 @@ h3(#other). "Other":#other
 * "ircbot":https://github.com/draggor/node-ircbot -- An IRC bot with plugin support
 * "Jefe":https://github.com/fictorial/jefe -- Jefe is a safe sandbox for running user scripts in Node.js
 * "Jerk":https://github.com/gf3/Jerk -- A fun little IRC bot library for node.js.
+* "JSONPath":https://github.com/joyent/node/wiki/modules -- An XPath-like expression evaluator for JSON.
 * "json-streamify":https://github.com/DTrejo/json-streamify -- Streaming version of <code>JSON.stringify</code> for node.js
 * "koala":https://github.com/visionmedia/koala.js -- Code syntax highlighting library
 * "knox":https://github.com/LearnBoost/knox -- Amazon S3 client from the team at LearnBoost
