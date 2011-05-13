@@ -176,6 +176,7 @@ h4(#middleware). "Middleware":#middleware
 ** "session-web-sockets":https://github.com/kazuyukitanimura/session-web-sockets -- Pass session to (Socket.IO-node) in a secure manner.   Originally forked from "bmeck/session-web-sockets":https://github.com/bmeck/session-web-sockets
 ** "trust-reverse-proxy":https://github.com/zazengo/trust-reverse-proxy - Trust (SSL) connections coming from (a) specific reverse prox(y)(ies)
 ** "node_signedcookies":https://github.com/mattrobenolt/node_signedcookies -- Extends Express's cookieParser() to read/write signed cookies.
+** "connect-proxy":https://github.com/gonsfx/connect-proxy -- Retrieve originating ip/host values when proxying to your connect app
 <a name="middleware-other"></a>
 * "Other":#middleware-other 
 ** "node-file-cache":https://github.com/FLYBYME/node-file-cache - Very small file cache for node.js http server.
