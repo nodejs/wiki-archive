@@ -859,6 +859,7 @@ h3(#other). "Other":#other
 * "behaviors":https://github.com/caolan/behaviors -- A simple way to check a module's exports, useful for 3rd party plugins and extensions
 * "box2dnode":https://github.com/jadell/box2dnode -- Port of the box2d physics simulation library
 * "node-bullet":https://github.com/feisty/bullet -- "Bullet Physics":http://bulletphysics.org/ for node.js
+* "node-stem":https://github.com/chriso/node-stem -- Bindings to the libstemmer library
 * "chess":https://github.com/wsdookadr/Q-Chess/blob/rewrite/server/chess.js -- library for checking legal chess moves
 * "chess.js":https://github.com/jhlywa/chess.js -- library for chess move generation, validation, and mate/draw detection
 * "closure":https://github.com/lm1/node-closure -- Google closure library wrapper for node.js
