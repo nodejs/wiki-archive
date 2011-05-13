@@ -249,6 +249,7 @@ h3(#database). "Database":#database
 *** "mongous":https://github.com/amark/mongous -- Mongous is a dead simple MongoDB driver that uses a jQuery styled syntax.
 *** "nosql-thin":https://github.com/dmcquay/node-nosql-thin - Makes easier to work with MongoDB. Not an ORM. Not production ready.
 ** "Redis":#db-nosql-redis
+*** "redback":https://github.com/chriso/redback -- a high-level Redis library
 *** "awesome":https://github.com/janl/awesome -- a Redis clone in node.js
 *** "nedis":https://github.com/visionmedia/nedis -- Redis server implementation written with node
 *** "redis-node":https://github.com/bnoguchi/redis-node -- Comprehensive, high speed Redis client
