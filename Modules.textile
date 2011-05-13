@@ -456,6 +456,7 @@ h3(#tcp). "TCP / IP":#tcp
 * "NodeSSH":https://github.com/FlashFan/NodeSSH -- a lightweight SSH client
 * "node-xmpp-bosh":http://code.google.com/p/node-xmpp-bosh/ -- An XMPP BOSH server running on node.js
 <a name="rpc"></a>
+* "node-snmp":https://github.com/huancz/node-snmp/ -- SNMP v1 client
 
 h3(#rpc). "RPC":#rpc
 * "rpc-socket":https://github.com/FLYBYME/rpc-socket -- Multi socket support for JSON-RPC NOTE: still under development.
