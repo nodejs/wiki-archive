@@ -98,6 +98,7 @@ h2. Projects and Applications
 * "Chilitweets":http://chilitweets.com - The service discovers the hottest links in your Twitter timeline. Node.js is used in the backed to fetch Tweets and resolve URLs.
 
 h2. Companies
+* "A2 Hosting":http://www.a2hosting.com/services/vps-hosting/ - Node.js hosting provider
 * "Academia.edu":http://www.academia.edu/ - uses node for background data processing
 * "Adcloud":http://adcloud.com/ -- Javascript Adserver on EC2
 * "AdGear":http://adgear.com/ -- Real-time advertising reporting
