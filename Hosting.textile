@@ -14,7 +14,7 @@ h2. Managed
 h2. Self-Managed
 
 VPS providers, which often require you to set everything up yourself, including the operating system.
-* "A2 Hosting":http://www.a2hosting.com/services/vps-hosting/
+* "A2 Hosting":http://www.a2hosting.com/web-development/nodejs-hosting
 * "Amazon EC2":http://aws.amazon.com/ec2/
 * "BuyVM":http://www.buyvm.net/
 * "DreamHostPS":http://www.dreamhost.com/hosting-vps.html - Need a total reconfiguration of virtual machines
