@@ -831,6 +831,7 @@ h3(#async-flow). "Flow control / Async goodies":#async-flow
 * "Step":https://github.com/creationix/step -- Tool for grouping and chaining asynchronous callbacks, based on "flow-js":https://github.com/willconant/flow-js
 * "streamline.js":https://github.com/Sage/streamlinejs -- Tool that transforms synchronous code into asynchronous code with callbacks. 
 * "sync":https://github.com/0ctave/node-sync -- Write simple and readable synchronous code in nodejs using fibers (based on "node-fibers":https://github.com/laverdet/node-fibers)
+* "QBox":https://github.com/arunoda/qbox -- Quick Flow Controller for NodeJS
 * "zo.js":https://github.com/refractalize/zo -- Async-friendly versions of the usual list processing functions: `map`, `select`, `reduce` and friends.
 
 <a name="i18n"></a>
