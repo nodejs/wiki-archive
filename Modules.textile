@@ -601,7 +601,7 @@ h4(#parsers-commandline). "Command Line Option Parsers":#parsers-commandline
 * "trollopjs":https://github.com/bentomas/trollopjs -- Another option parser
 * "js-opts":http://www.bitbucket.org/mazzarelli/js-opts/ -- Another simple command line option parser, easily installed via NPM
 * "node-arguments":https://github.com/fczuardi/node-arguments -- Yet another simple command line option parser
-* "nomnomargs":https://github.com/harthur/nomnomargs -- Option parser with defaults, positional args, usage
+* "nomnom":https://github.com/harthur/nomnom -- Option parser with generated usage, support for callbacks and commands.
 * "tav":https://github.com/akaspin/tav -- Brain-free command-line options parser for node.js
 * "Operetta":https://github.com/tricknik/node-operetta -- A Node Option Parser That Sings!
 * "yanop":https://github.com/frodwith/yanop -- Yet Another Node Option Parser
