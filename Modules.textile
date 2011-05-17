@@ -253,7 +253,6 @@ h3(#database). "Database":#database
 *** "awesome":https://github.com/janl/awesome -- a Redis clone in node.js
 *** "nedis":https://github.com/visionmedia/nedis -- Redis server implementation written with node
 *** "redis-node":https://github.com/bnoguchi/redis-node -- Comprehensive, high speed Redis client
-*** "node-mwire":https://github.com/robtweed/node-mwire -- a client for GT.M & Cache, based on the Redis protocol, with connection pooling (includes web server log to database)
 *** "redis-node-client":https://github.com/fictorial/redis-node-client/tree/master -- Redis Client by Fictorial (deprecated)
 *** "node_redis":https://github.com/mranney/node_redis/ -- Complete Redis client that works well with new node and new Redis
 *** "redis2json":https://github.com/igo/redis2json/ -- Easily loads data from Redis into structured JS object
@@ -269,6 +268,7 @@ h3(#database). "Database":#database
 *** "data.js":https://github.com/michael/data/ -- Graph persistence for Node.js with CouchDB
 ** "NoSQL Misc":#db-misc
 *** "riak-js":https://github.com/frank06/riak-js -- Riak JavaScript client (works on node v0.1.30+)
+*** "node-mwire":https://github.com/robtweed/node-mwire -- Client for GT.M & Cache databases
 *** "alfred":http://pgte.github.com/alfred/ -- a fast in-process key-value store for node.js that has functional indexes, streams, replication,  ...
 *** "barricane-db":https://github.com/chrisdew/barricane-db -- a transparent object persistence mechanism
 *** "chaos":https://github.com/stagas/chaos -- Chaos is a Node.js database
