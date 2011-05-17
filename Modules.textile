@@ -618,6 +618,7 @@ h4(#parser-generators).  "Parser Generators":#parser_generators
 * "OMeta JavaScript compiler":http://tinlizzie.org/ometa-js/#JavaScript_Compiler
 * "tokenizer":http://github.com/floby/node-tokenizer -- A regex-based and streamed tokenizer
 * "parser":http://github.com/floby/node-parser -- A general purpose parser that feeds on tokens (see "tokenizer":http://github.com/floby/node-tokenizer)
+* "JSCC-NODE":http://github.com/badlee/JSCC-NODE -- The first parser generator written in JavaScript; User LALR(1) parser generator
 
 <a name="parsers-other"></a>
 
