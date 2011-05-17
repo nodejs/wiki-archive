@@ -618,7 +618,7 @@ h4(#parser-generators).  "Parser Generators":#parser_generators
 * "OMeta JavaScript compiler":http://tinlizzie.org/ometa-js/#JavaScript_Compiler
 * "tokenizer":http://github.com/floby/node-tokenizer -- A regex-based and streamed tokenizer
 * "parser":http://github.com/floby/node-parser -- A general purpose parser that feeds on tokens (see "tokenizer":http://github.com/floby/node-tokenizer)
-* "JSCC-NODE":http://github.com/badlee/JSCC-NODE -- The first parser generator written in JavaScript; User LALR(1) parser generator
+* "JSCC-NODE":http://github.com/badlee/JSCC-NODE -- The first parser generator written in JavaScript; Use a regular expression-based lexical analyzer generator matching individual tokens from the input character stream and a LALR(1) parser generator, computing the parse tables for a given context-free grammar specification and building a stand-alone, working parser.
 
 <a name="parsers-other"></a>
 
