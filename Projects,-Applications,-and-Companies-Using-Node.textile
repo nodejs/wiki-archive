@@ -30,6 +30,7 @@ h2. Projects and Applications
 * "Filsh":http://www.filsh.net - Converts online videos to other formats in a big server cluster. (German)
 * "Fishl.com":http://fishl.com/ — Mark and save quotes you like all over the Web
 * "Flickr Spy":http://github.com/ncr/flickr_spy -- Discover where your Flickr contacts are commenting
+* "G-Lock Analytics":http://glockanalytics.com — Realtime email analytics web application
 * "Graffiti &beta;":http://yay3d.com/graffiti — Interactive multi-user shared canvas whiteboard
 * "GrowlHub":http://github.com/idris/growlhub - Growl Notifications for GitHub
 * "gwt-node":https://github.com/cretz/gwt-node - Node.js in GWT allowing apps to be written in Java.
