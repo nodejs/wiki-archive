@@ -376,6 +376,7 @@ h3(#build-and-deployment). "Build and Deployment":#build-and-deployment
 * "quickcheck":https://github.com/mcandre/node-quickcheck -- Port of the Haskell QuickCheck unit testing framework
 * "buildr":https://github.com/balupton/buildr.npm -- Javascript Project Builder, Compresses Images, CSS and JS, Bundles CSS and JS, Checks Javascript, Supports SubPackages/Plugins
 * "poly.shell":https://github.com/dvidelabs/poly.shell -- distributed shell job control with role based configuration
+* "inireader":https://github.com/Ajnasz/IniReader -- Ini file parser
 
 <a name="package-management"></a>
 
