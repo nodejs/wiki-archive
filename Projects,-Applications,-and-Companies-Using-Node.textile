@@ -152,6 +152,7 @@ h2. Companies
 * "nitobi":http://nitobi.com
 * "Nodejitsu":http://nodejitsu.com Hosting and ninja training for node.js.
 * "OPOWER":http://opowerjobs.com - Using Node for recruiting site, referral tracking, and other new projects.
+* "Opzi":http://www.opzi.com - Real-time enterprise collaboration apps on Node.
 * "Original Machine":http://originalmachine.com - Using node for realtime statistics in "Stereofeed":http://stereofeed.com .
 * "Palm/HP":http://developer.palm.com/ - powers all the services in the new WebOS platform for mobile devices.
 * "Pilvy":http://www.pilvy.com/ -- backend is all node.js, including syncing with third-party services
