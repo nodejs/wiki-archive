@@ -760,6 +760,7 @@ h3(#api-clients). "API clients":#api-clients
 * "gist":https://github.com/emerleite/node-gist -- A gist creator. Create GISTs and use the generated URI.
 * "gravatar":https://github.com/emerleite/node-gravatar -- Well tested Node.JS Gravatar URL generator
 * "klout-js":https://github.com/smurthasmith/klout-js -- Simple Klout API wrapper
+* "janrain-api":https://github.com/demetriusj/janrain -- Module for interfacing with Janrain Engage API
 * "lastfm-node":https://github.com/jammus/lastfm-node -- Read and write to users' recent plays on Last.fm
 * "linkedin-js":https://github.com/masylum/linkedin-js -- Easy peasy linkedin client for connect.
 * "mixpanel-node":https://github.com/carlsverre/mixpanel-node -- A simple Mixpanel API library for server-side analytics.
