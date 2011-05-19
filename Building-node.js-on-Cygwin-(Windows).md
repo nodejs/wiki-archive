@@ -63,6 +63,8 @@ For Vim newbies:  use `i` to enter insert mode, `<Esc>:wq` to exit insert mode, 
 
 Note even if /etc/resolv.conf is correctly set to Google DNS, ECONNREFUSED will happen on .listen() if Windows is not connected to the Internet and you attempt to listen at localhost or the machine name (ie. joeslaptop etc.) Only workaround for offline Windows (such as a development VM) to successfully .listen() at the local host is to use 127.0.0.1 explicitly, neither localhost nor the machine name will currently (0.4.5) resolve when offline.
 
+If you cannot ping the Google DNS IPs listed above (because of a firewall, for instance) you will have to use different IPs.  Open a DOS prompt and run "ipconfig /all", which will list the DNS servers that Windows is currently using.  Try using those IPs (prefixed with "namesever ") in the resolve.conf instead.
+
 Build Problems
 ====
 
