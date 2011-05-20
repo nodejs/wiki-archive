@@ -9,7 +9,7 @@ h2. Articles
 * "Deploying node.js with Upstart":http://caolanmcmahon.com/deploying_nodejs_applications_with_upstart.html -- a few updates to the above article -- by Caolan McMahon
 * "Several tutorials about Node.js":http://howtonode.org/ -- by Tim Caswell (How to Node)
 * "Node tools and techniques explained":http://blog.nodejitsu.com/ -- by the Nodejitsu team 
-* "Node.js - I just have to use it for something":http://www.hawksworx.com/journal/2010/02/15/nodejs-i-just-have-to-use-it-for-something/ -- by Phil Hawksworth
+* "Node.js - I just have to use it for something":http://hawksworx.com/nodejs-i-just-have-to-use-it-for-something -- by Phil Hawksworth
 * "node by example":http://blog.osbutler.com/categories/node-by-example/ -- by Hendrik Daldrup
 * "Implementing Web Socket servers with Node.js":http://www.web2media.net/laktek/2010/05/04/implementing-web-socket-servers-with-node-js/ -- by Lakshan Perera
 * "ServerSide JavaScript with MooTools and NodeJS":http://davidwalsh.name/mootools-nodejs -- by Christoph Pojer
