@@ -216,7 +216,7 @@ h3(#database). "Database":#database
 
 * "Postgresql":#db-pg
 ** "node_postgres":https://github.com/ry/node_postgres -- Beginning of bindings to libpg
-** "node-postgres":https://github.com/brianc/node-postgres -- Heavily tested, heavily documented, working Postgres client
+** "node-postgres":https://github.com/brianc/node-postgres -- Well tested libpq binding and pure javascript PostgreSQL client
 ** "FastLegS":https://github.com/didit-tech/FastLegS - PostgreSQL ORM on top of node-postgres.
 ** "postgres-js":https://github.com/creationix/postgres-js/tree/master -- Postgres protocol implemented in pure JS
 ** "postgres-js":https://github.com/aurynn/postgres-js/ -- Fork of postgres-js, adds parameterized queries and prepared statements.
