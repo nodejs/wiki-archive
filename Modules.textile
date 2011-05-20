@@ -608,6 +608,7 @@ h4(#parsers-commandline). "Command Line Option Parsers":#parsers-commandline
 * "tav":https://github.com/akaspin/tav -- Brain-free command-line options parser for node.js
 * "Operetta":https://github.com/tricknik/node-operetta -- A Node Option Parser That Sings!
 * "yanop":https://github.com/frodwith/yanop -- Yet Another Node Option Parser
+* "options.js":http://valeriu.palos.ro/1026/command-line-option-parser-in-javascript/ -- An inline (non-module!) options parser that is very small and yet quite complete.
 
 <a name="parser-generators"></a>
 
