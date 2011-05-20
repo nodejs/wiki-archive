@@ -360,7 +360,7 @@ h3(#content-management). "Content Management Systems":#content-management
 <a name="build-and-deployment"></a>
 
 h3(#build-and-deployment). "Build and Deployment":#build-and-deployment
-* "dev":https://github.com/iliakan/node-dev -- Automatically restarts node when a source-file is modified. Autohooks on new files, so it doesn't need manual restart at all.
+* "dev":https://github.com/iliakan/node-dev -- Automatically restarts the app when a source-file is modified. Autohooks on new files, so it doesn't need manual restart at all.
 * "nodejs-autorestart":https://github.com/shimondoodkin/nodejs-autorestart -- It is a way to watch all .js files if they have been changed and to restart nodejs. It allows easy development and stable production.
 * "config":https://github.com/lorenwest/node-config -- Runtime configuration for node.js deployment - npm install config
 * "node-config":https://github.com/ArtS/node-config -- Lightweight configuration engine for Node.js
