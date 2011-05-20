@@ -800,6 +800,7 @@ h3(#api-clients). "API clients":#api-clients
 * "node-beaconpush":https://github.com/cgbystrom/node-beaconpush -- Client for the Beaconpush REST API. A real-time push service for browsers supporting WebSockets and Comet.
 * "node-neoip":https://github.com/jeromeetienne/node-neoip -- binding for neoip
 * "node-pdfcrowd":https://github.com/pdfcrowd/node-pdfcrowd -- A wrapper for the Pdfcrowd API. It lets you convert web pages and raw HTML code to PDF.
+* "node-yelp":https://github.com/olalonde/node-yelp -- A wrapper for the Yelp's APIv2. Let's you search for businesses and get specific business information.
 
 <a name="async-flow"></a>
 
