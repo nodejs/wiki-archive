@@ -338,6 +338,7 @@ rendering process.
 * "xmlbuilder.js":https://github.com/btakita/xmlbuilder.js -- An xml builder in JavaScript inspired by Ruby's Builder, Markaby, and Erector.
 * "xmlbuilder-js":https://github.com/oozcitak/xmlbuilder-js -- An xml builder for node.js similar to java-xmlbuilder.
 * "node-tmpl":https://github.com/jeromeetienne/node-tmpl -- basic templating system in node.js based on shorttag
+* "tob":https://github.com/shimondoodkin/tob -- Template Observer, allows self-reloading templates with your template engine
 
 <a name="css-engines"></a>
 
