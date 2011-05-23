@@ -280,6 +280,7 @@ h3(#database). "Database":#database
 * "DB Misc and Cross DB":#db-misc
 ** "db-drizzle":https://github.com/mariano/node-db-drizzle/ - Binary driver for Drizzle (using libdrizzle). Part of the "Node.js DB":http://nodejsdb.org effort
 ** "JSLINQ":https://github.com/marak/JSLINQ -- Clean and simple port of Microsoft's LINQ to node.js (and the browser)
+** "nconf":https://github.com/nodejitsu/nconf -- A hybrid local / remote configuration storage library
 ** "node-cask":https://github.com/randomekek/node-cask -- A 140 loc mmap-ed key/value store, based on bitcask
 ** "node-dirty":https://github.com/felixge/node-dirty -- A key value store for node.js that is simple, fast & dirty.
 ** "node-fleet":https://github.com/jfd/node-fleet -- a FleetDB Client
@@ -339,6 +340,7 @@ rendering process.
 * "xmlbuilder-js":https://github.com/oozcitak/xmlbuilder-js -- An xml builder for node.js similar to java-xmlbuilder.
 * "node-tmpl":https://github.com/jeromeetienne/node-tmpl -- basic templating system in node.js based on shorttag
 * "tob":https://github.com/shimondoodkin/tob -- Template Observer, allows self-reloading templates with your template engine
+* "weld":https://github.com/nodejitsu/weld -- Weld binds data to markup, and can generate markup based on your data.
 
 <a name="css-engines"></a>
 
@@ -364,6 +366,9 @@ h3(#content-management). "Content Management Systems":#content-management
 
 h3(#build-and-deployment). "Build and Deployment":#build-and-deployment
 * "dev":https://github.com/iliakan/node-dev -- Automatically restarts the app when a source-file is modified. Autohooks on new files, so it doesn't need manual restart at all.
+* "forever":https://github.com/nodejitsu/forever -- A simple CLI tool for ensuring that a given script runs continuously (i.e. forever)
+* "haibu":https://github.com/nodejitsu/haibu -- a node.js application server - spawn your own node.js clouds, on your own hardware
+* "jitsu":https://github.com/nodejitsu/jitsu -- Flawless command line deployment of your Node.js apps to the cloud
 * "nodejs-autorestart":https://github.com/shimondoodkin/nodejs-autorestart -- It is a way to watch all .js files if they have been changed and to restart nodejs. It allows easy development and stable production.
 * "config":https://github.com/lorenwest/node-config -- Runtime configuration for node.js deployment - npm install config
 * "node-config":https://github.com/ArtS/node-config -- Lightweight configuration engine for Node.js
@@ -537,6 +542,7 @@ h3(#testing). "Testing / Spec Frameworks":#testing
 * "jasmine-node":https://github.com/mhevery/jasmine-node -- integration with "Pivotal's Jasmine Spec":https://github.com/pivotal/jasmine framework
 * "Jody":https://github.com/garrensmith/Jody -- A descriptive BDD Testing framework 
 * "jspec":https://github.com/visionmedia/jspec -- Feature Rich BDD Testing Framework (no longer supported)
+* "kyuri":https://github.com/nodejitsu/kyuri -- A node.js cucumber implementation with a few extra asynchronous keywords. supports 160+ languages and exports to VowsJS stubs
 * "minitest.js":https://github.com/botanicus/minitest.js -- Light-weight & simple testing framework designed specially for testing asynchronous code.
 * "mjsunit.runner":https://github.com/tmpvar/mjsunit.runner -- Command line mjsunit runner which provides an easy way to hook into mjsunit and start running tests immediately.
 * "node-assert-extras":http://gitorious.org/node-assert-extras -- Additional high level asserts
@@ -703,6 +709,7 @@ h3(#debugging). "Debugging / Console Utilities":#debugging
 * "webrepl":https://github.com/mmattozzi/webrepl -- Serve a repl for a node process via a simple web ui
 * "Replica":https://github.com/zentooo/Replica -- Repl to exec JavaScript code on browser
 * "Shell":https://github.com/wdavidw/node-shell -- Full features and pretty console applications
+* "Winston":https://github.com/nodejitsu/winston -- A multi-transport async logging library for node.js
 
 <a name="compression"></a>
 
@@ -775,6 +782,8 @@ h3(#api-clients). "API clients":#api-clients
 * "node-apn":https://github.com/argon/node-apn -- A library to send messages using the Apple Push Notification Service.
 * "node-c2dm":https://github.com/SpeCT/node-c2dm -- A library to send messages using the Android Cloud to Device Messaging (C2DM) service.
 * "node-bitly":https://github.com/tanepiper/node-bitly -- A bit.ly API library for node.js - provides URL shortening/expanding.  Features full API.
+* "node-cloudfiles":https://github.com/nodejitsu/node-cloudfiles -- A client implementation for Rackspace CloudFiles in node.js
+* "node-cloudservers":https://github.com/nodejitsu/node-cloudservers -- A client implementation for Rackspace CloudServers in node.js
 * "node-flickr":https://github.com/edds/node-flickr -- A simple library to enable easy use of the flickr api
 * "node-foursquare":https://github.com/clintandrewhall/node-foursquare -- A wrapper for the Foursquare v2 API.
 * "node-github":https://github.com/ajaxorg/node-github -- A wrapper for the "GitHub API":http://develop.github.com/
@@ -783,6 +792,7 @@ h3(#api-clients). "API clients":#api-clients
 * "node-gdata":https://github.com/ammmir/node-gdata -- A generic Google Data API client library
 * "node-googleanalytics":https://github.com/ncb000gt/node-googleanalytics -- Google Analytics GData export library
 * "node-googlemaps":https://github.com/moshen/node-googlemaps -- A wrapper for the Google Maps API
+* "node-loggly":https://github.com/nodejitsu/node-loggly --A client implementation for Loggly in node.js
 * "node-ostatus":https://github.com/eschnou/node-ostatus -- An implementation of the OStatus protocol (Webfinger, Push, Hcard, Salmon, etc.)
 * "node-prowl":https://github.com/mape/node-prowl -- A module that allows you to send push notifications to your iPhone through the Prowl API
 * "nodefm":https://github.com/mikebannister/nodefm -- So far just a util for consuming last.fm recent tracks history for a user
@@ -833,6 +843,7 @@ h3(#async-flow). "Flow control / Async goodies":#async-flow
 * "node-parallel":https://github.com/Tim-Smart/node-parallel -- Create tasks in node.js that run in parallel, or sequences that run tasks one after another.
 * "node-promise":https://github.com/kriszyp/node-promise -- Robust promises for node.js, includes promise utilities and promise-based I/O library
 * "narrow":https://github.com/0ctave/node-narrow -- Shrinks a given callback parallel execution concurrency in a limited number of threads, receiving a big bunch of data (array of tasks)
+* "neuron":https://github.com/nodejitsu/neuron -- The simplest possible event driven job manager, FIFO queue, and "task based cache" in node.js
 * "observer":https://github.com/azer/observer -- An alternative observer implementation, for both ss&cs.
 * "poolr":https://github.com/codingforce/poolr -- A lightweight resource pooling/serialization library 
 * "Pulsar":https://github.com/michaelsbradleyjr/Pulsar -- Event emitter abstraction class, allowing reuse of custom-emitter logic across JavaScript environments.
@@ -912,6 +923,7 @@ h3(#other). "Other":#other
 * "JSONPath":https://github.com/joyent/node/wiki/modules -- An XPath-like expression evaluator for JSON.
 * "json-streamify":https://github.com/DTrejo/json-streamify -- Streaming version of <code>JSON.stringify</code> for node.js
 * "koala":https://github.com/visionmedia/koala.js -- Code syntax highlighting library
+* "kohai":https://github.com/nodejitsu/kohai -- I am kohai. I am a pluggable irc bot for managing real-time data events.
 * "knox":https://github.com/LearnBoost/knox -- Amazon S3 client from the team at LearnBoost
 * "LDAP":https://github.com/jeremycx/node-LDAP -- LDAP search/authenticate binding
 * "lepote":https://github.com/tdebarochez/lepote -- XMPP bot
@@ -926,6 +938,7 @@ h3(#other). "Other":#other
 * "node-date-utils":https://github.com/JerrySievert/node-date-utils -- Date extensions for NodeJS and client side.
 * "node-discount":https://github.com/visionmedia/node-discount -- C markdown parser "discount" bindings
 * "node-downloader":https://github.com/rabc/node-downloader -- Downloader module for node.js
+* "node-http-proxy":https://github.com/nodejitsu/node-http-proxy -- A full-featured http proxy for node.j
 * "node-radclient":http://sourceforge.net/projects/node-radclient/ -- RADIUS client wrapper
 * "node-amf":https://github.com/timwhitlock/node-amf -- AMF library and web service gateway for Flash remoting
 * "node-amqp":https://github.com/ry/node-amqp -- AMQP client
@@ -984,6 +997,7 @@ h3(#other). "Other":#other
 * "NormAndVal":https://github.com/roberthahn/NormAndVal -- Data normalization and validation for Node.js and the browser
 * "nshtools":https://github.com/rsdoiel/nshtools -- a high level shell scripting library for file and operating system chores
 * "odot":https://github.com/tsmith/odot - persistent, code reloading, interactive object space
+* "require-analyzer":https://github.com/nodejitsu/require-analyzer -- Determine the set of requirements for a given node.js file, directory tree, or module
 * "sh.js":http://shjs.tuton.fr -- library for Unix shell scripting, replace Bash scripts with JavaScript
 * "simplesets":https://github.com/PeterScott/simplesets-nodejs -- Set data type, with API similar to Python's sets module. Supports any data type, with equality tested by @===@.
 * "Task.node":https://github.com/botanicus/task.node Simple task manager similar to Rake, Scons and others.
