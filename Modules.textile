@@ -106,6 +106,7 @@ h4(#web-frameworks-micro). "Microframeworks":#web-frameworks-micro
 * "simplex":https://github.com/mshakhan/simplex (October 2009, node.JS 0.1.14)
 * "Pipe-Layer":http://cgit.voodoowarez.com/pipe-layer/ -- Asynchronous HTTP router.
 * "frank":https://github.com/mvrilo/frank -- yet another sinatra-like microframework for node
+* "webservice.js":https://github.com/Marak/webservice.js -- turn node.js modules into RESTFul web-services
 * "zappa":https://github.com/mauricemach/zappa -- Razor-sharp DSL for modern web apps. (node 0.2.3)
 
 <a name="web-frameworks-full"></a>
@@ -174,6 +175,7 @@ h4(#middleware). "Middleware":#middleware
 ** "node-facebook-session-cookie":https://github.com/jonashuckestein/node-facebook-session-cookie -- eats facebook cookies from client FB.login() and makes the session available as req.fb_session
 ** "quip":https://github.com/caolan/quip -- Chainable HTTP response API  
 ** "resource-router":https://github.com/s3u/resource-router -- A resource-oriented router to replace the default routing in express
+** "session.js":https://github.com/Marak/session.js -- super simple session middleware for node.js, even has optional "magic" sessions which monkey patch the httpServer with one line!
 ** "session-web-sockets":https://github.com/kazuyukitanimura/session-web-sockets -- Pass session to (Socket.IO-node) in a secure manner.   Originally forked from "bmeck/session-web-sockets":https://github.com/bmeck/session-web-sockets
 ** "trust-reverse-proxy":https://github.com/zazengo/trust-reverse-proxy - Trust (SSL) connections coming from (a) specific reverse prox(y)(ies)
 ** "node_signedcookies":https://github.com/mattrobenolt/node_signedcookies -- Extends Express's cookieParser() to read/write signed cookies.
@@ -682,6 +684,7 @@ h4(#parsers-other). "Other Parsers":#parsers-other
 h3(#debugging). "Debugging / Console Utilities":#debugging
 * "ain":https://github.com/akaspin/ain -- Brain-free syslog logging
 * "cfdump.js":https://github.com/figital/cfdump.js -- a more visually inspiring way to dump your objects to a browser
+* "colors.js":https://github.com/Marak/colors.js -- get colors in your node.js console like what
 * "colours.js":https://github.com/botanicus/colours.js -- Give your CLI programs some colours!
 * "colored.js":https://github.com/chrislloyd/colored.js -- Colorize terminal output.
 * "consolelog.js":https://github.com/jazzychad/consolelog.node.js -- stylized console logging for node.js
@@ -867,6 +870,7 @@ h3(#i18n). "I18n and L10n modules":#i18n
 * "node-i18n":https://github.com/ohaibbq/node-i18n -- node-i18n is a minimalistic internationalization module with templating 
 * "i18n-node":https://github.com/mashpie/i18n-node -- Exports common __(), __n() syntax. Stores JSON objects dynamically on code-change.
 * "connect-i18n":https://github.com/masylum/connect-i18n -- Middleware for connect to handle i18n.
+* "translate.js":https://github.com/Marak/translate.js -- translate text from one language to another on node.js and the browser. 30+ languages supported, simple as cake.
 
 
 <a name="boilerplates"></a>
