@@ -237,6 +237,7 @@ h3(#database). "Database":#database
 ** "node-orm":https://github.com/dresende/node-orm -- Basic ORM for multiple drivers (still in development, only MySQL driver for now)
 ** "persistence.js":https://github.com/zefhemel/persistencejs -- An object-relational mapper (ORM) for node. Backends: MySQL.
 ** "sequelize":https://github.com/sdepold/sequelize - An easy-to-use MySQL Object-Relational-Mapper (ORM) for Node.JS
+** "moose":https://github.com/Pollenware/moose - An ORM for node (Currently only MySQL). Based on node-mysql
 * "Sql Lite":#db-sqllite
 ** "node-sqlite":https://github.com/grumdrig/node-sqlite -- Bindings for SQLite3. Interface conforms to the "HTML5 Web SQL API":http://dev.w3.org/html5/webdatabase/#sql.
 ** "node-sqlite":https://github.com/orlandov/node-sqlite -- Fast asynchronous driver: New evented Node.js look, same great SQLite3 taste
@@ -302,6 +303,7 @@ h3(#database). "Database":#database
 ** "simpledb":https://github.com/rjrodger/simpledb -- An Amazon AWS SimpleDB library for Node.js that is user-friendly and fault-tolerant
 ** "node-mdb":https://github.com/robtweed/node-mdb -- Node.js-based clone of AWS SimpleDB, using GT.M for data storage
 ** "ueberDB":https://github.com/Pita/ueberDB -- Transforms every database into a object key value store
+** "hive":https://github.com/Pollenware/hive -- Fast in memory store for Node.
 <a name="templating"></a>
 
 h3(#templating). "Templating":#templating
@@ -529,6 +531,7 @@ h3(#class-system). "Class systems":#class-system
 * "Klass":https://github.com/polvero/klass -- An expressive, cross platform JavaScript Class provider with a slick, classical interface to prototypal inheritance. Includes extends, implements, and the ability to call super classes/methods
 * "class-js":https://github.com/bnoguchi/class-js -- Simple, Light-weight OO Class factory
 * "Sslac":https://github.com/jakobo/sslac -- Basic OOP-like support in JavaScript using chaining. Supports extension, interfaces, namespacing, and static objects.
+* "comb":https://github.com/Pollenware/comb -- Library with a built in OO class system, and other features(datastructures, array string and date utilities, etc..).
 
 <a name="testing"></a>
 
