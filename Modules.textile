@@ -546,6 +546,7 @@ h3(#testing). "Testing / Spec Frameworks":#testing
 * "Jody":https://github.com/garrensmith/Jody -- A descriptive BDD Testing framework 
 * "jspec":https://github.com/visionmedia/jspec -- Feature Rich BDD Testing Framework (no longer supported)
 * "kyuri":https://github.com/nodejitsu/kyuri -- A node.js cucumber implementation with a few extra asynchronous keywords. supports 160+ languages and exports to VowsJS stubs
+* "maryjane":https://github.com/dhasenan/maryjane/ -- Mock object library inspired by Mockito
 * "minitest.js":https://github.com/botanicus/minitest.js -- Light-weight & simple testing framework designed specially for testing asynchronous code.
 * "mjsunit.runner":https://github.com/tmpvar/mjsunit.runner -- Command line mjsunit runner which provides an easy way to hook into mjsunit and start running tests immediately.
 * "node-assert-extras":http://gitorious.org/node-assert-extras -- Additional high level asserts
