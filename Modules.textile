@@ -171,6 +171,7 @@ h4(#middleware). "Middleware":#middleware
 ** "cookie-sessions":https://github.com/caolan/cookie-sessions -- Secure cookie-based session store
 ** "dispatch":https://github.com/caolan/dispatch -- Regular expression URL dispatcher
 ** "form2json":https://github.com/fgnass/form2json -- Decoder for form-urlencoded data that supports arrays of nested objects
+* "formaline":https://github.com/rootslab/formaline - full-featured module for handling form POSTs/PUTs and fast parsing of file uploads, ready for use with connect middleware
 ** "monomi":https://github.com/jamesgpearce/monomi/ -- Provides tools for handling tablet, touch, and mobile browsers
 ** "node-facebook-session-cookie":https://github.com/jonashuckestein/node-facebook-session-cookie -- eats facebook cookies from client FB.login() and makes the session available as req.fb_session
 ** "quip":https://github.com/caolan/quip -- Chainable HTTP response API  
