@@ -987,6 +987,7 @@ h3(#other). "Other":#other
 * "node-queue":https://github.com/pagameba/node-queue -- simple queueing service for node, similar model to SQS but much higher performance
 * "node-s3":https://github.com/grippy/node-s3 -- App for basic Amazon Web Services S3 administration (upload files, bucket admin, etc.)
 * "node.Amazon-S3":https://github.com/nuxusr/Node.js---Amazon-S3 -- S3 implementation with Md5 signing, upload/download progress% events, streaming, large file support. 
+* "node-simple-cdn":https://github.com/semu/node-simple-cdn -- Simple Content Delivery Network host ballancing for node
 * "node-sissy:":https://github.com/tricknik/node-sissy -- S3 Upload & Download, Supports 100 continue, Range header, and using Streams or Files.
 * "node-solr":https://github.com/gsf/node-solr -- Solr module for Node
 * "node-sosumi":https://github.com/drudge/node-sosumi -- Use Find My Phone services from your node apps
