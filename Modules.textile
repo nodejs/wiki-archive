@@ -488,6 +488,7 @@ h3(#rpc). "RPC":#rpc
 * "msgpack-rpc":https://github.com/bpot/node-msgpack-rpc -- Implementation of Msgpack-RPC (http://msgpack.org)
 * "node-ipcbuffer":https://github.com/dazhazit/node-ipcbuffer -- A modified Buffer object to pass large amounts of data between processes using POSIX or System V IPC shared memory and or do fast read and writes to files. (Windows soon).
 * "node-soap":https://github.com/milewise/node-soap -- SOAP client and service (partial support).
+* "nodejs-light_rpc":https://github.com/romulka/nodejs-light_rpc -- Simple server/client RPC, with minimal dependencies (uuid (can be removed to use simple increment)).
 
 <a name="ws-ajax"></a>
 
