@@ -675,7 +675,7 @@ h4(#parsers-other). "Other Parsers":#parsers-other
 * "mailparser":https://github.com/andris9/mailparser -- Parse mime encoded e-mails into structured objects
 * "node-browscap":https://github.com/dangrossman/node-browscap -- browscap.ini parser and port of PHP's get_browser function
 * "node_spreadsheet":https://github.com/shimondoodkin/node_spreadsheet -- Read xls,xlsx,ods,csv spreadsheets (php based)
-* "formaline":https://github.com/rootslab/formaline - full-featured module for handling form POSTs/PUTs and fast parsing of file uploads
+* "formaline":https://github.com/rootslab/formaline - full-featured module for handling form POSTs/PUTs and fast parsing of file uploads, ready for use with connect middleware
 * "carrier":https://github.com/pgte/carrier -- Evented stream line reader for node.js
 * "parser_email":https://github.com/jrgns/parser_email - Simple multi type email parser
 * "memcache-parser":https://github.com/billywhizz/node-memcache-parser - Memcached binary protocol parser
