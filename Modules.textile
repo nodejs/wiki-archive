@@ -88,7 +88,6 @@ h4(#web-frameworks-static). "Static file servers":#web-frameworks-static
 * "node-static":https://github.com/cloudhead/node-static -- A simple, rfc 2616-compliant static file server module with built-in caching
 * "oui":https://github.com/rsms/oui -- Web service server with great static files support
 * "static":https://github.com/kriszyp/pintura/blob/master/lib/jsgi/static.js - Static file handler using asynchronous streaming as JSGI middleware
-* "protos":https://github.com/dulac/protos - Static file server with JSON configuration, similar to Apache
 * "static-resource":https://github.com/atsuya/static-resource - Static resource handling for node.js
 
 <a name="web-frameworks-micro"></a>
