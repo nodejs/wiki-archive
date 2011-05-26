@@ -623,6 +623,8 @@ h2. UTC+2 (+3)
 ** "Website":http://www.powertrip.co.za, "GitHub":http://github.com/jacques, "Twitter":http://twitter.com/jacques
 * Janne Hietamaki (janne), Finland
 ** "GitHub":http://github.com/jannehietamaki, "Twitter":http://twitter.com/jannehietamaki
+* John Clarke, Cape Town, South Africa
+** "GitHub":https://github.com/jcinteractive, "Twitter":http://twitter.com/jc1arke
 
 h2. UTC+3 (+4)
 
