@@ -235,6 +235,7 @@ h3(#database). "Database":#database
 ** "node-mysql-native":https://github.com/sidorares/nodejs-mysql-native -- Yet another pure JS async driver. Pipelining, prepared statements.
 ** "node-mysql-libmysqlclient":https://github.com/Sannis/node-mysql-libmysqlclient -- MySQL asynchronous bindings based on libmysqlclient
 *** "RDX":https://github.com/kreetitech/RDX - An object-relational mapper (ORM) for node. Backends: node-mysql-libmysqlclient.
+** "node-handlersocket":https://github.com/koichik/node-handlersocket -- Pure JavaScript client for "HandlerSocket Plugin for MySQL":https://github.com/ahiguti/HandlerSocket-Plugin-for-MySQL. 
 ** "node-orm":https://github.com/dresende/node-orm -- Basic ORM for multiple drivers (still in development, only MySQL driver for now)
 ** "persistence.js":https://github.com/zefhemel/persistencejs -- An object-relational mapper (ORM) for node. Backends: MySQL.
 ** "sequelize":https://github.com/sdepold/sequelize - An easy-to-use MySQL Object-Relational-Mapper (ORM) for Node.JS
@@ -291,7 +292,6 @@ h3(#database). "Database":#database
 ** "node-fleet":https://github.com/jfd/node-fleet -- a FleetDB Client
 ** "node-firebird-libfbclient":https://github.com/xdenser/node-firebird-libfbclient -- Firebird SQL client
 ** "node-fsdocs":https://github.com/rsms/node-fsdocs -- Simple, ACID and versioned file system-based document database for quick hacks
-** "node-handlersocket":https://github.com/koichik/node-handlersocket -- Pure JavaScript client for HandlerSocket 
 ** "node-hbase":https://github.com/wdavidw/node-hbase -- HBase client with full API support through the REST connector
 ** "node-mdbm":https://github.com/robtweed/node-mdbm -- a client for GT.M and Cache, using an HTTP interface that is based on SimpleDB
 ** "memcached":https://github.com/3rd-Eden/node-memcached -- Memcached, membase client with support for memcached clusters using consistent hashing.
