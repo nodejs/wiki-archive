@@ -191,6 +191,7 @@ h4(#middleware). "Middleware":#middleware
 ** "proxy-tamper":https://github.com/tsyd/proxy-tamper -- A proxy server that allows for the tampering of requests and responses.
 ** "googleclientlogin":https://github.com/Ajnasz/GoogleClientLogin -- Log in to Google services using CllientLogin method
 ** "node-reverse-proxy":http://www.steve.org.uk/Software/node-reverse-proxy -- A reverse proxy which forwards incoming HTTP requests to multiple back-end HTTP servers based upon HTTP Host header.
+** "Node-Http-Rewrite-Proxy":https://github.com/FlashFan/Node-Http-Rewrite-Proxy -- This module proxies and rewrites HTTP requests of all types. For this you can, if you want, use regular expressions.
 
 <a name="web-frameworks-other"></a>
 
