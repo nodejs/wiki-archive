@@ -500,6 +500,7 @@ h3(#ws-ajax). "Web Sockets & Ajax":#ws-ajax
 * "Faye":https://github.com/jcoglan/faye -- Bayeux protocol Comet client and server for Node.js and Rack
 * "Minotaur":https://github.com/yojimbo87/minotaur -- Long poll server using JSONP communication with clients
 * "Socket.io":https://github.com/LearnBoost/Socket.IO -- WebSocket-compatible server and client with fallback for legacy browsers
+* "node-rpc-socket.io":https://github.com/Tronix117/node-rpc-socket.io.git -- socket.io addon, add a full client/server implementation of JSON-RPC
 * "node-socket.io-client":https://github.com/saschagehlich/node-socket.io-client -- Node.js implementation of the Socket.IO client libraries
 * "node-XMLHttpRequest":https://github.com/driverdan/node-XMLHttpRequest
 * "node.websocket.js":https://github.com/Guille/node.websocket.js -- WebSocket-compatible server.
