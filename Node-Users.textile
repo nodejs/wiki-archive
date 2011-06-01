@@ -581,6 +581,8 @@ h2. UTC+1 (+2)
 ** "Bitbucket":http://bitbucket.org/firefly, "GitHub":http://github.com/FireyFly, "Twitter":http://twitter.com/FireyFly, "Website":http://www.firefly.nu
 * Olivier Philippon (DrBenton) , Paris , France
 ** "GitHub":http://github.com/DrBenton 
+* Nicolas Chambrier (naholyr), Lyon, France
+** "GitHub":http://github.com/naholyr, "Twitter":http://twitter.com/naholyr, "Website":http://naholyr.fr
 
 h2. UTC+2 (+3)
 * Aurimas Rim?a, Lithuania
