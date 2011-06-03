@@ -845,6 +845,7 @@ h3(#api-clients). "API clients":#api-clients
 h3(#async-flow). "Flow control / Async goodies":#async-flow
 * "async.js":https://github.com/fjakobs/async.js -- Async chaining and file system utilities. Async.js is to node's fs module, what jQuery is to the DOM.
 * "async":https://github.com/caolan/async -- Comprehensive async map/reduce and flow control (parallel, series, waterfall, auto...) module that works in node and the browser
+* "atbar":https://github.com/mark-hahn/atbar -- Async callback manager for javascript in nodejs and browser
 * "chainsaw":https://github.com/substack/node-chainsaw -- Build chainable fluent interfaces the easy way in node.js
 * "Cinch":https://github.com/pguillory/cinch -- Write async code in sync form.
 * "fiberize":https://github.com/lm1/node-fiberize -- Node API wrapper for use with fibers.
