@@ -34,7 +34,7 @@ Use make to build and install Node (execute the following on the command line)
     mkdir ~/local
     ./configure --prefix=$HOME/local/node
     make
-    make install
+    sudo make install
     export PATH=$HOME/local/node/bin:$PATH
 
 If you have any installation problems, look at [Troubleshooting
