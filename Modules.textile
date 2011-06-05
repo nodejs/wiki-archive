@@ -168,6 +168,7 @@ h4(#middleware). "Middleware":#middleware
 ** "connect-rpx":https://github.com/xrd/connect-rpx - Use RPX with Node.js and Connect
 ** "connect_facebook":https://github.com/rsms/connect_facebook - Facebook session support for Connect
 ** "connect_json":https://github.com/rsms/connect_json - Support for parsing JSON requests and sending JSON responses in Connect
+** "gzippo":https://github.com/tomgallacher/gzippo -- gzip static content files with Connect/Express
 ** "cookie-sessions":https://github.com/caolan/cookie-sessions -- Secure cookie-based session store
 ** "dispatch":https://github.com/caolan/dispatch -- Regular expression URL dispatcher
 ** "form2json":https://github.com/fgnass/form2json -- Decoder for form-urlencoded data that supports arrays of nested objects
