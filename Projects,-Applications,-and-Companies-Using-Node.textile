@@ -7,6 +7,7 @@ h2. Projects and Applications
 * "Ajax IM":http://github.com/endtwist/AjaxIM -- Ajax IM is an instant messaging server and framework for the browser.
 * "Alligator":http://github.com/mrohad/Alligator -- Application Server on top of NodeJS (JSSP and SSJS support)
 * "antinode":http://github.com/mhansen/antinode -- Simple static file HTTP Server with logging
+* "Apples to Oranges":https://github.com/cmpolis/Apples-and-Oranges -- Node.JS, Socket.IO powered Apples to Apples game("tutorial":http://www.bytemuse.com/2011/06/building-a-web-app-part-1-planning)
 * "Applifier - Largest social game cross promo network":http://www.applifier.com (reference <a href="http://twitter.com/jussil/status/12048190433918976">http://twitter.com/jussil/status/12048190433918976</a>)
 * "azathoth":http://github.com/orlandov/azathoth -- simple HTTP traffic/load generator and benchmark proof of concept
 * "Backbone Examples Ported From Knockout (WIP)":https://github.com/mgutz/backbone-knockout-examples -- by Mario Gutierrez
