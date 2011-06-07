@@ -195,6 +195,7 @@ h4(#middleware). "Middleware":#middleware
 ** "googleclientlogin":https://github.com/Ajnasz/GoogleClientLogin -- Log in to Google services using CllientLogin method
 ** "node-reverse-proxy":http://www.steve.org.uk/Software/node-reverse-proxy -- A reverse proxy which forwards incoming HTTP requests to multiple back-end HTTP servers based upon HTTP Host header.
 ** "Node-Http-Rewrite-Proxy":https://github.com/FlashFan/Node-Http-Rewrite-Proxy -- This module proxies and rewrites HTTP requests of all types. For this you can, if you want, use regular expressions.
+** "eventpipe":http://www.google.com/url?sa=D&q=https://github.com/dhruvbird/eventpipe -- Provides an Event Pipe with the *same* API as node.js' EventEmitter
 
 <a name="web-frameworks-other"></a>
 
@@ -1073,7 +1074,7 @@ h3(#other). "Other":#other
 * "node-srs":https://github.com/springmeyer/node-srs -- Bindings to libosr for handling spatial references in node
 * "node-i3":https://github.com/badboy/node-i3 -- inter-process communication with i3 using node.js' asynchronous programming style
 * "node_pickle":https://github.com/mattrobenolt/node_pickle -- A Python pickled object <-> JSON transport. Writing/reading Python pickled objects to JavaScript objects.
-* "algorithm-js":https://github.com/directidhruv/algorithm-js/ -- Data Structures & Algorithms in JavaScript
+* "algorithm-js":https://github.com/dhruvbird/algorithm-js/ -- Data Structures & Algorithms in JavaScript
 * "magic":https://github.com/aikar/magic/ -- Magic Getters/Setters to write better Promise implementations similar to PHP's __get and __set methods.
 * "gsl":https://github.com/wdavidw/node-gsl -- GNU Scientific Library (GSL) for NodeJS (Focusing on random at the moment)
 * "youtube-dl":https://github.com/Neat/node-youtube-dl -- A youtube-dl driver for node.
