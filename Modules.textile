@@ -277,6 +277,7 @@ h3(#database). "Database":#database
 *** "PJsonCouch":https://github.com/landeiro/PJsonCouch -- PJs-on-Couch is a client lib for CouchDB's HTTP API
 *** "cradle":https://github.com/cloudhead/cradle -- a high-level, caching, CouchDB client
 *** "data.js":https://github.com/michael/data/ -- Graph persistence for Node.js with CouchDB
+*** "couchtato":https://github.com/cliffano/couchtato/ -- CouchDB document iterator
 ** "NoSQL Misc":#db-misc
 *** "riak-js":https://github.com/frank06/riak-js -- Riak JavaScript client (works on node v0.1.30+)
 *** "node-mwire":https://github.com/robtweed/node-mwire -- Client for GT.M & Cache databases
