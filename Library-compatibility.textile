@@ -4,6 +4,7 @@ h2. Node v0.5.0-pre
 * "quickcheck v0.0.0":https://github.com/mcandre/node-quickcheck
 * "node-flags v0.1":https://github.com/dpup/node-flags
 * "escort v0.0.2":https://github.com/ckknight/escort
+* "node-socksified v0.0.1":https://github.com/vially/node-socksified
 
 h2. Node v0.4.7
 * "websocket-node @ 519f5ba":https://github.com/Worlize/WebSocket-Node/tree/519f5baa10f405d0f6e218bd46dd6a48dc8bb55b
