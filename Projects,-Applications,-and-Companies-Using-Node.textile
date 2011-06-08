@@ -109,6 +109,7 @@ h2. Companies
 * "Ajax.org":http://ajax.org/ -- Home of the Cloud9 IDE, Ajax.org Platform and O3 Node modules
 * "Applied Data Consultants":http://applieddataconsultants.com
 * "AntPortal":https://antportal.com/
+* "appendTo":http://appendto.com/ -- The Company Dedicated to jQuery
 * "bejes.us":http://bejes.us/ -- NodeJS hosting using the @Nodester platform - Maintained by one of the developers.
 * "Bitmechanic":http://www.bitmechanic.com/
 * "Bocoup":http://bocoup.com
