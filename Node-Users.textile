@@ -441,6 +441,8 @@ h2. UTC+0 (+1)
 ** "GitHub":http://github.com/mdransfield, "Twitter":http://twitter.com/dransfim
 
 h2. UTC+1 (+2)
+* Travis Dunn (travisdunn), Amsterdam, The Netherlands
+** "GitHub":https://github.com/TertiumQuid, "Twitter":http://twitter.com/dramaroyal, "Website":http://travisdunn.com
 * Arnout Kazemier (V1), The Netherlands
 ** "GitHub":http://github.com/3rd-Eden, "Twitter":http://twitter.com/3rdEden, "Website":http://www.3rd-eden.com
 * Lars Smit
