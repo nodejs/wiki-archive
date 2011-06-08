@@ -179,6 +179,7 @@ h2. Companies
 * "Siteworx":http://www.siteworx.com/
 * "Sleepless Software Inc.":http://sleepless.com - Servers for large scale Facebook games.
 * "Spoondate":http://spoondate.com - A delicious way to meet.
+* "Stanzr":http://stanzr.com -- Real-Time, Outbound, Social Media Conversations for businesses 
 * "Szpil":https://szpil.com - Keep detailed contact histories. Review past calls and conversations. Collaborate with colleagues. 
 * "Telefónica R&D":http://tid.es
 * "TRData Limited":https://trdata.com - real-time data processing and comet-server
