@@ -6,8 +6,8 @@ Of course, if you don't use [Pathogen](http://www.vim.org/scripts/script.php?scr
 
 ## Linter
 
-* [Tabular](http://vimcasts.org/episodes/aligning-text-with-tabular-vim/)
-* [JsLint](https://github.com/hallettj/jslint.vim)
+* [Tabular](http://vimcasts.org/episodes/aligning-text-with-tabular-vim/) Align declarations, equals signs, etc.
+* [JsLint](https://github.com/hallettj/jslint.vim) Lint your code from vim
 
 ## Syntax
 
@@ -17,21 +17,21 @@ Of course, if you don't use [Pathogen](http://www.vim.org/scripts/script.php?scr
 
 ## Editing
 
-* [surround](http://www.vim.org/scripts/script.php?script_id=1697)
-* [tComment](http://www.vim.org/scripts/script.php?script_id=1173)
-* [NERD_Commenter](http://www.vim.org/scripts/script.php?script_id=1218)
+* [surround](http://www.vim.org/scripts/script.php?script_id=1697) 
+* [tComment](http://www.vim.org/scripts/script.php?script_id=1173) auto comment
+* [NERD_Commenter](http://www.vim.org/scripts/script.php?script_id=1218) auto comment
 
 ## Snippets
 
-* [SnipMate](http://www.vim.org/scripts/script.php?script_id=2540)
-* [nodejs-snippets](https://github.com/jamescarr/snipmate-nodejs) node specific snippet for SnipMate
+* [SnipMate](http://www.vim.org/scripts/script.php?script_id=2540) Text-Mate like snippets
+* [nodejs-snippets](https://github.com/jamescarr/snipmate-nodejs) node specific snippet for SnipMate. Consider forking and improving
 
 ## Browsing
 
-* [Commant-T](http://www.vim.org/scripts/script.php?script_id=3025) TextMate-like Command-T explorer
-* [NERD_Tree](http://www.vim.org/scripts/script.php?script_id=1658)
-* [Ack](https://github.com/mileszs/ack.vim)
-* [Fuzzyfinder] (http://www.vim.org/scripts/script.php?script_id=1984)
+* [Commant-T](http://www.vim.org/scripts/script.php?script_id=3025) TextMate-like Command-T explorer. Find files by pattern
+* [NERD_Tree](http://www.vim.org/scripts/script.php?script_id=1658) Tree filesystem browser
+* [Ack](https://github.com/mileszs/ack.vim) better than grep
+* [Fuzzyfinder] (http://www.vim.org/scripts/script.php?script_id=1984) find files by pattern
 
 ## Colorschemes
 
@@ -43,7 +43,7 @@ Of course, if you don't use [Pathogen](http://www.vim.org/scripts/script.php?scr
 
 These plugins are not specific to node.js development but are widely used in the community
 
-* [Zencoding](http://www.vim.org/scripts/script.php?script_id=2981)
+* [Zencoding](http://www.vim.org/scripts/script.php?script_id=2981) Generate html structures from CSS-like syntax
 * [fugitive] (https://github.com/tpope/vim-fugitive) - Git commands in your VIM
 * [EasyMotion] (https://github.com/Lokaltog/vim-easymotion) - Move faster in your text
 
