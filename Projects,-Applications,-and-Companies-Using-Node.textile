@@ -131,6 +131,7 @@ h2. Companies
 * "Fictorial":http://fictorial.com
 * "Fostle":http://fostle.com/
 * "Ge.tt":http://ge.tt Kick ass file sharing service - (oh and it's real time)
+* "GoodData": http://www.gooddata.com SAAS BI - the Way It Should Be
 * "Heroku":http://blog.heroku.com/archives/2010/4/28/node_js_support_experimental/ Dead simple Node deployment for you, and internal tools for us.
 * "Humansized Inc.":http://www.humansized.com
 * "IDFuze":http://www.idfuze.com - Working on a real time cards game using node.js and socket.io
