@@ -31,19 +31,25 @@ Of course, if you don't use [Pathogen](http://www.vim.org/scripts/script.php?scr
 * [Commant-T](http://www.vim.org/scripts/script.php?script_id=3025) TextMate-like Command-T explorer
 * [NERD_Tree](http://www.vim.org/scripts/script.php?script_id=1658)
 * [Ack](https://github.com/mileszs/ack.vim)
+* [Fuzzyfinder] (http://www.vim.org/scripts/script.php?script_id=1984)
 
 ## Colorschemes
 
+* [ColorSamplePack] (http://www.vim.org/scripts/script.php?script_id=625)
 * [Solarized](https://github.com/altercation/vim-colors-solarized)
+* [Mustang] (https://github.com/marcus/vim-mustang)
 
 ## Miscellaneous
 
 These plugins are not specific to node.js development but are widely used in the community
 
 * [Zencoding](http://www.vim.org/scripts/script.php?script_id=2981)
+* [fugitive] (https://github.com/tpope/vim-fugitive) - Git commands in your VIM
+* [EasyMotion] (https://github.com/Lokaltog/vim-easymotion) - Move faster in your text
 
 ## User config
 
 Show off your vim skills by including a link to your pimped out `~/.vim`
 
 * [Floby](https://github.com/Floby/vim-config)
+* [alessioalex] (https://github.com/alessioalex/dotfiles)
