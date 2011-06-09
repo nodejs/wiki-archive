@@ -132,7 +132,6 @@ h4(#web-frameworks-full). "Frameworks":#web-frameworks-full
 * "pintura":https://github.com/kriszyp/pintura -- REST-based web framework/"middleware":https://github.com/kriszyp/pintura/tree/master/lib/jsgi/ stack built for Ajax-style "JSON-driven applications":http://www.sitepen.com/blog/2010/01/22/introducing-pintura/.
 * "spludo":http://spludo.com -- A full featured web framework. Fully Async + MVC with DI, AOP and Storages. ("tutorial":http://docsforit.spludo.com/ + "user-guide":http://spludo.com/user-guide/full/)
 * "Seek":https://github.com/fk1blow/Seek/ -- Small Javascript Web framework - mostly for learning purpose
-* "Vanilla":https://github.com/chjj/vanilla -- A sinatra-like framework, some batteries included...but not too many.
 * "WIN":https://github.com/mathgladiator/win -- A simple page centric framework designed around CouchDB+Mustache
 * "Zeppelin":https://github.com/pelger/Zeppelin -- An early stage, low friction cloud development framework    
 
