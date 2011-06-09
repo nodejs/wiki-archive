@@ -72,8 +72,6 @@ h4(#web-frameworks-routers). "Routers":#web-frameworks-routers
 * "nozzle":https://github.com/fictorial/nozzle -- web app/service framework
 * "sherpa":https://github.com/joshbuddy/sherpa -- HTTP router/generator with support for regex and parameters
 
-<a name="web-frameworks-static"></a>
-
 h4(#web-frameworks-static). "Static file servers":#web-frameworks-static
 * "Lightnode":http://www.ngspinners.com/lightnode/ -- Easy to understand. Fast. Provides simple framework. (heirarchical servers, delegation, caching, virtual hosts).
 * "Nitrode":https://github.com/ollym/nitrode -- A lightweight, super fast HTTP 1.1 with internal JS API
