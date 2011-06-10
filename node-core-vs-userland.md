@@ -4,7 +4,7 @@ Of course, traditionally, "userland" or "userspace" refer to everything outside 
 
 However, in the context of NodeJS, "core" refers to the modules and bindings that are compiled into NodeJS.  In general, they provide a hook into very well-understood low-level functionality which almost all networking programs are going to require: TCP, HTTP, DNS, the File System, child processes, and a few other things.  If something is fancy enough to argue about, there's a good chance it won't be part of node-core.  HTTP is about as big as it gets, and if it wasn't so popular, it'd certainly not be a part of node.
 
-There are also some things in node-core that are simply too painful to do without in a JavaScript environment, or which have been created to implement some BOM constructs which are not part of the JavaScript language, but may as well be (eg, setTimeout and setInterval).
+There are also some things in node-core that are simply too painful to do without in a JavaScript environment, or which have been created to implement some BOM constructs which are not part of the JavaScript language, but may as well be (eg, setTimeout, setInterval, and console).
 
 Everything else is "userland".  This includes: npm, express, request, coffee-script, mysql clients, redis clients, and so on.  You can often install these programs using [npm](http://npmjs.org/).
 
