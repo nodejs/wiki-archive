@@ -13,3 +13,15 @@ The question of what is properly "node-core" and what belongs in "userland" is a
 ## This is a Good Thing.
 
 One goal of node's minimal core library is to encourage people to implement things in creative ways, without forcing their ideas onto everyone.  With a tiny core and a vibrant user space, we can all flourish and experiment without the onerous burden of having to always agree all the time.
+
+## Userland isn't Less
+
+If anything, it's more.  Building functionality in userland rather than in node-core means:
+
+* You have a lot more freedom to iterate on the idea.
+* Everyone who wants your module can install it easily enough (if you publish it with npm).
+* You have freedom to break node conventions if that makes sense for your use-case.
+
+If you believe that something *really* just *needs* to be part of node's core library set, you should *still* build it as a module!  It's much more likely to be pulled into node-core if people have a chance to see your great ideas in action, and if its core principles are iterated and polished and tested with real-world use.
+
+Changing functionality that is included in node-core is very costly.  We do it sometimes, but it's not easy, and carries a high risk of regressions.  Better to experiment outside, and then pull it into node-core once it's stable.  Once it's usable as a userland package, you may even find that it's less essential to node-core than you first thought.
