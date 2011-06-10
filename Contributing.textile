@@ -12,11 +12,11 @@ h2. Some participation guidelines
 * C++ code should follow "Google's C++ style guide":http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml and be run through cpplint with `make cpplint`.
 * Agree to "the contributor agreement":http://nodejs.org/cla.html
 * Node follows the even/odd version numbering for changes (as typified by the Linux Kernel):
-** API changes, including new APIs will usually not go into even version numbers
-** Bug fixes and documentation changes may go into even versions
+** API changes, including new APIs will usually *not* go into even version numbers
+** Bug fixes and documentation changes *may* go into even versions
 ** Most development happens on the "master" branch, which is always an odd version
 ** Applicable changes to the current stable version will usually be backported from master
-* A pull request on github is the easiest way to get code into node as it allows the core developers to keep a track of the changes
+* _A pull request on github is the easiest way to get code into node_ -- it allows the core developers to keep a track of the changes
 
 h2. Testing
 
