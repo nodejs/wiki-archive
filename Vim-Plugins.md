@@ -38,6 +38,7 @@ Of course, if you don't use [Pathogen](http://www.vim.org/scripts/script.php?scr
 * [ColorSamplePack] (http://www.vim.org/scripts/script.php?script_id=625)
 * [Solarized](https://github.com/altercation/vim-colors-solarized)
 * [Mustang] (https://github.com/marcus/vim-mustang)
+* [xoria256](http://www.vim.org/scripts/script.php?script_id=2140) finely tuned soft gamma colorscheme
 
 ## Miscellaneous
 
