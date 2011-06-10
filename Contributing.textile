@@ -43,7 +43,7 @@ These are some things to consider before thinking about patching node core:
 * Does the concept match the general goals of Node? Your patch needs to be aligned with Node's core goals - to provide a fast, lightweight framework for building networked applications. 
 * Is your patch backwards compatible? Breaking backwards compatibility is never done lightly.
 * Is your patch cross platform? Will it work on Windows as well as Unix-like OS's?
-* Could your patch be a module? Node intends to keep the core as lightweight as possible. Consider creating a module and uploading to npm instead.
+* Could your patch be a module? Node intends to keep the core as lightweight as possible. Consider creating a module and uploading to npm instead.  See <a href="https://github.com/joyent/node/wiki/node-core-vs-userland">node-core vs. userland</a>.
 * Is the feature broadly useful? There's no point adding features to Node that only you or a few people will use.
 * Have you tested it? See the note about tests above.
 * Have you documented it? Documentation is in the "docs" directory.
