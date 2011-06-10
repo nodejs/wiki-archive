@@ -198,3 +198,4 @@ h2. Companies
 * "Yammer":https://www.yammer.com -- The Yammer Application Platform heavily uses node.js
 * "Ylastic":http://ylastic.com/ - uses node for report processing and admin app
 * "[[BörseGo AG|http://boerse-go.ag|]]" - they use a nodejs server for providing news pushed via websockets on http://www.jandaya.de
+* "Doodkin" http://doodkin.com developed an mobile application with node.
