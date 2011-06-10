@@ -2,15 +2,25 @@ h2. Getting your code into Node
 
 The only "official" node repository is "https://github.com/joyent/node":https://github.com/joyent/node. For code, docs, tests, or anything else, joyent/node is the repository that reflects the official state of the Node.js project. That's where all patches have to end up if they are going to be in the release, website, or API docs. There are a variety of ways to do this.
 
+# Fork the repository and send a pull request via github to joyent/node
 # Email patches to ry@tinyclouds.org and post them to the "node.js development mailing list":http://groups.google.com/group/nodejs-dev. Please add "[PATCH]" in the subject
-# Send a pull request via github to joyent/node
 # Post an issue to the mailing list describing the problem and paste a url to the patch "gist":https://gist.github.com/
 
 h2. Some participation guidelines
-# Discuss large changes on mailing list before coding
-# Javascript code style should follow "Google's JavaScript style guide":http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml and be run through the linter.  `make jslint` to validate.
-# C++ code should follow "Google's C++ style guide":http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml and be run through cpplint with `make cpplint`.
-# Agree to "the contributor agreement":http://nodejs.org/cla.html
+* Discuss large changes on the mailing list before coding
+* Javascript code style should follow "Google's JavaScript style guide":http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml and be run through the linter.  `make jslint` to validate.
+* C++ code should follow "Google's C++ style guide":http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml and be run through cpplint with `make cpplint`.
+* Agree to "the contributor agreement":http://nodejs.org/cla.html
+* Node follows the even/odd version numbering for changes (as typified by the Linux Kernel):
+** API changes, including new APIs will usually not go into even version numbers
+** Bug fixes and documentation changes may go into even versions
+** Most development happens on the "master" branch, which is always an odd version
+** Applicable changes to the current stable version will usually be backported from master
+* A pull request on github is the easiest way to get code into node as it allows the core developers to keep a track of the changes
+
+h2. Testing
+
+Node uses an automated test suite run via "make test". To create a new test file, select an appropriate subdirectory of "test/" and create a file named "test-&lt;something>.js" - where the "&lt;something>" indicates what is being tested. See the other tests in those directories for examples of how to write tests. Generally this involves calling "assert.equal()" to check things match your expected outcome. Every new feature MUST have tests or it will not be accepted into the node core.
 
 h2. Git commits/patches
 # the first line should be maximum 50 columns
@@ -25,3 +35,16 @@ To generate patch files:
 # make your change. Remember to update tests and docs as well as code!
 # commit your change
 # Use the <code>git format-patch</code> command to generate patch files.
+
+h2. A note about your patch
+
+These are some things to consider before thinking about patching node core:
+
+* Does the concept match the general goals of Node? Your patch needs to be aligned with Node's core goals - to provide a fast, lightweight framework for building networked applications. 
+* Is your patch backwards compatible? Breaking backwards compatibility is never done lightly.
+* Is your patch cross platform? Will it work on Windows as well as Unix-like OS's?
+* Could your patch be a module? Node intends to keep the core as lightweight as possible. Consider creating a module and uploading to npm instead.
+* Is the feature broadly useful? There's no point adding features to Node that only you or a few people will use.
+* Have you tested it? See the note about tests above.
+* Have you documented it? Documentation is in the "docs" directory.
+* Will this patch create more work for the Node developers? In short, is it adding to complexity?
