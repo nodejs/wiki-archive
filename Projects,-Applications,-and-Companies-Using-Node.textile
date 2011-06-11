@@ -50,6 +50,7 @@ h2. Projects and Applications
 * "memcached.js":https://github.com/dalssoft/memcached.js — Port of Memcached server for Node.js
 * "minlint":https://github.com/tsmith/minlint - minimalist version of jslint from command line
 * "Multi Touch Multi User Canvas":https://github.com/eddanger/Multi-Touch-Multi-User-Canvas - Node.js, Socket.IO, Express, and a multi touch canvas!
+* "MultiplayerChess.com":http://multiplayerchess.com - Quickest way to play chess. 
 * "noatta.ch":http://noatta.ch/ -- Instant Personal File Sharing
 * "node-asset-server":https://github.com/TrueCar/node-asset-server - An asset packaging/minification web service
 * "node-boilerplate":http://github.com/robrighter/node-boilerplate -- Everything you need to get started on a Node.js website with express and socket.IO
