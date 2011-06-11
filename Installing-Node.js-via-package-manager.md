@@ -15,7 +15,7 @@ Example install:
     sudo apt-get update
     sudo apt-get install nodejs
 
-Warning : This seems to install a very out of date version (0.2.6)
+It installs current stable nodejs on the current stable ubuntu.
 
 ## On openSUSE BuildService
 [Node.js stable repos list](http://bit.ly/nodejs_repos).
