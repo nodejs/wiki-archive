@@ -20,6 +20,7 @@ Of course, if you don't use [Pathogen](http://www.vim.org/scripts/script.php?scr
 * [surround](http://www.vim.org/scripts/script.php?script_id=1697) 
 * [tComment](http://www.vim.org/scripts/script.php?script_id=1173) auto comment
 * [NERD_Commenter](http://www.vim.org/scripts/script.php?script_id=1218) auto comment
+* [JavaScriptIndent](http://www.vim.org/scripts/script.php?script_id=3081) web-indent - Javascript indenter (HTML indent is included)
 
 ## Snippets
 
