@@ -1,6 +1,5 @@
 h2. Projects and Applications
 
-* "instant message God":http://imgod.me - Social Art project using node and MySQL
 * "node_chat":http://github.com/ry/node_chat by ry
 * "64squares":http://64sq.com - by weepy - real time live chess running on node + socket.io with facebook
 * "7 Minutes Chrono":http://www.7minuteschrono.com - A speed-dating chat application. Uses websockets and node.js
@@ -19,9 +18,11 @@ h2. Projects and Applications
 * "BusBound":http://www.busbound.com/ - iPhone web application built with express framework
 * "CamanJS":https://github.com/meltingice/CamanJS/tree/node - NodeJS port of a Canvas Image Manipulation Library
 * "cassiterite":http://github.com/kurokikaze/cassiterite -- Another blogging engine based on node.js + Tokyo Tyrant + nginx
+* "Chilitweets":http://chilitweets.com - The service discovers the hottest links in your Twitter timeline. Node.js is used in the backed to fetch Tweets and resolve URLs.
 * "Cloud9":http://www.cloud9ide.com -- Cloud9 IDE is aiming to be the IDE for Javascript developers, built with NodeJS and lots of other Node modules
 * "Cloudspace Mockups":http://cloudspacemockups.com/ - A Mockup Creator using node.js and MongoDB by "Cloudspace":http://cloudspace.com
 * "colorapi":http://colorapi.com/ - Color palette generator from Flickr images.
+* [[Constant Sail: Pirates & Traders|http://constantsail.com]] - real time pirate game (uses [[mongodb-native|https://github.com/christkv/node-mongodb-native]] and socket.io)
 * "designo":https://github.com/kazuyukitanimura/designo — Realtime Twitter client demo exploiting Node.js+Websockets+HTML5
 * "DinMaker":http://github.com/creationix/node-topcloud-chat by creationix (live demo at <a href="http://chat.creationix.com">chat.creationix.com</a>)
 * "diretto":http://www.diretto.org/ - Distributed Recon/Reporting Transceiver Toolkit – Uses Node.js for web-based media storage and for its RESTful webservice implementation
@@ -36,7 +37,8 @@ h2. Projects and Applications
 * "Graffiti &beta;":http://yay3d.com/graffiti — Interactive multi-user shared canvas whiteboard
 * "GrowlHub":http://github.com/idris/growlhub - Growl Notifications for GitHub
 * "gwt-node":https://github.com/cretz/gwt-node - Node.js in GWT allowing apps to be written in Java.
-* "Hummingbird":http://hummingbirdstats.com/ -- A realtime web analytics app using socket.io 
+* "Hummingbird":http://hummingbirdstats.com/ -- A realtime web analytics app using socket.io
+* "instant message God":http://imgod.me - Social Art project using node and MySQL
 * "JamBox":http://jambox.us/ – a collaborative real-time musicmaking app.
 * "jimi":http://github.com/colingourlay/jimi -- A framework for writing modular web applications in node.js ("tutorial":http://wiki.github.com/colingourlay/jimi/tutorial-hello-world)
 * "js.io":http://github.com/mcarter/js.io -- Javascript Networking Library for building real-time web applications
@@ -97,13 +99,15 @@ h2. Projects and Applications
 * "TxtAtlas: Put your texts on the map":http ://txtatlas.com -- A demo Twilio/Node.js/Redis application by Stephen J. Walters
 * "vertex.js":http://github.com/stevedekorte/vertex.js - A graph database inspired by filesystems built on node.js and tokyocabinet.
 * "vows.js":http://vowsjs.org/ - "Asynchronous behaviour driven development for Node."
+* "Wherevent":http://www.wherevent.com -- a search engine to help you find geolocated events and check who's coming. It use node.js to interface with facebook graph-API, yahoo and google APIs.
 * "wikiedge.org":http://www.wikiedge.org/ - A website to promote Chinese Wikipedia by deliver a daily magazine by good Wikipedia content, it is an opensource project, and code is at "github":https://github.com/mountain/distilled .
 * "wtfjs":http://github.com/brianleroux/wtfjs - what the fuck javascript!
 * "zztmmo":http://github.com/marak/zztmmo - a zzt based massive multiplayer online game built in node.js and jQuery (currently only single player)
-* [[Constant Sail: Pirates & Traders|http://constantsail.com]] - real time pirate game (uses [[mongodb-native|https://github.com/christkv/node-mongodb-native]] and socket.io)
-* "Chilitweets":http://chilitweets.com - The service discovers the hottest links in your Twitter timeline. Node.js is used in the backed to fetch Tweets and resolve URLs.
+
+
 
 h2. Companies
+* "13 pass":http://www.13pass.com/ -- Uses node.js and mongoDb to deals with API or realtime websocket programming.
 * "A2 Hosting":http://www.a2hosting.com/web-development/nodejs-hosting - Node.js hosting provider
 * "Academia.edu":http://www.academia.edu/ - uses node for background data processing
 * "Adcloud":http://adcloud.com/ -- Javascript Adserver on EC2
