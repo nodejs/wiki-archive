@@ -76,6 +76,7 @@ h2. Projects and Applications
 * "Orona":http://stephank.github.com/orona/ -- A multiplayer game of tank warfare. (Remake of the classic Mac game Bolo.)
 * "paperserve":http://github.com/StanAngeloff/node-paperserve -- Quick and dirty web server from your working directory
 * "Persevere":http://www.persvr.org/ - REST/HTTP + JSON-based web data project that includes "Pintura":http://github.com/kriszyp/pintura, "Perstore":http://github.com/kriszyp/perstore, "CommonJS-Utils":http://github.com/kriszyp/commonjs-utils
+* "pubsub.io":http://pubsub.io — a realtime message hub that routes messages using queries
 * "q-chess":http://github.com/wsdookadr/Q-Chess/tree/rewrite by wsdookadr — chess game multiplayer server using [[faye|http://github.com/jcoglan/faye]] + client written using [[Qooxdoo|http://qooxdoo.org/]] 
 * "Realie":http://www.web2media.net/laktek/2010/05/25/real-time-collaborative-editing-with-websockets-node-js-redis/ - Real-time Collaborative Editor using Web Sockets, Node.js & Redis (non-functional / doesn't work)
 * "Scrabbly":http://scrabb.ly - A Massively Multiplayer word game written on node.js. A Node Knockout winner.
