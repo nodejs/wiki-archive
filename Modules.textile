@@ -483,6 +483,7 @@ h3(#tcp). "TCP / IP":#tcp
 <a name="rpc"></a>
 * "node-snmp":https://github.com/huancz/node-snmp/ -- SNMP v1 client
 * "node-socksified":https://github.com/vially/node-socksified -- HTTP SOCKS5 proxy support
+* "http-sync":https://github.com/dhruvbird/http-sync -- Synchronous http(s) client
 
 h3(#rpc). "RPC":#rpc
 * "rpc-socket":https://github.com/FLYBYME/rpc-socket -- Multi socket support for JSON-RPC NOTE: still under development.
