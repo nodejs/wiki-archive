@@ -11,6 +11,7 @@ Of course, if you don't use [Pathogen](http://www.vim.org/scripts/script.php?scr
 
 ## Syntax
 
+* [JavaScript](https://github.com/pangloss/vim-javascript)
 * [CoffeeScript](https://github.com/kchmck/vim-coffee-script)
 * [Jade](https://github.com/digitaltoad/vim-jade)
 * [Stylus](https://github.com/wavded/vim-stylus)
@@ -55,3 +56,4 @@ Show off your vim skills by including a link to your pimped out `~/.vim`
 
 * [Floby](https://github.com/Floby/vim-config)
 * [alessioalex] (https://github.com/alessioalex/dotfiles)
+* [wavded](https://github.com/wavded/.vim) - geared towards Ubuntu
