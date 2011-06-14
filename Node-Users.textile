@@ -595,6 +595,8 @@ h2. UTC+1 (+2)
 ** "GitHub":http://github.com/pasku, "Twitter":http://twitter.com/pasku1
 * Linus G Thiel (yesbabyyes), Stockholm, Sweden
 ** "GitHub":http://github.com/linus, "Twitter":http://twitter.com/yesbabyyes, "Website":http://hanssonlarsson.se/
+* Viktors Rotanovs (viktors), Barcelona, Spain
+** "GitHub":http://github.com/viktors, "Twitter":http://twitter.com/viktors, "Website":http://rotanovs.com/
 
 h2. UTC+2 (+3)
 * Aurimas Rim?a, Lithuania
