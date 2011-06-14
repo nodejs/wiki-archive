@@ -588,7 +588,7 @@ h2. UTC+1 (+2)
 * Nicolas Chambrier (naholyr), Lyon, France
 ** "GitHub":http://github.com/naholyr, "Twitter":http://twitter.com/naholyr, "Website":http://naholyr.fr
 * Carlos Villuendas (carlosvillu), Barcelona, Spain
-** "GitHub":http://github.com/carlosvillu, "Twitter":http://twitter.com/cvillu, "Website":http://wwww.carlosvillu.com
+** "GitHub":http://github.com/carlosvillu, "Twitter":http://twitter.com/cvillu, "Website":http://www.carlosvillu.com
 
 h2. UTC+2 (+3)
 * Aurimas Rim?a, Lithuania
