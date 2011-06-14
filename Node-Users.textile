@@ -691,6 +691,8 @@ h2. UTC+5
 ** "Twitter":http://twitter.com/24shri, "GitHub":http://github.com/shripadk/
 * Butu (butu5), India
 ** "Twitter":http://twitter.com/butu5, "GitHub":http://github.com/butu5
+* Pavan Keshavamurthy (p6), India
+** "Twitter":http://twitter.com/p6, "Github":http://github.com/p6, "Web":http://grahana.net/
 
 h2. UTC+6
 
