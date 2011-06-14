@@ -738,6 +738,8 @@ h2. UTC+8
 ** "Website":http://www.shimory.com, "Facebook":http://www.facebook.com/pyrostrex
 * Miao Xuefei (mxfli), Beijing, China
 ** "GitHub":http://github.com/mxfli, "Twitter":http://twitter.com/mxfli
+* Ditesh Shashikant Gathani (ditesh), Kuala Lumpur, Malaysia
+** "Website":http://ditesh.gathani.org/blog, "GitHub":http://github.com/ditesh, "Twitter":http://twitter.com/ditesh
 
 h2. UTC+9
 
