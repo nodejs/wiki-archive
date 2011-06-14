@@ -144,6 +144,8 @@ h2. UTC-8
 ** "GitHub":http://github.com/afj176, "Twitter":http://twitter.com/afj176
 * Alejandro Lechuga (alejandrolechuga), Tijuana, BC, MX
 ** "GitHub":https://github.com/alejandrolechuga, "Twitter":http://twitter.com/ramonlechuga/, "Website":http://blog.ramonlechuga.com
+* Daniel Gasienica, Seattle, WA
+** "GitHub":https://github.com/gasi, "Twitter":http://twitter.com/gasi, "Website":http://gasi.ch
 
 h2. UTC-7 (-6)
 * Aria Stewart (Aria, aredridel), Ridgway, CO, US
