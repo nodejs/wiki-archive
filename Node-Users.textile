@@ -812,6 +812,8 @@ h2. UTC+10 or UTC+11
 ** "Twitter":http://twitter.com/eugeneware, "GitHub":http://github.com/nharbour, "Website":http://eugeneware.com
 * Peter Georgeson, Melbourne, Australia
 ** "Twitter":http://twitter.com/petergeorgeson, "GitHub":http://github.com/supernifty, "Website":http://www.supernifty.com.au/
+* Andrey Sidorov, Melbourne, Australia
+** "Twitter":http://twitter.com/sidorares, "GitHub":http://github.com/sidorares
 * Dr Nic Williams, Brisbane, Australia
 ** "Twitter":http://twitter.com/drnic, "GitHub":http://github.com/drnic, "Website":http://drnicwilliams.com
 * Brian McKenna, Brisbane, Australia
