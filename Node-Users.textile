@@ -667,6 +667,8 @@ h2. UTC+5
 ** "Twitter":http://twitter.com/shreekavi, "GitHub":http://github.com/shreekavi/
 * Shripad K (shripadk), India
 ** "Twitter":http://twitter.com/24shri, "GitHub":http://github.com/shripadk/
+* Butu (butu5), India
+** "Twitter":http://twitter.com/butu5, "GitHub":http://github.com/butu5
 
 h2. UTC+6
 
