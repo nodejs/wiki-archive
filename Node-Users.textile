@@ -654,6 +654,8 @@ h2. UTC+3 (+4)
 ** "GitHub":https://github.com/Emmerman
 * Morteza Milani (milani), Tehran
 ** "GitHub":https://github.com/milani, "Twitter":http://twitter.com/morteza_milani, "Website":http://weapi.org
+* Nikita Korotkih, Moscow, Russia
+** "GitHub":https://github.com/nik-kor
 
 h2. UTC+5
 
