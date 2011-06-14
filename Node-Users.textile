@@ -150,6 +150,8 @@ h2. UTC-8
 ** "GitHub":https://github.com/gasi, "Twitter":http://twitter.com/gasi, "Website":http://gasi.ch
 * Aseem Kishore, Seattle, WA
 ** "GitHub":https://github.com/aseemk, "Twitter":http://twitter.com/aseemk, "Website":http://aseemk.com/
+* Tauren Mills, Portland, OR
+** "GitHub":https://github.com/tauren, "Twitter":http://twitter.com/taurenmills, "Website":http://blog.tauren.com/
 
 h2. UTC-7 (-6)
 * Aria Stewart (Aria, aredridel), Ridgway, CO, US
