@@ -88,6 +88,8 @@ h2. UTC-8
 ** "GitHub":http://github.com/saikat, "Twitter":http://twitter.com/saikatc, "Website":http://gomockingbird.com
 * Brian Noguchi (bnoguchi), San Francisco, CA, US
 ** "GitHub":http://github.com/bnoguchi, "Twitter":http://twitter.com/briannoguchi
+* Taariq Lewis (taariq), San Francisco, CA, US
+** "GitHub":http://github.com/taariq, "Twitter":http://twitter.com/taariqlewis "Website":http://stanzr.com
 * Dylan Clendenin (deepthawtz), Santa Cruz, CA, US
 ** "GitHub":http://github.com/deepthawtz, "Twitter":http://twitter.com/deepthawtz
 * Daniel Erickson (techwraith), Portland, OR, US
