@@ -339,6 +339,8 @@ h2. UTC-5 (-4)
 ** "Website":http://rodrigo3n.com, "Twitter":http://twitter.com/rodrigo3n, "Github":http://github.com/rodrigo3n
 * Mike Gerwitz (mikegerwitz), Buffalo, NY
 ** "Website":http://mikegerwitz.com, "GitHub":http://github.com/mikegerwitz
+* Herman A. Junge (hermanjunge), Santiago, Chile
+** "Website":http://hermanjunge.com, "Twitter":http://twitter.com/hermanjunge, "Github": http://github.com/hermanjunge
 
 h2. UTC-4 (-3)
 
