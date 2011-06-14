@@ -609,7 +609,7 @@ h2. UTC+2 (+3)
 ** "GitHub":http://github.com/wsdookadr
 * Rares Mirica (mrares), Romania/Bucharest
 ** "GitHub":https://github.com/mrares
-* Alexandru Vladutu (alessioalex), Romania/Bucharest
+* Alexandru Vladutu (alessioalex), Romania/Pitesti
 ** "GitHub":https://github.com/alessioalex, "Twitter":http://twitter.com/alessioalex
 * Peteris Krumins (pkrumins), Latvia
 ** "GitHub":http://github.com/pkrumins, "Blog":http://www.catonmat.net, "Twitter":http://twitter.com/pkrumins
