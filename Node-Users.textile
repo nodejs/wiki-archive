@@ -378,7 +378,7 @@ h2. UTC+0 (0)
 ** "Website":http://metaduck.com, "GitHub":http://github.com/pgte, "Twitter":http://twitter.com/pedrogteixeira
 * Joao Machado
 ** "Website":http://sapo.pt, "GitHub":http://github.com/joaomachado, "Twitter":http://twitter.com/joao_machado
-* Diogo Resende
+* Diogo Resende (dresende), Portugal
 ** "Website":http://www.thinkdigital.pt, "GitHub":http://github.com/dresende, "Twitter":http://twitter.com/dresende
 
 h2. UTC+0 (+1)
