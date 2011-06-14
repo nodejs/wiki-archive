@@ -20,6 +20,8 @@ h2. UTC-8
 ** "GitHub":http://github.com/tilgovi, "Twitter":http://twitter.com/tilgovi
 * Isaac Schlueter (isaacs)
 ** "GitHub":http://github.com/isaacs, "Twitter":http://twitter.com/izs, "Website":http://blog.izs.me
+* Tim Caswell (creationix), Sunnyvale, CA, US
+** "Blog":http://howtonode.org/, "Website":http://creationix.com/, "Twitter":http://twitter.com/creationix
 * Ray Morgan (raymorgan)
 ** "GitHub":http://github.com/raycmorgan, "Twitter":http://twitter.com/raycmorgan, "Website":http://raycmorgan.com
 * Kris Kowal (kriskowal), Pasadena, LA, CA, US
@@ -174,8 +176,6 @@ h2. UTC-7 (-6)
 ** "GitHub":http://github.com/mbrevoort/, "Twitter":http://twitter.com/mbrevoort/, "Website":http://mike.brevoort.com
 
 h2. UTC-6 (-5)
-* Tim Caswell (creationix), Dallas, TX, US
-** "Blog":http://howtonode.org/, "Website":http://creationix.com/, "Twitter":http://twitter.com/creationix
 * Bradley Meck (bradleymeck), Austin, TX, US
 ** "GitHub":http://github.com/bmeck
 * Sam Caldwell (x684867), Round Rock, TX, US
