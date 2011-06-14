@@ -357,6 +357,8 @@ h2. UTC-3 (-2)
 ** "Google Profile":http://www.google.com/profiles/emilio.astarita
 * Federico Romero, Montevideo, Uruguay
 ** "Google Profile":http://www.google.com/profiles/federomero
+* Aldo Nievas, Buenos Aires, Argentina
+** "Twitter":http://twitter.com/aldonievas, "GitHub":http://github.com/alduro
 * Murilo Santana
 ** "Twitter":http://twitter.com/mvrilo, "Google Profile":http://www.google.com/profiles/mvrilo
 * Filipe La Ruina (filaruina)
