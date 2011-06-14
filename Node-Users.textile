@@ -591,6 +591,8 @@ h2. UTC+1 (+2)
 ** "GitHub":http://github.com/naholyr, "Twitter":http://twitter.com/naholyr, "Website":http://naholyr.fr
 * Carlos Villuendas (carlosvillu), Barcelona, Spain
 ** "GitHub":http://github.com/carlosvillu, "Twitter":http://twitter.com/cvillu, "Website":http://www.carlosvillu.com
+* Linus G Thiel (yesbabyyes), Stockholm, Sweden
+** "GitHub":http://github.com/linus, "Twitter":http://twitter.com/yesbabyyes, "Website":http://hanssonlarsson.se/
 
 h2. UTC+2 (+3)
 * Aurimas Rim?a, Lithuania
