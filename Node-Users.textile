@@ -849,3 +849,5 @@ h2. UTC+12
 ** "GitHub":http://github.com/Tesco, "Twitter":http://twitter.com/tescosquirrel
 * Dominic Tarr (dominictarr), Wellington, New Zealand
 ** "GitHub":http://github.com/dominictarr
+* Christopher Bull (te-chris), Auckland, New Zealand
+** "GitHub:http://github.com/te-chris, "Twitter":http://twitter.com/christopherbull
