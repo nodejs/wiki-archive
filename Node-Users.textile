@@ -707,6 +707,8 @@ h2. UTC+5
 ** "Twitter":http://twitter.com/athousandnodes, "Github":http://github.com/naughty_david, "Web":http://athousandnodes.com/
 * Dhruv, India
 ** "Twitter":http://twitter.com/dhruvbird, "Github":http://github.com/dhruvbird, "Web":http://dhruvbird.com/, "Google Code":http://code.google.com/u/dhruvbird/
+* Balaji D (openbala), India
+** "Twitter":http://twitter.com/openbala, "Github":http://github.com/openbala, "Web":http://openbala.com/
 
 h2. UTC+6
 
