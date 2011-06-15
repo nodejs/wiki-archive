@@ -689,7 +689,7 @@ h2. UTC+3 (+4)
 * Nikita Korotkih, Moscow, Russia
 ** "GitHub":https://github.com/nik-kor
 * Ivan Shumkov, Saint-Petersburg, Russia
-** "GitHub":http://github.com/shumkov, "Сorporate GitHub":http://github.com/geometria-lab "Twitter":http://twitter.com/shumkov
+** "GitHub":http://github.com/shumkov, "Сorporate GitHub":http://github.com/geometria-lab, "Twitter":http://twitter.com/shumkov
 
 h2. UTC+5
 
