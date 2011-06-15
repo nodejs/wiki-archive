@@ -705,6 +705,8 @@ h2. UTC+5
 ** "Twitter":http://twitter.com/p6, "Github":http://github.com/p6, "Web":http://grahana.net/
 * Arjun Raj aka Naughty David, India
 ** "Twitter":http://twitter.com/athousandnodes, "Github":http://github.com/naughty_david, "Web":http://athousandnodes.com/
+* Dhruv, India
+** "Twitter":http://twitter.com/dhruvbird, "Github":http://github.com/dhruvbird, "Web":http://dhruvbird.com/, "Google Code":http://code.google.com/u/dhruvbird/
 
 h2. UTC+6
 
