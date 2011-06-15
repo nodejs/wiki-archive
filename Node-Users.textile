@@ -605,6 +605,8 @@ h2. UTC+1 (+2)
 ** "GitHub":http://github.com/naholyr, "Twitter":http://twitter.com/naholyr, "Website":http://naholyr.fr
 * Carlos Villuendas (carlosvillu), Barcelona, Spain
 ** "GitHub":http://github.com/carlosvillu, "Twitter":http://twitter.com/cvillu, "Website":http://www.carlosvillu.com
+* Karlos g liberal (karlosgliberal), Navarra/Nafarroa, Spain
+** "GitHub":http://github.com/karlosgliberal, "Twitter":http://twitter.com/patxangas, "Website":http://www.investic.net
 * Guillermo Pascual (pasku), Madrid, Spain
 ** "GitHub":http://github.com/pasku, "Twitter":http://twitter.com/pasku1
 * Linus G Thiel (yesbabyyes), Stockholm, Sweden
