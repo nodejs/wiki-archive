@@ -202,6 +202,7 @@ h4(#web-frameworks-other). "Other":#web-frameworks-other
 * "Alligator":https://github.com/mrohad/Alligator -- Application Server on top of NodeJS (JSSP and SSJS support)
 * "Nitrode":https://github.com/ollym/nitrode -- A lightweight, super fast HTTP 1.1 with internal JS API
 * "Cluster":https://github.com/LearnBoost/cluster -- Extensible multi-core server manager (spark successor)
+* "Common Node":https://github.com/olegp/common-node -- Synchronous CommonJS compatibility layer that includes JSGI, Binary, IO, Filesystem, System and HttpClient modules
 * "Connect":https://github.com/senchalabs/connect -- Middleware framework packed with high quality / performance middleware
 * "Spark":https://github.com/senchalabs/spark -- A command-line tool used to manage node server processes
 * "Spark2":https://github.com/davglass/spark2 -- Fork of "Spark":https://github.com/senchalabs/spark with some improvements.
