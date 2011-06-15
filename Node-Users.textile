@@ -850,4 +850,4 @@ h2. UTC+12
 * Dominic Tarr (dominictarr), Wellington, New Zealand
 ** "GitHub":http://github.com/dominictarr
 * Christopher Bull (te-chris), Auckland, New Zealand
-** "GitHub:http://github.com/te-chris, "Twitter":http://twitter.com/christopherbull
+** "GitHub":http://github.com/te-chris, "Twitter":http://twitter.com/christopherbull
