@@ -21,7 +21,8 @@ h2. Articles
 h2. Talks
 * "GoogleTechTalk: Node.js":http://www.youtube.com/watch?v=F6k8lTrAE2g -- by Ryan Dahl (video, 2010-07-28)
 * "Node.js at JSConf.eu 2009":http://jsconf.eu/2009/video_nodejs_by_ryan_dahl.html -- by Ryan Dahl (video, 2009-11-08)
-* "Node.js - Free screencast tutorials":http://nodetuts.com/ -- by Pedro Teixeira (videos)
+* "Nodetuts - Node.js screencast tutorials":http://nodetuts.com/ -- by Pedro Teixeira (video tutorials)
+* "Node.js - Step by step":http://net.tutsplus.com/sessions/node-js-step-by-step/ -- by nettuts.com (video tutorials)
 * "Node.js at JSConf.us 2010":http://nodejs.org/jsconf2010.pdf -- by Ryan Dahl (slides PDF, 2010-04-17) 
 * "Running YUI3 on Node.js":http://www.slideshare.net/apmoore/running-yui-3-on-nodejs -- by Adam Moore (slideshare, 2010-04-17)
 * "Techniques and Tools for Taming Tangled Twisted Trains of Thought":http://www.slideshare.net/creationix/techniques-and-tools-for-taming-tangled-twisted-trains-of-thought -- By Tim Caswell (slideshare, 2010-09)
