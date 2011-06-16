@@ -349,6 +349,8 @@ h2. UTC-5 (-4)
 ** "Website":http://mikegerwitz.com, "GitHub":http://github.com/mikegerwitz
 * Herman A. Junge (hermanjunge), Santiago, Chile
 ** "Website":http://hermanjunge.com, "Twitter":http://twitter.com/hermanjunge, "GitHub":http://github.com/hermanjunge
+* Jonathan Zacsh (jzacsh), New York, US
+** "Website":http://jzacsh.com/, "Github":http://github.com/jzacsh, "Twitter":http://twitter.com/jzacsh
 
 h2. UTC-4 (-3)
 
