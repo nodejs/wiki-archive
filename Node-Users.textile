@@ -373,6 +373,9 @@ h2. UTC-3 (-2)
 ** "GitHub":http://github.com/filipelaruina, "Twitter":http://twitter.com/filipelaruina, "Google Profile":http://www.google.com/profiles/filaruina
 * Valentin Starck
 ** "Google Profile":http://www.google.com/profiles/Valentin.starck
+** "GitHub":http://github.com/aijoona,
+** "Twitter":http://twitter.com/aijoona,
+** "Blog":http://blog.aijoona.com,
 * Juan Silva, Montevideo, Uruguay
 ** "GitHub":http://github.com/juansilva, "Twitter":http://twitter.com/juansanuy
 * Mariano Iglesias (mariano_iglesias), Miramar, Argentina
