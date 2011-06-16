@@ -126,7 +126,6 @@ h4(#web-frameworks-full). "Frameworks":#web-frameworks-full
 * "PieJS":https://github.com/fakewaffle/piejs -- A rapid development MVC framework. Inspired and similar in style/convention to CakePHP. In very active development.
 * "josi":https://github.com/thatismatt/josi -- An MVC web framework that's easy to pick up but doesn't get in the way. Also see "here":http://thatismatt.github.com/josi/.
 * "Meryl":https://github.com/coffeemate/meryl -- Minimalist web framework! See "wiki":http://github.com/coffeemate/meryl/wiki
-* "coffeemate":https://github.com/coffeemate/coffeemate -- the coffee creamer! Push coffeescript into web development.
 * "nodemachine":https://github.com/tautologistics/nodemachine -- A port of WebMachine to Node.js
 * "nodepress":https://github.com/zir/nodepress -- High-level web framework for nodejs, can be used as a blog by default
 * "pintura":https://github.com/kriszyp/pintura -- REST-based web framework/"middleware":https://github.com/kriszyp/pintura/tree/master/lib/jsgi/ stack built for Ajax-style "JSON-driven applications":http://www.sitepen.com/blog/2010/01/22/introducing-pintura/.
@@ -1123,5 +1122,7 @@ h2(#project-generators). "Project Generators":#project-generators
 
 h2(#coffee-script). "CoffeeScript modules":#coffee-script
 
+* "coffeemate":https://github.com/coffeemate/coffeemate -- the coffee creamer! Push coffeescript into web development.
+* "herodot":https://github.com/coffeemate/herodot -- cross-server and cross-process event emitter 2 implementation using redis pub/sub protocol in backyards
 * "simple-geoip":https://github.com/dvv/simple-geoip -- Simple _native_ maxmind GeoIP lookup. 4-6 times faster than node-maxmind-native. See wiki for details. Compiled database of countries "geo.json":https://github.com/dvv/simple-geoip/raw/master/geo.json is available
 * "NodeBase":https://github.com/dotmaster/NodeBase -- A node base class for JavaScript and Coffeescript (logging, options, defaults and EventEmitter)
