@@ -575,7 +575,6 @@ h3(#testing). "Testing / Spec Frameworks":#testing
 * "node-stories":https://github.com/tobiassvn/node-stories -- Given/When/Then integration awesomeness for Node.
 * "nodemock":https://github.com/arunoda/nodemock -- Simple Yet Powerful Mocking Framework for NodeJs
 * "nodeunit":https://github.com/caolan/nodeunit -- Simple syntax, powerful tools. Based on the assert module. Available for node.js and the browser!
-* "ntest":https://github.com/technoweenie/ntest -- another unit testing framework
 * "patr":https://github.com/kriszyp/patr -- Promise-based asynchronous test runner: lightweight & simple.
 * "pit":https://github.com/akaspin/pit -- Simple drop-in test runner with optional control tools
 * "reut":https://github.com/5long/reut -- Heavyweight unit testing framework.
