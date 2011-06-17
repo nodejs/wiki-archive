@@ -783,6 +783,7 @@ h3(#payment-gateways). "Payment Gateways":#payment-gateways
 * "paynode":https://github.com/jamescarr/paynode - library for integrating with various payment gateways
 * "braintree":https://github.com/braintree/braintree_node -- library for integrating with Braintree
 * "node-fortumo":https://github.com/andris9/node-fortumo -- bindings for Fortumo SMS payment API
+* "paypal-ipn":https://github.com/andzdroid/paypal-ipn -- library for verifying paypal IPN messages
 
 <a name="api-clients"></a>
 
@@ -825,6 +826,7 @@ h3(#api-clients). "API clients":#api-clients
 * "node-googlemaps":https://github.com/moshen/node-googlemaps -- A wrapper for the Google Maps API
 * "node-loggly":https://github.com/nodejitsu/node-loggly --A client implementation for Loggly in node.js
 * "node-ostatus":https://github.com/eschnou/node-ostatus -- An implementation of the OStatus protocol (Webfinger, Push, Hcard, Salmon, etc.)
+* "node-posterous":https://github.com/andzdroid/node-posterous -- Library for the Posterous API
 * "node-prowl":https://github.com/mape/node-prowl -- A module that allows you to send push notifications to your iPhone through the Prowl API
 * "nodefm":https://github.com/mikebannister/nodefm -- So far just a util for consuming last.fm recent tracks history for a user
 * "nodestalker":https://github.com/pascalopitz/nodestalker -- A beanstalkd client for node
