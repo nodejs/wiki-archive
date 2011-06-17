@@ -466,7 +466,7 @@ h2. UTC+1 (+2)
 * Travis Dunn (travisdunn), Amsterdam, The Netherlands
 ** "GitHub":https://github.com/TertiumQuid, "Twitter":http://twitter.com/dramaroyal, "Website":http://travisdunn.com
 * Arnout Kazemier (V1), The Netherlands
-** "GitHub":http://github.com/3rd-Eden, "Twitter":http://twitter.com/3rdEden, "Website":http://www.3rd-eden.com
+** "GitHub":http://github.com/3rd-Eden, "Twitter":http://twitter.com/3rdEden, "Website":http://blog.3rd-eden.com
 * Lars Smit
 ** "GitHub":http://github.com/larssmit, "Twitter":http://twitter.com/larssmit, "Website":http://larssmit.com
 * Tommy van der Vorst (pixelspark)
