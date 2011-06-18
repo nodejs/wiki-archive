@@ -187,7 +187,7 @@ h4(#middleware). "Middleware":#middleware
 ** "node-file-cache":https://github.com/FLYBYME/node-file-cache - Very small file cache for node.js http server.
 ** "protobuf_for_node":http://code.google.com/p/protobuf-for-node/ -- In-process JS-to-C++ communication using protocol buffer services
 ** "socket-logger":https://github.com/saikat/socket-logger/ -- JSON-parsable logs for Socket.IO that can push log messages to a client over Socket.IO.
-** "node-evented":https://github.com/donnerjack13589/node-evented -- Extended EventEmitter
+** "node-evented":https://github.com/indutny/node-evented -- Extended EventEmitter
 ** "http-proxy-selective":https://github.com/zentooo/node-http-proxy-selective -- Proxy server replace some remote static files with local ones
 ** "proxy-tamper":https://github.com/tsyd/proxy-tamper -- A proxy server that allows for the tampering of requests and responses.
 ** "googleclientlogin":https://github.com/Ajnasz/GoogleClientLogin -- Log in to Google services using CllientLogin method
@@ -333,7 +333,7 @@ rendering process.
 * "Liquor":https://github.com/chjj/liquor -- A templating engine minus the code.
 * "minimal.js":https://github.com/ruidlopes/minimal.js -- a fast HTML+JSON template engine (both browser and Node.js compatible)
 * "Mu (Mustache)":https://github.com/raycmorgan/Mu -- A Mustache engine that compiles templates into very fast rendering functions. Also streams the 
-* "nTPL":https://github.com/donnerjack13589/nTPL -- Fast & Native extendable template system
+* "nTPL":https://github.com/indutny/nTPL -- Fast & Native extendable template system
 * "nodejs-meta-templates":https://github.com/shimondoodkin/nodejs-meta-templates -- like php mixed with html, processed twice, 1st  static data, 2nd dynamic data.
 * "normal-template":https://github.com/gmosx/normal-template -- Normal templates are simple, yet powerful. They are safe, usable in non XML/HTML contexts and portable to any programming language.
 * "nun":https://github.com/akaspin/nun -- Totally asynchronous non-blocking template engine for node.js
@@ -742,7 +742,7 @@ h3(#debugging). "Debugging / Console Utilities":#debugging
 
 h3(#compression). "Compression":#compression
 * "connect-gzip":https://github.com/nateps/connect-gzip -- gzip middleware for Connect. Contains middleware for gzipping and serving static files as well as gzipping responses dynamically 
-* "gzip":https://github.com/donnerjack13589/node.gzip -- simple compression using default linux "gzip" utility
+* "gzip":https://github.com/indutny/node.gzip -- simple compression using default linux "gzip" utility
 * "node-compress":https://github.com/waveto/node-compress -- streaming compression / gzip library
 * "node-compress by egorich239":https://github.com/egorich239/node-compress -- asynchronous streaming (de)compression library with gzip and bzip2 support, originally forked from "waveto's":https://github.com/waveto/node-compress
 * "node-compress-buffer":https://github.com/egorfine/node-compress-buffer -- single-step Buffer compression library on top of zlib
