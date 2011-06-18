@@ -551,6 +551,8 @@ h2. UTC+1 (+2)
 ** "GitHub":http://github.com/zzen, "Twitter":http://twitter.com/jakubnesetril
 * František Hába (Baggz) - Prague, Czech Republic
 ** "GitHub":http://github.com/Baggz, "Twitter":http://twitter.com/Baggz, "Forrst":http://forrst.com/people/Baggz
+* Petr Janda (petrjanda) - Brno, Czech Republic
+** "Github":http://github.com/petrjanda, "Twitter":http://twitter.com/petrjanda, "Website":http://www.cttinnovations.com
 * Zef Hemel (The Netherlands)
 ** "Website":http://zef.me, "GitHub":http://github.com/zefhemel, "Twitter":http://twitter.com/zef
 * Sven Pfleiderer (Germany)
