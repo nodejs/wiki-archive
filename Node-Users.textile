@@ -381,6 +381,8 @@ h2. UTC-3 (-2)
 ** "GitHub":http://github.com/mariano, "Twitter":http://twitter.com/mgiglesias, "Website":http://marianoiglesias.com.ar
 * Agustín Méndez, Buenos Aires, Argentina
 ** "Twitter":http://twitter.com/matagus, "GitHub":http://github.com/matagus
+* Alberto Pose, Buenos Aires, Argentina
+** "Twitter":http://twitter.com/thepose, "GitHub":http://github.com/pose, "Blog":http://the-pose.blogspot.com
 
 h2. UTC+0 (0)
 
