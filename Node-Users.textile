@@ -37,7 +37,7 @@ h2. UTC-8
 * Stephen Blum (stephenlb)
 ** "GitHub":http://github.com/stephenlb, "Twitter":http://twitter.com/stephenlb, "Website":http://nodejuice.com
 * TJ Holowaychuk (tjholowaychuk)
-** "GitHub":http://github.com/visionmedia, "Twitter":http://twitter.com/tjholowaychuk, "Website":http://vision-media.ca
+** "GitHub":http://github.com/visionmedia, "Twitter":http://twitter.com/tjholowaychuk, "Website":http://tjholowaychuk.com
 * Emilio Cavazos
 ** "GitHub":http://github.com/ecavazos, "Twitter":http://twitter.com/ecni, "Website":http://iamneato.com
 * Marcus Westin
