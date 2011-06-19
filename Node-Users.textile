@@ -154,6 +154,8 @@ h2. UTC-8
 ** "GitHub":https://github.com/tauren, "Twitter":http://twitter.com/taurenmills, "Website":http://blog.tauren.com/
 * John Hurliman (jhurliman), San Francisco, CA, US
 ** "GitHub":http://github.com/jhurliman, "Twitter":http://twitter.com/jhurliman, "Website":http://cull.tv/
+* Atsuya Takagi (atsuya), Playa del Rey, CA, US
+** "GitHub":http://github.com/atsuya, "Twitter":http://twitter.com/atsuya, "Website":http://about.me/atsuya
 
 h2. UTC-7 (-6)
 * Aria Stewart (Aria, aredridel), Ridgway, CO, US
