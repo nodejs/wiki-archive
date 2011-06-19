@@ -383,6 +383,8 @@ h2. UTC-3 (-2)
 ** "Twitter":http://twitter.com/matagus, "GitHub":http://github.com/matagus
 * Alberto Pose, Buenos Aires, Argentina
 ** "Twitter":http://twitter.com/thepose, "GitHub":http://github.com/pose, "Blog":http://the-pose.blogspot.com
+* Ricardo Tomasi, Porto Alegre, Brazil
+** "Twitter":http://twitter.com/ricardobeat, "GitHub":http://github.com/ricardobeat, "Blog":http://ricardo.cc/
 
 h2. UTC+0 (0)
 
