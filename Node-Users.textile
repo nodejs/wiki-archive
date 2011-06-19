@@ -357,7 +357,8 @@ h2. UTC-5 (-4)
 ** "Website":http://hermanjunge.com, "Twitter":http://twitter.com/hermanjunge, "GitHub":http://github.com/hermanjunge
 * Jonathan Zacsh (jzacsh), New York, US
 ** "Website":http://jzacsh.com/, "Github":http://github.com/jzacsh, "Twitter":http://twitter.com/jzacsh
-
+* Phillip Neumann (killfill), Santiago, Chile
+** "Github":http://github.com/killfill, "Twitter":http://twitter.com/killfil
 h2. UTC-4 (-3)
 
 * Ritchie Turner (blackdog)
