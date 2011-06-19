@@ -236,6 +236,8 @@ h2. UTC-6 (-5)
 ** "GitHub":http://github.com/chadsmith, "Twitter":http://twitter.com/chadsmith
 * Jason Hutchinson (zikes), Bentonville, AR, US
 ** "GitHub":http://github.com/Zikes, "Twitter":http://twitter.com/Zikes, "Website":http://jasonwhutchinson.com
+* Christopher Jeffrey (chjj), MN, US
+** "GitHub":http://github.com/chjj, "Website":http://dilated.cc
 
 h2. UTC-5 (-4)
 
