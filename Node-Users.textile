@@ -391,6 +391,8 @@ h2. UTC-3 (-2)
 ** "Twitter":http://twitter.com/thepose, "GitHub":http://github.com/pose, "Blog":http://the-pose.blogspot.com
 * Ricardo Tomasi, Porto Alegre, Brazil
 ** "Twitter":http://twitter.com/ricardobeat, "GitHub":http://github.com/ricardobeat, "Blog":http://ricardo.cc/
+* Christiano Milfont, Fortaleza-CE, Brazil
+** "Twitter":http://twitter.com/cmilfont, "GitHub":http://github.com/cmilfont, "Blog":http://www.milfont.org/tech/about/
 * Victor Kane (victorkane), Buenos Aires, Argentina 
 ** "Website":http://awebfactory.com.ar, "Twitter":http://www.twitter.com/victorkane, "GitHub":http://github.com/victorkane
 
