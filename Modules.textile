@@ -218,6 +218,7 @@ h4(#web-frameworks-other). "Other":#web-frameworks-other
 * "what":https://github.com/entmike/what -- What - A Node.JS Web Container/Application Server
 * "mongrel2":https://github.com/darkhelmet/node-mongrel2 -- mongrel2 - Mongrel2 handler for node
 * "node-flags":https://github.com/dpup/node-flags -- node-flags - Flag handling library
+* "zen":https://github.com/pblabs/zen -- Robust high performance middleware engine
 <a name="database"></a>
 
 h3(#database). "Database":#database
