@@ -897,3 +897,5 @@ h2. UTC+12
 ** "GitHub":http://github.com/dominictarr
 * Christopher Bull (te-chris), Auckland, New Zealand
 ** "GitHub":http://github.com/te-chris, "Twitter":http://twitter.com/christopherbull
+* Jim Tittsler, Te Anau, New Zealand
+** "Website":http://WikiEducator.org/User:JimTittsler, "GitHub":http://github.com/jimt, "Identi.ca":http://identi.ca/jimt, "Twitter":http://twitter.com/jtittsler
