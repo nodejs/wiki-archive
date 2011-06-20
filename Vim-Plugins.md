@@ -7,7 +7,9 @@ Of course, if you don't use [Pathogen](http://www.vim.org/scripts/script.php?scr
 ## Linter
 
 * [Tabular](http://vimcasts.org/episodes/aligning-text-with-tabular-vim/) Align declarations, equals signs, etc.
-* [JsLint](https://github.com/hallettj/jslint.vim) Lint your code from vim
+* [JSLint](https://github.com/hallettj/jslint.vim) Lint your code from Vim
+* [JSHint](https://github.com/manalang/jshint.vim) JSHint plugin
+
 
 ## Syntax
 
