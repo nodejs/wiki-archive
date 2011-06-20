@@ -460,6 +460,8 @@ h2. UTC+0 (+1)
 * Seyi Ogunyemi
 ** "GitHub":http://github.com/micrypt, "Twitter":http://twitter.com/micrypt, "Website":http://micrypt.com
 * Fabian Jakobs, Germany
+** "GitHub":http://github.com/kof, "Twitter":http://twitter.com/oleg008
+* Oleg Slobodskoi, Germany (Hamburg)
 ** "GitHub":http://github.com/fjakobs, "Twitter":http://twitter.com/fjakobs
 * Rob Tweed (rtweed)
 ** "Website":http://www.mgateway.com/, "GitHub":http://github.com/robtweed, "Twitter":http://twitter.com/rtweed
