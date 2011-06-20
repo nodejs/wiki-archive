@@ -400,7 +400,7 @@ h2. UTC-3 (-2)
 * Victor Kane (victorkane), Buenos Aires, Argentina 
 ** "Website":http://awebfactory.com.ar, "Twitter":http://www.twitter.com/victorkane, "GitHub":http://github.com/victorkane
 * Demián Rodriguez (demian85)
-** "Twitter":http://www.twitter.com/demianr85, "GitHub":http://github.com/demian85
+** "Twitter":http://www.twitter.com/demianr85, "GitHub":http://github.com/demian85, "Google Profile":https://profiles.google.com/demian85
 
 h2. UTC+0 (0)
 
