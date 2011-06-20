@@ -368,6 +368,8 @@ h2. UTC-4 (-3)
 ** "Website":http://blackdog66.wordpress.com, "Twitter":http://www.twitter.com/blackdog66, "GitHub":http://github.com/blackdog66
 * Fabio Zendhi Nagao (nagaozen)
 ** "Website":http://zend.lojcomm.com.br, "Twitter":http://www.twitter.com.br/nagaozen, "GitHub":http://github.com/nagaozen
+* Demián Rodriguez (demian85)
+** "Twitter":http://www.twitter.com/demianr85, "GitHub":http://github.com/demian85
 
 h2. UTC-3 (-2)
 
