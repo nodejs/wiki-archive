@@ -17,7 +17,7 @@ This tutorial will guide you through setting up the latest stable version of nod
    * `devel  → gcc4-g++ [Builds v0.4.2 and earlier use gcc-g++]`
    * `devel  → git`
    * `devel  → make`
-   * `devel  → openssl`
+   * `net    → openssl`
    * `libs   → openssl-devel`
    * `devel  → pkg-config`
    * `devel  → zlib-devel`
