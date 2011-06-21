@@ -29,6 +29,7 @@ h2. Projects and Applications
 * "diretto":http://www.diretto.org/ - Distributed Recon/Reporting Transceiver Toolkit – Uses Node.js for web-based media storage and for its RESTful webservice implementation
 * "Djangode":http://github.com/simonw/djangode - Django’s regex-based URL handling, utility functions, and html templating for node
 * "EasyWebSocket":http://easywebsocket.org - a WebSocket client to broadcast messages to webpages
+* "Truco Argentino":http://truco.cloudymedia.com - Multiplayer Card Game for Facebook using Faye & ExpressJs (Argentina)
 * "ElusiveHippo":http://elusivehippo.com - Push deployment for nodejs (non-functional / doesn't work)
 * "Filsh":http://www.filsh.net - Converts online videos to other formats in a big server cluster. (German)
 * "Fishl.com":http://fishl.com/ — Mark and save quotes you like all over the Web
