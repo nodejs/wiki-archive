@@ -83,7 +83,6 @@ h2. Projects and Applications
 * "Realie":http://www.web2media.net/laktek/2010/05/25/real-time-collaborative-editing-with-websockets-node-js-redis/ - Real-time Collaborative Editor using Web Sockets, Node.js & Redis (non-functional / doesn't work)
 * "Scrabbly":http://scrabb.ly - A Massively Multiplayer word game written on node.js. A Node Knockout winner.
 * "scriptable-node-irc-bot":http://github.com/haxd/scriptable-node-irc-bot -- Scriptable Node IRC Bot
-* "Shortrr":http://shortrr.com -- Submit, read, and rank summary highlights of content in realtime while browsing the web
 * "Simple Isometric Game Concept":https://github.com/diaswrd/Singd - Simple multi-player isometric node.js game concept
 * "Simple Node.js MUD":http://github.com/gumho/simple-node.js-mud - Simple multi-user dungeon using Node.js
 * "slyncr":http://cleverchris.com/slyncr/ — bookmarklet to control web slideshows via a remote site
@@ -193,6 +192,7 @@ h2. Companies
 * "Shiny Ads":http://www.ShinyAds.com/ -- Self-Serve Advertising platform for online publishers.  Using node.js for a super-fast/low memory internal ad server.
 * "SitePen":http://www.sitepen.com/ - Using node for persevere
 * "Siteworx":http://www.siteworx.com/
+* "Shortrr":http://shortrr.com -- Submit, read, and rank summary highlights of content in realtime while browsing the web
 * "Sleepless Software Inc.":http://sleepless.com - Servers for large scale Facebook games.
 * "Spoondate":http://spoondate.com - A delicious way to meet.
 * "Stanzr":http://stanzr.com -- Real-Time, Outbound, Social Media Conversations for businesses 
