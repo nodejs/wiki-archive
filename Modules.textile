@@ -879,7 +879,7 @@ h3(#async-flow). "Flow control / Async goodies":#async-flow
 * "node-cron":https://github.com/ncb000gt/node-cron -- Schedule callbacks with cron syntax
 * "node-crontab":https://github.com/dachev/node-crontab -- Allows reading, manipulating, and writing user crontabs from node.js
 * "node-inflow":https://github.com/shimondoodkin/node-inflow -- A next generation async control-flow library, with a shared object for called functions and debugging made easy.
-* "node_memo":https://github.com/akidee/node_memo -- Asynchronous function memoization
+* "node_memo":https://github.com/akidee/node_memo -- Sophisticated function memoization
 * "node-parallel":https://github.com/Tim-Smart/node-parallel -- Create tasks in node.js that run in parallel, or sequences that run tasks one after another.
 * "node-promise":https://github.com/kriszyp/node-promise -- Robust promises for node.js, includes promise utilities and promise-based I/O library
 * "narrow":https://github.com/0ctave/node-narrow -- Shrinks a given callback parallel execution concurrency in a limited number of threads, receiving a big bunch of data (array of tasks)
@@ -893,6 +893,7 @@ h3(#async-flow). "Flow control / Async goodies":#async-flow
 * "Slide":https://github.com/isaacs/slide-flow-control  -- A flow control library that fits in a slide presentation
 * "soda.js":https://github.com/tomyan/soda -- Asynchonous JavaScript module loader for client-side and Node.js
 * "Step":https://github.com/creationix/step -- Tool for grouping and chaining asynchronous callbacks, based on "flow-js":https://github.com/willconant/flow-js
+* "stepc":https://github.com/akidee/stepc -- A CoffeeScript-safe version of creationix' step
 * "streamline.js":https://github.com/Sage/streamlinejs -- Tool that transforms synchronous code into asynchronous code with callbacks. 
 * "sync":https://github.com/0ctave/node-sync -- Write simple and readable synchronous code in nodejs using fibers (based on "node-fibers":https://github.com/laverdet/node-fibers)
 * "QBox":https://github.com/arunoda/qbox -- Quick Flow Controller for NodeJS
@@ -1117,7 +1118,7 @@ h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":
 * "inflection":https://github.com/gmosx/inflection -- A port of the Rails/ActiveSupport inflector to JavaScript
 * "match-js":https://github.com/jfd/match-js -- Simple pattern matching (functional style) in JS.
 * "qxoo":https://github.com/fjakobs/qxoo -- port of the qooxdoo OO system to commonJS
-* "schema.js":https://github.com/akidee/schema.js -- Modular data schema validation and adaptation according to JSON Schema for JavaScript
+* "schema.js":https://github.com/akidee/schema.js -- Sophisticated JSON schema based data validation and adaptation
 * "underscore":http://documentcloud.github.com/underscore/ -- Unobtrusive functional programming utility library.
 * "wu.js":http://fitzgen.github.com/wu.js/ -- A lazy, functional JavaScript library that ain't nuthin' ta f*ck wit.
 
