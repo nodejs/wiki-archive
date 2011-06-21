@@ -5,6 +5,7 @@ h2. Projects and Applications
 * "7 Minutes Chrono":http://www.7minuteschrono.com - A speed-dating chat application. Uses websockets and node.js
 * "Ajax IM":http://github.com/endtwist/AjaxIM -- Ajax IM is an instant messaging server and framework for the browser.
 * "Alligator":http://github.com/mrohad/Alligator -- Application Server on top of NodeJS (JSSP and SSJS support)
+* "&! (andbang)":http://andbang.com -- Realtime mind-meldification for teams.
 * "antinode":http://github.com/mhansen/antinode -- Simple static file HTTP Server with logging
 * "Apples to Oranges":https://github.com/cmpolis/Apples-and-Oranges -- Node.JS, Socket.IO powered Apples to Apples game("tutorial":http://www.bytemuse.com/2011/06/building-a-web-app-part-1-planning)
 * "Applifier - Largest social game cross promo network":http://www.applifier.com (reference <a href="http://twitter.com/jussil/status/12048190433918976">http://twitter.com/jussil/status/12048190433918976</a>)
@@ -116,6 +117,7 @@ h2. Companies
 * "af83":http://af83.com/ -- uses node on several projects ("Geeks":https://github.com/AF83/Geeks for example)
 * "Ajax.org":http://ajax.org/ -- Home of the Cloud9 IDE, Ajax.org Platform and O3 Node modules
 * "Applied Data Consultants":http://applieddataconsultants.com
+* "&yet (andyet)":http://andyet.net -- We make web software for human people.
 * "AntPortal":https://antportal.com/
 * "appendTo":http://appendto.com/ -- The Company Dedicated to jQuery
 * "bejes.us":http://bejes.us/ -- NodeJS hosting using the @Nodester platform - Maintained by one of the developers.
