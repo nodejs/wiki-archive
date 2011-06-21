@@ -152,6 +152,15 @@ $ git clean -f -d -x
 ```
 and re-run make.
 
+cannot find a c compiler
+----
+You might be on Windows 7. 
+Open up c:\cygwin\bin\ash.exe` then type
+```
+$ /bin/rebaseall
+```
+
+
 Help! I've done EVERYTHING above and I'm still having issues…
 ====
 
