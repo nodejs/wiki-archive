@@ -483,6 +483,8 @@ h2. UTC+0 (+1)
 ** "GitHub":http://github.com/mdransfield, "Twitter":http://twitter.com/dransfim
 * Owen Smith, London, UK
 ** "GitHub":http://github.com/orls, "Website":http://orls.co.uk
+* Michael Hausenblas, Galway, Ireland
+** "GitHub":http://github.com/mhausenblas/, "Twitter":http://twitter.com/mhausenblas
 
 h2. UTC+1 (+2)
 * Travis Dunn (travisdunn), Amsterdam, The Netherlands
