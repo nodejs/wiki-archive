@@ -399,6 +399,8 @@ h2. UTC-3 (-2)
 ** "Twitter":http://twitter.com/cmilfont, "GitHub":http://github.com/cmilfont, "Blog":http://www.milfont.org/tech/about/
 * Victor Kane (victorkane), Buenos Aires, Argentina 
 ** "Website":http://awebfactory.com.ar, "Twitter":http://www.twitter.com/victorkane, "GitHub":http://github.com/victorkane
+* Fernando Wermus (fwermus), Buenos Aires, Argentina 
+** "Website":http://www.misdeportes.com, "Twitter":http://www.twitter.com/fwermus, 
 * Demián Rodriguez (demian85), Buenos Aires, Argentina
 ** "Twitter":http://www.twitter.com/demianr85, "GitHub":http://github.com/demian85, "Google Profile":https://profiles.google.com/demian85
 
