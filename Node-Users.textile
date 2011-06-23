@@ -649,7 +649,8 @@ h2. UTC+1 (+2)
 ** "GitHub":http://github.com/viktors, "Twitter":http://twitter.com/viktors, "Website":http://rotanovs.com/
 * Gilles Fabio (gfabio), Saint-Laurent-du-Var, France
 ** "GitHub":http://github.com/gillesfabio, "Website":http://gillesfabio.com/
-
+* Sascha Depold (-), Brandenburg, Deutschland
+** "Github":http://github.com/sdepold, "Twitter":http://twitter.com/sdepold, "Website":http://depold.com
 h2. UTC+2 (+3)
 * Aurimas Rim?a, Lithuania
 ** "GitHub":https://github.com/arimsa, "Website":http://aurimas.rimsa.name/
