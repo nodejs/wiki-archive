@@ -30,12 +30,14 @@ Something in the libv8 build process seems to fail erratically when using ccache
 
 
 
-git clone --depth 1 https://github.com/joyent/node.git
-returns error:
+
+    git clone --depth 1 https://github.com/joyent/node.git
+
+returns this error:
     fatal: https://github.com/joyent/node.git/info/refs download error - The requested URL returned error: 403
 
 got this working instead with
-git clone --depth 1 git://github.com/joyent/node.git
+    git clone --depth 1 git://github.com/joyent/node.git
 
 
 
