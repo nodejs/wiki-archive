@@ -27,3 +27,15 @@ in the root directory of the source code:
     make
 
 Something in the libv8 build process seems to fail erratically when using ccache (on OS X with gcc4, anyway), so if you see errors building accessors.o, try removing ccache from your path.
+
+
+
+git clone --depth 1 https://github.com/joyent/node.git
+returns error:
+    fatal: https://github.com/joyent/node.git/info/refs download error - The requested URL returned error: 403
+
+got this working instead with
+git clone --depth 1 git://github.com/joyent/node.git
+
+
+
