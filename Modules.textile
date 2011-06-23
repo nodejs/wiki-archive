@@ -441,6 +441,7 @@ h3(#security). "OpenSSL / Crypto / Hashing":#security
 * "node_nibbler":https://github.com/mattrobenolt/node_nibbler -- Base32/base64 encoder/decoder.
 * "node-cityhash":https://github.com/fbzhong/node-cityhash -- NodeJS bindings for "Google CityHash":http://code.google.com/p/cityhash/ , both CityHash64 and CityHash128 are supported.
 * "node-phpass":https://github.com/jhurliman/node-phpass -- A pure JavaScript port of the portable PHP password hashing framework.
+* "node-sechash":https://github.com/kbjr/node-sechash -- Secure password hashing using salt and key stretching.
 
 <a name="smtp"></a>
 
