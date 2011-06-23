@@ -745,6 +745,7 @@ h3(#debugging). "Debugging / Console Utilities":#debugging
 <a name="compression"></a>
 
 h3(#compression). "Compression":#compression
+* "gzippo":https://github.com/tomgallacher/gzippo -- gzip static content files with Connect/Express using node-compress
 * "connect-gzip":https://github.com/nateps/connect-gzip -- gzip middleware for Connect. Contains middleware for gzipping and serving static files as well as gzipping responses dynamically 
 * "gzip":https://github.com/indutny/node.gzip -- simple compression using default linux "gzip" utility
 * "node-compress":https://github.com/waveto/node-compress -- streaming compression / gzip library
