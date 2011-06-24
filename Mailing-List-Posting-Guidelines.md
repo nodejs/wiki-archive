@@ -2,7 +2,7 @@ There are two node mailing lists, with different purposes.
 
 ## nodejs-dev http://groups.google.com/group/nodejs-dev
 
-The nodejs-dev list is for these subjects:
+The nodejs-dev list is for work **on** node.
 
 1. Suggested changes to the nodejs API.
 2. Discussion of patches that are not yet mature enough for a proper github pull request.
@@ -16,7 +16,7 @@ Patches that are either extremely simple and obvious, or have previously been di
 
 ## nodejs http://groups.google.com/group/nodejs
 
-The main nodejs list is for almost everything else, including but not limited to:
+For people and things **about** node.  Including but not limited to:
 
 1. Release announcements for Node.js programs.
 2. Community events, meetups, drinkups, workups, hack nights, conferences, and other social events.
@@ -47,12 +47,10 @@ If someone offends or insults you on-list, it's probably inadvertent.  Most peop
 
 This also covers generally mean-spirited comments about other platforms.  Complaining about other platforms doesn't help node.
 
-### Extended debates about whether a given message belongs where someone sent it
+### Discussions about whether a given message belongs where someone sent it
 
-If someone posts something that you think doesn't belong in the place they posted it, please direct them to this page, and trust that they'll read it and try to follow it.
+If someone posts something that you think doesn't belong in the place they posted it, please kindly direct them to this page, and trust that they'll read it and try to follow it.
 
 If you think this page is unclear or unhelpful, then let's discuss that with the community, without making it about a specific user, who will probably end up feeling guilty and picked on, and almost certainly had the best intentions.  We need to encourage our community to grow, and we can't do that by berating new people.
 
-### "bump" messages
-
-If no one has answered your question, it's probably because no one knows the answer, or you're asking in the wrong place.  Replying to an old thread with no new information is clutter.  Please don't do it.
+Don't reply to spam, not even to tell the spammer to die.
