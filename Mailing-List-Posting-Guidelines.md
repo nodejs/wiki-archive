@@ -52,3 +52,7 @@ This also covers generally mean-spirited comments about other platforms.  Compla
 If someone posts something that you think doesn't belong in the place they posted it, please direct them to this page, and trust that they'll read it and try to follow it.
 
 If you think this page is unclear or unhelpful, then let's discuss that with the community, without making it about a specific user, who will probably end up feeling guilty and picked on, and almost certainly had the best intentions.  We need to encourage our community to grow, and we can't do that by berating new people.
+
+### "bump" messages
+
+If no one has answered your question, it's probably because no one knows the answer, or you're asking in the wrong place.  Replying to an old thread with no new information is clutter.  Please don't do it.
