@@ -51,6 +51,6 @@ This also covers generally mean-spirited comments about other platforms.  Compla
 
 If someone posts something that you think doesn't belong in the place they posted it, please kindly direct them to this page, and trust that they'll read it and try to follow it.
 
-If you think this page is unclear or unhelpful, then let's discuss that with the community, without making it about a specific user, who will probably end up feeling guilty and picked on, and almost certainly had the best intentions.  We need to encourage our community to grow, and we can't do that by berating new people.
+If you think this page is unclear or unhelpful, then let's discuss that on the nodejs list, without making it about a specific user, who will probably end up feeling guilty and picked on, and almost certainly had the best intentions.  We need to encourage our community to grow, and we can't do that by berating new people.
 
 Don't reply to spam, not even to tell the spammer to die.
