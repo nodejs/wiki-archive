@@ -35,6 +35,10 @@ Please post node-related job openings at http://jobs.nodejs.org/
 
 Job openings for node-related positions **should not** be posted to either mailing list.  For a while, this was encouraged, because it benefitted the community to have some outlet for these things, and there was no job board.  However, they seem to cause a lot of clutter, and invite flame wars as to what "really" counts as a "node job".
 
+Posting on the job board costs money.  The reason for this is to weed out people who are not serious about their intent to hire a node developer to work on node.  Node is a popular buzzword, and spam is an unfortunate side effect of that.
+
+The price isn't intended to be exorbitant.  If the price is a significant obstacle to you for some reason (for example, if you are an unfunded self-bootstrapped startup looking for a partner), then please contact us off-list and we'll try to work something out.  The last thing anyone wants is to prevent the node ecosystem from growing.
+
 ### Flame
 
 If someone offends or insults you on-list, it's probably inadvertent.  Most people try to be nice most of the time, or at least think they are.  Take it up with them off-list.  That kind of drama is not interesting to other users.
