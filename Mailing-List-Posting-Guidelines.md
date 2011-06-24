@@ -27,6 +27,8 @@ The main nodejs list is for almost everything else, including but not limited to
 7. "Help, I'm new to JS and need to know why this code doesn't work."  Note that this is *very different* from "Please do my homework for me"!  General rules of techie politeness apply.  Be easy to help, and you'll get more help.
 8. What's awesome, what's lame, who's hot, who's not, who just had a baby, a funny video on youtube, philosophy, politics, sports, or any other (valuable!) primate-bonding subjects that you as a member of the node.js community are interested in and feel like sharing with others in the community.  It's not reddit, and it should be at least *somewhat* node-related to be shared on the list, but the bar is pretty low.
 
+## Not Allowed
+
 Here are some things that do not belong on the nodejs list:
 
 ### Job Posts
