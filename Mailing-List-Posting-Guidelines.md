@@ -29,7 +29,7 @@ The main nodejs list is for almost everything else, including but not limited to
 
 ## Not Allowed
 
-Here are some things that do not belong on the nodejs list:
+Here are some things that do not belong on either list:
 
 ### Job Posts
 
