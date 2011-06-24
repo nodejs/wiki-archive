@@ -53,4 +53,4 @@ If someone posts something that you think doesn't belong in the place they poste
 
 If you think this page is unclear or unhelpful, then let's discuss that on the nodejs list, without making it about a specific user, who will probably end up feeling guilty and picked on, and almost certainly had the best intentions.  We need to encourage our community to grow, and we can't do that by berating new people.
 
-Don't reply to spam, not even to tell the spammer to die.
+Don't reply to spam, not even to tell the spammer to die, not even in a fire.
