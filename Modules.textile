@@ -135,6 +135,7 @@ h4(#web-frameworks-full). "Frameworks":#web-frameworks-full
 * "Seek":https://github.com/fk1blow/Seek/ -- Small Javascript Web framework - mostly for learning purpose
 * "WIN":https://github.com/mathgladiator/win -- A simple page centric framework designed around CouchDB+Mustache
 * "Zeppelin":https://github.com/pelger/Zeppelin -- An early stage, low friction cloud development framework    
+* "Kassit":https://github.com/marxus85/kassit -- rapid building of client-side AJAX applications using "Backbone":http://documentcloud.github.com/backbone/ and "CoffeeScript":http://jashkenas.github.com/coffee-script/
 
 <a name="middleware"></a>
 
