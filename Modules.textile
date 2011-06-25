@@ -107,7 +107,7 @@ h4(#web-frameworks-micro). "Microframeworks":#web-frameworks-micro
 * "Pipe-Layer":http://cgit.voodoowarez.com/pipe-layer/ -- Asynchronous HTTP router.
 * "frank":https://github.com/mvrilo/frank -- yet another sinatra-like microframework for node
 * "webservice.js":https://github.com/Marak/webservice.js -- turn node.js modules into RESTFul web-services
-* "zappa":https://github.com/mauricemach/zappa -- Razor-sharp DSL for modern web apps. (node 0.2.3)
+* "zappa":https://github.com/mauricemach/zappa -- Razor-sharp DSL for modern web apps.
 
 <a name="web-frameworks-full"></a>
 
@@ -320,7 +320,7 @@ h3(#templating). "Templating":#templating
 * "bind-js":https://github.com/Xavi-/bind-js -- a simple templating engine for node.js that smiles back.
 * "blue":http://github.com/floby/node-blue -- A streamed template engine. Support for asynchronous loading of partials
 * "dust":http://akdubya.github.com/dustjs -- Async, streaming & composable templates for the browser and node
-* "CoffeeKup":https://github.com/mauricemach/coffeekup -- Markup as CoffeeScript. Live "demo":http://coffeekup.org. "Zappa":https://github.com/mauricemach/zappa, "Meryl":http://coffeemate.github.com/meryl/ and "Express":http://expressjs.com support (node 0.2.4/0.3.0)
+* "CoffeeKup":https://github.com/mauricemach/coffeekup -- Markup as CoffeeScript. Live "demo":http://coffeekup.org. "Zappa":https://github.com/mauricemach/zappa, "Meryl":http://coffeemate.github.com/meryl/ and "Express":http://expressjs.com support
 * "Eco":https://github.com/sstephenson/eco -- Embedded CoffeeScript templates
 * "ejs":https://github.com/visionmedia/ejs -- Light-weight Embedded JavaScript implementation. "Express":http://expressjs.com compliant
 * "haml.js":https://github.com/visionmedia/haml.js -- Faster / more compliant implementation of Haml. "Express":http://expressjs.com support
