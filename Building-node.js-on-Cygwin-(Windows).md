@@ -14,56 +14,52 @@ This tutorial will guide you through setting up the latest stable version of nod
 1. Grab and install [Cygwin](http://www.cygwin.com/).
 2. Using `setup.exe` from Cygwin (1), install the following packages required to compile node.js:
 
-   * `devel  → gcc4-g++ [Builds v0.4.2 and earlier use gcc-g++]`
-   * `devel  → git`
-   * `devel  → make`
-   * `net    → openssl`
-   * `libs   → openssl-devel`
-   * `devel  → pkg-config`
-   * `devel  → zlib-devel`
-   * `python → python`
+    * `devel  → gcc4-g++ [Builds v0.4.2 and earlier use gcc-g++]`
+    * `devel  → git`
+    * `devel  → make`
+    * `net    → openssl`
+    * `libs   → openssl-devel`
+    * `devel  → pkg-config`
+    * `devel  → zlib-devel`
+    * `python → python`
 
-   You may also want to install the following:
+    You may also want to install the following:
 
-   * `editors → vim` or `editors → nano` for (4) below
-   * `web → curl` if you wish to install [[npm|https://github.com/isaacs/npm]], node's package manager
+    * `editors → vim` or `editors → nano` for (4) below
+    * `web → curl` if you wish to install [[npm|https://github.com/isaacs/npm]], node's package manager
 
-   You can use the search box at the top-left to locate packages quickly.
+    You can use the search box at the top-left to locate packages quickly.
 
 2. It's time to clone the Git repository and build node.js. Start a new Cygwin shell (bash, zsh, etc.), open `Start → Cygwin → Cygwin Bash Shell`. Run the following commands:
 
-```
-$ cd ~
-$ git clone git://github.com/joyent/node.git
-$ cd node
-$ git fetch --all
-# if the above fails complaining --all is not recognised, try: git fetch origin
-$ git tag
-$ git checkout [latest stable tag from previous command, e.g., v0.2.5]
-$ ./configure
-$ make
-$ make install
-```
+        $ cd ~
+        $ git clone git://github.com/joyent/node.git
+        $ cd node
+        $ git fetch --all
+        # if the above fails complaining --all is not recognised, try: git fetch origin
+        $ git tag
+        $ git checkout [latest stable tag from previous command, e.g., v0.2.5]
+        $ ./configure
+        $ make
+        $ make install
 
-   It is recommended you checkout a stable tag since most of the time building **master** fails.
-   If you receive an error at any of the above steps, look further down for possible solutions.
+    It is recommended you checkout a stable tag since most of the time building **master** fails.
+    If you receive an error at any of the above steps, look further down for possible solutions.
 
 3. Set up Domain Name Resolution (DNS)
 
     Cygwin internally uses Windows for DNS queries. node.js uses the c-ares library that relies on `/etc/resolv.conf`. Cygwin ships with an empty `/etc/resolv.conf`. In order to enabled networking from your scripts, add these IPs to the file (Google Public DNS):
 
-```
-$ vim /etc/resolv.conf
+        $ vim /etc/resolv.conf
 
-nameserver 8.8.8.8
-nameserver 8.8.4.4
-```
+        nameserver 8.8.8.8
+        nameserver 8.8.4.4
 
-For Vim newbies:  use `i` to enter insert mode, `<Esc>:wq` to exit insert mode, enter the command window, **w**rite and **q**uit. If you are uncomfortable with Vim, use `nano /etc/resolv.conf` instead.
+    For Vim newbies:  use `i` to enter insert mode, `<Esc>:wq` to exit insert mode, enter the command window, **w**rite and **q**uit. If you are uncomfortable with Vim, use `nano /etc/resolv.conf` instead.
 
-Note even if /etc/resolv.conf is correctly set to Google DNS, ECONNREFUSED will happen on .listen() if Windows is not connected to the Internet and you attempt to listen at localhost or the machine name (ie. joeslaptop etc.) Only workaround for offline Windows (such as a development VM) to successfully .listen() at the local host is to use 127.0.0.1 explicitly, neither localhost nor the machine name will currently (0.4.5) resolve when offline.
+    Note even if /etc/resolv.conf is correctly set to Google DNS, ECONNREFUSED will happen on .listen() if Windows is not connected to the Internet and you attempt to listen at localhost or the machine name (ie. joeslaptop etc.) Only workaround for offline Windows (such as a development VM) to successfully .listen() at the local host is to use 127.0.0.1 explicitly, neither localhost nor the machine name will currently (0.4.5) resolve when offline.
 
-If you cannot ping the Google DNS IPs listed above (because of a firewall, for instance) you will have to use different IPs.  Open a DOS prompt and run "ipconfig /all", which will list the DNS servers that Windows is currently using.  Try using those IPs (prefixed with "namesever ") in the resolve.conf instead.
+    If you cannot ping the Google DNS IPs listed above (because of a firewall, for instance) you will have to use different IPs.  Open a DOS prompt and run "ipconfig /all", which will list the DNS servers that Windows is currently using.  Try using those IPs (prefixed with "namesever ") in the resolve.conf instead.
 
 Build Problems
 ====
