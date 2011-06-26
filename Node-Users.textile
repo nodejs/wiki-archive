@@ -886,6 +886,8 @@ h2. UTC+10 or UTC+11
 ** "Twitter":http://twitter.com/denishoctor, "GitHub":http://github.com/denishoctor, "Website":http://denishoctor.me/
 * Andrei Railean, Sydney, Australia
 ** "Twitter":http://twitter.com/andrei_md, "GitHub":http://github.com/andreirailean, "Website":http://andrei.md/
+* Benjamin Lupton, Sydney, Australia
+** "Twitter":http://twitter.com/balupton, "GitHub":http://github.com/balupton, "Website":http://balupton.com
 * Micheil Smith (miksago), Regional NSW, Australia
 ** "Website":http://brandedcode.com, "Twitter":http://twitter.com/miksago, "GitHub":http://github.com/miksago
 * Jeff Waugh (jdub), Yass, Australia
