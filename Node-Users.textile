@@ -730,6 +730,8 @@ h2. UTC+3 (+4)
 ** "GitHub":https://github.com/nik-kor
 * Ivan Shumkov, Saint-Petersburg, Russia
 ** "GitHub":http://github.com/shumkov, "Сorporate GitHub":http://github.com/geometria-lab, "Twitter":http://twitter.com/shumkov
+* Artem Zaytsev, Moscow, Russia
+** "GitHub":http://github.com/avz
 
 h2. UTC+5
 
