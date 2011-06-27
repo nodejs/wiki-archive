@@ -554,6 +554,7 @@ h3(#class-system). "Class systems":#class-system
 * "class-js":https://github.com/bnoguchi/class-js -- Simple, Light-weight OO Class factory
 * "Sslac":https://github.com/jakobo/sslac -- Basic OOP-like support in JavaScript using chaining. Supports extension, interfaces, namespacing, and static objects.
 * "comb":https://github.com/Pollenware/comb -- Library with a built in OO class system, and other features(datastructures, array string and date utilities, etc..).
+* "JS.Class":https://github.com/daffl/JS.Class -- A class framework based on John Resig's Simple JavaScript inheritance and JavaScriptMVC $.Class.
 
 <a name="testing"></a>
 
