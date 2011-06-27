@@ -1104,6 +1104,7 @@ h3(#other). "Other":#other
 * "gsl":https://github.com/wdavidw/node-gsl -- GNU Scientific Library (GSL) for NodeJS (Focusing on random at the moment)
 * "youtube-dl":https://github.com/Neat/node-youtube-dl -- A youtube-dl driver for node.
 * "inflect":https://github.com/MSNexploder/inflect -- A port of the Rails / ActiveSupport inflector to JavaScript.
+* "node-trie":https://github.com/kbjr/node-trie -- A "trie":http://en.wikipedia.org/wiki/Trie dictionary storage model.
 
 <a name="management"></a>
 
