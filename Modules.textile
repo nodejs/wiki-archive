@@ -619,7 +619,11 @@ h3(#parsers). "Parsers":#parsers
 <a name="parsers-json"></a>
 
 h4(#parsers). "JSON":#parsers-json
+* "benejson":https://github.com/codehero/benejson -- Includes pure JavaScript incremental JSON parser
 * "json-streams":http://github.com/floby/node-json-streams -- Streamed JSON parser and stringifier
+* "node-yajl":http://github.com/vibornoff/node-yajl -- SAX-like evented JSON stream parser using "yajl":http://lloyd.github.com/yajl version 2 (fork of "yajl-js":http://bitbucket.org/nikhilm/yajl-js)
+* "yajl-js":http://bitbucket.org/nikhilm/yajl-js -- SAX-like evented JSON parsing using "yajl":http://lloyd.github.com/yajl
+
 
 <a name="parsers-xml"></a>
 
@@ -669,7 +673,6 @@ h4(#parser-generators).  "Parser Generators":#parser-generators
 <a name="parsers-other"></a>
 
 h4(#parsers-other). "Other Parsers":#parsers-other
-* "benejson":https://github.com/codehero/benejson -- Includes pure JavaScript incremental JSON parser
 * "mingy":https://github.com/mcantelon/node-mingy -- Command parser for CLI tool and adventure game needs. Works well with the optimist module.
 * "node-rdf2json":https://github.com/baxtree/node-rdf2json -- A simple RDF/XML to JSON converter
 * "node-brainfuck":https://github.com/masylum/node-brainfuck -- Brainfuck interpreter
@@ -678,8 +681,6 @@ h4(#parsers-other). "Other Parsers":#parsers-other
 * "ya-csv":https://github.com/koles/ya-csv -- Evented CSV parser and writer with configurable separator, escape and quote characters
 * "node-csv-parser":https://github.com/wdavidw/node-csv-parser -- Full featured CSV parser with simple api and tested against large datasets.
 * "querystring.node.js":https://github.com/jazzychad/querystring.node.js -- Robust query string parsing for node.
-* "yajl-js":http://bitbucket.org/nikhilm/yajl-js -- SAX-like evented JSON parsing using "yajl":http://lloyd.github.com/yajl
-* "node-yajl":http://github.com/vibornoff/node-yajl -- SAX-like evented JSON stream parser using "yajl":http://lloyd.github.com/yajl version 2 (fork of "yajl-js":http://bitbucket.org/nikhilm/yajl-js)
 * "node-htmlparser":https://github.com/tautologistics/node-htmlparser -- Forgiving HTML Parser in JS for both Node and Browsers
 * "node-useragent":https://github.com/3rd-Eden/node-useragent -- User agent string parser with accurate browser versioning and grouping
 * "node-jspack":https://github.com/pgriess/node-jspack -- JavaScript library to pack ints, floats, etc. to octet arrays representing C data structures
