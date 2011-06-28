@@ -199,6 +199,7 @@ h2. Companies
 * "Stanzr":http://stanzr.com -- Real-Time, Outbound, Social Media Conversations for businesses 
 * "Szpil":https://szpil.com - Keep detailed contact histories. Review past calls and conversations. Collaborate with colleagues. 
 * "Telefónica R&D":http://tid.es
+* "Thinkfuse":http://www.thinkfuse.com
 * "TRData Limited":https://trdata.com - real-time data processing and comet-server
 * "URGE IO":http://urge.io
 * "Votizen":http://votizen.com -- Social lobbying for registered voters.
