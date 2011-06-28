@@ -83,6 +83,7 @@ h4(#web-frameworks-routers). "Routers":#web-frameworks-routers
 
 h4(#web-frameworks-static). "Static file servers":#web-frameworks-static
 * "Lightnode":http://www.ngspinners.com/lightnode/ -- Easy to understand. Fast. Provides simple framework. (heirarchical servers, delegation, caching, virtual hosts).
+* "navajo":https://github.com/dresende/navajo - A simple web server with the ability to run PHP or Node code as well as serve static files (alpha)
 * "Nitrode":https://github.com/ollym/nitrode -- A lightweight, super fast HTTP 1.1 with internal JS API
 * "antinode":https://github.com/mhansen/antinode -- A simple static web server
 * "node-paperboy":https://github.com/felixge/node-paperboy -- A node.js module for delivering static files
