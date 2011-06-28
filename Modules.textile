@@ -622,6 +622,7 @@ h3(#parsers). "Parsers":#parsers
 <a name="parsers-json"></a>
 
 h4(#parsers). "JSON":#parsers-json
+* "JSON.js"http://www.json.org/js.html -- synchronous, easy to use, built-in to V8 (no need to @require@)
 * "benejson":https://github.com/codehero/benejson -- Includes pure JavaScript incremental JSON parser
 * "json-streams":http://github.com/floby/node-json-streams -- Streamed JSON parser and stringifier
 * "node-yajl":http://github.com/vibornoff/node-yajl -- SAX-like evented JSON stream parser using "yajl":http://lloyd.github.com/yajl version 2 (fork of "yajl-js":http://bitbucket.org/nikhilm/yajl-js)
