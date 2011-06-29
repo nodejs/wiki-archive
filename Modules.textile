@@ -98,6 +98,7 @@ h4(#web-frameworks-micro). "Microframeworks":#web-frameworks-micro
 * "Ni":https://github.com/chetan51/ni -- A minimalistic Node module / framework that makes setting up an MVC project a breeze
 * "(fab)":http://www.fabjs.org -- A modular and concise async web framework for node.js
 * "kaph":https://github.com/akaspin/kaph -- Not framework
+* "Layers":https://github.com/dave-elkan/layers -- A module to help create a layered web app with Express.
 * "Nerve":https://github.com/gjritter/nerve -- Microframework with simple array-based syntax for defining an app on top of node. (node.JS 0.1.30)
 * "Prick":https://github.com/SingAlong/Prick - tiny web framework
 * "restmvc.js":https://github.com/keithnlarsen/restmvc.js -- A simple library to help you quickly create RESTful webservices using Express, Mongoose, and MongoDB.
