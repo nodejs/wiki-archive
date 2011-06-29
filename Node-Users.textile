@@ -190,6 +190,8 @@ h2. UTC-7 (-6)
 ** "GitHub":http://github.com/mbrevoort/, "Twitter":http://twitter.com/mbrevoort/, "Website":http://mike.brevoort.com
 
 h2. UTC-6 (-5)
+* Carter Cole (neopunisher), Houston, TX, US
+** "GitHub":http://github.com/neopunsher, "Twitter":http://twitter.com/cartercole, "Website":http://cartercole.com
 * Bradley Meck (bradleymeck), Austin, TX, US
 ** "GitHub":http://github.com/bmeck
 * Sam Caldwell (x684867), Round Rock, TX, US
