@@ -1069,6 +1069,7 @@ h3(#other). "Other":#other
 * "user-agent":https://github.com/visionmedia/user-agent.js -- user agent string parser
 * "uuidjs":http://bitbucket.org/nikhilm/uuidjs -- Simple, fast UUID generation (uses native binding to libuuid)
 * "node-uuid":https://github.com/broofa/node-uuid -- Simple, fast(er?) UUID generation (pure JS, works in node + browsers)
+* "node-mug":https://github.com/OhMeadhbh/node-mug -- This UUID generator pulls entropy from /dev/urandom for higher quality randomness; but can't be used in browsers.
 * "vargs":https://github.com/cloudhead/vargs -- practical variable argument handling.
 * "Wheres Waldo":https://github.com/technoweenie/wheres-waldo -- track locations of users in redis
 * "Wrench-JS":https://github.com/ryanmcgrath/wrench-js -- Useful Node.js operations (recursive directory operations, etc)
