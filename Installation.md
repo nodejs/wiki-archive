@@ -28,7 +28,7 @@ only need 2 things.
 
 Use make to build and install Node (execute the following on the command line)
 
-    git clone --depth 1 https://github.com/joyent/node.git
+    git clone --depth 1 git://github.com/joyent/node.git
     cd node
     git checkout origin/v0.4 # optional.  Note that master is unstable.
     export JOBS=2 # optional, sets number of parallel commands.
