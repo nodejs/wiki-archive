@@ -17,6 +17,7 @@ h2. Projects and Applications
 * "bookfriend.me":http://bookfriend.me/ — Community site for Barnes and Noble Nook owners who want to borrow/lend books
 * "boxsocial.fm":http://boxsocial.fm/ - Party mode for Last.fm.
 * "BusBound":http://www.busbound.com/ - iPhone web application built with express framework
+* "Calipso":http://calip.so - A NodeJS CMS
 * "CamanJS":https://github.com/meltingice/CamanJS/tree/node - NodeJS port of a Canvas Image Manipulation Library
 * "cassiterite":http://github.com/kurokikaze/cassiterite -- Another blogging engine based on node.js + Tokyo Tyrant + nginx
 * "Chilitweets":http://chilitweets.com - The service discovers the hottest links in your Twitter timeline. Node.js is used in the backed to fetch Tweets and resolve URLs.
