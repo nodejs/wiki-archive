@@ -644,6 +644,7 @@ h4(#parsers-xml). "XML":#parsers-xml
 * "node-xml2js":https://github.com/Leonidas-from-XIV/node-xml2js/ -- Simple XML to JavaScript object converter.
 * "node-plist":https://github.com/TooTallNate/node-plist -- Apple Plist parser for NodeJS. Convert a Plist file or string into a native JS object.
 * "node-halfstreamxml":https://github.com/thejh/node-halfstreamxml -- sax-js based, filter out nodes (with attributes and child nodes) from an xml stream by name
+* "xml2json":https://github.com/buglabs/node-xml2json -- Simple SAX based XML to JSON parser. It uses node-expat.
 
 <a name="parsers-commandline"></a>
 
