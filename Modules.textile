@@ -701,6 +701,7 @@ h4(#parsers-other). "Other Parsers":#parsers-other
 * "node-crawler":https://github.com/joshfire/node-crawler -- Web crawler/spider with JSDom, jQuery & connection pooling.
 * "node-strtok":https://github.com/pgriess/node-strtok -- A streaming tokenizer library for binary data
 * "ometa-js":https://github.com/bmavity/ometa-js , "ometajs":https://github.com/veged/ometa-js -- A JavaScript OMeta implementation
+* "omcc":https://github.com/tristanls/ometa-js-node -- A command line tool for Alessandro Warth's OMetaJS
 * "protobuf_for_node":http://code.google.com/p/protobuf-for-node/ -- Protocol buffer parsing and serialization
 * "node-markdown":https://github.com/andris9/node-markdown -- Easy to use Markdown parser
 * "highlight":https://github.com/andris9/highlight -- Code highlighter for Markdown <code> blocks and for automatic language detection
