@@ -153,7 +153,7 @@ h2. Companies
 * "ipowerhouse":http://www.ipowerhouse.com - Focused on haXe/Node.js  game dev; first all haxe/node bingo product.
 * "Joshfire":http://www.joshfire.com/ - Internet Of Things company, Multi-device app development
 * "Joyent":http://www.joyent.com/
-* "Kodingen":http://kodingen.com/ - Cloud IDE using nodejs backend to execute tasks.
+* "Koding":http://kodingen.com/ - Browser-based IDE and Cloud Computing Platform for PHP/Ruby/Python and others.
 * "LearnBoost":http://www.learnboost.com/ - free "gradebook":http://www.learnboost.com and lesson plan software
 * "Left Logic":http://leftlogic.com
 * "LinkiT projects":http://linkit-projects.nl - Use nodejs for developing javascript sites. (http://yalia.nl/
