@@ -825,6 +825,7 @@ h3(#api-clients). "API clients":#api-clients
 * "gist":https://github.com/emerleite/node-gist -- A gist creator. Create GISTs and use the generated URI.
 * "gravatar":https://github.com/emerleite/node-gravatar -- Well tested Node.JS Gravatar URL generator
 * "hipchat-js":https://github.com/smurthas/hipchat-js -- Simple HipChat API wrapper
+* "instagram-node-lib":https://github.com/mckelvey/instagram-node-lib -- Library for easy interaction with the Instagram API
 * "janrain-api":https://github.com/demetriusj/janrain -- Module for interfacing with Janrain Engage API
 * "klout-js":https://github.com/smurthas/klout-js -- Simple Klout API wrapper
 * "lastfm-node":https://github.com/jammus/lastfm-node -- Read and write to users' recent plays on Last.fm
