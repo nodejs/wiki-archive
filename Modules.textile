@@ -854,6 +854,7 @@ h3(#api-clients). "API clients":#api-clients
 * "nodestalker":https://github.com/pascalopitz/nodestalker -- A beanstalkd client for node
 * "nodestagram":https://github.com/Swizec/nodestagram -- Instagram client for node
 * "nodevore":https://github.com/troufster/nodevore -- Convore API wrapper
+* "node-taobao":https://github.com/e6nian/node-taobao/ -- A client library for taobao.com api
 * "node-twilio":https://github.com/sjwalter/node-twilio/ -- A helper library for the Twilio API
 * "node-twitter":https://github.com/jdub/node-twitter -- Asynchronous Twitter REST/stream/search client for node.js
 * "pingdom":https://github.com/ryanbreen/node-pingdom -- A module for accessing the Pingdom JSON API
