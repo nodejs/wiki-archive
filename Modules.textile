@@ -570,7 +570,6 @@ h3(#testing). "Testing / Spec Frameworks":#testing
 * "cucumis":https://github.com/noblesamurai/cucumis -- A "cucumber nodejs":https://github.com/noblesamurai/cucumis implementation. Run plain text gherkin stories with full asynchronous support in native node.js JavaScript.
 * "Cup of Tea?":https://github.com/refractalize/cupoftea -- BBD-style Unit Testing for Async apps.
 * "databasecleaner":https://github.com/emerleite/node-database-cleaner -- Clean your database after each test. Supports MongoDB, Redis and CouchDB. Will support MySQL and others.
-* "fragile":https://github.com/coffeemate/fragile -- Lightweight command line unit testing tool for nodejs.
 * "Gently":https://github.com/felixge/node-gently -- A node.js module that helps with mocking and behavior verification.
 * "espionage":https://github.com/smtlaissezfaire/espionage -- A mock/stub framework using the test spy pattern.
 * "expresso":https://github.com/visionmedia/expresso -- TDD framework by the author of "JSpec":http://jspec.info
@@ -1095,7 +1094,6 @@ h3(#other). "Other":#other
 * "promised-io":https://github.com/kriszyp/promised-io -- Cross-platform promise-based I/O provides composibility on evented I/O.
 * "node-inotify":https://github.com/c4milo/node-inotify -- Bindings to GNU/Linux Inotify API
 * "node-inotify++":https://github.com/coolaj86/node-inotify-plusplus -- Thin, high-level wrapper around `node-inotify`
-* "sneaker":https://github.com/coffeemate/sneaker -- Helps you observing objects if any attribute changes 
 * "node-proxy":https://github.com/samshull/node-proxy -- Object Overloading and catch-all property interceptors using "Harmony Proxies":http://wiki.ecmascript.org/doku.php?id=harmony:proxies
 * "node-ldapauth":https://github.com/joewalnes/node-ldapauth -- Authenticates users against an LDAP server
 * "nodejs-clone-extend":https://github.com/shimondoodkin/nodejs-clone-extend -- a versatile clone and extend like underline.js, to clone JavaScript objects, enables DRY.
@@ -1158,6 +1156,5 @@ h2(#project-generators). "Project Generators":#project-generators
 h2(#coffee-script). "CoffeeScript modules":#coffee-script
 
 * "coffeemate":https://github.com/coffeemate/coffeemate -- the coffee creamer! Push coffeescript into web development.
-* "herodot":https://github.com/coffeemate/herodot -- cross-server and cross-process event emitter 2 implementation using redis pub/sub protocol in backyards
 * "simple-geoip":https://github.com/dvv/simple-geoip -- Simple _native_ maxmind GeoIP lookup. 4-6 times faster than node-maxmind-native. See wiki for details. Compiled database of countries "geo.json":https://github.com/dvv/simple-geoip/raw/master/geo.json is available
 * "NodeBase":https://github.com/dotmaster/NodeBase -- A node base class for JavaScript and Coffeescript (logging, options, defaults and EventEmitter)
