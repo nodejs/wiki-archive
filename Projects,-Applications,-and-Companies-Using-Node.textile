@@ -113,6 +113,7 @@ h2. Projects and Applications
 
 h2. Companies
 * "13 pass":http://www.13pass.com/ -- Uses node.js and mongoDb to deals with API or realtime websocket programming.
+* "37Signals":http://www.37signals.com/ -- Used node.js to write "Pow":http://pow.cx/, zero configuration Rack server for OS/X. 
 * "A2 Hosting":http://www.a2hosting.com/web-development/nodejs-hosting - Node.js hosting provider
 * "Academia.edu":http://www.academia.edu/ - uses node for background data processing
 * "Adcloud":http://adcloud.com/ -- Javascript Adserver on EC2
