@@ -35,7 +35,7 @@ Using an AUR tool([packer](https://aur.archlinux.org/packages.php?ID=33378) or [
     yaourt -S nodejs
     yaourt -S nodejs-npm
 
-Or grab the [tarball](http://aur.archlinux.org/packages.php?ID=50495) and build it yourself using [makepkg](https://wiki.archlinux.org/index.php/Makepkg#Usage)
+Or grab the [PKGBUILD](http://www.archlinux.org/packages/?sort=&q=nodejs) and build it yourself using [makepkg](https://wiki.archlinux.org/index.php/Makepkg#Usage)
 
 ## OSX
 Using [a package](https://sites.google.com/site/nodejsmacosx)
