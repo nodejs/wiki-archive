@@ -1,8 +1,62 @@
+## 2011.07.05, Version 0.5.0 (unstable)
+
+* New non-default libuv backend to support IOCP on Windows.
+  Use --use-uv to enable.
+
+* deprecate http.cat
+
+* docs improved.
+
+* add child_process.fork
+
+* add fs.utimes() and fs.futimes() support (Ben Noordhuis)
+
+* add process.uptime() (Tom Huges)
+
+* add path.relative (Tony Huang)
+
+* add os.getNetworkInterfaces()
+
+* add remoteAddress and remotePort for client TCP connections
+  (Brian White)
+
+* add secureOptions flag, setting ciphers,
+  SSL_OP_CRYPTOPRO_TLSEXT_BUG to TLS (Theo Schlossnagle)
+
+* add process.arch (Nathan Rajlich)
+
+* add reading/writing of floats and doubles from/to buffers (Brian White)
+
+* Allow script to be read from stdin
+
+* \#477 add Buffer::fill method to do memset (Konstantin Käfer)
+
+* \#573 Diffie-Hellman support to crypto module (Håvard Stranden)
+
+* \#695 add 'hex' encoding to buffer (isaacs)
+
+* \#851 Update how REPLServer uses contexts (Ben Weaver)
+
+* \#853 add fs.lchow, fs.lchmod, fs.fchmod, fs.fchown (isaacs)
+
+* \#889 Allow to remove all EventEmitter listeners at once
+  (Felix Geisendörfer)
+
+* \#926 OpenSSL NPN support (Fedor Indutny)
+
+* \#955 Change ^C handling in REPL (isaacs)
+
+* \#979 add support for Unix Domain Sockets to HTTP (Mark Cavage)
+
+* \#1173 \#1170 add AMD, asynchronous module definition (isaacs)
+
+* DTrace probes: support X-Forwarded-For (Dave Pacheco)
+
 ## 2011.06.29, Version 0.4.9 (stable)
 
 * Improve documentation
 
-* \#1095 error handling bug in stream.pipe() (Felix Geisendörfer)
+* \#1095 error handling bug in stream.pipe() (Felix Geisendörfer)
 
 * \#1097 Fix a few leaks in node_crypto.cc (Ben Noordhuis)
 
@@ -52,12 +106,12 @@
 
 * Fix a special characters in URL regression (isaacs)
 
-* Fix idle timeouts in HTTPS (Felix Geisendörfer)
+* Fix idle timeouts in HTTPS (Felix Geisendörfer)
 
 * SlowBuffer.write() with 'ucs2' throws ReferenceError. (koichik)
 
 * http.ServerRequest 'close' sometimes gets an error argument
-  (Felix Geisendörfer)
+  (Felix Geisendörfer)
 
 * Doc improvements
 
@@ -73,7 +127,7 @@
 * Don't emit error on ECONNRESET from read() #670
 
 * Fix: Multiple pipes to the same stream were broken #929
-  (Felix Geisendörfer)
+  (Felix Geisendörfer)
 
 * URL parsing/formatting corrections #954 (isaacs)
 
@@ -99,7 +153,7 @@
 * Implemenet os.cpus() and os.uptime() on Solaris (Scott McWhirter)
 
 * fs.ReadStream: Allow omission of end option for range reads #801
-	(Felix Geisendörfer)
+	(Felix Geisendörfer)
 
 * Buffer.write() with UCS-2 should not be write partial char
 	\#916 (koichik)
