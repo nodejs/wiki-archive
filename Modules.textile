@@ -389,7 +389,7 @@ h3(#build-and-deployment). "Build and Deployment":#build-and-deployment
 * "haibu":https://github.com/nodejitsu/haibu -- a node.js application server - spawn your own node.js clouds, on your own hardware
 * "jitsu":https://github.com/nodejitsu/jitsu -- Flawless command line deployment of your Node.js apps to the cloud
 * "nodejs-autorestart":https://github.com/shimondoodkin/nodejs-autorestart -- It is a way to watch all .js files if they have been changed and to restart nodejs. It allows easy development and stable production.
-* "config":https://github.com/lorenwest/node-config -- Runtime configuration for node.js deployment - npm install config
+* "config":https://github.com/lorenwest/node-config -- Configuration control for production node deployments - npm install config
 * "node-config":https://github.com/ArtS/node-config -- Lightweight configuration engine for Node.js
 * "node-dev":https://github.com/fgnass/node-dev -- Automatically restarts node when a source-file is modified. Displays notifications via Growl.
 * "run":https://github.com/DTrejo/run.js -- Rerun your js file whenever there's a change in the current directory: <code>npm install -g run</code>, <code>runjs yourcode.js</code>. Never alt-tab to your terminal again.
