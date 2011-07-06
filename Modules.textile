@@ -550,6 +550,7 @@ h3(#message-queue). "Message Queues":#message-queue
 * "gearnode":https://github.com/andris9/gearnode -- "Gearman":http://gearman.org/ client and worker.
 * "websocket.MQ":https://github.com/networkimprov/websocket.MQ -- Reliable message queue server accessible via websockets, socket.IO, etc
 * "Wormhole":https://github.com/aikar/wormhole -- Fast/High Performance message queue system using streaming deserialization with the MessagePack format.
+* "rabbit.js":https://github.com/squaremo/rabbit.js -- Idiomatic messaging using RabbitMQ from node.js
 
 <a name="class-system"></a>
 
