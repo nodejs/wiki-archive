@@ -43,20 +43,3 @@ These are known issues with the build process. A list of known issues with mingw
 
 ### Git doesn't work from the mingw bash shell
 Some people have reported problems getting this to work. If you are affected by this, use git from the windows command prompt.
-
-### Build fails with msvc / Microsoft Visual Studio installed
-Having Microsoft Visual Studio installed confuses the V8 build system. This is a known issue; there is currently no good solution for it.
-
-Then you need to fix toolician for scons: 'tools/scons/scons-local-1.2.0/SCons/Tool/\__init__.py'.
-
-        if str(platform) == 'win32':
-            "prefer Microsoft tools on Windows"
-            linkers = ['mslink', 'gnulink', 'ilink', 'linkloc', 'ilink32' ]
-            c_compilers = ['msvc', 'mingw', 'gcc', 'intelc', 'icl', 'icc', 'cc', 'bcc32' ]
-
-Fix above to following(changing order of c_compilers).
-
-        if str(platform) == 'win32':
-            "prefer Microsoft tools on Windows"
-            linkers = ['mslink', 'gnulink', 'ilink', 'linkloc', 'ilink32' ]
-            c_compilers = ['mingw', 'msvc', 'gcc', 'intelc', 'icl', 'icc', 'cc', 'bcc32' ]
