@@ -859,6 +859,7 @@ h3(#api-clients). "API clients":#api-clients
 * "node-twilio":https://github.com/sjwalter/node-twilio/ -- A helper library for the Twilio API
 * "node-twitter":https://github.com/jdub/node-twitter -- Asynchronous Twitter REST/stream/search client for node.js
 * "pingdom":https://github.com/ryanbreen/node-pingdom -- A module for accessing the Pingdom JSON API
+* "postageapp":https://github.com/postageapp/postageapp-nodejs -- A module for sending emails through the PostageApp JSON API
 * "tropo-webapi-node":https://github.com/tropo/tropo-webapi-node -- A library for building multi-channel communication apps with the Tropo WebAPI.
 * "SMSified-node":https://github.com/smsified/smsified-node -- A module for sending and receiving SMS messages (text messages) with the SMSified API.
 * "tumblrrr":https://github.com/mvrilo/tumblrrr -- A wrapper for Tumblr's API
