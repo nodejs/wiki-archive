@@ -890,6 +890,7 @@ h3(#async-flow). "Flow control / Async goodies":#async-flow
 * "begin":https://github.com/arumons/begin -- Flow control library for node.js and CoffeeScript
 * "chainsaw":https://github.com/substack/node-chainsaw -- Build chainable fluent interfaces the easy way in node.js
 * "Cinch":https://github.com/pguillory/cinch -- Write async code in sync form.
+* "deferred":https://github.com/medikoo/deferred -- Asynchronous control-flow with deferred and promises
 * "fiberize":https://github.com/lm1/node-fiberize -- Node API wrapper for use with fibers.
 * "fibers":https://github.com/laverdet/node-fibers -- The closest thing to a thread you'll find in JavaScript
 * "fibers-promise":https://github.com/lm1/node-fibers-promise -- Small yet powerful promises based on fibers.
@@ -972,6 +973,7 @@ h3(#other). "Other":#other
 * "dir2html":https://github.com/mcantelon/node-dir2html -- Render a directory as HTML
 * "dust":https://github.com/pasviegas/dust -- OO way to fill your database with not totally random content
 * "dox":https://github.com/visionmedia/dox -- Documentation generator using JSdoc and markdown comments
+* "es5-ext":https://github.com/medikoo/es5-ext -- Low-level JavaScript extensions
 * "express-chat":https://github.com/Tug/express-chat -- A chat application demo for testing node.js + MongoDB scalability
 * "express-resource":https://github.com/visionmedia/express-resource -- Resourceful routing for express
 * "express-configure":https://github.com/visionmedia/express-configuration -- Async configuration for express
