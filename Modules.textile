@@ -121,6 +121,7 @@ h4(#web-frameworks-full). "Frameworks":#web-frameworks-full
 * "djangode":https://github.com/simonw/djangode -- A framework that borrows some useful concepts from "Django":http://www.djangoproject.com/. (March 2010, node.JS 0.1.30)
 * "drty":https://github.com/drtyhbo/drty -- A Django port to NodeJS. Many Django features, still under heavy development. (January, 2011, 0.2.6)
 * "Express":https://github.com/visionmedia/express/tree/master -- A robust feature rich web development framework **inspired by Sinatra**
+* "Ext Core for NodeJS":https://github.com/mycoding/Ext-Core-for-NodeJS -- Templating and some basic tricks of ExtCore and ExtJS(XTemplate,Ext.util.format)
 * "Grasshopper":https://github.com/tuxychandru/grasshopper/tree/master -- A feature-rich and flexible MVC framework for web applications and services, with integrated **dependency injection**.
 * "Geddy":https://github.com/mde/geddy/tree/master -- A hackable Web-app development framework similar to Merb/Rails/Pylons/Django
 * "GenJi":https://github.com/zir/genji -- A low-level loosely coupled web framework for nodejs
