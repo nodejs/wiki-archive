@@ -301,7 +301,7 @@ h3(#database). "Database":#database
 * "DB Misc and Cross DB":#db-misc
 ** "db-drizzle":https://github.com/mariano/node-db-drizzle/ - Binary driver for Drizzle (using libdrizzle). Part of the "Node.js DB":http://nodejsdb.org effort
 ** "JSLINQ":https://github.com/marak/JSLINQ -- Clean and simple port of Microsoft's LINQ to node.js (and the browser)
-** "nconf":https://github.com/nodejitsu/nconf -- A hybrid local / remote configuration storage library
+** "nconf":https://github.com/indexzero/nconf -- A hybrid local / remote configuration storage library
 ** "node-cask":https://github.com/randomekek/node-cask -- A 140 loc mmap-ed key/value store, based on bitcask
 ** "node-dirty":https://github.com/felixge/node-dirty -- A key value store for node.js that is simple, fast & dirty.
 ** "node-fleet":https://github.com/jfd/node-fleet -- a FleetDB Client
@@ -361,7 +361,7 @@ rendering process.
 * "xmlbuilder-js":https://github.com/oozcitak/xmlbuilder-js -- An xml builder for node.js similar to java-xmlbuilder.
 * "node-tmpl":https://github.com/jeromeetienne/node-tmpl -- basic templating system in node.js based on shorttag
 * "tob":https://github.com/shimondoodkin/tob -- Template Observer, allows self-reloading templates with your template engine
-* "weld":https://github.com/nodejitsu/weld -- Weld binds data to markup, and can generate markup based on your data.
+* "weld":https://github.com/hij1nx/weld -- Weld binds data to markup, and can generate markup based on your data.
 
 <a name="css-engines"></a>
 
@@ -387,7 +387,7 @@ h3(#content-management). "Content Management Systems":#content-management
 
 h3(#build-and-deployment). "Build and Deployment":#build-and-deployment
 * "dev":https://github.com/iliakan/node-dev -- Automatically restarts the app when a source-file is modified. Autohooks on new files, so it doesn't need manual restart at all.
-* "forever":https://github.com/nodejitsu/forever -- A simple CLI tool for ensuring that a given script runs continuously (i.e. forever)
+* "forever":https://github.com/indexzero/forever -- A simple CLI tool for ensuring that a given script runs continuously (i.e. forever)
 * "haibu":https://github.com/nodejitsu/haibu -- a node.js application server - spawn your own node.js clouds, on your own hardware
 * "jitsu":https://github.com/nodejitsu/jitsu -- Flawless command line deployment of your Node.js apps to the cloud
 * "nodejs-autorestart":https://github.com/shimondoodkin/nodejs-autorestart -- It is a way to watch all .js files if they have been changed and to restart nodejs. It allows easy development and stable production.
