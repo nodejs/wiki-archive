@@ -109,7 +109,7 @@ h2. Projects and Applications
 * "wikiedge.org":http://www.wikiedge.org/ - A website to promote Chinese Wikipedia by deliver a daily magazine by good Wikipedia content, it is an opensource project, and code is at "github":https://github.com/mountain/distilled .
 * "wtfjs":http://github.com/brianleroux/wtfjs - what the fuck javascript!
 * "zztmmo":http://github.com/marak/zztmmo - a zzt based massive multiplayer online game built in node.js and jQuery (currently only single player)
-
+* "meetbymaps":http://www.meetbymaps.com - a realtime social network that  geolocalize users, events and many other things.Has a simple login using fb account, the base is the map of google!
 
 
 h2. Companies
