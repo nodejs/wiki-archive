@@ -86,7 +86,7 @@ h2. Projects and Applications
 * "Realie":http://www.web2media.net/laktek/2010/05/25/real-time-collaborative-editing-with-websockets-node-js-redis/ - Real-time Collaborative Editor using Web Sockets, Node.js & Redis (non-functional / doesn't work)
 * "Scrabbly":http://scrabb.ly - A Massively Multiplayer word game written on node.js. A Node Knockout winner.
 * "scriptable-node-irc-bot":http://github.com/haxd/scriptable-node-irc-bot -- Scriptable Node IRC Bot
-* "ShareDesk":https://github.com/namjul/shareDesk - Share files on a virtual desk with other in real time
+* "ShareDesk":https://github.com/namjul/shareDesk - Share files on a virtual desk with others (of course) in real time ("http://sharedesk.kumbeiz.de":http://sharedesk.kumbeiz.de)
 * "Simple Isometric Game Concept":https://github.com/diaswrd/Singd - Simple multi-player isometric node.js game concept
 * "Simple Node.js MUD":http://github.com/gumho/simple-node.js-mud - Simple multi-user dungeon using Node.js
 * "slyncr":http://cleverchris.com/slyncr/ — bookmarklet to control web slideshows via a remote site
