@@ -298,6 +298,7 @@ h3(#database). "Database":#database
 *** "node-tyrant":https://github.com/waveto/node-tyrant/tree/master -- An implementation of the Tokyo Tyrant network protocol for the Node.js
 *** "kyoto-client":https://github.com/wezm/kyoto-client -- A client for the Kyoto Tycoon key-value store
 *** "keys":https://github.com/visionmedia/keys -- Unified interface for key/value store clients
+*** "neo4j":https://github.com/gasi/node-neo4j -- Neo4j graph database driver for Node
 * "DB Misc and Cross DB":#db-misc
 ** "db-drizzle":https://github.com/mariano/node-db-drizzle/ - Binary driver for Drizzle (using libdrizzle). Part of the "Node.js DB":http://nodejsdb.org effort
 ** "JSLINQ":https://github.com/marak/JSLINQ -- Clean and simple port of Microsoft's LINQ to node.js (and the browser)
