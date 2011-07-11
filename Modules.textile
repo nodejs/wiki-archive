@@ -776,6 +776,7 @@ h3(#compression). "Compression":#compression
 <a name="graphics"></a>
 
 h3(#graphics). "Graphics":#graphics
+* "pdfkit":https://github.com/devongovett/pdfkit -- A powerful PDF generation library for Node
 * "drawback":https://github.com/LearnBoost/drawback -- Seamless way to render 2D drawings on the client side using HTML5 technologies with a server-side backend.
 * "node-canvas":https://github.com/learnboost/node-canvas -- High performance canvas implementation backed by the phenomenal Cairo graphics library
 * "node-o3-canvas":https://github.com/ajaxorg/node-o3-canvas -- Fast HTML5 Canvas and image processing implementation based on AGG
