@@ -23,6 +23,7 @@ h1. Localized sites
 
 | "nodejs.ru":http://nodejs.ru/ | Russian nodejs blog |
 | "Mechanical world":http://kuroikaze85.wordpress.com/all-node-js-entries/ | Another blog in russian |
+| "nodejs.ir":http://nodejs.ir | Iran nodejs group in persian |
 | "nodejs.jp":http://nodejs.jp/ | Japan user group |
 |"CNodeJS.org":http://cnodejs.org| China NodeJS Community |
 |"nodejs.co.il":http://nodejs.co.il| Israeli Node.js wiki |
