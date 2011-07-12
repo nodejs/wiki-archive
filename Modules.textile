@@ -731,6 +731,7 @@ h4(#parsers-other). "Other Parsers":#parsers-other
 h3(#debugging). "Debugging / Console Utilities":#debugging
 * "ain":https://github.com/akaspin/ain -- Brain-free syslog logging
 * "cfdump.js":https://github.com/figital/cfdump.js -- a more visually inspiring way to dump your objects to a browser
+* "cli-color":https://github.com/medikoo/cli-color -- colors and formatting for the console
 * "colors.js":https://github.com/Marak/colors.js -- get colors in your node.js console like what
 * "colours.js":https://github.com/botanicus/colours.js -- Give your CLI programs some colours!
 * "colored.js":https://github.com/chrislloyd/colored.js -- Colorize terminal output.
