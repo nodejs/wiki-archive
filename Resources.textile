@@ -17,7 +17,6 @@ h2. Articles
 * -Check Gmail with Node.js- (broken link? Only ads & popups)
 * "Writing for node and the browser":http://caolanmcmahon.com/writing_for_node_and_the_browser.html -- by Caolan McMahon
 * "Writing a Long Polling Event Server with node":https://go-left.com/blog/programming/long-polling-with-node-js/ -- by Frank Schröder
-* "معرفی Node":http://weapi.org/fa/screencasts/15-introduction-to-nodejs -- by Morteza Milani
 * "شروع کار با Node":http://blog.nodejs.ir/node/2 -- by Morteza Milani
 
 h2. Talks
@@ -32,6 +31,7 @@ h2. Talks
 * "SenchaLabs Connect & Express":http://www.slideshare.net/creationix/senchalabs-connect-express -- By Tim Caswell (slideshare, 2010-09-20)
 * "Real Time Web with Node":http://www.slideshare.net/creationix/real-time-web-with-node -- By Tim Caswell (slideshare, 2010-06-05)
 * "Node Powered Mobile":http://www.slideshare.net/creationix/node-powered-mobile -- By Tim Caswell (slideshare, 2010-06-05)
+* "معرفی Node":http://weapi.org/fa/screencasts/15-introduction-to-nodejs -- by Morteza Milani
 
 h2. Demos
 * "Move the Brush":http://www.movethebrush.com -- by Gershon Bialer
