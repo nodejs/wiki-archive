@@ -17,6 +17,8 @@ h2. Articles
 * -Check Gmail with Node.js- (broken link? Only ads & popups)
 * "Writing for node and the browser":http://caolanmcmahon.com/writing_for_node_and_the_browser.html -- by Caolan McMahon
 * "Writing a Long Polling Event Server with node":https://go-left.com/blog/programming/long-polling-with-node-js/ -- by Frank Schröder
+* "معرفی Node":http://weapi.org/fa/screencasts/15-introduction-to-nodejs -- by Morteza Milani
+* "شروع کار با Node":http://blog.nodejs.ir/node/2 -- by Morteza Milani
 
 h2. Talks
 * "GoogleTechTalk: Node.js":http://www.youtube.com/watch?v=F6k8lTrAE2g -- by Ryan Dahl (video, 2010-07-28)
