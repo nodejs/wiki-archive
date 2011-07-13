@@ -75,7 +75,7 @@ DEBUG: Tick count: 3
 
 Assuming that you have already installed Eclipse, together with the "plugin":http://code.google.com/p/chromedevtools/  mentioned above, now you need to make initial debug profile.
 
-In the Menu, choose Window -> Open Perspective -> Other, then select Debuf from the list, to ensure you are viewing the debug perspective. 
+In the Menu, choose Window -> Open Perspective -> Other, then select Debug from the list and click OK, to ensure you are viewing the debug perspective. 
 
 !http://i.imgur.com/54LA2.png!
 
