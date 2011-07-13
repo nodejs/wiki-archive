@@ -7,7 +7,7 @@ h2. Managed
 * "DotCloud":http://www.dotcloud.com/ - Beta
 * "Duostack":http://www.duostack.com/
 * "Heroku":http://heroku.com/ - Closed Beta
-* "no.de":http://no.de - Open
+* "no.de":http://no.de - Acquired by Dotcloud - still accepting signup, but no new apps can be deployed
 * "Nodejitsu":http://nodejitsu.com/ - Beta Coming Soon (accepting signups)
 * "NodeSocket":http://www.nodesocket.com/ - Beta Coming Soon (accepting signups)
 * "Nodester":http://nodester.com/ - Open source Node.JS hosting platform and services
