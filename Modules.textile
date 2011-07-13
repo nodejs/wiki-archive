@@ -322,6 +322,7 @@ h3(#database). "Database":#database
 ** "ueberDB":https://github.com/Pita/ueberDB -- Transforms every database into a object key value store
 ** "hive":https://github.com/Pollenware/hive -- Fast in memory store for Node.
 <a name="templating"></a>
+** "nocr-mongo":https://github.com/karacos/nocr-mongo -- "NoCR":https://github.com/NoCR/NoCR implementation for mongoDB
 
 h3(#templating). "Templating":#templating
 * "asyncEJS":https://github.com/cramforce/node-asyncEJS -- Asynchronous implementation of embedded JavaScript
