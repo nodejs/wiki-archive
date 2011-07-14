@@ -651,6 +651,7 @@ h4(#parsers-xml). "XML":#parsers-xml
 * "node-expat":https://github.com/astro/node-expat -- Fast SAX parser binding to expat
 * "node-expat":https://github.com/shimondoodkin/node-expat -- a fork of Fast SAX parser binding to expat, also includes XML to JavaScript object converter
 * "node-xml2js":https://github.com/Leonidas-from-XIV/node-xml2js/ -- Simple XML to JavaScript object converter.
+* "libxml-to-js":https://github.com/SaltwaterC/libxml-to-js -- XML to JavaScript object converter based on libxmljs.
 * "node-plist":https://github.com/TooTallNate/node-plist -- Apple Plist parser for NodeJS. Convert a Plist file or string into a native JS object.
 * "node-halfstreamxml":https://github.com/thejh/node-halfstreamxml -- sax-js based, filter out nodes (with attributes and child nodes) from an xml stream by name
 * "xml2json":https://github.com/buglabs/node-xml2json -- Simple SAX based XML to JSON parser. It uses node-expat.
