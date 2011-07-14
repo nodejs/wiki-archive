@@ -1001,6 +1001,7 @@ h3(#other). "Other":#other
 * "goog":https://github.com/hsch/node-goog -- Server-side Google Closure with Node.js
 * "gss":https://github.com/DTrejo/gss -- Golden Section Search for JavaScript. A line search technique used to *minimize* or *maximize* the output of a function.
 * "hub.js":https://github.com/greut/hubbub.js -- in-memory and in progress PubSubHubBub server
+* "imdb":https://github.com/mendelbenjamin/node-imdb -- Loops a dir and returns the IMDB ranking + genre of each movie
 * "IRC-js":https://github.com/gf3/IRC-js -- An IRC library for node.js 
 * "ip2cc":https://github.com/eagereyes/node-ip2cc -- Efficiently convert IP addresses to two-letter country codes
 * "ircbot":https://github.com/draggor/node-ircbot -- An IRC bot with plugin support
