@@ -583,6 +583,7 @@ h3(#testing). "Testing / Spec Frameworks":#testing
 * "exemplor.js":https://github.com/chrislloyd/exemplor.js -- A port of "exemplor":https://github.com/quackingduck/exemplor with Node goodness.
 * "foounit":https://github.com/foobarfighter/foounit -- client/server side BDD testing framework 
 * "httpmock":https://github.com/bbyars/httpmock -- A RESTful web API for stubbing out network dependencies.
+* "horaa":https://github.com/arunoda/horaa -- Mocking NodeJS Modules
 * "jasmine-node":https://github.com/mhevery/jasmine-node -- integration with "Pivotal's Jasmine Spec":https://github.com/pivotal/jasmine framework
 * "Jody":https://github.com/garrensmith/Jody -- A descriptive BDD Testing framework 
 * "jspec":https://github.com/visionmedia/jspec -- Feature Rich BDD Testing Framework (no longer supported)
