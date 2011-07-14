@@ -158,7 +158,7 @@ h2. Companies
 * "IDFuze":http://www.idfuze.com - Working on a real time cards game using node.js and socket.io
 * "ipowerhouse":http://www.ipowerhouse.com - Focused on haXe/Node.js  game dev; first all haxe/node bingo product.
 * "Joshfire":http://www.joshfire.com/ - Internet Of Things company, Multi-device app development
-* "Joinbox":http://www.joinbox.com/
+* "Joinbox":http://www.joinbox.com/ - All of your social actions, emails and online news on one sweet website. 
 * "Joyent":http://www.joyent.com/
 * "Koding":http://kodingen.com/ - Browser-based IDE and Cloud Computing Platform for PHP/Ruby/Python and others.
 * "LearnBoost":http://www.learnboost.com/ - free "gradebook":http://www.learnboost.com and lesson plan software
