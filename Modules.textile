@@ -907,7 +907,7 @@ h3(#async-flow). "Flow control / Async goodies":#async-flow
 * "futures":https://github.com/coolaj86/futures - Asynchronous Method Queueing, Futures, Promises, Subscriptions, and other async goodies
 * "promise":https://github.com/megakorre/promise -- A Continuation handler (monad) with a condition system for errors
 * "groupie":https://github.com/alexkwolfe/groupie -- A simple flow control library for executing multiple functions as a group or in a chain, calling back when complete.
-* "Jscex": http://github.com/JeffreyZhao/jscex -- Transforms sync code into monadic, async code as the async support in F# and Scala.
+* "Jscex":http://github.com/JeffreyZhao/jscex -- Transforms sync code into monadic, async code as the async support in F# and Scala.
 * "$N":https://github.com/chjj/-N -- Simple flow control with pretty syntax.
 * "node-chain":https://github.com/ArtS/node-chain -- Simple call chaining library for node.js
 * "node-continuables":https://github.com/bentomas/node-continuables -- A library making dealing with asynchronous code easier
