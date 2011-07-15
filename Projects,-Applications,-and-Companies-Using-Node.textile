@@ -165,6 +165,7 @@ h2. Companies
 * "Left Logic":http://leftlogic.com
 * "LinkiT projects":http://linkit-projects.nl - Use nodejs for developing javascript sites. (http://yalia.nl/
 * "Listener Approved":http://ListenerApproved.com - The radical new music industry
+* "LocalStars":http://www.localstars.com - Using NodeJS, Mongo & Redis for scalable webservices
 * "M-Way Solutions":http://www.mwaysolutions.com -- Developing node.js based build tools for The-M-Project
 * "Medium":http://thisismedium.com
 * "Milewise":http://milewise.com - Using Node.js for real-time fare searching
