@@ -107,6 +107,8 @@ Close your shell window and repeat the steps above.
 
 Once you are done, restart your PC. Remember to close all open Cygwin shells before using `rebaseall`.
 
+If you still get similar messages during configure, try following the suggestions found here: http://code.google.com/p/chromium/wiki/CygwinDllRemappingFailure
+
 ../deps/v8/tools/jsmin.py SyntaxError: invalid syntax
 ----
 
