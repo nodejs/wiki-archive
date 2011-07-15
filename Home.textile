@@ -47,3 +47,5 @@ see the "API Doc":http://nodejs.org/docs/latest/api/index.html
 
 h2. Quick Success Guide
 
+h2. Logos
+"Official and Community Logos":https://github.com/joyent/node/wiki/Logos
