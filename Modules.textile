@@ -73,6 +73,7 @@ h4(#web-frameworks-routers). "Routers":#web-frameworks-routers
 * "connect":https://github.com/senchalabs/Connect -- Robust high performance middleware framework
 * "dispatch":https://github.com/caolan/dispatch -- Regular expression URL dispatcher for Connect
 * "escort":https://github.com/ckknight/escort -- High-performance, advanced routing and URL generation
+* "filter-chain":https://github.com/teknopaul/filter-chain -- Java ServletFilter style request chaining
 * "journey":https://github.com/cloudhead/journey -- liberal JSON-only HTTP request router
 * "node-router":https://github.com/creationix/node-router -- Simple Sinatra-like http server based on fu.js from the original node-chat demo.
 * "node.routes.js":https://github.com/defrex/node.routes.js/ -- A simple url router
