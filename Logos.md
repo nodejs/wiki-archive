@@ -4,7 +4,7 @@
 
 ##Community Logos
 
-![Original](http://farm7.static.flickr.com/6016/5947533807_f50b14479b_o.png)
+![Original](http://farm7.static.flickr.com/6016/5947533807_f50b14479b_o.png)  
 ![Callback](http://farm7.static.flickr.com/6002/5927603032_d9e9aeff9b.jpg)
 ![Turtle](http://substack.net/images/node_turtle.png)
 ![Comic](https://lh5.googleusercontent.com/-l7XvZDcXraw/TiB6n4OVGnI/AAAAAAAAAuo/4VH3SSTCEBQ/nodejs.png)
