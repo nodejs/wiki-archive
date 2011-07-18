@@ -1144,6 +1144,7 @@ h3(#other). "Other":#other
 * "youtube-dl":https://github.com/Neat/node-youtube-dl -- A youtube-dl driver for node.
 * "inflect":https://github.com/MSNexploder/inflect -- A port of the Rails / ActiveSupport inflector to JavaScript.
 * "node-trie":https://github.com/kbjr/node-trie -- A "trie":http://en.wikipedia.org/wiki/Trie dictionary storage model.
+* "node-x11":https://github.com/sidorares/node-x11 -- X Window native client library (does not use Xlib/XCB, talks to X server directly)
 
 <a name="management"></a>
 
