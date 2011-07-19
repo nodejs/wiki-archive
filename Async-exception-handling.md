@@ -1,5 +1,7 @@
 This proposal describes a new node.js core feature for handling exceptions that are thrown by asynchronous callbacks.
 
+## Problem
+
 Code has bugs. Sometimes bugs cause unanticipated exceptions to be thrown. We like to constrain the impact of bugs by catching exceptions. For example, if an exception occurs while handling an http request, we aim for the following:
 
 * The request that threw should return a 500 Internal Server Error to the client
@@ -51,7 +53,7 @@ Node does provide the `uncaughtException` event, but it doesn't provide sufficie
 
 We want to catch the exception at the point where it can best be dealt with - and that means putting some kind of exception handler right where we currently have our try/catch block. In this context we have the relevant client connection: `req` and `res`.
 
-## Enter process.exceptionCatcher
+## Proposed Solution
 
 In this proposal:
 
@@ -108,6 +110,6 @@ The bulk of the implementation is to apply this pattern to every async API metho
 
 The C++ change in `src/node.cc` to pass uncaught exceptions to `process.exceptionCatcher` is quite small, and is compatible with the existing `uncaughtException` event. If `process.exceptionCatcher` throws an exception then it is handled by emitting an `uncaughtException` event or exiting the process.
 
-## Nesting
+### Nesting Handlers
 
 A feature of try/catch blocks is that they can be nested. We can achieve the same thing with `process.exceptionCatcher` by chaining. If a handler cannot handle the exception, it calls the previously installed `process.exceptionCatcher` if any. This is analogous to a catch block that rethrows the caught exception. 
