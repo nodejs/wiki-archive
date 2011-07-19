@@ -156,5 +156,5 @@ The candidate implementation chooses option 2, which seems the least incompatibl
 
 It would be straight forward to provide both options, with one going by a new method name.
 
-[implementation]: benw/node
-[examples]: benw/async-catch-examples
+[implementation]: https://github.com/benw/node
+[examples]: https://github.com/benw/async-catch-examples
