@@ -1,6 +1,10 @@
 This page describes a proposed new node.js core feature for handling exceptions that are thrown by asynchronous callbacks.
 
-There is a working [implementation] of this proposal.
+See also:
+
+* [Working implementation][implementation] of this proposal
+
+* [Examples][examples] from this document as a separate project.
 
 Please direct feedback to [Ben Williamson](mailto:benw@pobox.com)
 
@@ -152,4 +156,5 @@ The candidate implementation chooses option 2, which seems the least incompatibl
 
 It would be straight forward to provide both options, with one going by a new method name.
 
-[implementation]: https://github.com/benw/node
+[implementation]: benw/node
+[examples]: benw/async-catch-examples
