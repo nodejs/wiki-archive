@@ -1,4 +1,6 @@
-This proposal describes a new node.js core feature for handling exceptions that are thrown by asynchronous callbacks.
+This page describes a proposed new node.js core feature for handling exceptions that are thrown by asynchronous callbacks.
+
+Please direct feedback to [Ben Williamson](mailto:benw@pobox.com)
 
 ## Problem
 
@@ -83,7 +85,9 @@ This example shows it in use:
 
 This works. According to point 3 above, the `fs.stat` API function saves our exception handler function and restores it right before calling the buggy callback. So `process.exceptionCatcher` is set to our handler when `stats.mtime` throws. The exception is caught, an error response is returned to the correct client, and all is well.
 
-Let's look at an implementation of this proposal:
+## Implementation
+
+A candidate implementation is under development at <https://github.com/benw/node/tree/exceptionCatcher>. Let's take a look:
 
     fs.stat = function(path, callback) {
       callback = wrapCallback(callback);
@@ -110,6 +114,38 @@ The bulk of the implementation is to apply this pattern to every async API metho
 
 The C++ change in `src/node.cc` to pass uncaught exceptions to `process.exceptionCatcher` is quite small, and is compatible with the existing `uncaughtException` event. If `process.exceptionCatcher` throws an exception then it is handled by emitting an `uncaughtException` event or exiting the process.
 
-### Nesting Handlers
+## Nesting Handlers
 
-A feature of try/catch blocks is that they can be nested. We can achieve the same thing with `process.exceptionCatcher` by chaining. If a handler cannot handle the exception, it calls the previously installed `process.exceptionCatcher` if any. This is analogous to a catch block that rethrows the caught exception. 
+A feature of try/catch blocks is that they can be nested. We can achieve the same thing with `process.exceptionCatcher` by chaining. If a handler cannot handle the exception, it can explicitly call the previously installed `process.exceptionCatcher` if any. This is analogous to a catch block that rethrows the caught exception. 
+
+    var oldCatcher = process.exceptionCatcher;
+    process.exceptionCatcher = function (e) {
+      if (e instanceof ExceptionWeCanHandle) {
+        // take care of it
+      } else if ('function' === typeof oldCatcher) {
+        oldCatcher(e);
+      } 
+    };
+
+## Incompatibilities
+
+This proposal does introduce some minor incompatibilities.
+
+Modules outside the node.js core should ensure that callbacks are invoked with the `process.exceptionCatcher` that was in effect when the callback was passed in. For code that passes these callbacks through to core API methods, no change will be needed. Code that stores and dispatches callbacks directly will need to apply the `wrapCallback()` pattern or provide equivalent behaviour. Modules that call callbacks without setting `process.exceptionCatcher` will be no worse off than they were prior to this proposal, but users should expect that asynchronous exception handling will work consistently everywhere.
+
+The `EventEmitter` interface contains a `listeners()` method which exposes a mutable array of listener callbacks:
+
+> #### emitter.listeners(event)
+> 
+> Returns an array of listeners for the specified event. This array can be
+> manipulated, e.g. to remove listeners.
+
+This proposal introduces a necessary change to that API. Because an exception handler function must be stored with each listener callback, either:
+
+1. `listeners()` will return an array of objects (perhaps closures) which wrap exception handlers along with the listener callbacks that were passed in, in which case comparisons with the original callbacks will fail; or
+
+2. `listeners()` will return a temporary array of the original listener callbacks, but changes to the array will have no effect.
+
+The candidate implementation chooses option 2, which seems the least incompatible. While the present API documentation states that the array can be manipulated, there is no unit test for that feature and it seems unlikely to be used widely.
+
+It would be straight forward to provide both options, with one going by a new method name.
