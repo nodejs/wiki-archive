@@ -65,11 +65,9 @@ We want to catch the exception at the point where it can best be dealt with - an
 
 In this proposal:
 
-1 Uncaught exceptions are passed to a global handler called `process.exceptionCatcher`
-
-2 Anyone can assign a function to `process.exceptionCatcher` at any time
-
-3 Every API function that accepts an async callback saves the current `process.exceptionCatcher` value and restores it right before the callback is invoked.
+1. Uncaught exceptions are passed to a global handler called `process.exceptionCatcher`
+2. Anyone can assign a function to `process.exceptionCatcher` at any time
+3. Every API function that accepts an async callback saves the current `process.exceptionCatcher` value and restores it right before the callback is invoked.
 
 This example shows it in use:
 
