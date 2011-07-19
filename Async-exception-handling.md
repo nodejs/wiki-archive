@@ -51,7 +51,7 @@ Node does provide the `uncaughtException` event, but it doesn't provide sufficie
 
 We want to catch the exception at the point where it can best be dealt with - and that means putting some kind of exception handler right where we currently have our try/catch block. In this context we have the relevant client connection: `req` and `res`.
 
-## Enter `process.exceptionCatcher`
+## Enter process.exceptionCatcher
 
 In this proposal:
 
