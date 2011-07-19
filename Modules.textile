@@ -967,6 +967,10 @@ h3(#boilerplates). "Boilerplates":#boilerplates
 * "NodeBase":https://github.com/dotmaster/NodeBase -- A node base class for JavaScript and CoffeeScript (logging, options, defaults and EventEmitter)
 * "infigo-node-boilerplate":https://github.com/jerryjj/infigo-node-boilerplate -- nodejs boilerplate built upon Express, db-mysql/db-drizzle/Mongoose and includes user authentication and group+role authorization system.
 
+<a name="continuous-integration"></a>
+
+h3(#continuous-integration). "Continuous Integration Tools":#continuous-integration
+* "nestor":https://github.com/cliffano/nestor -- Jenkins NodeJS CLI
 
 <a name="other"></a>
 
