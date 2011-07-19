@@ -1,5 +1,7 @@
 This page describes a proposed new node.js core feature for handling exceptions that are thrown by asynchronous callbacks.
 
+There is a working [implementation] of this proposal.
+
 Please direct feedback to [Ben Williamson](mailto:benw@pobox.com)
 
 ## Problem
@@ -87,7 +89,7 @@ This works. According to point 3 above, the `fs.stat` API function saves our exc
 
 ## Implementation
 
-A candidate implementation is under development at <https://github.com/benw/node/tree/exceptionCatcher>. Let's take a look:
+A [candidate implementation][implementation] is under development. Let's take a look:
 
     fs.stat = function(path, callback) {
       callback = wrapCallback(callback);
@@ -149,3 +151,5 @@ This proposal introduces a necessary change to that API. Because an exception ha
 The candidate implementation chooses option 2, which seems the least incompatible. While the present API documentation states that the array can be manipulated, there is no unit test for that feature and it seems unlikely to be used widely.
 
 It would be straight forward to provide both options, with one going by a new method name.
+
+[implementation]: https://github.com/benw/node/tree/exceptionCatcher
