@@ -6,7 +6,7 @@ See also:
 
 * [Examples][examples] from this document as a separate project.
 
-Please direct feedback to [Ben Williamson](mailto:benw@pobox.com)
+Please direct feedback to [Ben Williamson](mailto:benw@pobox.com).
 
 ## Problem
 
