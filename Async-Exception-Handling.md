@@ -65,11 +65,11 @@ We want to catch the exception at the point where it can best be dealt with - an
 
 In this proposal:
 
-1. Uncaught exceptions are passed to a global handler called `process.exceptionCatcher`
+1 Uncaught exceptions are passed to a global handler called `process.exceptionCatcher`
 
-2. Anyone can assign a function to `process.exceptionCatcher` at any time
+2 Anyone can assign a function to `process.exceptionCatcher` at any time
 
-3. Every API function that accepts an async callback saves the current `process.exceptionCatcher` value and restores it right before the callback is invoked.
+3 Every API function that accepts an async callback saves the current `process.exceptionCatcher` value and restores it right before the callback is invoked.
 
 This example shows it in use:
 
@@ -141,16 +141,16 @@ Modules outside the node.js core should ensure that callbacks are invoked with t
 
 The `EventEmitter` interface contains a `listeners()` method which exposes a mutable array of listener callbacks:
 
-> #### emitter.listeners(event)
+> `emitter.listeners(event)`
 > 
 > Returns an array of listeners for the specified event. This array can be
 > manipulated, e.g. to remove listeners.
 
 This proposal introduces a necessary change to that API. Because an exception handler function must be stored with each listener callback, either:
 
-1. `listeners()` will return an array of objects (perhaps closures) which wrap exception handlers along with the listener callbacks that were passed in, in which case comparisons with the original callbacks will fail; or
+1 `listeners()` will return an array of objects (perhaps closures) which wrap exception handlers along with the listener callbacks that were passed in, in which case comparisons with the original callbacks will fail; or
 
-2. `listeners()` will return a temporary array of the original listener callbacks, but changes to the array will have no effect.
+2 `listeners()` will return a temporary array of the original listener callbacks, but changes to the array will have no effect.
 
 The candidate implementation chooses option 2, which seems the least incompatible. While the present API documentation states that the array can be manipulated, there is no unit test for that feature and it seems unlikely to be used widely.
 
