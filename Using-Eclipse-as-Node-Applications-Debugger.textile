@@ -130,7 +130,7 @@ You probably noticed that Eclipse V8 debugger can not connect to the remote host
 // 
 
 var sys = require('sys');
-var tcp = require('tcp');
+var tcp = require('net');
 
 var encoding = "binary"
 var localActive = false;  // flag to make sure that only one connection
