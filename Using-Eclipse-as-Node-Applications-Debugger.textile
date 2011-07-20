@@ -170,7 +170,7 @@ var local = tcp.createServer(function (socket) {
       log("Local connect");
     } else {
       log("Local reject");
-      socket.close();
+      socket.end();
       return;
     }
 
@@ -190,8 +190,8 @@ var local = tcp.createServer(function (socket) {
 
     remote.addListener("end", function () {
       log("Remote close");
-      socket.close();
-      remote.close();
+      socket.end();
+      remote.end();
     });
 
   });
@@ -203,8 +203,8 @@ var local = tcp.createServer(function (socket) {
 
   socket.addListener("end", function () {
     log("Local close");
-    socket.close();
-    remote.close();
+    socket.end();
+    remote.end();
     localActive = false;
   });
 
