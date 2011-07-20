@@ -37,6 +37,7 @@ Use make to build and install Node (execute the following on the command line)
     make
     make install
     echo 'export PATH=$HOME/local/node/bin:$PATH' >> ~/.profile
+    echo 'export NODE_PATH=$HOME/local/node:$HOME/local/node/lib/node_modules' >> ~/.profile
     source ~/.profile
 
 If you have any installation problems, look at [Troubleshooting
