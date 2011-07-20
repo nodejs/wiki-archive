@@ -226,3 +226,4 @@ h2. Companies
 * "[[BörseGo AG|http://boerse-go.ag|]]" - they use a nodejs server for providing news pushed via websockets on http://www.jandaya.de
 * "Doodkin" http://doodkin.com developed an mobile application with node.
 * "Neuron web creative":http://www.neuron-webagency.com - A creative and innovative web agency, this is the agency that develops http://www.meetbymaps.com
+* "CellkastGames":http://www.tickade.com - Tickade is an online redemption games platform where players can play casual games by themselves or against each other for tickets. Players can exchange tickets for real world prizes of their choice delivered to their doors 
