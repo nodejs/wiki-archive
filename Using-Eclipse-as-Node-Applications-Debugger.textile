@@ -87,7 +87,7 @@ Now start making new debug configuration by clicking the "New" button:
 
 !http://i.imgur.com/eixxg.png!
 
-Note that this configuration is named Node-5858 and the port is set accordingly. While you there create one or more additional configurations such as Node-5859, Node-5860, ... with respective ports, so you can later debug more than one node executable at the same time. 
+Note that this configuration is named Node-5858 and the port is set accordingly. While you there create one or more additional configurations such as Node-5859, Node-5860, ... with respective ports, so you can later debug more than one node executable at the same time. Note also that most recent version of V8 debugger plugin has option to specify remote host as well.
 
 If you decided to edit the source lookup path, be sure to leave the 'Default' entry. Break points won't work if you remove it.
 
