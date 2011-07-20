@@ -26,3 +26,6 @@
 ![Node stamp](https://lh3.googleusercontent.com/-RuJ8njIvRto/TiZ_XdAr88I/AAAAAAAAAME/RDiO0-FToJc/nodejsStamp2.png)
 
 ![Rounded with circle](https://lh5.googleusercontent.com/-UxvwFuho9xI/TiZ_qJD2L4I/AAAAAAAAAMQ/qfppXes8jQk/nodejsStamp2.png)
+
+##Based on new official logo
+![Contrived](http://img691.imageshack.us/img691/2817/nodef.png)
