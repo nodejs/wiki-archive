@@ -11,3 +11,6 @@
 ![javascripty](http://homepage.mac.com/jorgechamorro/node/nodejsLogoA.png)
 [Configure this logo](http://homepage.mac.com/jorgechamorro/node/nodeLogoAnimado.html)
 ![javascripty](http://homepage.mac.com/jorgechamorro/node/nodejsLogoB.png)
+![Rounded on dark](https://lh4.googleusercontent.com/-SqqudfU2TAU/TiZsxURICJI/AAAAAAAAALk/-7WuVBrCL_o/nodejs1.png)
+![Rounded on white](https://lh6.googleusercontent.com/-sU5IRCCxMYc/TiZsuwV0nFI/AAAAAAAAALc/dH1OxZImcJU/nodejs2.png)
+![Rounded with line](https://lh4.googleusercontent.com/-P9rHwnwG9bw/TiZsw19CBsI/AAAAAAAAALg/SYG6XIb5e6w/nodejs3.png)
