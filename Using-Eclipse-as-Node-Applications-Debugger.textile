@@ -234,6 +234,9 @@ RemoteMachine:$ node --debug-brk=8888 MyApp.js
 
 Now the  Eclipse debugging session will be routed via localhost:5858 to www.example.com:8888. The above script needs to be started only once for particular remote host and port combination. If verbose option is set, the tcpproxy.js may act as a sniffer for "V8 Debugger protocol":http://code.google.com/p/chromedevtools/wiki/ChromeDevToolsProtocol as well.
 
+Edit:
+The most recent version of Eclipse V8 debugger plugin has an option to specify remote host, so above proxy script is not required any more. It may still be useful if debugger is to reach out through corporate firewall.
+
 Eclipse V8 debugger can also be used in conjunction with gdb/ddd in order to debug native C/C++ code. For example, if particular invocation of frequently called native function is problematic, but the other ones are fine, you would first set the breakpoint in the script code, and once you hit this one, then you would set/enable the breakpoint in native function  as well.
 
 Note: If node segfaults when you are trying to debug, recompile node with set GCC_VERSION=44 before running make during node installation ([[source|http://blog.quilitz.de/2010/08/debug-nodejs-applications-with-eclipse-fix-segmentation-fault/]])
