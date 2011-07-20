@@ -16,4 +16,5 @@
 ![Rounded with line](https://lh4.googleusercontent.com/-P9rHwnwG9bw/TiZsw19CBsI/AAAAAAAAALg/SYG6XIb5e6w/nodejs3.png)
 ![Rounded with circle](https://lh4.googleusercontent.com/-viTl63ZCfTA/TiZ7SADdW-I/AAAAAAAAAL8/YneI537fxi8/nodejs4.png)
 ![Rounded with circle](https://lh5.googleusercontent.com/-0yWcSBObsmo/TiZ7R8-vs-I/AAAAAAAAAL4/1UyMi5_nY5g/nodejs5.png)
-
+![Node stamp](https://lh3.googleusercontent.com/-RuJ8njIvRto/TiZ_XdAr88I/AAAAAAAAAME/RDiO0-FToJc/nodejsStamp2.png)
+![Rounded with circle](https://lh5.googleusercontent.com/-UxvwFuho9xI/TiZ_qJD2L4I/AAAAAAAAAMQ/qfppXes8jQk/nodejsStamp2.png)
