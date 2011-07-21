@@ -1,5 +1,7 @@
 # Vim Plugins
 
+_Please respect the formatting recommendations of the [Modules](https://github.com/joyent/node/wiki/Modules) Page_
+
 After [this thread](http://groups.google.com/group/nodejs/browse_thread/thread/c5fe809d3cf9ca72) I thought it'd be nice to have this here since a lot of node users are also vim users.
 
 Of course, if you don't use [Pathogen](http://www.vim.org/scripts/script.php?script_id=2332), you're not _really_ a vim user.
@@ -23,7 +25,7 @@ Of course, if you don't use [Pathogen](http://www.vim.org/scripts/script.php?scr
 * [surround](http://www.vim.org/scripts/script.php?script_id=1697) 
 * [tComment](http://www.vim.org/scripts/script.php?script_id=1173) auto comment
 * [NERD_Commenter](http://www.vim.org/scripts/script.php?script_id=1218) auto comment
-* [JavaScriptIndent](http://www.vim.org/scripts/script.php?script_id=3081) web-indent - Javascript indenter (HTML indent is included) [bear in mind that it's buggy sometimes, for example clicking tab won't indent]
+* [JavaScriptIndent](http://www.vim.org/scripts/script.php?script_id=3081) web-indent - Javascript indenter (HTML indent is included) [somewhat buggy, clicking tab won't indent]
 
 ## Snippets
 
