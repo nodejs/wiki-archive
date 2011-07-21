@@ -1154,6 +1154,9 @@ h3(#other). "Other":#other
 * "inflect":https://github.com/MSNexploder/inflect -- A port of the Rails / ActiveSupport inflector to JavaScript.
 * "node-trie":https://github.com/kbjr/node-trie -- A "trie":http://en.wikipedia.org/wiki/Trie dictionary storage model.
 * "node-x11":https://github.com/sidorares/node-x11 -- X Window native client library (does not use Xlib/XCB, talks to X server directly)
+* "typecheck":https://github.com/schrodingerz-kitten/typecheck -- A type checker for JavaScript
+* "JSPP":https://github.com/schrodingerz-kitten/jspp -- A preprocessor for JavaScript
+
 
 <a name="management"></a>
 
