@@ -917,6 +917,7 @@ h3(#async-flow). "Flow control / Async goodies":#async-flow
 * "fibers":https://github.com/laverdet/node-fibers -- The closest thing to a thread you'll find in JavaScript
 * "fibers-promise":https://github.com/lm1/node-fibers-promise -- Small yet powerful promises based on fibers.
 * "flow-js":https://github.com/willconant/flow-js -- Continuation-esque contruct for expressing multi-step asynchronous logic
+* "flow-js":https://github.com/minodisk/flow-js -- Asynchronous flow-control (serial, parallel, repeat, wait, function) module for Node.js, RequireJS, and browser.
 * "funk":https://github.com/masylum/funk -- Asynchronous parallel functions made funky!
 * "futures":https://github.com/coolaj86/futures - Asynchronous Method Queueing, Futures, Promises, Subscriptions, and other async goodies
 * "promise":https://github.com/megakorre/promise -- A Continuation handler (monad) with a condition system for errors
@@ -996,6 +997,7 @@ h3(#other). "Other":#other
 * "daemon.node":https://github.com/Slashed/daemon.node/ -- Unix/Linux Daemons with node.js
 * "datejs":https://github.com/chrisdew/datejs -- DateJS wrapped up as an NPM package for node.js
 * "dateformat":https://github.com/felixge/node-dateformat -- A node.js package for Steven Levithan's excellent dateFormat() function
+* "dateformat-js":https://github.com/minodisk/dateformat-js -- Formatting Date to String and parsing String to Date module for Node.js, RequireJS, and browser.
 * "relative-date":https://github.com/azer/relative-date/ -- JavaScript module for outputting relative dates. 
 * "deja":https://github.com/mcantelon/node-deja -- CLI utility for managing git versioning of dotfiles and such
 * "daemonchk.js":https://github.com/dulac/daemonchk.js/ -- Daemon Monitor (with HTTP interface)
@@ -1110,6 +1112,7 @@ h3(#other). "Other":#other
 * "tasks.js":https://github.com/dandean/tasks.js Tasks for Node (like Rake!) with a very JavaScripty API.
 * "temp":https://github.com/bruce/node-temp -- Temporary files and directories
 * "tictoc":https://github.com/DTrejo/tictoc -- A simple timer just like the one from matlab. tic() dowork() toc();
+* "timer-js":https://github.com/minodisk/timer-js -- Simple timer, wraps setInterval and clearInterval.
 * "user-agent":https://github.com/visionmedia/user-agent.js -- user agent string parser
 * "uuidjs":http://bitbucket.org/nikhilm/uuidjs -- Simple, fast UUID generation (uses native binding to libuuid)
 * "node-uuid":https://github.com/broofa/node-uuid -- Simple, fast(er?) UUID generation (pure JS, works in node + browsers)
