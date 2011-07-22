@@ -48,4 +48,9 @@ Using [homebrew](https://github.com/mxcl/homebrew):
 
 Using [macports](http://www.macports.org/):
 
-    port install nodejs
+    port install nodejs  
+
+## Windows
+Using chocolatey (http://nuget.org/list/packages/chocolatey):  
+
+    cinst nodejs  
