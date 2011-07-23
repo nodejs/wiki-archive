@@ -1,5 +1,7 @@
 ## 2011.07.22, Version 0.5.2 (unstable)
 
+* libuv improvements; named pipe support
+
 * \#1242 check for SSL_COMP_get_compression_methods() (Ben Noordhuis) 
 
 * \#1348 remove require.paths (isaacs) 
@@ -18,7 +20,7 @@
 
 * doc improvements
 
-## 2011.07.14, Version 0.5.1 (unstable)
+## 2011.07.14, Version 0.5.1 (unstable), f8bfa54d0fa509f9242637bef2869a1b1e842ec8
 
 * \#1233 Fix os.totalmem on FreeBSD amd64 (Artem Zaytsev)
 
@@ -41,7 +43,7 @@
 
 * Upgrade V8 to 3.4.10
 
-## 2011.07.05, Version 0.5.0 (unstable)
+## 2011.07.05, Version 0.5.0 (unstable), ae7ed8482ea7e53c59acbdf3cf0e0a0ae9d792cd
 
 * New non-default libuv backend to support IOCP on Windows.
   Use --use-uv to enable.
@@ -219,7 +221,7 @@
 
 * http response.readable should be false after 'end' #867 (Abe Fettig)
 
-* Implemenet os.cpus() and os.uptime() on Solaris (Scott McWhirter)
+* Implement os.cpus() and os.uptime() on Solaris (Scott McWhirter)
 
 * fs.ReadStream: Allow omission of end option for range reads #801
 	(Felix Geisendörfer)
@@ -494,7 +496,7 @@
 
 ## 2011.01.08, Version 0.3.4 (unstable)
 
-* Primordal mingw build (Bert Belder)
+* Primordial mingw build (Bert Belder)
 
 * HTTPS server
 
@@ -526,7 +528,7 @@
   functions for OSX, Linux, and Cygwin. (Brian White)
 
 * Fix REPL syntax error bug (GH-543), improve how REPL commands are
-  evaulated.
+  evaluated.
 
 * Use process.stdin instead of process.openStdin().
 
@@ -571,7 +573,7 @@
 
 ## 2010.11.16, Version 0.3.1 (unstable), ce9a54aa1fbf709dd30316af8a2f14d83150e947
 
-* TLS improvments (Paul Querna)
+* TLS improvements (Paul Querna)
   - Centralize error handling in SecureStream
   - Add SecurePair for handling of a ssl/tls stream.
 
@@ -635,9 +637,9 @@
 
 ## 2010.10.23, Version 0.3.0 (unstable) 1582cfebd6719b2d2373547994b3dca5c8c569c0
 
-* Bugfix: Do not spin on aceept() with EMFILE
+* Bugfix: Do not spin on accept() with EMFILE
 
-* Improvments to readline.js (Trent Mick, Johan Euphrosine, Brian White)
+* Improvements to readline.js (Trent Mick, Johan Euphrosine, Brian White)
 
 * Safe constructors (missing 'new' doesn't segfault)
 
@@ -673,7 +675,7 @@
 
 * Commas last in sys.inspect
 
-* Constatnts moved from process object to require('constants')
+* Constants moved from process object to require('constants')
 
 * Fix parsing of linux memory (Vitali Lovich)
 
