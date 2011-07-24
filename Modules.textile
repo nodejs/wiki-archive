@@ -741,7 +741,7 @@ h4(#parsers-other). "Other Parsers":#parsers-other
 * "glossy":https://github.com/squeeks/glossy - Syslog message parser and producer
 * "UglifyJS":https://github.com/mishoo/UglifyJS - JavaScript parser and compressor/beautifier
 * "epub":https://github.com/andris9/epub - Parse EPUB electronic book files with Node.JS, load chapters, images etc.
-
+* "marked":https://github.com/chjj/marked - A markdown parser and compiler. Built for speed.
 
 <a name="debugging"></a>
 
