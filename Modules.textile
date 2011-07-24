@@ -1198,6 +1198,6 @@ h2(#project-generators). "Project Generators":#project-generators
 
 h2(#coffee-script). "CoffeeScript modules":#coffee-script
 
-* "coffeemate":https://github.com/coffeemate/coffeemate -- the coffee creamer! Push coffeescript into web development.
+* "coffeemate":https://github.com/kadirpekel/coffeemate -- the coffee creamer! Push coffeescript into web development.
 * "simple-geoip":https://github.com/dvv/simple-geoip -- Simple _native_ maxmind GeoIP lookup. 4-6 times faster than node-maxmind-native. See wiki for details. Compiled database of countries "geo.json":https://github.com/dvv/simple-geoip/raw/master/geo.json is available
 * "NodeBase":https://github.com/dotmaster/NodeBase -- A node base class for JavaScript and Coffeescript (logging, options, defaults and EventEmitter)
