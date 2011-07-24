@@ -51,6 +51,8 @@ Using [macports](http://www.macports.org/):
     port install nodejs  
 
 ## Windows
+ Note: Windows builds are not yet satisfactorily stable but it is possible to get something running.  
+  
 Using [chocolatey](http://nuget.org/list/packages/chocolatey):  
 
     cinst nodejs  
