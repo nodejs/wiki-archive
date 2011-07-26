@@ -1,6 +1,6 @@
 Install NodeJS on Windows using Cygwin
 ====
-Step by step instructions to install NodeJS on Windows - [[http://boxysystems.com/index.php/step-by-step-instructions-to-install-nodejs-on-windows/]]
+Step by step instructions to install NodeJS on Windows - [[http://boxysystems.com/index.php/step-by-step-instructions-to-install-nodejs-on-windows/]] -- OUTDATED
 
 Building node.js on Cygwin (Windows)
 ====
@@ -150,7 +150,7 @@ $ git clean -f -d -x
 ```
 and re-run make.
 
-cannot find a c compiler
+cannot find a c compiler OR an error message that mentions rebase (cannot rebase)
 ----
 You might be on Windows 7. 
 Open up c:\cygwin\bin\ash.exe` then type
@@ -158,6 +158,21 @@ Open up c:\cygwin\bin\ash.exe` then type
 $ /bin/rebaseall
 ```
 
+If the rebase fails (as on Win7 x64), you may need to [edit the rebase script](http://ajaywhiz.posterous.com/installing-nodejs-on-windows-7)
+
+Go to at line# 110 in /bin/rebaseall file and add: -e '/\/sys-root\/mingw\/bin/d'
+
+Ex. in Cygwin 1.7.9 (current as of writing this)
+
+```
+    sed -e '/cygwin1\.dll$/d' -e '/cyglsa.*\.dll$/d' -e 's/^/\//' >"$TmpFile"
+```
+
+becomes 
+
+```
+    sed -e '/\/sys-root\/mingw\/bin/d' -e '/cygwin1\.dll$/d' -e '/cyglsa.*\.dll$/d' -e 's/^/\//' >"$TmpFile"
+```
 
 Help! I've done EVERYTHING above and I'm still having issues…
 ====
