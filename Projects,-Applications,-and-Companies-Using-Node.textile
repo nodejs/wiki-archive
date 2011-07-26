@@ -25,6 +25,7 @@ h2. Projects and Applications
 * "Cloudspace Mockups":http://cloudspacemockups.com/ - A Mockup Creator using node.js and MongoDB by "Cloudspace":http://cloudspace.com
 * "colorapi":http://colorapi.com/ - Color palette generator from Flickr images.
 * [[Constant Sail: Pirates & Traders|http://constantsail.com]] - real time pirate game (uses [[mongodb-native|https://github.com/christkv/node-mongodb-native]] and socket.io)
+* "ComicR":http://comicr.co.uk - An online html5 speech bubble tool 
 * "designo":https://github.com/kazuyukitanimura/designo — Realtime Twitter client demo exploiting Node.js+Websockets+HTML5
 * "DinMaker":http://github.com/creationix/node-topcloud-chat by creationix (live demo at <a href="http://chat.creationix.com">chat.creationix.com</a>)
 * "diretto":http://www.diretto.org/ - Distributed Recon/Reporting Transceiver Toolkit – Uses Node.js for web-based media storage and for its RESTful webservice implementation
