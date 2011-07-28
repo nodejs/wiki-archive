@@ -5,7 +5,7 @@ h2. Managed
 * "Cloud Foundry":http://www.cloudfoundry.com/ - (Beta, accepting signups)
 * "Cloudnode":http://cloudno.de/ - Beta (accepting signups)
 * "DotCloud":http://www.dotcloud.com/ - Beta
-* "Duostack":http://www.duostack.com/
+* "Duostack":http://www.duostack.com/  - Acquired by Dotcloud - still accepting signup, but no new apps can be deployed
 * "Heroku":http://heroku.com/ - Closed Beta
 * "no.de":http://no.de - Acquired by Dotcloud - still accepting signup, but no new apps can be deployed
 * "Nodejitsu":http://nodejitsu.com/ - Beta Coming Soon (accepting signups)
