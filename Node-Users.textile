@@ -156,6 +156,8 @@ h2. UTC-8
 ** "GitHub":http://github.com/jhurliman, "Twitter":http://twitter.com/jhurliman, "Website":http://cull.tv/
 * Atsuya Takagi (atsuya), Playa del Rey, CA, US
 ** "GitHub":http://github.com/atsuya, "Twitter":http://twitter.com/atsuya, "Website":http://about.me/atsuya
+* Eliseo Soto (eliseosoto), Cupertino, CA, US
+** "GitHub":http://github.com/eliseosoto, "Twitter":http://twitter.com/eliseosoto, "Website":http://www.supervaca.com
 
 h2. UTC-7 (-6)
 * Aria Stewart (Aria, aredridel), Ridgway, CO, US
