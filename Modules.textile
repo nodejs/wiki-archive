@@ -385,6 +385,7 @@ h3(#css-engines). "CSS Engines":#css-engines
 * "carto":https://github.com/mapbox/carto -- Parses MSS templates and renders XML for "Mapnik":http://mapnik.org/
 * "ccss":https://github.com/aeosynth/ccss -- Parses a JavaScript object and renders css.
 * "less":https://github.com/cloudhead/less.js -- Parses a LESS template and renders css.
+* "csslike":https://github.com/chjj/csslike -- Parses and compiles CSS, taking into account the most recent www-style proposals.
 
 <a name="wiki-content-management"></a>
 
