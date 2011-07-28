@@ -941,7 +941,7 @@ h3(#async-flow). "Flow control / Async goodies":#async-flow
 * "node-parallel":https://github.com/Tim-Smart/node-parallel -- Create tasks in node.js that run in parallel, or sequences that run tasks one after another.
 * "node-promise":https://github.com/kriszyp/node-promise -- Robust promises for node.js, includes promise utilities and promise-based I/O library
 * "narrow":https://github.com/0ctave/node-narrow -- Shrinks a given callback parallel execution concurrency in a limited number of threads, receiving a big bunch of data (array of tasks)
-* "neuron":https://github.com/nodejitsu/neuron -- The simplest possible event driven job manager, FIFO queue, and "task based cache" in node.js
+* "neuron":https://github.com/indexzero/neuron -- The simplest possible event driven job manager, FIFO queue, and "task based cache" in node.js
 * "noflo":https://github.com/bergie/noflo -- "Flow-Based Programming":http://en.wikipedia.org/wiki/Flow-based_programming system for Node.js
 * "observer":https://github.com/azer/observer -- An alternative observer implementation, for both ss&cs.
 * "poolr":https://github.com/codingforce/poolr -- A lightweight resource pooling/serialization library 
