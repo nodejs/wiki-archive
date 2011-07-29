@@ -1,3 +1,6 @@
+### Where are #node.js irc logs?
+[[http://nodejs.debuggable.com/]]
+
 ### What is the difference between Node "core" and "userland" modules
   
 [[node core vs userland]]
