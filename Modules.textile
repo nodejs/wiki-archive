@@ -894,6 +894,7 @@ h3(#api-clients). "API clients":#api-clients
 * "tropo-webapi-node":https://github.com/tropo/tropo-webapi-node -- A library for building multi-channel communication apps with the Tropo WebAPI.
 * "SMSified-node":https://github.com/smsified/smsified-node -- A module for sending and receiving SMS messages (text messages) with the SMSified API.
 * "tumblrrr":https://github.com/mvrilo/tumblrrr -- A wrapper for Tumblr's API
+* "tumblr":https://github.com/meritt/node-tumblr -- A wrapper for Tumblr's API v2
 * "tweetstream":https://github.com/mikeal/tweetstream -- Stream like API for twitter's HTTP streaming interface.
 * "TwitScript":https://github.com/ryanmcgrath/twitscript -- A port of Twython to Node.js (Twitter API Library)
 * "twitter-js":https://github.com/masylum/twitter-js -- Easy peasy twitter client for connect.
