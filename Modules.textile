@@ -338,6 +338,7 @@ h3(#templating). "Templating":#templating
 * "blue":http://github.com/floby/node-blue -- A streamed template engine. Support for asynchronous loading of partials
 * "CoffeeKup":https://github.com/mauricemach/coffeekup -- Markup as CoffeeScript. Live "demo":http://coffeekup.org. "Zappa":https://github.com/mauricemach/zappa, "Meryl":http://coffeemate.github.com/meryl/ and "Express":http://expressjs.com support
 * "doT.js":https://github.com/olado/doT -- Concise and super fast javascript templates with customizable delimiters, streaming and partials support
+* "Web.js":https://github.com/iwillwen/Web.js -- A simple, fast and light HTTP/TCP framework for NodeJS
 * "dust":http://akdubya.github.com/dustjs -- Async, streaming & composable templates for the browser and node
 * "Eco":https://github.com/sstephenson/eco -- Embedded CoffeeScript templates
 * "ejs":https://github.com/visionmedia/ejs -- Light-weight Embedded JavaScript implementation. "Express":http://expressjs.com compliant
