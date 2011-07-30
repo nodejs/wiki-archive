@@ -276,6 +276,7 @@ h3(#database). "Database":#database
 *** "mongoose":http://mongoosejs.com/ -- Mongoose is a JavaScript library that makes working with MongoDB a breeze.
 *** "mongous":https://github.com/amark/mongous -- Mongous is a dead simple MongoDB driver that uses a jQuery styled syntax.
 *** "nosql-thin":https://github.com/dmcquay/node-nosql-thin - Makes easier to work with MongoDB. Not an ORM. Not production ready.
+*** "mongoclikker":https://github.com/semu/mongoclikker - Simple MongoDB data viewer
 ** "Hive":#db-nosql-hive
 *** "node-hive":https://github.com/forward/node-hive -- dead simple hive client using thrift api
 ** "Redis":#db-nosql-redis
