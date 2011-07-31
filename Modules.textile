@@ -114,6 +114,8 @@ h4(#web-frameworks-micro). "Microframeworks":#web-frameworks-micro
 * "frank":https://github.com/mvrilo/frank -- yet another sinatra-like microframework for node
 * "webservice.js":https://github.com/Marak/webservice.js -- turn node.js modules into RESTFul web-services
 * "zappa":https://github.com/mauricemach/zappa -- Razor-sharp DSL for modern web apps.
+* "jqNode":https://github.com/pradeek/jqNode -- Simple jQuery-esque API for small projects.
+
 
 <a name="wiki-web-frameworks-full"></a>
 
