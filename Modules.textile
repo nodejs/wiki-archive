@@ -916,6 +916,7 @@ h3(#api-clients). "API clients":#api-clients
 * "sailthru-client":https://github.com/sailthru/sailthru-node-client -- A wrapper for Sailthru API
 * "yammer-js":https://github.com/smurthas/yammer-js -- Simple Yammer API wrapper
 * "node-wikimapia":https://github.com/Sannis/node-wikimapia -- Node.js wrapper for the Wikimapia API
+* "waz-storage-js":https://github.com/jpgarcia/waz-storage-js -- A simple implementation of Windows Azure Storage API for Node.js
 
 <a name="wiki-async-flow"></a>
 
