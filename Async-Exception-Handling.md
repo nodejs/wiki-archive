@@ -158,3 +158,9 @@ It would be straight forward to provide both options, with one going by a new me
 
 [implementation]: https://github.com/benw/node
 [examples]: https://github.com/benw/async-catch-examples
+
+## Related Work
+
+* http://nodejs.org/illuminati0.pdf
+* https://github.com/joyent/node/tree/eventsource
+* http://groups.google.com/group/nodejs/msg/c0313089f37380c2
