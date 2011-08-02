@@ -113,7 +113,6 @@ h4(#web-frameworks-micro). "Microframeworks":#web-frameworks-micro
 * "Pipe-Layer":http://cgit.voodoowarez.com/pipe-layer/ -- Asynchronous HTTP router.
 * "frank":https://github.com/mvrilo/frank -- yet another sinatra-like microframework for node
 * "webservice.js":https://github.com/Marak/webservice.js -- turn node.js modules into RESTFul web-services
-* "zappa":https://github.com/mauricemach/zappa -- Razor-sharp DSL for modern web apps.
 * "jqNode":https://github.com/pradeek/jqNode -- Simple jQuery-esque API for small projects.
 
 
@@ -342,7 +341,7 @@ h3(#templating). "Templating":#templating
 * "asyncEJS":https://github.com/cramforce/node-asyncEJS -- Asynchronous implementation of embedded JavaScript
 * "bind-js":https://github.com/Xavi-/bind-js -- a simple templating engine for node.js that smiles back.
 * "blue":http://github.com/floby/node-blue -- A streamed template engine. Support for asynchronous loading of partials
-* "CoffeeKup":https://github.com/mauricemach/coffeekup -- Markup as CoffeeScript. Live "demo":http://coffeekup.org. "Zappa":https://github.com/mauricemach/zappa, "Meryl":http://coffeemate.github.com/meryl/ and "Express":http://expressjs.com support
+* "CoffeeKup":https://github.com/mauricemach/coffeekup -- Markup as CoffeeScript. Live "demo":http://coffeekup.org.
 * "doT.js":https://github.com/olado/doT -- Concise and super fast javascript templates with customizable delimiters, streaming and partials support
 * "dust":http://akdubya.github.com/dustjs -- Async, streaming & composable templates for the browser and node
 * "Eco":https://github.com/sstephenson/eco -- Embedded CoffeeScript templates
@@ -1216,6 +1215,7 @@ h2(#coffee-script). "CoffeeScript modules":#coffee-script
 * "coffeemate":https://github.com/kadirpekel/coffeemate -- the coffee creamer! Push coffeescript into web development.
 * "simple-geoip":https://github.com/dvv/simple-geoip -- Simple _native_ maxmind GeoIP lookup. 4-6 times faster than node-maxmind-native. See wiki for details. Compiled database of countries "geo.json":https://github.com/dvv/simple-geoip/raw/master/geo.json is available
 * "NodeBase":https://github.com/dotmaster/NodeBase -- A node base class for JavaScript and Coffeescript (logging, options, defaults and EventEmitter)
+* "zappa":https://github.com/mauricemach/zappa -- Not your mom's node framework.
 
 h2(#search). "Full text search":#search
 
