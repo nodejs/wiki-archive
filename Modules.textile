@@ -800,6 +800,7 @@ h3(#compression). "Compression":#compression
 * "node-snappy":https://github.com/kesla/node-snappy -- compression using Google's snappy library.
 * "node-zipfile":https://github.com/springmeyer/node-zipfile -- inspect and uncompress zipfile archives (C++ around libzip)
 
+* "node-zlib-sync":https://github.com/ssuda/node-zlib-sync -- rfc1950/rfc1951/rfc1952 compress/uncompress (C++ around libzlib)
 <a name="wiki-graphics"></a>
 
 h3(#graphics). "Graphics":#graphics
