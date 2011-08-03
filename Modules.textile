@@ -603,6 +603,7 @@ h3(#testing). "Testing / Spec Frameworks":#testing
 * "horaa":https://github.com/arunoda/horaa -- Mocking NodeJS Modules
 * "jasmine-node":https://github.com/mhevery/jasmine-node -- integration with "Pivotal's Jasmine Spec":https://github.com/pivotal/jasmine framework
 * "Jody":https://github.com/garrensmith/Jody -- A descriptive BDD Testing framework 
+* "JUTE":https://github.com/zzo/JUTE -- A JS testing environment with build in code coverage with Capture/Selenium/V8 backends
 * "jspec":https://github.com/visionmedia/jspec -- Feature Rich BDD Testing Framework (no longer supported)
 * "kyuri":https://github.com/nodejitsu/kyuri -- A node.js cucumber implementation with a few extra asynchronous keywords. supports 160+ languages and exports to VowsJS stubs
 * "maryjane":https://github.com/dhasenan/maryjane/ -- Mock object library inspired by Mockito
