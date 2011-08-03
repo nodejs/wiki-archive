@@ -1106,6 +1106,7 @@ h3(#other). "Other":#other
 * "node-stomp":https://github.com/kates/node-stomp -- A basic STOMP client.
 * "node-stomp-server":https://github.com/jbalonso/node-stomp-server -- A modular STOMP server framework and server
 * "RADIUS":https://github.com/jeremycx/node-radius -- RADIUS Auth and Accounting binding
+* "stats":https://github.com/visionmedia/stats -- javascript source statistics API & CLI
 * "stomp-js":https://github.com/benjaminws/stomp-js -- Full featured STOMP client.
 * "node-syslog":https://github.com/schamane/node-syslog/ -- Allows sending messages to syslog.
 * "node-taglib":https://github.com/nikhilm/node-taglib -- Beginnings of bindings to "taglib":http://developer.kde.org/~wheeler/taglib
