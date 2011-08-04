@@ -749,6 +749,7 @@ h4(#parsers-other). "Other Parsers":#parsers-other
 * "epub":https://github.com/andris9/epub - Parse EPUB electronic book files with Node.JS, load chapters, images etc.
 * "marked":https://github.com/chjj/marked - A markdown parser and compiler. Built for speed.
 * "feed-tables":https://github.com/tomvit/Feed-Tables - a lightweight parser for Google Spreadsheet tables available as cells or list atom feeds.
+* "NodePie":https://github.com/andris9/NodePie - Simple RSS/Atom parser for Node.JS
 
 <a name="wiki-debugging"></a>
 
