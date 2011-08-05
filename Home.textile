@@ -20,7 +20,7 @@ Come talk to us in the **#node.js** IRC channel on "freenode.net":http://webchat
 
 h2. Modules
 
-Most modules are in the "npm registry":http://search.npmjs.org/ 
+Most modules can be found by "searching the npm registry":http://search.npmjs.org/ (Alternatively, use "eirikb's search":http://eirikb.github.com/nipster/)
 There is also a list of modules on this wiki: "Modules":http://github.com/ry/node/wiki/modules page.
 
 h2. Resources
