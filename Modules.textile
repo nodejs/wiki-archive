@@ -960,6 +960,7 @@ h3(#async-flow). "Flow control / Async goodies":#async-flow
 * "observer":https://github.com/azer/observer -- An alternative observer implementation, for both ss&cs.
 * "poolr":https://github.com/codingforce/poolr -- A lightweight resource pooling/serialization library 
 * "Pulsar":https://github.com/michaelsbradleyjr/Pulsar -- Event emitter abstraction class, allowing reuse of custom-emitter logic across JavaScript environments.
+* "q":https://github.com/kriskowal/q -- Q is a tool for making and composing asynchronous promises in JavaScript.
 * "seq":https://github.com/substack/node-seq -- Chainable asynchronous flow control for node.js with sequential and parallel primitives and pipeline-style error handling
 * "sexy":https://github.com/crabdude/sexy -- Proxy (ES5) for writing sequential asynchronous code in a synchronous style
 * "Signals":https://github.com/igo/signals -- Custom Event/Messaging system
