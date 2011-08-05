@@ -15,7 +15,7 @@ Node has several dependencies, but fortunately most of them are
 distributed along with it.  If you are building from source you should
 only need 2 things.
 
-* **python** - version 2.4 or higher. The build tools distributed with
+* **python** - version 2.6 or higher. The build tools distributed with
   Node run on python.
 
 * **libssl-dev** - If you plan to use SSL/TLS encryption in your
