@@ -1184,6 +1184,7 @@ h3(#other). "Other":#other
 * "node-x11":https://github.com/sidorares/node-x11 -- X Window native client library (does not use Xlib/XCB, talks to X server directly)
 * "typecheck":https://github.com/schrodingerz-kitten/typecheck -- A type checker for JavaScript
 * "JSPP":https://github.com/schrodingerz-kitten/jspp -- A preprocessor for JavaScript
+* "node-serialport":https://github.com/voodootikigod/node-serialport -- Welcome your robotic javascript overlords. Better yet, program them!
 
 
 <a name="wiki-management"></a>
