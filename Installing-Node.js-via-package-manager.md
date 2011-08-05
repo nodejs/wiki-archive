@@ -20,11 +20,11 @@ It installs current stable nodejs on the current stable ubuntu.
 ## On openSUSE BuildService
 [Node.js stable repos list](http://bit.ly/nodejs_repos).
 
-Available RPM packages for: CentOS 5; Fedora 13; openSUSE 11.3 and Factory.
+Available RPM packages for: CentOS 5; Fedora 13; openSUSE 11.3; openSUSE 11.4 and Factory.
 
-Example install on openSUSE 11.3:
+Example install on openSUSE 11.4:
 
-    sudo zypper ar http://download.opensuse.org/repositories/home:/SannisDev/openSUSE_11.3/ SannisDevBuildService 
+    sudo zypper ar http://download.opensuse.org/repositories/home:/SannisDev/openSUSE_11.4/ SannisDevBuildService 
     sudo zypper in nodejs nodejs-devel
 
 ## Arch Linux
