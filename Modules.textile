@@ -1230,3 +1230,5 @@ h2(#coffee-script). "CoffeeScript modules":#coffee-script
 h2(#search). "Full text search":#search
 
 * "reds":https://github.com/visionmedia/reds -- light-weight & abstract (~300LOC) redis backed full text search
+* "jsii":https://github.com/karussell/jsii -- pure JavaScript in-memory full text search
+* "node-search":https://github.com/talltyler/node-search -- pure JavaScript full text search
