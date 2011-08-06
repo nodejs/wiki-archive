@@ -1227,6 +1227,8 @@ h2(#coffee-script). "CoffeeScript modules":#coffee-script
 * "NodeBase":https://github.com/dotmaster/NodeBase -- A node base class for JavaScript and Coffeescript (logging, options, defaults and EventEmitter)
 * "zappa":https://github.com/mauricemach/zappa -- Not your mom's node framework.
 
+<a name="wiki-search"></a>
+
 h2(#search). "Full text search":#search
 
 * "reds":https://github.com/visionmedia/reds -- light-weight & abstract (~300LOC) redis backed full text search
