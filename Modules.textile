@@ -1185,6 +1185,7 @@ h3(#other). "Other":#other
 * "typecheck":https://github.com/schrodingerz-kitten/typecheck -- A type checker for JavaScript
 * "JSPP":https://github.com/schrodingerz-kitten/jspp -- A preprocessor for JavaScript
 * "node-serialport":https://github.com/voodootikigod/node-serialport -- Welcome your robotic javascript overlords. Better yet, program them!
+* "bencode":https://github.com/themasch/node-bencode -- bencode de/encoder for nodejs
 
 
 <a name="wiki-management"></a>
