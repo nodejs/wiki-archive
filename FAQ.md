@@ -20,7 +20,7 @@ The official name of Node is "Node". The unofficial name is "Node.js" to disambi
 
 ### What is the memory limit on a node process?
 
-Currently, by default v8 has a memory limit of 512mb on 32-bit systems, and 1gb on 64-bit systems.  The can be raised by setting --max-old-space-size to a maximum of ~1gb (32-bit) and ~1.7gb (64-bit), but it is recommended that you split your single process into several workers if you are hitting memory limits.
+Currently, by default v8 has a memory limit of 512mb on 32-bit systems, and 1gb on 64-bit systems.  The limit can be raised by setting --max-old-space-size to a maximum of ~1gb (32-bit) and ~1.7gb (64-bit), but it is recommended that you split your single process into several workers if you are hitting memory limits.
 
 ### [Meta] How have release sizes changed over time?
 ![Graph of size in MB vs node release, by dtrejo.com](http://c0848462.cdn.cloudfiles.rackspacecloud.com/c97716dd8e4f943501bfcaadcecfdd75d06407afde.jpg "Graph of size in MB vs node release, by dtrejo.com")
