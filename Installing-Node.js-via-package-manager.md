@@ -17,6 +17,10 @@ Example install:
 
 It installs current stable nodejs on the current stable ubuntu.
 
+If you want to compile nodejs C++ modules:
+
+    sudo apt-get install nodejs-dev
+
 ## On openSUSE BuildService
 [Node.js stable repos list](http://bit.ly/nodejs_repos).
 
