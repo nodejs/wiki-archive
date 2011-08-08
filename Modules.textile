@@ -750,6 +750,7 @@ h4(#parsers-other). "Other Parsers":#parsers-other
 * "marked":https://github.com/chjj/marked - A markdown parser and compiler. Built for speed.
 * "feed-tables":https://github.com/tomvit/Feed-Tables - a lightweight parser for Google Spreadsheet tables available as cells or list atom feeds.
 * "NodePie":https://github.com/andris9/NodePie - Simple RSS/Atom parser for Node.JS
+* "node-musicmetadata":https://github.com/leetreveil/node-musicmetadata - Get music metadata asynchronously from node streams.
 
 <a name="wiki-debugging"></a>
 
