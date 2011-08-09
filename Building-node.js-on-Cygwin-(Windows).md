@@ -142,6 +142,12 @@ and re-run make.
 
 You may also experience this problem when trying to build v0.4.0, try updating your version of gcc (v8 in v0.4.0 requires gcc-4.x to compile).
 
+
+Build failed:  -> src/eio/eio.c:1014: error: storage size ofbuf' isn't known
+----
+See https://github.com/joyent/node/issues/1483
+
+
 cannot find config.h
 ----
 You have to remove the old build files.
