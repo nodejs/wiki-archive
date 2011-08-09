@@ -11,6 +11,7 @@ h2. Projects and Applications
 * "Applifier - Largest social game cross promo network":http://www.applifier.com (reference <a href="http://twitter.com/jussil/status/12048190433918976">http://twitter.com/jussil/status/12048190433918976</a>)
 * "azathoth":http://github.com/orlandov/azathoth -- simple HTTP traffic/load generator and benchmark proof of concept
 * "Backbone Examples Ported From Knockout (WIP)":https://github.com/mgutz/backbone-knockout-examples -- by Mario Gutierrez
+* "BeBeDo":http://bebedo.com - Instant search for local things to do
 * "BirdChat":http://birdch.at/ — Chat with your friends from Twitter
 * "Bittorrent Tracker":https://github.com/anhel/node-bittorrent-tracker - High performance bittorrent tracker by anhel
 * "BKLN":https://github.com/forsurerad/bkln -- URL Shortener based on node.js
