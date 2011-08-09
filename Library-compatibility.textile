@@ -7,8 +7,8 @@ h2. Node v0.5.0-pre
 * "node-socksified v0.0.1":https://github.com/vially/node-socksified
 * "postageapp v0.0.1":https://github.com/postageapp/postageapp-nodejs
 
-h2. Node v0.4.7
-* "websocket-node @ 519f5ba":https://github.com/Worlize/WebSocket-Node/tree/519f5baa10f405d0f6e218bd46dd6a48dc8bb55b
+h2. Node v0.4.10
+* "websocket-node v0.0.9":https://github.com/Worlize/WebSocket-Node
 
 h2. Node v0.4.6
 * "node-imap v0.2.2":https://github.com/mscdex/node-imap/tree/v0.2.2
