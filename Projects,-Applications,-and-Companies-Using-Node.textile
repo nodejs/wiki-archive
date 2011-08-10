@@ -156,6 +156,7 @@ h2. Companies
 * "Erskine Design":http://erskinedesign.com/ -- Real(ish)-time SNMP monitoring dashboard using websockets
 * "e-resistible":http://www.e-resistible.co.uk - uses node to handle network communication to restaurant printers
 * "Fictorial":http://fictorial.com
+* "Forward": Real-time mapping and click-tracking
 * "Fostle":http://fostle.com/
 * "Ge.tt":http://ge.tt Kick ass file sharing service - (oh and it's real time)
 * "GoodData":http://www.gooddata.com Metric-driven analytics SAAS BI - the Way It Should Be
