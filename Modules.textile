@@ -880,6 +880,7 @@ h3(#api-clients). "API clients":#api-clients
 * "madmimi-node":https://github.com/garrensmith/Madmimi-node -- Client library for the MadMimi email api [[http://www.madmimi.com]].
 * "node-mixpanel-api":https://github.com/campfirelabs/node-mixpanel-api -- A simple client for the Mixpanel Data API (not event tracking! see above)
 * "node-apn":https://github.com/argon/node-apn -- A library to send messages using the Apple Push Notification Service.
+* "node-armory":https://github.com/xtian/node-armory -- A simple wrapper around Blizzard's REST API for World of Warcraft.
 * "node-c2dm":https://github.com/SpeCT/node-c2dm -- A library to send messages using the Android Cloud to Device Messaging (C2DM) service.
 * "node-bitly":https://github.com/tanepiper/node-bitly -- A bit.ly API library for node.js - provides URL shortening/expanding.  Features full API.
 * "node-cloudfiles":https://github.com/nodejitsu/node-cloudfiles -- A client implementation for Rackspace CloudFiles in node.js
