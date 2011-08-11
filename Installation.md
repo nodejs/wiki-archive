@@ -52,7 +52,7 @@ You can also install node from packages: [[Installing Node.js via package manage
 ## Step 3b - Building on Windows
 
 **Pre-built binaries**
-Windows Build(Node v0.5.1): http://nodejs.org/dist/v0.5.1/node.exe
+Windows Build(Node v0.5.3): http://nodejs.org/dist/v0.5.3/node.exe
 Self-contained binaries are available at [node-js.prcn.co.cc](http://node-js.prcn.co.cc/)
 
 **Building from source**
