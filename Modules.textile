@@ -336,6 +336,7 @@ h3(#database). "Database":#database
 ** "hive":https://github.com/Pollenware/hive -- Fast in memory store for Node.
 <a name="wiki-templating"></a>
 ** "nocr-mongo":https://github.com/karacos/nocr-mongo -- "NoCR":https://github.com/NoCR/NoCR implementation for mongoDB
+** "searchjs":https://github.com/deitch/searchjs -- Library for doing easy native JSON SQL-style querying on JS objects/arrays. Implements JSQL, native JSON query language. 
 
 h3(#templating). "Templating":#templating
 * "asyncEJS":https://github.com/cramforce/node-asyncEJS -- Asynchronous implementation of embedded JavaScript
