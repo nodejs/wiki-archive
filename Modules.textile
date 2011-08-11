@@ -353,6 +353,7 @@ h3(#templating). "Templating":#templating
 * "jqtpl":https://github.com/kof/node-jqtpl -- A port of the new jQuery template engine. "Express":http://expressjs.com compliant
 * "Jade":https://github.com/visionmedia/jade -- Haml-like template engine, fantastic error reporting, easier to read, higher performance. "Express":http://expressjs.com compliant
 * "jazz":https://github.com/shinetech/jazz -- A readable template language for node.
+* "JinJS":http://code.ravelsoft.com/node-jinjs -- A port of Jinja to Javascript
 * "JSON Template":https://github.com/andychu/json-template -- Minimal but powerful template language with multiple implementations.  This is the CommonJS version, tested on Node
 * "jm":https://github.com/smtlaissezfaire/jm -- Another Builder/Markaby/Erectory clone in JavaScript.
 * "jsdom":https://github.com/tmpvar/jsdom -- pure js implementation of the dom level 1 with some browser augmentation. Level 2 and 3 are being considered.
