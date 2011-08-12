@@ -57,6 +57,6 @@ Using [macports](http://www.macports.org/):
 ## Windows
  Note: Windows builds are not yet satisfactorily stable but it is possible to get something running.  
   
-Using [chocolatey](https://github.com/ferventcoder/chocolatey/wiki):  
+Using [chocolatey](https://github.com/chocolatey/chocolatey/wiki):  
 
     cinst nodejs  
