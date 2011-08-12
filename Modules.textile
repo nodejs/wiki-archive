@@ -112,6 +112,7 @@ h4(#web-frameworks-micro). "Microframeworks":#web-frameworks-micro
 * "Pipe-Layer":http://cgit.voodoowarez.com/pipe-layer/ -- Asynchronous HTTP router.
 * "frank":https://github.com/mvrilo/frank -- yet another sinatra-like microframework for node
 * "webservice.js":https://github.com/Marak/webservice.js -- turn node.js modules into RESTFul web-services
+* "zappa":https://github.com/mauricemach/zappa -- CoffeeScript minimalist interface to express, socket.io and others.
 * "jqNode":https://github.com/pradeek/jqNode -- Simple jQuery-esque API for small projects.
 
 
@@ -1236,7 +1237,6 @@ h2(#coffee-script). "CoffeeScript modules":#coffee-script
 * "coffeemate":https://github.com/kadirpekel/coffeemate -- the coffee creamer! Push coffeescript into web development.
 * "simple-geoip":https://github.com/dvv/simple-geoip -- Simple _native_ maxmind GeoIP lookup. 4-6 times faster than node-maxmind-native. See wiki for details. Compiled database of countries "geo.json":https://github.com/dvv/simple-geoip/raw/master/geo.json is available
 * "NodeBase":https://github.com/dotmaster/NodeBase -- A node base class for JavaScript and Coffeescript (logging, options, defaults and EventEmitter)
-* "zappa":https://github.com/mauricemach/zappa -- Not your mom's node framework.
 
 <a name="wiki-search"></a>
 
