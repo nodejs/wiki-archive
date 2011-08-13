@@ -5,7 +5,7 @@
 Node should install out of the box on Linux, Macintosh, and Solaris.
 
 With some effort you should be able to get it running on other Unix
-platforms and Windows (either via Cygwin or MinGW). Native Windows support is a work-in-progress and you can download the latest release: [Windows Build (Node v0.5.3)](http://nodejs.org/dist/v0.5.3/node.exe). It's unstable and things are expected to break. NPM support might be added in future. If you find any bugs, please report them to issue tracker.
+platforms and Windows (either via Cygwin or MinGW). Native Windows support is a work-in-progress and you can download the latest release: [Windows Build (Node v0.5.4)](http://nodejs.org/dist/v0.5.4/node.exe). It's unstable and things are expected to break. NPM support might be added in future. If you find any bugs, please report them to issue tracker.
 
 Mac OSX users also have the option of installing a precompiled package from [here](https://sites.google.com/site/nodejsmacosx/) that includes npm.
 
@@ -52,7 +52,7 @@ You can also install node from packages: [[Installing Node.js via package manage
 ## Step 3b - Building on Windows
 
 **Pre-built binaries**
-Windows Build(Node v0.5.3): http://nodejs.org/dist/v0.5.3/node.exe
+Windows Build(Node v0.5.4): http://nodejs.org/dist/v0.5.4/node.exe
 Self-contained binaries are available at [node-js.prcn.co.cc](http://node-js.prcn.co.cc/)
 
 **Building from source**
