@@ -55,6 +55,7 @@ h2. Projects and Applications
 * "JSONPify":http://jsonpify.com/ - a JSONP proxy for client applications
 * "Junkyard Jumbotron":https://github.com/c4fcm/Junkyard-Jumbotron - Take a bunch of random displays and stitch them together into a large, virtual display. 
 * "KansoJS":http://kansojs.org - A surprisingly simple way to write CouchApps, by making use of the design_doc api in the browser
+* "Kraken.io":http://kraken.io - Online image optimization tool.
 * "LifeInText":http://github.com/weilawei/LifeInText -- LiT is a mashup platform for personal projects and snippets.
 * "Loggly":http://loggly.com/ — Webservice for receiving syslog and HTTP based logs.
 * "Manifest Validator":http://manifest-validator.com - Check cache manifest files for web application offline storage
