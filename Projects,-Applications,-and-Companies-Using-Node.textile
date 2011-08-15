@@ -87,6 +87,7 @@ h2. Projects and Applications
 * "paperserve":http://github.com/StanAngeloff/node-paperserve -- Quick and dirty web server from your working directory
 * "pdfkit":http://devongovett.github.com/pdfkit/ - a powerful PDF generation library for Node
 * "Persevere":http://www.persvr.org/ - REST/HTTP + JSON-based web data project that includes "Pintura":http://github.com/kriszyp/pintura, "Perstore":http://github.com/kriszyp/perstore, "CommonJS-Utils":http://github.com/kriszyp/commonjs-utils
+* "pipej.js":https://pipejs.com/ - A Cloud JavaScript Loader,
 * "polyfill.js":https://github.com/kbjr/polyfill.js - A JavaScript polyfill framework
 * "pubsub.io":http://pubsub.io — a realtime message hub that routes messages using queries
 * "Rate My Apple Store":http://ratemyapplestore.com - Using social media tool to find the shortest Apple Store lineup.
