@@ -411,6 +411,7 @@ h3(#content-management). "Content Management Systems":#content-management
 <a name="wiki-build-and-deployment"></a>
 
 h3(#build-and-deployment). "Build and Deployment":#build-and-deployment
+* "asereje":https://github.com/masylum/asereje -- Bundles and minifies your javascript and css files on demand. Forget about builds, hard deploys and cache forever.
 * "dev":https://github.com/iliakan/node-dev -- Automatically restarts the app when a source-file is modified. Autohooks on new files, so it doesn't need manual restart at all.
 * "forever":https://github.com/indexzero/forever -- A simple CLI tool for ensuring that a given script runs continuously (i.e. forever)
 * "haibu":https://github.com/nodejitsu/haibu -- a node.js application server - spawn your own node.js clouds, on your own hardware
@@ -1008,7 +1009,7 @@ h3(#i18n). "I18n and L10n modules":#i18n
 
 h3(#boilerplates). "Boilerplates":#boilerplates
 * "node-boilerplate":https://github.com/robrighter/node-boilerplate -- Everything you need to get started on a Node.js website with express and socket.IO
-* "transsiberian":https://github.com/masylum/transsiberian -- nodejs boilerplate built upon Express and Mongolia
+* "transsiberian":https://github.com/masylum/transsiberian -- [outdated] nodejs boilerplate built upon Express and Mongolia
 * "NodeBase":https://github.com/dotmaster/NodeBase -- A node base class for JavaScript and CoffeeScript (logging, options, defaults and EventEmitter)
 * "infigo-node-boilerplate":https://github.com/jerryjj/infigo-node-boilerplate -- nodejs boilerplate built upon Express, db-mysql/db-drizzle/Mongoose and includes user authentication and group+role authorization system.
 
