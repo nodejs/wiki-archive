@@ -1231,6 +1231,7 @@ h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":
 * "schema.js":https://github.com/akidee/schema.js -- Sophisticated JSON schema based data validation and adaptation
 * "underscore":http://documentcloud.github.com/underscore/ -- Unobtrusive functional programming utility library.
 * "wu.js":http://fitzgen.github.com/wu.js/ -- A lazy, functional JavaScript library that ain't nuthin' ta f*ck wit.
+* "tumblrBackupCoffee":https://github.com/sjerrys/tumblrBackupCoffee -- A tumblr (images|posts)backup tool with mongodb
 
 h2(#project-generators). "Project Generators":#project-generators
 
