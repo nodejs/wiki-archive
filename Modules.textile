@@ -1253,3 +1253,4 @@ h2(#search). "Full text search":#search
 * "reds":https://github.com/visionmedia/reds -- light-weight & abstract (~300LOC) redis backed full text search
 * "jsii":https://github.com/karussell/jsii -- pure JavaScript in-memory full text search
 * "node-search":https://github.com/talltyler/node-search -- pure JavaScript full text search
+* "node-clucene":https://github.com/erictj/node-clucene -- CLucene, a C++ based port of Lucene, all wrapped up in a node module for lightning-fast indexing and searching
