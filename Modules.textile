@@ -573,7 +573,7 @@ h3(#ws-ajax). "Web Sockets & Ajax":#ws-ajax
 * "wave-node":https://github.com/scottbw/wave-node -- An implementation of the Google Wave Gadget API for node.js
 * "node-object-sync":https://github.com/jonashuckestein/node-object-sync -- Transparently synchronize objects across connected clients
 * "easywebsocket":https://github.com/jeromeetienne/EasyWebsocket -- WebSocket to broadcast messages to webpages
-* "websocket-node":https://github.com/Worlize/WebSocket-Node -- A WebSocket library that tracks the latest protocol draft versions released by the IETF HyBi working group, currently draft-09.  Experimental.  Mainstream browsers do not yet support this draft of the protocol.
+* "websocket-node":https://github.com/Worlize/WebSocket-Node -- A WebSocket library that tracks the latest protocol draft versions released by the IETF HyBi working group, currently protocol version 8 (draft -08, -09, and -10).  Mainstream browsers do not yet support this draft of the protocol.
 * "Beseda":https://github.com/geometria-lab/Beseda -- Fast, well designed and featured Node.js Pub/Sub server. Beseda offers multiple platform API to develop realtime web applications.
 
 <a name="wiki-message-queue"></a>
