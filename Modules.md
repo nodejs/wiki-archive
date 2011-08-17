@@ -1148,6 +1148,7 @@ h3(#other). "Other":#other
 * "NormAndVal":https://github.com/roberthahn/NormAndVal -- Data normalization and validation for Node.js and the browser
 * "nshtools":https://github.com/rsdoiel/nshtools -- a high level shell scripting library for file and operating system chores
 * "odot":https://github.com/tsmith/odot - persistent, code reloading, interactive object space
+* "readabilitySAX":https://github.com/fb55/readabilitySAX - the readability algorithm ported to sax.js, high performant
 * "redmark":https://github.com/benjisg/redmark - A per-job rate limited work queue
 * "require-analyzer":https://github.com/nodejitsu/require-analyzer -- Determine the set of requirements for a given node.js file, directory tree, or module
 * "sh.js":http://shjs.tuton.fr -- library for Unix shell scripting, replace Bash scripts with JavaScript
