@@ -143,6 +143,7 @@ h2. Companies
 * "Bocoup":http://bocoup.com
 * "BrandedCode":http://brandedcode.com
 * "Caffeinehit":http://caffeinehit.com
+* "Chomp":http://chomp.com - mobile application search, uses node for components of the production backend
 * "Chompin":http://chompin.com - discover new music, mobile app, uses node for the entire back end api
 * "clickdummy":http://clickdummy.net - Fast prototyping for designers and dummies
 * "cloudnode":http://cloudno.de/ -- NodeJS hosting and CouchDB hosting based on Nodester and CouchDB.
