@@ -22,7 +22,7 @@
 
 * Upgrade V8 to 3.5.4.
 
-## 2011.08.01, Version 0.5.3 (unstable)
+## 2011.08.01, Version 0.5.3 (unstable), 4585330afef44ddfb6a4054bd9b0f190b352628b
 
 * Fix crypto encryption/decryption with Base64. (SAWADA Tadashi)
 
@@ -62,7 +62,7 @@
 
 * doc improvements
 
-## 2011.07.22, Version 0.5.2 (unstable)
+## 2011.07.22, Version 0.5.2 (unstable), 08ffce1a00dde1199174b390a64a90b60768ddf5
 
 * libuv improvements; named pipe support
 
@@ -161,7 +161,32 @@
 
 * DTrace probes: support X-Forwarded-For (Dave Pacheco)
 
-## 2011.07.19, Version 0.4.10 (stable)
+## 2011.08.17, Version 0.4.11 (stable)
+
+* \#738 Fix crypto encryption/decryption with Base64. (SAWADA Tadashi)
+
+* \#1202 net.createConnection defer DNS lookup error events to next tick
+  (Ben Noordhuis)
+
+* \#1374 fix setting ServerResponse.statusCode in writeHead (Trent Mick)
+
+* \#1417 Fix http.ClientRequest crashes if end() was called twice
+
+* \#1497 querystring: Replace 'in' test with 'hasOwnProperty' (isaacs)
+
+* \#1546 http perf improvement
+
+* fix memleak in libeio (Tom Hughes)
+
+* cmake improvements (Tom Hughes)
+
+* node_net.cc: fix incorrect sizeof() (Tom Hughes)
+
+* Windows/cygwin: no more GetConsoleTitleW errors on XP (Bert Belder)
+
+* Doc improvments (koichik, Logan Smyth, Ben Noordhuis, Arnout Kazemier)
+
+## 2011.07.19, Version 0.4.10 (stable), 1b8dd65d6e3b82b6863ef38835cc436c5d30c1d5
 
 * \#394 Fix Buffer drops last null character in UTF-8
 
@@ -220,7 +245,7 @@
 
 * Upgrade V8 to 3.1.8.25, upgrade http-parser.
 
-## 2011.05.20, Version 0.4.8 (stable)
+## 2011.05.20, Version 0.4.8 (stable), 7dd22c26e4365698dc3efddf138c4d399cb912c8
 
 * \#974 Properly report traceless errors (isaacs)
 
