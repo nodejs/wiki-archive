@@ -1066,6 +1066,7 @@ h3(#other). "Other":#other
 * "imdb":https://github.com/mendelbenjamin/node-imdb -- Loops a dir and returns the IMDB ranking + genre of each movie
 * "IRC-js":https://github.com/gf3/IRC-js -- An IRC library for node.js 
 * "ip2cc":https://github.com/eagereyes/node-ip2cc -- Efficiently convert IP addresses to two-letter country codes
+* "ipv6":https://github.com/beaugunderson/javascript-ipv6 -- Parse, validate, and manipulate IPv6 (and v4) addresses
 * "ircbot":https://github.com/draggor/node-ircbot -- An IRC bot with plugin support
 * "Jefe":https://github.com/fictorial/jefe -- Jefe is a safe sandbox for running user scripts in Node.js
 * "Jerk":https://github.com/gf3/Jerk -- A fun little IRC bot library for node.js.
