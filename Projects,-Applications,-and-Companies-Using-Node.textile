@@ -224,6 +224,7 @@ h2. Companies
 * "Telefónica R&D":http://tid.es
 * "Thinkfuse":http://www.thinkfuse.com
 * "TRData Limited":https://trdata.com - real-time data processing and comet-server
+* "Trellon":https://trellon.com - making node.js work with Drupal
 * "URGE IO":http://urge.io
 * "Votizen":http://votizen.com -- Social lobbying for registered voters.
 * "Voxer":http://voxer.com -- Walkie Talkie for your iOS device, backend uses all kinds of node
