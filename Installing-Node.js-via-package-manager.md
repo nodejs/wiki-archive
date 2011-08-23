@@ -32,14 +32,9 @@ Example install on openSUSE 11.4:
     sudo zypper in nodejs nodejs-devel
 
 ## Arch Linux
-Node.js is available in the Community Repository and npm is available in the [AUR](http://aur.archlinux.org/packages.php?ID=50495).
+Node.js is available in the Community Repository.
 
-Using an AUR tool([packer](https://aur.archlinux.org/packages.php?ID=33378) or [yaourt](http://aur.archlinux.org/packages.php?ID=5863)) to install:
-
-    yaourt -S nodejs
-    yaourt -S nodejs-npm
-
-Or grab the [PKGBUILD](http://www.archlinux.org/packages/?sort=&q=nodejs) and build it yourself using [makepkg](https://wiki.archlinux.org/index.php/Makepkg#Usage)
+    pacman -S nodejs
 
 ## OSX
 Using [a package](https://sites.google.com/site/nodejsmacosx)
