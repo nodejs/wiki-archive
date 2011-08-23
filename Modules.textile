@@ -294,6 +294,7 @@ h3(#database). "Database":#database
 *** "redis2json":https://github.com/igo/redis2json/ -- Easily loads data from Redis into structured JS object
 *** "nohm":https://github.com/maritz/nohm -- Redis object relational mapper (ORM)
 ** "CouchDB":#db-nosql-couch
+*** "node-couchdb-api":http://dominicbarnes.us/node-couchdb-api/ -- An easy-to-use and powerful wrapper for the CouchDB API that follows Node.JS conventions for async code.
 *** "LazyBoy":http://garrensmith.com/LazyBoy -- a CouchDB ORM thats easy to use 
 *** "node-couch":https://github.com/sixtus/node-couch/tree/master -- a CouchDB connector
 *** "-node-couchdb-":https://github.com/felixge/node-couchdb -- -A full API implementation- [obsolete]
