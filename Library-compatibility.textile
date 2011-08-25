@@ -143,7 +143,6 @@ h2. Node v0.2.1
 * "choreographer v0.2.2a":http://github.com/laughinghan/choreographer
 * "schema.js 0.1a":http://github.com/akidee/schema.js
 * "solder v0.0.1":http://github.com/brettstimmerman/solder
-* "Hash v0.06":http://github.com/michaelsbradleyjr/Hash
 * "node-async-testing v0.3.2":http://github.com/bentomas/node-async-testing
 * "Grasshopper v0.2.4":http://github.com/tuxychandru/grasshopper/tree/0.2.4
 * "node-mysql-libmysqlclient v0.0.9":http://github.com/Sannis/node-mysql-libmysqlclient/tree/v0.0.9
@@ -223,7 +222,6 @@ h2. Node v0.2.0
 * "socket-logger v0.2.0":http://github.com/saikat/socket-logger/
 * "ya-csv v0.1.4":http://github.com/koles/ya-csv/
 * "gzip":http://github.com/waveto/node-compress
-* "Hash v0.06":http://github.com/michaelsbradleyjr/Hash
 * "node-recaptcha 1.0.0":http://github.com/mirhampt/node-recaptcha
 * "node-queue 0.1":http://github.com/pagameba/node-queue/tree/rev-0.1
 * "NodeBase v0.3.0":https://github.com/dotmaster/NodeBase
