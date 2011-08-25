@@ -1047,6 +1047,8 @@ h3(#other). "Other":#other
 * "daemonchk.js":https://github.com/dulac/daemonchk.js/ -- Daemon Monitor (with HTTP interface)
 * "dir2html":https://github.com/mcantelon/node-dir2html -- Render a directory as HTML
 * "dust":https://github.com/pasviegas/dust -- OO way to fill your database with not totally random content
+* "docco":https://github.com/jashkenas/docco -- Docco is a quick-and-dirty, hundred-line-long, literate-programming-style
+documentation generator
 * "dox":https://github.com/visionmedia/dox -- Documentation generator using JSdoc and markdown comments
 * "es5-ext":https://github.com/medikoo/es5-ext -- Low-level JavaScript extensions
 * "express-chat":https://github.com/Tug/express-chat -- A chat application demo for testing node.js + MongoDB scalability
