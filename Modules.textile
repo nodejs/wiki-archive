@@ -477,7 +477,6 @@ h3(#security). "OpenSSL / Crypto / Hashing":#security
 * "pass":https://github.com/andris9/pass -- Validate/generate Apache htpasswd passwords (for Basic Auth)
 * "rbytes":https://github.com/akdubya/rbytes -- Secure random byte generator for session keys, UUIDs, etc.
 * "sasljs":https://github.com/nikhilm/sasljs -- "Gsasl":http://www.gnu.org/software/gsasl/ wrapper to performs server-side SASL authentication.
-* "Hash":https://github.com/michaelsbradleyjr/Hash -- md5, sha1, sha256, sha512, ripemd160 algorithms in JavaScript. Can be used with node.js and browsers.
 * "node-whirlpool":https://github.com/Sembiance/node-whirlpool -- C/C++ mhash lib wrapper providing whirlpool hash support
 * "NodeJS-Keychain":https://github.com/aschlosberg/NodeJS-Keychain -- A security-oriented keychain web service
 * "node_nibbler":https://github.com/mattrobenolt/node_nibbler -- Base32/base64 encoder/decoder.
@@ -982,7 +981,6 @@ h3(#async-flow). "Flow control / Async goodies":#async-flow
 * "noflo":https://github.com/bergie/noflo -- "Flow-Based Programming":http://en.wikipedia.org/wiki/Flow-based_programming system for Node.js
 * "observer":https://github.com/azer/observer -- An alternative observer implementation, for both ss&cs.
 * "poolr":https://github.com/codingforce/poolr -- A lightweight resource pooling/serialization library 
-* "Pulsar":https://github.com/michaelsbradleyjr/Pulsar -- Event emitter abstraction class, allowing reuse of custom-emitter logic across JavaScript environments.
 * "q":https://github.com/kriskowal/q -- Q is a tool for making and composing asynchronous promises in JavaScript.
 * "seq":https://github.com/substack/node-seq -- Chainable asynchronous flow control for node.js with sequential and parallel primitives and pipeline-style error handling
 * "sexy":https://github.com/crabdude/sexy -- Proxy (ES5) for writing sequential asynchronous code in a synchronous style
