@@ -1219,6 +1219,7 @@ h2(#managment). "Node Management Utilities":#management
 
 * "n":https://github.com/visionmedia/n -- node version manager
 * "neco":https://github.com/kuno/neco  -- Nodejs Ecosystem COordinator
+* "iisnode":https://github.com/tjanczuk/iisnode -- hosting node.js applications in IIS on Windows
 
 <a name="wiki-commonjs-compat"></a>
 
