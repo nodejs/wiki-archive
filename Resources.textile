@@ -18,6 +18,7 @@ h2. Articles
 * "Writing for node and the browser":http://caolanmcmahon.com/writing_for_node_and_the_browser.html -- by Caolan McMahon
 * "Writing a Long Polling Event Server with node":https://go-left.com/blog/programming/long-polling-with-node-js/ -- by Frank Schröder
 * "شروع کار با Node":http://blog.nodejs.ir/node/2 -- by Morteza Milani
+* "Hosting node.js applications in IIS on Windows":http://tomasz.janczuk.org/2011/08/hosting-nodejs-applications-in-iis-on.html -- by Tomasz Janczuk
 
 h2. Talks
 * "GoogleTechTalk: Node.js":http://www.youtube.com/watch?v=F6k8lTrAE2g -- by Ryan Dahl (video, 2010-07-28)
