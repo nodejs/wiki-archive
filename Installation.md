@@ -67,6 +67,9 @@ pages.
 Neither builds are satisfactorily stable but it is possible to get
 something running.
 
+**Hosting in IIS on Windows**
+
+It is possible to host node.js application in IIS on Windows using the [iisnode](https://github.com/tjanczuk/iisnode) IIS module. More details available [here](http://tomasz.janczuk.org/2011/08/hosting-nodejs-applications-in-iis-on.html). 
 ## Step 4 - Install NPM
 
 NPM is a package manager that has become the de-facto standard for
