@@ -24,7 +24,7 @@ Node uses an automated test suite run via "make test". To create a new test file
 
 h2. Git commits/patches
 # the first line should be maximum 50 columns
-# the second line should blank
+# the second line should be blank
 # any additional lines should not exceed 80 columns.
 # should have the author field properly filled out with your full
 name and email address.
