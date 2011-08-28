@@ -128,7 +128,7 @@ h4(#web-frameworks-full). "Frameworks":#web-frameworks-full
 * "drty":https://github.com/drtyhbo/drty -- A Django port to NodeJS. Many Django features, still under heavy development. (January, 2011, 0.2.6)
 * "Express":https://github.com/visionmedia/express/tree/master -- A robust feature rich web development framework **inspired by Sinatra**
 * "Sayndo":https://github.com/zyndiecate/sayndo/tree/master -- Fast and flexible web server with customized routing and authorization
-* "N-Ext":https://github.com/xcambar/n-ext -- Ext.core, Ext.util and Ext.data packages in your NodeJS apps (includes a MongoDB proxy based on node-mongodb-native:https://github.com/xcambar/n-ext/node-mongodb-native)
+* "N-Ext":https://github.com/xcambar/n-ext -- Ext.core, Ext.util and Ext.data packages in your NodeJS apps (includes a MongoDB proxy based on "node-mongodb-native":https://github.com/xcambar/n-ext/node-mongodb-native)
 * "Ext Core for NodeJS":https://github.com/mycoding/Ext-Core-for-NodeJS -- Templating and some basic tricks of ExtCore and ExtJS(XTemplate,Ext.util.format)
 * "Grasshopper":https://github.com/tuxychandru/grasshopper/tree/master -- A feature-rich and flexible MVC framework for web applications and services, with integrated **dependency injection**.
 * "Geddy":https://github.com/mde/geddy/tree/master -- A hackable Web-app development framework similar to Merb/Rails/Pylons/Django
@@ -277,7 +277,7 @@ h3(#database). "Database":#database
 **** "node-mongoskin":https://github.com/guileen/node-mongoskin -- A future layer for node-mongodb-native.
 **** "node-mongodb-wrapper":https://github.com/idottv/node-mongodb-wrapper -- As close as possible to the command-line driver. Uses node-mongodb-native.
 **** "mongode":https://github.com/milewise/mongode -- Very thin wrapper around node-mongodb-native that simplifies the API a bit.
-**** "N-Ext":https://github.com/xcambar/n-ext -- Use Ext.data packages in your NodeJS apps (includes a MongoDB proxy based on node-mongodb-native:https://github.com/xcambar/n-ext/node-mongodb-native)
+**** "N-Ext":https://github.com/xcambar/n-ext -- Use Ext.data packages in your NodeJS apps (includes a MongoDB proxy based on "node-mongodb-native":https://github.com/xcambar/n-ext/node-mongodb-native)
 *** "node-mongolian":https://github.com/marcello3d/node-mongolian -- Mongolian DeadBeef is an awesome Mongo DB node.js driver that attempts to closely approximate the mongodb shell
 *** "mongoq":https://github.com/zzdhidden/mongoq -- Use mongoDB like this: db('testdb').collection('users').find(function(err, cursor){}).
 *** "mongolia":https://github.com/masylum/mongolia -- Flexible wrapper for the nodejs Mongo driver. Lighter than a ORM but easier to use than the driver.
@@ -602,7 +602,7 @@ h3(#class-system). "Class systems":#class-system
 * "comb":https://github.com/Pollenware/comb -- Library with a built in OO class system, and other features(datastructures, array string and date utilities, etc..).
 * "JS.Class":https://github.com/daffl/JS.Class -- A class framework based on John Resig's Simple JavaScript inheritance and JavaScriptMVC $.Class.
 * "Structr":https://github.com/spiceapps/structr -- Library built to give JavaScript the same look and feel as other popular languages such as Java. 
-* "N-Ext":https://github.com/xcambar/n-ext -- Use the power of the Ext.data packages (from the ExtJS framework) in your NodeJS apps. Includes a MongoDB proxy based on node-mongodb-native:https://github.com/xcambar/n-ext/node-mongodb-native)
+* "N-Ext":https://github.com/xcambar/n-ext -- Use the power of the Ext.data packages (from the ExtJS framework) in your NodeJS apps. Includes a MongoDB proxy based on "node-mongodb-native":https://github.com/xcambar/n-ext/node-mongodb-native)
 
 <a name="wiki-testing"></a>
 
