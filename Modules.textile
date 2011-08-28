@@ -796,6 +796,7 @@ h3(#debugging). "Debugging / Console Utilities":#debugging
 * "logly":https://github.com/tristanls/logly -- A minimal logging utility to support verbose and debug modes
 * "nlogger":https://github.com/igo/nlogger -- Logging lib that can print also module names and line numbers, optionally in color
 * "monitor":https://github.com/lorenwest/node-monitor -- Runtime monitoring for node.js applications - npm install monitor
+* "Node-JavaScript-Preprocessor":git://github.com/mcoolin/Node-JavaScript-Preprocessor.git -- Preprocessor for javascript
 * "node-prompt":https://github.com/jesusabdullah/node-prompt -- Prompt the user for questions in cli!
 * "node-streamlogger":https://github.com/andrewvc/node-streamlogger -- Extensively customizable logging, with support for rotation
 * "node_debug":https://github.com/Connorhd/node_debug/tree/master -- HTTP based console and object explorer
