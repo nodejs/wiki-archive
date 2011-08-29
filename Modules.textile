@@ -186,7 +186,6 @@ h4(#middleware). "Middleware":#middleware
 ** "cookie-sessions":https://github.com/caolan/cookie-sessions -- Secure cookie-based session store
 ** "dispatch":https://github.com/caolan/dispatch -- Regular expression URL dispatcher
 ** "form2json":https://github.com/fgnass/form2json -- Decoder for form-urlencoded data that supports arrays of nested objects
-** "formaline":https://github.com/rootslab/formaline - full-featured module for handling form POSTs/PUTs and fast parsing of file uploads, it is also ready for use with middlewares like connect .
 ** "monomi":https://github.com/jamesgpearce/monomi/ -- Provides tools for handling tablet, touch, and mobile browsers
 ** "node-facebook-session-cookie":https://github.com/jonashuckestein/node-facebook-session-cookie -- eats facebook cookies from client FB.login() and makes the session available as req.fb_session
 ** "quip":https://github.com/caolan/quip -- Chainable HTTP response API  
@@ -766,6 +765,7 @@ h4(#parsers-other). "Other Parsers":#parsers-other
 * "memcache-parser":https://github.com/billywhizz/node-memcache-parser - Memcached binary protocol parser
 * "fastcgi-parser":https://github.com/billywhizz/node-fastcgi-parser - FastCGI protocol parser and Writer
 * "node-formidable":https://github.com/felixge/node-formidable - A node.js module for parsing form data, especially file uploads.
+* "formaline":https://github.com/rootslab/formaline - full-featured module for handling form POSTs/PUTs and fast parsing of file uploads, it speaks JSON and it is also ready for use with middlewares like connect.
 * "CSSOM":https://github.com/NV/CSSOM - CSS parser and CSS Object Model implementation.
 * "glossy":https://github.com/squeeks/glossy - Syslog message parser and producer
 * "UglifyJS":https://github.com/mishoo/UglifyJS - JavaScript parser and compressor/beautifier
