@@ -31,6 +31,9 @@ Example install on openSUSE 11.4:
     sudo zypper ar http://download.opensuse.org/repositories/home:/SannisDev/openSUSE_11.4/ SannisDevBuildService 
     sudo zypper in nodejs nodejs-devel
 
+## Fedora
+Sadly, Fedora does not yet provide a package for Node.js, but it is under review https://bugzilla.redhat.com/show_bug.cgi?id=732552 
+
 ## Arch Linux
 Node.js is available in the Community Repository.
 
