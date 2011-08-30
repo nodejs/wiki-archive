@@ -139,7 +139,8 @@ h4(#web-frameworks-full). "Frameworks":#web-frameworks-full
 * "PieJS":https://github.com/fakewaffle/piejs -- A rapid development MVC framework. Inspired and similar in style/convention to CakePHP. In very active development.
 * "RailwayJS":https://github.com/1602/express-on-railway -- An MVC web framework, similar to **Ruby on Rails**, Express/Connect-compatible. Also see "here (en)":http://railwayjs.com and "here (jp)":http://railwayjs.jp
 * "josi":https://github.com/thatismatt/josi -- An MVC web framework that's easy to pick up but doesn't get in the way. Also see "here":http://thatismatt.github.com/josi/.
-* "Meryl":https://github.com/coffeemate/meryl -- Minimalist web framework! See "wiki":http://github.com/coffeemate/meryl/wiki
+* "Meryl":https://github.com/kadirpekel/meryl -- Minimalist web framework! See "wiki":http://github.com/kadirpekel/meryl/wiki
+* "Coffeemate":https://github.com/kadirpekel/coffeemate -- Push coffee-script into web development!
 * "nodemachine":https://github.com/tautologistics/nodemachine -- A port of WebMachine to Node.js
 * "nodepress":https://github.com/zir/nodepress -- High-level web framework for nodejs, can be used as a blog by default
 * "pintura":https://github.com/kriszyp/pintura -- REST-based web framework/"middleware":https://github.com/kriszyp/pintura/tree/master/lib/jsgi/ stack built for Ajax-style "JSON-driven applications":http://www.sitepen.com/blog/2010/01/22/introducing-pintura/.
