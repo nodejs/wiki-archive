@@ -915,6 +915,7 @@ h3(#api-clients). "API clients":#api-clients
 * "node-googleanalytics":https://github.com/ncb000gt/node-googleanalytics -- Google Analytics GData export library
 * "node-googlemaps":https://github.com/moshen/node-googlemaps -- A wrapper for the Google Maps API
 * "node-loggly":https://github.com/nodejitsu/node-loggly --A client implementation for Loggly in node.js
+* "node-mailgun":https://github.com/shz/node-mailgun -- Client library for MailGun
 * "node-ostatus":https://github.com/eschnou/node-ostatus -- An implementation of the OStatus protocol (Webfinger, Push, Hcard, Salmon, etc.)
 * "node-posterous":https://github.com/andzdroid/node-posterous -- Library for the Posterous API
 * "node-prowl":https://github.com/mape/node-prowl -- A module that allows you to send push notifications to your iPhone through the Prowl API
