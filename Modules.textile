@@ -179,6 +179,7 @@ h4(#middleware). "Middleware":#middleware
 <a name="wiki-middleware-connect"></a>
 * "Connect":#middleware-connect
 ** "connect-assetmanager":https://github.com/mape/connect-assetmanager - Asset manager for Connect for handling CSS/JS files
+** "connect-assets":https://github.com/TrevorBurnham/connect-assets - Compiled CSS/JS asset pipeline inspired by Rails 3.1
 ** "connect-force-domain":https://github.com/shapeshed/connect-force-domain -- force all visitors onto a single domain
 ** "connect-rpx":https://github.com/xrd/connect-rpx - Use RPX with Node.js and Connect
 ** "connect_facebook":https://github.com/rsms/connect_facebook - Facebook session support for Connect
