@@ -1219,7 +1219,7 @@ documentation generator
 * "JSPP":https://github.com/schrodingerz-kitten/jspp -- A preprocessor for JavaScript
 * "node-serialport":https://github.com/voodootikigod/node-serialport -- Welcome your robotic javascript overlords. Better yet, program them!
 * "bencode":https://github.com/themasch/node-bencode -- bencode de/encoder for nodejs
-
+* "mogile":https://github.com/headzoo/node-mogile -- A MogileFS client for node.js
 
 <a name="wiki-management"></a>
 
