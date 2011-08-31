@@ -147,8 +147,8 @@ h2. Companies
 * "Chompin":http://chompin.com - discover new music, mobile app, uses node for the entire back end api
 * "clickdummy":http://clickdummy.net - Fast prototyping for designers and dummies
 * "cloudnode":http://cloudno.de/ -- NodeJS hosting and CouchDB hosting based on Nodester and CouchDB.
-* "Comvel GmbH":http://www.weg.de -- One of the biggest travelsites in Germany
 * "computeruniverse":http://www.computeruniverse.net -- online shop for computers, notebooks, home entertainment and much more
+* "Comvel GmbH":http://www.weg.de -- One of the biggest travelsites in Germany
 * "Conceited Software":http://conceited.net -- independent development studio focused on creating highly usable software for Mac, iOS, and the web
 * "Datagraph":http://datagraph.org/ - uses node as part of a sharded large-scale RDF storage system.
 * "Debuggable":http://debuggable.com/ -- Creators of "Transloadit":http://transloadit.com/ (image / video uploading and encoding as a service), also offers node.js training and consulting.
