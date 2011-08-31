@@ -1,6 +1,6 @@
 ## Core
 
-Node is an open source project run by Joyent. Joyent employs both Ryan Dahl (ryah_) and Isaac Schlueter (isaacs). 
+Node is an open source project run by Joyent. Joyent employs both Ryan Dahl (ry) and Isaac Schlueter (isaacs). 
 
 Currently all changes to the Node repository are approved by Ryan. 
 
@@ -9,15 +9,12 @@ Statements about the direction and progress on the Node project are made in a qu
 * [2010 Q4](http://permalink.gmane.org/gmane.comp.lang.javascript.nodejs/14462)
 
 
-## Community Leaders
-
-There are a number of people who are very involved with development and generally familiar with what is happening:
+## Core Team
 
 * Bert Belder (piscisaureus)
-* Tim Caswell (creationix)
-* TJ Holowaychuk (tjholowaychuk)
+* Ryan Dahl (ry)
 * Felix Geisendoerfer (felixge) 
+* Koichi Kobayashi (koichik)
+* Ben Noordhuis (bnoordhuis)
 * Paul Querna (pquerna)
-* Matt Ranney (mjr_)
-* Mikeal Rogers (mikeal)
-* Micheil Smith (micheil / miksago)
+* Isaac Schlueter (isaacs)
