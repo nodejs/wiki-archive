@@ -150,6 +150,7 @@ h2. Companies
 * "computeruniverse":http://www.computeruniverse.net -- online shop for computers, notebooks, home entertainment and much more
 * "Comvel GmbH":http://www.weg.de -- One of the biggest travelsites in Germany
 * "Conceited Software":http://conceited.net -- independent development studio focused on creating highly usable software for Mac, iOS, and the web
+* "D Sharp":http://dsharpdiabetes.com -- uses NodeJS to power their mobile web application for diabetes management
 * "Datagraph":http://datagraph.org/ - uses node as part of a sharded large-scale RDF storage system.
 * "Debuggable":http://debuggable.com/ -- Creators of "Transloadit":http://transloadit.com/ (image / video uploading and encoding as a service), also offers node.js training and consulting.
 * "Deco":http://www.on-deco.com - Real-time collaborative mood boarding for web designers
