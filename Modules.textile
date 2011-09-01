@@ -507,6 +507,7 @@ h3(#tcp). "TCP / IP":#tcp
 * "node-imap":https://github.com/mscdex/node-imap -- A module for interacting with IMAP mail servers
 * "jsftp":https://github.com/sergi/jsftp -- A sane, light and concise client implementation of the FTP protocol
 * "node-ftp":https://github.com/mscdex/node-ftp -- An FTP client module for node.js
+* "ftp-get":https://github.com/SaltwaterC/ftp-get -- Simple to use node.js FTP client for downloading remote files
 * "node-nntp":https://github.com/mscdex/node-nntp -- An NNTP (usenet/newsgroups) client module for node.js
 * "NodeFTPd":https://github.com/billywhizz/nodeftpd -- Node FTP Server
 * "node-ftpclient":https://github.com/seanhess/node-ftpclient -- Node FTP Client
