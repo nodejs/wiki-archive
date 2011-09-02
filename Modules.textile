@@ -1034,7 +1034,7 @@ h3(#boilerplates). "Boilerplates":#boilerplates
 <a name="wiki-continuous-integration"></a>
 
 h3(#continuous-integration). "Continuous Integration Tools":#continuous-integration
-* "nestor":https://github.com/cliffano/nestor -- Jenkins NodeJS CLI
+* "nestor":https://github.com/cliffano/nestor -- Jenkins Node.js CLI
 
 <a name="wiki-other"></a>
 
