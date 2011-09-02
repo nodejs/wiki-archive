@@ -537,6 +537,7 @@ h3(#tcp). "TCP / IP":#tcp
 * "http-sync":https://github.com/dhruvbird/http-sync -- Synchronous http(s) client
 * "http-get":https://github.com/SaltwaterC/http-get -- Simple to use node.js HTTP / HTTPS client for downloading remote files. Supports transparent gzip decoding.
 * "portscanner":https://github.com/baalexander/node-portscanner -- An asynchronous port scanner for Node.js
+* "node-https-proxied":https://github.com/milewise/node-https-proxied -- Modified https module that lets you connect to secure proxy servers using the CONNECT method.
 
 h3(#rpc). "RPC":#rpc
 * "rpc-socket":https://github.com/FLYBYME/rpc-socket -- Multi socket support for JSON-RPC NOTE: still under development.
