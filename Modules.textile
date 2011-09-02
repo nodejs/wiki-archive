@@ -553,6 +553,7 @@ h3(#rpc). "RPC":#rpc
 * "node-soap":https://github.com/milewise/node-soap -- SOAP client and service (partial support).
 * "nodejs-light_rpc":https://github.com/romulka/nodejs-light_rpc -- Simple server/client RPC, with minimal dependencies (uuid (can be removed to use simple increment)).
 * "zeromq.node":https://github.com/JustinTulloss/zeromq.node -- 0MQ (zeroMQ) bindings for node.js
+* "node-poplib":https://github.com/ditesh/node-poplib -- POP3 client library for node.js
 
 <a name="wiki-ws-ajax"></a>
 
