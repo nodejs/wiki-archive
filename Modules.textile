@@ -1042,6 +1042,7 @@ h3(#continuous-integration). "Continuous Integration Tools":#continuous-integrat
 
 h3(#other). "Other":#other
 * "audience-meter":https://github.com/rs/audience-meter -- A simple audience meter based on Socket.IO, perfect for live events tracking
+* "regext":https://github.com/kadirpekel/regext -- named capturing groups for javascript regexers!
 * "node-browserify":https://github.com/substack/node-browserify -- Browser-side require() for your node modules and npm packages
 * "behaviors":https://github.com/caolan/behaviors -- A simple way to check a module's exports, useful for 3rd party plugins and extensions
 * "box2dnode":https://github.com/jadell/box2dnode -- Port of the box2d physics simulation library
