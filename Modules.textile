@@ -537,6 +537,7 @@ h3(#tcp). "TCP / IP":#tcp
 * "http-sync":https://github.com/dhruvbird/http-sync -- Synchronous http(s) client
 * "http-get":https://github.com/SaltwaterC/http-get -- Simple to use node.js HTTP / HTTPS client for downloading remote files. Supports transparent gzip decoding.
 * "portscanner":https://github.com/baalexander/node-portscanner -- An asynchronous port scanner for Node.js
+* "node-poplib":https://github.com/ditesh/node-poplib -- POP3 client library for Node.js
 
 h3(#rpc). "RPC":#rpc
 * "rpc-socket":https://github.com/FLYBYME/rpc-socket -- Multi socket support for JSON-RPC NOTE: still under development.
@@ -553,7 +554,6 @@ h3(#rpc). "RPC":#rpc
 * "node-soap":https://github.com/milewise/node-soap -- SOAP client and service (partial support).
 * "nodejs-light_rpc":https://github.com/romulka/nodejs-light_rpc -- Simple server/client RPC, with minimal dependencies (uuid (can be removed to use simple increment)).
 * "zeromq.node":https://github.com/JustinTulloss/zeromq.node -- 0MQ (zeroMQ) bindings for node.js
-* "node-poplib":https://github.com/ditesh/node-poplib -- POP3 client library for node.js
 
 <a name="wiki-ws-ajax"></a>
 
