@@ -178,6 +178,7 @@ h4(#middleware). "Middleware":#middleware
 ** "session":https://github.com/kriszyp/pintura/blob/master/lib/jsgi/session.js - Session manager with pluggable storage handling
 <a name="wiki-middleware-connect"></a>
 * "Connect":#middleware-connect
+** "connect-airbrake":http://github.com/thegoleffect/connect-airbrake -- Airbrake error reporting auto-setup middleware
 ** "connect-assetmanager":https://github.com/mape/connect-assetmanager - Asset manager for Connect for handling CSS/JS files
 ** "connect-assets":https://github.com/TrevorBurnham/connect-assets - Compiled CSS/JS asset pipeline inspired by Rails 3.1
 ** "connect-force-domain":https://github.com/shapeshed/connect-force-domain -- force all visitors onto a single domain
