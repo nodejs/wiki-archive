@@ -352,6 +352,7 @@ h3(#database). "Database":#database
 
 h3(#templating). "Templating":#templating
 * "asyncEJS":https://github.com/cramforce/node-asyncEJS -- Asynchronous implementation of embedded JavaScript
+* "bake":https://github.com/pvorb/node-bake -- Templating engine for static files. Supports "ejs":https://github.com/visionmedia/ejs templates.
 * "bind-js":https://github.com/Xavi-/bind-js -- a simple templating engine for node.js that smiles back.
 * "blue":http://github.com/floby/node-blue -- A streamed template engine. Support for asynchronous loading of partials
 * "CoffeeKup":https://github.com/mauricemach/coffeekup -- Markup as CoffeeScript. Live "demo":http://coffeekup.org.
@@ -758,6 +759,7 @@ h4(#parsers-other). "Other Parsers":#parsers-other
 * "node-strtok":https://github.com/pgriess/node-strtok -- A streaming tokenizer library for binary data
 * "omcc":https://github.com/tristanls/ometa-js-node -- A command line tool for Alessandro Warth's OMetaJS
 * "ometa-js":https://github.com/bmavity/ometa-js , "ometajs":https://github.com/veged/ometa-js -- A JavaScript OMeta implementation
+* "props":https://github.com/pvorb/node-props -- Parse json or yaml from the beginning of text files.
 * "protobuf_for_node":http://code.google.com/p/protobuf-for-node/ -- Protocol buffer parsing and serialization
 * "node-markdown":https://github.com/andris9/node-markdown -- Easy to use Markdown parser
 * "highlight":https://github.com/andris9/highlight -- Code highlighter for Markdown <code> blocks and for automatic language detection
@@ -999,6 +1001,7 @@ h3(#async-flow). "Flow control / Async goodies":#async-flow
 * "observer":https://github.com/azer/observer -- An alternative observer implementation, for both ss&cs.
 * "poolr":https://github.com/codingforce/poolr -- A lightweight resource pooling/serialization library 
 * "q":https://github.com/kriskowal/q -- Q is a tool for making and composing asynchronous promises in JavaScript.
+* "read-files":https://github.com/pvorb/node-read-files -- Asynchronously read a bunch of files and give a callback when reading is complete.
 * "seq":https://github.com/substack/node-seq -- Chainable asynchronous flow control for node.js with sequential and parallel primitives and pipeline-style error handling
 * "sexy":https://github.com/crabdude/sexy -- Proxy (ES5) for writing sequential asynchronous code in a synchronous style
 * "Signals":https://github.com/igo/signals -- Custom Event/Messaging system
@@ -1042,8 +1045,8 @@ h3(#continuous-integration). "Continuous Integration Tools":#continuous-integrat
 <a name="wiki-other"></a>
 
 h3(#other). "Other":#other
+* "append":https://github.com/pvorb/node-append -- Append properties from one object to another.
 * "audience-meter":https://github.com/rs/audience-meter -- A simple audience meter based on Socket.IO, perfect for live events tracking
-* "regext":https://github.com/kadirpekel/regext -- named capturing groups for javascript regexers!
 * "node-browserify":https://github.com/substack/node-browserify -- Browser-side require() for your node modules and npm packages
 * "behaviors":https://github.com/caolan/behaviors -- A simple way to check a module's exports, useful for 3rd party plugins and extensions
 * "box2dnode":https://github.com/jadell/box2dnode -- Port of the box2d physics simulation library
@@ -1051,6 +1054,7 @@ h3(#other). "Other":#other
 * "node-stem":https://github.com/chriso/node-stem -- Bindings to the libstemmer library
 * "chess":https://github.com/wsdookadr/Q-Chess/blob/rewrite/server/chess.js -- library for checking legal chess moves
 * "chess.js":https://github.com/jhlywa/chess.js -- library for chess move generation, validation, and mate/draw detection
+* "clone":https://github.com/pvorb/node-clone -- deep cloning of javascript variables
 * "closure":https://github.com/lm1/node-closure -- Google closure library wrapper for node.js
 * "cookies":https://github.com/jed/cookies/ -- Signed and unsigned cookies based on Keygrip
 * "node-cuda":https://github.com/kashif/node-cuda -- NVIDIA CUDA bindings for node.js
@@ -1060,10 +1064,12 @@ h3(#other). "Other":#other
 * "datejs":https://github.com/chrisdew/datejs -- DateJS wrapped up as an NPM package for node.js
 * "dateformat":https://github.com/felixge/node-dateformat -- A node.js package for Steven Levithan's excellent dateFormat() function
 * "dateformatjs":https://github.com/minodisk/dateformat-js -- Formatting Date to String and parsing String to Date module for Node.js, RequireJS, and browser.
+* "isodate":https://github.com/pvorb/node-isodate -- ISO 8061 date/time parser
 * "relative-date":https://github.com/azer/relative-date/ -- JavaScript module for outputting relative dates. 
 * "deja":https://github.com/mcantelon/node-deja -- CLI utility for managing git versioning of dotfiles and such
 * "daemonchk.js":https://github.com/dulac/daemonchk.js/ -- Daemon Monitor (with HTTP interface)
 * "dir2html":https://github.com/mcantelon/node-dir2html -- Render a directory as HTML
+* "dive":https://github.com/pvorb/node-dive -- Walking through directory trees and apply an action to every file.
 * "dust":https://github.com/pasviegas/dust -- OO way to fill your database with not totally random content
 * "docco":https://github.com/jashkenas/docco -- Docco is a quick-and-dirty, hundred-line-long, literate-programming-style
 documentation generator
@@ -1174,6 +1180,7 @@ documentation generator
 * "odot":https://github.com/tsmith/odot - persistent, code reloading, interactive object space
 * "readabilitySAX":https://github.com/fb55/readabilitySAX - the readability algorithm ported to a SAX parser, high performant. Scrapes a webpage for the actual article, as eg. Safari Reader does.
 * "redmark":https://github.com/benjisg/redmark - A per-job rate limited work queue
+* "regext":https://github.com/kadirpekel/regext -- named capturing groups for javascript regexers!
 * "require-analyzer":https://github.com/nodejitsu/require-analyzer -- Determine the set of requirements for a given node.js file, directory tree, or module
 * "sh.js":http://shjs.tuton.fr -- library for Unix shell scripting, replace Bash scripts with JavaScript
 * "simplesets":https://github.com/PeterScott/simplesets-nodejs -- Set data type, with API similar to Python's sets module. Supports any data type, with equality tested by @===@.
