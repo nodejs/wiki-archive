@@ -170,6 +170,7 @@ h2. Companies
 * "Heroku":http://blog.heroku.com/archives/2010/4/28/node_js_support_experimental/ Dead simple Node deployment for you, and internal tools for us.
 * "Humansized Inc.":http://www.humansized.com
 * "IDFuze":http://www.idfuze.com - Working on a real time cards game using node.js and socket.io
+* "ingk labs":http://ingk.com - Rapidly create startup prototypes with a strong emphasis on DRY
 * "ipowerhouse":http://www.ipowerhouse.com - Focused on haXe/Node.js  game dev; first all haxe/node bingo product.
 * "Joshfire":http://www.joshfire.com/ - Internet Of Things company, Multi-device app development
 * "Joinbox":http://www.joinbox.com/ - All of your social actions, emails and online news on one sweet website. 
