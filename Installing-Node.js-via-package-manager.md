@@ -1,5 +1,5 @@
 ## Debian
-[Node.js is available in official repo for Debian Wheezy(testing) and Debian Sid(unstable)](http://packages.debian.org/search?searchon=names&keywords=nodejs).  
+[Node.js is available in official repo for Debian Sid(unstable)](http://packages.debian.org/search?searchon=names&keywords=nodejs).  
 For Debian Squeeze:
 
     root@host: ~ # echo deb http://ftp.us.debian.org/debian/ sid main > /etc/apt/sources.list.d/sid.list
