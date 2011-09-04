@@ -1037,6 +1037,7 @@ h3(#boilerplates). "Boilerplates":#boilerplates
 * "transsiberian":https://github.com/masylum/transsiberian -- [outdated] nodejs boilerplate built upon Express and Mongolia
 * "NodeBase":https://github.com/dotmaster/NodeBase -- A node base class for JavaScript and CoffeeScript (logging, options, defaults and EventEmitter)
 * "infigo-node-boilerplate":https://github.com/jerryjj/infigo-node-boilerplate -- nodejs boilerplate built upon Express, db-mysql/db-drizzle/Mongoose and includes user authentication and group+role authorization system.
+* "Skeleton":https://github.com/edwardhotchkiss/skeleton -- Skeleton is a CLI module to bootstrap a Node/Express project with a skeleton template via any git repository, with an included default repo.
 
 <a name="wiki-continuous-integration"></a>
 
