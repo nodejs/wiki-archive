@@ -4,8 +4,7 @@
 
 Node should install out of the box on Linux, Macintosh, and Solaris.
 
-With some effort you should be able to get it running on other Unix
-platforms and Windows (either via Cygwin or MinGW). Native Windows support is a work-in-progress and you can download the latest release: [Windows Build (Node v0.5.5)](http://nodejs.org/dist/v0.5.5/node.exe). It's unstable and things are expected to break. NPM support might be added in future. If you find any bugs, please report them to issue tracker.
+With some effort you should be able to get it running on other Unix platforms and Windows (either via Cygwin or MinGW). Native Windows support is a work-in-progress and you can download the latest release: [Windows Build (Node v0.5.5)](http://nodejs.org/dist/v0.5.5/node.exe). It's unstable and things are expected to break. NPM support might be added in future. If you find any bugs, please report them to issue tracker.
 
 Mac OSX users also have the option of installing a precompiled package from [here](https://sites.google.com/site/nodejsmacosx/) that includes npm.
 
@@ -54,20 +53,34 @@ You can also install node from packages: [[Installing Node.js via package manage
 ## Step 3b - Building on Windows
 
 **Pre-built binaries**
-Windows Build(Node v0.5.5): http://nodejs.org/dist/v0.5.5/node.exe
+
+Windows Build (Node v0.5.5): http://nodejs.org/dist/v0.5.5/node.exe
 Self-contained binaries are available at [node-js.prcn.co.cc](http://node-js.prcn.co.cc/)
 
 **Building from source**
 
-There are two ways of building Node on Windows. One is over the Cygwin
-emulation layer the other is using MinGW (GNU toolchain for
-windows). See the
+There are three ways of building Node on Windows. One is over the Cygwin
+emulation layer, another is using MinGW (GNU toolchain for
+windows), and the last way is using VC++. See the
 [Cygwin](https://github.com/joyent/node/wiki/Building-node.js-on-Cygwin-%28Windows%29)
 and [MinGW](https://github.com/joyent/node/wiki/Building-node.js-on-mingw)
 pages.
 
-Neither builds are satisfactorily stable but it is possible to get
-something running.
+Neither builds are satisfactorily stable but it is possible to get something running.
+
+**Building with VC++**
+
+There is increasing support for native compilation on Windows using VC++ (Visual C++).  This includes Visual C++ Express which is available for free from Microsoft.  First download the node source.  Then, from the Visual Studio Command Prompt, type
+
+    cd c:\path\to\source
+    vcbuild.bat debug
+
+for the debug version or
+
+    cd c:\path\to\source
+    vcbuild.bat release
+
+for the release version to build node.
 
 **Hosting in IIS on Windows**
 
