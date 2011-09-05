@@ -1,3 +1,4 @@
+
 h1. Hosting compatible with Node
 
 h2. Managed
@@ -37,4 +38,13 @@ VPS providers, which often require you to set everything up yourself, including 
 h2. DIY Platforms
 
 Node.JS hosting platforms that allow you to host Node.JS apps on your own servers or clouds.
+* "Nodejitsu":http://github.com/nodejitsu
+** "haibu":http://github.com/nodejitsu/haibu - Open-source Node.js Application Server
+** "node-http-proxy":http://github.com/nodejitsu/node-http-proxy - Proxy / Load Balancing
+** "jitsu":http://github.com/nodejitsu/jitsu - CLI Deployment tool
+** "forever":http://github.com/indexzero/forever - Process Monitoring
+** "winston":http://github.com/indexzero/winston - Multi-transport Logging
+** "node-cloudservers":http://github.com/nodejitsu/node-cloudservers Rackspace Cloud Server Provisioning
+** "node-cloudfiles":http://github.com/nodejitsu/node-cloudfiles Rackspace Cloud Files
+
 * "Nodester":http://nodester.com/ - Open source Node.JS hosting platform and services
