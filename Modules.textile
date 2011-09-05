@@ -235,7 +235,7 @@ h4(#web-frameworks-other). "Other":#web-frameworks-other
 * "node-cgi":https://github.com/pufuwozu/node-cgi -- CGI adapter kludge (replaces Node's fast and famous event-based HTTP library)
 * "node.ly":https://github.com/giacecco/node.ly -- A simple URL shortener
 * "multi-node":https://github.com/kriszyp/multi-node -- Launch multiple node processes for HTTP servers
-* "node-http-digest":https://github.com/thedjinn/node-http-digest -- Provides HTTP Digest authentication for HTTP servers
+* "node-digest":https://github.com/wearefractal/node-digest -- HTTP Digest authentication for NodeJS
 * "solder":https://github.com/brettstimmerman/solder -- Combines and minifies JavaScript and CSS at runtime and build time
 * "fugue":https://github.com/pgte/fugue -- Unicorn for Node.js - Multiple node server instance manager with Unicorn-like features
 * "what":https://github.com/entmike/what -- What - A Node.JS Web Container/Application Server
@@ -517,7 +517,7 @@ h3(#tcp). "TCP / IP":#tcp
 * "node-ftpclient":https://github.com/seanhess/node-ftpclient -- Node FTP Client
 * "node-get":https://github.com/tmcw/node-get -- Moderately higher-level HTTP client library.
 * "xmpp.js":http://xmppjs.prosody.im/ -- Library for implementing XMPP server components with Node
-* "node-http-digest":https://github.com/codehero/node-http-digest -- Node HTTP Client with support for Digest Authentication
+* "node-digest":https://github.com/wearefractal/node-digest -- HTTP Digest authentication for NodeJS
 * "node-http-status":https://github.com/wdavidw/node-http-status -- Interact with HTTP status code (just a set of constants)
 * "request":https://github.com/mikeal/request -- Simple HTTP client library.
 * "open-uri":https://github.com/publicclass/open-uri -- A very simple HTTP(S)/FTP client library similar to Rubys Open-URI lib.
@@ -1034,6 +1034,7 @@ h3(#i18n). "I18n and L10n modules":#i18n
 <a name="wiki-boilerplates"></a>
 
 h3(#boilerplates). "Boilerplates":#boilerplates
+* "npm-boilerplate":https://github.com/wearefractal/npm-boilerplate -- Boilerplate for creating NPM packages
 * "node-boilerplate":https://github.com/robrighter/node-boilerplate -- Everything you need to get started on a Node.js website with express and socket.IO
 * "transsiberian":https://github.com/masylum/transsiberian -- [outdated] nodejs boilerplate built upon Express and Mongolia
 * "NodeBase":https://github.com/dotmaster/NodeBase -- A node base class for JavaScript and CoffeeScript (logging, options, defaults and EventEmitter)
@@ -1246,8 +1247,9 @@ documentation generator
 
 h2(#managment). "Node Management Utilities":#management
 
+* "nodeinfo":https://github.com/wearefractal/nodeinfo -- NodeJS remote system monitoring and control
 * "n":https://github.com/visionmedia/n -- node version manager
-* "neco":https://github.com/kuno/neco  -- Nodejs Ecosystem COordinator
+* "neco":https://github.com/kuno/neco  -- Nodejs Ecosystem Coordinator
 * "iisnode":https://github.com/tjanczuk/iisnode -- hosting node.js applications in IIS on Windows
 
 <a name="wiki-commonjs-compat"></a>
@@ -1281,7 +1283,7 @@ h2(#coffee-script). "CoffeeScript modules":#coffee-script
 * "coffeemate":https://github.com/kadirpekel/coffeemate -- the coffee creamer! Push coffeescript into web development.
 * "simple-geoip":https://github.com/dvv/simple-geoip -- Simple _native_ maxmind GeoIP lookup. 4-6 times faster than node-maxmind-native. See wiki for details. Compiled database of countries "geo.json":https://github.com/dvv/simple-geoip/raw/master/geo.json is available
 * "NodeBase":https://github.com/dotmaster/NodeBase -- A node base class for JavaScript and Coffeescript (logging, options, defaults and EventEmitter)
-
+* "protege":https://github.com/wearefractal/protege -- NodeJS/CoffeeScript utility library aimed at making code as simple as possible.
 <a name="wiki-search"></a>
 
 h2(#search). "Full text search":#search
