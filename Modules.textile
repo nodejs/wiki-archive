@@ -247,6 +247,8 @@ h4(#web-frameworks-other). "Other":#web-frameworks-other
 
 h3(#database). "Database":#database
 
+* "SQL Server":#db-mssql
+** "node-mssql":https://github.com/vivina/node-mssql -- A node.js MS SQL Server native driver 
 * "Postgresql":#db-pg
 ** "node_postgres":https://github.com/ry/node_postgres -- Beginning of bindings to libpg
 ** "node-postgres":https://github.com/brianc/node-postgres -- Well tested libpq binding and pure javascript PostgreSQL client
