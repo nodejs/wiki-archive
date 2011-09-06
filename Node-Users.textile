@@ -641,6 +641,8 @@ h2. UTC+1 (+2)
 ** "GitHub":http://github.com/piscisaureus, "Twitter":http://twitter.com/piscisaureus
 * Lele (eldios) , Lucca , Italy
 ** "Website":http://lele.amicofigo.com, "GitHub":http://github.com/eldios, "Twitter":http://twitter.com/eldios
+* Guglielmo Ferri (rootslab) , Rome , Italy
+** "Website":http://rootslab.it, "GitHub":http://github.com/rootslab, "Twitter":http://twitter.com/rootslab
 * Jonas Höglund (FireyFly), Stockholm, Sweden
 ** "Bitbucket":http://bitbucket.org/firefly, "GitHub":http://github.com/FireyFly, "Twitter":http://twitter.com/FireyFly, "Website":http://www.firefly.nu
 * Olivier Philippon (DrBenton) , Paris , France
