@@ -697,6 +697,8 @@ h2. UTC+2 (+3)
 ** "GitHub":http://github.com/coffeemate, "Blog":http://blog.kadirpekel.com, "Twitter":http://twitter.com/kadirpekel
 * Erdem Gezer (erdemgezer), Turkey
 ** "Website":http://www.toptwittertrends.com, "Twitter":http://twitter.com/erdemgezer
+* Erhan Gundogan (erhang), Turkey
+** "GitHub":http://github.com/erhangundogan, "Blog":http://www.zakkum.com, "Twitter":http://twitter.com/erhangundogan
 * Dionysios G. Synodinos (synodinos), Greece
 ** "GitHub":http://github.com/synodinos, "Twitter":http://twitter.com/synodinos
 * George Stagakis (stagas), Greece
