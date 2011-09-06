@@ -663,6 +663,8 @@ h2. UTC+1 (+2)
 ** "GitHub":http://github.com/gillesfabio, "Website":http://gillesfabio.com/
 * Sascha Depold (-), Brandenburg, Deutschland
 ** "Github":http://github.com/sdepold, "Twitter":http://twitter.com/sdepold, "Website":http://depold.com
+* Urban Soban (usoban), Ljubljana, Slovenia
+** "Github":http://github.com/usoban, "Twitter":http://twitter.com/usoban, "Website":http://labs.snet-server.info
 
 h2. UTC+2 (+3)
 * Aurimas Rim?a, Lithuania
