@@ -50,7 +50,7 @@ Installation](https://github.com/ry/node/wiki/Troubleshooting-Installation), try
 
 You can also install node from packages: [[Installing Node.js via package manager]]
 
-**Configure shell script for Ubuntu **
+**Configure shell script for Ubuntu**
 Rock-solid Node.js Platform on Ubuntu. Configure shell script  for install node.js  using http://apptob.org
 
 
