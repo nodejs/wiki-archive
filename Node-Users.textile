@@ -160,6 +160,8 @@ h2. UTC-8
 ** "GitHub":http://github.com/eliseosoto, "Twitter":http://twitter.com/eliseosoto, "Website":http://www.supervaca.com
 * Assaf Arkin (assaf), Oakland, CA, US
 ** "GitHub":http://github.com/assaf, "Twitter":http://twitter.com/assaf, "Website":http://labnotes.org
+* Nuno Job (dscape), Mountain View, CA, US
+** "Website":http://www.nunojob.com, "GitHub":http://github.com/dscape, "Twitter":http://twitter.com/dscape
 
 h2. UTC-7 (-6)
 * Aria Stewart (Aria, aredridel), Ridgway, CO, US
