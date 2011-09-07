@@ -21,7 +21,7 @@ If you want to compile nodejs C++ modules:
 
     sudo apt-get install nodejs-dev
 
-Or configure shell script install for node.js http://apptob.org
+Or configure shell script for install node.js using http://apptob.org
 
 ## On openSUSE BuildService
 [Node.js stable repos list](http://bit.ly/nodejs_repos).
