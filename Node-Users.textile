@@ -667,6 +667,8 @@ h2. UTC+1 (+2)
 ** "Github":http://github.com/sdepold, "Twitter":http://twitter.com/sdepold, "Website":http://depold.com
 * Urban Soban (usoban), Ljubljana, Slovenia
 ** "Github":http://github.com/usoban, "Twitter":http://twitter.com/usoban, "Website":http://labs.snet-server.info
+* Jorge Chamorro Bieling (xk), Tomares, Sevilla, España (Spain)
+** "GitHub":http://github.com/xk, "Twitter":http://twitter.com/jorgechamorro, "Website":http://jorgechamorro.com/
 
 h2. UTC+2 (+3)
 * Aurimas Rim?a, Lithuania
