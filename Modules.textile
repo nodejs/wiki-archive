@@ -215,7 +215,7 @@ h4(#middleware). "Middleware":#middleware
 ** "node-reverse-proxy":http://www.steve.org.uk/Software/node-reverse-proxy -- A reverse proxy which forwards incoming HTTP requests to multiple back-end HTTP servers based upon HTTP Host header.
 ** "Node-Http-Rewrite-Proxy":https://github.com/FlashFan/Node-Http-Rewrite-Proxy -- This module proxies and rewrites HTTP requests of all types. For this you can, if you want, use regular expressions.
 ** "eventpipe":http://www.google.com/url?sa=D&q=https://github.com/dhruvbird/eventpipe -- Provides an Event Pipe with the *same* API as node.js' EventEmitter
-** "express-twitter:https://github.com/mahemoff/express-twitter -- Twitter-specific OAuth support
+** "express-twitter":https://github.com/mahemoff/express-twitter -- Twitter-specific OAuth support
 
 <a name="wiki-web-frameworks-other"></a>
 
