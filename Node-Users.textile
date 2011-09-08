@@ -781,8 +781,6 @@ h2. UTC+5
 ** "Twitter":http://twitter.com/dhruvbird, "Github":http://github.com/dhruvbird, "Web":http://dhruvbird.com/, "Google Code":http://code.google.com/u/dhruvbird/
 * Gaurav S (bugzu), India
 ** "Twitter":http://twitter.com/bugzu, "Github":http://github.com/bugzu/
-* Balaji D (openbala), India
-** "Twitter":http://twitter.com/openbala, "Github":http://github.com/openbala, "Web":http://openbala.com/
 * Jayakrishnan (jknair), India
 ** "Github":https://github.com/jknair, "Blog":http://techiejknair.blogspot.com/
 
