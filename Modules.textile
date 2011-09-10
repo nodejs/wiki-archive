@@ -238,6 +238,7 @@ h4(#web-frameworks-other). "Other":#web-frameworks-other
 * "node.ly":https://github.com/giacecco/node.ly -- A simple URL shortener (currently not available on GitHub)
 * "multi-node":https://github.com/kriszyp/multi-node -- Launch multiple node processes for HTTP servers
 * "node-digest":https://github.com/wearefractal/node-digest -- HTTP Digest authentication for NodeJS
+* "Q-Oper8":https://github.com/robtweed/Q-Oper8 -- Scalable multi-process manager for Node.js
 * "solder":https://github.com/brettstimmerman/solder -- Combines and minifies JavaScript and CSS at runtime and build time
 * "fugue":https://github.com/pgte/fugue -- Unicorn for Node.js - Multiple node server instance manager with Unicorn-like features
 * "what":https://github.com/entmike/what -- What - A Node.JS Web Container/Application Server
