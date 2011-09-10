@@ -33,7 +33,7 @@ h2. Projects and Applications
 * "DinMaker":http://github.com/creationix/node-topcloud-chat by creationix (live demo at <a href="http://chat.creationix.com">chat.creationix.com</a>)
 * "diretto":http://www.diretto.org/ - Distributed Recon/Reporting Transceiver Toolkit – Uses Node.js for web-based media storage and for its RESTful webservice implementation
 * "Djangode":http://github.com/simonw/djangode - Django’s regex-based URL handling, utility functions, and html templating for node
-* "Drama Royal":http://twitter.com/dramaroyal - Facebook-based reboot of the Sissy Fight 2k game of middleschool playground battles
+* "Drama Royal":https://apps.facebook.com/dramaroyal - Facebook-based reboot of the Sissy Fight 2k game of middleschool playground battles
 * "EasyWebSocket":http://easywebsocket.org - a WebSocket client to broadcast messages to webpages
 * "Truco Argentino":http://apps.facebook.com/elgrantruco - Multiplayer Card Game for Facebook using Faye & ExpressJs (Argentina)
 * "ElusiveHippo":http://elusivehippo.com - Push deployment for nodejs (non-functional / doesn't work)
