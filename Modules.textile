@@ -624,6 +624,7 @@ h3(#testing). "Testing / Spec Frameworks":#testing
 * "cucumis":https://github.com/noblesamurai/cucumis -- A "cucumber nodejs":https://github.com/noblesamurai/cucumis implementation. Run plain text gherkin stories with full asynchronous support in native node.js JavaScript.
 * "Cup of Tea?":https://github.com/refractalize/cupoftea -- BBD-style Unit Testing for Async apps.
 * "databasecleaner":https://github.com/emerleite/node-database-cleaner -- Clean your database after each test. Supports MongoDB, Redis and CouchDB. Will support MySQL and others.
+* "ensure":https://github.com/dscape/ensure -- nodejs testing made easy with vows or node-tap
 * "Gently":https://github.com/felixge/node-gently -- A node.js module that helps with mocking and behavior verification.
 * "espionage":https://github.com/smtlaissezfaire/espionage -- A mock/stub framework using the test spy pattern.
 * "expresso":https://github.com/visionmedia/expresso -- TDD framework by the author of "JSpec":http://jspec.info
