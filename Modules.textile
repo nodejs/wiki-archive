@@ -811,6 +811,7 @@ h3(#debugging). "Debugging / Console Utilities":#debugging
 * "logging":https://github.com/dylang/logging -- Super sexy color console logging.
 * "logly":https://github.com/tristanls/logly -- A minimal logging utility to support verbose and debug modes
 * "nlogger":https://github.com/igo/nlogger -- Logging lib that can print also module names and line numbers, optionally in color
+* "node-logging":https://github.com/HerdHound/node-logging -- Simple colorized logging for Node.js with request logger Express middleware
 * "monitor":https://github.com/lorenwest/node-monitor -- Runtime monitoring for node.js applications - npm install monitor
 * "node-logentries":https://github.com/rjrodger/node-logentries -- A winston-compatible wrapper library for the logentries.com service
 * "Node-JavaScript-Preprocessor":https://github.com/mcoolin/Node-JavaScript-Preprocessor -- Preprocessor for JavaScript
