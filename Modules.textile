@@ -730,6 +730,7 @@ h4(#parsers-commandline). "Command Line Option Parsers":#parsers-commandline
 <a name="wiki-parser-generators"></a>
 
 h4(#parser-generators).  "Parser Generators":#parser-generators
+* "bnf":https://github.com/navstev0/nodebnf -- BNF parser, compiler, and interpreter framework.
 * "canopy":https://github.com/jcoglan/canopy -- PEG parser compiler for JavaScript
 * "jison":https://github.com/zaach/jison -- A parser generator written in JavaScript; similar to Bison for C
 * "PEG.js":http://pegjs.majda.cz/ -- Parser Generator for JavaScript
