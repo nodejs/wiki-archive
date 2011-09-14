@@ -1192,6 +1192,7 @@ documentation generator
 * "NormAndVal":https://github.com/roberthahn/NormAndVal -- Data normalization and validation for Node.js and the browser
 * "nshtools":https://github.com/rsdoiel/nshtools -- a high level shell scripting library for file and operating system chores
 * "odot":https://github.com/tsmith/odot - persistent, code reloading, interactive object space
+* "pad":https://github.com/wdavidw/node-pad - Left and right string padding
 * "readabilitySAX":https://github.com/fb55/readabilitySAX - the readability algorithm ported to a SAX parser, high performant. Scrapes a webpage for the actual article, as eg. Safari Reader does.
 * "redmark":https://github.com/benjisg/redmark - A per-job rate limited work queue
 * "regext":https://github.com/kadirpekel/regext -- named capturing groups for javascript regexers!
