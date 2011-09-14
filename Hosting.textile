@@ -8,7 +8,7 @@ h2. Managed
 * "Heroku":http://heroku.com
 * "no.de":http://no.de
 * "Nodejitsu":http://nodejitsu.com - Active Beta
-* "NodeSocket":http://www.nodesocket.com - Beta Coming Soon (accepting signups)
+* "NodeSocket":http://www.nodesocket.com - In Private Beta
 * "Nodester":http://nodester.com - Open source Node.JS hosting platform and services
 * "JSApp.US":http://jsapp.us - Open signup, web editing/npm command
 
