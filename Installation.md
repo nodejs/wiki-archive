@@ -42,7 +42,7 @@ Use make to build and install Node (execute the following on the command line)
     source ~/.profile
 
 If you have any installation problems, look at [Troubleshooting
-Installation](https://github.com/ry/node/wiki/Troubleshooting-Installation), try an [alternate installation method](https://gist.github.com/579814), or stop into [#node.js](http://webchat.freenode.net/?channels=node.js&uio=d4) and ask questions.
+Installation](https://github.com/ry/node/wiki/Troubleshooting-Installation), try an [alternative installation method](https://gist.github.com/579814), or stop into [#node.js](http://webchat.freenode.net/?channels=node.js&uio=d4) and ask questions.
 
 `sudo apt-get install node` Wont work on ubuntu/debian machines. That is a different package with the same name. Use the above method itself for installing node.
 
