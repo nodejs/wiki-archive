@@ -76,6 +76,7 @@ h2. Projects and Applications
 * "node3p-web":http://github.com/ncb000gt/node3p-web by ncb000gt -- Web interface for node3p
 * "NodeCli":http://github.com/SchizoDuckie/Node-CLI - A super-simple class for Node.js to spice up your Node.js console output. Position cursor, clear screen, change colors
 * "NodeGame Shooter":http://github.com/BonsaiDen/NodeGame-Shooter - Multiplayer asteroids with powerups etc. Using a fat Node.js server with thin clients
+* "nodeIM":https://github.com/caraboides/nodeIM by caraboides — RESTful webservice around ImageMagic
 * "nodelint":http://github.com/tav/nodelint by tav — run jslint from the command line
 * "nodeload":http://github.com/benschmaus/nodeload by benschmaus and jonjlee  — utility for benchmarking HTTP APIs
 * "NodeMachine":http://github.com/tautologistics/nodemachine -- Port of WebMachine for Node.js
