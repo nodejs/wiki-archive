@@ -791,6 +791,7 @@ h4(#parsers-other). "Other Parsers":#parsers-other
 * "NodePie":https://github.com/andris9/NodePie - Simple RSS/Atom parser for Node.JS
 * "node-musicmetadata":https://github.com/leetreveil/node-musicmetadata - Get music metadata asynchronously from node streams.
 * "node-struct":https://github.com/xdenser/node-struct -- Parse/format binary data in buffers.
+* "node-feedparser":https://github.com/danmactough/node-feedparser - RSS, Atom, and RDF feed parsing in Node.js
 
 <a name="wiki-debugging"></a>
 
