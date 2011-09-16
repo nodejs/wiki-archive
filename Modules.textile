@@ -474,7 +474,7 @@ h3(#module-loader). "Module Loader":#module-loader
 <a name="wiki-security"></a>
 
 h3(#security). "OpenSSL / Crypto / Hashing":#security
-* "node-gpg": https://github.com/drudge/node-gpg
+* "node-gpg":https://github.com/drudge/node-gpg 
 * "node-hashring":https://github.com/3rd-Eden/node-hashring -- Hash ring provides consistent hashing based on the libketema library.
 * "packnode":https://github.com/chriso/packnode -- Obfuscate, minify and/or encrypt JS files
 * "hashlib":https://github.com/brainfucker/hashlib -- Fast hashing module, written in C/C++, supports: md4, md5, md6, sha, sha1, sha256, sha512
