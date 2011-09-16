@@ -32,6 +32,7 @@ VPS providers, which often require you to set everything up yourself, including 
 * "W2Servers":http://w2servers.com
 * "Webbynode":http://www.webbynode.com - "setup guide here":http://blog.dtrejo.com/nodejs-for-server-newbs - "deployment guide":http://guides.webbynode.com/articles/rapidapps/nodejs.html - "screencast":http://vimeo.com/15406437
 * "WebFaction":http://webfaction.com - "setup guide here":http://davestevens.us/articles/setting-up-node-js-and-couchdb-on-webfaction
+* "Zerigo":http://www.zerigo.com/
 
 h2. DIY Platforms
 
