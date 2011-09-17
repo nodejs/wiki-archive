@@ -950,6 +950,7 @@ h3(#api-clients). "API clients":#api-clients
 * "node-taobao":https://github.com/e6nian/node-taobao/ -- A client library for taobao.com api
 * "node-twilio":https://github.com/sjwalter/node-twilio/ -- A helper library for the Twilio API
 * "node-twitter":https://github.com/jdub/node-twitter -- Asynchronous Twitter REST/stream/search client for node.js
+* "node-vk":https://github.com/Sonetica/node-vk -- vkontakte.ru and vk.com social network api wrapper for mobile and desktop applications.
 * "pingdom":https://github.com/ryanbreen/node-pingdom -- A module for accessing the Pingdom JSON API
 * "webmetrics":https://github.com/ryanbreen/node-webmetrics -- A module for accessing the Webmetrics JSON API
 * "postageapp":https://github.com/postageapp/postageapp-nodejs -- A module for sending emails through the PostageApp JSON API
