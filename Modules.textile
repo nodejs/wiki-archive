@@ -1258,6 +1258,9 @@ documentation generator
 * "node-serialport":https://github.com/voodootikigod/node-serialport -- Welcome your robotic javascript overlords. Better yet, program them!
 * "bencode":https://github.com/themasch/node-bencode -- bencode de/encoder for nodejs
 * "mogile":https://github.com/headzoo/node-mogile -- A MogileFS client for node.js
+* "aop":https://github.com/baryshev/aop -- Simple AOP realization for async applications
+* "common-pool":https://github.com/baryshev/common-pool -- Simple resource pool
+
 
 <a name="wiki-management"></a>
 
