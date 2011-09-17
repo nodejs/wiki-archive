@@ -896,6 +896,7 @@ h3(#payment-gateways). "Payment Gateways":#payment-gateways
 <a name="wiki-api-clients"></a>
 
 h3(#api-clients). "API clients":#api-clients
+* "supervisord":https://github.com/spiceapps/supervisord - Library for supervisord 
 * "aws-lib":https://github.com/mirkok/aws-lib -- An extensible library for Amazon Web Services including EC2, SimpleDB and the Product Advertising API
 * "aws2js":https://github.com/SaltwaterC/aws2js -- Amazon Web Services APIs client implementation for node.js. Simple to use and extend.
 * "calais":https://github.com/mcantelon/node-calais -- Semantically analyze text using the Calais web service
