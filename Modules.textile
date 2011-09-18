@@ -127,6 +127,7 @@ h4(#web-frameworks-full). "Frameworks":#web-frameworks-full
 * "djangode":https://github.com/simonw/djangode -- A framework that borrows some useful concepts from "Django":http://www.djangoproject.com/. (March 2010, node.JS 0.1.30)
 * "drty":https://github.com/drtyhbo/drty -- A Django port to NodeJS. Many Django features, still under heavy development. (January, 2011, 0.2.6)
 * "Express":https://github.com/visionmedia/express/tree/master -- A robust feature rich web development framework **inspired by Sinatra**
+* "kiss.js":https://github.com/stanislavfeldman/kiss.js -- Web framework for node.js. Simple and sexy.
 * "Sayndo":https://github.com/zyndiecate/sayndo/tree/master -- Fast and flexible web server with customized routing and authorization
 * "N-Ext":https://github.com/xcambar/n-ext -- Ext.core, Ext.util and Ext.data packages in your NodeJS apps (includes a MongoDB proxy based on "node-mongodb-native":https://github.com/xcambar/n-ext/node-mongodb-native)
 * "node-extjs":https://github.com/egorFiNE/node-extjs -- Run ExtJS4 data models on Node.js
