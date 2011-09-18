@@ -2,9 +2,9 @@
 
 ## Step 1 - Pick Your Platform
 
-Node should install out of the box on Linux, Macintosh, and Solaris.
+Node should install out of the box on Linux, Macintosh, Solaris, and Windows.
 
-With some effort you should be able to get it running on other Unix platforms and Windows (either via Cygwin or MinGW). Native Windows support is a work-in-progress and you can download the latest release: [Windows Build (Node v0.5.5)](http://nodejs.org/dist/v0.5.5/node.exe). It's unstable and things are expected to break. NPM support might be added in future. If you find any bugs, please report them to issue tracker.
+With some effort you should be able to get it running on other Unix platforms.
 
 Mac OSX users also have the option of installing a precompiled package from [here](https://sites.google.com/site/nodejsmacosx/) that includes npm.
 
@@ -59,38 +59,46 @@ Rock-solid Node.js Platform on Ubuntu. Configure shell script  for install node.
 
 **Pre-built binaries**
 
-Windows Build (Node v0.5.5): http://nodejs.org/dist/v0.5.5/node.exe
-Self-contained binaries are available at [node-js.prcn.co.cc](http://node-js.prcn.co.cc/)
+Windows Build (Node v0.5.7): http://nodejs.org/dist/v0.5.7/node.exe
 
-**Building from source**
-
-There are three ways of building Node on Windows. One is over the Cygwin
-emulation layer, another is using MinGW (GNU toolchain for
-windows), and the last way is using VC++. See the
-[Cygwin](https://github.com/joyent/node/wiki/Building-node.js-on-Cygwin-%28Windows%29)
-and [MinGW](https://github.com/joyent/node/wiki/Building-node.js-on-mingw)
-pages.
-
-Neither builds are satisfactorily stable but it is possible to get something running.
 
 **Building with VC++**
 
-There is increasing support for native compilation on Windows using VC++ (Visual C++).  This includes Visual C++ Express which is available for free from Microsoft.  First download the node source.  Then, from the Visual Studio Command Prompt, type
+Building with Microsoft VC++ is the best way to natively compile Node starting with the 0.5.x branch. If you don't have Visual Studio you can download and use [VC++ 2010 Express](http://www.microsoft.com/visualstudio/en-us/products/2010-editions/visual-cpp-express).
 
-    cd c:\path\to\source
-    vcbuild.bat debug
+The batch file *vcbuild.bat* handles running gyp to generate the Visual Studio Solution files and will also run the VC++ compiler without requiring you to compile from the Visual Studio IDE. You should be able to complete the whole process and generate the Debug .exe by simply running vcbuild.bat from explorer or from the command prompt.
 
-for the debug version or
+vcbuild.bat can be used to generate Visual Studio project files, build binaries, or both. By default it will generate project files and then build the debug version of Node. These are the command line options:
 
-    cd c:\path\to\source
-    vcbuild.bat release
+* debug
+* release
+* clean
+* noprojgen
+* nobuild
 
-for the release version to build node.
+For testing:
+
+* test
+* test-all
+* test-uv
+* test-internet
+* test-pummel
+* test-simple
+* test-message
+
+****
+
+Alternatively you can build Node using the MinGW toolchain: [MinGW build instructions](https://github.com/joyent/node/wiki/Building-node.js-on-mingw).
+
+Cygwin can also be used but this is generally not recommended, and especially not for making native Windows binaries. [Cygwin build instructions](https://github.com/joyent/node/wiki/Building-node.js-on-Cygwin-%28Windows%29)
+
 
 **Hosting in IIS on Windows**
 
 It is possible to host node.js application in IIS on Windows using the [iisnode](https://github.com/tjanczuk/iisnode) IIS module. More details available [here](http://tomasz.janczuk.org/2011/08/hosting-nodejs-applications-in-iis-on.html). 
-## Step 4 - Install NPM
+
+
+## Step 4 - Install NPM (not functional on Windows yet)
 
 NPM is a package manager that has become the de-facto standard for
 installing additional node libraries and programs. Here's the quick
@@ -105,3 +113,5 @@ To install a library e.g. Express:
 And visit
 [https://github.com/isaacs/npm](https://github.com/isaacs/npm) for
 details.
+
+**NPM does not work on Windows yet**
