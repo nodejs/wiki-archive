@@ -19,6 +19,7 @@ h1. Blogs and tutorials
 | "Blog.101Ideas.cz":http://blog.101ideas.cz/| A lot of Node.js stuff there|
 | "OSButler Blog":http://blog.osbutler.com/categories/node-by-example/| Collection of simple node examples|
 | "Persian Blog":http://blog.nodejs.ir | Persian blog for nodejs |
+| "IT Wars":http://www.it-wars.com/categorie8/dev | French blog with news and nodejs codes |
 
 h1. Localized sites
 
