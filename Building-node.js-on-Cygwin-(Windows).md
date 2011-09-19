@@ -42,6 +42,8 @@ This tutorial will guide you through setting up the latest stable version of nod
         $ git tag
         $ git checkout [latest stable tag from previous command, e.g., v0.2.5]
         $ ./configure
+        # Pre-emptively create out/default just in case https://github.com/joyent/node/issues/1734 is not fixed
+        $ mkdir -p out/default
         $ make
         $ make install
 
