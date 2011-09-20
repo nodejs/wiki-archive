@@ -8,7 +8,7 @@ h2. Node v0.5.0-pre
 * "postageapp v0.0.1":https://github.com/postageapp/postageapp-nodejs
 
 h2. Node v0.4.11
-* "nodebnf v0.0.8beta":https://github.com/navstev0/nodebnf
+* "nodebnf v0.0.9":https://github.com/navstev0/nodebnf
 
 h2. Node v0.4.10
 * "websocket-node v0.0.9":https://github.com/Worlize/WebSocket-Node
