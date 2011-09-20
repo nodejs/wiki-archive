@@ -1210,6 +1210,7 @@ documentation generator
 * "redmark":https://github.com/benjisg/redmark - A per-job rate limited work queue
 * "regext":https://github.com/kadirpekel/regext -- named capturing groups for javascript regexers!
 * "require-analyzer":https://github.com/nodejitsu/require-analyzer -- Determine the set of requirements for a given node.js file, directory tree, or module
+* "seek":https://github.com/pvorb/node-seek -- recursively search through a bunch of files
 * "sh.js":http://shjs.tuton.fr -- library for Unix shell scripting, replace Bash scripts with JavaScript
 * "simplesets":https://github.com/PeterScott/simplesets-nodejs -- Set data type, with API similar to Python's sets module. Supports any data type, with equality tested by @===@.
 * "Task.node":https://github.com/botanicus/task.node Simple task manager similar to Rake, Scons and others.
