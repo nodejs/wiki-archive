@@ -250,3 +250,10 @@ h2. Companies
 * "Doodkin" http://doodkin.com developed an mobile application with node.
 * "Neuron web creative":http://www.neuron-webagency.com - A creative and innovative web agency, this is the agency that develops http://www.meetbymaps.com
 * "CellkastGames":http://www.tickade.com - Tickade is an online redemption games platform where players can play casual games by themselves or against each other for tickets. Players can exchange tickets for real world prizes of their choice delivered to their doors 
+
+
+h2. Discussion
+
+Anyone else think that all the "Modules":https://github.com/joyent/node/wiki/modules listed here should be removed, and to remove ambiguity between modules and projects/applications, projects/applications should be renamed to websites/apps (not modules).
+
+* +1 ~balupton
