@@ -996,6 +996,7 @@ h3(#async-flow). "Flow control / Async goodies":#async-flow
 * "channels":https://github.com/Pita/channels -- Event channels for node.js
 * "Cinch":https://github.com/pguillory/cinch -- Write async code in sync form.
 * "deferred":https://github.com/medikoo/deferred -- Asynchronous control-flow with deferred and promises
+* "each":https://github.com/wdavidw/node-each -- Chained and parallel async iterator in one elegant function
 * "fiberize":https://github.com/lm1/node-fiberize -- Node API wrapper for use with fibers.
 * "fibers":https://github.com/laverdet/node-fibers -- The closest thing to a thread you'll find in JavaScript
 * "fibers-promise":https://github.com/lm1/node-fibers-promise -- Small yet powerful promises based on fibers.
