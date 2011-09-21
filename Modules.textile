@@ -800,6 +800,7 @@ h4(#parsers-other). "Other Parsers":#parsers-other
 * "node-musicmetadata":https://github.com/leetreveil/node-musicmetadata - Get music metadata asynchronously from node streams.
 * "node-struct":https://github.com/xdenser/node-struct -- Parse/format binary data in buffers.
 * "node-feedparser":https://github.com/danmactough/node-feedparser - RSS, Atom, and RDF feed parsing in Node.js
+* "VIE":https://github.com/bergie/VIE - RDFa parsing in Node.js
 
 <a name="wiki-debugging"></a>
 
@@ -984,6 +985,7 @@ h3(#api-clients). "API clients":#api-clients
 * "node-wikimapia":https://github.com/Sannis/node-wikimapia -- Node.js wrapper for the Wikimapia API
 * "waz-storage-js":https://github.com/jpgarcia/waz-storage-js -- A simple implementation of Windows Azure Storage API for Node.js
 * "virustotal.js":https://github.com/SaltwaterC/virustotal.js -- VirusTotal API client for node.js
+* "VIE":https://github.com/bergie/VIE -- Apache Stanbol and DBpedia API client for Node.js
 
 <a name="wiki-async-flow"></a>
 
