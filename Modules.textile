@@ -459,6 +459,7 @@ h3(#build-and-deployment). "Build and Deployment":#build-and-deployment
 * "doc.md":https://github.com/Pita/doc.md -- A simple JSDoc documenation tool that creates markdown for node.js modules
 * "coffee-conf":https://github.com/MSNexploder/coffee-conf -- Write your config files in coffee-script.
 * "Gittyup":https://github.com/spiceapps/gittyup -- Application deployment library for node.js
+* "npkg":https://github.com/wearefractal/npkg -- Generates cross-platform installers for Node.js applications
 
 <a name="wiki-package-management"></a>
 
@@ -467,6 +468,7 @@ h3(#package-management). "Package Management Systems":#package-management
 * "nmod":https://github.com/jeromeetienne/nmod -- nmod is a node_modules manager. able to install from npm and git
 * "Ender":https://github.com/ender-js/ender -- A package manager built on NPM bringing micro to macro to create your own custom JavaScript library by composing modules into a cohesive and familiar interface .
 * "Slugr":https://github.com/spiceapps/slugr -- Wraps node.js apps into a single executable file.
+* "npkg":https://github.com/wearefractal/npkg -- Generates cross-platform installers/executables for Node.js applications
 
 <a name="wiki-module-loader"></a>
 
@@ -1078,6 +1080,7 @@ h3(#other). "Other":#other
 * "append":https://github.com/pvorb/node-append -- Append properties from one object to another.
 * "audience-meter":https://github.com/rs/audience-meter -- A simple audience meter based on Socket.IO, perfect for live events tracking
 * "node-browserify":https://github.com/substack/node-browserify -- Browser-side require() for your node modules and npm packages
+* "nova":https://github.com/wearefractal/nova -- Node.js libraries ported to the browser. Write once, run everywhere.
 * "behaviors":https://github.com/caolan/behaviors -- A simple way to check a module's exports, useful for 3rd party plugins and extensions
 * "box2dnode":https://github.com/jadell/box2dnode -- Port of the box2d physics simulation library
 * "node-bullet":https://github.com/feisty/bullet -- "Bullet Physics":http://bulletphysics.org/ for node.js
@@ -1204,6 +1207,7 @@ documentation generator
 * "node-webworker":https://github.com/pgriess/node-webworker -- An implementation of the HTML5 Web Worker API.
 * "node-yui3":https://github.com/davglass/nodejs-yui3 -- Use the "YUI 3":http://developer.yahoo.com/yui/3 JS library from node.js
 * "node-yql":https://github.com/drgath/node-yql -- A YQL (Yahoo Query Language) module for Node.js
+* "node-dep":https://github.com/wearefractal/node-dep -- A Node.js module to analyze package dependencies
 * "node-zoneinfo":https://github.com/gsmcwhirter/node-zoneinfo -- A wrapper around Date to be able to use zoneinfo file timezone information
 * "node-zookeeper":https://github.com/yfinkelstein/node-zookeeper - Apache Zookeeper client API for node.js
 * "NormAndVal":https://github.com/roberthahn/NormAndVal -- Data normalization and validation for Node.js and the browser
