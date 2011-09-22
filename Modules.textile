@@ -458,7 +458,7 @@ h3(#build-and-deployment). "Build and Deployment":#build-and-deployment
 * "inireader":https://github.com/Ajnasz/IniReader -- Ini file parser
 * "doc.md":https://github.com/Pita/doc.md -- A simple JSDoc documenation tool that creates markdown for node.js modules
 * "coffee-conf":https://github.com/MSNexploder/coffee-conf -- Write your config files in coffee-script.
-* "Gittyup":"https://github.com/spiceapps/gittyup" -- Application deployment library for node.js
+* "Gittyup":https://github.com/spiceapps/gittyup -- Application deployment library for node.js
 
 <a name="wiki-package-management"></a>
 
