@@ -1136,6 +1136,7 @@ documentation generator
 * "json-streamify":https://github.com/DTrejo/json-streamify -- Streaming version of <code>JSON.stringify</code> for node.js
 * "koala":https://github.com/visionmedia/koala.js -- Code syntax highlighting library
 * "kohai":https://github.com/nodejitsu/kohai -- I am kohai. I am a pluggable irc bot for managing real-time data events.
+* "konphyg":https://github.com/pgte/konphyg -- Cascading configuration files made easy in Node.js.
 * "knox":https://github.com/LearnBoost/knox -- Amazon S3 client from the team at LearnBoost
 * "LDAP":https://github.com/jeremycx/node-LDAP -- LDAP search/authenticate binding
 * "lepote":https://github.com/tdebarochez/lepote -- XMPP bot
