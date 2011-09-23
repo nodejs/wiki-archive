@@ -43,3 +43,17 @@ got this working instead with
 
 
 
+if you have bug:
+
+
+
+    task failed (err #2):  	
+    {task: uv uv.h -> uv.a}
+
+use the stable version:
+
+
+
+    git clone git://github.com/joyent/node.git
+    cd node
+    git checkout v0.4.11
