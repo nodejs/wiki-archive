@@ -650,6 +650,7 @@ h3(#testing). "Testing / Spec Frameworks":#testing
 * "maryjane":https://github.com/dhasenan/maryjane/ -- Mock object library inspired by Mockito
 * "minitest.js":https://github.com/botanicus/minitest.js -- Light-weight & simple testing framework designed specially for testing asynchronous code.
 * "mjsunit.runner":https://github.com/tmpvar/mjsunit.runner -- Command line mjsunit runner which provides an easy way to hook into mjsunit and start running tests immediately.
+* "nock":https://github.com/pgte/nock -- HTTP mocking and expectations library.
 * "node-assert-extras":http://gitorious.org/node-assert-extras -- Additional high level asserts
 * "node-async-testing":http://bentomas.github.com/node-async-testing/ -- Simple, fast, extendable unit testing.  
 * "node-qunit":https://github.com/kof/node-qunit -- QUnit port for nodejs. Very simple API, async testing, good tested testing framework.
