@@ -151,6 +151,7 @@ h2. Companies
 * "Chomp":http://chomp.com - mobile application search, uses node for components of the production backend
 * "Chompin":http://chompin.com - discover new music, mobile app, uses node for the entire back end api
 * "clickdummy":http://clickdummy.net - Fast prototyping for designers and dummies
+* "Clock Limited":http://www.clock.co.uk - Top 100, Award-winning design and build agency specialising in node. 
 * "cloudnode":http://cloudno.de/ -- NodeJS hosting and CouchDB hosting based on Nodester and CouchDB.
 * "computeruniverse":http://www.computeruniverse.net -- online shop for computers, notebooks, home entertainment and much more
 * "Comvel GmbH":http://www.weg.de -- One of the biggest travelsites in Germany
