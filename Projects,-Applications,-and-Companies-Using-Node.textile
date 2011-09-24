@@ -103,7 +103,7 @@ h2. Projects and Applications
 * "ShareDesk":https://github.com/namjul/shareDesk - Share files on a virtual desk with others (of course) in real time ("http://sharedesk.at":http://sharedesk.at)
 * "Simple Isometric Game Concept":https://github.com/diaswrd/Singd - Simple multi-player isometric node.js game concept
 * "Simple Node.js MUD":http://github.com/gumho/simple-node.js-mud - Simple multi-user dungeon using Node.js
-* "slyncr":http://cleverchris.com/slyncr/ — bookmarklet to control web slideshows via a remote site
+* "slyncr":https://github.com/chrisjaure/slyncr — bookmarklet to control web slideshows via a remote site
 * "Socket.IO":http://github.com/LearnBoost/Socket.IO-node - An abstraction over all the realtime transports (WebSocket, long polling, XHR multipart, etc) for the Node HTTP server
 * "Sousaball":http://github.com/creationix/sousaball by creationix (<a href="http://sousaball.creationix.com">sousaball.creationix.com</a>)
 * "spotted@":http://spotted.at/ — spotted @ provides local classifieds for jobs, housing, for sale, personals, services, local community, and events.
