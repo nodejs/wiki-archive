@@ -125,7 +125,6 @@ h2. Projects and Applications
 * "wtfjs":http://github.com/brianleroux/wtfjs - what the fuck javascript!
 * "zztmmo":http://github.com/marak/zztmmo - a zzt based massive multiplayer online game built in node.js and jQuery (currently only single player)
 * "meetbymaps":http://www.meetbymaps.com - a realtime social network that  geolocalize users, events and many other things.Has a simple login using fb account, the base is the map of google!
-* "gevorg.me":http://gevorg.me - Gevorg Harutyunyan's work and basic information details.
 * "grir.am":http://grir.am - Website where users with knowledge of armenian may improve their typing skills.
 
 
