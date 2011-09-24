@@ -290,8 +290,8 @@ h3(#database). "Database":#database
 **** "node-mongodb-wrapper":https://github.com/idottv/node-mongodb-wrapper -- As close as possible to the command-line driver. Uses node-mongodb-native.
 **** "mongode":https://github.com/milewise/mongode -- Very thin wrapper around node-mongodb-native that simplifies the API a bit.
 **** "N-Ext":https://github.com/xcambar/n-ext -- Use Ext.data packages in your NodeJS apps (includes a MongoDB proxy based on "node-mongodb-native":https://github.com/xcambar/n-ext/node-mongodb-native)
+**** "mongoq":https://github.com/zzdhidden/mongoq -- MongoDB is: mongoq('mongodb://localhost/db').collection('users').find().toArray(function(error, docs){})
 *** "node-mongolian":https://github.com/marcello3d/node-mongolian -- Mongolian DeadBeef is an awesome Mongo DB node.js driver that attempts to closely approximate the mongodb shell
-*** "mongoq":https://github.com/zzdhidden/mongoq -- Use mongoDB like this: mongoq('mongodb://localhost/db').collection('users').find().toArray(function(error, docs){}).
 *** "mongolia":https://github.com/masylum/mongolia -- Flexible wrapper for the nodejs Mongo driver. Lighter than a ORM but easier to use than the driver.
 *** "mongoose":http://mongoosejs.com/ -- Mongoose is a JavaScript library that makes working with MongoDB a breeze.
 *** "mongous":https://github.com/amark/mongous -- Mongous is a dead simple MongoDB driver that uses a jQuery styled syntax.
