@@ -4,6 +4,9 @@ The following is a list of some interesting api bits that aren't considered safe
 
 Note that V8 implements all of ECMA 3rd edition and parts of the new stuff in the "ECMA 5th edition":http://www.ecma-international.org/publications/standards/Ecma-262.htm
 
+"Sample usage":https://gist.github.com/1073547 of all features are here. You can try new features with Changing & Executing this source. 
+
+
 h2. Syntax extensions
 
 @var obj = { get a() { return "something" }, set a() { "do nothing" } }@ getter/setter syntax
