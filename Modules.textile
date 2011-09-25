@@ -220,6 +220,7 @@ h4(#middleware). "Middleware":#middleware
 ** "eventpipe":http://www.google.com/url?sa=D&q=https://github.com/dhruvbird/eventpipe -- Provides an Event Pipe with the *same* API as node.js' EventEmitter
 ** "express-twitter":https://github.com/mahemoff/express-twitter -- Twitter-specific OAuth support
 ** "http-auth":https://github.com/gevorg/http-auth -- Utility that is creating HTTP server with basic authentication.
+** "http-auth2":https://github.com/SDA/http-auth2 -- HTTP basic authentication that supports multiple logins.
 ** "lucky-server":https://github.com/gevorg/lucky-server -- Utility that is looking for available port and running public/private HTTP server on that port.
 
 <a name="wiki-web-frameworks-other"></a>
