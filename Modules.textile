@@ -739,7 +739,7 @@ h4(#parsers-commandline). "Command Line Option Parsers":#parsers-commandline
 * "Operetta":https://github.com/tricknik/node-operetta -- A Node Option Parser That Sings!
 * "yanop":https://github.com/frodwith/yanop -- Yet Another Node Option Parser
 * "options.js":http://valeriu.palos.ro/1026/command-line-option-parser-in-javascript/ -- An inline (non-module!) options parser that is very small and yet quite complete.
-* "celery.js":https://github.com/spiceapps/celery -- Complete command line interfaces lib for node.js
+* "celeri.js":https://github.com/spiceapps/celeri -- Complete command line interfaces lib for node.js
 
 <a name="wiki-parser-generators"></a>
 
