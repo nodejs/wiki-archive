@@ -564,7 +564,7 @@ h3(#rpc). "RPC":#rpc
 * "xmlrpc":https://github.com/baalexander/node-xmlrpc -- A pure JavaScript XML-RPC server and client
 * "dnode":https://github.com/substack/dnode -- Asynchronous remote method calls with transparently wrapped callbacks. Works with regular network streams or socket.io.
 * "node-jsonrpc":https://github.com/andris9/node-jsonrpc -- Another JSON-RPC server
-* "jsonrpc2":https://github.com/Philipp15b/node-jsonrpc2 -- A JSON-RPC version 2 server
+* "jsonrpc2":https://github.com/Philipp15b/node-jsonrpc2 -- A super easy to use JSON-RPC v2 server
 * "IPCNode":https://github.com/Frans-Willem/IPCNode -- Asynchronous RPC library based on node.js Stream object,  with support for circular objects, and explicit reference counting to ensure proper garbage collection.
 * "msgpack-rpc":https://github.com/bpot/node-msgpack-rpc -- Implementation of Msgpack-RPC (http://msgpack.org)
 * "node-ipcbuffer":https://github.com/dazhazit/node-ipcbuffer -- A modified Buffer object to pass large amounts of data between processes using POSIX or System V IPC shared memory and or do fast read and writes to files. (Windows soon).
