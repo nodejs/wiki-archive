@@ -1099,6 +1099,7 @@ h3(#other). "Other":#other
 * "Curator.js":https://github.com/clvv/Curator.js -- A flexible process monitoring and management framework
 * "node-cookiejar":https://github.com/bmeck/node-cookiejar -- repetitive use cookie jar construction / cookie functionality
 * "daemon.node":https://github.com/Slashed/daemon.node/ -- Unix/Linux Daemons with node.js
+* "underscore.date":https://github.com/timrwood/underscore.date -- Javascript date library for parsing, manipulating, and formatting dates, all without modifying the Date.prototype. Supports timeago and i18n. Works in Node and the browser.
 * "node-date":https://github.com/tarunc/node-date -- Utilities adding extra functionality to the Date object (Works in Node + Browser)
 * "datejs":https://github.com/chrisdew/datejs -- DateJS wrapped up as an NPM package for node.js
 * "dateformat":https://github.com/felixge/node-dateformat -- A node.js package for Steven Levithan's excellent dateFormat() function
