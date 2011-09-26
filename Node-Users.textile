@@ -381,6 +381,8 @@ h2. UTC-4 (-3)
 
 h2. UTC-3 (-2)
 
+* Jonathan Leibiusky
+** "Twitter":http://twitter.com/xetorthio, "GitHub":http://github.com/xetorthio
 * Pedro Viegas
 ** "Twitter":http://twitter.com/pasviegas, "GitHub":http://github.com/pasviegas
 * Emilio Astarita
