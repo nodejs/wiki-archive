@@ -481,6 +481,7 @@ h3(#build-and-deployment). "Build and Deployment":#build-and-deployment
 * "coffee-conf":https://github.com/MSNexploder/coffee-conf -- Write your config files in coffee-script.
 * "Gittyup":https://github.com/spiceapps/gittyup -- Application deployment library for node.js
 * "npkg":https://github.com/wearefractal/npkg -- Generates cross-platform installers for Node.js applications
+* "envious":https://github.com/markbao/node-envious -- environment variable configuration that's too easy to pass up
 
 <a name="wiki-package-management"></a>
 
