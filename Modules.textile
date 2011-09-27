@@ -516,6 +516,7 @@ h3(#security). "OpenSSL / Crypto / Hashing":#security
 * "node-oauth":https://github.com/ciaranj/node-oauth -- OAuth client (1 and 2)
 * "oauthjs":https://github.com/itea/oauthjs -- OAuth client
 * "oauth-server":https://github.com/selead/oauth-server -- OAuth server (1.0A)
+* "node-oauth2-provider":https://github.com/ammmir/node-oauth2-provider -- OAuth 2 provider as Connect/Express middleware with custom token storage hooks
 * "node-openid":https://github.com/havard/node-openid -- OpenID 1.1/2.0 Relying Party (client)
 * "pass":https://github.com/andris9/pass -- Validate/generate Apache htpasswd passwords (for Basic Auth)
 * "rbytes":https://github.com/akdubya/rbytes -- Secure random byte generator for session keys, UUIDs, etc.
