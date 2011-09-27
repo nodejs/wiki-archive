@@ -1062,7 +1062,7 @@ h3(#i18n). "I18n and L10n modules":#i18n
 * "translate.js":https://github.com/Marak/translate.js -- translate text from one language to another on node.js and the browser. 30+ languages supported, simple as cake.
 * "inflect":https://github.com/MSNexploder/inflect -- A port of the Rails / ActiveSupport inflector to JavaScript.
 * "node-gettext":https://github.com/andris9/node-gettext -- Use Gettext .MO files with Node.js.
-
+* "lingua":https://github.com/akoenig/express-lingua -- A i18n middleware for the Express.js framework.
 
 <a name="wiki-boilerplates"></a>
 
