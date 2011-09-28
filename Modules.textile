@@ -989,7 +989,6 @@ h3(#api-clients). "API clients":#api-clients
 * "node-taobao":https://github.com/e6nian/node-taobao/ -- A client library for taobao.com api
 * "node-twilio":https://github.com/sjwalter/node-twilio/ -- A helper library for the Twilio API
 * "node-twitter":https://github.com/jdub/node-twitter -- Asynchronous Twitter REST/stream/search client for node.js
-* "twitter-search":https://github.com/edwardhotchkiss/twitter-search -- Twitter API Search w/ search result pagination, returning up to 1500 queried tweets with RegEx search, kSorts, Klout scoring and filters
 * "node-vk":https://github.com/Sonetica/node-vk -- vkontakte.ru and vk.com social network api wrapper for mobile and desktop applications.
 * "pingdom":https://github.com/ryanbreen/node-pingdom -- A module for accessing the Pingdom JSON API
 * "webmetrics":https://github.com/ryanbreen/node-webmetrics -- A module for accessing the Webmetrics JSON API
@@ -999,6 +998,7 @@ h3(#api-clients). "API clients":#api-clients
 * "tumblrrr":https://github.com/mvrilo/tumblrrr -- A wrapper for Tumblr's API
 * "tumblr":https://github.com/meritt/node-tumblr -- A wrapper for Tumblr's API v2
 * "tweetstream":https://github.com/mikeal/tweetstream -- Stream like API for twitter's HTTP streaming interface.
+* "twitter-search":https://github.com/edwardhotchkiss/twitter-search -- Twitter API Search w/ search result pagination, returning up to 1500 queried tweets with RegEx search, kSorts, Klout scoring and filters
 * "TwitScript":https://github.com/ryanmcgrath/twitscript -- A port of Twython to Node.js (Twitter API Library)
 * "twitter-js":https://github.com/masylum/twitter-js -- Easy peasy twitter client for connect.
 * "node-gravatar":https://github.com/arnabc/node-gravatar -- Node.js Gravatar URL generator, can be used with Node.js blogging frameworks 
