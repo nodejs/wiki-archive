@@ -260,3 +260,4 @@ h2. Discussion
 Anyone else think that all the "Modules":https://github.com/joyent/node/wiki/modules listed here should be removed, and to remove ambiguity between modules and projects/applications, projects/applications should be renamed to websites/apps (not modules).
 
 * +1 ~balupton
+* +1 ~weisjohn
