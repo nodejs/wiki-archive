@@ -1251,6 +1251,7 @@ documentation generator
 * "require-analyzer":https://github.com/nodejitsu/require-analyzer -- Determine the set of requirements for a given node.js file, directory tree, or module
 * "seek":https://github.com/pvorb/node-seek -- recursively search through a bunch of files
 * "sh.js":http://shjs.tuton.fr -- library for Unix shell scripting, replace Bash scripts with JavaScript
+* "short":https://github.com/edwardhotchkiss/short -- URL shortener built over mongoose for use as an internal API or as a standalone
 * "simplesets":https://github.com/PeterScott/simplesets-nodejs -- Set data type, with API similar to Python's sets module. Supports any data type, with equality tested by @===@.
 * "Task.node":https://github.com/botanicus/task.node Simple task manager similar to Rake, Scons and others.
 * "tasks.js":https://github.com/dandean/tasks.js Tasks for Node (like Rake!) with a very JavaScripty API.
