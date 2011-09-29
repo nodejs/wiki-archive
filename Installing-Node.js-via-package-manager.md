@@ -15,9 +15,9 @@ Example install:
     sudo apt-get update
     sudo apt-get install nodejs
 
-It installs current stable nodejs on the current stable ubuntu.
+It installs current stable Node on the current stable ubuntu.
 
-If you want to compile nodejs C++ modules:
+If you want to compile Node C++ modules:
 
     sudo apt-get install nodejs-dev
 
