@@ -1362,3 +1362,4 @@ h2(#search). "Full text search":#search
 * "jsii":https://github.com/karussell/jsii -- pure JavaScript in-memory full text search
 * "node-search":https://github.com/talltyler/node-search -- pure JavaScript full text search
 * "node-clucene":https://github.com/erictj/node-clucene -- CLucene, a C++ based port of Lucene, all wrapped up in a node module for lightning-fast indexing and searching
+* "mmseg4n":https://github.com/nroe/mmseg4n -- mmseg for nodejs chinese analyzer
