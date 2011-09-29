@@ -32,14 +32,24 @@ Use make to build and install Node (execute the following on the command line)
     git clone --depth 1 git://github.com/joyent/node.git # or git clone git://github.com/joyent/node.git if you want to checkout a stable tag
     cd node
     git checkout v0.4.11 # optional.  Note that master is unstable.
-    export JOBS=2 # optional, sets number of parallel commands.
-    mkdir ~/local
-    ./configure --prefix=$HOME/local/node
-    make
-    make install
-    echo 'export PATH=$HOME/local/node/bin:$PATH' >> ~/.profile
-    echo 'export NODE_PATH=$HOME/local/node:$HOME/local/node/lib/node_modules' >> ~/.profile
-    source ~/.profile
+    ./configure
+    make -j2 # -j sets the number of jobs to run
+    [sudo] make install
+
+You may wish to install Node in a custom folder instead of a global directory. If so, use something like this, after cloning and checking out:
+
+    ./configure --prefix=/opt/node
+    make -j2 # Again, -j sets the number of jobs to run
+    [sudo] make install
+    echo 'export NODE_PATH=/opt/node:/opt/node/lib/node_modules' >> ~/.profile # ~/.bash_profile or ~/.bashrc on some systems
+
+You may want to put the node executables in your path as well for easier use:
+
+    echo 'export PATH=$PATH:/opt/node' >> ~/.profile # ~/.bash_profile or ~/.bashrc on some systems
+
+To reload the path in your current instance of Terminal or bash, use:
+
+    . ~/.profile # Or ~/.bash_profile
 
 If you have any installation problems, look at [Troubleshooting
 Installation](https://github.com/ry/node/wiki/Troubleshooting-Installation), try an [alternative installation method](https://gist.github.com/579814), or stop into [#node.js](http://webchat.freenode.net/?channels=node.js&uio=d4) and ask questions.
