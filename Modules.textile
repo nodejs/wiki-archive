@@ -220,7 +220,7 @@ h4(#middleware). "Middleware":#middleware
 ** "Node-Http-Rewrite-Proxy":https://github.com/FlashFan/Node-Http-Rewrite-Proxy -- This module proxies and rewrites HTTP requests of all types. For this you can, if you want, use regular expressions.
 ** "eventpipe":http://www.google.com/url?sa=D&q=https://github.com/dhruvbird/eventpipe -- Provides an Event Pipe with the *same* API as node.js' EventEmitter
 ** "express-twitter":https://github.com/mahemoff/express-twitter -- Twitter-specific OAuth support
-** "http-auth":https://github.com/gevorg/http-auth -- Utility that is creating HTTP server with basic authentication.
+** "http-auth":https://github.com/gevorg/http-auth -- Module for HTTP basic and digest access authentication.
 ** "http-auth2":https://github.com/SDA/http-auth2 -- HTTP basic authentication that supports multiple logins.
 
 <a name="wiki-web-frameworks-other"></a>
