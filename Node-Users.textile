@@ -901,7 +901,7 @@ h2. UTC+10 or UTC+11
 * Peter Georgeson, Melbourne, Australia
 ** "Twitter":http://twitter.com/petergeorgeson, "GitHub":http://github.com/supernifty, "Website":http://www.supernifty.com.au/
 * Andrey Sidorov, Melbourne, Australia
-** "Twitter":http://twitter.com/sidorares, "GitHub":http://github.com/sidorares
+** "Twitter":http://twitter.com/sidorares, "GitHub":http://github.com/sidorares, "Google+":https://plus.google.com/u/0/103427972663119530249/about
 * Dr Nic Williams, Brisbane, Australia
 ** "Twitter":http://twitter.com/drnic, "GitHub":http://github.com/drnic, "Website":http://drnicwilliams.com
 * Brian McKenna, Brisbane, Australia
