@@ -45,7 +45,7 @@ You may wish to install Node in a custom folder instead of a global directory. I
 
 You may want to put the node executables in your path as well for easier use:
 
-    echo 'export PATH=$PATH:/opt/node' >> ~/.profile # ~/.bash_profile or ~/.bashrc on some systems
+    echo 'export PATH=$PATH:/opt/node/bin' >> ~/.profile # ~/.bash_profile or ~/.bashrc on some systems
 
 To reload the path in your current instance of Terminal or bash, use:
 
