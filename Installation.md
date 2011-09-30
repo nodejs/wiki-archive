@@ -54,7 +54,7 @@ To reload the path in your current instance of Terminal or bash, use:
 If you have any installation problems, look at [Troubleshooting
 Installation](https://github.com/ry/node/wiki/Troubleshooting-Installation), try an [alternative installation method](https://gist.github.com/579814), or stop into [#node.js](http://webchat.freenode.net/?channels=node.js&uio=d4) and ask questions.
 
-`node` is a separate package from `nodejs` on Ubuntu/Debian. However, `nodejs` is insanely old (0.2.6 in natty); going for the source is almost certainly worth it.
+The default `node` is *not* Node.js on Ubuntu/Debian; `nodejs` is, but is incredibly old because of the fast development pace of Node.js at this time.
 
 **Pre-built binaries**
 
