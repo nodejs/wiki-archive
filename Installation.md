@@ -62,9 +62,6 @@ You can also install node from packages: [[Installing Node.js via package manage
 
 **Configure shell script for Ubuntu**
 
-Rock-solid Node.js Platform on Ubuntu. Configure shell script  for install node.js  using http://apptob.org
-
-
 ## Step 3b - Building on Windows
 
 **Pre-built binaries**
