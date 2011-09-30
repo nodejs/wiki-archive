@@ -31,7 +31,7 @@ Use make to build and install Node (execute the following on the command line)
 
     git clone --depth 1 git://github.com/joyent/node.git # or git clone git://github.com/joyent/node.git if you want to checkout a stable tag
     cd node
-    git checkout v0.4.11 # optional.  Note that master is unstable.
+    git checkout v0.4.12 # optional.  Note that master is unstable.
     ./configure
     make -j2 # -j sets the number of jobs to run
     [sudo] make install
