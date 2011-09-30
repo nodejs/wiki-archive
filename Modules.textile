@@ -1321,7 +1321,7 @@ h2(#managment). "Node Management Utilities":#management
 * "n":https://github.com/visionmedia/n -- node version manager
 * "neco":https://github.com/kuno/neco  -- Nodejs Ecosystem Coordinator
 * "iisnode":https://github.com/tjanczuk/iisnode -- hosting node.js applications in IIS on Windows
-
+* "node-discover":https://github.com/wankdanker/node-discover -- easily discover and keep track of node instances on your subnet
 <a name="wiki-commonjs-compat"></a>
 
 h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":#commonjs-compat
