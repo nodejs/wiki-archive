@@ -61,6 +61,7 @@ The default `node` is *not* Node.js on Ubuntu/Debian; `nodejs` is, but is incred
 You can also install node from packages: [[Installing Node.js via package manager]]
 
 **Configure shell script for Ubuntu**
+
 Creating Rock-solid Node.js Platform on Ubuntu using configuration shell script http://apptob.org
 
 ## Step 3b - Building on Windows
