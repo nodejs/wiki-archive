@@ -393,6 +393,7 @@ h3(#templating). "Templating":#templating
 * "ejs":https://github.com/visionmedia/ejs -- Light-weight Embedded JavaScript implementation. "Express":http://expressjs.com compliant
 * "haml.js":https://github.com/visionmedia/haml.js -- Faster / more compliant implementation of Haml. "Express":http://expressjs.com support
 * "haml-js":https://github.com/creationix/haml-js -- Server side html generation using JavaScript.  Parses haml templates and renders html.
+* "JsHtml":https://github.com/LuvDaSun/jshtml -- Clean HTML, full JavaScript template engine. Inspired by the razor view engine used in asp.net mvc.
 * "jqtpl":https://github.com/kof/node-jqtpl -- A port of the new jQuery template engine. "Express":http://expressjs.com compliant
 * "Jade":https://github.com/visionmedia/jade -- Haml-like template engine, fantastic error reporting, easier to read, higher performance. "Express":http://expressjs.com compliant
 * "jazz":https://github.com/shinetech/jazz -- A readable template language for node.
