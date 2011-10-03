@@ -123,6 +123,6 @@ And visit
 [https://github.com/isaacs/npm](https://github.com/isaacs/npm) for
 details.
 
-### Windows Native Experimental
+### NPM for Windows Native - Experimental
 **IMPORTANT** Isaacs will explode your computer across space and time through sheer force of will if you create issues without following the instructions exactly or without fully providing the requisite debug info. This is in an early stage of functionality and **will** break.
 http://npmjs.org/doc/README.html#Installing-on-Windows-Experimental
