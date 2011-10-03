@@ -675,6 +675,8 @@ h2. UTC+1 (+2)
 ** "GitHub":http://github.com/xk, "Twitter":http://twitter.com/jorgechamorro, "Website":http://jorgechamorro.com/
 * Mattijs Hoitink (mattijs), Utrecht, The Netherlands
 ** "GitHub":http://github.com/mattijs, "Website":http://monkeyandmachine.com
+* Christian Tellnes (tellnes), Trondheim, Norway
+** "GitHub":http://github.com/tellnes, "Website":http://christian.tellnes.com
 
 h2. UTC+2 (+3)
 * Aurimas Rim?a, Lithuania
