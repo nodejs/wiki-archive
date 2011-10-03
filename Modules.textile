@@ -73,6 +73,7 @@ h4(#web-frameworks-routers). "Routers":#web-frameworks-routers
 * "choreographer":https://github.com/laughinghan/choreographer -- Your server is my stage -- dirt simple URL routing for Node.js. Easy to use, easy to understand. Sinatra-style API.
 * "clutch":https://github.com/clement/clutch -- no-frills web request router, supporting nested routes, regexp parameters
 * "connect":https://github.com/senchalabs/Connect -- Robust high performance middleware framework
+* "crossroads":https://millermedeiros.github.com/crossroads.js/ -- Powerful and Flexible routing library, works on the client-side as well and have support for advanced features.
 * "dispatch":https://github.com/caolan/dispatch -- Regular expression URL dispatcher for Connect
 * "escort":https://github.com/ckknight/escort -- High-performance, advanced routing and URL generation
 * "filter-chain":https://github.com/teknopaul/filter-chain -- Java ServletFilter style request chaining
@@ -1065,7 +1066,7 @@ h3(#async-flow). "Control flow / Async goodies":#async-flow
 * "read-files":https://github.com/pvorb/node-read-files -- Asynchronously read a bunch of files and give a callback when reading is complete.
 * "seq":https://github.com/substack/node-seq -- Chainable asynchronous control flow for node.js with sequential and parallel primitives and pipeline-style error handling
 * "sexy":https://github.com/crabdude/sexy -- Proxy (ES5) for writing sequential asynchronous code in a synchronous style
-* "Signals":https://github.com/igo/signals -- Custom Event/Messaging system
+* "Signals":http://millermedeiros.github.com/js-signals/ -- Custom Event/Messaging system which supports advanced features, doesn't rely on strings for the event publishing/subscribing and favor composition over inheritance.
 * "simple-schedule":https://github.com/SaltwaterC/simple-schedule -- Simple scheduler for dispatching a number of batch tasks at defined intervals
 * "Slide":https://github.com/isaacs/slide-flow-control  -- A control flow library that fits in a slide presentation
 * "soda.js":https://github.com/tomyan/soda -- Asynchonous JavaScript module loader for client-side and Node.js
