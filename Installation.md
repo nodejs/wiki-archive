@@ -107,7 +107,7 @@ Cygwin can also be used but this is generally not recommended, and especially no
 It is possible to host node.js application in IIS on Windows using the [iisnode](https://github.com/tjanczuk/iisnode) IIS module. More details available [here](http://tomasz.janczuk.org/2011/08/hosting-nodejs-applications-in-iis-on.html). 
 
 
-## Step 4 - Install NPM (not functional on Windows yet)
+## Step 4 - Install NPM **(Windows see below)**
 
 NPM is a package manager that has become the de-facto standard for
 installing additional node libraries and programs. Here's the quick
@@ -123,4 +123,6 @@ And visit
 [https://github.com/isaacs/npm](https://github.com/isaacs/npm) for
 details.
 
-**NPM does not work on Windows yet**
+*Windows Native Experimental*
+**IMPORTANT** Isaacs will explode your computer across space and time through sheer force of will if you create issues without following the instructions exactly or without fully providing the requisite debug info. This is in an early stage of functionality and **will** break.
+http://npmjs.org/doc/README.html#Installing-on-Windows-Experimental
