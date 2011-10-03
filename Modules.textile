@@ -832,7 +832,7 @@ h4(#parsers-other). "Other Parsers":#parsers-other
 * "node-struct":https://github.com/xdenser/node-struct -- Parse/format binary data in buffers.
 * "node-feedparser":https://github.com/danmactough/node-feedparser - RSS, Atom, and RDF feed parsing in Node.js
 * "VIE":https://github.com/bergie/VIE - RDFa parsing in Node.js
-
+* "butter":https://github.com/rootslab/butter - Butter === nodeJS Buffer + ( some hexadecimals delights )
 <a name="wiki-debugging"></a>
 
 h3(#debugging). "Debugging / Console Utilities":#debugging
