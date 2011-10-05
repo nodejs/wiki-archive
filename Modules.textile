@@ -1194,7 +1194,7 @@ documentation generator
 * "node-chat":https://github.com/scottgonzalez/node-chat -- A simple web-based chat server
 * "node-control":https://github.com/tsmith/node-control -- System admin and code deployment via ssh (similar to Capistrano/Vlad)
 * "node-email":https://github.com/aheckmann/node-email -- A simple wrapper around sendmail
-* "node-init":https://github.com/frodwith/node-init -- Turn your node daemon into an LSB-compatible init script
+* "node-init":https://github.com/frodwith/node-init -- Turn your node daemon into an LSB-compatible init script with customizable shutdown functions
 * "nodejs-phpmailer":https://github.com/shimondoodkin/nodejs-phpmailer -- enables to send  emails with inline images with phpmailer from nodejs.
 * "node-validator":https://github.com/chriso/node-validator -- String validation, sanitization and filtering - support for user input validation with your chosen web framework
 * "node-Daemon":https://github.com/Eyjafjallajokull/node-Daemon -- Restart node script after each change in main script or its dependencies
