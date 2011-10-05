@@ -70,6 +70,7 @@ h4(#web-frameworks-routers). "Routers":#web-frameworks-routers
 * "barista":https://github.com/kieran/barista -- A fast, flexible URL router & generator, similar to Rails / merb
 * "beeline":https://github.com/xavi-/beeline -- A laughably simplistic router for node.js
 * "biggie-router":https://github.com/biggie/biggie-router -- Router for the biggie framework. Inspired by Sinatra and JQuery.
+* "blueprint":https://github.com/ingklabs/blueprint -- Blueprint for an App. Middleware, & MVC routing over Node.js & Mongoose
 * "choreographer":https://github.com/laughinghan/choreographer -- Your server is my stage -- dirt simple URL routing for Node.js. Easy to use, easy to understand. Sinatra-style API.
 * "clutch":https://github.com/clement/clutch -- no-frills web request router, supporting nested routes, regexp parameters
 * "connect":https://github.com/senchalabs/Connect -- Robust high performance middleware framework
