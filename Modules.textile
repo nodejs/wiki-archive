@@ -91,6 +91,7 @@ h4(#web-frameworks-static). "Static file servers":#web-frameworks-static
 * "navajo":https://github.com/dresende/navajo - A simple web server with the ability to run PHP or Node code as well as serve static files (alpha)
 * "Nitrode":https://github.com/ollym/nitrode -- A lightweight, super fast HTTP 1.1 with internal JS API
 * "antinode":https://github.com/mhansen/antinode -- A simple static web server
+* "connect":https://github.com/senchalabs/connect -- Connect's static() middleware provides flexible, high-performance, feature-rich static file serving
 * "node-paperboy":https://github.com/felixge/node-paperboy -- A node.js module for delivering static files
 * "node-static":https://github.com/cloudhead/node-static -- A simple, rfc 2616-compliant static file server module with built-in caching
 * "oui":https://github.com/rsms/oui -- Web service server with great static files support
