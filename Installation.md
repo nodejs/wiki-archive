@@ -36,7 +36,7 @@ Use make to build and install Node (execute the following on the command line)
     make -j2 # -j sets the number of jobs to run
     [sudo] make install
 
-*NOTE*: In mac OSX 10.7 compilation fails if you use make -j _n_ , you can use 
+**NOTE**: In mac OSX 10.7 compilation fails if you use make -j _n_ , you can use 
     make
 
 You may wish to install Node in a custom folder instead of a global directory. If so, use something like this, after cloning and checking out:
