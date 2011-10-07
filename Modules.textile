@@ -790,6 +790,7 @@ h4(#parser-generators).  "Parser Generators":#parser-generators
 <a name="wiki-parsers-other"></a>
 
 h4(#parsers-other). "Other Parsers":#parsers-other
+* "groan":https://github.com/mscdex/groan -- A PHP session file parser
 * "tldextract":https://github.com/masylum/tldextract -- Extract domain, subdomain and tld from a url.
 * "mingy":https://github.com/mcantelon/node-mingy -- Command parser for CLI tool and adventure game needs. Works well with the optimist module.
 * "node-rdf2json":https://github.com/baxtree/node-rdf2json -- A simple RDF/XML to JSON converter
