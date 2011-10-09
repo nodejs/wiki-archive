@@ -886,6 +886,7 @@ h3(#debugging). "Debugging / Console Utilities":#debugging
 * "Shell":https://github.com/wdavidw/node-shell -- Nice looking shell applications with pluggable middlewares
 * "Winston":https://github.com/indexzero/winston -- A multi-transport async logging library for node.js
 * "flume-rpc":https://github.com/recoset/node-flume-rpc -- A flume-compatible (RPC) logging source and sink
+* "feedme.js":https://github.com/fent/feedme.js -- RSS/Atom feed parser
 
 <a name="wiki-compression"></a>
 
@@ -1326,6 +1327,7 @@ documentation generator
 * "common-pool":https://github.com/baryshev/common-pool -- Simple resource pool
 * "webdav-sync":https://github.com/bermi/webdav-sync -- Syncs local directories with remote WebDAV server
 * "password-generator":https://github.com/bermi/password-generator -- Memorable password generator
+* "feedsub":https://github.com/fent/node-feedsub -- Subscribes to RSS/Atom feeds and notifies on new items.
 
 
 <a name="wiki-management"></a>
