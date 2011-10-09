@@ -299,6 +299,7 @@ h4(#db-nosql). "NoSQL and Key Value":#db-nosql
 
 h5(#db-nosql-mongo). "Mongo":#db-nosql-mongo
 
+* "mongojs": https://github.com/gett/mongojs -- Simple driver that emulates the mongodb API as much as possible.
 * "node-mongodb":https://github.com/orlandov/node-mongodb -- Basic MongoDB client implementation in JS/C++
 * "node-mongodb-native":https://github.com/christkv/node-mongodb-native -- A pure JavaScript driver for MongoDB.
 ** "node-mongoskin":https://github.com/guileen/node-mongoskin -- A future layer for node-mongodb-native.
