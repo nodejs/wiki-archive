@@ -591,6 +591,7 @@ h3(#tcp). "TCP / IP":#tcp
 * "node-poplib":https://github.com/ditesh/node-poplib -- POP3 client library for Node.js
 
 h3(#rpc). "RPC":#rpc
+* "nowjs":https://github.com/flotype/now -- nowjs makes realtime web apps really easy (http://nowjs.com)
 * "rpc-socket":https://github.com/FLYBYME/rpc-socket -- Multi socket support for JSON-RPC NOTE: still under development.
 * "bertrpc":https://github.com/rtomayko/node-bertrpc
 * "jsonrpc":https://github.com/ericflo/node-jsonrpc
