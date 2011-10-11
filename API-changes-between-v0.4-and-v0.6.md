@@ -1,0 +1,1 @@
+ * The `customFds` option to the `child_process.spawn` method is deprecated. 
