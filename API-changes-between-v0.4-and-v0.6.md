@@ -6,6 +6,7 @@ When editing this page please be as detailed as possible. Examples are encourage
  * You can no longer send a file descriptor through a unix pipe. Instead you can send a handle via `child_process.fork`.
  * `fs.symlink` takes an optional `mode` argument, which can either be 'dir' or 'file'.  The default is 'file'.  This argument is only needed for Windows (it's ignored on other platforms).
  * `http.Agent.appendMessage` was removed.
+ * The `require.paths` have been removed.
 
 ## Added:
 
