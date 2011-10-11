@@ -11,7 +11,7 @@ When editing this page please be as detailed as possible. Examples are encourage
 
 ## Added:
 
- * zlib module
+ * zlib module http://nodejs.org/docs/v0.5.9/api/zlib.html
  * `child_process.fork`
  * `fs.watch`
  * `assert(val)` as a shorthand for `assert.ok(val)`
