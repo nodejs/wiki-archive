@@ -8,3 +8,4 @@ Added:
 
  * zlib module
  * `child_process.fork`
+ * 'fs.watch'
