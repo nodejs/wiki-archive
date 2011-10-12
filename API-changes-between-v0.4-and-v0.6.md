@@ -14,6 +14,14 @@ When editing this page please be as detailed as possible. Examples are encourage
 ## Added:
 
  * zlib module http://nodejs.org/docs/v0.5.9/api/zlib.html
+ * `Buffer` supports `'hex'` encoding.
+ * `Buffer.readInt8()/readInt16BE()/readInt16LE()/readInt32LE()/readInt32BE()`
+ * `Buffer.readUInt8()/readUInt16BE()/readUInt16LE()/rreadUInt32LE()/readUInt32BE()`
+ * `Buffer.readFloatBE()/readFloadLE()/readDoubleBE()/readDoubleLE()`
+ * `Buffer.writeInt8()/writeInt16BE()/writeInt16LE()/write32BE()/write32LE()`
+ * `Buffer.writeUInt8()/writeUInt16BE()/writeUInt16LE()/writeU32BE()/writeU32LE()`
+ * `Buffer.writeFloatBE()/writeFloatLE()/writeDoubleBE()/writeDoubleLE()`
+ * `Buffer.fill()`
  * `child_process.fork`
  * `fs.watch`
  * `assert(val)` as a shorthand for `assert.ok(val)`
