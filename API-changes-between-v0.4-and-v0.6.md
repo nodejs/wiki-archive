@@ -27,7 +27,7 @@ When editing this page please be as detailed as possible. Examples are encourage
  * `crypto.createDiffieHellman()`, `crypto.pbkdf2()`, `crypto.randomBytes()`
  * `fs.watch`
  * `net.connect()`
- * `net.Socket.reportPort`, `bytesRead`, `bytesWrite`
+ * `net.Socket.remotePort`, `bytesRead`, `bytesWrite`
  * `process.arch`, `os.arch()`
  * `tls.Server` supports NPN (Next Protocol Negotitation) and SNI (Server Name Indication).
  * `util.format()`
