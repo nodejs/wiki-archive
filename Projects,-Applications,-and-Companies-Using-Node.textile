@@ -217,6 +217,7 @@ h2. Companies
 * "radicalDESIGNS":http://radicaldesigns.org/ - Online campaign tools for nonprofits and grassroots movements.
 * "Razorshift Entertainment":http://www.razorshift.com/ - Online social properties and services.
 * "Rdio":http://www.rdio.com/ -- Uses node to synchronize state across multiple devices logged in to a single account, render pages for non-JS browsers.
+* "RootMusic":http://www.rootmusic.com -- Uses Node for a development time build system and dependency management.  
 * "Redman Tech":http://redmantech.com -- using Node to power internal tools, real time log monitoring, and R&D projects.
 * "Scopely":http://bit.ly/scopely-github -- using Node to power realtime chat, user presence and notifications, analytics, apis and general geekery.
 * "SecretSocial":http://shh.sh - 100% node + SSL, a place for having private conversations.
