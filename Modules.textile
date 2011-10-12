@@ -100,6 +100,7 @@ h4(#web-frameworks-static). "Static file servers":#web-frameworks-static
 * "static-resource":https://github.com/atsuya/static-resource - Static resource handling for node.js
 * "Trailer":https://github.com/tylermwashburn/Trailer -- Everyone's favorite backend.
 * "nodetoy":https://github.com/teknopaul/nodetoy -- Static JSON file server that supports GET, POST and DELETE
+* "statify":https://github.com/techpriester/statify.js -- A static file server to make any directory available via HTTP from the command line.
 <a name="wiki-web-frameworks-micro"></a>
 
 h4(#web-frameworks-micro). "Microframeworks":#web-frameworks-micro
