@@ -14,7 +14,7 @@ When editing this page please be as detailed as possible. Examples are encourage
 
 ## Added:
 
- * zlib module http://nodejs.org/docs/v0.5.9/api/zlib.html
+ * `assert(val)` as a shorthand for `assert.ok(val)`
  * `Buffer` supports `'hex'` encoding.
  * `Buffer.readInt8()/readInt16BE()/readInt16LE()/readInt32LE()/readInt32BE()`
  * `Buffer.readUInt8()/readUInt16BE()/readUInt16LE()/rreadUInt32LE()/readUInt32BE()`
@@ -26,6 +26,7 @@ When editing this page please be as detailed as possible. Examples are encourage
  * `child_process.fork()`
  * `crypto.createDiffieHellman()`, `crypto.pbkdf2()`, `crypto.randomBytes()`
  * `fs.watch`
- * `assert(val)` as a shorthand for `assert.ok(val)`
  * `process.arch`, `os.arch()`
+ * `tls.Server` supports NPN (Next Protocol Negotitation) and SNI (Server Name Indication).
  * `util.format()`
+ * `zlib` module http://nodejs.org/docs/v0.5.9/api/zlib.html
