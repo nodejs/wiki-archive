@@ -12,7 +12,7 @@ When editing this page please be as detailed as possible. Examples are encourage
  * The `require.paths` have been removed (use `NODE_PATH` environment variable instead).
  * C++ `node::EventEmitter` has been removed. Instead use `node::MakeCallback()`
  * `process.ENV` was removed. Use `process.env` instead.
- * `process.binding('stdio')` was removed. This was internal. You shouldn't have been using it in the first place.
+ * `process.binding('stdio')` was removed. This was a private API. You shouldn't have been using it in the first place.
 
 ## Added:
 
@@ -24,6 +24,7 @@ When editing this page please be as detailed as possible. Examples are encourage
  * `Buffer.writeInt8()/writeInt16BE()/writeInt16LE()/write32BE()/write32LE()`
  * `Buffer.writeUInt8()/writeUInt16BE()/writeUInt16LE()/writeU32BE()/writeU32LE()`
  * `Buffer.writeFloatBE()/writeFloatLE()/writeDoubleBE()/writeDoubleLE()`
+ * Typed Arrays
  * `Buffer.fill()`
  * `child_process.fork()`
  * `crypto.createDiffieHellman()`, `crypto.pbkdf2()`, `crypto.randomBytes()`
