@@ -18,7 +18,6 @@ h2. Projects and Applications
 * "blog.js":http://github.com/furtivefelon/blog.js -- Simple blogging engine based on node.js
 * "bookfriend.me":http://bookfriend.me/ — Community site for Barnes and Noble Nook owners who want to borrow/lend books
 * "boxsocial.fm":http://boxsocial.fm/ - Party mode for Last.fm.
-* "browserling":http://browserling.com - test all the browsers in your browser!
 * "BusBound":http://www.busbound.com/ - iPhone web application built with express framework
 * "Calipso":http://calip.so - A NodeJS CMS
 * "CamanJS":https://github.com/meltingice/CamanJS/tree/node - NodeJS port of a Canvas Image Manipulation Library
@@ -148,6 +147,7 @@ h2. Companies
 * "Bitmechanic":http://www.bitmechanic.com/
 * "Bocoup":http://bocoup.com
 * "BrandedCode":http://brandedcode.com
+* "browserling":http://browserling.com - test all the browsers in your browser!
 * "Caffeinehit":http://caffeinehit.com
 * "Chomp":http://chomp.com - mobile application search, uses node for components of the production backend
 * "Chompin":http://chompin.com - discover new music, mobile app, uses node for the entire back end api
