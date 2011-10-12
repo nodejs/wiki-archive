@@ -2,7 +2,7 @@ When editing this page please be as detailed as possible. Examples are encourage
 
 ## Changed:
 
- * The `customFds` option to the `child_process.spawn` method is deprecated. 
+ * The `customFds` option to the `child_process.spawn` method is deprecated. Only the values -1, 0, 1, 2 will work with `customFds` now and only if those are TTY file descriptors.
  * You can no longer send a file descriptor through a unix pipe. Instead you can send a handle via `child_process.fork`.
  * `fs.symlink` takes an optional `mode` argument, which can either be 'dir' or 'file'.  The default is 'file'.  This argument is only needed for Windows (it's ignored on other platforms).
  * `http.Agent.appendMessage` was removed.
