@@ -4,13 +4,14 @@ When editing this page please be as detailed as possible. Examples are encourage
 
  * The `customFds` option to the `child_process.spawn` method is deprecated. Only the values -1, 0, 1, 2 will work with `customFds` now and only if those are TTY file descriptors. You can however use the `stdinStream`, `stdoutStream`, and `stderrStream` options to achieve similar functionality.
  * You can no longer send a file descriptor through a unix pipe. Instead you can send a handle via `child_process.fork`.
+ * The `'unix_dgram'` type to the `dgram.createSocket()` is no longer supported.
  * `fs.symlink` takes an optional `mode` argument, which can either be 'dir' or 'file'.  The default is 'file'.  This argument is only needed for Windows (it's ignored on other platforms).
  * `http.Agent.appendMessage` was removed.
+ * `https.request()` and `https.get()` with default `Agent` cannot accept `key`, `cert` and `ca` options. Use custom `Agent`.
  * `net.Server.listenFD()` is no longer supported.
  * The `require.paths` have been removed (use `NODE_PATH` environment variable instead).
  * C++ `node::EventEmitter` has been removed. Instead use `node::MakeCallback()`
  * `process.ENV` was removed. Use `process.env` instead.
- * The `'unix_dgram'` type to the `dgram.createSocket()` is no longer supported.
 
 ## Added:
 
