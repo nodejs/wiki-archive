@@ -10,6 +10,7 @@ When editing this page please be as detailed as possible. Examples are encourage
  * The `require.paths` have been removed (use `NODE_PATH` environment variable instead).
  * C++ `node::EventEmitter` has been removed. Instead use `node::MakeCallback()`
  * `process.ENV` was removed. Use `process.env` instead.
+ * The `'unix_dgram'` type to the `dgram.createSocket()` is no longer supported.
 
 ## Added:
 
