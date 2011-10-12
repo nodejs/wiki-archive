@@ -22,7 +22,8 @@ When editing this page please be as detailed as possible. Examples are encourage
  * `Buffer.writeUInt8()/writeUInt16BE()/writeUInt16LE()/writeU32BE()/writeU32LE()`
  * `Buffer.writeFloatBE()/writeFloatLE()/writeDoubleBE()/writeDoubleLE()`
  * `Buffer.fill()`
- * `child_process.fork`
+ * `child_process.fork()`
+ * `crypto.createDiffieHellman()`, `crypto.pbkdf2()`, `crypto.randomBytes()`
  * `fs.watch`
  * `assert(val)` as a shorthand for `assert.ok(val)`
  * `process.arch`, `os.arch()`
