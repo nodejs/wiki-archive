@@ -26,3 +26,4 @@ When editing this page please be as detailed as possible. Examples are encourage
  * `fs.watch`
  * `assert(val)` as a shorthand for `assert.ok(val)`
  * `process.arch`, `os.arch()`
+ * `util.format()`
