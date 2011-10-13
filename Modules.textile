@@ -483,9 +483,6 @@ h3(#build-and-deployment). "Build and Deployment":#build-and-deployment
 * "ripple":https://github.com/thrashaholic/ripple -- Dynamic runtime configuration for node.js deployment based on lorenwest's config.
 * "nodemon":https://github.com/remy/nodemon -- Monitors all source files, restarts node on changes. Command-line usage, code-passive with ignore list.
 * "node-linter":https://github.com/kof/node-linter -- generic lint wrapper for JSLint, closure-linter, closure-compiler, and JavaScript Lint.
-<a name="wiki-package-management"></a>
-
-h3(#package-management). Package Management Systems
 * "nib.js":https://github.com/blambeau/nib.js -- package and minify JavaScript/coffeescript projects to be embedded in the browser as a single .js file 
 * "nclosure":http://gatapia.github.com/nclosure/ -- Compiler, Style Checker, Utility Library, Unit Testing Framework, JSDoc Documentation Tool.  Built on top of Google Closure tools.
 * "quickcheck":https://github.com/mcandre/node-quickcheck -- Port of the Haskell QuickCheck unit testing framework
