@@ -15,6 +15,7 @@ When editing this page please be as detailed as possible. Examples are encourage
  * `process.ENV` was removed. Use `process.env` instead.
  * `process.ARGV` was removed. Use `process.argv` instead.
  * `process.binding('stdio')` was removed. This was a private API. You shouldn't have been using it in the first place.
+ * `process.stdin`, `process.stdout` and `process.stderr` are getters now.
  * [V8] `RegExp` was no longer a `Function`.
 
 ## Added:
