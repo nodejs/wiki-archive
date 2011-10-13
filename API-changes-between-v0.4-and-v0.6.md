@@ -38,6 +38,7 @@ When editing this page please be as detailed as possible. Examples are encourage
  * `os.arch()`, `os.uptime()`, `os.getNetworkInterfaces()`
  * `path.relative()`
  * `process.arch`, `process.uptime()`
+ * `tls.CryptoStream.getSession()` and `session` option to `tls.connect()`.
  * `tls.Server` supports NPN (Next Protocol Negotitation) and SNI (Server Name Indication).
  * `util.format()`
  * `zlib` module http://nodejs.org/docs/v0.5.9/api/zlib.html
