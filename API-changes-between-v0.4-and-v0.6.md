@@ -33,6 +33,7 @@ When editing this page please be as detailed as possible. Examples are encourage
  * `crypto.createDiffieHellman()`, `crypto.pbkdf2()`, `crypto.randomBytes()`
  * `fs.utimes()/utimesSync()`, `fs.futimes()/futimesSync()`
  * `fs.watch`
+ * `start` option to `fs.createReadStream()` and `fs.createWriteStream()`.
  * Module system supports `.json` module.
  * `net.connect()`
  * `net.Socket.remotePort`, `bytesRead`, `bytesWrite`
