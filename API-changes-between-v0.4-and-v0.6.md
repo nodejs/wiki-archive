@@ -11,6 +11,7 @@ When editing this page please be as detailed as possible. Examples are encourage
  * `net.Server.listenFD()` is no longer supported.
  * The `require.paths` have been removed (use `NODE_PATH` environment variable instead).
  * C++ `node::EventEmitter` has been removed. Instead use `node::MakeCallback()`
+ * `EventEmitter.removeAllListeners()` allows to remove all listeners at once.
  * `process.ENV` was removed. Use `process.env` instead.
  * `process.ARGV` was removed. Use `process.argv` instead.
  * `process.binding('stdio')` was removed. This was a private API. You shouldn't have been using it in the first place.
@@ -29,10 +30,13 @@ When editing this page please be as detailed as possible. Examples are encourage
  * `Buffer.fill()`
  * `child_process.fork()`
  * `crypto.createDiffieHellman()`, `crypto.pbkdf2()`, `crypto.randomBytes()`
+ * `fs.utimes()/utimesSync()`, `fs.futimes()/futimesSync()`
  * `fs.watch`
  * `net.connect()`
  * `net.Socket.remotePort`, `bytesRead`, `bytesWrite`
- * `process.arch`, `os.arch()`
+ * `os.arch()`, `os.uptime()`, `os.getNetworkInterfaces()`
+ * `path.relative()`
+ * `process.arch`, `process.uptime()`
  * `tls.Server` supports NPN (Next Protocol Negotitation) and SNI (Server Name Indication).
  * `util.format()`
  * `zlib` module http://nodejs.org/docs/v0.5.9/api/zlib.html
