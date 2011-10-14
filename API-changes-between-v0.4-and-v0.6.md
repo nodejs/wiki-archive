@@ -7,7 +7,9 @@ When editing this page please be as detailed as possible. Examples are encourage
  * The `'unix_dgram'` type to the `dgram.createSocket()` is no longer supported.
  * `fs.symlink` takes an optional `mode` argument, which can either be 'dir' or 'file'.  The default is 'file'.  This argument is only needed for Windows (it's ignored on other platforms).
  * `http.Agent.appendMessage` was removed.
- * `https.request()` and `https.get()` with default `Agent` cannot accept `key`, `cert` and `ca` options. Use custom `Agent`.
+ * `http.getAgent()` was removed. Use `http.globalAgent` instead.
+ * Not `httpAgent` but `http.ClientRequest` emits `'upgrade'` event.
+ * `https.request()` and `https.get()` with default `Agent` ignore `key`, `cert` and `ca` options. Use custom `Agent`.
  * `net.Server.listenFD()` was no longer supported.
  * The `require.paths` have been removed (use `NODE_PATH` environment variable instead).
  * C++ `node::EventEmitter` has been removed. Instead use `node::MakeCallback()`
@@ -38,7 +40,7 @@ When editing this page please be as detailed as possible. Examples are encourage
  * Module system supports `.json` module.
  * `net.connect()`
  * `net.Socket.remotePort`, `bytesRead`, `bytesWrite`
- * `os.arch()`, `os.uptime()`, `os.getNetworkInterfaces()`
+ * `os.arch()`, `os.platform()`, `os.uptime()`, `os.getNetworkInterfaces()`
  * `path.relative()`
  * `process.arch`, `process.uptime()`
  * `tls.CryptoStream.getSession()` and `session` option to `tls.connect()`.
