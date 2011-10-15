@@ -572,6 +572,7 @@ h3(#tcp). "TCP / IP":#tcp
 * "request":https://github.com/mikeal/request -- Simple HTTP client library.
 * "open-uri":https://github.com/publicclass/open-uri -- A very simple HTTP(S)/FTP client library similar to Rubys Open-URI lib.
 * "superagent":https://github.com/visionmedia/superagent -- High-level HTTP client sporting a progressive API
+* "fetch":https://github.com/andris9/fetch -- Fetch urls with ease, supports gzip content, cookies and more
 * "node-xmpp":https://github.com/astro/node-xmpp -- Node XMPP library
 * "node-simple-xmpp":https://github.com/arunoda/node-simple-xmpp -- Simple High Level NodeJS XMPP Client
 * "node-snpp":https://github.com/jsanders/node-snpp -- Node SNPP server library
