@@ -1155,6 +1155,7 @@ h3(#other). "Other":#other
 * "daemonchk.js":https://github.com/dulac/daemonchk.js/ -- Daemon Monitor (with HTTP interface)
 * "dir2html":https://github.com/mcantelon/node-dir2html -- Render a directory as HTML
 * "dive":https://github.com/pvorb/node-dive -- Walking through directory trees and apply an action to every file.
+* "dropper":https://github.com/rootslab/dropper -- Dropper, is a filter stream that produces fixed size data packets, from every other stream.
 * "dust":https://github.com/pasviegas/dust -- OO way to fill your database with not totally random content
 * "docco":https://github.com/jashkenas/docco -- Docco is a quick-and-dirty, hundred-line-long, literate-programming-style
 documentation generator
