@@ -7,6 +7,9 @@ h2. Node v0.5.0-pre
 * "node-socksified v0.0.1":https://github.com/vially/node-socksified
 * "postageapp v0.0.1":https://github.com/postageapp/postageapp-nodejs
 
+h2. Node v0.4.12
+* "libravatar v1.0":https://github.com/fmarier/libravatar
+
 h2. Node v0.4.11
 * "nodebnf v0.0.9":https://github.com/navstev0/nodebnf
 
