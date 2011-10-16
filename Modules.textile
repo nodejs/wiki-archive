@@ -315,6 +315,7 @@ h5(#db-nosql-mongo). "Mongo":#db-nosql-mongo
 * "mongous":https://github.com/amark/mongous -- Mongous is a dead simple MongoDB driver that uses a jQuery styled syntax.
 * "nosql-thin":https://github.com/dmcquay/node-nosql-thin - Makes easier to work with MongoDB. Not an ORM. Not production ready.
 * "mongoclikker":https://github.com/semu/mongoclikker - Simple MongoDB data viewer
+* "GridFS":https://github.com/siddMahen/GridFS - Simple GridFS capabilities built on node-mongodb-native.
 
 h5(#db-nosql-hive). "Hive":#db-nosql-hive
 
