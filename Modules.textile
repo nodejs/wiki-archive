@@ -1209,6 +1209,7 @@ documentation generator
 * "node-amqp":https://github.com/xaviershay/node-amqp -- Basic AMQP client
 * "node-asterisk":https://github.com/mscdex/node-asterisk -- Listen to events in realtime and issue commands on Asterisk servers
 * "node-bittorrent":https://github.com/WizKid/node-bittorrent -- A library for handling the bittorrent protocol
+* "node-torrent":https://github.com/fent/node-torrent -- Fully featured torrent reader, writer, and hash checker
 * "node-chat":https://github.com/scottgonzalez/node-chat -- A simple web-based chat server
 * "node-control":https://github.com/tsmith/node-control -- System admin and code deployment via ssh (similar to Capistrano/Vlad)
 * "node-email":https://github.com/aheckmann/node-email -- A simple wrapper around sendmail
