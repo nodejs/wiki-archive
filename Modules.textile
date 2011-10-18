@@ -950,6 +950,7 @@ h3(#payment-gateways). "Payment Gateways":#payment-gateways
 * "braintree":https://github.com/braintree/braintree_node -- library for integrating with Braintree
 * "node-fortumo":https://github.com/andris9/node-fortumo -- bindings for Fortumo SMS payment API
 * "paypal-ipn":https://github.com/andzdroid/paypal-ipn -- library for verifying paypal IPN messages
+* "node-stripe":https://github.com/abh/node-stripe -- library for integrating with "Stripe":https://stripe.com/
 
 <a name="wiki-api-clients"></a>
 
