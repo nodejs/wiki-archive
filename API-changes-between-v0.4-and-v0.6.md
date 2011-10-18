@@ -30,6 +30,7 @@ When editing this page please be as detailed as possible. Examples are encourage
    * `process.ARGV` was removed. Use `process.argv` instead.
    * `process.binding('stdio')` was removed. This was a private API. You shouldn't have been using it in the first place.
    * `process.stdin`, `process.stdout` and `process.stderr` are getters now.
+   * `process.memoryUsage().vsize` was removed. You don't need it.
  * `tls`
    * `tls.CleartextStream` does not emit `'end'` event. Use `'close'` event instead.
  * V8 (v3.1 to v3.7)
