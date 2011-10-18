@@ -84,6 +84,7 @@ h4(#web-frameworks-routers). "Routers":#web-frameworks-routers
 * "nozzle":https://github.com/fictorial/nozzle -- web app/service framework
 * "sherpa":https://github.com/joshbuddy/sherpa -- HTTP router/generator with support for regex and parameters
 * "router":https://github.com/gett/router -- A simple router with regex and sinatra like parameter support
+* "Beanpole":https://github.com/spiceapps/beanpole -- Universal router with syntactic sugar
 
 <a name="wiki-web-frameworks-static"></a>
 
