@@ -78,3 +78,4 @@ When editing this page please be as detailed as possible. Examples are encourage
  * `util`
    * `util.format()`
  * `zlib` module http://nodejs.org/docs/latest/api/zlib.html
+ * `node cluster` see https://github.com/joyent/node/blob/d2698d182271c77bc5bca44a9cee625d9372301f/doc/api/cluster.markdown
