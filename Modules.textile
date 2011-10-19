@@ -1112,6 +1112,7 @@ h3(#i18n). "I18n and L10n modules":#i18n
 * "inflect":https://github.com/MSNexploder/inflect -- A port of the Rails / ActiveSupport inflector to JavaScript.
 * "node-gettext":https://github.com/andris9/node-gettext -- Use Gettext .MO files with Node.js.
 * "lingua":https://github.com/akoenig/express-lingua -- A i18n middleware for the Express.js framework.
+* "node-date-diff":https://github.com/morishani/node-date-diff -- Calculates date differences and allows to format it nicely to your language (Eg. In one hour)
 
 <a name="wiki-boilerplates"></a>
 
