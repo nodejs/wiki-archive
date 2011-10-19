@@ -61,6 +61,7 @@ h2. Projects and Applications
 * "LifeInText":http://github.com/weilawei/LifeInText -- LiT is a mashup platform for personal projects and snippets.
 * "Loggly":http://loggly.com/ — Webservice for receiving syslog and HTTP based logs.
 * "Manifest Validator":http://manifest-validator.com - Check cache manifest files for web application offline storage
+* "Mashape":http://www.mashape.com - Open API Plaform for consuming, distributing and managing APIs.
 * "memcached.js":https://github.com/dalssoft/memcached.js — Port of Memcached server for Node.js
 * "minlint":https://github.com/tsmith/minlint - minimalist version of jslint from command line
 * "Multi Touch Multi User Canvas":https://github.com/eddanger/Multi-Touch-Multi-User-Canvas - Node.js, Socket.IO, Express, and a multi touch canvas!
