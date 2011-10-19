@@ -961,7 +961,7 @@ h3(#api-clients). "API clients":#api-clients
 * "aws2js":https://github.com/SaltwaterC/aws2js -- Amazon Web Services APIs client implementation for node.js. Simple to use and extend.
 * "calais":https://github.com/mcantelon/node-calais -- Semantically analyze text using the Calais web service
 * "discogs":https://github.com/linus/discogs -- Discogs API client
-* "node-dropbox":https://github.com/Rendez/node-dropbox -- Node.js client for the dropbox API
+* "node-dropbox":https://github.com/Rendez/node-dropbox -- Node.js client for the Dropbox API
 * "dropbox-node":https://github.com/evnm/dropbox-node -- A wrapper for the Dropbox API 
 * "dribbble-node":https://github.com/carlosvillu/Dribbble-node -- A wrapper for the Dribbble API
 * "evented-twitter":https://github.com/polotek/evented-twitter -- asynchronous twitter client, supports streaming api
