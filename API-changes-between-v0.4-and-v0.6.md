@@ -1,7 +1,7 @@
 When editing this page please be as detailed as possible. Examples are encouraged!
 
 ## Changed:
-
+ * Cygwin build is no longer supported. Use native windows builds instead.
  * `Buffer`
    * The `length` optional third parameter was added to `Buffer.write()`
  * `child_process`
