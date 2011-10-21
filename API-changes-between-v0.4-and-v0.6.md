@@ -23,6 +23,8 @@ When editing this page please be as detailed as possible. Examples are encourage
    * `https.request()` and `https.get()` with default `Agent` ignore `key`, `cert` and `ca` options. Use custom `Agent`.
  * Module system
    * The `require.paths` have been removed (use `NODE_PATH` environment variable instead).
+ * `dns`
+   * `dns.lookup` now uses `getaddrinfo` in a thread pool instead of c-ares. The rest of the methods in the DNS module still use c-ares. Using the system resolver for common look ups is useful because it hooks into system MDNS lookups and /etc/host files and nsswitch, etc. Perviously when using `dns.lookup` on invalid domain names like `"****"` the command returned an `EBADNAME` error. `getaddrinfo` does not differentiate between invalid domains and `ENOTFOUND` (AKA `NXDOMAIN`). Therefore `dns.lookup` now returns `ENOTFOUND` when given malformated domain names like `"*****"`.
  * `net`
    * `net.Server.listenFD()` was no longer supported.
  * `process`
