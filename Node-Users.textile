@@ -371,6 +371,8 @@ h2. UTC-5 (-4)
 ** "Github":http://github.com/killfill, "Twitter":http://twitter.com/killfil
 * dale tan (dtan), Burlington, VT, US
 ** "Website":http://www.whatthedale.com/, "Github":http://github.com/dtan, "Twitter":http://twitter.com/whatthedale
+* Zachary Scott (zzak), Vermont
+** "Github":http://github.com/zzak, "Website":http://zacharyscott.net/, "Blog":http://blog.zacharyscott.net/
 
 h2. UTC-4 (-3)
 
