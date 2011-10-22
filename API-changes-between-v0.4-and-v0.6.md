@@ -9,6 +9,8 @@ When editing this page please be as detailed as possible. Examples are encourage
    * You can no longer send a file descriptor through a unix pipe. Instead you can send a handle via `child_process.fork`.
  * `dgram`
    * The `'unix_dgram'` type to the `dgram.createSocket()` is no longer supported.
+ * `dns`
+   * `dns.lookup` now uses `getaddrinfo` in a thread pool instead of c-ares. The rest of the methods in the DNS module still use c-ares. Using the system resolver for common look ups is useful because it hooks into system MDNS lookups and /etc/host files and nsswitch, etc. Perviously when using `dns.lookup` on invalid domain names like `"****"` the command returned an `EBADNAME` error. `getaddrinfo` does not differentiate between invalid domains and `ENOTFOUND` (AKA `NXDOMAIN`). Therefore `dns.lookup` now returns `ENOTFOUND` when given malformated domain names like `"*****"`.
  * `events`
    * C++ `node::EventEmitter` has been removed. Instead use `node::MakeCallback()`
    * `EventEmitter.removeAllListeners()` allows to remove all listeners at once.
@@ -23,8 +25,6 @@ When editing this page please be as detailed as possible. Examples are encourage
    * `https.request()` and `https.get()` with default `Agent` ignore `key`, `cert` and `ca` options. Use custom `Agent`.
  * Module system
    * The `require.paths` have been removed (use `NODE_PATH` environment variable instead).
- * `dns`
-   * `dns.lookup` now uses `getaddrinfo` in a thread pool instead of c-ares. The rest of the methods in the DNS module still use c-ares. Using the system resolver for common look ups is useful because it hooks into system MDNS lookups and /etc/host files and nsswitch, etc. Perviously when using `dns.lookup` on invalid domain names like `"****"` the command returned an `EBADNAME` error. `getaddrinfo` does not differentiate between invalid domains and `ENOTFOUND` (AKA `NXDOMAIN`). Therefore `dns.lookup` now returns `ENOTFOUND` when given malformated domain names like `"*****"`.
  * `net`
    * `net.Server.listenFD()` was no longer supported.
  * `process`
@@ -41,8 +41,6 @@ When editing this page please be as detailed as possible. Examples are encourage
      ```
 
    * `process.memoryUsage().vsize` was removed. You don't need it.
- * `tls`
-   * `tls.CleartextStream` does not emit `'end'` event. Use `'close'` event instead.
  * V8 (v3.1 to v3.7)
    * `RegExp` was no longer a `Function`. Use `RegExp.exec()` instead.
 
