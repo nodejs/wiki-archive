@@ -13,7 +13,7 @@ When editing this page please be as detailed as possible. Examples are encourage
          eio_req *eio_custom    (void (*excute)(eio_req *), int pri, eio_cb cb, void *data);
 
      So if you use this function in your code, you should make the first passed function(`excute`) return void.
-
+ * `EventEmitter` is not directly accessible from C++.
  * Cygwin build is no longer supported. Use native windows builds instead.
  * `Buffer`
    * The `length` optional third parameter was added to `Buffer.write()`
