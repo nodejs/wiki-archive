@@ -44,7 +44,6 @@ h2. Projects and Applications
 * "Flickr Spy":http://github.com/ncr/flickr_spy -- Discover where your Flickr contacts are commenting
 * "G-Lock Analytics":http://glockanalytics.com — Realtime email analytics web application
 * "Gauss":http://github.com/stackd/gauss - JavaScript statistics and analytics library
-* "GoInstant":http://goinstant.com - No install, web co-browsing
 * "Google+ Scraper":https://github.com/fhemberger/googleplus-scraper/ - Retrieve profile infos and posts from Google+ users
 * "Graffiti &beta;":http://yay3d.com/graffiti — Interactive multi-user shared canvas whiteboard
 * "GrowlHub":http://github.com/idris/growlhub - Growl Notifications for GitHub
@@ -175,6 +174,7 @@ h2. Companies
 * "Fostle":http://fostle.com/
 * "Geeklist":http://geekli.st/
 * "Ge.tt":http://ge.tt Kick ass file sharing service - (oh and it's real time)
+* "GoInstant":http://goinstant.com - No install, web co-browsing
 * "GoodData":http://www.gooddata.com Metric-driven analytics SAAS BI - the Way It Should Be
 * "Heroku":http://blog.heroku.com/archives/2010/4/28/node_js_support_experimental/ Dead simple Node deployment for you, and internal tools for us.
 * "Humansized Inc.":http://www.humansized.com
