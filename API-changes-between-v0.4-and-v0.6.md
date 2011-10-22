@@ -1,6 +1,19 @@
 When editing this page please be as detailed as possible. Examples are encouraged!
 
 ## Changed:
+ * `eio_custom`
+   * The definition of `eio_custom` function in `eio.h` has been changed.
+
+     From 
+
+         eio_req *eio_custom    (eio_cb execute, int pri, eio_cb cb, void *data);
+
+     To
+
+         eio_req *eio_custom    (void (*excute)(eio_req *), int pri, eio_cb cb, void *data);
+
+     So if you use this function in your code, you should make the first passed function(`excute`) return void.
+
  * Cygwin build is no longer supported. Use native windows builds instead.
  * `Buffer`
    * The `length` optional third parameter was added to `Buffer.write()`
