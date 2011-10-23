@@ -861,6 +861,7 @@ h3(#debugging). "Debugging / Console Utilities":#debugging
 * "colors.js":https://github.com/Marak/colors.js -- get colors in your node.js console like what
 * "colours.js":https://github.com/botanicus/colours.js -- Give your CLI programs some colours!
 * "colored.js":https://github.com/chrislloyd/colored.js -- Colorize terminal output.
+* "common-logger.js":https://github.com/viatropos/common-logger.js -- Cross-browser and Node.js empowered logging.
 * "consolelog.js":https://github.com/jazzychad/consolelog.node.js -- stylized console logging for node.js
 * "Eclipse debugger plugin":http://code.google.com/p/chromedevtools/ -- [[Using Eclipse as Node Applications Debugger]]
 * "eyes.js":https://github.com/cloudhead/eyes.js -- A better, customizable value inspector for node.js
