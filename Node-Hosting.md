@@ -12,9 +12,8 @@ Name | Node Version | Web Sockets | IP/Hostname | IRC | Repository | Free Plan |
 [DotCloud](http://www.dotcloud.com) | | | | | | | | Beta
 [Heroku](http://heroku.com) | 0.4.7 | No | Yes | #heroku | [heroku](http://github.com/heroku) | Yes - 1 Dynamo (256 MB Ram) | | 
 [no.de](http://no.de) | 0.4.11 | | Paid plan | #joyent | [joyent](http://github.com/joyent) | Yes - 128 MB Ram | | 
-[Nodejitsu](http://nodejitsu.com) | | | | | | | | Active Beta
 [NodeSocket](http://www.nodesocket.com) | | | | | | | | In Private Beta
-[Nodejitsu](http://nodejitsu.com) | | | | #nodejitsu | [nodejitsu](http://github.com/nodejitsu) | | | In Private Beta
+[Nodejitsu](http://nodejitsu.com) | 0.4.12 | Yes | | #nodejitsu | [nodejitsu](http://github.com/nodejitsu) | | | In Private Beta
 [Nodester](http://nodester.com) | | | | |[nodester](https://github.com/nodester) | | | Open source Node.JS hosting platform and services
 [JSApp.US](http://jsapp.us) | | | | | | | | Open signup, web editing/npm command
 
