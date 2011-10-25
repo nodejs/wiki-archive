@@ -16,6 +16,7 @@ When editing this page please be as detailed as possible. Examples are encourage
    * `EventEmitter.removeAllListeners()` allows to remove all listeners at once.
  * `fs`
    * `fs.symlink` takes an optional `mode` argument, which can either be 'dir' or 'file'.  The default is 'file'.  This argument is only needed for Windows (it's ignored on other platforms).
+   * `fs.watchFile` is replaced by `fs.watch`
  * `http`
    * `http.request()` and `http.get()` use `Connection: Keep-Alive` by default.
    * `http.Agent.appendMessage` was removed.
@@ -64,7 +65,6 @@ When editing this page please be as detailed as possible. Examples are encourage
    * `crypto.createDiffieHellman()`, `crypto.pbkdf2()`, `crypto.randomBytes()`
  * `fs`
    * `fs.utimes()/utimesSync()`, `fs.futimes()/futimesSync()`
-   * `fs.watch`
    * `start` option to `fs.createReadStream()` and `fs.createWriteStream()`.
  * `http`
    * `http.ClientRequest.setTimeout()/setNoDelay()/setSocketKeepAlive()`
