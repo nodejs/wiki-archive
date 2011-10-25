@@ -372,6 +372,7 @@ h4(#db-misc). "DB Misc and Cross DB":#db-misc
 * "JSLINQ":https://github.com/marak/JSLINQ -- Clean and simple port of Microsoft's LINQ to node.js (and the browser)
 * "nconf":https://github.com/indexzero/nconf -- A hybrid local / remote configuration storage library
 * "node-cask":https://github.com/randomekek/node-cask -- A 140 loc mmap-ed key/value store, based on bitcask
+* "node-dbmon":https://github.com/straps/node-dbmon -- Database Real-Time Monitoring Library
 * "node-dirty":https://github.com/felixge/node-dirty -- A key value store for node.js that is simple, fast & dirty.
 * "node-fleet":https://github.com/jfd/node-fleet -- a FleetDB Client
 * "node-firebird-libfbclient":https://github.com/xdenser/node-firebird-libfbclient -- Firebird SQL client
