@@ -338,7 +338,7 @@ h5(#db-nosql-redis). "Redis":#db-nosql-redis
 
 h5(#db-nosql-couch). "CouchDB":#db-nosql-couch
 
-* "node-couchdb-api":http://dominicbarnes.us/node-couchdb-api/ -- An easy-to-use and powerful wrapper for the CouchDB API that follows Node.JS conventions for async code.
+* "node-couchdb-api":https://github.com/dominicbarnes/node-couchdb-api -- An easy-to-use and powerful wrapper for the CouchDB API that follows Node.JS conventions for async code.
 * "LazyBoy":http://garrensmith.com/LazyBoy -- a CouchDB ORM thats easy to use 
 * "node-couch":https://github.com/sixtus/node-couch/tree/master -- a CouchDB connector
 * "-node-couchdb-":https://github.com/felixge/node-couchdb -- -A full API implementation- [obsolete]
