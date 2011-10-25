@@ -59,6 +59,7 @@ h2. Projects and Applications
 * "KansoJS":http://kansojs.org - A surprisingly simple way to write CouchApps, by making use of the design_doc api in the browser
 * "Kraken.io":http://kraken.io - Online image optimization tool.
 * "LifeInText":http://github.com/weilawei/LifeInText -- LiT is a mashup platform for personal projects and snippets.
+* "Locker Project":http://lockerproject.org/ — Open source project for all your personal data.
 * "Loggly":http://loggly.com/ — Webservice for receiving syslog and HTTP based logs.
 * "Manifest Validator":http://manifest-validator.com - Check cache manifest files for web application offline storage
 * "Mashape":http://www.mashape.com - Open API Plaform for consuming, distributing and managing APIs.
@@ -228,6 +229,7 @@ h2. Companies
 * "Shelby.tv":http://www.shelby.tv -- The most amazing way to discover and enjoy the video your friends are sharing.
 * "Shine Technologies":http://www.shinetech.com/ -- Software consultancy with offices in Brisbane & Melbourne. We're helping our client to rewrite one of Australia's largest web sites using node. We also wrote "jazz":http://github.com/shinetech/jazz and "eventserver":http://github.com/shinetech/eventserver
 * "Shiny Ads":http://www.ShinyAds.com/ -- Self-Serve Advertising platform for online publishers.  Using node.js for a super-fast/low memory internal ad server.
+* "Singly":http://singly.com/ - Hosted Personal Data Home's, using node for most of the data aggregation/serving
 * "SitePen":http://www.sitepen.com/ - Using node for persevere
 * "Siteworx":http://www.siteworx.com/
 * "Shortrr":http://shortrr.com -- Submit, read, and rank summary highlights of content in realtime while browsing the web
