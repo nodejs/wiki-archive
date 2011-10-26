@@ -8,7 +8,7 @@ When editing this page please be as detailed as possible. Examples are encourage
    * The `customFds` option to the `child_process.spawn` method is deprecated. Only the values -1, 0, 1, 2 will work with `customFds` now and only if those are TTY file descriptors. You can however use the `stdinStream`, `stdoutStream`, and `stderrStream` options to achieve similar functionality.
    * You can no longer send a file descriptor through a unix pipe. Instead you can send a handle via `child_process.fork`.
  * `dgram`
-   * The `'unix_dgram'` type to the `dgram.createSocket()` is no longer supported.
+   * The `'unix_dgram'` type to the `dgram.createSocket()` is no longer supported. The Unix domain datagram is *not* the Internet domain datagram (UDP) which stays supported.
  * `dns`
    * `dns.lookup` now uses `getaddrinfo` in a thread pool instead of c-ares. The rest of the methods in the DNS module still use c-ares. Using the system resolver for common look ups is useful because it hooks into system MDNS lookups and /etc/host files and nsswitch, etc. Perviously when using `dns.lookup` on invalid domain names like `"****"` the command returned an `EBADNAME` error. `getaddrinfo` does not differentiate between invalid domains and `ENOTFOUND` (AKA `NXDOMAIN`). Therefore `dns.lookup` now returns `ENOTFOUND` when given malformated domain names like `"*****"`.
  * `events`
