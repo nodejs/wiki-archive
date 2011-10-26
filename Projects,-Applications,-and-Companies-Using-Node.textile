@@ -24,6 +24,7 @@ h2. Projects and Applications
 * "candy-node":https://github.com/pstadler/candy-node - Deploy "Candy":http://amiadogroup.github.com/candy/ (a JavaScript-based chat client for XMPP) as a node.js application
 * "cassiterite":http://github.com/kurokikaze/cassiterite -- Another blogging engine based on node.js + Tokyo Tyrant + nginx
 * "Chilitweets":http://chilitweets.com - The service discovers the hottest links in your Twitter timeline. Node.js is used in the backed to fetch Tweets and resolve URLs.
+* "Clipboard":http://www.clipboard.com - Service that lets you clip, save &amp; share the web. Built on Node.js with Riak & Redis.
 * "Cloud9":http://www.cloud9ide.com -- Cloud9 IDE is aiming to be the IDE for Javascript developers, built with NodeJS and lots of other Node modules
 * "Cloudspace Mockups":http://cloudspacemockups.com/ - A Mockup Creator using node.js and MongoDB by "Cloudspace":http://cloudspace.com
 * "colorapi":http://colorapi.com/ - Color palette generator from Flickr images.
