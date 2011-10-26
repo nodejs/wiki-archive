@@ -63,7 +63,8 @@ When editing this page please be as detailed as possible. Examples are encourage
    * Typed Arrays
  * `child_process`
    * `child_process.fork()`
- * `crypto`
+* `cluster`
+ * `node cluster` see https://github.com/joyent/node/blob/d2698d182271c77bc5bca44a9cee625d9372301f/doc/api/cluster.markdown * `crypto`
    * `crypto.createDiffieHellman()`, `crypto.pbkdf2()`, `crypto.randomBytes()`
  * `fs`
    * `fs.utimes()/utimesSync()`, `fs.futimes()/futimesSync()`
@@ -83,9 +84,9 @@ When editing this page please be as detailed as possible. Examples are encourage
  * `process`
    * `process.arch`, `process.uptime()`
  * `tls`
+   * `tls.CleartextStream.address()`, `remoteAddress`, `remotePort`.
    * `tls.CryptoStream.getSession()` and `session` option to `tls.connect()`.
    * `tls.Server` supports [NPN (Next Protocol Negotitation) and SNI (Server Name Indication)](http://nodejs.org/docs/latest/api/tls.html#nPN_and_SNI).
  * `util`
    * `util.format()`
  * `zlib` module http://nodejs.org/docs/latest/api/zlib.html
- * `node cluster` see https://github.com/joyent/node/blob/d2698d182271c77bc5bca44a9cee625d9372301f/doc/api/cluster.markdown
