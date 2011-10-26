@@ -477,7 +477,6 @@ h3(#build-and-deployment). "Build and Deployment":#build-and-deployment
 * "haibu":https://github.com/nodejitsu/haibu -- a node.js application server - spawn your own node.js clouds, on your own hardware
 * "jitsu":https://github.com/nodejitsu/jitsu -- Flawless command line deployment of your Node.js apps to the cloud
 * "nodejs-autorestart":https://github.com/shimondoodkin/nodejs-autorestart -- It is a way to watch all .js files if they have been changed and to restart nodejs. It allows easy development and stable production.
-* "codesurgeon":https://github.com/hij1nx/codesurgeon -- Precision code extraction. Hack, slash and stitch javascript code by walking the AST. Concat whole or partial files, uglify, jslint, jshint, name and comment output files using package.json information, etc.
 * "config":https://github.com/lorenwest/node-config -- Configuration control for production node deployments - npm install config
 * "node-config":https://github.com/ArtS/node-config -- Lightweight configuration engine for Node.js
 * "node-dev":https://github.com/fgnass/node-dev -- Automatically restarts node when a source-file is modified. Displays notifications via Growl.
