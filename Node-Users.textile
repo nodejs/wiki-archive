@@ -62,7 +62,7 @@ h2. UTC-8
 ** "GitHub":http://github.com/efnx, "Website":http://blog.efnx.com
 * Ben Lund
 ** "GitHub":http://github.com/benlund, "Website":http://team.academia.edu/BenLund
-* Stephen Belanger (qard), Kelowna/Vancouver, BC, Canada
+* Stephen Belanger (qard), Vancouver, BC, Canada
 ** "GitHub":http://github.com/qard, "Website":http://www.stephenbelanger.com
 * Matt Ranney (mjr), Oakland, CA, US
 ** "GitHub":http://github.com/mranney, "Twitter":http://twitter.com/mranney
