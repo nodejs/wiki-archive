@@ -88,5 +88,5 @@ When editing this page please be as detailed as possible. Examples are encourage
    * `tls.CryptoStream.getSession()` and `session` option to `tls.connect()`.
    * `tls.Server` supports [NPN (Next Protocol Negotitation) and SNI (Server Name Indication)](http://nodejs.org/docs/latest/api/tls.html#nPN_and_SNI).
  * `util`
-   * `util.format()`
+   * `util.format()`, `util.isArray()`, `util.isRegExp()`, `uitl.isDate()`, `util.isError()`.
  * `zlib` module http://nodejs.org/docs/latest/api/zlib.html
