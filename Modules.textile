@@ -542,6 +542,7 @@ h3(#security). "OpenSSL / Crypto / Hashing":#security
 * "pass":https://github.com/andris9/pass -- Validate/generate Apache htpasswd passwords (for Basic Auth)
 * "rbytes":https://github.com/akdubya/rbytes -- Secure random byte generator for session keys, UUIDs, etc.
 * "sasljs":https://github.com/nikhilm/sasljs -- "Gsasl":http://www.gnu.org/software/gsasl/ wrapper to performs server-side SASL authentication.
+* "sha1":https://github.com/pvorb/node-sha1 -- Plain JavaScript SHA-1 hashing function
 * "node-whirlpool":https://github.com/Sembiance/node-whirlpool -- C/C++ mhash lib wrapper providing whirlpool hash support
 * "NodeJS-Keychain":https://github.com/aschlosberg/NodeJS-Keychain -- A security-oriented keychain web service
 * "node_nibbler":https://github.com/mattrobenolt/node_nibbler -- Base32/base64 encoder/decoder.
