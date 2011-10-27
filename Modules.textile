@@ -1352,6 +1352,9 @@ documentation generator
 * "password-generator":https://github.com/bermi/password-generator -- Memorable password generator
 * "feedsub":https://github.com/fent/node-feedsub -- Subscribes to RSS/Atom feeds and notifies on new items.
 * "pyyaml":https://github.com/jiem/node-pyyaml -- Robust YAML parser and dumper for Node.js using PyYAML bindings.
+* "ssCafe":https://github.com/sjerrys/sscafe -- chat demo with socketstream + Auth in Mongodb
+* "tumblrBackupCoffee":https://github.com/sjerrys/tumblrBackupCoffee -- A tumblr (images|posts)backup tool with mongodb
+
 
 <a name="wiki-management"></a>
 
@@ -1381,7 +1384,7 @@ h2(#commonjs-compat). "CommonJS compatible modules that can be used with node.":
 * "schema.js":https://github.com/akidee/schema.js -- Sophisticated JSON schema based data validation and adaptation
 * "underscore":http://documentcloud.github.com/underscore/ -- Unobtrusive functional programming utility library.
 * "wu.js":http://fitzgen.github.com/wu.js/ -- A lazy, functional JavaScript library that ain't nuthin' ta f*ck wit.
-* "tumblrBackupCoffee":https://github.com/sjerrys/tumblrBackupCoffee -- A tumblr (images|posts)backup tool with mongodb
+
 
 h2(#project-generators). "Project Generators":#project-generators
 
