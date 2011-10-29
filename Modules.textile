@@ -1184,6 +1184,7 @@ documentation generator
 * "express-namespace":https://github.com/visionmedia/express-namespace -- Namespaced routing for express
 * "express-expose":https://github.com/visionmedia/express-expose -- Expose server-side modules, methods, and values to the client-side
 * "express-helpers":https://github.com/masahiroh/express-helpers -- Express view helpers
+* "express-rate":https://github.com/classmetric/express-rate -- Express rate monitoring and limiting
 * "ext":https://github.com/visionmedia/ext.js -- High quality / performance JavaScript extensions specifically for node.js
 * "Faker.js":https://github.com/marak/Faker.js/ -- generate massive amounts of fake data in Node.js and the browser
 * "GeoIP":https://github.com/kuno/GeoIP -- Get geolocation information based on domain or IP address
