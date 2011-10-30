@@ -53,12 +53,12 @@ When editing this page please be as detailed as possible. Examples are encourage
    * `assert(val)` as a shorthand for `assert.ok(val)`
  * `Buffer`
    * `'hex'` encoding.
-   * `Buffer.readInt8()/readInt16BE()/readInt16LE()/readInt32LE()/readInt32BE()`
-   * `Buffer.readUInt8()/readUInt16BE()/readUInt16LE()/rreadUInt32LE()/readUInt32BE()`
-   * `Buffer.readFloatBE()/readFloadLE()/readDoubleBE()/readDoubleLE()`
-   * `Buffer.writeInt8()/writeInt16BE()/writeInt16LE()/write32BE()/write32LE()`
-   * `Buffer.writeUInt8()/writeUInt16BE()/writeUInt16LE()/writeU32BE()/writeU32LE()`
-   * `Buffer.writeFloatBE()/writeFloatLE()/writeDoubleBE()/writeDoubleLE()`
+   * `Buffer.readInt8()/readInt16LE()/readInt16BE()/readInt32LE()/readInt32BE()`
+   * `Buffer.readUInt8()/readUInt16LE()/readUInt16BE()/readUInt32LE()/readUInt32BE()`
+   * `Buffer.readFloatLE()/readFloatBE()/readDoubleLE()/readDoubleBE()`
+   * `Buffer.writeInt8()/writeInt16LE()/writeInt16BE()/writeInt32LE()/writeInt32BE()`
+   * `Buffer.writeUInt8()/writeUInt16LE()/writeUInt16BE()/writeUInt32LE()/writeUInt32BE()`
+   * `Buffer.writeFloatLE()/writeFloatBE()/writeDoubleLE()/writeDoubleBE()`
    * `Buffer.fill()`
    * Typed Arrays
  * `child_process`
