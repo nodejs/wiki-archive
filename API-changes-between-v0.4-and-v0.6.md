@@ -10,7 +10,7 @@ When editing this page please be as detailed as possible. Examples are encourage
  * `dgram`
    * The `'unix_dgram'` type to the `dgram.createSocket()` is no longer supported. The Unix domain datagram is *not* the Internet domain datagram (UDP) which stays supported.
  * `dns`
-   * `dns.lookup` now uses `getaddrinfo` in a thread pool instead of c-ares. The rest of the methods in the DNS module still use c-ares. Using the system resolver for common look ups is useful because it hooks into system MDNS lookups and /etc/host files and nsswitch, etc. Perviously when using `dns.lookup` on invalid domain names like `"****"` the command returned an `EBADNAME` error. `getaddrinfo` does not differentiate between invalid domains and `ENOTFOUND` (AKA `NXDOMAIN`). Therefore `dns.lookup` now returns `ENOTFOUND` when given malformated domain names like `"*****"`.
+   * `dns.lookup` now uses `getaddrinfo` in a thread pool instead of c-ares. The rest of the methods in the DNS module still use c-ares. Using the system resolver for common look ups is useful because it hooks into system MDNS lookups and /etc/host files and nsswitch, etc. Previously when using `dns.lookup` on invalid domain names like `"****"` the command returned an `EBADNAME` error. `getaddrinfo` does not differentiate between invalid domains and `ENOTFOUND` (AKA `NXDOMAIN`). Therefore `dns.lookup` now returns `ENOTFOUND` when given malformated domain names like `"*****"`.
  * `events`
    * C++ `node::EventEmitter` has been removed. Instead use `node::MakeCallback()`
    * `EventEmitter.removeAllListeners()` allows to remove all listeners at once.
