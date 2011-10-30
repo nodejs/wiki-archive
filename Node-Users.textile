@@ -418,7 +418,7 @@ h2. UTC-3 (-2)
 * Fernando Wermus (fwermus), Buenos Aires, Argentina 
 ** "Website":www.mate-comunication.com, "Twitter":http://www.twitter.com/fwermus
 
-h2. UTC+0 (0)
+h2. UTC±0 (0)
 
 * Jon Gretar Borgthorsson (JonGretar)
 ** "Website":http://medevyoujane.com, "GitHub":http://github.com/JonGretar, "Twitter":http://twitter.com/JonGretar
@@ -433,7 +433,7 @@ h2. UTC+0 (0)
 * Sérgio Ramos (ramitos), Portugal
 ** "Website":http://sergioramos.me, "GitHub":http://github.com/ramitos, "Twitter":http://twitter.com/ramitos
 
-h2. UTC+0 (+1)
+h2. UTC±0 (+1)
 
 * Guy Halford-Thompson (guyht), London
 ** "Website":http://cach.me/blog, "GitHub":http://github.com/guyht, "Twitter":http://twitter.com/mrwooster
@@ -681,6 +681,8 @@ h2. UTC+1 (+2)
 ** "GitHub":http://github.com/mattijs, "Website":http://monkeyandmachine.com
 * Christian Tellnes (tellnes), Trondheim, Norway
 ** "GitHub":http://github.com/tellnes, "Website":http://christian.tellnes.com
+* Frank M. Eriksson (knarF), near Uppsala, Sweden
+** "Website":http://knarf.se/ , "github":http://github.com/knarf-se
 
 h2. UTC+2 (+3)
 * Aurimas Rim?a, Lithuania
