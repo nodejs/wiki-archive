@@ -1406,6 +1406,7 @@ h2(#coffee-script). "CoffeeScript modules":#coffee-script
 * "NodeBase":https://github.com/dotmaster/NodeBase -- A node base class for JavaScript and Coffeescript (logging, options, defaults and EventEmitter)
 * "protege":https://github.com/wearefractal/protege -- NodeJS/CoffeeScript utility library aimed at making code as simple as possible.
 <a name="wiki-search"></a>
+* "coffee-toaster":https://github.com/serpentem/coffee-toaster -- Minimalist dependency management system for coffee-script. 
 
 h2(#search). "Full text search":#search
 
