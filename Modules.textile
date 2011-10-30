@@ -503,7 +503,7 @@ h3(#build-and-deployment). "Build and Deployment":#build-and-deployment
 * "Gittyup":https://github.com/spiceapps/gittyup -- Application deployment library for node.js
 * "npkg":https://github.com/wearefractal/npkg -- Generates cross-platform installers for Node.js applications
 * "envious":https://github.com/markbao/node-envious -- environment variable configuration that's too easy to pass up
-* "modul8":https://github.com/clux/modul8 -- Browser-side CommonJS - a lightweight code packager and analyzer for NodeJS web applications.
+* "modul8":https://github.com/clux/modul8 -- Generates an extensible and customizable CommonJS environment for the browser
 * "coffee-toaster":https://github.com/serpentem/coffee-toaster -- Minimalist dependency management system for coffee-script. 
 
 <a name="wiki-package-management"></a>
