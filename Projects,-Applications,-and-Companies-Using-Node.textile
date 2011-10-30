@@ -1,3 +1,134 @@
+h2. Companies
+
+* "13 pass":http://www.13pass.com/ -- Uses node.js and mongoDb to deals with API or realtime websocket programming.
+* "37Signals":http://www.37signals.com/ -- Used node.js to write "Pow":http://pow.cx/, zero configuration Rack server for OS/X. 
+* "A2 Hosting":http://www.a2hosting.com/web-development/nodejs-hosting - Node.js hosting provider
+* "Academia.edu":http://www.academia.edu/ - uses node for background data processing
+* "Adcloud":http://adcloud.com/ -- Javascript Adserver on EC2
+* "AdGear":http://adgear.com/ -- Real-time advertising reporting
+* "aimifan.com":http://aimifan.com -- Online food ordering in Shanghai
+* "af83":http://af83.com/ -- uses node on several projects ("Geeks":https://github.com/AF83/Geeks for example)
+* "Ajax.org":http://ajax.org/ -- Home of the Cloud9 IDE, Ajax.org Platform and O3 Node modules
+* "Applied Data Consultants":http://applieddataconsultants.com
+* "&yet (andyet)":http://andyet.net -- We make web software for human people.
+* "AntPortal":https://antportal.com/
+* "appendTo":http://appendto.com/ -- The Company Dedicated to jQuery
+* "bejes.us":http://bejes.us/ -- NodeJS hosting using the @Nodester platform - Maintained by one of the developers.
+* "Bitmechanic":http://www.bitmechanic.com/
+* "Bocoup":http://bocoup.com
+* "BrandedCode":http://brandedcode.com
+* "browserling":http://browserling.com - test all the browsers in your browser!
+* "Caffeinehit":http://caffeinehit.com
+* "Chomp":http://chomp.com - mobile application search, uses node for components of the production backend
+* "Chompin":http://chompin.com - discover new music, mobile app, uses node for the entire back end api
+* "clickdummy":http://clickdummy.net - Fast prototyping for designers and dummies
+* "Clock Limited":http://www.clock.co.uk - Top 100, Award-winning design and build agency specialising in node.js / high-profile clients such as BBC, NewsCorp ("Sun Perks":http://www.sunperks.com), Channel 4. 
+* "cloudnode":http://cloudno.de/ -- NodeJS hosting and CouchDB hosting based on Nodester and CouchDB.
+* "computeruniverse":http://www.computeruniverse.net -- online shop for computers, notebooks, home entertainment and much more
+* "Comvel GmbH":http://www.weg.de -- One of the biggest travelsites in Germany
+* "Conceited Software":http://conceited.net -- independent development studio focused on creating highly usable software for Mac, iOS, and the web
+* "D Sharp":http://dsharpdiabetes.com -- uses NodeJS to power their mobile web application for diabetes management
+* "Datagraph":http://datagraph.org/ - uses node as part of a sharded large-scale RDF storage system.
+* "Debuggable":http://debuggable.com/ -- Creators of "Transloadit":http://transloadit.com/ (image / video uploading and encoding as a service), also offers node.js training and consulting.
+* "Deco":http://www.on-deco.com - Real-time collaborative mood boarding for web designers
+* "Development Seed":http://developmentseed.org/ - building data sites  
+* "Dextrose":http://dextrose.com/ -- heavily uses node for their upcoming JavaScript based game engine "Aves Engine"
+* "Dow Jones":http://social.wsj.com/ -- The WSJ Social front-end is written completely in node, using Express, ejs, and many other modules
+* "DuckDuckGo":http://duckduckgo.com/ -- uses it for XMPP bot im@ddg.gg
+* "Duostack":http://www.duostack.com
+* "Durchblicker":http://durchblicker.at - The Austrian price comparison site. (price calculation engine)
+* "Erskine Design":http://erskinedesign.com/ -- Real(ish)-time SNMP monitoring dashboard using websockets
+* "e-resistible":http://www.e-resistible.co.uk - uses node to handle network communication to restaurant printers
+* "Fictorial":http://fictorial.com
+* "Forward":http://www.forwardtechnology.co.uk/ - Real-time mapping and click-tracking (also "Metris":http://nko2-forward.herokuapp.com/)
+* "Fostle":http://fostle.com/
+* "Geeklist":http://geekli.st/
+* "Ge.tt":http://ge.tt Kick ass file sharing service - (oh and it's real time)
+* "GoInstant":http://goinstant.com - No install, web co-browsing
+* "GoodData":http://www.gooddata.com Metric-driven analytics SAAS BI - the Way It Should Be
+* "Heroku":http://blog.heroku.com/archives/2010/4/28/node_js_support_experimental/ Dead simple Node deployment for you, and internal tools for us.
+* "Humansized Inc.":http://www.humansized.com
+* "IDFuze":http://www.idfuze.com - Working on a real time cards game using node.js and socket.io
+* "ingk labs":http://ingk.com - Rapidly create startup prototypes with a strong emphasis on DRY
+* "ipowerhouse":http://www.ipowerhouse.com - Focused on haXe/Node.js  game dev; first all haxe/node bingo product.
+* "Joshfire":http://www.joshfire.com/ - Internet Of Things company, Multi-device app development
+* "Joinbox":http://www.joinbox.com/ - All of your social actions, emails and online news on one sweet website. 
+* "Joyent":http://www.joyent.com/
+* "Koding":http://kodingen.com/ - Browser-based IDE and Cloud Computing Platform for PHP/Ruby/Python and others.
+* "LearnBoost":http://www.learnboost.com/ - free "gradebook":http://www.learnboost.com and lesson plan software
+* "Left Logic":http://leftlogic.com
+* "LinkiT projects":http://linkit-projects.nl - Use nodejs for developing javascript sites. (http://yalia.nl/
+* "Listener Approved":http://ListenerApproved.com - The radical new music industry
+* "LocalStars":http://www.localstars.com - Using NodeJS, Mongo & Redis for scalable webservices
+* "M-Way Solutions":http://www.mwaysolutions.com -- Developing node.js based build tools for The-M-Project
+* "Medium":http://thisismedium.com
+* "Milewise":http://milewise.com - Using Node.js for real-time fare searching
+* "Mockingbird":http://gomockingbird.com -- Using Node.js and operational transformations to do real-time, collaborative wireframing
+* "Moonshadow Mobile":http://www.moonshadowmobile.com -- Using Node.js to handle communication between a web client and a geospatial server
+* "MyBrands":http://www.mybrands.de -- web-tracker and product recommendations (node + couchdb)  
+* "myGengo":http://status.mygengo.com/ - myGengo uses Node.js for some internal status stuff.
+* "neoSource":http://www.neosource.cl -- Based in Santiago, Chile. Specializes on Distributed Solutions.  
+* "NewsBasis":http://newsbasis.com -- Web crawler and async work in node
+* "Newspaper Club":http://www.newspaperclub.co.uk - Uses node.js for wrapping a nasty SOAP interface to InDesign Server.
+* "Next Feature":http://www.nextfeature.com
+* "Next Generation Spinners":http://www.ngspinners.com/ - Supporting web developers, developing next generation tools. Database - Server - Browser - Language.
+* "Next Please!":http://nextplea.se - uses node to match "Adobe Stratus":http://labs.adobe.com/technologies/stratus/ id's.
+* "nitobi":http://nitobi.com
+* "Nodejitsu":http://nodejitsu.com Hosting and ninja training for node.js.
+* "OPOWER":http://opowerjobs.com - Using Node for recruiting site, referral tracking, and other new projects.
+* "Opzi":http://www.opzi.com - Real-time enterprise collaboration apps on Node.
+* "Original Machine":http://originalmachine.com - Using node for realtime statistics in "Stereofeed":http://stereofeed.com .
+* "Palm/HP":http://developer.palm.com/ - powers all the services in the new WebOS platform for mobile devices.
+* "Pilvy":http://www.pilvy.com/ -- backend is all node.js, including syncing with third-party services
+* "Pixelspark":http://www.pixelspark.nl/ -- uses node.js for its "CoStore":http://costore.net online data collaboration and synchronization platform
+* "Plurk":http://www.plurk.com/ -- using node.js for its "new comet system":http://amix.dk/blog/post/19490#Plurk-Instant-conversations-using-comet
+* "Proxlet":http://proxlet.com -- Twitter API proxy & browser extension to filter out the noise.
+* "Public Class":http://publicclass.se
+* "Pushme.to":http://pushme.to -- web to iPhone messenger is using node.js for real-time messaging passing and push notifications
+* "Radical Dynamic":http://www.radicaldynamic.com -- uses Node to power the "GroupComplete":http://www.groupcomplete.com app server.
+* "radicalDESIGNS":http://radicaldesigns.org/ - Online campaign tools for nonprofits and grassroots movements.
+* "Razorshift Entertainment":http://www.razorshift.com/ - Online social properties and services.
+* "Rdio":http://www.rdio.com/ -- Uses node to synchronize state across multiple devices logged in to a single account, render pages for non-JS browsers.
+* "Redman Tech":http://redmantech.com -- using Node to power internal tools, real time log monitoring, and R&D projects.
+* "Scopely":http://bit.ly/scopely-github -- using Node to power realtime chat, user presence and notifications, analytics, apis and general geekery.
+* "SecretSocial":http://shh.sh - 100% node + SSL, a place for having private conversations.
+* "Sentymetr":http://sentymetr.pl - Social media monitoring in Poland. We use JavaScript and node.js for data processing.
+* "Sexbyfood":http://www.sexbyfood.com -- a web-based reservations book for restaurateurs
+* "Shelby.tv":http://www.shelby.tv -- The most amazing way to discover and enjoy the video your friends are sharing.
+* "Shine Technologies":http://www.shinetech.com/ -- Software consultancy with offices in Brisbane & Melbourne. We're helping our client to rewrite one of Australia's largest web sites using node. We also wrote "jazz":http://github.com/shinetech/jazz and "eventserver":http://github.com/shinetech/eventserver
+* "Shiny Ads":http://www.ShinyAds.com/ -- Self-Serve Advertising platform for online publishers.  Using node.js for a super-fast/low memory internal ad server.
+* "Singly":http://singly.com/ - Hosted Personal Data Home's, using node for most of the data aggregation/serving
+* "SitePen":http://www.sitepen.com/ - Using node for persevere
+* "Siteworx":http://www.siteworx.com/
+* "Shortrr":http://shortrr.com -- Submit, read, and rank summary highlights of content in realtime while browsing the web
+* "Sleepless Software Inc.":http://sleepless.com - Servers for large scale Facebook games.
+* "Spoondate":http://spoondate.com - A delicious way to meet.
+* "Stanzr":http://stanzr.com -- Real-Time, Outbound, Social Media Conversations for businesses 
+* "Szpil":https://szpil.com - Keep detailed contact histories. Review past calls and conversations. Collaborate with colleagues. 
+* "Telefónica R&D":http://tid.es
+* "Thinkfuse":http://www.thinkfuse.com
+* "TRData Limited":https://trdata.com - real-time data processing and comet-server
+* "Trellon":https://trellon.com - making node.js work with Drupal
+* "URGE IO":http://urge.io
+* "Votizen":http://votizen.com -- Social lobbying for registered voters.
+* "Voxer":http://voxer.com -- Walkie Talkie for your iOS device, backend uses all kinds of node
+* "Webbynode":http://webbynode.com
+* "Webdigi Web Development":http://www.webdigi.co.uk -- Web development agency based in London, UK
+* "wemake":http://wemake.fr -- High performance Web Development based in Paris, France
+* "wemakeweb":http://wemakeweb.de -- Digital Signage System on top of Node.js
+* "Well.ca":http://well.ca - Canada's largest online pharmacy
+* "Widescript":http://widescript.com -- A digital reading app targeted to people who study or make use of reference material.
+* "Wikia":http://www.wikia.com -- Chat
+* "Wompt":http://wompt.com -- A polished web-chatroom application with open authentication.
+* "XOXCO":http://xoxco.com --  a tiny product development firm in Austin, TX.  Our goal is to make products that allow people to play and work together in new ways.
+* "Yammer":https://www.yammer.com -- The Yammer Application Platform heavily uses node.js
+* "Ylastic":http://ylastic.com/ - uses node for report processing and admin app
+* "[[BörseGo AG|http://boerse-go.ag|]]" - they use a nodejs server for providing news pushed via websockets on http://www.jandaya.de
+* "Doodkin" http://doodkin.com developed an mobile application with node.
+* "Neuron web creative":http://www.neuron-webagency.com - A creative and innovative web agency, this is the agency that develops http://www.meetbymaps.com
+* "CellkastGames":http://www.tickade.com - Tickade is an online redemption games platform where players can play casual games by themselves or against each other for tickets. Players can exchange tickets for real world prizes of their choice delivered to their doors 
+
+
 h2. Projects and Applications
 
 * "node_chat":http://github.com/ry/node_chat by ry
@@ -130,137 +261,6 @@ h2. Projects and Applications
 * "zztmmo":http://github.com/marak/zztmmo - a zzt based massive multiplayer online game built in node.js and jQuery (currently only single player)
 * "meetbymaps":http://www.meetbymaps.com - a realtime geo-social network: users, events, point of interest  and many other things inside google maps.You can login using fb account and in your position will be placed a marker that follows your movements.
 * "grir.am":http://grir.am - Website where users with knowledge of armenian may improve their typing skills.
-
-
-h2. Companies
-* "13 pass":http://www.13pass.com/ -- Uses node.js and mongoDb to deals with API or realtime websocket programming.
-* "37Signals":http://www.37signals.com/ -- Used node.js to write "Pow":http://pow.cx/, zero configuration Rack server for OS/X. 
-* "A2 Hosting":http://www.a2hosting.com/web-development/nodejs-hosting - Node.js hosting provider
-* "Academia.edu":http://www.academia.edu/ - uses node for background data processing
-* "Adcloud":http://adcloud.com/ -- Javascript Adserver on EC2
-* "AdGear":http://adgear.com/ -- Real-time advertising reporting
-* "aimifan.com":http://aimifan.com -- Online food ordering in Shanghai
-* "af83":http://af83.com/ -- uses node on several projects ("Geeks":https://github.com/AF83/Geeks for example)
-* "Ajax.org":http://ajax.org/ -- Home of the Cloud9 IDE, Ajax.org Platform and O3 Node modules
-* "Applied Data Consultants":http://applieddataconsultants.com
-* "&yet (andyet)":http://andyet.net -- We make web software for human people.
-* "AntPortal":https://antportal.com/
-* "appendTo":http://appendto.com/ -- The Company Dedicated to jQuery
-* "bejes.us":http://bejes.us/ -- NodeJS hosting using the @Nodester platform - Maintained by one of the developers.
-* "Bitmechanic":http://www.bitmechanic.com/
-* "Bocoup":http://bocoup.com
-* "BrandedCode":http://brandedcode.com
-* "browserling":http://browserling.com - test all the browsers in your browser!
-* "Caffeinehit":http://caffeinehit.com
-* "Chomp":http://chomp.com - mobile application search, uses node for components of the production backend
-* "Chompin":http://chompin.com - discover new music, mobile app, uses node for the entire back end api
-* "clickdummy":http://clickdummy.net - Fast prototyping for designers and dummies
-* "Clock Limited":http://www.clock.co.uk - Top 100, Award-winning design and build agency specialising in node.js / high-profile clients such as BBC, NewsCorp ("Sun Perks":http://www.sunperks.com), Channel 4. 
-* "cloudnode":http://cloudno.de/ -- NodeJS hosting and CouchDB hosting based on Nodester and CouchDB.
-* "computeruniverse":http://www.computeruniverse.net -- online shop for computers, notebooks, home entertainment and much more
-* "Comvel GmbH":http://www.weg.de -- One of the biggest travelsites in Germany
-* "Conceited Software":http://conceited.net -- independent development studio focused on creating highly usable software for Mac, iOS, and the web
-* "D Sharp":http://dsharpdiabetes.com -- uses NodeJS to power their mobile web application for diabetes management
-* "Datagraph":http://datagraph.org/ - uses node as part of a sharded large-scale RDF storage system.
-* "Debuggable":http://debuggable.com/ -- Creators of "Transloadit":http://transloadit.com/ (image / video uploading and encoding as a service), also offers node.js training and consulting.
-* "Deco":http://www.on-deco.com - Real-time collaborative mood boarding for web designers
-* "Development Seed":http://developmentseed.org/ - building data sites  
-* "Dextrose":http://dextrose.com/ -- heavily uses node for their upcoming JavaScript based game engine "Aves Engine"
-* "Dow Jones":http://social.wsj.com/ -- The WSJ Social front-end is written completely in node, using Express, ejs, and many other modules
-* "DuckDuckGo":http://duckduckgo.com/ -- uses it for XMPP bot im@ddg.gg
-* "Duostack":http://www.duostack.com
-* "Durchblicker":http://durchblicker.at - The Austrian price comparison site. (price calculation engine)
-* "Erskine Design":http://erskinedesign.com/ -- Real(ish)-time SNMP monitoring dashboard using websockets
-* "e-resistible":http://www.e-resistible.co.uk - uses node to handle network communication to restaurant printers
-* "Fictorial":http://fictorial.com
-* "Forward":http://www.forwardtechnology.co.uk/ - Real-time mapping and click-tracking (also "Metris":http://nko2-forward.herokuapp.com/)
-* "Fostle":http://fostle.com/
-* "Geeklist":http://geekli.st/
-* "Ge.tt":http://ge.tt Kick ass file sharing service - (oh and it's real time)
-* "GoInstant":http://goinstant.com - No install, web co-browsing
-* "GoodData":http://www.gooddata.com Metric-driven analytics SAAS BI - the Way It Should Be
-* "Heroku":http://blog.heroku.com/archives/2010/4/28/node_js_support_experimental/ Dead simple Node deployment for you, and internal tools for us.
-* "Humansized Inc.":http://www.humansized.com
-* "IDFuze":http://www.idfuze.com - Working on a real time cards game using node.js and socket.io
-* "ingk labs":http://ingk.com - Rapidly create startup prototypes with a strong emphasis on DRY
-* "ipowerhouse":http://www.ipowerhouse.com - Focused on haXe/Node.js  game dev; first all haxe/node bingo product.
-* "Joshfire":http://www.joshfire.com/ - Internet Of Things company, Multi-device app development
-* "Joinbox":http://www.joinbox.com/ - All of your social actions, emails and online news on one sweet website. 
-* "Joyent":http://www.joyent.com/
-* "Koding":http://kodingen.com/ - Browser-based IDE and Cloud Computing Platform for PHP/Ruby/Python and others.
-* "LearnBoost":http://www.learnboost.com/ - free "gradebook":http://www.learnboost.com and lesson plan software
-* "Left Logic":http://leftlogic.com
-* "LinkiT projects":http://linkit-projects.nl - Use nodejs for developing javascript sites. (http://yalia.nl/
-* "Listener Approved":http://ListenerApproved.com - The radical new music industry
-* "LocalStars":http://www.localstars.com - Using NodeJS, Mongo & Redis for scalable webservices
-* "M-Way Solutions":http://www.mwaysolutions.com -- Developing node.js based build tools for The-M-Project
-* "Medium":http://thisismedium.com
-* "Milewise":http://milewise.com - Using Node.js for real-time fare searching
-* "Mockingbird":http://gomockingbird.com -- Using Node.js and operational transformations to do real-time, collaborative wireframing
-* "Moonshadow Mobile":http://www.moonshadowmobile.com -- Using Node.js to handle communication between a web client and a geospatial server
-* "MyBrands":http://www.mybrands.de -- web-tracker and product recommendations (node + couchdb)  
-* "myGengo":http://status.mygengo.com/ - myGengo uses Node.js for some internal status stuff.
-* "neoSource":http://www.neosource.cl -- Based in Santiago, Chile. Specializes on Distributed Solutions.  
-* "NewsBasis":http://newsbasis.com -- Web crawler and async work in node
-* "Newspaper Club":http://www.newspaperclub.co.uk - Uses node.js for wrapping a nasty SOAP interface to InDesign Server.
-* "Next Feature":http://www.nextfeature.com
-* "Next Generation Spinners":http://www.ngspinners.com/ - Supporting web developers, developing next generation tools. Database - Server - Browser - Language.
-* "Next Please!":http://nextplea.se - uses node to match "Adobe Stratus":http://labs.adobe.com/technologies/stratus/ id's.
-* "nitobi":http://nitobi.com
-* "Nodejitsu":http://nodejitsu.com Hosting and ninja training for node.js.
-* "OPOWER":http://opowerjobs.com - Using Node for recruiting site, referral tracking, and other new projects.
-* "Opzi":http://www.opzi.com - Real-time enterprise collaboration apps on Node.
-* "Original Machine":http://originalmachine.com - Using node for realtime statistics in "Stereofeed":http://stereofeed.com .
-* "Palm/HP":http://developer.palm.com/ - powers all the services in the new WebOS platform for mobile devices.
-* "Pilvy":http://www.pilvy.com/ -- backend is all node.js, including syncing with third-party services
-* "Pixelspark":http://www.pixelspark.nl/ -- uses node.js for its "CoStore":http://costore.net online data collaboration and synchronization platform
-* "Plurk":http://www.plurk.com/ -- using node.js for its "new comet system":http://amix.dk/blog/post/19490#Plurk-Instant-conversations-using-comet
-* "Proxlet":http://proxlet.com -- Twitter API proxy & browser extension to filter out the noise.
-* "Public Class":http://publicclass.se
-* "Pushme.to":http://pushme.to -- web to iPhone messenger is using node.js for real-time messaging passing and push notifications
-* "Radical Dynamic":http://www.radicaldynamic.com -- uses Node to power the "GroupComplete":http://www.groupcomplete.com app server.
-* "radicalDESIGNS":http://radicaldesigns.org/ - Online campaign tools for nonprofits and grassroots movements.
-* "Razorshift Entertainment":http://www.razorshift.com/ - Online social properties and services.
-* "Rdio":http://www.rdio.com/ -- Uses node to synchronize state across multiple devices logged in to a single account, render pages for non-JS browsers.
-* "Redman Tech":http://redmantech.com -- using Node to power internal tools, real time log monitoring, and R&D projects.
-* "Scopely":http://bit.ly/scopely-github -- using Node to power realtime chat, user presence and notifications, analytics, apis and general geekery.
-* "SecretSocial":http://shh.sh - 100% node + SSL, a place for having private conversations.
-* "Sentymetr":http://sentymetr.pl - Social media monitoring in Poland. We use JavaScript and node.js for data processing.
-* "Sexbyfood":http://www.sexbyfood.com -- a web-based reservations book for restaurateurs
-* "Shelby.tv":http://www.shelby.tv -- The most amazing way to discover and enjoy the video your friends are sharing.
-* "Shine Technologies":http://www.shinetech.com/ -- Software consultancy with offices in Brisbane & Melbourne. We're helping our client to rewrite one of Australia's largest web sites using node. We also wrote "jazz":http://github.com/shinetech/jazz and "eventserver":http://github.com/shinetech/eventserver
-* "Shiny Ads":http://www.ShinyAds.com/ -- Self-Serve Advertising platform for online publishers.  Using node.js for a super-fast/low memory internal ad server.
-* "Singly":http://singly.com/ - Hosted Personal Data Home's, using node for most of the data aggregation/serving
-* "SitePen":http://www.sitepen.com/ - Using node for persevere
-* "Siteworx":http://www.siteworx.com/
-* "Shortrr":http://shortrr.com -- Submit, read, and rank summary highlights of content in realtime while browsing the web
-* "Sleepless Software Inc.":http://sleepless.com - Servers for large scale Facebook games.
-* "Spoondate":http://spoondate.com - A delicious way to meet.
-* "Stanzr":http://stanzr.com -- Real-Time, Outbound, Social Media Conversations for businesses 
-* "Szpil":https://szpil.com - Keep detailed contact histories. Review past calls and conversations. Collaborate with colleagues. 
-* "Telefónica R&D":http://tid.es
-* "Thinkfuse":http://www.thinkfuse.com
-* "TRData Limited":https://trdata.com - real-time data processing and comet-server
-* "Trellon":https://trellon.com - making node.js work with Drupal
-* "URGE IO":http://urge.io
-* "Votizen":http://votizen.com -- Social lobbying for registered voters.
-* "Voxer":http://voxer.com -- Walkie Talkie for your iOS device, backend uses all kinds of node
-* "Webbynode":http://webbynode.com
-* "Webdigi Web Development":http://www.webdigi.co.uk -- Web development agency based in London, UK
-* "wemake":http://wemake.fr -- High performance Web Development based in Paris, France
-* "wemakeweb":http://wemakeweb.de -- Digital Signage System on top of Node.js
-* "Well.ca":http://well.ca - Canada's largest online pharmacy
-* "Widescript":http://widescript.com -- A digital reading app targeted to people who study or make use of reference material.
-* "Wikia":http://www.wikia.com -- Chat
-* "Wompt":http://wompt.com -- A polished web-chatroom application with open authentication.
-* "XOXCO":http://xoxco.com --  a tiny product development firm in Austin, TX.  Our goal is to make products that allow people to play and work together in new ways.
-* "Yammer":https://www.yammer.com -- The Yammer Application Platform heavily uses node.js
-* "Ylastic":http://ylastic.com/ - uses node for report processing and admin app
-* "[[BörseGo AG|http://boerse-go.ag|]]" - they use a nodejs server for providing news pushed via websockets on http://www.jandaya.de
-* "Doodkin" http://doodkin.com developed an mobile application with node.
-* "Neuron web creative":http://www.neuron-webagency.com - A creative and innovative web agency, this is the agency that develops http://www.meetbymaps.com
-* "CellkastGames":http://www.tickade.com - Tickade is an online redemption games platform where players can play casual games by themselves or against each other for tickets. Players can exchange tickets for real world prizes of their choice delivered to their doors 
-
 
 h2. Discussion
 
