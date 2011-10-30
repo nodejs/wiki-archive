@@ -1272,7 +1272,7 @@ documentation generator
 * "RADIUS":https://github.com/jeremycx/node-radius -- RADIUS Auth and Accounting binding
 * "stats":https://github.com/visionmedia/stats -- javascript source statistics API & CLI
 * "stomp-js":https://github.com/benjaminws/stomp-js -- Full featured STOMP client.
-* "node-sunny":https://github.com/ryan-roemer/node-sunny -- Multi-cloud datastore client (AWS S3, Google Storage, etc.).
+* "node-sunny":http://sunnyjs.org -- Multi-cloud datastore client (AWS S3, Google Storage, etc.).
 * "node-syslog":https://github.com/schamane/node-syslog/ -- Allows sending messages to syslog.
 * "node-taglib":https://github.com/nikhilm/node-taglib -- Beginnings of bindings to "taglib":http://developer.kde.org/~wheeler/taglib
 * "node-twiml":https://github.com/derferman/node-twiml -- Easy TwiML creation in node.js
