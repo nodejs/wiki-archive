@@ -44,6 +44,24 @@ When editing this page please be as detailed as possible. Examples are encourage
      ```
 
    * `process.memoryUsage().vsize` was removed. You don't need it.
+ * Default Timezone changed
+   * 0.4.x:
+   
+     ```javascript
+     new Date("2011-06-06")
+     > Mon, 06 Jun 2011 04:00:00 GMT
+     new Date("2011-06-06").getTime()
+     > 1307332800000
+     ```
+
+   * 0.5.10:
+
+     ```javascript
+     new Date("2011-06-06")
+     > Mon, 06 Jun 2011 00:00:00 GMT
+     new Date("2011-06-06").getTime()
+     > 1307318400000
+     ```
  * V8 (v3.1 to v3.7)
    * `RegExp` was no longer a `Function`. Use `RegExp.exec()` instead.
 
