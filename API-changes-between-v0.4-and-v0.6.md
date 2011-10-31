@@ -44,7 +44,7 @@ When editing this page please be as detailed as possible. Examples are encourage
      ```
 
    * `process.memoryUsage().vsize` was removed. You don't need it.
- * Default Timezone changed
+ * Default Timezone changed. No longer adjusts for local timezone. Examples below are in the node repl in eastern timezone.
    * 0.4.x:
    
      ```javascript
