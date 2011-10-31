@@ -62,6 +62,28 @@ When editing this page please be as detailed as possible. Examples are encourage
      new Date("2011-06-06").getTime()
      > 1307318400000
      ```
+ * Error object has hidden properties. Examples below are in node repl. Notice the difference in the `enumerable` property between the node versions.
+
+   * 0.4.x:
+
+     ```javascript
+     var e = new Error()
+     e
+     > { stack: [Getter/Setter], arguments: undefined, type: undefined }
+     Object.getOwnPropertyDescriptor(e, 'type')
+     > { value: undefined, writable: true, enumerable: true, configurable: true }
+     ```
+
+  * 0.5.10:
+
+    ```javascript
+    var e = new Error()
+    e
+    > [Error]
+    Object.getOwnPropertyDescriptor(e, 'type')
+    > { value: undefined, writable: true, enumerable: false, configurable: true }
+    ```
+
  * V8 (v3.1 to v3.7)
    * `RegExp` was no longer a `Function`. Use `RegExp.exec()` instead.
 
