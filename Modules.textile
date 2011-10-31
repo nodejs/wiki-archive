@@ -861,6 +861,8 @@ h4(#parsers-other). "Other Parsers":#parsers-other
 * "node-feedparser":https://github.com/danmactough/node-feedparser - RSS, Atom, and RDF feed parsing in Node.js
 * "VIE":https://github.com/bergie/VIE - RDFa parsing in Node.js
 * "butter":https://github.com/rootslab/butter - Butter === nodeJS Buffer + ( some hexadecimals delights )
+* "feedme.js":https://github.com/fent/feedme.js -- RSS/Atom feed parser written with sax-js
+
 <a name="wiki-debugging"></a>
 
 h3(#debugging). "Debugging / Console Utilities":#debugging
@@ -906,7 +908,6 @@ h3(#debugging). "Debugging / Console Utilities":#debugging
 * "Shell":https://github.com/wdavidw/node-shell -- Nice looking shell applications with pluggable middlewares
 * "Winston":https://github.com/indexzero/winston -- A multi-transport async logging library for node.js
 * "flume-rpc":https://github.com/recoset/node-flume-rpc -- A flume-compatible (RPC) logging source and sink
-* "feedme.js":https://github.com/fent/feedme.js -- RSS/Atom feed parser
 
 <a name="wiki-compression"></a>
 
