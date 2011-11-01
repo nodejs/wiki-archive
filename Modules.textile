@@ -1085,6 +1085,7 @@ h3(#async-flow). "Control flow / Async goodies":#async-flow
 * "Ignite":http://www.ignitejs.com/ -- An easy-to-use async programming framework inspired by UML2 state machines.
 * "Jscex":http://github.com/JeffreyZhao/jscex -- Transforms sync code into monadic, async code as the async support in F# and Scala.
 * "JobManager":https://github.com/demian85/node-jobmanager -- A really simple tool that helps you manage multiple asynchronous tasks.
+* "miniqueue":https://github.com/hsch/node-miniqueue -- A very simple in-memory queue for easy sequential processing
 * "$N":https://github.com/chjj/-N -- Simple control flow with pretty syntax.
 * "nestableflow":https://github.com/minodisk/flow-js -- Asynchronous nestable flow-control (serial, parallel, repeat, wait, function) module for Node.js, RequireJS, and browser.
 * "node-fnqueue":https://github.com/kilianc/node-fnqueue -- Functions chain utility
