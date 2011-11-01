@@ -505,6 +505,7 @@ h3(#build-and-deployment). "Build and Deployment":#build-and-deployment
 * "envious":https://github.com/markbao/node-envious -- environment variable configuration that's too easy to pass up
 * "modul8":https://github.com/clux/modul8 -- Generates an extensible and customizable CommonJS environment for the browser
 * "coffee-toaster":https://github.com/serpentem/coffee-toaster -- Minimalist dependency management system for coffee-script. 
+* "watch-node":https://github.com/viatropos/watch-node -- Automatically restart Node.js server when a file changes, recompile JS/CSS. Do anything. Uses Mac FSEvents.
 
 <a name="wiki-package-management"></a>
 
