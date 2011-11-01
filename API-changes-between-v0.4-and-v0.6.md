@@ -112,6 +112,8 @@ When editing this page please be as detailed as possible. Examples are encourage
    * `start` option to `fs.createReadStream()` and `fs.createWriteStream()`.
  * `http`
    * `http.ClientRequest.setTimeout()/setNoDelay()/setSocketKeepAlive()`
+ * `https`
+   * `passphrase` option to `https.createServer()`, `https.request()`, and `https.get()`.
  * Module system
    * `.json` module.
    * `module.require()`
@@ -125,6 +127,7 @@ When editing this page please be as detailed as possible. Examples are encourage
  * `process`
    * `process.arch`, `process.uptime()`
  * `tls`
+   * `passphrase` option to `tls.createServer()` and `tls.connect()`.
    * `tls.CleartextStream.address()`, `remoteAddress`, `remotePort`.
    * `tls.CryptoStream.getSession()` and `session` option to `tls.connect()`.
    * `tls.Server` supports [NPN (Next Protocol Negotitation) and SNI (Server Name Indication)](http://nodejs.org/docs/latest/api/tls.html#nPN_and_SNI).
