@@ -854,6 +854,8 @@ h2. UTC+8
 ** "GitHub":http://github.com/e6nian, "Twitter":http://twitter.com/e6nian
 * Ditesh Shashikant Gathani (ditesh), Kuala Lumpur, Malaysia
 ** "Website":http://ditesh.gathani.org/blog, "GitHub":http://github.com/ditesh, "Twitter":http://twitter.com/ditesh
+* Edward Zhang (windyrobin), Hangzhou, China
+** "GitHub":http://github.com/windyrobin, "Twitter/Weibo":http://weibo.com/windyrobin
 
 h2. UTC+9
 
