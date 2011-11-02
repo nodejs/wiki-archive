@@ -55,6 +55,7 @@ h2. Companies
 * "Joinbox":http://www.joinbox.com/ - All of your social actions, emails and online news on one sweet website. 
 * "Joyent":http://www.joyent.com/
 * "Koding":http://kodingen.com/ - Browser-based IDE and Cloud Computing Platform for PHP/Ruby/Python and others.
+* "Klout":http://klout.com/
 * "LearnBoost":http://www.learnboost.com/ - free "gradebook":http://www.learnboost.com and lesson plan software
 * "Left Logic":http://leftlogic.com
 * "LinkiT projects":http://linkit-projects.nl - Use nodejs for developing javascript sites. (http://yalia.nl/
