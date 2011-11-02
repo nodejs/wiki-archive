@@ -130,7 +130,9 @@ h2. Companies
 * "CellkastGames":http://www.tickade.com - Tickade is an online redemption games platform where players can play casual games by themselves or against each other for tickets. Players can exchange tickets for real world prizes of their choice delivered to their doors 
 
 
-h2. Projects and Applications
+h2. Websites and Applications
+
+This list is for websites and applications that are powered by node.js. If you've created a module (something which can *only* be run by being included into another project) then your project belongs on the "modules page":https://github.com/joyent/node/wiki/Modules instead. _If you spot modules here, feel free to remove them._
 
 * "node_chat":http://github.com/ry/node_chat by ry
 * "64squares":http://64sq.com - by weepy - real time live chess running on node + socket.io with facebook
@@ -263,10 +265,3 @@ h2. Projects and Applications
 * "meetbymaps":http://www.meetbymaps.com - a realtime geo-social network: users, events, point of interest  and many other things inside google maps.You can login using fb account and in your position will be placed a marker that follows your movements.
 * "grir.am":http://grir.am - Website where users with knowledge of armenian may improve their typing skills.
 
-h2. Discussion
-
-Anyone else think that all the "Modules":https://github.com/joyent/node/wiki/modules listed here should be removed, and to remove ambiguity between modules and projects/applications, projects/applications should be renamed to websites/apps (not modules).
-
-* +1 ~balupton
-* +1 ~weisjohn
-* +1 ~dtrejo (Just do it!)
