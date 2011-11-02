@@ -401,7 +401,7 @@ h3(#templating). "Templating":#templating
 * "bake":https://github.com/pvorb/node-bake -- Templating engine for static files. Supports "ejs":https://github.com/visionmedia/ejs templates.
 * "bind-js":https://github.com/Xavi-/bind-js -- a simple templating engine for node.js that smiles back.
 * "blue":http://github.com/floby/node-blue -- A streamed template engine. Support for asynchronous loading of partials
-* "CoffeeKup":https://github.com/mauricemach/coffeekup -- Markup as CoffeeScript. Live "demo":http://coffeekup.org and "html2coffeekup":http://https://github.com/brandonbloom/html2coffeekup.
+* "CoffeeKup":https://github.com/mauricemach/coffeekup -- Markup as CoffeeScript. Live "demo":http://coffeekup.org and "html2coffeekup":https://github.com/brandonbloom/html2coffeekup.
 * "combyne.js":https://github.com/tbranyen/combyne.js -- A template engine that hopefully works the way you'd expect.
 * "doT.js":https://github.com/olado/doT -- Concise and super fast javascript templates with customizable delimiters, streaming and partials support
 * "dust":http://akdubya.github.com/dustjs -- Async, streaming & composable templates for the browser and node
