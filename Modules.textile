@@ -426,6 +426,7 @@ rendering process.
 * "nodejs-meta-templates":https://github.com/shimondoodkin/nodejs-meta-templates -- like php mixed with html, processed twice, 1st  static data, 2nd dynamic data.
 * "normal-template":https://github.com/gmosx/normal-template -- Normal templates are simple, yet powerful. They are safe, usable in non XML/HTML contexts and portable to any programming language.
 * "nun":https://github.com/akaspin/nun -- Totally asynchronous non-blocking template engine for node.js
+* "node-dom":https://github.com/github.com/Nais/node-dom -- Javascript fast W3C DOM generation.
 * "node.magic_dom":https://github.com/amix/node.magic_dom -- A DSL for building HTML in node.js, similar to Python's Stan
 * "node-template":https://github.com/graphnode/node-template -- Fast and light cached templates.
 * "node-properties":https://github.com/theteam/node-properties -- Simple property reader, externalise your configuration through JSON
