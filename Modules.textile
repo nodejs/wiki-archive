@@ -863,6 +863,7 @@ h4(#parsers-other). "Other Parsers":#parsers-other
 * "VIE":https://github.com/bergie/VIE - RDFa parsing in Node.js
 * "butter":https://github.com/rootslab/butter - Butter === nodeJS Buffer + ( some hexadecimals delights )
 * "feedme.js":https://github.com/fent/feedme.js -- RSS/Atom feed parser written with sax-js
+* "JS-YAML":https://github.com/nodeca/js-yaml -- Full featured YAML parser. Native PyYAML port.
 
 <a name="wiki-debugging"></a>
 
