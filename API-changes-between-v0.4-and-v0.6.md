@@ -34,6 +34,7 @@ When editing this page please be as detailed as possible. Examples are encourage
    * `process.binding('stdio')` was removed. This was a private API. You shouldn't have been using it in the 
    first place.
    * `process.binding('net')` was removed.
+   * `process.memoryUsage().vsize` was removed. You don't need it.
    * `process.stdin`, `process.stdout` and `process.stderr` are getters now.
      You can override it (if you really want to) like this:
 
@@ -43,49 +44,11 @@ When editing this page please be as detailed as possible. Examples are encourage
      });
      ```
 
-   * `process.memoryUsage().vsize` was removed. You don't need it.
- * Default Timezone changed. No longer adjusts for local timezone. Examples below are in the node repl in eastern timezone.
-   * 0.4.x:
-   
-     ```javascript
-     new Date("2011-06-06")
-     > Mon, 06 Jun 2011 04:00:00 GMT
-     new Date("2011-06-06").getTime()
-     > 1307332800000
-     ```
-
-   * 0.5.10:
-
-     ```javascript
-     new Date("2011-06-06")
-     > Mon, 06 Jun 2011 00:00:00 GMT
-     new Date("2011-06-06").getTime()
-     > 1307318400000
-     ```
- * Error object has hidden properties. Examples below are in node repl. Notice the difference in the `enumerable` property between the node versions.
-
-   * 0.4.x:
-
-     ```javascript
-     var e = new Error()
-     e
-     > { stack: [Getter/Setter], arguments: undefined, type: undefined }
-     Object.getOwnPropertyDescriptor(e, 'type')
-     > { value: undefined, writable: true, enumerable: true, configurable: true }
-     ```
-
-  * 0.5.10:
-
-    ```javascript
-    var e = new Error()
-    e
-    > [Error]
-    Object.getOwnPropertyDescriptor(e, 'type')
-    > { value: undefined, writable: true, enumerable: false, configurable: true }
-    ```
-
  * V8 (v3.1 to v3.7)
-   * `RegExp` was no longer a `Function`. Use `RegExp.exec()` instead.
+   * `RegExp` was no longer a `Function` (compliant with ES5). Use `RegExp.exec()` instead.
+   * `Date`'s string format without timezone (e.g., `new Date('2011-06-06')`) has been based on UTC, not local timezone (compliant with ES5). Use timezone explicitly (e.g., `new Date('2011-06-06 00:00:00 +09:00')`).
+   * All standard properties of `Error` has been non-enumerable (compliant with ES5). use `util.inspect(err, true)` if you want to show it.
+
 
 ## Added:
 
@@ -104,7 +67,7 @@ When editing this page please be as detailed as possible. Examples are encourage
  * `child_process`
    * `child_process.fork()`
  * `cluster`
-   * `node cluster` see https://github.com/joyent/node/blob/d2698d182271c77bc5bca44a9cee625d9372301f/doc/api/cluster.markdown
+   * `node cluster` see http://nodejs.org/docs/latest/api/cluster.html
  * `crypto`
    * `crypto.createDiffieHellman()`, `crypto.pbkdf2()`, `crypto.randomBytes()`
  * `fs`
@@ -121,15 +84,16 @@ When editing this page please be as detailed as possible. Examples are encourage
    * `net.connect()`
    * `net.Socket.remotePort`, `bytesRead`, `bytesWrite`
  * `os`
-   * `os.arch()`, `os.platform()`, `os.uptime()`, `os.getNetworkInterfaces()`
+   * `os.arch()`, `os.platform()`, `os.uptime()`, `os.networkInterfaces()`
  * `path`
    * `path.relative()`
  * `process`
    * `process.arch`, `process.uptime()`
  * `tls`
    * `passphrase` option to `tls.createServer()` and `tls.connect()`.
-   * `tls.CleartextStream.address()`, `remoteAddress`, `remotePort`.
+   * `sessionIdContext` option to `tls.createServer()`.
    * `tls.CryptoStream.getSession()` and `session` option to `tls.connect()`.
+   * `tls.CleartextStream.address()`, `remoteAddress`, `remotePort`.
    * `tls.Server` supports [NPN (Next Protocol Negotitation) and SNI (Server Name Indication)](http://nodejs.org/docs/latest/api/tls.html#nPN_and_SNI).
  * `util`
    * `util.format()`, `util.isArray()`, `util.isRegExp()`, `uitl.isDate()`, `util.isError()`.
