@@ -15,8 +15,9 @@ When editing this page please be as detailed as possible. Examples are encourage
    * C++ `node::EventEmitter` has been removed. Instead use `node::MakeCallback()`
    * `EventEmitter.removeAllListeners()` allows to remove all listeners at once.
  * `fs`
-   * `fs.symlink` takes an optional `mode` argument, which can either be 'dir' or 'file'.  The default is 'file'.  This argument is only needed for Windows (it's ignored on other platforms).
-   * `fs.watchFile` is replaced by `fs.watch`
+   * `mode` argument of `fs.mkdir()` and `fs.mkdirSyn()` became an option (defaults to `0777`).
+   * `fs.symlink()` takes an optional `mode` argument, which can either be `'dir'` or `'file'`.  The default is `'file'`.  This argument is only needed for Windows (it's ignored on other platforms).
+   * `fs.watchFile()` is replaced by `fs.watch()`
  * `http`
    * `http.request()` and `http.get()` use `Connection: Keep-Alive` by default.
    * `http.Agent.appendMessage` was removed.
@@ -47,7 +48,7 @@ When editing this page please be as detailed as possible. Examples are encourage
  * V8 (v3.1 to v3.7)
    * `RegExp` was no longer a `Function` (compliant with ES5). Use `RegExp.exec()` instead.
    * `Date`'s string format without timezone (e.g., `new Date('2011-06-06')`) has been based on UTC, not local timezone (compliant with ES5). Use timezone explicitly (e.g., `new Date('2011-06-06 00:00:00 +09:00')`).
-   * All standard properties of `Error` has been non-enumerable (compliant with ES5). use `util.inspect(err, true)` if you want to show it.
+   * All standard properties of `Error` have been non-enumerable (compliant with ES5). use `util.inspect(err, true)` if you want to show it.
 
 
 ## Added:
