@@ -131,3 +131,8 @@ details.
 **IMPORTANT** Isaacs will explode your computer across space and time through sheer force of will if you create issues without following the instructions exactly or without fully providing the requisite debug info. This is in an early stage of functionality and **will** break. Make sure you're using the latest version of Node because the 0.5.x branch has seen rapid development, particularly for Windows native, with large chunks of functionality added or changed between minor releases. (0.5.8 or later recommended).
 
 http://npmjs.org/doc/README.html#Installing-on-Windows-Experimental
+
+
+---
+If you have any installation problems, look at [Troubleshooting
+Installation](https://github.com/ry/node/wiki/Troubleshooting-Installation), try an [alternative installation method](https://gist.github.com/579814), or stop into [#node.js](http://webchat.freenode.net/?channels=node.js&uio=d4) and ask questions.
