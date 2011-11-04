@@ -134,5 +134,4 @@ http://npmjs.org/doc/README.html#Installing-on-Windows-Experimental
 
 
 ---
-If you have any installation problems, look at [Troubleshooting
-Installation](https://github.com/ry/node/wiki/Troubleshooting-Installation), try an [alternative installation method](https://gist.github.com/579814), or stop into [#node.js](http://webchat.freenode.net/?channels=node.js&uio=d4) and ask questions.
+If you have any installation problems, and are sure you've followed each step correctly, stop into [#node.js](http://webchat.freenode.net/?channels=node.js&uio=d4) and ask questions. Cheers!
