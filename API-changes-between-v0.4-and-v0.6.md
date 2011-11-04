@@ -5,24 +5,24 @@ When editing this page please be as detailed as possible. Examples are encourage
  * `Buffer`
    * The `length` optional third parameter was added to `Buffer.write()`
  * `child_process`
-   * The `customFds` option to the `child_process.spawn` method is deprecated. Only the values -1, 0, 1, 2 will work with `customFds` now and only if those are TTY file descriptors. You can however use the `stdinStream`, `stdoutStream`, and `stderrStream` options to achieve similar functionality.
-   * You can no longer send a file descriptor through a unix pipe. Instead you can send a handle via `child_process.fork`.
+   * The `customFds` option to the `child_process.spawn()` method is deprecated. Only the values -1, 0, 1, 2 will work with `customFds` now and only if those are TTY file descriptors. You can however use the `stdinStream`, `stdoutStream`, and `stderrStream` options to achieve similar functionality.
+   * You can no longer send a file descriptor through a unix pipe. Instead you can send a handle via `child_process.fork()`.
  * `dgram`
    * The `'unix_dgram'` type to the `dgram.createSocket()` is no longer supported. The Unix domain datagram is *not* the Internet domain datagram (UDP) which stays supported.
  * `dns`
-   * `dns.lookup` now uses `getaddrinfo` in a thread pool instead of c-ares. The rest of the methods in the DNS module still use c-ares. Using the system resolver for common look ups is useful because it hooks into system MDNS lookups and /etc/host files and nsswitch, etc. Previously when using `dns.lookup` on invalid domain names like `"****"` the command returned an `EBADNAME` error. `getaddrinfo` does not differentiate between invalid domains and `ENOTFOUND` (AKA `NXDOMAIN`). Therefore `dns.lookup` now returns `ENOTFOUND` when given malformated domain names like `"*****"`.
+   * `dns.lookup()` now uses `getaddrinfo()` in a thread pool instead of c-ares. The rest of the methods in the DNS module still use c-ares. Using the system resolver for common look ups is useful because it hooks into system MDNS lookups and /etc/host files and nsswitch, etc. Previously when using `dns.lookup` on invalid domain names like `"****"` the command returned an `EBADNAME` error. `getaddrinfo()` does not differentiate between invalid domains and `ENOTFOUND` (AKA `NXDOMAIN`). Therefore `dns.lookup` now returns `ENOTFOUND` when given malformated domain names like `"*****"`.
  * `events`
    * C++ `node::EventEmitter` has been removed. Instead use `node::MakeCallback()`
    * `EventEmitter.removeAllListeners()` allows to remove all listeners at once.
  * `fs`
-   * `mode` argument of `fs.mkdir()` and `fs.mkdirSyn()` became an option (defaults to `0777`).
+   * `mode` argument of `fs.mkdir()` and `fs.mkdirSync()` became an option (defaults to `0777`).
    * `fs.symlink()` takes an optional `mode` argument, which can either be `'dir'` or `'file'`.  The default is `'file'`.  This argument is only needed for Windows (it's ignored on other platforms).
    * `fs.watchFile()` is replaced by `fs.watch()`
  * `http`
    * `http.request()` and `http.get()` use `Connection: Keep-Alive` by default.
-   * `http.Agent.appendMessage` was removed.
+   * `http.Agent.appendMessage()` was removed.
    * `http.getAgent()` was removed. Use `http.globalAgent` instead.
-   * Not `httpAgent` but `http.ClientRequest` emits `'upgrade'` event.
+   * Not `http.Agent` but `http.ClientRequest` emits `'upgrade'` event.
  * `https`
    * `https.request()` and `https.get()` with default `Agent` ignore `key`, `cert` and `ca` options. Use custom `Agent`.
  * Module system
