@@ -1,4 +1,4 @@
-h1. Node.js community wiki
+h1. Node.js community wik
 
 h2. Introduction
 
