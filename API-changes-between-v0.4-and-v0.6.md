@@ -46,7 +46,7 @@ When editing this page please be as detailed as possible. Examples are encourage
      });
      ```
 
- * V8 (v3.1 to v3.7)
+ * V8 (v3.1 to v3.6)
    * `RegExp` was no longer a `Function` (compliant with ES5). Use `RegExp.exec()` instead.
    * `Date`'s string format without timezone (e.g., `new Date('2011-06-06')`) has been based on UTC, not local timezone (compliant with ES5). Use timezone explicitly (e.g., `new Date('2011-06-06 00:00:00 +09:00')`).
    * All standard properties of `Error` have been non-enumerable (compliant with ES5). use `util.inspect(err, true)` if you want to show it.
