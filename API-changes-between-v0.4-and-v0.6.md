@@ -36,6 +36,7 @@ When editing this page please be as detailed as possible. Examples are encourage
    first place.
    * `process.binding('net')` was removed.
    * `process.memoryUsage().vsize` was removed. You don't need it.
+   * `process.stdout` and `process.stderr` are blocking when they refer to regular files or TTY file descriptors.
    * `process.stdin`, `process.stdout` and `process.stderr` are getters now.
      You can override it (if you really want to) like this:
 
