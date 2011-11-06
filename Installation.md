@@ -71,13 +71,15 @@ Rock-solid Node.js Platform on Ubuntu. Configure shell script for install node.j
 
 **Pre-built binaries**
 
-Windows Build (Node v0.5.10): http://nodejs.org/dist/v0.5.10/node.exe
+Windows Build (Node v0.6.0): http://nodejs.org/dist/v0.6.0/node.exe
 
 You can also install the binaries using [Chocolatey](http://chocolatey.org/packages/nodejs).
 
 **Building with VC++**
 
 Building with Microsoft VC++ is the best way to natively compile Node starting with the 0.5.x branch. If you don't have Visual Studio you can download and use [VC++ 2010 Express](http://www.microsoft.com/visualstudio/en-us/products/2010-editions/visual-cpp-express).
+
+Don't forget you also need [Python](http://www.python.org/download/releases/2.7.2/) to compile under Windows. Do not use 3.x versions of Python as they are incompatible with build scripts distributed with Node. Add Python directory (C:\PythonXX by default) to system PATH variable.
 
 The batch file *vcbuild.bat* handles running gyp to generate the Visual Studio Solution files and will also run the VC++ compiler without requiring you to compile from the Visual Studio IDE. You should be able to complete the whole process and generate the Debug .exe by simply running vcbuild.bat from explorer or from the command prompt.
 
