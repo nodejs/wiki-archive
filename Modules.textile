@@ -103,7 +103,7 @@ h4(#web-frameworks-static). "Static file servers":#web-frameworks-static
 * "Trailer":https://github.com/tylermwashburn/Trailer -- Everyone's favorite backend.
 * "nodetoy":https://github.com/teknopaul/nodetoy -- Static JSON file server that supports GET, POST and DELETE
 * "statify":https://github.com/techpriester/statify.js -- A static file server to make any directory available via HTTP from the command line.
-* "nserve":https://github.com/marty-wang/NServe -- A static file server to facilitate local software development, allowing for adjustable file transfer rate and mock web services.
+* "nserve":https://github.com/marty-wang/NServe -- A static file server to facilitate local software development, allowing for adjustable file transfer rate, mock web services and live reload.
 <a name="wiki-web-frameworks-micro"></a>
 
 h4(#web-frameworks-micro). "Microframeworks":#web-frameworks-micro
