@@ -17,7 +17,6 @@ When editing this page please be as detailed as possible. Examples are encourage
  * `fs`
    * `mode` argument of `fs.mkdir()` and `fs.mkdirSync()` became an option (defaults to `0777`).
    * `fs.symlink()` takes an optional `mode` argument, which can either be `'dir'` or `'file'`.  The default is `'file'`.  This argument is only needed for Windows (it's ignored on other platforms).
-   * `fs.watchFile()` is replaced by `fs.watch()`
  * `http`
    * `http.request()` and `http.get()` use `Connection: Keep-Alive` by default.
    * `http.Agent.appendMessage()` was removed.
