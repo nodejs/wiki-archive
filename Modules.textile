@@ -1256,6 +1256,7 @@ documentation generator
 * "node-Daemon":https://github.com/Eyjafjallajokull/node-Daemon -- Restart node script after each change in main script or its dependencies
 * "node-daemon":https://github.com/theteam/node-daemon -- Node daemon is a simple way to start, stop and restart your node based application without having to manage external scripts.
 * "node-iconv":https://github.com/bnoordhuis/node-iconv -- iconv bindings, character encoding conversion made easy.
+* "iconv-lite":https://github.com/ashtuchkin/iconv-lite -- a faster, simpler, pure javascript character encoding/decoding.
 * "node-fork":https://github.com/ryantenney/node-fork -- C bindings to fork or daemonize the process.
 * "node-genx":https://github.com/wezm/node-genx -- XML generation via the Genx C libary
 * "node-geoip":https://github.com/strange/node-geoip -- geoip city lookup module (uses libgeoip)
