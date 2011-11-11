@@ -868,6 +868,7 @@ h4(#parsers-other). "Other Parsers":#parsers-other
 * "node-musicmetadata":https://github.com/leetreveil/node-musicmetadata - Get music metadata asynchronously from node streams.
 * "node-struct":https://github.com/xdenser/node-struct -- Parse/format binary data in buffers.
 * "node-feedparser":https://github.com/danmactough/node-feedparser - RSS, Atom, and RDF feed parsing in Node.js
+* "node-opmlparser":https://github.com/danmactough/node-opmlparser - OPML parsing in Node.js
 * "VIE":https://github.com/bergie/VIE - RDFa parsing in Node.js
 * "butter":https://github.com/rootslab/butter - Butter === nodeJS Buffer + ( some hexadecimals delights )
 * "feedme.js":https://github.com/fent/feedme.js -- RSS/Atom feed parser written with sax-js
