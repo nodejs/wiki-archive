@@ -71,7 +71,6 @@ h4(#web-frameworks-routers). "Routers":#web-frameworks-routers
 * "barista":https://github.com/kieran/barista -- A fast, flexible URL router & generator, similar to Rails / merb
 * "beeline":https://github.com/xavi-/beeline -- A laughably simplistic router for node.js
 * "biggie-router":https://github.com/biggie/biggie-router -- Router for the biggie framework. Inspired by Sinatra and JQuery.
-* "blueprint":https://github.com/ingklabs/blueprint -- Blueprint for an App. Middleware, & MVC routing over Node.js & Mongoose
 * "choreographer":https://github.com/laughinghan/choreographer -- Your server is my stage -- dirt simple URL routing for Node.js. Easy to use, easy to understand. Sinatra-style API.
 * "clutch":https://github.com/clement/clutch -- no-frills web request router, supporting nested routes, regexp parameters
 * "connect":https://github.com/senchalabs/Connect -- Robust high performance middleware framework
@@ -129,6 +128,7 @@ h4(#web-frameworks-micro). "Microframeworks":#web-frameworks-micro
 h4(#web-frameworks-full). "Frameworks":#web-frameworks-full
 * "archetype":https://github.com/jefftrudeau/archetype/ -- A web framework leveraging Node.js
 * "aries":https://github.com/edjafarov/aries -- Annotation based MVC framework
+* "blueprint":https://github.com/ingklabs/blueprint -- **Blueprint for a Startup**. Middleware, & MVC routing over Node.js & Mongoose
 * "broke":https://github.com/brokenseal/broke/ -- A porting of the most famous "Django Web Framework":http://www.djangoproject.com/
 * "chain":https://github.com/hassox/chain/ -- An evented convention for building Node Applications (Stopped Development, for ejsgi)
 * "Web.js":https://github.com/iwillwen/Web.js -- A simple, fast and light HTTP/TCP framework for NodeJS
