@@ -989,6 +989,7 @@ h3(#api-clients). "API clients":#api-clients
 * "aws2js":https://github.com/SaltwaterC/aws2js -- Amazon Web Services APIs client implementation for node.js. Simple to use and extend.
 * "ec2metadata":https://github.com/kilianc/node-ec2metadata -- An API wrapper for the AWS EC2 metadata.
 * "calais":https://github.com/mcantelon/node-calais -- Semantically analyze text using the Calais web service
+* "cpanel-lib":https://github.com/vially/cpanel-lib -- Node.js client for the cPanel/WHM API
 * "discogs":https://github.com/linus/discogs -- Discogs API client
 * "node-dropbox":https://github.com/Rendez/node-dropbox -- Node.js client for the Dropbox API
 * "dropbox-node":https://github.com/evnm/dropbox-node -- A wrapper for the Dropbox API 
