@@ -47,12 +47,11 @@ When editing this page please be as detailed as possible. Examples are encourage
 
  * `stream`
    * `stream.pipe()` doesn't emit `'pause'/'resume'` events on the source stream which doesn't implement `pause()/resume()`.
+
  * V8 (v3.1 to v3.6)
    * `RegExp` was no longer a `Function` (compliant with ES5). Use `RegExp.exec()` instead.
    * `Date`'s string format without timezone (e.g., `new Date('2011-06-06')`) has been based on UTC, not local timezone (compliant with ES5). Use timezone explicitly (e.g., `new Date('2011-06-06 00:00:00 +09:00')`).
    * All standard properties of `Error` have been made non-enumerable (compliant with ES5). use `util.inspect(err, true)` if you want to show it.
- * `sys`
-   * `sys` has been renamed `util`. `require('sys')` still works, but a deprecation message is displayed on stdout.
 
 
 ## Added:
@@ -76,6 +75,7 @@ When editing this page please be as detailed as possible. Examples are encourage
  * `crypto`
    * `crypto.createDiffieHellman()`, `crypto.pbkdf2()`, `crypto.randomBytes()`
  * `fs`
+   * `fs.watch()`
    * `fs.utimes()/utimesSync()`, `fs.futimes()/futimesSync()`
    * `start` option to `fs.createReadStream()` and `fs.createWriteStream()`.
  * `http`
