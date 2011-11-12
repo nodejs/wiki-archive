@@ -1,5 +1,13 @@
 Install NodeJS on Windows using Cygwin
 ====
+
+Big fat warning
+====
+Support for building on Cygwin was removed in [67b235735e80209c6f199d15faa87cd0e068f6b8](https://github.com/joyent/node/commit/67b235735e80209c6f199d15faa87cd0e068f6b8). Please build using MSVC.
+
+***
+
+
 Step by step instructions to install NodeJS on Windows - [[http://boxysystems.com/index.php/step-by-step-instructions-to-install-nodejs-on-windows/]] -- OUTDATED
 
 Update Sept 1, 2011 -- as of today, v0.5.5 does not build on Cygwin (errors on make). Use v.0.5.4 (ie. follow instructions below and use "git checkout v0.5.4".
