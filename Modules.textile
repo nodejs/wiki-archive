@@ -1375,6 +1375,7 @@ documentation generator
 * "aop":https://github.com/baryshev/aop -- Simple AOP realization for async applications
 * "common-pool":https://github.com/baryshev/common-pool -- Simple resource pool
 * "webdav-sync":https://github.com/bermi/webdav-sync -- Syncs local directories with remote WebDAV server
+* "passgen":https://github.com/SDA/passgen -- Password generator
 * "password-generator":https://github.com/bermi/password-generator -- Memorable password generator
 * "feedsub":https://github.com/fent/node-feedsub -- Subscribes to RSS/Atom feeds and notifies on new items.
 * "pyyaml":https://github.com/jiem/node-pyyaml -- Robust YAML parser and dumper for Node.js using PyYAML bindings.
