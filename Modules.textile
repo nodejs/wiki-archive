@@ -611,6 +611,7 @@ h3(#tcp). "TCP / IP":#tcp
 * "portscanner":https://github.com/baalexander/node-portscanner -- An asynchronous port scanner for Node.js
 * "node-poplib":https://github.com/ditesh/node-poplib -- POP3 client library for Node.js
 * "node-ping":https://github.com/c0d3x42/node-ping -- Simple wrapper around fping 
+* "multiparter":https://github.com/Sonetica/multiparter -- multipart/form-data POST request maker for Node.js with support for streams and plain params
 
 h3(#rpc). "RPC":#rpc
 * "nodeQuery":https://github.com/tblobaum/nodeQuery -- nQuery.js lets you create, edit, update or delete the DOM in real-time using jQuery/Zepto style code written on the server
