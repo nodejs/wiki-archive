@@ -507,7 +507,7 @@ h3(#build-and-deployment). "Build and Deployment":#build-and-deployment
 * "Gittyup":https://github.com/spiceapps/gittyup -- Application deployment library for node.js
 * "npkg":https://github.com/wearefractal/npkg -- Generates cross-platform installers for Node.js applications
 * "envious":https://github.com/markbao/node-envious -- environment variable configuration that's too easy to pass up
-* "modul8":https://github.com/clux/modul8 -- Generates an extensible and customizable CommonJS environment for the browser
+* "modul8":https://github.com/clux/modul8 -- Extensible CommonJS browser code sharing
 * "coffee-toaster":https://github.com/serpentem/coffee-toaster -- Minimalist dependency management system for coffee-script. 
 * "watch-node":https://github.com/viatropos/watch-node -- Automatically restart Node.js server when a file changes, recompile JS/CSS. Do anything. Uses Mac FSEvents.
 
