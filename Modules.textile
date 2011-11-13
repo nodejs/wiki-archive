@@ -519,7 +519,7 @@ h3(#package-management). "Package Management Systems":#package-management
 * "Ender":https://github.com/ender-js/ender -- A package manager built on NPM bringing micro to macro to create your own custom JavaScript library by composing modules into a cohesive and familiar interface .
 * "Slugr":https://github.com/spiceapps/slugr -- Wraps node.js apps into a single executable file.
 * "npkg":https://github.com/wearefractal/npkg -- Generates cross-platform installers/executables for Node.js applications
-* "Cupboard":https://github.com/spiceapps/cupboard -- Repository management (Git/Npm)
+* "Cupboard":https://github.com/spiceapps/cupboard -- Reverse package manager
 
 <a name="wiki-module-loader"></a>
 
