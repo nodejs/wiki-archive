@@ -731,6 +731,7 @@ h3(#testing). "Testing / Spec Frameworks":#testing
 * "TestIt":http://github.com/DouglasMeyer/test_it -- Light-weight yet complete, shoulda style testing framework for in-browser and node.js tests.
 * "TestNode":http://github.com/testnode/testnode -- Unobtrusive BDD-style testing framework
 * "testosterone":https://github.com/masylum/testosterone -- Virile testing for http servers or any nodejs application.
+* "Tobi":https://github.com/LearnBoost/tobi -- Expressive server-side functional testing with jQuery.
 * "twerp":https://github.com/philjackson/twerp -- Simple test framework which is suited to Coffeescript users. Synchronous, simple and easy. 
 * "uubench":https://github.com/akdubya/uubench -- A tiny asynchronous JavaScript benchmarking library
 * "vbench":https://github.com/visionmedia/vbench -- tiny visual benchmarking library powered by uubench and node-canvas
