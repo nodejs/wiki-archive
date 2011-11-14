@@ -718,6 +718,7 @@ h3(#testing). "Testing / Spec Frameworks":#testing
 * "node-async-testing":http://bentomas.github.com/node-async-testing/ -- Simple, fast, extendable unit testing.  
 * "node-qunit":https://github.com/kof/node-qunit -- QUnit port for nodejs. Very simple API, async testing, good tested testing framework.
 * "node-stories":https://github.com/tobiassvn/node-stories -- Given/When/Then integration awesomeness for Node.
+* "node-testy":https://github.com/leetreveil/node-testy -- Super simple testing script. No added sugar. 100~ LOC.
 * "nodemock":https://github.com/arunoda/nodemock -- Simple Yet Powerful Mocking Framework for NodeJs
 * "nodeunit":https://github.com/caolan/nodeunit -- Simple syntax, powerful tools. Based on the assert module. Available for node.js and the browser!
 * "patr":https://github.com/kriszyp/patr -- Promise-based asynchronous test runner: lightweight & simple.
@@ -737,9 +738,9 @@ h3(#testing). "Testing / Spec Frameworks":#testing
 * "uubench":https://github.com/akdubya/uubench -- A tiny asynchronous JavaScript benchmarking library
 * "vbench":https://github.com/visionmedia/vbench -- tiny visual benchmarking library powered by uubench and node-canvas
 * "Vows":https://github.com/cloudhead/vows -- asynchronous behaviour-driven development for node.js 
+* "yeti":https://github.com/yui/yeti -- The YUI Easy Testing Interface: run browser JS unit tests from the command line!
 * "zap":https://github.com/nornagon/node-zap -- a tiny testing tool for node.js
 * "zombie.js":https://github.com/assaf/zombie -- Insanely fast, full-stack, headless testing using node.js
-* "node-testy":https://github.com/leetreveil/node-testy -- Super simple testing script. No added sugar. 100~ LOC.
 
 <a name="wiki-wrappers"></a>
 
