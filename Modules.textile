@@ -424,6 +424,7 @@ h3(#templating). "Templating":#templating
 * "less.js":https://github.com/cloudhead/less.js -- official port of Less to JavaScript/node.
 rendering process.
 * "Liquor":https://github.com/chjj/liquor -- A templating engine minus the code.
+* "Lite(LiteXML)":http://www.xidea.org/lite/doc/ -- A cross platform template engine base on xml/html and javascript expression
 * "minimal.js":https://github.com/ruidlopes/minimal.js -- a fast HTML+JSON template engine (both browser and Node.js compatible)
 * "Mu (Mustache)":https://github.com/raycmorgan/Mu -- A Mustache engine that compiles templates into very fast rendering functions. Also streams the 
 * "nTPL":https://github.com/indutny/nTPL -- Fast & Native extendable template system
