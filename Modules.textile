@@ -706,6 +706,7 @@ h3(#testing). "Testing / Spec Frameworks":#testing
 * "httpmock":https://github.com/bbyars/httpmock -- A RESTful web API for stubbing out network dependencies.
 * "horaa":https://github.com/arunoda/horaa -- Mocking NodeJS Modules
 * "jasmine-node":https://github.com/mhevery/jasmine-node -- integration with "Pivotal's Jasmine Spec":https://github.com/pivotal/jasmine framework
+* "jessie":https://github.com/futuresimple/jessie -- Node runner for Jasmine JavaScript BDD testing framework
 * "Jody":https://github.com/garrensmith/Jody -- A descriptive BDD Testing framework 
 * "JUTE":https://github.com/zzo/JUTE -- A JS testing environment with built in code coverage support for Capture/Selenium/V8 backends
 * "jspec":https://github.com/visionmedia/jspec -- Feature Rich BDD Testing Framework (no longer supported)
@@ -739,6 +740,7 @@ h3(#testing). "Testing / Spec Frameworks":#testing
 * "uubench":https://github.com/akdubya/uubench -- A tiny asynchronous JavaScript benchmarking library
 * "vbench":https://github.com/visionmedia/vbench -- tiny visual benchmarking library powered by uubench and node-canvas
 * "Vows":https://github.com/cloudhead/vows -- asynchronous behaviour-driven development for node.js 
+* "whiskey":https://github.com/cloudkick/whiskey -- A simple test runner for NodeJS applications.
 * "yeti":https://github.com/yui/yeti -- The YUI Easy Testing Interface: run browser JS unit tests from the command line!
 * "zap":https://github.com/nornagon/node-zap -- a tiny testing tool for node.js
 * "zombie.js":https://github.com/assaf/zombie -- Insanely fast, full-stack, headless testing using node.js
