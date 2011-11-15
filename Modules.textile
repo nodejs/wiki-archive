@@ -891,7 +891,6 @@ h3(#debugging). "Debugging / Console Utilities":#debugging
 * "colors.js":https://github.com/Marak/colors.js -- get colors in your node.js console like what
 * "colours.js":https://github.com/botanicus/colours.js -- Give your CLI programs some colours!
 * "colored.js":https://github.com/chrislloyd/colored.js -- Colorize terminal output.
-* "common-logger.js":https://github.com/viatropos/common-logger.js -- Cross-browser and Node.js empowered logging.
 * "consolelog.js":https://github.com/jazzychad/consolelog.node.js -- stylized console logging for node.js
 * "Eclipse debugger plugin":http://code.google.com/p/chromedevtools/ -- [[Using Eclipse as Node Applications Debugger]]
 * "eyes.js":https://github.com/cloudhead/eyes.js -- A better, customizable value inspector for node.js
@@ -921,6 +920,7 @@ h3(#debugging). "Debugging / Console Utilities":#debugging
 * "spine":https://github.com/thrashaholic/spine -- Dynamic runtime monitoring for node.js applications inspired by lorenwest's monitor.
 * "spruce":https://github.com/MarkPNeyer/spruce -- configurable node.js logging module
 * "strack":https://github.com/selead/strack -- bug tracking/tickets system
+* "underscore.logger":https://github.com/viatropos/underscore.logger -- Cross-browser and Node.js empowered logging that can be used as an Underscore mixin.
 * "v8-profiler":https://github.com/dannycoates/v8-profiler -- v8 profiler bindings with node-inspector integration
 * "webrepl":https://github.com/mmattozzi/webrepl -- Serve a repl for a node process via a simple web ui
 * "Replica":https://github.com/zentooo/Replica -- Repl to exec JavaScript code on browser
