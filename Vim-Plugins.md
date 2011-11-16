@@ -32,6 +32,10 @@ Of course, if you don't use [Pathogen](http://www.vim.org/scripts/script.php?scr
 * [SnipMate](http://www.vim.org/scripts/script.php?script_id=2540) Text-Mate like snippets
 * [nodejs-snippets](https://github.com/jamescarr/snipmate-nodejs) node specific snippet for SnipMate. Consider forking and improving
 
+## Completion
+
+* [vim-node](https://github.com/guileen/vim-node) A dictionary for node
+
 ## Browsing
 
 * [Commant-T](http://www.vim.org/scripts/script.php?script_id=3025) TextMate-like Command-T explorer. Find files by pattern
