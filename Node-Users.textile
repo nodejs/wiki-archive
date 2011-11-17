@@ -685,6 +685,8 @@ h2. UTC+1 (+2)
 ** "GitHub":http://github.com/tellnes, "Website":http://christian.tellnes.com
 * Frank M. Eriksson (knarF), near Uppsala, Sweden
 ** "Website":http://knarf.se/ , "github":http://github.com/knarf-se
+* Zarko Stankovic, Belgrade, Serbia
+** "GitHub":http://github.com/ManInTheBox, "Website":http://zarkostankovic.com
 
 h2. UTC+2 (+3)
 * Aurimas Rim?a, Lithuania
