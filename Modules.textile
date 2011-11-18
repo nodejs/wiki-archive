@@ -371,7 +371,7 @@ h5(#db-nosql-misc). "NoSQL Misc":#db-nosql-misc
 
 h4(#db-misc). "DB Misc and Cross DB":#db-misc
 
-* "Tabler":https://github.com/aarong/tabler/ - Interact with relational and NoSQL databases using a simple table interface (SimpleDB, JSON file available)
+* "Tabler":https://github.com/aarong/tabler/ - Access relational and NoSQL database backends using a generic SQL-inspired table interface (SimpleDB, JSON file available)
 * "db-drizzle":https://github.com/mariano/node-db-drizzle/ - Binary driver for Drizzle (using libdrizzle). Part of the "Node.js DB":http://nodejsdb.org effort
 * "jugglingdb":https://github.com/1602/jugglingdb/ - ORM for every database: redis, mysql, neo4j, mongodb, ...
 * "JSLINQ":https://github.com/marak/JSLINQ -- Clean and simple port of Microsoft's LINQ to node.js (and the browser)
