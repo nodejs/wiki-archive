@@ -265,4 +265,5 @@ This list is for websites and applications that are powered by node.js. If you'v
 * "zztmmo":http://github.com/marak/zztmmo - a zzt based massive multiplayer online game built in node.js and jQuery (currently only single player)
 * "meetbymaps":http://www.meetbymaps.com - a realtime geo-social network: users, events, point of interest  and many other things inside google maps.You can login using fb account and in your position will be placed a marker that follows your movements.
 * "grir.am":http://grir.am - Website where users with knowledge of armenian may improve their typing skills.
+* "NodeaSnake":http://www.ymutlu.com/experiment/nodeasnake/ - NodeaSnake multiplayer snake game.
 
