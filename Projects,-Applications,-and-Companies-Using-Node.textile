@@ -205,6 +205,7 @@ This list is for websites and applications that are powered by node.js. If you'v
 * "MultiplayerChess.com":http://multiplayerchess.com - Quickest way to play chess. 
 * "NewsQast.net":http://www.newsqast.net - Local news, weather, traffic, and more 
 * "noatta.ch":http://noatta.ch/ -- Instant Personal File Sharing
+* "NodeaSnake":http://www.ymutlu.com/experiment/nodeasnake/ - NodeaSnake multiplayer snake game.
 * "node-asset-server":https://github.com/TrueCar/node-asset-server - An asset packaging/minification web service
 * "node-boilerplate":http://github.com/robrighter/node-boilerplate -- Everything you need to get started on a Node.js website with express and socket.IO
 * "node-build":http://github.com/linkitprojects/node-build -- ant like build tool for nodejs without the xml hassle 
@@ -265,5 +266,4 @@ This list is for websites and applications that are powered by node.js. If you'v
 * "zztmmo":http://github.com/marak/zztmmo - a zzt based massive multiplayer online game built in node.js and jQuery (currently only single player)
 * "meetbymaps":http://www.meetbymaps.com - a realtime geo-social network: users, events, point of interest  and many other things inside google maps.You can login using fb account and in your position will be placed a marker that follows your movements.
 * "grir.am":http://grir.am - Website where users with knowledge of armenian may improve their typing skills.
-* "NodeaSnake":http://www.ymutlu.com/experiment/nodeasnake/ - NodeaSnake multiplayer snake game.
 
