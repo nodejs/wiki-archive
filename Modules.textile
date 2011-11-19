@@ -1088,6 +1088,7 @@ h3(#api-clients). "API clients":#api-clients
 * "yammer-js":https://github.com/smurthas/yammer-js -- Simple Yammer API wrapper
 * "node-wikimapia":https://github.com/Sannis/node-wikimapia -- Node.js wrapper for the Wikimapia API
 * "waz-storage-js":https://github.com/jpgarcia/waz-storage-js -- A simple implementation of Windows Azure Storage API for Node.js
+* "vimeo-client":https://github.com/tih-ra/vimeo-client -- Vimeo API client for Node.js
 * "virustotal.js":https://github.com/SaltwaterC/virustotal.js -- VirusTotal API client for node.js
 * "VIE":https://github.com/bergie/VIE -- Apache Stanbol and DBpedia API client for Node.js
 
