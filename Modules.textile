@@ -355,6 +355,7 @@ h5(#db-nosql-couch). "CouchDB":#db-nosql-couch
 * "data.js":https://github.com/michael/data/ -- Graph persistence for Node.js with CouchDB
 * "couchtato":https://github.com/cliffano/couchtato/ -- CouchDB document utility tool
 * "nano":https://github.com/dscape/nano/ -- Minimalistic driver for CouchDB based on mikeals/request
+* "YACA":https://github.com/dgreisen/YACA -- custom api for your couchdb instance generated through introspection. 
 
 h5(#db-nosql-misc). "NoSQL Misc":#db-nosql-misc
 
