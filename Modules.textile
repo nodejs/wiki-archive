@@ -1066,6 +1066,7 @@ h3(#api-clients). "API clients":#api-clients
 * "webmetrics":https://github.com/ryanbreen/node-webmetrics -- A module for accessing the Webmetrics JSON API
 * "postageapp":https://github.com/postageapp/postageapp-nodejs -- A module for sending emails through the PostageApp JSON API
 * "tropo-webapi-node":https://github.com/tropo/tropo-webapi-node -- A library for building multi-channel communication apps with the Tropo WebAPI.
+* "Nexmo Node API":https://github.com/shripadk/node-nexmo -- A module for sending and receiving SMS messages via Nexmo REST API.
 * "SMSified-node":https://github.com/smsified/smsified-node -- A module for sending and receiving SMS messages (text messages) with the SMSified API.
 * "tumblrrr":https://github.com/mvrilo/tumblrrr -- A wrapper for Tumblr's API
 * "tumblr":https://github.com/meritt/node-tumblr -- A wrapper for Tumblr's API v2
