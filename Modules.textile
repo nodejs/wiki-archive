@@ -328,6 +328,7 @@ h5(#db-nosql-mongo). "Mongo":#db-nosql-mongo
 h5(#db-nosql-hive). "Hive":#db-nosql-hive
 
 * "node-hive":https://github.com/forward/node-hive -- dead simple hive client using thrift api
+* "node-thrift-hive":https://github.com/wdavidw/node-thrift-hive -- Hive client with multi versions support and a readable stream API.
 
 h5(#db-nosql-redis). "Redis":#db-nosql-redis
 
