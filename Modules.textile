@@ -719,6 +719,7 @@ h3(#testing). "Testing / Spec Frameworks":#testing
 * "maryjane":https://github.com/dhasenan/maryjane/ -- Mock object library inspired by Mockito
 * "minitest.js":https://github.com/botanicus/minitest.js -- Light-weight & simple testing framework designed specially for testing asynchronous code.
 * "mjsunit.runner":https://github.com/tmpvar/mjsunit.runner -- Command line mjsunit runner which provides an easy way to hook into mjsunit and start running tests immediately.
+* "mocha":https://github.com/visionmedia/mocha -- simple, flexible, fun javascript test framework for node.js & the browser
 * "nock":https://github.com/pgte/nock -- HTTP mocking and expectations library.
 * "node-assert-extras":http://gitorious.org/node-assert-extras -- Additional high level asserts
 * "node-assertthat":https://github.com/goloroden/node-assertthat -- Provides a fluent TDD style for Node.js: assert.that(actual, is.equalTo(expected));
