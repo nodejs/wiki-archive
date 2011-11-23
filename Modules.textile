@@ -112,7 +112,6 @@ h4(#web-frameworks-micro). "Microframeworks":#web-frameworks-micro
 * "Layers":https://github.com/dave-elkan/layers -- A module to help create a layered web app with Express.
 * "Nerve":https://github.com/gjritter/nerve -- Microframework with simple array-based syntax for defining an app on top of node. (node.JS 0.1.30)
 * "restmvc.js":https://github.com/keithnlarsen/restmvc.js -- A simple library to help you quickly create RESTful webservices using Express, Mongoose, and MongoDB.
-* "rowan":https://github.com/idmillington/rowan -- A hierarchical microframework of reusable controllers and modular app logic.
 * "vroom":https://github.com/raycmorgan/vroom/tree/master -- A simple resource oriented web framework built on top of Node.js (November 2009, node.JS 0.1.16)
 * "Picard":https://github.com/dantebronto/picard
 * "simplex":https://github.com/mshakhan/simplex (October 2009, node.JS 0.1.14)
@@ -131,8 +130,7 @@ h4(#web-frameworks-full). "Frameworks":#web-frameworks-full
 * "blueprint":https://github.com/ingklabs/blueprint -- **Blueprint for a Startup**. Middleware, & MVC routing over Node.js & Mongoose
 * "broke":https://github.com/brokenseal/broke/ -- A porting of the most famous "Django Web Framework":http://www.djangoproject.com/
 * "chain":https://github.com/hassox/chain/ -- An evented convention for building Node Applications (Stopped Development, for ejsgi)
-* "Web.js":https://github.com/iwillwen/Web.js -- A simple, fast and light HTTP/TCP framework for NodeJS
-* "coltrane":https://github.com/ujh/coltrane/tree/master -- A try at a higher level library/framework for node.js web development (July 2009, node.JS 0.1.1)
+* "Web.js":https://github.com/iwillwen/webjs -- A simple, fast and light HTTP/TCP framework for NodeJS
 * "djangode":https://github.com/simonw/djangode -- A framework that borrows some useful concepts from "Django":http://www.djangoproject.com/. (March 2010, node.JS 0.1.30)
 * "drty":https://github.com/drtyhbo/drty -- A Django port to NodeJS. Many Django features, still under heavy development. (January, 2011, 0.2.6)
 * "Express":https://github.com/visionmedia/express/tree/master -- A robust feature rich web development framework **inspired by Sinatra**
@@ -145,8 +143,7 @@ h4(#web-frameworks-full). "Frameworks":#web-frameworks-full
 * "Geddy":https://github.com/mde/geddy/tree/master -- A hackable Web-app development framework similar to Merb/Rails/Pylons/Django
 * "GenJi":https://github.com/zir/genji -- A low-level loosely coupled web framework for nodejs
 * "jimi":https://github.com/colingourlay/jimi -- A framework for writing modular web applications in node.js ("tutorial":https://github.com/colingourlay/jimi/wiki)
-* "js.io":https://github.com/mcarter/js.io -- JavaScript Networking Library for building real-time web applications. Also see "JS.io":http://js.io
-* "merlin":https://github.com/brynbellomy/merlin -- Object-oriented MVC framework relying on a robust set of conventions to minimize code.  Also ships with optional plugins providing basic CMS-like functionality.
+* "merlin":https://github.com/brynbellomy/node-merlin -- Object-oriented MVC framework relying on a robust set of conventions to minimize code.  Also ships with optional plugins providing basic CMS-like functionality.
 * "PieJS":https://github.com/fakewaffle/piejs -- A rapid development MVC framework. Inspired and similar in style/convention to CakePHP. In very active development.
 * "RailwayJS":https://github.com/1602/express-on-railway -- An MVC web framework, similar to **Ruby on Rails**, Express/Connect-compatible. Also see "here (en)":http://railwayjs.com and "here (jp)":http://railwayjs.jp
 * "josi":https://github.com/thatismatt/josi -- An MVC web framework that's easy to pick up but doesn't get in the way. Also see "here":http://thatismatt.github.com/josi/.
@@ -158,7 +155,6 @@ h4(#web-frameworks-full). "Frameworks":#web-frameworks-full
 * "SocketStream":https://github.com/socketstream/socketstream -- A fast full-stack real-time web framework for single-page apps
 * "spludo":http://spludo.com -- A full featured web framework. Fully Async + MVC with DI, AOP and Storages. ("tutorial":http://docsforit.spludo.com/ + "user-guide":http://spludo.com/user-guide/full/)
 * "Seek":https://github.com/fk1blow/Seek/ -- Small Javascript Web framework - mostly for learning purpose
-* "WIN":https://github.com/mathgladiator/win -- A simple page centric framework designed around CouchDB+Mustache
 * "Zeppelin":https://github.com/pelger/Zeppelin -- An early stage, low friction cloud development framework    
 * "Kassit":https://github.com/marxus85/kassit -- rapid building of client-side AJAX applications using "Backbone":http://documentcloud.github.com/backbone/ and "CoffeeScript":http://jashkenas.github.com/coffee-script/
 * "BaseJump":https://github.com/mediaupstream/BaseJump -- A RAD NodeJS Framework - Built on top of **Connect** (alpha release)
