@@ -38,7 +38,7 @@ Packages for Fedora 15 and 16 as well as RHEL, CentOS, and Scientific Linux are 
 
 Example install on Fedora:
 
-    sudo bash -c "curl http://nodejs.tchol.org/stable/nodejs-stable.repo > /etc/yum.repos.d/"
+    sudo bash -c "curl http://nodejs.tchol.org/stable/nodejs-stable.repo > /etc/yum.repos.d/nodejs-stable.repo"
     sudo yum install nodejs
 
 You can also install NPM just as easily:
