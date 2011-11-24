@@ -6,6 +6,7 @@ Managed providers provide a simplified "Node Appliance" solution. Node and NPM w
 
 Name | Node Version | Web Sockets | IP/Hostname | IRC | Repository | Free Plan | Paid Plans | Notes |
 :-----------|:------------|:-------------|:-------------|:-------------|:-------------|:-------------|:-------------|:-------------------------------------|
+[appfog](http://appfog.com/) | | | | | | | | Beta (accepting signups)
 [bejes.us](http://bejes.us) | | | | | | | | Beta Coming Soon (accepting signups)  
 [Cloud Foundry](http://www.cloudfoundry.com) | | | | | | | | Beta, accepting signups
 [Cloudnode](http://cloudno.de) | | | | | | | | Beta (accepting signups)
