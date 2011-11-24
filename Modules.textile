@@ -84,7 +84,7 @@ h4(#web-frameworks-routers). "Routers":#web-frameworks-routers
 * "nozzle":https://github.com/fictorial/nozzle -- web app/service framework
 * "sherpa":https://github.com/joshbuddy/sherpa -- HTTP router/generator with support for regex and parameters
 * "router":https://github.com/gett/router -- A simple router with regex and sinatra like parameter support
-* "Beanpole":https://github.com/spiceapps/beanpole -- Universal router with syntactic sugar
+* "Beanpole":https://github.com/crcn/beanpole -- Universal router with syntactic sugar
 
 <a name="wiki-web-frameworks-static"></a>
 
@@ -506,7 +506,7 @@ h3(#build-and-deployment). "Build and Deployment":#build-and-deployment
 * "inireader":https://github.com/Ajnasz/IniReader -- Ini file parser
 * "doc.md":https://github.com/Pita/doc.md -- A simple JSDoc documenation tool that creates markdown for node.js modules
 * "coffee-conf":https://github.com/MSNexploder/coffee-conf -- Write your config files in coffee-script.
-* "Gittyup":https://github.com/spiceapps/gittyup -- Application deployment library for node.js
+* "Gittyup":https://github.com/crcn/gittyup -- Application deployment library for node.js
 * "npkg":https://github.com/wearefractal/npkg -- Generates cross-platform installers for Node.js applications
 * "envious":https://github.com/markbao/node-envious -- environment variable configuration that's too easy to pass up
 * "modul8":https://github.com/clux/modul8 -- Extensible CommonJS browser code sharing
@@ -519,9 +519,9 @@ h3(#package-management). "Package Management Systems":#package-management
 * "npm":https://github.com/isaacs/npm -- A node package manager that uses CommonJS-compatible package.json files, written in asynchronous JavaScript.
 * "nmod":https://github.com/jeromeetienne/nmod -- nmod is a node_modules manager. able to install from npm and git
 * "Ender":https://github.com/ender-js/ender -- A package manager built on NPM bringing micro to macro to create your own custom JavaScript library by composing modules into a cohesive and familiar interface .
-* "Slugr":https://github.com/spiceapps/slugr -- Wraps node.js apps into a single executable file.
+* "Slugr":https://github.com/crcn/slugr -- Wraps node.js apps into a single executable file.
 * "npkg":https://github.com/wearefractal/npkg -- Generates cross-platform installers/executables for Node.js applications
-* "Cupboard":https://github.com/spiceapps/cupboard -- Reverse package manager
+* "Cupboard":https://github.com/crcn/cupboard -- Reverse package manager
 
 <a name="wiki-module-loader"></a>
 
@@ -685,7 +685,7 @@ h3(#class-system). "Class systems":#class-system
 * "Sslac":https://github.com/jakobo/sslac -- Basic OOP-like support in JavaScript using chaining. Supports extension, interfaces, namespacing, and static objects.
 * "comb":https://github.com/Pollenware/comb -- Library with a built in OO class system, and other features(datastructures, array string and date utilities, etc..).
 * "UberClass":https://github.com/daffl/uberclass -- A class framework based on John Resig's Simple JavaScript inheritance and JavaScriptMVC $.Class.
-* "Structr":https://github.com/spiceapps/structr -- Library built to give JavaScript the same look and feel as other popular languages such as Java. 
+* "Structr":https://github.com/crcn/structr -- Library built to give JavaScript the same look and feel as other popular languages such as Java. 
 * "N-Ext":https://github.com/xcambar/n-ext -- Use the power of the Ext.data packages (from the ExtJS framework) in your NodeJS apps. Includes a MongoDB proxy based on "node-mongodb-native":https://github.com/xcambar/n-ext/node-mongodb-native)
 
 <a name="wiki-testing"></a>
@@ -813,7 +813,7 @@ h4(#parsers-commandline). "Command Line Option Parsers":#parsers-commandline
 * "Operetta":https://github.com/tricknik/node-operetta -- A Node Option Parser That Sings!
 * "yanop":https://github.com/frodwith/yanop -- Yet Another Node Option Parser
 * "options.js":http://valeriu.palos.ro/1026/command-line-option-parser-in-javascript/ -- An inline (non-module!) options parser that is very small and yet quite complete.
-* "celeri.js":https://github.com/spiceapps/celeri -- Complete command line interfaces lib for node.js
+* "celeri.js":https://github.com/crcn/celeri -- Complete command line interfaces lib for node.js
 
 <a name="wiki-parser-generators"></a>
 
@@ -1002,7 +1002,7 @@ h3(#payment-gateways). "Payment Gateways":#payment-gateways
 
 h3(#api-clients). "API clients":#api-clients
 * "authome":https://github.com/jed/authome - A dependency-free mutli-service authentication tool
-* "supervisord":https://github.com/spiceapps/supervisord - Library for supervisord 
+* "supervisord":https://github.com/crcn/supervisord - Library for supervisord 
 * "aws-lib":https://github.com/mirkok/aws-lib -- An extensible library for Amazon Web Services including EC2, SimpleDB and the Product Advertising API
 * "aws2js":https://github.com/SaltwaterC/aws2js -- Amazon Web Services APIs client implementation for node.js. Simple to use and extend.
 * "ec2metadata":https://github.com/kilianc/node-ec2metadata -- An API wrapper for the AWS EC2 metadata.
