@@ -373,7 +373,7 @@ h4(#db-misc). "DB Misc and Cross DB":#db-misc
 * "db-drizzle":https://github.com/mariano/node-db-drizzle/ - Binary driver for Drizzle (using libdrizzle). Part of the "Node.js DB":http://nodejsdb.org effort
 * "jugglingdb":https://github.com/1602/jugglingdb/ - ORM for every database: redis, mysql, neo4j, mongodb, ...
 * "JSLINQ":https://github.com/marak/JSLINQ -- Clean and simple port of Microsoft's LINQ to node.js (and the browser)
-* "nconf":https://github.com/indexzero/nconf -- A hybrid local / remote configuration storage library
+* "nconf":https://github.com/flatiron/nconf -- A hybrid local / remote configuration storage library
 * "node-cask":https://github.com/randomekek/node-cask -- A 140 loc mmap-ed key/value store, based on bitcask
 * "node-dbmon":https://github.com/straps/node-dbmon -- Database Real-Time Monitoring Library
 * "node-dirty":https://github.com/felixge/node-dirty -- A key value store for node.js that is simple, fast & dirty.
