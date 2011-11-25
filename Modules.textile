@@ -542,6 +542,7 @@ h3(#security). "OpenSSL / Crypto / Hashing":#security
 * "brainfucker's node-base64":https://github.com/brainfucker/node-base64 -- C++ base64 lib
 * "pkrumins's node-base64":https://github.com/pkrumins/node-base64 -- C++ base64 lib that actually works
 * "amir's node-base62":https://github.com/amir/node-base62 -- C++ base62 lib for representing big numbers
+* "MD5":https://github.com/pvorb/node-md5 -- Plain JavaScript MD5 hashing function
 * "node.bcrypt.js":https://github.com/ncb000gt/node.bcrypt.js -- C/C++ bcrypt lib
 * "node-crypto":https://github.com/waveto/node-crypto -- OpenSSL based Hashing, Signing and Verifying
 * "node-oauth":https://github.com/ciaranj/node-oauth -- OAuth client (1 and 2)
