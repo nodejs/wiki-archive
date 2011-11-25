@@ -71,7 +71,7 @@ Rock-solid Node.js Platform on Ubuntu. Configure shell script for install node.j
 
 **Pre-built binaries**
 
-Windows Build (Node v0.6.0): http://nodejs.org/dist/v0.6.0/node.exe
+Windows Build (Node v0.6.0): http://nodejs.org/dist/v0.6.2/node-v0.6.2.msi
 
 You can also install the binaries using [Chocolatey](http://chocolatey.org/packages/nodejs).
 
