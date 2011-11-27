@@ -927,6 +927,7 @@ h3(#debugging). "Debugging / Console Utilities":#debugging
 * "node-inspector":https://github.com/dannycoates/node-inspector -- browser based node debugger
 * "node-custom-debug":https://github.com/bobrik/node-custom-debug -- debugger on custom port on the fly, good addition for node-inspector to inspect many instances on the one server with ease
 * "node-cli":https://github.com/SchizoDuckie/Node-CLI/ -- cli.clear().move(20,20).color('green').write('Node-cli').down(1).back(7).color('yellow').write('Rocks!')
+* "nogg":https://github.com/jaekwon/nogg -- Simple file/stdio logging for node.js
 * "profilejs":https://github.com/HerdHound/profilejs -- profiling middleware for use with node-inspector (profiles Express handlers)
 * "spine":https://github.com/thrashaholic/spine -- Dynamic runtime monitoring for node.js applications inspired by lorenwest's monitor.
 * "spruce":https://github.com/MarkPNeyer/spruce -- configurable node.js logging module
