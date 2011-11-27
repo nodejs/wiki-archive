@@ -913,6 +913,7 @@ h3(#debugging). "Debugging / Console Utilities":#debugging
 * "log4js-node":https://github.com/csausdev/log4js-node -- a port of log4js framework for node.js
 * "logging":https://github.com/dylang/logging -- Super sexy color console logging.
 * "logly":https://github.com/tristanls/logly -- A minimal logging utility to support verbose and debug modes
+* "logule":https://github.com/clux/logule -- A sexy portable logging utility using colors
 * "nlogger":https://github.com/igo/nlogger -- Logging lib that can print also module names and line numbers, optionally in color
 * "node-logging":https://github.com/HerdHound/node-logging -- Simple colorized logging for Node.js with request logger Express middleware
 * "monitor":https://github.com/lorenwest/node-monitor -- Runtime monitoring for node.js applications - npm install monitor
