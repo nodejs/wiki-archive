@@ -517,6 +517,7 @@ h3(#build-and-deployment). "Build and Deployment":#build-and-deployment
 
 h3(#package-management). "Package Management Systems":#package-management
 * "npm":https://github.com/isaacs/npm -- A node package manager that uses CommonJS-compatible package.json files, written in asynchronous JavaScript.
+* "police":https://github.com/pkumar/npm-police -- A module dependency version policing tool. It goes through all your repositories on github which has package.json and analyzes the dependencies and reports back to you about all the outdated packages.
 * "nmod":https://github.com/jeromeetienne/nmod -- nmod is a node_modules manager. able to install from npm and git
 * "Ender":https://github.com/ender-js/ender -- A package manager built on NPM bringing micro to macro to create your own custom JavaScript library by composing modules into a cohesive and familiar interface .
 * "Slugr":https://github.com/crcn/slugr -- Wraps node.js apps into a single executable file.
