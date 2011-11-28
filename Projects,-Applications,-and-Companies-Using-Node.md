@@ -1,4 +1,4 @@
-h2. Companies
+## Companies
 
 * "13 pass":http://www.13pass.com/ -- Uses node.js and mongoDb to deals with API or realtime websocket programming.
 * "37Signals":http://www.37signals.com/ -- Used node.js to write "Pow":http://pow.cx/, zero configuration Rack server for OS/X. 
@@ -134,7 +134,7 @@ h2. Companies
 * "CellkastGames":http://www.tickade.com - Tickade is an online redemption games platform where players can play casual games by themselves or against each other for tickets. Players can exchange tickets for real world prizes of their choice delivered to their doors 
 
 
-h2. Websites and Applications
+## Websites and Applications
 
 This list is for websites and applications that are powered by node.js. If you've created a module (something which can *only* be run by being included into another project) then your project belongs on the "modules page":https://github.com/joyent/node/wiki/Modules instead. _If you spot modules here, feel free to remove them._
 
