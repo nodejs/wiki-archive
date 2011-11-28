@@ -125,6 +125,7 @@ h2. Companies
 * "Wikia":http://www.wikia.com -- Chat
 * "Wompt":http://wompt.com -- A polished web-chatroom application with open authentication.
 * "XOXCO":http://xoxco.com --  a tiny product development firm in Austin, TX.  Our goal is to make products that allow people to play and work together in new ways.
+* "Yahoo!":http://www.yahoo.com -- Node.js is the basis of Yahoo! Manhattan, part of the "Cocktails platform":http://developer.yahoo.com/blogs/ydn/posts/2011/11/yahoo-announces-cocktails-%E2%80%93-shaken-not-stirred/.
 * "Yammer":https://www.yammer.com -- The Yammer Application Platform heavily uses node.js
 * "Ylastic":http://ylastic.com/ - uses node for report processing and admin app
 * "[[BörseGo AG|http://boerse-go.ag|]]" - they use a nodejs server for providing news pushed via websockets on http://www.jandaya.de
