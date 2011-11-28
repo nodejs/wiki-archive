@@ -532,6 +532,7 @@ h3(#module-loader). "Module Loader":#module-loader
 * "node-hot-reload":https://github.com/shimondoodkin/node-hot-reload - watchFile and reload modules dynamically for node.js (very useful for development, less good for production)
 * "remap":https://github.com/dominictarr/remap - reroute require for mocks, wrappers, or shenanigans (useful for testing)
 * "a3":https://github.com/twojcik/a3 -- a3 module loads any folder of code into an 'API Tree'
+* "haba":https://github.com/crcn/haba -- plugin library
 <a name="wiki-security"></a>
 
 h3(#security). "OpenSSL / Crypto / Hashing":#security
