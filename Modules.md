@@ -982,6 +982,7 @@ h3(#graphics). "Graphics":#graphics
 * "node-image":https://github.com/pkrumins/node-image -- Unifies node-png, node-gif, node-jpeg
 * "node-pango-view":https://github.com/shimondoodkin/node-pango-view -- print text with pango to temporary png image, then merge it with ImageMagick. 
 * "squeeze":https://github.com/nikhilm/squeeze -- Mince and convert images on the cloud using "UploadJuicer":http://www.uploadjuicer.com .
+* "alleup":https://github.com/tih-ra/alleup - Flexible way to resize and upload images to Amazon S3 or file system storages
 * "node-graphviz":https://github.com/glejeune/node-graphviz -- GraphViz for node
 * "node-mapnik":https://github.com/mapnik/node-mapnik -- Mapnik bindings for high performance rendering of map tiles.
 * "node-mapserver":https://github.com/pagameba/node-mapserver -- mapserver bindings for rendering mapserver MAP files via node
@@ -1010,6 +1011,7 @@ h3(#payment-gateways). "Payment Gateways":#payment-gateways
 
 h3(#api-clients). "API clients":#api-clients
 * "authome":https://github.com/jed/authome - A dependency-free mutli-service authentication tool
+* "alleup":https://github.com/tih-ra/alleup - Flexible way to resize and upload images to Amazon S3 or file system storages 
 * "supervisord":https://github.com/crcn/supervisord - Library for supervisord 
 * "aws-lib":https://github.com/mirkok/aws-lib -- An extensible library for Amazon Web Services including EC2, SimpleDB and the Product Advertising API
 * "aws2js":https://github.com/SaltwaterC/aws2js -- Amazon Web Services APIs client implementation for node.js. Simple to use and extend.
