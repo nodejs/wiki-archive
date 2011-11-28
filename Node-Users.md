@@ -509,6 +509,8 @@ h2. UTC±0 (+1)
 ** "GitHub":http://github.com/pelger, "Twitter":http://twitter.com/pelger
 
 h2. UTC+1 (+2)
+* Andreas Madsen, Denmark
+** "GitHub":https://github.com/AndreasMadsen
 * Travis Dunn (travisdunn), Amsterdam, The Netherlands
 ** "GitHub":https://github.com/TertiumQuid, "Twitter":http://twitter.com/dramaroyal, "Website":http://travisdunn.com
 * Arnout Kazemier (V1), The Netherlands
