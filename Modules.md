@@ -949,6 +949,7 @@ h3(#compression). "Compression":#compression
 * "connect-gzip":https://github.com/nateps/connect-gzip -- gzip middleware for Connect. Contains middleware for gzipping and serving static files as well as gzipping responses dynamically 
 * "gzip":https://github.com/indutny/node.gzip -- simple compression using default linux "gzip" utility
 * "lzma":https://github.com/nmrugg/LZMA-JS/ -- A standalone JavaScript implementation of the Lempel-Ziv-Markov chain (LZMA) compression algorithm
+* "lzw-async":https://github.com/hiddentao/lzw-async/ -- Asynchronous Javascript implementation of Lempel-Ziv-Welch (LZW) compression algorithm
 * "node-compress":https://github.com/waveto/node-compress -- streaming compression / gzip library
 * "node-compress by egorich239":https://github.com/egorich239/node-compress -- asynchronous streaming (de)compression library with gzip and bzip2 support, originally forked from "waveto's":https://github.com/waveto/node-compress
 * "node-gzbz2":https://github.com/Woodya/node-gzbz2 -- streaming compression / gzip / bzip2 library for node.js, originally forked from "waveto's":https://github.com/waveto/node-compress
