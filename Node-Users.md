@@ -860,6 +860,8 @@ h2. UTC+8
 ** "Website":http://ditesh.gathani.org/blog, "GitHub":http://github.com/ditesh, "Twitter":http://twitter.com/ditesh
 * Edward Zhang (windyrobin), Hangzhou, China
 ** "GitHub":http://github.com/windyrobin, "Twitter/Weibo":http://weibo.com/windyrobin
+* Jackey Chen (JakeyChan), Shanghai, China
+** "GitHub": http://github.com/jackey
 
 h2. UTC+9
 
