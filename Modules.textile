@@ -931,6 +931,7 @@ h3(#debugging). "Debugging / Console Utilities":#debugging
 * "node-cli":https://github.com/SchizoDuckie/Node-CLI/ -- cli.clear().move(20,20).color('green').write('Node-cli').down(1).back(7).color('yellow').write('Rocks!')
 * "nogg":https://github.com/jaekwon/nogg -- Simple file/stdio logging for node.js
 * "profilejs":https://github.com/HerdHound/profilejs -- profiling middleware for use with node-inspector (profiles Express handlers)
+* "prettyjson":http://rafeca.com/prettyjson/ -- Package for formatting JSON data in a coloured YAML-style, perfect for CLI output.
 * "spine":https://github.com/thrashaholic/spine -- Dynamic runtime monitoring for node.js applications inspired by lorenwest's monitor.
 * "spruce":https://github.com/MarkPNeyer/spruce -- configurable node.js logging module
 * "strack":https://github.com/selead/strack -- bug tracking/tickets system
