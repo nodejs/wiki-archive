@@ -861,7 +861,7 @@ h2. UTC+8
 * Edward Zhang (windyrobin), Hangzhou, China
 ** "GitHub":http://github.com/windyrobin, "Twitter/Weibo":http://weibo.com/windyrobin
 * Jackey Chen (JakeyChan), Shanghai, China
-** "GitHub": http://github.com/jackey
+** "GitHub":http://github.com/jackey
 
 h2. UTC+9
 
