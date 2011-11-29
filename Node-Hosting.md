@@ -9,7 +9,7 @@ Name | Node Version | Web Sockets | IP/Hostname | IRC | Repository | Free Plan |
 [appfog](http://appfog.com/) | | | | | | | | Beta (accepting signups)
 [bejes.us](http://bejes.us) | | | | | | | | Beta Coming Soon (accepting signups)  
 [Cloud Foundry](http://www.cloudfoundry.com) | | | | | | | | Beta, accepting signups
-[Cloudnode](http://cloudno.de) | | | | | | | | Beta (accepting signups)
+[Cloudnode](http://cloudno.de) | 0.4.10 | Yes | Yes | | | Yes - Up to 3 VMs, 25 MB CouchDB space, 250,000 requests/month | | Beta (accepting signups)
 [Cure](http://cure.willsave.me) | 0.6.2 | | | | | | | (accepting signups)
 [DotCloud](http://www.dotcloud.com) | | | | | | | | Beta
 [Heroku](http://heroku.com) | 0.4.7 | No | Yes | #heroku | [heroku](http://github.com/heroku) | Yes - 1 Dynamo (256 MB Ram) | | 
