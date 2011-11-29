@@ -175,6 +175,7 @@ This list is for websites and applications that are powered by node.js. If you'v
 * "Drama Royal":https://apps.facebook.com/dramaroyal - Facebook-based reboot of the Sissy Fight 2k game of middleschool playground battles
 * "Drupal Node.js module":https://drupal.org/project/nodejs - Drupal module that integrates Node.js and Socket.IO with Drupal
 * "EasyWebSocket":http://easywebsocket.org - a WebSocket client to broadcast messages to webpages
+* "Eat Out":https://www.eatoutdiningcard.co.uk - The Times newspapers diners club. Entire solution developed in node.js by Clock Limited
 * "Truco Argentino":http://apps.facebook.com/elgrantruco - Multiplayer Card Game for Facebook using Faye & ExpressJs (Argentina)
 * "ElusiveHippo":http://elusivehippo.com - Push deployment for nodejs (non-functional / doesn't work)
 * "Etherpad-Lite":https://github.com/Pita/etherpad-lite - Real time collaborative document editor based off of Etherpad
@@ -252,6 +253,7 @@ This list is for websites and applications that are powered by node.js. If you'v
 * "spotted@":http://spotted.at/ — spotted @ provides local classifieds for jobs, housing, for sale, personals, services, local community, and events.
 * "stackvm":http://github.com/pkrumins/stackvm -- Virtual machines on the web!
 * "Substance":https://github.com/michael/substance — A data-driven and cloud-aware realtime document authoring engine
+* "Sun Perks":https://www.sunperks.com - The Sun newspapers loyalty club. Entire solution developed in node.js by Clock Limited
 * "Szpil":https://szpil.com - CRM using Node and TokyoCabinet. Shared client/server database and model code, user interface decoupled from the network, API retrieval and authorization performed at the meta-data layer using set union and intersection on indexes to avoid JSON deserialization/serialization overhead.
 * "teamit.org":http://teamit.org - Teaim iT is a free and simple issue tracker for small teams and individuals
 * "The API Playground":http://github.com/jashkenas/api-playground - A website where journalists can play with API examples. (CoffeeScript/Express) "apiplayground.org":http://apiplayground.org
