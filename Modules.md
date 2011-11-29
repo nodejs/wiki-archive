@@ -904,6 +904,7 @@ h3(#debugging). "Debugging / Console Utilities":#debugging
 * "colours.js":https://github.com/botanicus/colours.js -- Give your CLI programs some colours!
 * "colored.js":https://github.com/chrislloyd/colored.js -- Colorize terminal output.
 * "consolelog.js":https://github.com/jazzychad/consolelog.node.js -- stylized console logging for node.js
+* "debug":https://github.com/visionmedia/debug -- node core style debugging for your libraries and applications
 * "Eclipse debugger plugin":http://code.google.com/p/chromedevtools/ -- [[Using Eclipse as Node Applications Debugger]]
 * "eyes.js":https://github.com/cloudhead/eyes.js -- A better, customizable value inspector for node.js
 * "Caterpillar":https://github.com/balupton/caterpillar.npm -- Caterpillar is an awesome, simple, intuitive console logger for node.js. It supports grouping of messages, filtering log levels, colors, times, modules, custom formatters and custom transports.
