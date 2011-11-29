@@ -11,7 +11,7 @@ Name | Node Version | Web Sockets | IP/Hostname | IRC | Repository | Free Plan |
 [Cloud Foundry](http://www.cloudfoundry.com) | | | | | | | | Beta, accepting signups
 [Cloudnode](http://cloudno.de) | 0.4.10 | Yes | Yes | | | Yes - Up to 3 VMs, 25 MB CouchDB space, 250,000 requests/month. | | Beta (accepting signups)
 [Cure](http://cure.willsave.me) | 0.6.2 | Yes | Yes | | | Yes - One week trial. (Up to 1GB outgoing b/w, $0.18 per GB after.) | $12.95 per server. | (accepting signups)
-[DotCloud](http://www.dotcloud.com) | | No | Paid plan | | | Yes - 2 services. | Pro - $99/month, 4 services. Enterprise - Unlimited services. | Beta
+[DotCloud](http://www.dotcloud.com) | 0.4.10 | No | Paid plan | | | Yes - 2 services. | Pro - $99/month, 4 services. Enterprise - Unlimited services. | Beta
 [Heroku](http://heroku.com) | 0.4.7 | No | Yes | #heroku | [heroku](http://github.com/heroku) | Yes - 1 Dynamo (256 MB Ram) | | 
 [no.de](http://no.de) | 0.4.11 | | Paid plan | #joyent | [joyent](http://github.com/joyent) | Yes - 128 MB Ram | | 
 [NodeSocket](http://www.nodesocket.com) | | | | | | | | In Private Beta
