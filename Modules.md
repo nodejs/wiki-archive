@@ -1045,6 +1045,7 @@ h3(#api-clients). "API clients":#api-clients
 * "linkedin-js":https://github.com/masylum/linkedin-js -- Easy peasy linkedin client for connect.
 * "mixpanel-node":https://github.com/carlsverre/mixpanel-node -- A simple Mixpanel API library for server-side analytics.
 * "madmimi-node":https://github.com/garrensmith/Madmimi-node -- Client library for the MadMimi email api [[http://www.madmimi.com]].
+* "mturk":https://github.com/expensecat/mturk -- Amazon Mechanical Turk API wrapper [[https://github.com/expensecat/mturk]].
 * "node-500px":https://github.com/ro-ka/node-500px -- A wrapper for the [[http://www.500px.com]] API.
 * "node-mixpanel-api":https://github.com/campfirelabs/node-mixpanel-api -- A simple client for the Mixpanel Data API (not event tracking! see above)
 * "node-apn":https://github.com/argon/node-apn -- A library to send messages using the Apple Push Notification Service.
