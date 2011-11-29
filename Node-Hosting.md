@@ -10,14 +10,14 @@ Name | Node Version | Web Sockets | IP/Hostname | IRC | Repository | Free Plan |
 [bejes.us](http://bejes.us) | | | | | | | | Beta Coming Soon (accepting signups)  
 [Cloud Foundry](http://www.cloudfoundry.com) | | | No | | [cloudfoundry](https://github.com/cloudfoundry) | Yes - Only during beta. | | Beta, accepting signups
 [Cloudnode](http://cloudno.de) | 0.4.10 | Yes | Yes | | | Yes - Up to 3 VMs, 25 MB CouchDB space, 250,000 requests/month. | | Beta (accepting signups)
-[Cure](http://cure.willsave.me) | 0.6.2 | Yes | Yes | | | Yes - One week trial. (Up to 1GB outgoing b/w, $0.18 per GB after.) | $12.95 per server. | (accepting signups)
+[Cure](http://cure.willsave.me) | 0.6.2 | Yes | Yes | | | Yes - One week trial. (Up to 1GB outgoing b/w, $0.18 per GB after.) | $12.95/month per server. | (accepting signups)
 [DotCloud](http://www.dotcloud.com) | 0.4.10 | No | Paid plan | #dotcloud | [dotcloud](https://github.com/dotcloud) | Yes - 2 services. | Pro - $99/month, 4 services. Enterprise - Unlimited services. | Beta
 [Heroku](http://heroku.com) | 0.4.7 | No | Yes | #heroku | [heroku](http://github.com/heroku) | Yes - 1 Dynamo (256 MB Ram) | | 
 [no.de](http://no.de) | 0.4.11 | | Paid plan | #joyent | [joyent](http://github.com/joyent) | Yes - 128 MB Ram | | 
 [NodeSocket](http://www.nodesocket.com) | | | | | | | | In Private Beta
 [Nodejitsu](http://nodejitsu.com) | 0.4.12 | Yes | | #nodejitsu | [nodejitsu](http://github.com/nodejitsu) | | | In Private Beta
 [Nodester](http://nodester.com) | | | | |[nodester](https://github.com/nodester) | | | Open source Node.JS hosting platform and services
-[JSApp.US](http://jsapp.us) | | | | | | | | Open signup, web editing/npm command
+[JSApp.US](http://jsapp.us) | | | No | | [node-host](https://github.com/matthewfl/node-host) | | | Open signup, web editing/npm command
 
 Empty cells mean we weren't sure what to put there. 
 
