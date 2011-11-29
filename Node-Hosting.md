@@ -6,7 +6,7 @@ Managed providers provide a simplified "Node Appliance" solution. Node and NPM w
 
 Name | Node Version | Web Sockets | IP/Hostname | IRC | Repository | Free Plan | Paid Plans | Notes |
 :-----------|:------------|:-------------|:-------------|:-------------|:-------------|:-------------|:-------------|:-------------------------------------|
-[appfog](http://appfog.com/) | | | | | | | | Beta (accepting signups)
+[appfog](http://appfog.com/) | | | | | [cloudfoundry](https://github.com/cloudfoundry) | | | Private Beta (accepting signups)
 [bejes.us](http://bejes.us) | | | | | | | | Beta Coming Soon (accepting signups)  
 [Cloud Foundry](http://www.cloudfoundry.com) | | | No | | [cloudfoundry](https://github.com/cloudfoundry) | Yes - Only during beta. | | Beta, accepting signups
 [Cloudnode](http://cloudno.de) | 0.4.10 | Yes | Yes | | | Yes - Up to 3 VMs, 25 MB CouchDB space, 250,000 requests/month. | | Beta (accepting signups)
