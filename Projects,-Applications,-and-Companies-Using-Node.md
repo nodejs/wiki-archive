@@ -175,7 +175,7 @@ This list is for websites and applications that are powered by node.js. If you'v
 * "Drama Royal":https://apps.facebook.com/dramaroyal - Facebook-based reboot of the Sissy Fight 2k game of middleschool playground battles
 * "Drupal Node.js module":https://drupal.org/project/nodejs - Drupal module that integrates Node.js and Socket.IO with Drupal
 * "EasyWebSocket":http://easywebsocket.org - a WebSocket client to broadcast messages to webpages
-* "Eat Out":https://www.eatoutdiningcard.co.uk - The Times newspapers diners club. Entire solution developed in node.js by Clock Limited
+* "Eat Out":http://www.eatoutdiningcard.co.uk - The Times newspapers diners club. Entire solution developed in node.js by Clock Limited
 * "Truco Argentino":http://apps.facebook.com/elgrantruco - Multiplayer Card Game for Facebook using Faye & ExpressJs (Argentina)
 * "ElusiveHippo":http://elusivehippo.com - Push deployment for nodejs (non-functional / doesn't work)
 * "Etherpad-Lite":https://github.com/Pita/etherpad-lite - Real time collaborative document editor based off of Etherpad
