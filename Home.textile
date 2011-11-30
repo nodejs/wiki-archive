@@ -1,0 +1,50 @@
+h1. Node.js community wiki
+
+h2. Introduction
+
+Node.js is a server-side JavaScript environment that uses an asynchronous event-driven model. This allows Node.js to get excellent performance based on the architectures of many Internet applications.
+
+h2. Installation
+
+The "installation guide":https://github.com/ry/node/wiki/Installation explains how to get started installing Node.js and the Node Package Manager (NPM) on your system.
+
+h2. FAQ
+
+The "FAQ":https://github.com/ry/node/wiki/FAQ answers common questions people have about Node.js.
+
+h2. Users
+
+Come talk to us in the **#node.js** IRC channel on "freenode.net":http://webchat.freenode.net/?channels=node.js&uio=d4 or on the "nodejs Google group":http://groups.google.com/group/nodejs
+
+"Projects, Applications, and Companies using Node":https://github.com/ry/node/wiki/Projects,-Applications,-and-Companies-Using-Node
+
+h2. Modules
+
+Most modules can be found by "searching the npm registry":http://search.npmjs.org/ (Alternatively, use "eirikb's search":http://eirikb.github.com/nipster/)
+There is also a list of modules on this wiki: "Modules page":http://github.com/ry/node/wiki/modules.
+
+h2. Resources
+
+Besides the documentation on the "official site":http://nodejs.org here are links to "other resources":https://github.com/ry/node/wiki/Resources.
+
+h2. Project Organization
+
+"Information about who runs the project":https://github.com/ry/node/wiki/Project-Organization
+
+h2. ChangeLog
+
+Node releases a new version every one or two weeks. The official ChangeLog can always be found "here":https://github.com/ry/node/blob/master/ChangeLog 
+
+The ChangeLog is also mirrored on this wiki so that users can make notes about bugs or changes that didn't make it into the official notes: "wiki changelog":https://github.com/ry/node/wiki/ChangeLog
+
+h2. Contributing
+
+See the "Contributing":https://github.com/ry/node/wiki/Contributing page
+
+h2. API Documents
+
+see the "API Doc":http://nodejs.org/docs/latest/api/index.html
+
+h2. Logos
+
+"Official and Community Logos":https://github.com/joyent/node/wiki/Logos

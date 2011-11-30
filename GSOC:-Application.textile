@@ -1,0 +1,100 @@
+*Organization Name:*
+Node.js Community
+
+*Description:*
+Node.js is a server side JavaScript runtime built on top of the V8 JavaScript engine. The project aims to simplify the writing of networks programs by exposing only non-blocking I/O. An event loop is built into the programming environment providing a natural way to add any number of I/O sources without worrying about concurrency.
+
+The project has
+    * Made 38 releases since version 0.0.1 on May 27, 2009.
+    * Attracted a large community; over 1000 users on the mailing list, over 1300 'watchers' on github.
+    * Seen code contributions from over 50 individuals
+    * Participated in the CommonJS server-side javascript specification mailing list
+    * Been deployed in several production servers
+    * Favorably competed in benchmarks with similar technologies (EventMachine, Twisted, Tornado)
+    * Contributed patches back to the Google V8 team (e.g. porting V8 to the Solaris plattform) 
+    * Had some of the first implementations of the WebSocket protocol.
+
+Node is exciting because it makes a plausible case for being the next generation server-development platform. Simon Willison, co-creator of Django, makes the point well in his blog post "Node.js is genuinely exciting", http://simonwillison.net/2009/Nov/23/node/
+
+
+*Home page:*
+"http://nodejs.org/":http://nodejs.org/
+
+*Main Organization License:*
+MIT License
+
+*Why is your organization applying to participate in GSoC 2010? What do you hope to gain by participating? (needs long answer)*
+
+Node is a young and active project. There are several large, independent tasks that would be ideal for a GSoC student to do. In particular, porting Node to the Windows operating system or replacing our DNS sub-system. This would be an ideal opportunity for a passionate student to learn a lot about how highly concurrent evented servers are structured, while meeting a real demand in the community. Node is an extremely fun project to work on, by exposing GSoC students to the internals, we hope to attract more skilled contributors, which is our most important concern in moving forward with the software. By mentoring a student, we additionally hope to elevate the project's recognition beyond the early adopter crowd now.
+
+*Did your organization participate in past GSoCs? If so, please summarize your involvement and the successes and challenges of your participation.*
+(No previous participation)
+
+*If your organization participated in past GSoCs, please let us know the ratio of students passing to students allocated, e.g. 2006: 3/6 for 3 out of 6 students passed in 2006.*
+(No previous participation)
+
+*Add a Comment (optional):*
+(No Comment)
+
+*If your organization has not previously participated in GSoC, have you applied in the past? If so, for what year(s)?*
+(No previous application)
+
+*What is the URL for your ideas page?*
+"http://github.com/ry/node/wiki/Google-Summer-Of-Code-2010:-Ideas":http://github.com/ry/node/wiki/Google-Summer-Of-Code-2010:-Ideas
+
+*What is the main development mailing list for your organization? This question will be shown to students who would like to get more information about applying to your organization for GSoC 2010. If your organization uses more than one list, please make sure to include a description of the list so students know which to use.*
+
+"http://groups.google.com/group/nodejs":http://groups.google.com/group/nodejs
+
+*What is the main IRC channel for your organization?*
+
+#Node.js on irc.freenode.net
+
+*Add a Comment (optional):*
+(No Comment)
+
+*Does your organization have an application template you would like to see students use? If so, please provide it now. Please note that it is a very good idea to ask students to provide you with their contact information as part of your template. Their contact details will not be shared with you automatically via the GSoC 2010 site.*
+
+    * Name, Email, Location (timezone), IRC nick,
+    * Short description of the project idea the student will work on.
+    * Implementation details - Description of how the student will attempt to implement the idea and a very rough timeline of the stages.
+    * Programming skills as they relate to the project
+    * Previous open source involvement
+
+*What criteria did you use to select the individuals who will act as mentors for your organization? Please be as specific as possible:*
+
+At least, Ryan, the creator of Node, has permission from his employer to dedicate time to mentoring students. Other mentors will be chosen for:
+    * Reliability and commitment: People who have shown their commitment to the project and who can realistically allocate the time necessary.
+    * Expertise in the area that the student's project is concerned with.
+
+*What is your plan for dealing with disappearing students?*
+
+    * Selecting students unlikely to disappear - based on their past open source work and their participation in the Node.js community leading up to GSoC
+    * Regular follow ups between students and mentors
+    * Required progress updates to the community by the students (eyes watching = motivation)
+    * Connecting with students via phone
+
+*What is your plan for dealing with disappearing mentors?*
+
+    * Selecting reliable mentors
+    * Required progress updates to the community by the mentors
+    * Having more mentors lined up than required for eventual replacements
+
+*What steps will you take to encourage students to interact with your project’s community before, during and after the program?*
+
+    * Node is a technology to be very excited about. We will try hard to select students who share this excitement from the beginning.
+    * Giving the students public credit on the mailing list, conferences, user group meetings, etc. for their work
+    * Forming personal relationships with the students that provide close ties back to the project
+
+*What will you do to ensure that your accepted students stick with the project after GSoC concludes?*
+
+    * Providing a friendly inclusive community to participate in
+    * Asking the students for code review in further changes to their work
+    * Getting their contributions deployed in applications used by millions of people
+    * Providing continued mentoring after the program ends
+
+*Is there anything else you would like to tell the Google Summer of Code program administration team? :*
+(No Comment)
+
+*Add a Comment (optional):*
+(No Comment)

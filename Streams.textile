@@ -1,0 +1,69 @@
+Node is working towards a unified data stream interface. 
+
+
+h2. Readable Stream
+* event: @'data'@. (One argument, a @Buffer@ object.)
+* event: @'end'@ (received EOF or FIN)
+* event: @'error'@ (emitted with exception object - does not close stream)
+* method: @pause()@   (suggestion @stopRead()@)
+* method: @resume()@ (suggestion @startRead()@)
+* member: @readable@, boolean
+* method: @forceClose()@ (close the underlying file descriptor) (suggestion @close()@)
+
+Examples of readable streams (some of these don't exist yet): server-side HTTP request, client-side HTTP response, @process.stdin@, @childProcess.stdout@, @childProcess.stderr@
+
+h2. Writable Stream
+* method: @write(data)@ (Returns @true@ if it could be flushed to kernel, @false@ if not. Data is *always* queued for writing, even if flushing is not possible. If this method returns @false@ then the event @'drain'@ will be emitted later, once all data that was buffered has been written to the kernel.)
+* method: @close()@ (Writes EOF or a FIN packet on the transport once the existing data buffer is drained. Further calls to @write()@ after calling this method will throw an error.)  (suggestion @end()@)
+* event: @'drain'@
+* event: @'error'@(emitted with exception object - does not close stream)
+* member: @writable@, boolean
+
+Examples of writable streams (some of these don't exist yet): server-side HTTP response, client-side HTTP request, @process.stdout@, @process.stderr@, @childProcess.stdin@
+
+
+h2. Utility Functions
+
+Once there is a unified interface to streams some easy utility functions are possible which route data smartly. For example, writing an HTTP request to a file, with all the proper throttling and buffering, is easy as
+<pre><code>http.createServer(function (req, res) {
+  if (req.method == 'POST') {
+    // Open writable file system
+    var temp = fs.openTemporaryFile(); 
+    // Pump the request into the temp file.
+    stream.pump(req, temp, function (err) {
+      if (err) {
+        res.writeHead(500, {'Content-Type' : 'text/plain'});
+        res.write('Error uploading.\n');
+      } else {
+        res.writeHead(200, {'Content-Type' : 'text/plain'});
+        res.write('Successful upload\n');
+      }
+      res.close();
+    });
+  } else {
+    res.writeHead(200, {'Content-Type' : 'text/plain'});
+    res.write('Hello\n');
+    res.close();
+  }
+});
+</code></pre> 
+
+The pump function might look something like this
+
+<pre><code>function pump (readable, writable, cb) {
+  readable.addListener('data', function (data) {
+    if (!writable.write(data)) readable.pause();
+  });
+
+  readable.addListener('end', function () {
+    writable.close();
+  });
+
+  writable.addListener('drain', function () {
+    readable.resume();
+  });
+
+  writable.addListener('close', function () {
+    if (cb) cb();
+  });
+}</code></pre>

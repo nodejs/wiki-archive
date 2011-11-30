@@ -1,0 +1,17 @@
+<h2>Max OS X</h2>Install <a href="http://mxcl.github.com/homebrew/" >homebrew</a> then:
+ <pre><code>brew install node.js </code> </pre>
+or get your mac up to speed with <a href="http://www.atmos.org/cider/intro.html" >cider.</a>
+<h2>Ubuntu 9.04</h2> <pre><code>sudo apt-get install build-essential libc6-dev-i386 lib32stdc++6 git-core
+sudo ln -s /usr/lib32/libstdc++.so.6 /usr/lib32/libstdc++.so
+git clone git://github.com/ry/node.git
+cd node
+./configure 
+make
+sudo make install </code> </pre>
+thanks <a href="http://www.travisswicegood.com/index.php/2009/07/11/compiling-node-js-on-ubuntu-9-04" >Travis Swicegood</a>.
+
+<h2>Install from packages</h2>
+[[RPM and DEB packages for Node.js]].
+
+<h2>Windows (Cygwin)</h2>
+<p>See the install guide here: <a href="http://wiki.github.com/ry/node/building-node-on-windowscygwin">http://wiki.github.com/ry/node/building-node-on-windowscygwin</a>.</p>

@@ -1,0 +1,34 @@
+This page lists ideas of a *possible* participation in "GSoC2010":http://socghop.appspot.com . Actual list of mentoring organizations selected by Google will be published on 18th March 2010.
+
+h2. Core Node
+
+* <strike>Rewrite DNS module - using "c-ares":http://c-ares.haxx.se/ . See "this":http://groups.google.com/group/nodejs/browse_thread/thread/b49eeba96bfd4b4</strike>
+* Port to windows.
+* HTML parser
+* <strike>Ability to do text user interfaces (by binding to ncurses)</strike> (a binding now exists for this for node)
+
+h2. Web
+
+* Apache Sling-like REST style web framework.
+* A templating framework that abstracts the different languages available into a clean asynchronous wrapper
+* In browser MVC framework
+* Browser based IDE for node.js using node_debug
+
+h2. Bindings
+
+* <strike>Async MySQL bindings - using "MySAC":http://freshmeat.net/projects/mysac</strike>
+* Async "Net-SNMP":http://www.net-snmp.org/ bindings
+
+h2. Other
+
+* Thrift/Avro/PB interfaces
+* Port "env.js":http://ejohn.org/blog/bringing-the-browser-to-the-server/ to node
+** <strike>And/or maybe "jsdom":http://github.com/tmpvar/jsdom (-tmpvar: this is already available to node!)</strike>
+** Abstract "Qt's DOM Parser":http://doc.trolltech.com/4.4/qdomdocument.html for use within Node.js.
+*** <strike>Maybe a better idea, is to bind libxml2 and a XML serializer</strike>
+* <strike>Add support for UDP to node</strike> (Commit "02da5ed":http://github.com/ry/node/commit/02da5ed4a1f63bb0990b8e7b1fd0793cd045cbb0)
+* A graphics library, ideally using the same API as html canvas (a solid set of low level bindings to Cairo or AGG or Skia would suffice) - this is being worked on by a few people
+* Implement a well-documented, @require()@able message queue server (using AMQP?)
+* Implement a well-documented, @require()@able IRC server
+
+_"KDE SOC ideas":http://community.kde.org/GSoC/2010/Ideas is a great place to look for a template for ideas_

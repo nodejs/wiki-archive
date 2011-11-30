@@ -1,0 +1,61 @@
+_*Note: this page is now really outdated. Although not finished, a mingw port is coming along.*_
+
+Overview of issues and checklist for a port of Node.js to Windows using "MinGW":http://www.mingw.org/.
+
+h3. Discussion
+
+Discussions form mailing list about Windows compilation and re-distribution.
+
+* "Native windows stuff":http://groups.google.com/group/nodejs/browse_frm/thread/b20422cd9f53099 _August 13th, 2010_.
+* "Node on Windows with Cygwin: Necessary Files":http://groups.google.com/group/nodejs/browse_frm/thread/5536eaa3a507e9a _June 27th, 2010_.
+* "Windows port":http://groups.google.com/group/nodejs/browse_frm/thread/fa03fb0dc508db5f _March 9th, 2010_.
+* "nodejs and windows":http://groups.google.com/group/nodejs/browse_frm/thread/83f4662d4890065 _December 20th, 2009_.
+* "Node.js Windows Installation":http://groups.google.com/group/nodejs/browse_frm/thread/d351d3135c34f286 _November 23rd, 2009_.
+
+h3. Rationale
+
+_Stab at a mission statement, open for argument._
+
+Node.js is thriving in its native UNIX environment, so why would you want to support a broken operating system?
+
+Because it is prevalent. There are people who are developing applications for desktop distribution, where Windows still has the majority market share. These developers would like to see Node.js running everywhere, which is a laudable goal. It would be a shame to pollute the efficient UNIX implementation with Windows idioms, however. A port for Windows should permit operation on Windows for those developers that are willing to suffer Windows, but a port for Windows must not punish the truly amazing efficiency and concise expression of Node.js in its native environment.
+
+h3. Roadmap
+
+_Taken from discussions in mailing list._
+
+Bert Belder suggests the following strategy in "Node on Windows with Cygwin: Necessary Files":http://groups.google.com/group/nodejs/browse_frm/thread/5536eaa3a507e9a.
+
+bq. The good news is that we don't have to 'big bang' switch from cygwin to using windows apis as cygwin makes it possible to mix posix and windows api calls. It for example provides a function that converts an FD to a windows handle and vice versa. 
+
+We can move from Cygwin to MinGW a piece at a time. Below are tasks taken from discussion.
+
+* Create a build using waf that builds against Cygwin and MinGW, and document installation to encourage as many Windows developers to clone, compile and start hacking.
+* Develop V8 support for additional Windows tool chains as per Bert Belder in "Node on Windows with Cygwin: Necessary Files":http://groups.google.com/group/nodejs/browse_frm/thread/5536eaa3a507e9a. The V8 team is considering support for MinGW in the issue ticket "Support additional toolchains on Windows":http://code.google.com/p/v8/issues/detail?id=64.
+* Re-implement @child_process.spawn()@ using Windows native @ChildProcess@ as per Bert Bedler in "Native windows stuff":http://groups.google.com/group/nodejs/browse_frm/thread/b20422cd9f53099.
+* Port the majority of the I/O using libev and libeio on Windows as per Ryan Dahl in "Node.js Windows Installation":http://groups.google.com/group/nodejs/browse_frm/thread/d351d3135c34f286.
+* Implement  stdin/stdout non-blocking coupling is with pthreads, @pipe()@, and @dup()@ as per Ryan Dahl in "Node.js Windows Installation":http://groups.google.com/group/nodejs/browse_frm/thread/d351d3135c34f286.
+* Port libeio to windows as per Ryan Dahl, Schmorp, and Elijah Insua in "Step into my dungeon: a talk with schmorp, in #schmorp, about libeio and windows":http://gist.github.com/403301. Also relevant to libev and libio Windows ports is the response from Marc Lehmann in "libeio, Windows":http://lists.schmorp.de/pipermail/libev/2008q2/000325.html.
+* ev_async needs to be ported - can't select on a pipe
+
+
+h3. Potential Supporters
+
+People who have expressed interest in a Windows port on the mailing list.
+
+* Simon Sturmer.
+* Alan Gutierrez.
+* Chris Winberry.
+* Ryan Dahl.
+* Peter Hewat.
+* Bert Belder.
+* Oliver Morgan.
+* Marak Squires.
+* Joshaven Potter.
+* Matthew Tyson.
+* Daniel Earwicker.
+* Neville Burnell.
+* Howard Rauscher.
+* Maxim Mossienko.
+* Howard Rauscher.
+* Elijah Insua - Forked Node.js for Windows development at one point according to "Windows port":http://groups.google.com/group/nodejs/browse_frm/thread/fa03fb0dc508db5f. Really old fork lives "here":http://github.com/tmpvar/node/tree/tmpvar-windoze-old.  This was an attempt to port the now non-existent coupling dependency to windows.
