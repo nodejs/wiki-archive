@@ -268,6 +268,7 @@ This list is for websites and applications that are powered by node.js. If you'v
 * "Wherevent":http://www.wherevent.com -- a search engine to help you find geolocated events and check who's coming. It use node.js to interface with facebook graph-API, yahoo and google APIs.
 * "wikiedge.org":http://www.wikiedge.org/ - A website to promote Chinese Wikipedia by deliver a daily magazine by good Wikipedia content, it is an opensource project, and code is at "github":https://github.com/mountain/distilled .
 * "wtfjs":http://github.com/brianleroux/wtfjs - what the fuck javascript!
+* "yamr":http://yamr.net - an open source multi-user/multi-room chat application. code here https://github.com/poops/yamr
 * "zztmmo":http://github.com/marak/zztmmo - a zzt based massive multiplayer online game built in node.js and jQuery (currently only single player)
 * "meetbymaps":http://www.meetbymaps.com - a realtime geo-social network: users, events, point of interest  and many other things inside google maps.You can login using fb account and in your position will be placed a marker that follows your movements.
 * "grir.am":http://grir.am - Website where users with knowledge of armenian may improve their typing skills.
