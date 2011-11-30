@@ -1211,3 +1211,4 @@ h3(#other). "Other":#other
 * "chess":https://github.com/wsdookad
 * "Amanda":https://github.com/Baggz/Amanda -- JSON Schema validator
 * "node.packer":https://github.com/dreamerslab/node.packer -- An assets combine and minify tool
+* "version":https://github.com/edwardhotchkiss/version -- NodeJS package.json version number fetcher
