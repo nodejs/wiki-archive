@@ -866,6 +866,8 @@ h2. UTC+8
 ** "GitHub":http://github.com/windyrobin, "Twitter/Weibo":http://weibo.com/windyrobin
 * Jackey Chen (JakeyChan), Shanghai, China
 ** "GitHub":http://github.com/jackey
+* Farid Neshat (alFReD-NSH), Kuala Lumpur, Malaysia
+** "GitHub":http://github.com/alFReD-NSH, "Twitter":http://twitter.com/alFRed88NSH
 
 h2. UTC+9
 
