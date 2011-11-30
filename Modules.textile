@@ -481,6 +481,7 @@ h3(#build-and-deployment). "Build and Deployment":#build-and-deployment
 * "asereje":https://github.com/masylum/asereje -- Bundles and minifies your javascript and css files on demand. Forget about builds, hard deploys and cache forever.
 * "dev":https://github.com/iliakan/node-dev -- Automatically restarts the app when a source-file is modified. Autohooks on new files, so it doesn't need manual restart at all.
 * "forever":https://github.com/indexzero/forever -- A simple CLI tool for ensuring that a given script runs continuously (i.e. forever)
+* "forever-webui":https://github.com/FGRibreau/forever-webui -- A simple web UI for efficient nodejs administration
 * "haibu":https://github.com/nodejitsu/haibu -- a node.js application server - spawn your own node.js clouds, on your own hardware
 * "jitsu":https://github.com/nodejitsu/jitsu -- Flawless command line deployment of your Node.js apps to the cloud
 * "nodejs-autorestart":https://github.com/shimondoodkin/nodejs-autorestart -- It is a way to watch all .js files if they have been changed and to restart nodejs. It allows easy development and stable production.
@@ -1181,6 +1182,7 @@ h3(#i18n). "I18n and L10n modules":#i18n
 * "node-gettext":https://github.com/andris9/node-gettext -- Use Gettext .MO files with Node.js.
 * "lingua":https://github.com/akoenig/express-lingua -- A i18n middleware for the Express.js framework.
 * "node-date-diff":https://github.com/morishani/node-date-diff -- Calculates date differences and allows to format it nicely to your language (Eg. In one hour)
+* "node-language-detect":https://github.com/FGRibreau/node-language-detect -- NodeJS language detection library using n-gram (which can identify up to 52 human languages)
 
 <a name="wiki-boilerplates"></a>
 
@@ -1212,3 +1214,4 @@ h3(#other). "Other":#other
 * "Amanda":https://github.com/Baggz/Amanda -- JSON Schema validator
 * "node.packer":https://github.com/dreamerslab/node.packer -- An assets combine and minify tool
 * "version":https://github.com/edwardhotchkiss/version -- NodeJS package.json version number fetcher
+* "node-ast-inlining":https://github.com/FGRibreau/node-ast-inlining -- A small library that inline and expand function call
