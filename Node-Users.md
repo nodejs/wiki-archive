@@ -826,6 +826,7 @@ h2. UTC+7
 ** "Twitter":http://twitter.com/diorahman, "GitHub":http://github.com/dio/, "Website":http://dio.posterous.com
 
 h2. UTC+8
+
 * summer(summer), Hangzhou, China
 ** "GitHub":http://github.com/summer1433/
 * Vanilla Hsu(vanillahsu),Taiwan
@@ -867,7 +868,7 @@ h2. UTC+8
 * Jackey Chen (JakeyChan), Shanghai, China
 ** "GitHub":http://github.com/jackey
 * Farid Neshat (alFReD-NSH), Kuala Lumpur, Malaysia
-** "GitHub":http://github.com/alFReD-NSH, "Twitter":http://twitter.com/alFRed88NSH
+** "GitHub":http://github.com/alFReD-NSH , "Twitter":http://twitter.com/alFRed88NSH
 
 h2. UTC+9
 
