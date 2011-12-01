@@ -1,5 +1,3 @@
-I shouldn't be able to edit this...
-
 Check out "search.npmjs.org":http://search.npmjs.org/ too
 
 h2. Adding to this page
