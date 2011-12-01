@@ -679,6 +679,7 @@ h3(#message-queue). "Message Queues":#message-queue
 * "websocket.MQ":https://github.com/networkimprov/websocket.MQ -- Reliable message queue server accessible via websockets, socket.IO, etc
 * "Wormhole":https://github.com/aikar/wormhole -- Fast/High Performance message queue system using streaming deserialization with the MessagePack format.
 * "rabbit.js":https://github.com/squaremo/rabbit.js -- Idiomatic messaging using RabbitMQ from node.js
+* "amqp-dsl":https://github.com/FGRibreau/node-amqp-dsl -- Fluent Interface for dealing with AMQP (RabbitMQ,...) on NodeJS
 
 <a name="wiki-class-system"></a>
 
