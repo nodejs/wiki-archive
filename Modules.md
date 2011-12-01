@@ -945,7 +945,6 @@ h3(#debugging). "Debugging / Console Utilities":#debugging
 * "Winston":https://github.com/indexzero/winston -- A multi-transport async logging library for node.js
 * "flume-rpc":https://github.com/recoset/node-flume-rpc -- A flume-compatible (RPC) logging source and sink
 * "colorlog.js":https://github.com/tih-ra/colorlog.js -- Sexy color logging
-* "NodeLog":https://github.com/FabianM/NodeLog -- Logging library for Node.js based on the java.util.logging library.
 
 <a name="wiki-compression"></a>
 
