@@ -384,7 +384,6 @@ h4(#db-misc). "DB Misc and Cross DB":#db-misc
 * "node-mdbm":https://github.com/robtweed/node-mdbm -- a client for GT.M and Cache, using an HTTP interface that is based on SimpleDB
 * "node-orm":https://github.com/dresende/node-orm -- ORM for multiple drivers (MySQL, PostgreSQL, MongoDB)
 * "memcached":https://github.com/3rd-Eden/node-memcached -- Memcached, membase client with support for memcached clusters using consistent hashing.
-* "node-memcache":https://github.com/vanillahsu/node-memcache -- a memcache client base on libmemcached
 * "node-dbi":https://github.com/DrBenton/Node-DBI -- A database abstraction layer, which allows to work with several database engines (MySQL, SQLite) with a single handy API
 * "node-tiny":https://github.com/chjj/node-tiny -- An experimental in-process database similar to nStore.
 * "persistence":https://github.com/creationix/node-persistence -- Multi-backend database/nosql system.  Backends: Sqlite3, Postgres and Memory.
