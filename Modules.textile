@@ -896,6 +896,9 @@ h4(#parsers-other). "Other Parsers":#parsers-other
 * "butter":https://github.com/rootslab/butter - Butter === nodeJS Buffer + ( some hexadecimals delights )
 * "feedme.js":https://github.com/fent/feedme.js -- RSS/Atom feed parser written with sax-js
 * "JS-YAML":https://github.com/nodeca/js-yaml -- Full featured YAML parser. Native PyYAML port.
+* "yamlish":https://github.com/isaacs/yamlish -- Minimally featured YAML parser which handles the subset of YAML used by TAP.
+* "tap":https://github.com/isaacs/node-tap -- Tools for the "Test Anything Protocol":http://testanything.org/
+* "semver":https://github.com/isaacs/node-semver -- Parser used by npm for version numbers.
 
 <a name="wiki-debugging"></a>
 
