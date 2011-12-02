@@ -1,3 +1,27 @@
+## 2011.12.02, Version 0.6.4 (stable)
+
+ * doc improvements (Kyle Young, Tim Oxley, Roman Shtylman, Mathias Bynens)
+
+ * upgrade bundled npm (Isaac Schlueter)
+
+ * polish Windows installer (Igor Zinkovsky, Isaac Schlueter)
+
+ * punycode: upgrade to v0.2.1 (Mathias Bynens)
+
+ * build: add –without-npm flag to configure script
+
+ * sys: deprecate module some more, print stack trace if NODE_DEBUG=sys
+
+ * cli: add -p switch, prints result of –eval
+
+ * \#1997: fix Blowfish ECB encryption and decryption (Ingmar Runge)
+
+ * \#2223: fix socket ‘close’ event being emitted twice
+
+ * \#2224: fix RSS memory usage > 4 GB reporting (Russ Bradberry)
+
+ * \#2225: fix util.inspect() object stringification bug (Nathan Rajlich)
+
 ## 2011.11.25, Version 0.6.3 (stable)
 
  * \#2083 Land NPM in Node. It is included in packages/installers and installed on `make install`. 
