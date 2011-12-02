@@ -103,7 +103,7 @@ When editing this page please be as detailed as possible. Examples are encourage
    * `sessionIdContext` option to `tls.createServer()`.
    * `tls.CryptoStream.getSession()` and `session` option to `tls.connect()`.
    * `tls.CleartextStream.address()`, `remoteAddress`, `remotePort`.
-   * `tls.Server` supports [NPN (Next Protocol Negotitation) and SNI (Server Name Indication)](http://nodejs.org/docs/latest/api/tls.html#nPN_and_SNI).
+   * `tls.Server` supports [NPN (Next Protocol Negotiation) and SNI (Server Name Indication)](http://nodejs.org/docs/latest/api/tls.html#nPN_and_SNI).
  * `util`
    * `util.format()`, `util.isArray()`, `util.isRegExp()`, `util.isDate()`, `util.isError()`.
  * `zlib` module http://nodejs.org/docs/latest/api/zlib.html
