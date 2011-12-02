@@ -821,6 +821,7 @@ h4(#parsers-commandline). "Command Line Option Parsers":#parsers-commandline
 * "yanop":https://github.com/frodwith/yanop -- Yet Another Node Option Parser
 * "options.js":http://valeriu.palos.ro/1026/command-line-option-parser-in-javascript/ -- An inline (non-module!) options parser that is very small and yet quite complete.
 * "celeri.js":https://github.com/crcn/celeri -- Complete command line interfaces lib for node.js
+* "nopt":https://github.com/isaacs/nopt -- The command line options parser npm uses.
 
 <a name="wiki-parser-generators"></a>
 
