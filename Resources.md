@@ -21,7 +21,7 @@ h2. Articles
 * "Hosting node.js applications in IIS on Windows":http://tomasz.janczuk.org/2011/08/hosting-nodejs-applications-in-iis-on.html -- by Tomasz Janczuk
 * "Setting up a Node.js development environment with NPM and Cloud9 IDE installed locally":http://www.cambus.net/setting-up-a-node-js-development-environment-with-npm-and-cloud9-ide-installed-locally/ -- by Frederic Cambus
 * "Node.js & WebSocket - Simple chat tutorial":http://www.martinsikora.com/nodejs-and-websocket-simple-chat-tutorial -- by Martin Sikora
-* "A Beginner’s Tutorial for Node.js":http://project70.com/2011/11/learning-node-js/ -- by Cedric Dussud
+* "A Beginner’s Tutorial for Node.js":http://project70.com/nodejs/beginners-tutorial-node-js/ -- by Cedric Dussud
 
 h2. Talks
 * "GoogleTechTalk: Node.js":http://www.youtube.com/watch?v=F6k8lTrAE2g -- by Ryan Dahl (video, 2010-07-28)
