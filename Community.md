@@ -21,7 +21,7 @@ h1. Blogs and tutorials
 | "Persian Blog":http://blog.nodejs.ir | Persian blog for nodejs |
 | "IT Wars":http://www.it-wars.com/categorie8/dev | French blog with news and nodejs codes |
 | "Node Tuts Screen-casts":http://nodetuts.com | Node.js Screen casts |
-| "Nodejitsu node Docs":"http://docs.nodejitsu.com" | Several node.js hands-on tutorials |
+| "Nodejitsu Node Docs":http://docs.nodejitsu.com | Several node.js hands-on tutorials |
 
  
 
