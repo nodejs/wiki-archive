@@ -20,6 +20,10 @@ h1. Blogs and tutorials
 | "OSButler Blog":http://blog.osbutler.com/categories/node-by-example/| Collection of simple node examples|
 | "Persian Blog":http://blog.nodejs.ir | Persian blog for nodejs |
 | "IT Wars":http://www.it-wars.com/categorie8/dev | French blog with news and nodejs codes |
+| "Node Tuts Screen-casts":http://nodetuts.com | Node.js Screen casts |
+| "Nodejitsu node Docs":"http://docs.nodejitsu.com" | Several node.js hands-on tutorials |
+
+ 
 
 h1. Localized sites
 
@@ -36,3 +40,4 @@ h1. Books about Node
 
 | "Up and Running with Node.js":http://ofps.oreilly.com/titles/9781449398583 | Up and Running with Node.js |
 | "Node.js in Action":http://www.manning.com/cantelon | Node.js in Action |
+| "Hands on Node.js":http://nodetuts.com/handson-nodejs-book.html | Hands on Node.js |
