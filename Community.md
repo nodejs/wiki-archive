@@ -32,7 +32,3 @@ h1. Localized sites
 | "HKNoJ":http://nodejs.hk | Hong Kong nodejs community |
 | "nodejs.tw":http://nodejs.tw | Taiwan nodejs community |
 
-h1. Books about Node
-
-| "Up and Running with Node.js":http://ofps.oreilly.com/titles/9781449398583 | Up and Running with Node.js |
-| "Node.js in Action":http://www.manning.com/cantelon | Node.js in Action |
