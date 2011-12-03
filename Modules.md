@@ -229,6 +229,7 @@ h4(#middleware). "Middleware":#middleware
 ** "eventpipe":http://www.google.com/url?sa=D&q=https://github.com/dhruvbird/eventpipe -- Provides an Event Pipe with the *same* API as node.js' EventEmitter
 ** "express-twitter":https://github.com/mahemoff/express-twitter -- Twitter-specific OAuth support
 ** "http-auth":https://github.com/gevorg/http-auth -- Node.js package for HTTP basic and digest access authentication.
+*** "htpasswd":https://github.com/gevorg/htpasswd -- Node.js package for HTTP Basic Authentication password file utility.
 ** "http-auth2":https://github.com/SDA/http-auth2 -- HTTP basic authentication that supports multiple logins.
 ** "node-force-domain":https://github.com/goloroden/node-force-domain -- Force multiple domains to redirect (301) to a default one in your Express project.
 ** "exedra":https://github.com/corpix/exedra -- Express routes & functions loader
