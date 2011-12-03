@@ -265,8 +265,7 @@ This list is for websites and applications that are powered by node.js. If you'v
 * "TxtAtlas: Put your texts on the map":http ://txtatlas.com -- A demo Twilio/Node.js/Redis application by Stephen J. Walters
 * "vertex.js":http://github.com/stevedekorte/vertex.js - A graph database inspired by filesystems built on node.js and tokyocabinet.
 * "vows.js":http://vowsjs.org/ - "Asynchronous behaviour driven development for Node."
-* "webinos":http://webinos.org/ - Secure Web Operating System Application Delivery Environment (EU funded project)
-* "Wherevent":http://www.wherevent.com - a search engine to help you find geolocated events and check who's coming. It use node.js to interface with facebook graph-API, yahoo and google APIs.
+* "Wherevent":http://www.wherevent.com -- a search engine to help you find geolocated events and check who's coming. It use node.js to interface with facebook graph-API, yahoo and google APIs.
 * "wikiedge.org":http://www.wikiedge.org/ - A website to promote Chinese Wikipedia by deliver a daily magazine by good Wikipedia content, it is an opensource project, and code is at "github":https://github.com/mountain/distilled .
 * "wtfjs":http://github.com/brianleroux/wtfjs - what the fuck javascript!
 * "yamr":http://yamr.net - an open source multi-user/multi-room chat application. code here https://github.com/poops/yamr
