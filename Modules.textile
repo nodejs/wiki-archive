@@ -1018,25 +1018,24 @@ h3(#payment-gateways). "Payment Gateways":#payment-gateways
 <a name="wiki-api-clients"></a>
 
 h3(#api-clients). "API clients":#api-clients
-* "authome":https://github.com/jed/authome - A dependency-free mutli-service authentication tool
-* "supervisord":https://github.com/crcn/supervisord - Library for supervisord
 * "alleup":https://github.com/tih-ra/alleup - Flexible way to resize and upload images to Amazon S3 or file system storages 
-* "aws-lib":https://github.com/mirkok/aws-lib -- An extensible library for Amazon Web Services including EC2, SimpleDB and the Product Advertising API
+* "akismet-js":https://github.com/oozcitak/akismet-js -- A client for the "Akismet spam detection API":http://akismet.com/development/api/
+* "authome":https://github.com/jed/authome - A dependency-free mutli-service authentication tool
 * "aws2js":https://github.com/SaltwaterC/aws2js -- Amazon Web Services APIs client implementation for node.js. Simple to use and extend.
-* "ec2metadata":https://github.com/kilianc/node-ec2metadata -- An API wrapper for the AWS EC2 metadata.
+* "aws-lib":https://github.com/mirkok/aws-lib -- An extensible library for Amazon Web Services including EC2, SimpleDB and the Product Advertising API
 * "calais":https://github.com/mcantelon/node-calais -- Semantically analyze text using the Calais web service
 * "cpanel-lib":https://github.com/vially/cpanel-lib -- Node.js client for the cPanel/WHM API
 * "discogs":https://github.com/linus/discogs -- Discogs API client
-* "node-dropbox":https://github.com/Rendez/node-dropbox -- Node.js client for the Dropbox API
-* "dropbox-node":https://github.com/evnm/dropbox-node -- A wrapper for the Dropbox API 
 * "dribbble-node":https://github.com/carlosvillu/Dribbble-node -- A wrapper for the Dribbble API
+* "dropbox-node":https://github.com/evnm/dropbox-node -- A wrapper for the Dropbox API 
+* "ec2metadata":https://github.com/kilianc/node-ec2metadata -- An API wrapper for the AWS EC2 metadata.
 * "evented-twitter":https://github.com/polotek/evented-twitter -- asynchronous twitter client, supports streaming api
-* "facebook-js":https://github.com/masylum/facebook-js -- Easy peasy facebook client for connect.
 * "facebook-api":https://github.com/mren/facebook-api -- offers high level and low level calls against the facebook graph API
+* "facebook-js":https://github.com/masylum/facebook-js -- Easy peasy facebook client for connect.
 * "fbgraph":https://github.com/criso/fbgraph -- Sexay Facebook graph api
 * "fitbit-js":https://github.com/smurthas/fitbit-js -- Simple FitBit API wrapper
-* "flickr-reflection":https://github.com/teemow/node-flickr-reflection -- A flickr client that uses their reflection API (supports auth)
 * "flickrnode":https://github.com/ciaranj/flickrnode -- A library to enable use of the flickr api (not as complete as node-flickr, but supports auth) 
+* "flickr-reflection":https://github.com/teemow/node-flickr-reflection -- A flickr client that uses their reflection API (supports auth)
 * "forrst":https://github.com/fczuardi/node-forrst -- Simple wrapper for the Forrst.com API.
 * "gdata-js":https://github.com/smurthas/gdata-js -- Simple Google Data API OAuth 2.0 wrapper
 * "geo":http://github.com/feliperazeek/geonode -- A very basic, but simple, geocode library, currently using Google Geocode API (v3)
@@ -1049,72 +1048,72 @@ h3(#api-clients). "API clients":#api-clients
 * "lastfm-node":https://github.com/jammus/lastfm-node -- Read and write to users' recent plays on Last.fm
 * "libravatar":https://github.com/fmarier/node-libravatar -- Module for generating "Libravatar":https://www.libravatar.org avatar URLs.
 * "linkedin-js":https://github.com/masylum/linkedin-js -- Easy peasy linkedin client for connect.
-* "mixpanel-node":https://github.com/carlsverre/mixpanel-node -- A simple Mixpanel API library for server-side analytics.
 * "madmimi-node":https://github.com/garrensmith/Madmimi-node -- Client library for the MadMimi email api [[http://www.madmimi.com]].
+* "mixpanel-node":https://github.com/carlsverre/mixpanel-node -- A simple Mixpanel API library for server-side analytics.
 * "mturk":https://github.com/expensecat/mturk -- Amazon Mechanical Turk API wrapper [[https://github.com/expensecat/mturk]].
+* "Nexmo Node API":https://github.com/shripadk/node-nexmo -- A module for sending and receiving SMS messages via Nexmo REST API.
+* "nodefm":https://github.com/mikebannister/nodefm -- So far just a util for consuming last.fm recent tracks history for a user
+* "nodegit":https://github.com/tbranyen/nodegit -- Asynchronous native Node.js "libgit2":http://libgit2.github.com/ bindings with a convenient api
+* "nodestagram":https://github.com/Swizec/nodestagram -- Instagram client for node
+* "nodestalker":https://github.com/pascalopitz/nodestalker -- A beanstalkd client for node
+* "nodevore":https://github.com/troufster/nodevore -- Convore API wrapper
 * "node-500px":https://github.com/ro-ka/node-500px -- A wrapper for the [[http://www.500px.com]] API.
-* "node-ocr":https://github.com/selead/node-ocr -- ABBYY API wrapper.
-* "node-mixpanel-api":https://github.com/campfirelabs/node-mixpanel-api -- A simple client for the Mixpanel Data API (not event tracking! see above)
 * "node-apn":https://github.com/argon/node-apn -- A library to send messages using the Apple Push Notification Service.
 * "node-armory":https://github.com/xtian/node-armory -- A simple wrapper around Blizzard's REST API for World of Warcraft.
-* "node-c2dm":https://github.com/SpeCT/node-c2dm -- A library to send messages using the Android Cloud to Device Messaging (C2DM) service.
+* "node-beaconpush":https://github.com/cgbystrom/node-beaconpush -- Client for the Beaconpush REST API. A real-time push service for browsers supporting WebSockets and Comet.
 * "node-bitly":https://github.com/tanepiper/node-bitly -- A bit.ly API library for node.js - provides URL shortening/expanding.  Features full API.
+* "node-c2dm":https://github.com/SpeCT/node-c2dm -- A library to send messages using the Android Cloud to Device Messaging (C2DM) service.
 * "node-cloudfiles":https://github.com/nodejitsu/node-cloudfiles -- A client implementation for Rackspace CloudFiles in node.js
 * "node-cloudservers":https://github.com/nodejitsu/node-cloudservers -- A client implementation for Rackspace CloudServers in node.js
+* "node-dropbox":https://github.com/Rendez/node-dropbox -- Node.js client for the Dropbox API
 * "node-foursquare":https://github.com/clintandrewhall/node-foursquare -- A wrapper for the Foursquare v2 API.
-* "node-klout":https://github.com/edwardhotchkiss/node-klout -- Extremely reliable Node.js Klout API Wrapper
+* "node-gdata":https://github.com/ammmir/node-gdata -- A generic Google Data API client library
 * "node-github":https://github.com/ajaxorg/node-github -- A wrapper for the "GitHub API":http://develop.github.com/
 * "node-gitteh":https://github.com/libgit2/node-gitteh -- Async, stable, feature-complete bindings for the "libgit2":http://libgit2.github.com/ library.
-* "nodegit":https://github.com/tbranyen/nodegit -- Asynchronous native Node.js "libgit2":http://libgit2.github.com/ bindings with a convenient api
-* "node-gdata":https://github.com/ammmir/node-gdata -- A generic Google Data API client library
 * "node-googleanalytics":https://github.com/ncb000gt/node-googleanalytics -- Google Analytics GData export library
 * "node-googlemaps":https://github.com/moshen/node-googlemaps -- A wrapper for the Google Maps API
+* "node-gravatar":https://github.com/arnabc/node-gravatar -- Node.js Gravatar URL generator, can be used with Node.js blogging frameworks 
+* "node-klout":https://github.com/edwardhotchkiss/node-klout -- Extremely reliable Node.js Klout API Wrapper
 * "node-loggly":https://github.com/nodejitsu/node-loggly --A client implementation for Loggly in node.js
+* "node-mailchimp":https://github.com/gomfunkel/node-mailchimp -- A wrapper for the MailChimp API, MailChimp Export API and MailChimp Webhooks
 * "node-mailgun":https://github.com/shz/node-mailgun -- Client library for MailGun
+* "node-mixpanel-api":https://github.com/campfirelabs/node-mixpanel-api -- A simple client for the Mixpanel Data API (not event tracking! see above)
+* "node-neoip":https://github.com/jeromeetienne/node-neoip -- binding for neoip
+* "node-notifo":https://github.com/nerocreativo/node-notifo -- Real-time notifications pushed to your mobile phone (and more).
+* "node-ocr":https://github.com/selead/node-ocr -- ABBYY API wrapper.
 * "node-ostatus":https://github.com/eschnou/node-ostatus -- An implementation of the OStatus protocol (Webfinger, Push, Hcard, Salmon, etc.)
+* "node-pdfcrowd":https://github.com/pdfcrowd/node-pdfcrowd -- A wrapper for the Pdfcrowd API. It lets you convert web pages and raw HTML code to PDF.
 * "node-posterous":https://github.com/andzdroid/node-posterous -- Library for the Posterous API
 * "node-prowl":https://github.com/mape/node-prowl -- A module that allows you to send push notifications to your iPhone through the Prowl API
 * "node-rapleaf":https://github.com/tralamazza/node-rapleaf -- RapLeaf API client
 * "node-sendgrid":https://github.com/HerdHound/node-sendgrid -- Sendgrid SMTP API headers library
-* "nodefm":https://github.com/mikebannister/nodefm -- So far just a util for consuming last.fm recent tracks history for a user
-* "nodestalker":https://github.com/pascalopitz/nodestalker -- A beanstalkd client for node
-* "nodestagram":https://github.com/Swizec/nodestagram -- Instagram client for node
-* "nodevore":https://github.com/troufster/nodevore -- Convore API wrapper
+* "node-spore":https://github.com/francois2metz/node-spore -- Node.js implementation of "spore":https://github.com/SPORE/ Generate api client with a json file.
 * "node-taobao":https://github.com/e6nian/node-taobao/ -- A client library for taobao.com api
 * "node-twilio":https://github.com/sjwalter/node-twilio/ -- A helper library for the Twilio API
 * "node-twitter":https://github.com/jdub/node-twitter -- Asynchronous Twitter REST/stream/search client for node.js
 * "node-vk":https://github.com/Sonetica/node-vk -- vkontakte.ru and vk.com social network api wrapper for mobile and desktop applications.
+* "node-wikimapia":https://github.com/Sannis/node-wikimapia -- Node.js wrapper for the Wikimapia API
+* "node-yelp":https://github.com/olalonde/node-yelp -- A wrapper for the Yelp's APIv2. Let's you search for businesses and get specific business information.
 * "pingdom":https://github.com/ryanbreen/node-pingdom -- A module for accessing the Pingdom JSON API
-* "webmetrics":https://github.com/ryanbreen/node-webmetrics -- A module for accessing the Webmetrics JSON API
 * "postageapp":https://github.com/postageapp/postageapp-nodejs -- A module for sending emails through the PostageApp JSON API
-* "tropo-webapi-node":https://github.com/tropo/tropo-webapi-node -- A library for building multi-channel communication apps with the Tropo WebAPI.
-* "Nexmo Node API":https://github.com/shripadk/node-nexmo -- A module for sending and receiving SMS messages via Nexmo REST API.
+* "ranger":https://github.com/mrduncan/ranger/ -- A simple library which wraps Campfire's API
+* "sailthru-client":https://github.com/sailthru/sailthru-node-client -- A wrapper for Sailthru API
 * "SMSified-node":https://github.com/smsified/smsified-node -- A module for sending and receiving SMS messages (text messages) with the SMSified API.
-* "tumblrrr":https://github.com/mvrilo/tumblrrr -- A wrapper for Tumblr's API
+* "spotify":https://github.com/roncioso/node-spotify-metadata -- Spotify api wrapper. Metadata lookup and search. Works with Spotify and http uris
+* "supervisord":https://github.com/crcn/supervisord - Library for supervisord
+* "tropo-webapi-node":https://github.com/tropo/tropo-webapi-node -- A library for building multi-channel communication apps with the Tropo WebAPI.
 * "tumblr":https://github.com/meritt/node-tumblr -- A wrapper for Tumblr's API v2
+* "tumblrrr":https://github.com/mvrilo/tumblrrr -- A wrapper for Tumblr's API
 * "tweetstream":https://github.com/mikeal/tweetstream -- Stream like API for twitter's HTTP streaming interface.
-* "twitter-search":https://github.com/edwardhotchkiss/twitter-search -- Twitter API Search w/ search result pagination, returning up to 1500 queried tweets with RegEx search, kSorts, Klout scoring and filters
 * "TwitScript":https://github.com/ryanmcgrath/twitscript -- A port of Twython to Node.js (Twitter API Library)
 * "twitter-js":https://github.com/masylum/twitter-js -- Easy peasy twitter client for connect.
-* "node-gravatar":https://github.com/arnabc/node-gravatar -- Node.js Gravatar URL generator, can be used with Node.js blogging frameworks 
-* "node-spore":https://github.com/francois2metz/node-spore -- Node.js implementation of "spore":https://github.com/SPORE/ Generate api client with a json file.
-* "akismet-js":https://github.com/oozcitak/akismet-js -- A client for the "Akismet spam detection API":http://akismet.com/development/api/
-* "spotify":https://github.com/roncioso/node-spotify-metadata -- Spotify api wrapper. Metadata lookup and search. Works with Spotify and http uris
-* "node-mailchimp":https://github.com/gomfunkel/node-mailchimp -- A wrapper for the MailChimp API, MailChimp Export API and MailChimp Webhooks
-* "ranger":https://github.com/mrduncan/ranger/ -- A simple library which wraps Campfire's API
-* "node-notifo":https://github.com/nerocreativo/node-notifo -- Real-time notifications pushed to your mobile phone (and more).
-* "node-beaconpush":https://github.com/cgbystrom/node-beaconpush -- Client for the Beaconpush REST API. A real-time push service for browsers supporting WebSockets and Comet.
-* "node-neoip":https://github.com/jeromeetienne/node-neoip -- binding for neoip
-* "node-pdfcrowd":https://github.com/pdfcrowd/node-pdfcrowd -- A wrapper for the Pdfcrowd API. It lets you convert web pages and raw HTML code to PDF.
-* "node-yelp":https://github.com/olalonde/node-yelp -- A wrapper for the Yelp's APIv2. Let's you search for businesses and get specific business information.
-* "sailthru-client":https://github.com/sailthru/sailthru-node-client -- A wrapper for Sailthru API
-* "yammer-js":https://github.com/smurthas/yammer-js -- Simple Yammer API wrapper
-* "node-wikimapia":https://github.com/Sannis/node-wikimapia -- Node.js wrapper for the Wikimapia API
-* "waz-storage-js":https://github.com/jpgarcia/waz-storage-js -- A simple implementation of Windows Azure Storage API for Node.js
+* "twitter-search":https://github.com/edwardhotchkiss/twitter-search -- Twitter API Search w/ search result pagination, returning up to 1500 queried tweets with RegEx search, kSorts, Klout scoring and filters
+* "VIE":https://github.com/bergie/VIE -- Apache Stanbol and DBpedia API client for Node.js
 * "vimeo-client":https://github.com/tih-ra/vimeo-client -- Vimeo API client for Node.js
 * "virustotal.js":https://github.com/SaltwaterC/virustotal.js -- VirusTotal API client for node.js
-* "VIE":https://github.com/bergie/VIE -- Apache Stanbol and DBpedia API client for Node.js
-
+* "waz-storage-js":https://github.com/jpgarcia/waz-storage-js -- A simple implementation of Windows Azure Storage API for Node.js
+* "webmetrics":https://github.com/ryanbreen/node-webmetrics -- A module for accessing the Webmetrics JSON API
+* "yammer-js":https://github.com/smurthas/yammer-js -- Simple Yammer API wrapper
 <a name="wiki-async-flow"></a>
 
 h3(#async-flow). "Control flow / Async goodies":#async-flow
