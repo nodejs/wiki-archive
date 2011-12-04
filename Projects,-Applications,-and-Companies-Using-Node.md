@@ -44,6 +44,7 @@
 * "Fostle":http://fostle.com/
 * "Geeklist":http://geekli.st/
 * "Ge.tt":http://ge.tt Kick ass file sharing service - (oh and it's real time)
+* "Gigboard":http://gigboard.com - Locational based gig finder.
 * "GoInstant":http://goinstant.com - No install, web co-browsing
 * "GoodData":http://www.gooddata.com Metric-driven analytics SAAS BI - the Way It Should Be
 * "Heroku":http://blog.heroku.com/archives/2010/4/28/node_js_support_experimental/ Dead simple Node deployment for you, and internal tools for us.
