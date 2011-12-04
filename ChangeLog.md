@@ -1,3 +1,9 @@
+## 2011.12.04, Version 0.6.5 (stable), 6cc94db653a2739ab28e33b2d6a63c51bd986a9f
+
+* npm workaround Windows antivirus software (isaacs)
+
+* Upgrade V8 to 3.6.6.11
+
 ## 2011.12.02, Version 0.6.4 (stable), 9170077f13e5e5475b23d1d3c2e7f69bfe139727
 
 * doc improvements (Kyle Young, Tim Oxley, Roman Shtylman, Mathias Bynens)
