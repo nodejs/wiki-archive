@@ -1186,7 +1186,7 @@ h3(#i18n). "I18n and L10n modules":#i18n
 * "i18n-node":https://github.com/mashpie/i18n-node -- Exports common __(), __n() syntax. Stores JSON objects dynamically on code-change.
 * "connect-i18n":https://github.com/masylum/connect-i18n -- Middleware for connect to handle i18n.
 * "translate.js":https://github.com/Marak/translate.js -- translate text from one language to another on node.js and the browser. 30+ languages supported, simple as cake.
-* "inflect":https://github.com/MSNexploder/inflect -- A port of the Rails / ActiveSupport inflector to JavaScript.
+* "inflect":https://github.com/MSNexploder/inflect -- A port of the Rails / ActiveSupport inflector to JavaScript (node.js and browser compatible).
 * "node-gettext":https://github.com/andris9/node-gettext -- Use Gettext .MO files with Node.js.
 * "lingua":https://github.com/akoenig/express-lingua -- A i18n middleware for the Express.js framework.
 * "node-date-diff":https://github.com/morishani/node-date-diff -- Calculates date differences and allows to format it nicely to your language (Eg. In one hour)
