@@ -103,6 +103,7 @@ h4(#web-frameworks-static). "Static file servers":#web-frameworks-static
 * "nodetoy":https://github.com/teknopaul/nodetoy -- Static JSON file server that supports GET, POST and DELETE
 * "statify":https://github.com/techpriester/statify.js -- A static file server to make any directory available via HTTP from the command line.
 * "nserve":https://github.com/marty-wang/NServe -- A local development server, allowing for adjustable file transfer rate, mock web services and live reload.
+* "bastard":https://github.com/unprolix/bastard -- Automatic minification, in-memory cache, automatic fingerprinting.
 <a name="wiki-web-frameworks-micro"></a>
 
 h4(#web-frameworks-micro). "Microframeworks":#web-frameworks-micro
