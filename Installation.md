@@ -31,13 +31,10 @@ Use make to build and install Node (execute the following on the command line)
 
     git clone --depth 1 git://github.com/joyent/node.git # or git clone git://github.com/joyent/node.git if you want to checkout a stable tag
     cd node
-    git checkout v0.6.3 # optional.  Note that master is unstable.
+    git checkout v0.6.5 # optional.  Note that master is unstable.
     ./configure
     make -j2 # -j sets the number of jobs to run
     [sudo] make install
-
-**NOTE**: In mac OSX 10.7 compilation fails if you use make -j _n_ , you can use 
-    make
 
 You may wish to install Node in a custom folder instead of a global directory. If so, use something like this, after cloning and checking out:
 
@@ -71,7 +68,7 @@ Rock-solid Node.js Platform on Ubuntu. Configure shell script for install node.j
 
 **Pre-built binaries**
 
-Windows Build (Node v0.6.0): http://nodejs.org/dist/v0.6.2/node-v0.6.2.msi
+Windows Build (Node v0.6.5): http://nodejs.org/dist/v0.6.5/node-v0.6.5.msi
 
 You can also install the binaries using [Chocolatey](http://chocolatey.org/packages/nodejs).
 
