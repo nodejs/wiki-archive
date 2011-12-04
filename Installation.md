@@ -17,7 +17,7 @@ only need 2 things:
 Do something like this
 
 ```
-tar -xvf node-v0.6.5.tar.gz
+tar -zxf node-v0.6.5.tar.gz
 cd node-v0.6.5
 ./configure
 make
@@ -46,7 +46,7 @@ Installation](https://github.com/ry/node/wiki/Troubleshooting-Installation), try
 You need python and Microsoft Visual Studio but not OpenSSL. In `cmd.exe` do the following
 
 ```
-C:\Users\ryan>tar -xvf node-v0.6.5.tar.gz
+C:\Users\ryan>tar -zxf node-v0.6.5.tar.gz
 C:\Users\ryan>cd node-v0.6.5
 C:\Users\ryan\node-v0.6.5>vcbuild.bat release
 [Wait 20 minutes]
