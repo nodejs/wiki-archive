@@ -1019,6 +1019,7 @@ h3(#payment-gateways). "Payment Gateways":#payment-gateways
 * "paypal-ipn":https://github.com/andzdroid/paypal-ipn -- library for verifying paypal IPN messages
 * "nodewm":https://github.com/dudochkin-victor/nodewm -- Webmoney signing module for NodeJs
 * "node-stripe":https://github.com/abh/node-stripe -- library for integrating with "Stripe":https://stripe.com/
+* "dwolla":https://github.com/nanek/node-dwolla -- library for integrating with "Dwolla":https://www.dwolla.com/
 
 <a name="wiki-api-clients"></a>
 
