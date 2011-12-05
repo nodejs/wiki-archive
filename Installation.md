@@ -12,6 +12,8 @@ only need 2 things:
   it can usually be installed with your favorite package manager. The
   lib comes pre- installed on OS X.
 
+If you have any installation problems stop into [#node.js](http://webchat.freenode.net/?channels=node.js&uio=d4) and ask questions.
+
 ## Unix
 
 Do something like this
@@ -30,16 +32,10 @@ You may wish to install Node in a custom folder instead of a global directory.
     make
     sudo make install
 
-You may want to put the node executables in your path as well for easier use:
+You may want to put the node executables in your path as well for easier use. Add this line to your `~/.profile` or `~/.bash_profile` or `~/.bashrc` or `~/.zshenv`
 
-    echo 'export PATH=$PATH:/opt/node/bin' >> ~/.profile # ~/.bash_profile or ~/.bashrc on some systems
+    export PATH=$PATH:/opt/node/bin
 
-To reload the path in your current instance of Terminal or bash, use:
-
-    . ~/.profile # Or ~/.bash_profile
-
-If you have any installation problems, look at [Troubleshooting
-Installation](https://github.com/ry/node/wiki/Troubleshooting-Installation), try an [alternative installation method](https://gist.github.com/579814), or stop into [#node.js](http://webchat.freenode.net/?channels=node.js&uio=d4) and ask questions.
 
 ## Windows
 
