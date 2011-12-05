@@ -1225,4 +1225,3 @@ h3(#other). "Other":#other
 * "node.packer":https://github.com/dreamerslab/node.packer -- An assets combine and minify tool
 * "version":https://github.com/edwardhotchkiss/version -- NodeJS package.json version number fetcher
 * "node-ast-inlining":https://github.com/FGRibreau/node-ast-inlining -- A small library that inline and expand function call
-* "attache.js":https://github.com/rodzyn/attache.js -- Very basic implementation of AOP
