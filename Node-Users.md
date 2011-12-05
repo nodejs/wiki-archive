@@ -8,10 +8,12 @@ Please add yourself to the list according to "your timezone":http://www.timeandd
 ** contacts</code></pre>
 
 h2. UTC-9
+
 * James Halliday (substack)
 ** "GitHub":http://github.com/substack, "Website":http://substack.net
 
 h2. UTC-8
+
 * Ryan Dahl (ryah), San Francisco, CA, US
 ** "GitHub":http://github.com/ry, "Twitter":http://twitter.com/ryah, "Website":http://tinyclouds.org
 * Mikeal Rogers (mikeal), Oakland, CA, US
@@ -164,6 +166,7 @@ h2. UTC-8
 ** "Website":http://www.nunojob.com, "GitHub":http://github.com/dscape, "Twitter":http://twitter.com/dscape
 
 h2. UTC-7 (-6)
+
 * Aria Stewart (Aria, aredridel), Ridgway, CO, US
 ** "Blog":http://aria.blogs.theinternetco.net/, "GitHub":http://githut.com/aredridel/, "Twitter":http://twitter.com/aredridel
 * Michaeljohn Clement (inimino)
@@ -196,6 +199,7 @@ h2. UTC-7 (-6)
 ** "GitHub":http://github.com/mbrevoort/, "Twitter":http://twitter.com/mbrevoort/, "Website":http://mike.brevoort.com
 
 h2. UTC-6 (-5)
+
 * Carter Cole (neopunisher), Houston, TX, US
 ** "GitHub":http://github.com/neopunsher, "Twitter":http://twitter.com/cartercole, "Website":http://cartercole.com
 * Bradley Meck (bradleymeck), Austin, TX, US
@@ -509,6 +513,7 @@ h2. UTC±0 (+1)
 ** "GitHub":http://github.com/pelger, "Twitter":http://twitter.com/pelger
 
 h2. UTC+1 (+2)
+
 * Andreas Madsen, Denmark
 ** "GitHub":https://github.com/AndreasMadsen
 * Travis Dunn (travisdunn), Amsterdam, The Netherlands
@@ -691,6 +696,7 @@ h2. UTC+1 (+2)
 ** "GitHub":http://github.com/ManInTheBox, "Website":http://zarkostankovic.com
 
 h2. UTC+2 (+3)
+
 * Aurimas Rim?a, Lithuania
 ** "GitHub":https://github.com/arimsa, "Website":http://aurimas.rimsa.name/
 * Shimon Doodkin (shimondoodkin), Israel
@@ -816,6 +822,7 @@ h2. UTC+6
 ** "Twitter":http://twitter.com/kossnocorp, "GitHub":http://github.com/kossnocorp
 
 h2. UTC+7
+
 * Nugroho Herucahyono(xinuc), Indonesia
 ** "Twitter":http://twitter.com/xinuc, "GitHub":http://github.com/xinuc/, "Website":http://xinuc.org/
 * Chakrit Wichian (chakrit), Thailand
@@ -910,6 +917,7 @@ h2. UTC+9
 ** "Github":http://github.com/hideo55, "Twitter":http://twitter.com/hide_o_55, "Blog":http://d.hatena.ne.jp/hide_o_55/
 
 h2. UTC+9:30 (+10:30)
+
 * Paul Shirren (shirro), Regional SA, Australia
 ** "Twitter":http://twitter.com/shirro, "GitHub":http://github.com/shirro
 
