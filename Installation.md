@@ -12,7 +12,7 @@ only need 2 things:
   it can usually be installed with your favorite package manager. The
   lib comes pre- installed on OS X.
 
-If you have any installation problems stop into [#node.js](http://webchat.freenode.net/?channels=node.js&uio=d4) and ask questions.
+If you have any installation problems stop into [#node.js](http://webchat.freenode.net/?channels=node.js&uio=d4) on irc.freenode.net and ask questions.
 
 ## Unix
 
