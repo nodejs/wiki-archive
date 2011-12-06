@@ -1,4 +1,5 @@
-h2. Articles
+## Articles
+
 * "Mastering Node":http://visionmedia.github.com/masteringnode/ - Open Source eBook by TJ Holowaychuk and the node community
 * "How to start develop with node js on linux from windows":http://wiki.github.com/shimondoodkin/nodejs-autorestart/how-to-start-develop-with-node-js-on-linux -- by Shimon Doodkin
 * "pubsub":http://www.nonblocking.io/2009/06/scalable-pubsub-with-nodejs.html -- by Malte Ubl
@@ -23,7 +24,7 @@ h2. Articles
 * "Node.js & WebSocket - Simple chat tutorial":http://www.martinsikora.com/nodejs-and-websocket-simple-chat-tutorial -- by Martin Sikora
 * "A Beginner’s Tutorial for Node.js":http://project70.com/nodejs/beginners-tutorial-node-js/ -- by Cedric Dussud
 
-h2. Talks
+## Talks
 * "GoogleTechTalk: Node.js":http://www.youtube.com/watch?v=F6k8lTrAE2g -- by Ryan Dahl (video, 2010-07-28)
 * "Node.js at JSConf.eu 2009":http://jsconf.eu/2009/video_nodejs_by_ryan_dahl.html -- by Ryan Dahl (video, 2009-11-08)
 * "Nodetuts - Node.js screencast tutorials":http://nodetuts.com/ -- by Pedro Teixeira (video tutorials)
@@ -37,13 +38,15 @@ h2. Talks
 * "Node Powered Mobile":http://www.slideshare.net/creationix/node-powered-mobile -- By Tim Caswell (slideshare, 2010-06-05)
 * "معرفی Node":http://weapi.org/fa/screencasts/15-introduction-to-nodejs -- by Morteza Milani
 
-h2. Demos
-* -"Move the Brush":http://www.movethebrush.com- (returns 404) -- by Gershon Bialer
+## Demos
 
-h2. Tools
+* "Move the Brush":http://www.movethebrush.com- (returns 404) -- by Gershon Bialer
+
+## Tools
+
 * "Node.js Package Manager":http://npmjs.org/- by Isaac Z. Schlueter
 
-h2. Sites in other languages
+## Sites in other languages
 
 * "Russian":http://nodejs.ru/
 * "Japanese":http://nodejs.jp/
