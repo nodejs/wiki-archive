@@ -1137,6 +1137,7 @@ h3(#async-flow). "Control flow / Async goodies":#async-flow
 * "fiberize":https://github.com/lm1/node-fiberize -- Node API wrapper for use with fibers.
 * "fibers":https://github.com/laverdet/node-fibers -- The closest thing to a thread you'll find in JavaScript
 * "fibers-promise":https://github.com/lm1/node-fibers-promise -- Small yet powerful promises based on fibers.
+* "asyncblock":https://github.com/scriby/asyncblock -- Simple & powerful fibers interface
 * "first":https://github.com/DanielBaulig/first -- A tiny control-flow library.
 * "flow-js":https://github.com/willconant/flow-js -- Continuation-esque contruct for expressing multi-step asynchronous logic
 * "funk":https://github.com/masylum/funk -- Asynchronous parallel functions made funky!
