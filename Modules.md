@@ -1222,7 +1222,6 @@ h3(#other). "Other":#other
 * "box2dnode":https://github.com/jadell/box2dnode -- Port of the box2d physics simulation library
 * "node-bullet":https://github.com/feisty/bullet -- "Bullet Physics":http://bulletphysics.org/ for node.js
 * "node-stem":https://github.com/chriso/node-stem -- Bindings to the libstemmer library
-* "chess":https://github.com/wsdookad
 * "Amanda":https://github.com/Baggz/Amanda -- JSON Schema validator
 * "node.packer":https://github.com/dreamerslab/node.packer -- An assets combine and minify tool
 * "version":https://github.com/edwardhotchkiss/version -- NodeJS package.json version number fetcher
