@@ -735,6 +735,7 @@ h3(#testing). "Testing / Spec Frameworks":#testing
 * "node-assertthat":https://github.com/goloroden/node-assertthat -- Provides a fluent TDD style for Node.js: assert.that(actual, is.equalTo(expected));
 * "node-async-testing":http://bentomas.github.com/node-async-testing/ -- Simple, fast, extendable unit testing.  
 * "node-qunit":https://github.com/kof/node-qunit -- QUnit port for nodejs. Very simple API, async testing, good tested testing framework.
+* "node-replay":https://github.com/assaf/node-replay -- When API testing slows you down: record and replay HTTP responses like a boss.
 * "node-stories":https://github.com/tobiassvn/node-stories -- Given/When/Then integration awesomeness for Node.
 * "node-testy":https://github.com/leetreveil/node-testy -- Super simple testing script. No added sugar. 100~ LOC.
 * "nodemock":https://github.com/arunoda/nodemock -- Simple Yet Powerful Mocking Framework for NodeJs
