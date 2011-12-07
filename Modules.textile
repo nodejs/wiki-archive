@@ -790,7 +790,6 @@ h4(#parsers). "JSON":#parsers-json
 * "node-yajl":http://github.com/vibornoff/node-yajl -- SAX-like evented JSON stream parser using "yajl":http://lloyd.github.com/yajl version 2 (fork of "yajl-js":http://bitbucket.org/nikhilm/yajl-js)
 * "yajl-js":http://bitbucket.org/nikhilm/yajl-js -- SAX-like evented JSON parsing using "yajl":http://lloyd.github.com/yajl
 
-
 <a name="wiki-parsers-xml"></a>
 
 h4(#parsers-xml). "XML":#parsers-xml
@@ -812,6 +811,7 @@ h4(#parsers-xml). "XML":#parsers-xml
 <a name="wiki-parsers-commandline"></a>
 
 h4(#parsers-commandline). "Command Line Option Parsers":#parsers-commandline
+* "aparser":https://github.com/thypon/aparser -- Async ARGS parser
 * "cli":https://github.com/chriso/cli -- Rapidly build command line apps. Full featured opts/args parser + plugin support
 * "commander.js":https://github.com/visionmedia/commander.js -- The complete solution for nodejs command-line interfaces
 * "argsparser":https://github.com/kof/node-argsparser -- A tiny limited arguments parser, returns a hash.
