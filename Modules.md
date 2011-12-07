@@ -1071,6 +1071,7 @@ h3(#api-clients). "API clients":#api-clients
 * "node-armory":https://github.com/xtian/node-armory -- A simple wrapper around Blizzard's REST API for World of Warcraft.
 * "node-beaconpush":https://github.com/cgbystrom/node-beaconpush -- Client for the Beaconpush REST API. A real-time push service for browsers supporting WebSockets and Comet.
 * "node-bitly":https://github.com/tanepiper/node-bitly -- A bit.ly API library for node.js - provides URL shortening/expanding.  Features full API.
+* "node-bot":https://github.com/Nais/node-bot -- Fast and Real-time extraction of web pages information using node-dom (html,text,etc) based on given criterias
 * "node-c2dm":https://github.com/SpeCT/node-c2dm -- A library to send messages using the Android Cloud to Device Messaging (C2DM) service.
 * "node-cloudfiles":https://github.com/nodejitsu/node-cloudfiles -- A client implementation for Rackspace CloudFiles in node.js
 * "node-cloudservers":https://github.com/nodejitsu/node-cloudservers -- A client implementation for Rackspace CloudServers in node.js
