@@ -1070,19 +1070,19 @@ h3(#api-clients). "API clients":#api-clients
 * "node-armory":https://github.com/xtian/node-armory -- A simple wrapper around Blizzard's REST API for World of Warcraft.
 * "node-beaconpush":https://github.com/cgbystrom/node-beaconpush -- Client for the Beaconpush REST API. A real-time push service for browsers supporting WebSockets and Comet.
 * "node-bitly":https://github.com/tanepiper/node-bitly -- A bit.ly API library for node.js - provides URL shortening/expanding.  Features full API.
-* "node-bot":https://github.com/Nais/node-bot -- Fast and real-time extraction of web pages information (html, text, etc) using node-dom based on given criterias (example : retrieves real-time the price of a product)
+* "node-bot":https://github.com/Nais/node-bot -- Fast and real-time extraction of web pages information (html, text, etc) using node-dom based on given criterias (example : retrieves real-time the price of a product).
 * "node-c2dm":https://github.com/SpeCT/node-c2dm -- A library to send messages using the Android Cloud to Device Messaging (C2DM) service.
 * "node-cloudfiles":https://github.com/nodejitsu/node-cloudfiles -- A client implementation for Rackspace CloudFiles in node.js
 * "node-cloudservers":https://github.com/nodejitsu/node-cloudservers -- A client implementation for Rackspace CloudServers in node.js
 * "node-dropbox":https://github.com/Rendez/node-dropbox -- Node.js client for the Dropbox API
 * "node-foursquare":https://github.com/clintandrewhall/node-foursquare -- A wrapper for the Foursquare v2 API.
-* "node-gadgets":https://github.com/Nais/node-gadgets -- Real-time extraction from web pages of HTML gadgets and associated properties using node-dom based on given criterias
+* "node-gadgets":https://github.com/Nais/node-gadgets -- Real-time extraction from web pages of HTML gadgets and associated properties using node-dom based on given criterias.
 * "node-gdata":https://github.com/ammmir/node-gdata -- A generic Google Data API client library
 * "node-github":https://github.com/ajaxorg/node-github -- A wrapper for the "GitHub API":http://develop.github.com/
 * "node-gitteh":https://github.com/libgit2/node-gitteh -- Async, stable, feature-complete bindings for the "libgit2":http://libgit2.github.com/ library.
 * "node-googleanalytics":https://github.com/ncb000gt/node-googleanalytics -- Google Analytics GData export library
 * "node-googlemaps":https://github.com/moshen/node-googlemaps -- A wrapper for the Google Maps API
-* "node-googleSearch":https://github.com/Nais/node-googleSearch -- Implementation of Google Search API using node-dom
+* "node-googleSearch":https://github.com/Nais/node-googleSearch -- Implementation of Google Search API using node-dom.
 * "node-gravatar":https://github.com/arnabc/node-gravatar -- Node.js Gravatar URL generator, can be used with Node.js blogging frameworks 
 * "node-klout":https://github.com/edwardhotchkiss/node-klout -- Extremely reliable Node.js Klout API Wrapper
 * "node-loggly":https://github.com/nodejitsu/node-loggly --A client implementation for Loggly in node.js
