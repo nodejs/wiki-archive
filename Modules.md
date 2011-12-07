@@ -409,6 +409,7 @@ h3(#templating). "Templating":#templating
 * "blue":http://github.com/floby/node-blue -- A streamed template engine. Support for asynchronous loading of partials
 * "combyne.js":https://github.com/tbranyen/combyne.js -- A template engine that hopefully works the way you'd expect.
 * "CoffeeKup":https://github.com/mauricemach/coffeekup -- Markup as CoffeeScript. Live "demo":http://coffeekup.org and "html2coffeekup":https://github.com/brandonbloom/html2coffeekup.
+* "CoffeeMugg":https://github.com/jaekwon/coffeemugg -- Markup as CoffeeScript. A branch of CoffeeKup, supports closures, requires no compilation, extensible via view-helper libraries, like ActionView.
 * "doT.js":https://github.com/olado/doT -- Concise and super fast javascript templates with customizable delimiters, streaming and partials support
 * "DryKup":https://github.com/mark-hahn/drykup -- CoffeeKup-compatible markup for CoffeeScript.  Supports closures and requires no compilation.
 * "dust":http://akdubya.github.com/dustjs -- Async, streaming & composable templates for the browser and node
