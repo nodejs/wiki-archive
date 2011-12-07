@@ -975,6 +975,7 @@ h3(#compression). "Compression":#compression
 * "node-zlibstream":https://github.com/carsonmcdonald/node-zlibstream -- Streaming zlib library using zlib
 * "node-zlib-sync":https://github.com/ssuda/node-zlib-sync -- rfc1950/rfc1951/rfc1952 compress/uncompress (C++ around libzlib)
 * "node-lzf":https://github.com/Sonetica/node-lzf - lzf compression library (C++ around liblzf)
+* "zip":https://github.com/kriskowal/zip — .zip file unpacker (pure JavaScript, no C++)
 <a name="wiki-graphics"></a>
 
 h3(#graphics). "Graphics":#graphics
