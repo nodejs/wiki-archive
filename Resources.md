@@ -1,3 +1,7 @@
+## Books
+
+* "Mixu's Node book":http://book.mixu.net/
+
 ## Articles
 
 * "Mastering Node":http://visionmedia.github.com/masteringnode/ - Open Source eBook by TJ Holowaychuk and the node community
