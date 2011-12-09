@@ -216,7 +216,7 @@ h4(#middleware). "Middleware":#middleware
 ** "connect-auth":https://github.com/ciaranj/connect-auth -- Connect authentication middleware, provides out-of-the-box implementations of HTTP (Basic & Digest), Twitter, Facebook, BitBucket, Janrain, Yahoo, Sina, Google, OAuth (1.0 server), Github and a couple of others....
 <a name="wiki-middleware-other"></a>
 ** "everyauth":https://github.com/bnoguchi/everyauth -- Connect authentication and authorization middleware, modular, configurable, supporting password, OpenId, Google, OAuth, Twitter, LinkedIn, Yahoo, Readability, Dropbox, Justin.tv, Vimeo, Tumblr, OAuth2, Facebook, GitHub, Instagram, Foursquare, Box.net, LDAP
-** "passport":https://github.com/jaredhanson/passport -- Simple, modular, and unobtrusive authentication framework for Connect and Express.
+** "passport":https://github.com/jaredhanson/passport -- Simple, modular, and unobtrusive authentication framework for Connect and Express. Includes strategies for 30+ services as separate projects.  
 * "Other":#middleware-other 
 ** "node-file-cache":https://github.com/FLYBYME/node-file-cache - Very small file cache for node.js http server.
 ** "protobuf_for_node":http://code.google.com/p/protobuf-for-node/ -- In-process JS-to-C++ communication using protocol buffer services
