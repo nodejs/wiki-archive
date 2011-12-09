@@ -99,7 +99,7 @@ h4(#web-frameworks-static). "Static file servers":#web-frameworks-static
 * "oui":https://github.com/rsms/oui -- Web service server with great static files support
 * "static":https://github.com/kriszyp/pintura/blob/master/jsgi/static.js - Static file handler using asynchronous streaming as JSGI middleware
 * "static-resource":https://github.com/atsuya/static-resource - Static resource handling for node.js
-* "Trailer":https://github.com/tylermwashburn/Trailer -- Everyone's favorite backend.
+* "Trailer":https://github.com/tylermwashburn/trailer -- Everyone's favorite backend.
 * "nodetoy":https://github.com/teknopaul/nodetoy -- Static JSON file server that supports GET, POST and DELETE
 * "statify":https://github.com/techpriester/statify.js -- A static file server to make any directory available via HTTP from the command line.
 * "nserve":https://github.com/marty-wang/NServe -- A local development server, allowing for adjustable file transfer rate, mock web services and live reload.
