@@ -1,8 +1,3 @@
-## Books
-
-* "Mixu's Node book":http://book.mixu.net/
-* "Node In Action":http://www.manning.com/cantelon/ -- by [Mike Cantelon](https://github.com/mcantelon), [Nathan Rajlich](https://github.com/tootallnate), and [TJ Holowaychuk](https://github.com/visionmedia)
-
 ## Articles
 
 * "Mastering Node":http://visionmedia.github.com/masteringnode/ - Open Source eBook by TJ Holowaychuk and the node community

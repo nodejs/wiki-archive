@@ -10,7 +10,7 @@
 * "af83":http://af83.com/ -- uses node on several projects ("Geeks":https://github.com/AF83/Geeks for example)
 * "Ajax.org":http://ajax.org/ -- Home of the Cloud9 IDE, Ajax.org Platform and O3 Node modules
 * "Applied Data Consultants":http://applieddataconsultants.com
-* "&yet (andyet)":http://andyet.net -- We make web software for human people. We used node to build "&bang":http://andbang.com a team same-pagification tool. We also specialize in building realtime node.js applications for clients for web and mobile.
+* "&yet (andyet)":http://andyet.net -- We make web software for human people.
 * "AntPortal":https://antportal.com/
 * "appendTo":http://appendto.com/ -- The Company Dedicated to jQuery
 * "bejes.us":http://bejes.us/ -- NodeJS hosting using the @Nodester platform - Maintained by one of the developers.
