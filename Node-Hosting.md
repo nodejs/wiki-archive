@@ -18,6 +18,7 @@ Name | Node Version | Web Sockets | IP/Hostname | IRC | Repository | Free Plan |
 [Nodejitsu](http://nodejitsu.com) | 0.4.12 | Yes | | #nodejitsu | [nodejitsu](http://github.com/nodejitsu) | | | In Private Beta
 [Nodester](http://nodester.com) | | | | |[nodester](https://github.com/nodester) | | | Open source Node.JS hosting platform and services
 [JSApp.US](http://jsapp.us) | | | No | | [node-host](https://github.com/matthewfl/node-host) | | | Open signup, web editing/npm command
+[Node Ninja](https://node-ninja.com) | 0.4.12 | Yes | Yes | | [node-ninja](https://github.com/node-ninja) | Yes - 256 MB Ram | | In Closed Beta
 
 Empty cells mean we weren't sure what to put there. 
 
