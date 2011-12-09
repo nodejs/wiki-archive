@@ -494,6 +494,7 @@ h3(#build-and-deployment). "Build and Deployment":#build-and-deployment
 * "node-dev":https://github.com/fgnass/node-dev -- Automatically restarts node when a source-file is modified. Displays notifications via Growl.
 * "octoploy":https://github.com/ammmir/octoploy -- GitHub post-receive hook URL handler (execute script on push to repo)
 * "run":https://github.com/DTrejo/run.js -- Rerun your js file whenever there's a change in the current directory: <code>npm install -g run</code>, <code>runjs yourcode.js</code>. Never alt-tab to your terminal again.
+* "nitrix":https://github.com/edwardhotchkiss/nitrix -- A CLI & Daemon tool to run a NodeJS process Forever, restarting on file changes & crashes with piping to stdout or log files.
 * "node-settings":https://github.com/mgutz/node-settings -- Simple, hierarchical environment-based app settings.
 * "Jake":https://github.com/mde/jake -- JavaScript build tool similar to Make or Rake.
 * "muffin.js":https://github.com/hornairs/muffin -- CoffeeScript compilation, minification, concatenation, copying, growl, and SLOC counting helpers for Cakefiles.
