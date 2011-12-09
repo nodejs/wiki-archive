@@ -35,6 +35,7 @@ h1. Localized sites
 |"nodejs.co.il":http://nodejs.co.il| Israeli Node.js wiki |
 | "HKNoJ":http://nodejs.hk | Hong Kong nodejs community |
 | "nodejs.tw":http://nodejs.tw | Taiwan nodejs community |
+| "NodeHispano":http://nodehispano.com | Comunidad de nodejs en español |
 
 h1. Books about Node
 
