@@ -153,6 +153,7 @@ This list is for websites and applications that are powered by node.js. If you'v
 * "Backbone Examples Ported From Knockout (WIP)":https://github.com/mgutz/backbone-knockout-examples -- by Mario Gutierrez
 * "BeBeDo":http://bebedo.com - Instant search for local things to do
 * "BirdChat":http://birdch.at/ — Chat with your friends from Twitter
+* "Bitfloor":https://bitfloor.com - Bitcoin currency exchange
 * "Bittorrent Tracker":https://github.com/anhel/node-bittorrent-tracker - High performance bittorrent tracker by anhel
 * "BKLN":https://github.com/forsurerad/bkln -- URL Shortener based on node.js
 * "blog.js":http://github.com/furtivefelon/blog.js -- Simple blogging engine based on node.js
