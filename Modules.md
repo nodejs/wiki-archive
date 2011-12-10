@@ -450,6 +450,7 @@ rendering process.
 * "tmpl-node":https://github.com/jed/tmpl-node -- a feature-rich template module for node.js
 * "TwigJS":https://github.com/fadrizul/twigjs -- A port of PHP template engine ("www.twig-project.org":http://www.twig-project.org) to Javascript
 * "weld":https://github.com/hij1nx/weld -- unobtrusive. portable. ANTI-TEMPLATING. Weld binds data to markup, and can generate markup based on your data.
+* "whiskers":https://github.com/gsf/whiskers.js -- single-file, feature-sparse templating for node, express, and the browser
 * "xmlbuilder.js":https://github.com/btakita/xmlbuilder.js -- An xml builder in JavaScript inspired by Ruby's Builder, Markaby, and Erector.
 * "xmlbuilder-js":https://github.com/oozcitak/xmlbuilder-js -- An xml builder for node.js similar to java-xmlbuilder.
 * "node-tmpl":https://github.com/jeromeetienne/node-tmpl -- basic templating system in node.js based on shorttag
