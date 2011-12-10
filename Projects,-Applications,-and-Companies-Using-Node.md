@@ -101,6 +101,7 @@
 * "Shelby.tv":http://www.shelby.tv -- The most amazing way to discover and enjoy the video your friends are sharing.
 * "Shine Technologies":http://www.shinetech.com/ -- Software consultancy with offices in Brisbane & Melbourne. We're helping our client to rewrite one of Australia's largest web sites using node. We also wrote "jazz":http://github.com/shinetech/jazz and "eventserver":http://github.com/shinetech/eventserver
 * "Shiny Ads":http://www.ShinyAds.com/ -- Self-Serve Advertising platform for online publishers.  Using node.js for a super-fast/low memory internal ad server.
+* "SimpleReach":http://www.simplereach.com/ -- Social intelligence platform. Using Node.js for data collection, aggregation, middleware, and ad serving
 * "Singly":http://singly.com/ - Hosted Personal Data Home's, using node for most of the data aggregation/serving
 * "SitePen":http://www.sitepen.com/ - Using node for persevere
 * "Siteworx":http://www.siteworx.com/
