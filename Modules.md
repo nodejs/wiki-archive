@@ -132,7 +132,7 @@ h4(#web-frameworks-full). "Frameworks":#web-frameworks-full
 * "blueprint":https://github.com/ingklabs/blueprint -- **Blueprint for a Startup**. Middleware, & MVC routing over Node.js & Mongoose
 * "broke":https://github.com/brokenseal/broke/ -- A porting of the most famous "Django Web Framework":http://www.djangoproject.com/
 * "chain":https://github.com/hassox/chain/ -- An evented convention for building Node Applications (Stopped Development, for ejsgi)
-* "webjs":https://github.com/iwillwen/webjs -- A simple, fast and light HTTP/TCP framework for NodeJS
+* "webjs":https://github.com/iwillwen/webjs -- Simple and stable devlopment for Node.js
 * "djangode":https://github.com/simonw/djangode -- A framework that borrows some useful concepts from "Django":http://www.djangoproject.com/. (March 2010, node.JS 0.1.30)
 * "drty":https://github.com/drtyhbo/drty -- A Django port to NodeJS. Many Django features, still under heavy development. (January, 2011, 0.2.6)
 * "Express":https://github.com/visionmedia/express/tree/master -- A robust feature rich web development framework **inspired by Sinatra**
