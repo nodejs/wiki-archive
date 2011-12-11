@@ -1641,6 +1641,7 @@ h4(#db-misc). "DB Misc and Cross DB":#db-misc
 * "nocr-mongo":https://github.com/karacos/nocr-mongo -- "NoCR":https://github.com/NoCR/NoCR implementation for mongoDB
 * "searchjs":https://github.com/deitch/searchjs -- Library for doing easy native JSON SQL-style querying on JS objects/arrays. Implements JSQL, native JSON query language. 
 * "node-odbc":https://github.com/w1nk/node-odbc -- unixODBC bindings for node. Query any database that has an ODBC driver.
+* "rawhash":https://github.com/pconstr/rawhash -- experimental in-memory key:value cache where keys are binary Buffers. Uses "google-sparsehash":http://code.google.com/p/google-sparsehash and "murmurhash3":http://code.google.com/p/smhasher/ .
 
 h3(#templating). "Templating":#templating
 * "asyncEJS":https://github.com/cramforce/node-asyncEJS -- Asynchronous implementation of embedded JavaScript
