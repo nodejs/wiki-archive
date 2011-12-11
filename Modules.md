@@ -474,6 +474,7 @@ h3(#content-management). "Content Management Systems":#content-management
 * "Nodepad":https://github.com/alexyoung/nodepad -- A nice basic web-based notepad.
 * "Calipso":http://calip.so/?utm_source=nodejs&utm_medium=github&utm_campaign=nodejs -- An express based CMS, very much work in progress.
 * "Murray CMS":https://github.com/thecolorblue/murray-cms -- blog platform using express and mongodb.
+* "AE86":http://github.com/cliffano/ae86 - Static website generator. Easy to write custom tag as simple JavaScript function, clean and minimalistic template syntax.
 * "DocPad":https://github.com/balupton/docpad -- a static website generator which supports markdown and eco among others
 * "FilePad":https://github.com/balupton/filepad - edit your local files collaboratively in realtime inside the browser, can be used "in conjunction with DocPad":https://github.com/balupton/docpad/wiki/Tips-&-Tricks
 * "NoCR":https://github.com/NoCR/NoCR - JCR-inspired Content Repository API for Node.js which maps your content model to a tree of nodes and properties. There is a "MongoDB NoCR provider":https://github.com/karacos/nocr-mongo available
