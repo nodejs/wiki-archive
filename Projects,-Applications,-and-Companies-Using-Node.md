@@ -37,6 +37,7 @@
 * "DuckDuckGo":http://duckduckgo.com/ -- uses it for XMPP bot im@ddg.gg
 * "Duostack":http://www.duostack.com
 * "Durchblicker":http://durchblicker.at - The Austrian price comparison site. (price calculation engine)
+* "Drops":http://dropsapp.com - Cross-platform alternative to Droplr and Cloud.
 * "Erskine Design":http://erskinedesign.com/ -- Real(ish)-time SNMP monitoring dashboard using websockets
 * "e-resistible":http://www.e-resistible.co.uk - uses node to handle network communication to restaurant printers
 * "Fictorial":http://fictorial.com
