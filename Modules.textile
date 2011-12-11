@@ -680,6 +680,7 @@ h3(#ws-ajax). "Web Sockets & Ajax":#ws-ajax
 * "websocket-node":https://github.com/Worlize/WebSocket-Node -- A WebSocket library that tracks the latest protocol draft versions released by the IETF HyBi working group, currently protocol version 8 (draft -08, -09, and -10).  Mainstream browsers do not yet support this draft of the protocol.
 * "Beseda":https://github.com/geometria-lab/Beseda -- Fast, well designed and featured Node.js Pub/Sub server. Beseda offers multiple platform API to develop realtime web applications.
 * "node-eventstream":https://github.com/kbjr/node-eventstream -- A server-side companion to EventSource.
+* "ws":https://github.com/einaros/ws -- Very fast, protocol conformant WebSocket client / console.
 
 <a name="wiki-message-queue"></a>
 
