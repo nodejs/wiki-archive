@@ -237,6 +237,7 @@ h4(#middleware). "Middleware":#middleware
 ** "http-auth2":https://github.com/SDA/http-auth2 -- HTTP basic authentication that supports multiple logins.
 ** "node-force-domain":https://github.com/goloroden/node-force-domain -- Force multiple domains to redirect (301) to a default one in your Express project.
 ** "exedra":https://github.com/corpix/exedra -- Express routes & functions loader
+** "node-varnish":https://github.com/Vizzuality/node-varnish -- Connector for the Varnish cache telnet management protocol
 
 <a name="wiki-web-frameworks-other"></a>
 
