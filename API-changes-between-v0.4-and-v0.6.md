@@ -84,6 +84,7 @@ When editing this page please be as detailed as possible. Examples are encourage
    * `start` option to `fs.createReadStream()` and `fs.createWriteStream()`.
  * `http`
    * `http.ClientRequest.setTimeout()/setNoDelay()/setSocketKeepAlive()`
+   * `auth` option to `http.request()`.
  * `https`
    * `passphrase` option to `https.createServer()`, `https.request()`, and `https.get()`.
  * Module system
