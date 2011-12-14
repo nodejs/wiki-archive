@@ -273,6 +273,7 @@ h3(#database). "Database":#database
 
 h4(#db-mssql). "SQL Server":#db-mssql
 
+* "tsqlftw":https://github.com/gfosco/tsqlftw -- A Native & Asynchronous MSSQL bridge for Windows.  
 * "node-mssql":https://github.com/vivina/node-mssql -- A node.js MS SQL Server native driver 
 * "tedious":https://github.com/pekim/tedious -- A pure Javascript implementation of the TDS protocol, for connecting to SQL Server databases
 
