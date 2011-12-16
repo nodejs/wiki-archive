@@ -36,8 +36,6 @@ You may want to put the node executables in your path as well for easier use. Ad
 
     export PATH=$PATH:/opt/node/bin
 
-**Rock-solid Node.js Platform on Ubuntu.**
-
 [Configure shell script](http://apptob.org) for install node.js on Ubuntu
 
 ## Windows
