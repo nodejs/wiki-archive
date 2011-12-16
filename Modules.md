@@ -17,8 +17,22 @@ When you edit this list, also add your module to [[library-compatibility]] so th
   * <a href="#web-frameworks-micro">Microframeworks</a>
   * <a href="#web-frameworks-full">Frameworks</a>
   * <a href="#middleware">Middleware</a>
+    * <a href="#middleware-jsgi">JSGI</a>
+    * <a href="#middleware-connect">Connect</a>
+    * <a href="#middleware-other">Other middleware</a>
   * <a href="#web-frameworks-other">Other</a>
 * <a href="#database">Database</a>
+  * <a href="#db-mssql">MS SQL Server</a>
+  * <a href="#db-pg">PostgreSQL</a>
+  * <a href="#db-mysql">MySQL</a>
+  * <a href="#db-sqlite">SQLite</a>
+  * <a href="#db-nosql">NoSQL and Key/Value</a>
+    * <a href="#db-nosql-mongo">Mongo</a>
+    * <a href="#db-nosql-hive">Hive</a>
+    * <a href="#db-nosql-redis">Redis</a>
+    * <a href="#db-nosql-couch">CouchDB</a>
+    * <a href="#db-nosql-other">Other NoSQL implementations</a>
+  * <a href="#db-misc">Miscellaneous and multiple DB</a>
 * <a href="#templating">Templating</a>
 * <a href="#css-engines"><span class="caps">CSS</span> Engines</a>
 * <a href="#content-management">Content Management Systems</a>
@@ -27,7 +41,7 @@ When you edit this list, also add your module to [[library-compatibility]] so th
 * <a href="#module-loader">Module Loader</a>
 * <a href="#security">OpenSSL / Crypto / Hashing</a>
 * <a href="#smtp"><span class="caps">SMTP</span></a>
-* <a href="#tcp"><span class="caps">TCP</span> / IP</a>
+* <a href="#tcp"><span class="caps">TCP / IP</span></a>
 * <a href="#rpc"><span class="caps">RPC</span></a>
 * <a href="#ws-ajax">Web Sockets &amp; Ajax</a>
 * <a href="#message-queue">Message Queues</a>
@@ -266,14 +280,14 @@ When you edit this list, also add your module to [[library-compatibility]] so th
 ## [Database](#database)
 
 <a name="wiki-db-mssql"></a>
-### [SQL Server](#db-mssql)
+### [MS SQL Server](#db-mssql)
 
 * [tsqlftw](https://github.com/gfosco/tsqlftw) -- A Native & Asynchronous MSSQL bridge for Windows.  
 * [node-mssql](https://github.com/vivina/node-mssql) -- A node.js MS SQL Server native driver 
 * [tedious](https://github.com/pekim/tedious) -- A pure Javascript implementation of the TDS protocol, for connecting to SQL Server databases
 
 <a name="wiki-db-pg"></a>
-### [Postgresql](#db-pg)
+### [PostgreSQL](#db-pg)
 
 * [node_postgres](https://github.com/ry/node_postgres) -- Beginning of bindings to libpg
 * [node-postgres](https://github.com/brianc/node-postgres) -- Well tested libpq binding and pure javascript PostgreSQL client
@@ -290,7 +304,7 @@ When you edit this list, also add your module to [[library-compatibility]] so th
 * [node-mysql](https://github.com/felixge/node-mysql) -- A node.js module implementing the MySQL protocol 
   * [node-mysql-pool](https://github.com/Kijewski/node-mysql-pool) -- connection pool for node.js on top of Felix Geisendörfer's MySQL client node-mysql.
   * [node-mysql-cache](https://github.com/guggero/node-mysql-cache) -- MySQL query cache for node.js on top of Felix Geisendörfer's MySQL client node-mysql.
-* [-node-mysql-](https://github.com/masuidrive/node-mysql) -- -Pure JavaScript MySQL async driver- [obsolete]
+* <s>[node-mysql](https://github.com/masuidrive/node-mysql) -- Pure JavaScript MySQL async driver</s> [obsolete]
 * [node-mysql-native](https://github.com/sidorares/nodejs-mysql-native) -- Yet another pure JS async driver. Pipelining, prepared statements.
 * [node-mysql-libmysqlclient](https://github.com/Sannis/node-mysql-libmysqlclient) -- MySQL asynchronous bindings based on libmysqlclient
   * [RDX](https://github.com/kreetitech/RDX) - An object-relational mapper (ORM) for node. Backends: node-mysql-libmysqlclient.
@@ -299,15 +313,15 @@ When you edit this list, also add your module to [[library-compatibility]] so th
 * [sequelize](https://github.com/sdepold/sequelize) - An easy-to-use MySQL Object-Relational-Mapper (ORM) for Node.JS
 * [moose](https://github.com/Pollenware/moose) - An ORM for node (Currently only MySQL). Based on node-mysql
 
-<a name="wiki-db-sqllite"></a>
-### [SQLite](#db-sqllite)
+<a name="wiki-db-sqlite"></a>
+### [SQLite](#db-sqlite)
 
 * [node-sqlite](https://github.com/grumdrig/node-sqlite) -- Bindings for SQLite3. Interface conforms to the [HTML5 Web SQL API](http://dev.w3.org/html5/webdatabase/#sql.)
 * [node-sqlite](https://github.com/orlandov/node-sqlite) -- Fast asynchronous driver: New evented Node.js look, same great SQLite3 taste
 * [node-sqlite3](https://github.com/developmentseed/node-sqlite3) -- Full-featured, asynchronous SQLite bindings with query serialization/parallelization and verbose stack traces
 
 <a name="wiki-db-nosql"></a>
-### [NoSQL and Key Value](#db-nosql)
+### [NoSQL and Key/Value](#db-nosql)
 
 <a name="wiki-db-nosql-mongo"></a>
 #### [Mongo](#db-nosql-mongo)
@@ -353,7 +367,7 @@ When you edit this list, also add your module to [[library-compatibility]] so th
 * [node-couchdb-api](https://github.com/dominicbarnes/node-couchdb-api) -- An easy-to-use and powerful wrapper for the CouchDB API that follows Node.JS conventions for async code.
 * [LazyBoy](http://garrensmith.com/LazyBoy) -- a CouchDB ORM thats easy to use 
 * [node-couch](https://github.com/sixtus/node-couch/tree/master) -- a CouchDB connector
-* [-node-couchdb-](https://github.com/felixge/node-couchdb) -- -A full API implementation- [obsolete]
+* <s>[node-couchdb](https://github.com/felixge/node-couchdb) -- A full API implementation</s> [obsolete]
 * [node-couchdb-min](https://github.com/rsms/node-couchdb-min) -- Light-weight client with low level of abstraction and connection pooling.
 * [couch-ar](https://github.com/scottburch/couch-ar) -- a active record implementation for couchDB (uses cradle)
 * [couch-client](https://github.com/creationix/couch-client) -- a simple wrapper around CouchDB's http interface
@@ -365,11 +379,12 @@ When you edit this list, also add your module to [[library-compatibility]] so th
 * [nano](https://github.com/dscape/nano/) -- Minimalistic driver for CouchDB based on mikeals/request
 * [YACA](https://github.com/dgreisen/YACA) -- custom api for your couchdb instance generated through introspection. 
 
-#### [NoSQL Misc](#db-nosql-misc)
+<a name="wiki-db-nosql-other"></a>
+#### [Other NoSQL implementations](#db-nosql-other)
 
 * [riak-js](https://github.com/frank06/riak-js) -- Riak JavaScript client (works on node v0.1.30+)
 * [node-mwire](https://github.com/robtweed/node-mwire) -- Client for GT.M & Cache databases
-* [alfred](http://pgte.github.com/alfred/) -- a fast in-process key-value store for node.js that has functional indexes, streams, replication,  ...
+* [alfred](http://pgte.github.com/alfred/) -- a fast in-process key-value store for node.js that has functional indexes, streams, replication, ...
 * [barricane-db](https://github.com/chrisdew/barricane-db) -- a transparent object persistence mechanism
 * [chaos](https://github.com/stagas/chaos) -- Chaos is a Node.js database
 * [node-tokyocabinet](https://github.com/edvakf/node-tokyocabinet) -- Tokyo Cabinet binding
@@ -378,7 +393,8 @@ When you edit this list, also add your module to [[library-compatibility]] so th
 * [keys](https://github.com/visionmedia/keys) -- Unified interface for key/value store clients
 * [neo4j](https://github.com/gasi/node-neo4j) -- Neo4j graph database driver for Node
 
-### [DB Misc and Cross DB](#db-misc)
+<a name="wiki-db-misc"></a>
+### [Miscellaneous and multiple DB](#db-misc)
 
 * [Tabler](https://github.com/aarong/tabler/) - Access relational and NoSQL database backends using a generic SQL-inspired table interface (SimpleDB, JSON file available)
 * [db-drizzle](https://github.com/mariano/node-db-drizzle/) - Binary driver for Drizzle (using libdrizzle). Part of the [Node.js DB](http://nodejsdb.org) effort
@@ -892,7 +908,7 @@ rendering process.
 * [props](https://github.com/pvorb/node-props) -- Parse json or yaml from the beginning of text files.
 * [protobuf_for_node](http://code.google.com/p/protobuf-for-node/) -- Protocol buffer parsing and serialization
 * [node-markdown](https://github.com/andris9/node-markdown) -- Easy to use Markdown parser
-* [highlight](https://github.com/andris9/highlight) -- Code highlighter for Markdown <code> blocks and for automatic language detection
+* [highlight](https://github.com/andris9/highlight) -- Code highlighter for Markdown `code` blocks and for automatic language detection
 * [strscan](https://github.com/sstephenson/strscan-js) -- Simple string tokenizer for lexical scanning operations
 * [iniparser](https://github.com/shockie/node-iniparser) -- A Simple .ini parser 
 * [mailparser](https://github.com/andris9/mailparser) -- Parse mime encoded e-mails into structured objects
