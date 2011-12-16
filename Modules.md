@@ -17,9 +17,9 @@ When you edit this list, also add your module to [[library-compatibility]] so th
   * <a href="#web-frameworks-micro">Microframeworks</a>
   * <a href="#web-frameworks-full">Frameworks</a>
   * <a href="#middleware">Middleware</a>
-    * <a href="#middleware-jsgi">JSGI</a>
-    * <a href="#middleware-connect">Connect</a>
-    * <a href="#middleware-other">Other middleware</a>
+      * <a href="#middleware-jsgi">JSGI</a>
+      * <a href="#middleware-connect">Connect</a>
+      * <a href="#middleware-other">Other middleware</a>
   * <a href="#web-frameworks-other">Other</a>
 * <a href="#database">Database</a>
   * <a href="#db-mssql">MS SQL Server</a>
@@ -27,11 +27,11 @@ When you edit this list, also add your module to [[library-compatibility]] so th
   * <a href="#db-mysql">MySQL</a>
   * <a href="#db-sqlite">SQLite</a>
   * <a href="#db-nosql">NoSQL and Key/Value</a>
-    * <a href="#db-nosql-mongo">Mongo</a>
-    * <a href="#db-nosql-hive">Hive</a>
-    * <a href="#db-nosql-redis">Redis</a>
-    * <a href="#db-nosql-couch">CouchDB</a>
-    * <a href="#db-nosql-other">Other NoSQL implementations</a>
+      * <a href="#db-nosql-mongo">Mongo</a>
+      * <a href="#db-nosql-hive">Hive</a>
+      * <a href="#db-nosql-redis">Redis</a>
+      * <a href="#db-nosql-couch">CouchDB</a>
+      * <a href="#db-nosql-other">Other NoSQL implementations</a>
   * <a href="#db-misc">Miscellaneous and multiple DB</a>
 * <a href="#templating">Templating</a>
 * <a href="#css-engines"><span class="caps">CSS</span> Engines</a>
@@ -163,7 +163,7 @@ When you edit this list, also add your module to [[library-compatibility]] so th
 * [SocketStream](https://github.com/socketstream/socketstream) -- A fast full-stack real-time web framework for single-page apps
 * [spludo](http://spludo.com) -- A full featured web framework. Fully Async + MVC with DI, AOP and Storages. ([tutorial](http://docsforit.spludo.com/) + [user-guide](http://spludo.com/user-guide/full/))
 * [Seek](https://github.com/fk1blow/Seek/) -- Small Javascript Web framework - mostly for learning purpose
-* [Zeppelin](https://github.com/pelger/Zeppelin) -- An early stage, low friction cloud development framework    
+* [Zeppelin](https://github.com/pelger/Zeppelin) -- An early stage, low friction cloud development framework
 * [Kassit](https://github.com/marxus85/kassit) -- rapid building of client-side AJAX applications using [Backbone](http://documentcloud.github.com/backbone/) and [CoffeeScript](http://jashkenas.github.com/coffee-script/)
 * [BaseJump](https://github.com/mediaupstream/BaseJump) -- A RAD NodeJS Framework - Built on top of **Connect** (alpha release)
 * [JaxServer](http://www.jaxcore.com/jaxserver/) -- Application server and framework with template and css engines
@@ -301,7 +301,7 @@ When you edit this list, also add your module to [[library-compatibility]] so th
 * [db-mysql](https://github.com/mariano/node-db-mysql/) - Binary driver for MySQL (using libmysql). Part of the [Node.js DB](http://nodejsdb.org) effort
 * [node.dbslayer.js](https://github.com/Guille/node.dbslayer.js/) - Interface to DBSlayer (MySQL)
 * [node-poormansmysql](https://github.com/mscdex/node-poormansmysql) -- Asynchronous MySQL driver for node.js using the mysql command-line tool
-* [node-mysql](https://github.com/felixge/node-mysql) -- A node.js module implementing the MySQL protocol 
+* [node-mysql](https://github.com/felixge/node-mysql) -- A node.js module implementing the MySQL protocol
   * [node-mysql-pool](https://github.com/Kijewski/node-mysql-pool) -- connection pool for node.js on top of Felix Geisendörfer's MySQL client node-mysql.
   * [node-mysql-cache](https://github.com/guggero/node-mysql-cache) -- MySQL query cache for node.js on top of Felix Geisendörfer's MySQL client node-mysql.
 * <s>[node-mysql](https://github.com/masuidrive/node-mysql) -- Pure JavaScript MySQL async driver</s> [obsolete]
