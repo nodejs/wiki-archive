@@ -1210,6 +1210,7 @@ rendering process.
 * [poolr](https://github.com/codingforce/poolr) -- A lightweight resource pooling/serialization library 
 * [q](https://github.com/kriskowal/q) -- Q is a tool for making and composing asynchronous promises in JavaScript.
 * [read-files](https://github.com/pvorb/node-read-files) -- Asynchronously read a bunch of files and give a callback when reading is complete.
+* [SCION](https://github.com/jbeard4/SCION) -- StateCharts Interpretation and Optimization eNgine (SCION) is an implementation of SCXML/Statecharts in JavaScript.
 * [seq](https://github.com/substack/node-seq) -- Chainable asynchronous control flow for node.js with sequential and parallel primitives and pipeline-style error handling
 * [sexy](https://github.com/crabdude/sexy) -- Proxy (ES5) for writing sequential asynchronous code in a synchronous style
 * [Signals](http://millermedeiros.github.com/js-signals/) -- Custom Event/Messaging system which supports advanced features, doesn't rely on strings for the event publishing/subscribing and favor composition over inheritance.
