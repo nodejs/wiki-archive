@@ -1,4 +1,4 @@
-## Companies
+h2. Companies
 
 * "13 pass":http://www.13pass.com/ -- Uses node.js and mongoDb to deals with API or realtime websocket programming.
 * "37Signals":http://www.37signals.com/ -- Used node.js to write "Pow":http://pow.cx/, zero configuration Rack server for OS/X. 
@@ -128,7 +128,7 @@
 * "Wikia":http://www.wikia.com -- Chat
 * "Wompt":http://wompt.com -- A polished web-chatroom application with open authentication.
 * "XOXCO":http://xoxco.com --  a tiny product development firm in Austin, TX.  Our goal is to make products that allow people to play and work together in new ways.
-* "Yahoo!":http://www.yahoo.com -- Node.js is the basis of Yahoo! Manhattan, part of the "Cocktails platform":http://developer.yahoo.com/blogs/ydn/posts/2011/11/yahoo-announces-cocktails-%E2%80%93-shaken-not-stirred/.
+* "Yahoo!":http://www.yahoo.com -- Node.js is the basis of Yahoo! Manhattan, part of the "Cocktails platform":http://y.ahoo.it/hN9bV.
 * "Yammer":https://www.yammer.com -- The Yammer Application Platform heavily uses node.js
 * "YinzCam Inc.":http://yinzcam.com
 * "Ylastic":http://ylastic.com/ - uses node for report processing and admin app
@@ -138,7 +138,7 @@
 * "CellkastGames":http://www.tickade.com - Tickade is an online redemption games platform where players can play casual games by themselves or against each other for tickets. Players can exchange tickets for real world prizes of their choice delivered to their doors 
 
 
-## Websites and Applications
+h2. Websites and Applications
 
 This list is for websites and applications that are powered by node.js. If you've created a module (something which can *only* be run by being included into another project) then your project belongs on the "modules page":https://github.com/joyent/node/wiki/Modules instead. _If you spot modules here, feel free to remove them._
 
