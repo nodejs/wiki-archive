@@ -1016,6 +1016,7 @@ rendering process.
 <a name="wiki-graphics"></a>
 ## [Graphics](#graphics)
 
+* [magician](https://github.com/vdemedes/magician) -- Image manipulation for Node.js using ImageMagick.
 * [pdfkit](https://github.com/devongovett/pdfkit) -- A powerful PDF generation library for Node
 * [node-wkhtml](https://github.com/mhemesath/node-wkhtml) -- Convert HTML to PDF or PNG using the Webkit Rendering Engine.
 * [drawback](https://github.com/LearnBoost/drawback) -- Seamless way to render 2D drawings on the client side using HTML5 technologies with a server-side backend.
