@@ -1047,6 +1047,7 @@ rendering process.
 * [Face.js](https://github.com/talvarez/Face.js) -- Node.js module for detecting faces in images
 * [youtube-dl](https://github.com/fent/node-youtube-dl) -- youtube-dl driver for node
 * [node-handbrake](https://github.com/cwolves/node-handebrake) -- HandBrakeCLI wrapper to encode an entire folder of videos
+* [palette](https://github.com/visionmedia/palette) -- Image color palette extraction library built with node-canvas
 
 <a name="wiki-sound"></a>
 ## [Sound](#sound)
