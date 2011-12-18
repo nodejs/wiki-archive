@@ -4,7 +4,7 @@ _Please respect the formatting recommendations of the [Modules](https://github.c
 
 After [this thread](http://groups.google.com/group/nodejs/browse_thread/thread/c5fe809d3cf9ca72) I thought it'd be nice to have this here since a lot of node users are also vim users.
 
-Of course, if you don't use [Pathogen](http://www.vim.org/scripts/script.php?script_id=2332), you're not _really_ a vim user.
+Of course, if you don't use [Pathogen](http://www.vim.org/scripts/script.php?script_id=2332) (or [Vundle](http://github.com/gmarik/vundle)), you're not _really_ a vim user.
 
 ## Linter
 
