@@ -783,6 +783,7 @@ rendering process.
 * [should](https://github.com/visionmedia/should.js) -- expressive test framework agnostic BDD-style assertions
 * [sinon](https://github.com/cjohansen/sinon.js) -- JavaScript test spies, stubs and mocks for Node.js and the browser
 * [spectacular](https://github.com/jcrosby/spectacular) -- for testing
+* [speculum](https://github.com/edwardhotchkiss/speculum) -- BDD Test Suite.
 * [Soda](https://github.com/LearnBoost/soda) -- Selenium Node.JS adapter
 * [soda-runner](https://github.com/doug-martin/soda-runner) -- Provides a command line interface, runner, and selenium ide adapter for for soda.
 * [stest](https://github.com/siddMahen/stest) -- A sane event driven async testing framework.
