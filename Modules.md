@@ -705,7 +705,7 @@ rendering process.
 * [wave-node](https://github.com/scottbw/wave-node) -- An implementation of the Google Wave Gadget API for node.js
 * [node-object-sync](https://github.com/jonashuckestein/node-object-sync) -- Transparently synchronize objects across connected clients
 * [easywebsocket](https://github.com/jeromeetienne/EasyWebsocket) -- WebSocket to broadcast messages to webpages
-* [websocket-node](https://github.com/Worlize/WebSocket-Node) -- A WebSocket library that tracks the latest protocol draft versions released by the IETF HyBi working group, currently protocol version 8 (draft -08, -09, and -10).  Mainstream browsers do not yet support this draft of the protocol.
+* [websocket-node](https://github.com/Worlize/WebSocket-Node) -- A WebSocket library that implements the most current protocol versions, 8 and 13.  Version 13 is the latest version that is now the final WebSocket spec as [RFC 6455](http://datatracker.ietf.org/doc/rfc6455/)
 * [Beseda](https://github.com/geometria-lab/Beseda) -- Fast, well designed and featured Node.js Pub/Sub server. Beseda offers multiple platform API to develop realtime web applications.
 * [node-eventstream](https://github.com/kbjr/node-eventstream) -- A server-side companion to EventSource.
 * [ws](https://github.com/einaros/ws) -- Very fast, protocol conformant WebSocket client / console.
