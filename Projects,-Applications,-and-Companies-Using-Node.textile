@@ -111,7 +111,7 @@ h2. Companies
 * "Spoondate":http://spoondate.com - A delicious way to meet.
 * "Stanzr":http://stanzr.com -- Real-Time, Outbound, Social Media Conversations for businesses 
 * "Szpil":https://szpil.com - Keep detailed contact histories. Review past calls and conversations. Collaborate with colleagues. 
-* "Taffi Pizza":http://taffi-pizza.de - Food delivery in Geseke, Germany
+* "Taffi Pizza Geseke":http://taffi-pizza.de - Food delivery in Geseke, Germany
 * "Telefónica R&D":http://tid.es
 * "Thorcom Systems Ltd.":http://www.thorcom.co.uk/
 * "Thinkfuse":http://www.thinkfuse.com
