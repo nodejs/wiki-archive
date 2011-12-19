@@ -694,6 +694,8 @@ h2. UTC+1 (+2)
 ** "Website":http://knarf.se/ , "github":http://github.com/knarf-se
 * Zarko Stankovic, Belgrade, Serbia
 ** "GitHub":http://github.com/ManInTheBox, "Website":http://zarkostankovic.com
+* Ivan Loire, Zaragoza, Spain
+** "GitHub":http://github.com/iloire, "Website":http://iloire.com, "Twitter":http://twitter.com/ivanloire
 
 h2. UTC+2 (+3)
 
