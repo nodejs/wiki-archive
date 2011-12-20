@@ -379,6 +379,8 @@ h2. UTC-5 (-4)
 ** "Website":http://www.whatthedale.com/, "Github":http://github.com/dtan, "Twitter":http://twitter.com/whatthedale
 * Zachary Scott (zzak), Vermont
 ** "Github":http://github.com/zzak, "Website":http://zacharyscott.net/, "Blog":http://blog.zacharyscott.net/
+* Justin Plock, Fairfield, CT, US
+** "Github":http://github.com/jplock, "Twitter":http://twitter.com/jplock
 
 h2. UTC-4 (-3)
 
