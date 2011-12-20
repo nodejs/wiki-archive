@@ -259,7 +259,7 @@ h2. UTC-5 (-4)
 ** "GitHub":http://github.com/pjb3, "Twitter":http://twitter.com/pjb3, "Website":http://paulbarry.com
 * Marak Squires (JimBastard)
 ** "GitHub":http://github.com/marak, "Website":http://maraksquires.com, "Nodejitsu":http://nodejitsu.com, "node_debug":http://maraksquires.com/node_debug/
-* Edward Hotchkiss (hotch)
+* Edward Hotchkiss (hotch), New York, NY US
 ** "Twitter":http://twitter.com/kisshotch, "GitHub":http://github.com/edwardhotchkiss
 * Elijah Insua (tmpvar)
 ** "Twitter":http://twitter.com/tmpvar, "GitHub":http://github.com/tmpvar, "Nodejitsu":http://nodejitsu.com
