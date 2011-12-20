@@ -1194,6 +1194,7 @@ rendering process.
 * [promise](https://github.com/megakorre/promise) -- A Continuation handler (monad) with a condition system for errors
 * [groupie](https://github.com/alexkwolfe/groupie) -- A simple control flow library for executing multiple functions as a group or in a chain, calling back when complete.
 * [Ignite](http://www.ignitejs.com/) -- An easy-to-use async programming framework inspired by UML2 state machines.
+* [jam](http://github.com/chakrit/jam) -- Monadic continuation/callbacks/async helper.
 * [Jscex](http://github.com/JeffreyZhao/jscex) -- Transforms sync code into monadic, async code as the async support in F# and Scala.
 * [JobManager](https://github.com/demian85/node-jobmanager) -- A really simple tool that helps you manage multiple asynchronous tasks.
 * [miniqueue](https://github.com/hsch/node-miniqueue) -- A very simple in-memory queue for easy sequential processing
