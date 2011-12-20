@@ -1069,6 +1069,7 @@ rendering process.
 <a name="wiki-api-clients"></a>
 ## [API clients](#api-clients)
 
+* [ADAuthFTW](https://github.com/gfosco/ADAuthFTW) - Simple Active Directory authentication (Windows Only)
 * [alleup](https://github.com/tih-ra/alleup) - Flexible way to resize and upload images to Amazon S3 or file system storages 
 * [akismet-js](https://github.com/oozcitak/akismet-js) -- A client for the [Akismet spam detection API](http://akismet.com/development/api/)
 * [authome](https://github.com/jed/authome) - A dependency-free mutli-service authentication tool
