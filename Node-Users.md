@@ -728,7 +728,7 @@ h2. UTC+2 (+3)
 * Mihkel Sokk (msokk), Estonia
 ** "GitHub":http://github.com/msokk, "Twitter":http://twitter.com/mihkelsokk
 * Mustafa Paltun, Turkey
-** "GitHub":http://github.com/justbe, "Twitter":http://twitter.com/justbe_/
+** "GitHub":http://github.com/justbe, "Twitter":http://twitter.com/mpaltun/
 * Berker Peksag (berkerpeksag), Turkey
 ** "GitHub":http://github.com/berkerpeksag, "Blog":http://www.berkerpeksag.com, "Twitter":http://twitter.com/berkerpeksag
 * Kadir Pekel (kadirpekel), Turkey
