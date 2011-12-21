@@ -979,6 +979,7 @@ rendering process.
 * [node_debug](https://github.com/Connorhd/node_debug/tree/master) -- HTTP based console and object explorer
 * [ndb](https://github.com/smtlaissezfaire/ndb) -- traditional command line debugger (like gdb, ruby-debug, etc)
 * [node-profiler](https://github.com/bnoordhuis/node-profiler) -- access the V8 profiler from node.js
+* [node-tick](https://github.com/sidorares/node-tick) -- v8.log processor
 * [node-inspector](https://github.com/dannycoates/node-inspector) -- browser based node debugger
 * [node-custom-debug](https://github.com/bobrik/node-custom-debug) -- debugger on custom port on the fly, good addition for node-inspector to inspect many instances on the one server with ease
 * [node-cli](https://github.com/SchizoDuckie/Node-CLI/) -- cli.clear().move(20,20).color('green').write('Node-cli').down(1).back(7).color('yellow').write('Rocks!')
