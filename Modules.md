@@ -943,6 +943,7 @@ rendering process.
 * [tap](https://github.com/isaacs/node-tap) -- Tools for the [Test Anything Protocol](http://testanything.org/)
 * [semver](https://github.com/isaacs/node-semver) -- Parser used by npm for version numbers.
 * [node-tldtools](https://github.com/mjpearson/node-tldtools) -- Provides domain enquiry features, whois, TLD token extraction etc.
+* [ret.js](https://github.com/fent/ret.js) -- A regexp tokenizer.
 
 <a name="wiki-debugging"></a>
 ## [Debugging / Console Utilities](#debugging)
@@ -1278,3 +1279,4 @@ rendering process.
 * [version](https://github.com/edwardhotchkiss/version) -- NodeJS package.json version number fetcher
 * [node-ast-inlining](https://github.com/FGRibreau/node-ast-inlining) -- A small library that inline and expand function call
 * [attache.js](https://github.com/rodzyn/attache.js) - Very basic AOP implementation
+* [randexp.js](http://fent.github.com/randexp.js/) - Create random strings that match a given regular expression.
