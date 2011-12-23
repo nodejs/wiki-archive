@@ -1284,3 +1284,4 @@ rendering process.
 * [node-ast-inlining](https://github.com/FGRibreau/node-ast-inlining) -- A small library that inline and expand function call
 * [attache.js](https://github.com/rodzyn/attache.js) - Very basic AOP implementation
 * [randexp.js](http://fent.github.com/randexp.js/) - Create random strings that match a given regular expression.
+* [short](http://github.com/edwardhotchkiss/short/) -- NodeJS URL Shortener backed by MongooseJS w/ Complete Example Site
