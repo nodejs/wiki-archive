@@ -36,6 +36,8 @@ You may want to put the node executables in your path as well for easier use. Ad
 
     export PATH=$PATH:/opt/node/bin
 
+If you have SpiderMonkey installed, you may have some some conflicting includes. Set `CXXFLAGS="-I./deps/v8/src"` before building to prioritize the v8 files over SpiderMonkey's.
+
 [Configure shell script](http://apptob.org) for install node.js on Ubuntu
 
 ## Windows
