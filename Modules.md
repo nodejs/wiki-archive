@@ -472,6 +472,7 @@ rendering process.
 * [PURE](https://github.com/pure/pure) -- Unobtrusive Rendering Engine. The HTML view and the JS logic remain strictly separated. Works with jsdom.
 * [stencil](https://github.com/thetalecrafter/stencil) -- Renders asynchronous templates shared by server and browser
 * [Node-T](https://github.com/skid/node-t) -- A fast django-like templating engine for node.js
+* [plates](https://github.com/flatiron/plates) -- A fast, non-intrusive engine (similar to weld, but faster).
 * [shift.js](https://github.com/viatropos/shift.js) -- Standard interface to the Node.js template engines.
 * [Swig](https://github.com/paularmstrong/swig) -- Fast and powerful Django-style templates for node.js
 * [Templ8](https://github.com/constantology/Templ8) -- A fast, lightweight, yet powerful & feature rich client/ server template engine based on Django style syntax
