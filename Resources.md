@@ -59,3 +59,4 @@
 * "Belarusian":http://www.designcontest.com/show/node-js-be
 * "Farsi":http://nodejs.ir/
 * "Chinese":http://cnodejs.org
+* "Hebrew":http://nodejs.co.il/
