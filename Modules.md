@@ -1149,6 +1149,7 @@ rendering process.
 * [node-rapleaf](https://github.com/tralamazza/node-rapleaf) -- RapLeaf API client
 * [node-sendgrid](https://github.com/HerdHound/node-sendgrid) -- Sendgrid SMTP API headers library
 * [node-spore](https://github.com/francois2metz/node-spore) -- Node.js implementation of [spore](https://github.com/SPORE/) Generate api client with a json file.
+* [node-sunlightapi](https://github.com/clarle/node-sunlightapi) -- A client library for the Sunlight Labs Congress API
 * [node-taobao](https://github.com/e6nian/node-taobao/) -- A client library for taobao.com api
 * [node-twilio](https://github.com/sjwalter/node-twilio/) -- A helper library for the Twilio API
 * [node-twitter](https://github.com/jdub/node-twitter) -- Asynchronous Twitter REST/stream/search client for node.js
