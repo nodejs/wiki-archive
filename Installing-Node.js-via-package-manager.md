@@ -6,6 +6,9 @@ For Debian Squeeze:
     root@host: ~ # apt-get update
     root@host: ~ # apt-get install nodejs # Documentation is great.
 
+You may want to read about [Apt pinning](http://wiki.debian.org/AptPreferences) to limit the impact of using
+Sid packages on a Squeeze systems. (Sid breaks toys)
+
 ## Ubuntu
 
 Example install:
