@@ -739,6 +739,7 @@ rendering process.
 * [UberClass](https://github.com/daffl/uberclass) -- A class framework based on John Resig's Simple JavaScript inheritance and JavaScriptMVC $.Class.
 * [Structr](https://github.com/crcn/structr) -- Library built to give JavaScript the same look and feel as other popular languages such as Java. 
 * [N-Ext](https://github.com/xcambar/n-ext) -- Use the power of the Ext.data packages (from the ExtJS framework) in your NodeJS apps. Includes a MongoDB proxy based on [node-mongodb-native](https://github.com/xcambar/n-ext/node-mongodb-native))
+* [ease.js](http://easejs.org/) -- Classical Object-Oriented framework for JavaScript
 
 <a name="wiki-testing"></a>
 ## [Testing / Spec Frameworks](#testing)
