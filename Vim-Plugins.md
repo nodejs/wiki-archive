@@ -38,7 +38,7 @@ Of course, if you don't use [Pathogen](http://www.vim.org/scripts/script.php?scr
 
 ## Browsing
 
-* [Commant-T](http://www.vim.org/scripts/script.php?script_id=3025) TextMate-like Command-T explorer. Find files by pattern
+* [Command-T](http://www.vim.org/scripts/script.php?script_id=3025) TextMate-like Command-T explorer. Find files by pattern
 * [NERD_Tree](http://www.vim.org/scripts/script.php?script_id=1658) Tree filesystem browser
 * [Ack](https://github.com/mileszs/ack.vim) better than grep
 * [Fuzzyfinder] (http://www.vim.org/scripts/script.php?script_id=1984) find files by pattern
