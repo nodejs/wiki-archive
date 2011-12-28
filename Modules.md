@@ -872,6 +872,7 @@ rendering process.
 * [options.js](http://valeriu.palos.ro/1026/command-line-option-parser-in-javascript/) -- An inline (non-module!) options parser that is very small and yet quite complete.
 * [celeri.js](https://github.com/crcn/celeri) -- Complete command line interfaces lib for node.js
 * [nopt](https://github.com/isaacs/nopt) -- The command line options parser npm uses.
+* [dreamopt](https://github.com/andreyvit/dreamopt.js) -- Command-line parser with readable syntax from your sweetest dreams
 
 <a name="wiki-parser-generators"></a>
 ###  [Parser Generators](#parser-generators)
