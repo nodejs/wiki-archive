@@ -479,6 +479,7 @@ rendering process.
 * [Swig](https://github.com/paularmstrong/swig) -- Fast and powerful Django-style templates for node.js
 * [Templ8](https://github.com/constantology/Templ8) -- A fast, lightweight, yet powerful & feature rich client/ server template engine based on Django style syntax
 * [template.node.js](https://github.com/jazzychad/template.node.js) -- A light, fast, cached template module for node.
+* [thunder](https://github.com/dreamerslab/thunder) -- A lighting fast template parser for node.js
 * [tmpl-node](https://github.com/jed/tmpl-node) -- a feature-rich template module for node.js
 * [TwigJS](https://github.com/fadrizul/twigjs) -- A port of PHP template engine ([www.twig-project.org](http://www.twig-project.org)) to Javascript
 * [weld](https://github.com/hij1nx/weld) -- unobtrusive. portable. ANTI-TEMPLATING. Weld binds data to markup, and can generate markup based on your data.
