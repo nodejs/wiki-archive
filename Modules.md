@@ -481,6 +481,7 @@ rendering process.
 * [template.node.js](https://github.com/jazzychad/template.node.js) -- A light, fast, cached template module for node.
 * [thunder](https://github.com/dreamerslab/thunder) -- A lighting fast template parser for node.js. [Express](http://expressjs.com) compliant
 * [tmpl-node](https://github.com/jed/tmpl-node) -- a feature-rich template module for node.js
+* [tpl](https://github.com/pvorb/node-tpl) -- a general purpose template cli
 * [TwigJS](https://github.com/fadrizul/twigjs) -- A port of PHP template engine ([www.twig-project.org](http://www.twig-project.org)) to Javascript
 * [weld](https://github.com/hij1nx/weld) -- unobtrusive. portable. ANTI-TEMPLATING. Weld binds data to markup, and can generate markup based on your data.
 * [whiskers](https://github.com/gsf/whiskers.js) -- single-file, feature-sparse templating for node, express, and the browser
