@@ -1251,6 +1251,7 @@ rendering process.
 ## [I18n and L10n modules](#i18n)
 
 * [Lingo](http://bit.ly/cuaHAh) -- Inflection, transformation and more
+* [cld](https://github.com/dachev/cld) -- A straight port of the CLD (Compact Language Detector) library embedded in Google's Chromium browser.
 * [dialect](https://github.com/masylum/dialect) -- Translations for nodejs.
 * [dialect-http](https://github.com/masylum/dialect-http) -- http client to manage your dialect translations.
 * [node-i18n](https://github.com/ohaibbq/node-i18n) -- node-i18n is a minimalistic internationalization module with templating 
@@ -1262,7 +1263,6 @@ rendering process.
 * [lingua](https://github.com/akoenig/express-lingua) -- A i18n middleware for the Express.js framework.
 * [node-date-diff](https://github.com/morishani/node-date-diff) -- Calculates date differences and allows to format it nicely to your language (Eg. In one hour)
 * [node-language-detect](https://github.com/FGRibreau/node-language-detect) -- NodeJS language detection library using n-gram (which can identify up to 52 human languages)
-* [cld](https://github.com/dachev/cld) -- A straight port of the CLD (Compact Language Detector) library embedded in Google's Chromium browser.
 
 <a name="wiki-boilerplates"></a>
 ## [Boilerplates](#boilerplates)
