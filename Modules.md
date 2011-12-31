@@ -1262,6 +1262,7 @@ rendering process.
 * [lingua](https://github.com/akoenig/express-lingua) -- A i18n middleware for the Express.js framework.
 * [node-date-diff](https://github.com/morishani/node-date-diff) -- Calculates date differences and allows to format it nicely to your language (Eg. In one hour)
 * [node-language-detect](https://github.com/FGRibreau/node-language-detect) -- NodeJS language detection library using n-gram (which can identify up to 52 human languages)
+* [cld](https://github.com/dachev/cld) -- A straight port of the CLD (Compact Language Detector) library embedded in Google's Chromium browser.
 
 <a name="wiki-boilerplates"></a>
 ## [Boilerplates](#boilerplates)
