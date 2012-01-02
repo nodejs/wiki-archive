@@ -38,7 +38,7 @@ You may want to put the node executables in your path as well for easier use. Ad
 
 If you have SpiderMonkey installed, you may have some some conflicting includes. Set `CXXFLAGS="-I./deps/v8/src"` before building to prioritize the v8 files over SpiderMonkey's.
 
-[Configure shell script](http://apptob.org) for install node.js on Ubuntu
+[Configure shell script](http://apptob.org) for installing node.js on Ubuntu
 
 ## Windows
 
