@@ -949,7 +949,7 @@ rendering process.
 * [node-opmlparser](https://github.com/danmactough/node-opmlparser) - OPML parsing in Node.js
 * [VIE](https://github.com/bergie/VIE) - RDFa parsing in Node.js
 * [butter](https://github.com/rootslab/butter) - Butter === nodeJS Buffer + ( some hexadecimals delights )
-* [feedme.js](https://github.com/fent/feedme.js) -- RSS/Atom feed parser written with sax-js
+* [feedme.js](https://github.com/fent/feedme.js) -- RSS/Atom/JSON feed parser with streaming capabilities.
 * [JS-YAML](https://github.com/nodeca/js-yaml) -- Full featured YAML parser. Native PyYAML port.
 * [yamlish](https://github.com/isaacs/yamlish) -- Minimally featured YAML parser which handles the subset of YAML used by TAP.
 * [tap](https://github.com/isaacs/node-tap) -- Tools for the [Test Anything Protocol](http://testanything.org/)
