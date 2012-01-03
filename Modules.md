@@ -1141,7 +1141,7 @@ rendering process.
 * [node-gitteh](https://github.com/libgit2/node-gitteh) -- Async, stable, feature-complete bindings for the [libgit2](http://libgit2.github.com/) library.
 * [node-googleanalytics](https://github.com/ncb000gt/node-googleanalytics) -- Google Analytics GData export library
 * [node-googlemaps](https://github.com/moshen/node-googlemaps) -- A wrapper for the Google Maps API
-* [node-googleSearch](https://github.com/Nais/node-googleSearch) -- Implementation of Google Search API using node-dom
+* [node-googleSearch](https://github.com/Nais/node-googleSearch) -- Implementation of Google Search Ajax API using node-dom
 * [node-gravatar](https://github.com/arnabc/node-gravatar) -- Node.js Gravatar URL generator, can be used with Node.js blogging frameworks 
 * [node-klout](https://github.com/edwardhotchkiss/node-klout) -- Extremely reliable Node.js Klout API Wrapper
 * [node-loggly](https://github.com/nodejitsu/node-loggly) --A client implementation for Loggly in node.js
