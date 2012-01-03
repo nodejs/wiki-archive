@@ -1251,6 +1251,7 @@ rendering process.
 <a name="wiki-i18n"></a>
 ## [I18n and L10n modules](#i18n)
 
+* [i18next](https://github.com/jamuhl/i18next-node) -- express middleware, template support, clientside support
 * [Lingo](http://bit.ly/cuaHAh) -- Inflection, transformation and more
 * [cld](https://github.com/dachev/cld) -- A straight port of the CLD (Compact Language Detector) library embedded in Google's Chromium browser.
 * [dialect](https://github.com/masylum/dialect) -- Translations for nodejs.
