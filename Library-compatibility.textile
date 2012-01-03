@@ -1,5 +1,8 @@
 Node is under heavy development and its API changes rapidly. Instead of simply a listing of modules which may or may not work with the version of Node installed on one's computer, this will provide a list of module versions which are known to work with specific versions of node.
 
+h2. Node v0.6.0
+* "configme: v0.2.0":https://github.com/AndreasMadsen/configme
+
 h2. Node v0.5.0-pre
 * "quickcheck v0.0.0":https://github.com/mcandre/node-quickcheck
 * "node-flags v0.1":https://github.com/dpup/node-flags
