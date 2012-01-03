@@ -1299,3 +1299,4 @@ rendering process.
 * [attache.js](https://github.com/rodzyn/attache.js) - Very basic AOP implementation
 * [randexp.js](http://fent.github.com/randexp.js/) - Create random strings that match a given regular expression.
 * [short](http://github.com/edwardhotchkiss/short/) -- NodeJS URL Shortener backed by MongooseJS w/ Complete Example Site
+* [configme](https://github.com/AndreasMadsen/configme) -- Simplest possible configuration tool. without conflict - with defaulting!
