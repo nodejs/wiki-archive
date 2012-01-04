@@ -13,6 +13,7 @@ h2. Node v0.5.0-pre
 h2. Node v0.4.12
 * "libravatar v1.0":https://github.com/fmarier/libravatar
 * "node-force-domain v0.0.2":https://github.com/goloroden/node-force-domain
+* "rabbitmq-nodejs-client v0.0.2":https://github.com/adrai/rabbitmq-nodejs-client
 
 h2. Node v0.4.11
 * "nodebnf v0.0.9":https://github.com/navstev0/nodebnf
