@@ -5,6 +5,7 @@ only need 2 things:
 
 * **python** - version 2.5 or higher. The build tools distributed with
   Node run on python.
+ 
 
 * **libssl-dev** - If you plan to use SSL/TLS encryption in your
   networking, you'll need this.  Libssl is the library used in the
@@ -12,7 +13,29 @@ only need 2 things:
   it can usually be installed with your favorite package manager. The
   lib comes pre- installed on OS X.
 
-If you have any installation problems stop into [#node.js](http://webchat.freenode.net/?channels=node.js&uio=d4) on irc.freenode.net and ask questions.
+### Known Issues
+
+  If you receive an error during `./configure` like this
+  
+```
+File "/home/flo/node-v0.6.6/tools/waf-light", line 157, in <module>
+     import Scripting
+File "/home/flo/node-v0.6.6/tools/wafadmin/Scripting.py", line 146
+     except Utils.WafError, e:
+                          ^
+SyntaxError: invalid syntax
+```
+
+   it is because Python3 is your default Python version . To fix this issue you have to set Python2 temporary as your default Python:
+
+``` 
+ln -nsf `which python2` $HOME/bin/python 
+hash -r
+```
+
+Please make sure `$HOME/bin` comes before `/usr/bin` in your path
+
+If you have any further installation problems stop into [#node.js](http://webchat.freenode.net/?channels=node.js&uio=d4) on irc.freenode.net and ask questions.
 
 ## Unix
 
