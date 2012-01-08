@@ -28,6 +28,8 @@
 * "Setting up a Node.js development environment with NPM and Cloud9 IDE installed locally":http://www.cambus.net/setting-up-a-node-js-development-environment-with-npm-and-cloud9-ide-installed-locally/ -- by Frederic Cambus
 * "Node.js & WebSocket - Simple chat tutorial":http://www.martinsikora.com/nodejs-and-websocket-simple-chat-tutorial -- by Martin Sikora
 * "A Beginner’s Tutorial for Node.js":http://project70.com/nodejs/beginners-tutorial-node-js/ -- by Cedric Dussud
+* Exploring the V8 JS engine Part 1: http://jcla1.com/blog/2012/01/07/exploring-the-v8-js-engine-part-1/
+* Exploring the V8 JS engine Part 2: http://jcla1.com/blog/2012/01/08/exploring-the-v8-js-engine-part-2/
 
 ## Talks
 * "GoogleTechTalk: Node.js":http://www.youtube.com/watch?v=F6k8lTrAE2g -- by Ryan Dahl (video, 2010-07-28)
