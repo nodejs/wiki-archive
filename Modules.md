@@ -1287,6 +1287,7 @@ rendering process.
 ## [Continuous Integration Tools](#continuous-integration)
 
 * [nestor](https://github.com/cliffano/nestor) -- Jenkins Node.js CLI
+* [Jenkins API](https://github.com/jansepar/node-jenkins-api) -- An API written in Node for Jenkins, allowing you to trigger jobs, delete jobs, copy jobs, etc.
 
 <a name="wiki-ddd-cqrs-es"></a>
 ## [DDD, CQRS, EventSourcing](#ddd-cqrs-es)
