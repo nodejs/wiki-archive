@@ -26,14 +26,11 @@ File "/home/flo/node-v0.6.6/tools/wafadmin/Scripting.py", line 146
 SyntaxError: invalid syntax
 ```
 
-   it is because Python3 is your default Python version . To fix this issue you have to set Python2 temporary as your default Python:
+   it is because Python3 is your default Python version. To fix this issue you have to set Python2 temporary as your default Python:
 
-``` 
-ln -nsf `which python2` $HOME/bin/python 
-hash -r
 ```
-
-Please make sure `$HOME/bin` comes before `/usr/bin` in your path
+export PYTHON=`which python2`
+```
 
 If you have any further installation problems stop into [#node.js](http://webchat.freenode.net/?channels=node.js&uio=d4) on irc.freenode.net and ask questions.
 
