@@ -35,6 +35,7 @@ h2. Node v0.4.4
 
 h2. Node v0.4.3
 * "Mixpanel-node v0.0.3":https://github.com/carlsverre/mixpanel-node/tree/v0.0.3
+* "seki":https://github.com/danja/seki
 
 h2. Node v0.4.2
 * "node-imap @ 7a9ae9f":https://github.com/mscdex/node-imap/tree/7a9ae9f9bd1acf6a347328a6eeb5ce0a56575f70
