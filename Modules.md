@@ -674,6 +674,7 @@ rendering process.
 * [node-ping](https://github.com/c0d3x42/node-ping) -- Simple wrapper around fping 
 * [multiparter](https://github.com/Sonetica/multiparter) -- multipart/form-data POST request maker for Node.js with support for streams (sending files) and plain params
 * [watchmen](https://github.com/iloire/WatchMen) -- A simple HTTP monitor (pings sites and services with predefined parameters to make sure they are alive)
+* [needle](https://github.com/tomas/needle) -- Lightweight HTTP client with multipart support.
 
 <a name="wiki-rpc"></a>
 ## [RPC](#rpc)
