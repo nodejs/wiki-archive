@@ -42,6 +42,7 @@ h2. Companies
 * "Erskine Design":http://erskinedesign.com/ -- Real(ish)-time SNMP monitoring dashboard using websockets
 * "e-resistible":http://www.e-resistible.co.uk - uses node to handle network communication to restaurant printers
 * "Fictorial":http://fictorial.com
+* "FeedHenry":http://www.feedhenry.com - uses node to host server-side JS for mobile apps in a MEAP (Mobile Enterprise Application Platform)
 * "Forward":http://www.forwardtechnology.co.uk/ - Real-time mapping and click-tracking (also "Metris":http://nko2-forward.herokuapp.com/)
 * "Fostle":http://fostle.com/
 * "Geeklist":http://geekli.st/
