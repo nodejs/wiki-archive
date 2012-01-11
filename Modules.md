@@ -857,6 +857,7 @@ rendering process.
 * [node-o3-fastxml](https://github.com/ajaxorg/node-o3-fastxml) -- W3C Standards based XML DOM based on fastest xml parser in the world pugiXML
 * [libxmljs](https://github.com/polotek/libxmljs) -- Bindings to libxml2
 * [node-xml](https://github.com/robrighter/node-xml) -- An xml parser for node.js. (The github page for this module is showing some severe performance issues. Not recommended as an "out of the box" solution.)
+* [xmldom](https://github.com/jindw/xmldom) -- A PURE JS W3C Standard based DOMParser and XMLSerializer (DOM Level2 CORE). 
 * [sax-js](https://github.com/isaacs/sax-js) -- SAX-like parser in pure JS
 * [dom-js](https://github.com/teknopaul/dom-js) -- A pure JS XML DOM based on sax-js
 * [node-expat](https://github.com/astro/node-expat) -- Fast SAX parser binding to expat
