@@ -1193,6 +1193,7 @@ rendering process.
 * [twitter-search](https://github.com/edwardhotchkiss/twitter-search) -- Twitter API Search w/ search result pagination, returning up to 1500 queried tweets with RegEx search, kSorts, Klout scoring and filters
 * [VIE](https://github.com/bergie/VIE) -- Apache Stanbol and DBpedia API client for Node.js
 * [vimeo-client](https://github.com/tih-ra/vimeo-client) -- Vimeo API client for Node.js
+* [n-vimeo](https://github.com/alejandromg/node-vimeo) -- Vimeo API (for data) Integration, retrieve info about everything (video,user,activity) with ease, an extension of vimeo-client.
 * [virustotal.js](https://github.com/SaltwaterC/virustotal.js) -- VirusTotal API client for node.js
 * [waz-storage-js](https://github.com/jpgarcia/waz-storage-js) -- A simple implementation of Windows Azure Storage API for Node.js
 * [webmetrics](https://github.com/ryanbreen/node-webmetrics) -- A module for accessing the Webmetrics JSON API
