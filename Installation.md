@@ -34,6 +34,9 @@ export PYTHON=`which python2`
 
 If you have any further installation problems stop into [#node.js](http://webchat.freenode.net/?channels=node.js&uio=d4) on irc.freenode.net and ask questions.
 
+## GNU/Linux [ nodejs + npm ]
+    bash < <(http://h3manth.com/node)
+
 ## Unix
 
 Do something like this
@@ -60,8 +63,7 @@ If you have SpiderMonkey installed, you may have some some conflicting includes.
 
 [Configure shell script](http://apptob.org) for installing node.js on Ubuntu
 
-## GNU/Linux [ nodejs + npm ]
-    bash < <(http://h3manth.com/node)
+
 ## Windows
 
 You need python and Microsoft Visual Studio but not OpenSSL. In `cmd.exe` do the following
