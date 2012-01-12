@@ -512,7 +512,9 @@ rendering process.
 * [carto](https://github.com/mapbox/carto) -- Parses MSS templates and renders XML for [Mapnik](http://mapnik.org/)
 * [ccss](https://github.com/aeosynth/ccss) -- Parses a JavaScript object and renders css.
 * [less](https://github.com/cloudhead/less.js) -- Parses a LESS template and renders css.
-* [csslike](https://github.com/chjj/csslike) -- Parses and compiles CSS, taking into account the most recent www-style proposals.
+* [csslike](https://github.com/chjj/csslike) -- Parses and compiles CSS, taking into account the most recent 
+www-style proposals.
+* [CSSOM](https://github.com/NV/CSSOM) — Parses CSS into CSS Object Model.
 
 <a name="wiki-content-management"></a>
 ## [Content Management Systems](#content-management)
@@ -949,7 +951,6 @@ rendering process.
 * [memcache-parser](https://github.com/billywhizz/node-memcache-parser) - Memcached binary protocol parser
 * [fastcgi-parser](https://github.com/billywhizz/node-fastcgi-parser) - FastCGI protocol parser and Writer
 * [node-formidable](https://github.com/felixge/node-formidable) - A node.js module for parsing form data, especially file uploads.
-* [CSSOM](https://github.com/NV/CSSOM) - CSS parser and CSS Object Model implementation.
 * [glossy](https://github.com/squeeks/glossy) - Syslog message parser and producer
 * [UglifyJS](https://github.com/mishoo/UglifyJS) - JavaScript parser and compressor/beautifier
 * [epub](https://github.com/andris9/epub) - Parse EPUB electronic book files with Node.JS, load chapters, images etc.
