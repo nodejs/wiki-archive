@@ -34,16 +34,13 @@ export PYTHON=`which python2`
 
 If you have any further installation problems stop into [#node.js](http://webchat.freenode.net/?channels=node.js&uio=d4) on irc.freenode.net and ask questions.
 
-## GNU/Linux [ nodejs + npm ]
-    bash < <(http://h3manth.com/node)
-
-## Unix
+## GNU/Linux and other UNIX
 
 Do something like this
 
 ```
-tar -zxf node-v0.6.5.tar.gz
-cd node-v0.6.5
+tar -zxf node-v0.6.7.tar.gz
+cd node-v0.6.7
 ./configure
 make
 sudo make install
@@ -71,8 +68,6 @@ You may want to put the node executables in your path as well for easier use. Ad
     export PATH=$PATH:/opt/node/bin
 
 If you have SpiderMonkey installed, you may have some some conflicting includes. Set `CXXFLAGS="-I./deps/v8/src"` before building to prioritize the v8 files over SpiderMonkey's.
-
-[Configure shell script](http://apptob.org) for installing node.js on Ubuntu
 
 
 ## Windows
