@@ -54,7 +54,7 @@ cd node
 git checkout v0.6.7
 ./configure
 make
-make install
+sudo make install
 ```
 
 You may wish to install Node in a custom folder instead of a global directory. 
