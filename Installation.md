@@ -49,6 +49,17 @@ make
 sudo make install
 ```
 
+Or, if you'd like to install from the repository
+
+```
+git clone https://github.com/joyent/node.git
+cd node
+git checkout v0.6.7
+./configure
+make
+make install
+```
+
 You may wish to install Node in a custom folder instead of a global directory. 
 
     ./configure --prefix=/opt/node
