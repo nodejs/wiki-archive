@@ -1234,6 +1234,7 @@ www-style proposals.
 * [miniqueue](https://github.com/hsch/node-miniqueue) -- A very simple in-memory queue for easy sequential processing
 * [$N](https://github.com/chjj/-N) -- Simple control flow with pretty syntax.
 * [nestableflow](https://github.com/minodisk/flow-js) -- Asynchronous nestable flow-control (serial, parallel, repeat, wait, function) module for Node.js, RequireJS, and browser.
+* [node.flow](https://github.com/dreamerslab/node.flow) -- A deadly simple flow control package for node.js
 * [node-fnqueue](https://github.com/kilianc/node-fnqueue) -- Functions chain utility
 * [node-chain](https://github.com/ArtS/node-chain) -- Simple call chaining library for node.js
 * [node-continuables](https://github.com/bentomas/node-continuables) -- A library making dealing with asynchronous code easier
