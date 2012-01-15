@@ -23,6 +23,10 @@ h2. Modules
 Most modules can be found by "searching the npm registry":http://search.npmjs.org/ (Alternatively, use "eirikb's search":http://eirikb.github.com/nipster/)
 There is also a list of modules on this wiki: "Modules page":http://github.com/ry/node/wiki/modules.
 
+h2. Hosting
+
+"Managed providers, Self-Managed and DIY Platforms":https://github.com/joyent/node/wiki/Node-Hosting
+
 h2. Resources
 
 Besides the documentation on the "official site":http://nodejs.org here are links to "other resources":https://github.com/ry/node/wiki/Resources.
