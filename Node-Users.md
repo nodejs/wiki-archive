@@ -893,6 +893,8 @@ h2. UTC+9
 ** "github":http://github.com/sideshowbarker, "twitter":http://twitter.com/sideshowbarker, "w3.org/mike":http://people.w3.org/mike/
 * Jeonghoon Byun (outsider), South Korea
 ** "Twitter":http://twitter.com/outsider__/, "GitHub":http://github.com/outsideris, "Blog":http://blog.outsider.ne.kr/, "Website":http://sideeffect.kr/
+* Robert Gould (FugueNation), Tokyo
+** "Twitter":https://twitter.com/fuguenation "GitHub":http://github.com/FugueNation "GREE":http://www.gree.co.jp/
 * Toshihiro Shimizu (meso), Tokyo
 ** "github":http://github.com/meso, "Twitter":http://twitter.com/meso, "Node.js Japan User Group":http://nodejs.jp
 * Yoshiaki Kawazu (kawaz), Chiba
