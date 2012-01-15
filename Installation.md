@@ -32,7 +32,7 @@ SyntaxError: invalid syntax
 export PYTHON=`which python2`
 ```
 
-If you have any further installation problems stop into [#node.js](http://webchat.freenode.net/?channels=node.js&uio=d4) on irc.freenode.net and ask questions.
+Maybe you need to change your PYTHONHOME as well. If you have any further installation problems stop into [#node.js](http://webchat.freenode.net/?channels=node.js&uio=d4) on irc.freenode.net and ask questions.
 
 ## GNU/Linux and other UNIX
 
