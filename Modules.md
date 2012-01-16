@@ -795,6 +795,7 @@ www-style proposals.
 * [minitest.js](https://github.com/botanicus/minitest.js) -- Light-weight & simple testing framework designed specially for testing asynchronous code.
 * [mjsunit.runner](https://github.com/tmpvar/mjsunit.runner) -- Command line mjsunit runner which provides an easy way to hook into mjsunit and start running tests immediately.
 * [mocha](https://github.com/visionmedia/mocha) -- simple, flexible, fun javascript test framework for node.js & the browser
+* [mocha-cakes](https://github.com/quangv/mocha-cakes) -- BDD mocha test framework add-on, stories with Cucumber style Given/When/Then syntax for Node.js
 * [mockery](https://github.com/mfncooper/mockery) -- Simplifying the use of mocks with Node.js
 * [nock](https://github.com/pgte/nock) -- HTTP mocking and expectations library.
 * [node-assert-extras](http://gitorious.org/node-assert-extras) -- Additional high level asserts
