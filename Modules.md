@@ -809,6 +809,7 @@ www-style proposals.
 * [nodeunit](https://github.com/caolan/nodeunit) -- Simple syntax, powerful tools. Based on the assert module. Available for node.js and the browser!
 * [patr](https://github.com/kriszyp/patr) -- Promise-based asynchronous test runner: lightweight & simple.
 * [pit](https://github.com/akaspin/pit) -- Simple drop-in test runner with optional control tools
+* [platoon](https://github.com/chrisdickinson/platoon) -- A javascript testing framework whose goals are to work gracefully with callbacks, both in node.js and the browser
 * [reut](https://github.com/5long/reut) -- Heavyweight unit testing framework.
 * [should](https://github.com/visionmedia/should.js) -- expressive test framework agnostic BDD-style assertions
 * [sinon](https://github.com/cjohansen/sinon.js) -- JavaScript test spies, stubs and mocks for Node.js and the browser
