@@ -54,9 +54,9 @@ Node.js is available in the Community Repository.
     pacman -S nodejs
 
 ## OSX
-Using [a package](https://sites.google.com/site/nodejsmacosx)
+Using [a package](http://nodejs.org/#download)
 
-> Simply [download](https://sites.google.com/site/nodejsmacosx) and double-click.
+> Simply [download](http://nodejs.org/#download) and select Macintosh Installer.
 
 Using [homebrew](https://github.com/mxcl/homebrew):
 
