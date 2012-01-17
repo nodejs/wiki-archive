@@ -972,6 +972,8 @@ www-style proposals.
 * [JS-YAML](https://github.com/nodeca/js-yaml) -- Full featured YAML parser. Native PyYAML port.
 * [yamlish](https://github.com/isaacs/yamlish) -- Minimally featured YAML parser which handles the subset of YAML used by TAP.
 * [tap](https://github.com/isaacs/node-tap) -- Tools for the [Test Anything Protocol](http://testanything.org/)
+* [yamlparser](https://github.com/h4evr/commonjs-javascript-yaml-parser) -- A JavaScript YAML parser.
+* [yamlprompt](https://github.com/pvorb/node-yamlprompt) -- A prompt that asks for YAML input. Depends on yamlparser.
 * [semver](https://github.com/isaacs/node-semver) -- Parser used by npm for version numbers.
 * [node-tldtools](https://github.com/mjpearson/node-tldtools) -- Provides domain enquiry features, whois, TLD token extraction etc.
 * [ret.js](https://github.com/fent/ret.js) -- A regexp tokenizer.
