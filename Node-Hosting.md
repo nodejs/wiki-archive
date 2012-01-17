@@ -16,7 +16,7 @@ Name | Node Version | Web Sockets | IP/Hostname | IRC | Repository | Free Plan |
 [no.de](http://no.de) | 0.4.11 | | Paid plan | #joyent | [joyent](http://github.com/joyent) | Yes - 128 MB Ram | | 
 [NodeSocket](http://www.nodesocket.com) | 0.4.12 | Yes | Yes | | [nodesocket](https://github.com/nodesocket) | | | In Private Beta
 [Nodejitsu](http://nodejitsu.com) | 0.4.12, 0.6.x | Yes | Yes | #nodejitsu | [nodejitsu](http://github.com/nodejitsu) | Free - More info after beta | | In Private Beta
-[Nodester](http://nodester.com) | | | | |[nodester](https://github.com/nodester) | | | Open source Node.JS hosting platform and services
+[Nodester](http://nodester.com) | 0.4.9 | Yes | Yes | #nodester |[nodester](https://github.com/nodester) | Yes - Unlimited | No | Open (with invite)
 [JSApp.US](http://jsapp.us) | | | No | | [node-host](https://github.com/matthewfl/node-host) | | | Open signup, web editing/npm command
 
 Empty cells mean we weren't sure what to put there. 
