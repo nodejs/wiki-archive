@@ -1326,3 +1326,4 @@ www-style proposals.
 * [randexp.js](http://fent.github.com/randexp.js/) - Create random strings that match a given regular expression.
 * [short](http://github.com/edwardhotchkiss/short/) -- NodeJS URL Shortener backed by MongooseJS w/ Complete Example Site
 * [configme](https://github.com/AndreasMadsen/configme) -- Simplest possible configuration tool. without conflict - with defaulting!
+* [sigar](https://github.com/wdavidw/node-sigar) -- Node Binding to SIGAR (System Information Gatherer And Reporter)
