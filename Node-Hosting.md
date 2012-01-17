@@ -31,7 +31,7 @@ VPS providers, which often require you to set everything up yourself, including 
 * [DreamHostPS](http://www.dreamhost.com/hosting-vps.html) - Need a total reconfiguration of virtual machines
 * [Gandi](http://en.gandi.net/hosting)
 * [GleSYS](http://glesys.com/vps.php)
-* [IPAP](http://ipap.co) Consult the many comments at [lowendbox](http://www.lowendbox.com/) before considering these guys…
+* [IPAP](http://ipap.co) - Consult the many comments at [lowendbox](http://www.lowendbox.com/) before considering these guys…
 * [Joyent](http://www.joyent.com/services/cloudhosting)
 * [Linode](http://www.linode.com)
 * [Oversun Scalaxy](http://www.scalaxy.ru) - Site in Russian
