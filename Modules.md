@@ -1053,6 +1053,7 @@ www-style proposals.
 <a name="wiki-graphics"></a>
 ## [Graphics](#graphics)
 
+* [navcodec](https://github.com/OptimalBits/navcodec) -- Node bindings for libavcodec (ffmpeg).
 * [magician](https://github.com/vdemedes/magician) -- Image manipulation for Node.js using ImageMagick.
 * [pdfkit](https://github.com/devongovett/pdfkit) -- A powerful PDF generation library for Node
 * [node-wkhtml](https://github.com/mhemesath/node-wkhtml) -- Convert HTML to PDF or PNG using the Webkit Rendering Engine.
