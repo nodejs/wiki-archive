@@ -1031,7 +1031,7 @@ www-style proposals.
 * [Winston](https://github.com/indexzero/winston) -- A multi-transport async logging library for node.js
 * [flume-rpc](https://github.com/recoset/node-flume-rpc) -- A flume-compatible (RPC) logging source and sink
 * [NodeLog](https://github.com/FabianM/NodeLog) -- Logging library for Node.js based on the java.util.logging library.
-* [UltraREPL](https://github.com/Benvie/Node.js-Ultra-REPL) -- Starting with Node's built in REPL, add in a completely redone inspect formatter, actual functioning separate V8 contexts, keybindings to create, switch, and delete between them, combine it with a bunch of color.
+* [UltraREPL](https://github.com/Benvie/Node.js-Ultra-REPL) -- Replaces Node's built-in REPL with customizable keybindings, a significantly enhanced inspector with hidden/builtin/depth toggles, simultaneous independent V8 contexts, syntax highlighting, and a full-fledged plug-in system including CoffeeScript contexts, SpiderMonkey contexts, and more.
 
 <a name="wiki-compression"></a>
 ## [Compression](#compression)
