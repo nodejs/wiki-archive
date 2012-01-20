@@ -1115,6 +1115,7 @@ www-style proposals.
 * [authome](https://github.com/jed/authome) - A dependency-free mutli-service authentication tool
 * [aws2js](https://github.com/SaltwaterC/aws2js) -- Amazon Web Services APIs client implementation for node.js. Simple to use and extend.
 * [aws-lib](https://github.com/mirkok/aws-lib) -- An extensible library for Amazon Web Services including EC2, SimpleDB and the Product Advertising API
+* [aws-snsclient](https://github.com/mattrobenolt/node-snsclient) -- A client for handling Amazon AWS SNS endpoints
 * [awssum](https://github.com/appsattic/node-awssum) -- NodeJS modules for talking to lots of Web Service APIs
 * [calais](https://github.com/mcantelon/node-calais) -- Semantically analyze text using the Calais web service
 * [cpanel-lib](https://github.com/vially/cpanel-lib) -- Node.js client for the cPanel/WHM API
