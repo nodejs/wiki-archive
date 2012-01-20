@@ -1223,6 +1223,7 @@ www-style proposals.
 * [chainsaw](https://github.com/substack/node-chainsaw) -- Build chainable fluent interfaces the easy way in node.js
 * [channels](https://github.com/Pita/channels) -- Event channels for node.js
 * [Cinch](https://github.com/pguillory/cinch) -- Write async code in sync form.
+* [cloudd](https://github.com/truepattern/cloudd) -- Job manager, runs set of tasks defined using a DAG definition
 * [deferred](https://github.com/medikoo/deferred) -- Asynchronous control-flow with deferred and promises
 * [each](https://github.com/wdavidw/node-each) -- Chained and parallel async iterator in one elegant function
 * [EventProxy.js](https://github.com/JacksonTian/eventproxy) -- An implementation of task/event based asynchronous pattern. Use events to avoid dirty callbacks.
