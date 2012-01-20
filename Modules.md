@@ -642,7 +642,7 @@ www-style proposals.
 <a name="wiki-tcp"></a>
 ## [TCP / IP](#tcp)
 
-* [shred](https://github.com/spire-io/shred) -- Simple HTTP client with nice interface.  Supports gzip, cookies, https, and redirects.
+* [shred](https://github.com/spire-io/shred) -- HTTP client library for Node.js and browsers.  Supports gzip, cookies, https, proxies, and redirects.
 * [node-httpclient](https://github.com/billywhizz/node-httpclient) -- Node HTTP Client (gzip, https, cookies etc.)
 * [node-imap](https://github.com/mscdex/node-imap) -- A module for interacting with IMAP mail servers
 * [jsftp](https://github.com/sergi/jsftp) -- A sane, light and concise client implementation of the FTP protocol
