@@ -50,6 +50,7 @@ h2. Companies
 * "Gigboard":http://gigboard.com - Locational based gig finder.
 * "GoInstant":http://goinstant.com - No install, web co-browsing
 * "GoodData":http://www.gooddata.com Metric-driven analytics SAAS BI - the Way It Should Be
+* "GREE":http://gree-corp.com/ - Largest mobile social game platform (GREE & OpenFeint)
 * "Heroku":http://blog.heroku.com/archives/2010/4/28/node_js_support_experimental/ Dead simple Node deployment for you, and internal tools for us.
 * "Humansized Inc.":http://www.humansized.com
 * "IDFuze":http://www.idfuze.com - Working on a real time cards game using node.js and socket.io
