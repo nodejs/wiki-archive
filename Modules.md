@@ -1,4 +1,4 @@
-Check out [search.npmjs.org](http://search.npmjs.org/) too.
+## Search for modules with [search.npmjs.org](http://search.npmjs.org/), as well as [toolbox.no.de](http://toolbox.no.de/).
 
 ## Adding to this page
 
