@@ -12,7 +12,7 @@ When editing this page please be as detailed as possible. Examples are encourage
 
  * `http`
    * `http.Server` emits `'connect'` event instead of `'upgrade'` when the CONNECT method is requested.
-   * `http.ClientRequest` emits `'connect'` event instead of `'request'` when the CONNECT method is responded, 
+   * `http.ClientRequest` emits `'connect'` event instead of `'request'` when the CONNECT method is responded.
 
 ## Added:
 
@@ -33,7 +33,7 @@ When editing this page please be as detailed as possible. Examples are encourage
 
  * `tls`
    * `tls.connect(options, [secureConnectionListener])`
-   * `rejectUnauthorized` option to `tls.connect()`.
+   * `rejectUnauthorized` and `socket` options to `tls.connect()`.
 
  * `zlib`
    * `dictionary` option.
