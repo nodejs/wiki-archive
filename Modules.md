@@ -538,6 +538,7 @@ www-style proposals.
 <a name="wiki-build-and-deployment"></a>
 ## [Build and Deployment](#build-and-deployment)
 
+* [reloader](https://github.com/konteck/reloader) -- Reload app on it's source code change. Suitable to work both on production and development machines. Act as usual NodeJS module.
 * [always](https://github.com/edwardhotchkiss/always) -- A CLI & Daemon tool to run a NodeJS process Forever, restarting on file changes & crashes with piping to stdout or log files.
 * [asereje](https://github.com/masylum/asereje) -- Bundles and minifies your javascript and css files on demand. Forget about builds, hard deploys and cache forever.
 * [dev](https://github.com/iliakan/node-dev) -- Automatically restarts the app when a source-file is modified. Autohooks on new files, so it doesn't need manual restart at all.
