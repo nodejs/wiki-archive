@@ -15,7 +15,6 @@ When editing this page please be as detailed as possible. Examples are encourage
    * the `exit` event is renamed to `death`.
    * the `kill` method is renamed to `destroy`.
    * the `CLUSTER_WORKER_ID` env is now called `CLUSTER_UNIQUE_ID`, but you should not have used that any way.
-   * `env` optional argument to `cluster.fork()`.
 
  * `http`
    * `http.Server` emits `'connect'` event instead of `'upgrade'` when the CONNECT method is requested.
@@ -26,6 +25,7 @@ When editing this page please be as detailed as possible. Examples are encourage
  * `cluster`
    * `'fork'`, `'online'`, `'listening'` events.
    * `Worker` object which is provided from `cluster.workers` (in the master) or `cluster.worker` (in the worker).
+   * `env` optional argument to `cluster.fork()`.
 
  * `fs`
    * `fs.appendFile()`, `fs.appendFileSync()`.
