@@ -11,6 +11,10 @@ When editing this page please be as detailed as possible. Examples are encourage
 ## Changed:
 
  * `cluster`
+   * `cluster.fork()` no longer return a `child_process.fork()` object use `cluster.fork().process` to get the object.
+   * the `exit` event is renamed to `death`.
+   * the `kill` method is renamed to `destroy`.
+   * the `CLUSTER_WORKER_ID` env is now called `CLUSTER_UNIQUE_ID`, but you should not have used that any way.
    * `env` optional argument to `cluster.fork()`.
 
  * `http`
