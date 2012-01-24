@@ -485,7 +485,7 @@ h2. UTC±0 (+1)
 ** "GitHub":http://github.com/premasagar, "Twitter":http://twitter.com/premasagar, "Website":http://dharmafly.com
 * Paulo Ferreira (paulobsf)
 ** "GitHub":http://github.com/paulobsf, "Twitter":http://twitter.com/paulobsf, "Website":http://paulobsf.tumblr.com
-* Remy Sharp
+* Remy Sharp (rem), UK
 ** "Website":http://remysharp.com/, "GitHub":http://github.com/remy, "Twitter":http://twitter.com/rem
 * Seyi Ogunyemi
 ** "GitHub":http://github.com/micrypt, "Twitter":http://twitter.com/micrypt, "Website":http://micrypt.com
