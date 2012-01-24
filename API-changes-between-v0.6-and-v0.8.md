@@ -12,23 +12,31 @@ When editing this page please be as detailed as possible. Examples are encourage
 
  * `cluster`
    * `cluster.fork()` no longer return a `child_process.fork()` object use `cluster.fork().process` to get the object.
-   * the `exit` event is renamed to `death`.
-   * the `kill` method is renamed to `destroy`.
+   * the `'exit'` event is renamed to `'death'`.
+   * the `kill()` method is renamed to `destroy()`.
    * the `CLUSTER_WORKER_ID` env is now called `CLUSTER_UNIQUE_ID`, but you should not have used that any way.
 
  * `http`
    * `http.Server` emits `'connect'` event instead of `'upgrade'` when the CONNECT method is requested.
    * `http.ClientRequest` emits `'connect'` event instead of `'request'` when the CONNECT method is responded.
 
+ * `process`
+   * `arguments` and `options` arguments of `process.fork()` became an option.
+
 ## Added:
 
  * `cluster`
-   * `'fork'`, `'online'`, `'listening'` events.
+   * `'fork'`, `'online'`, `'listening'`, and `'setup'` events.
    * `Worker` object which is provided from `cluster.workers` (in the master) or `cluster.worker` (in the worker).
    * `env` optional argument to `cluster.fork()`.
+   * `cluster.setupMaster()` and `cluster.settings`.
+
+ * `crypto`
+   * `cipher.setAutoPadding()` and `decipher.setAutoPadding()`.
 
  * `fs`
    * `fs.appendFile()`, `fs.appendFileSync()`.
+   * `fs.exists()` and `fs.existsSync()`.
 
  * `https`
    * `rejectUnauthorized` option to `https.request()` and `https.get()`.
@@ -37,13 +45,13 @@ When editing this page please be as detailed as possible. Examples are encourage
    * `net.connect(options, [connectionListener)`.
 
  * `process`
-   * `process.abort()`
+   * `process.abort()`.
 
  * `querystring`
-   * `querystring.parse(str, [sep], [eq], [options])`
+   * `querystring.parse(str, [sep], [eq], [options])`.
 
  * `tls`
-   * `tls.connect(options, [secureConnectionListener])`
+   * `tls.connect(options, [secureConnectionListener])`.
    * `rejectUnauthorized` and `socket` options to `tls.connect()`.
 
  * `zlib`
