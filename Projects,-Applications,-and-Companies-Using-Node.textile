@@ -43,6 +43,7 @@ h2. Companies
 * "e-resistible":http://www.e-resistible.co.uk - uses node to handle network communication to restaurant printers
 * "Fictorial":http://fictorial.com
 * "FeedHenry":http://www.feedhenry.com - uses node to host server-side JS for mobile apps in a MEAP (Mobile Enterprise Application Platform)
+* "Fog Creek":http://blog.fogcreek.com/the-trello-tech-stack/ - uses node to power "Trello":http://trello.com, its "list-of-lists" collaboration web app
 * "Forward":http://www.forwardtechnology.co.uk/ - Real-time mapping and click-tracking (also "Metris":http://nko2-forward.herokuapp.com/)
 * "Fostle":http://fostle.com/
 * "Geeklist":http://geekli.st/
@@ -272,6 +273,7 @@ This list is for websites and applications that are powered by node.js. If you'v
 * "The-M-Project":https://github.com/mwaylabs/the-m-project - HTML5 JavaScript framework for mobile apps with nodeJS build tool
 * "TileMill":http://tilemill.com -- A map design studio built by "DevelopmentSeed":http://developmentseed.org
 * "Top Twitter Trends":http://www.toptwittertrends.com -- Real time trending tweets by node.js, nginx and mongodb
+* "Trello":http://trello.com -- single-page web app collaboration tool from Fog Creek
 * "Trending Topics Client":http://github.com/fczuardi/ttc -- Command line tool to get trending topics from Twitter
 * "TxtAtlas: Put your texts on the map":http ://txtatlas.com -- A demo Twilio/Node.js/Redis application by Stephen J. Walters
 * "vertex.js":http://github.com/stevedekorte/vertex.js - A graph database inspired by filesystems built on node.js and tokyocabinet.
