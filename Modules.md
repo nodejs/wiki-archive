@@ -606,6 +606,7 @@ www-style proposals.
 * [node-hashring](https://github.com/3rd-Eden/node-hashring) -- Hash ring provides consistent hashing based on the libketema library.
 * [packnode](https://github.com/chriso/packnode) -- Obfuscate, minify and/or encrypt JS files
 * [hashlib](https://github.com/brainfucker/hashlib) -- Fast hashing module, written in C/C++, supports: md4, md5, md6, sha, sha1, sha256, sha512
+* [jsHashes](https://github.com/h2non/jsHashes) -- A hash algorithm independent library purely JavaScript implemented for both server and client side. Support: MD5, SHA1, SHA256, SHA512, RIPEMD-160, HMAC including Base64 encode/decode, CRC-32 and full UTF-8 support. 
 * [keygrip](https://github.com/jed/keygrip) -- Key signing and verification for rotated credentials
 * [brainfucker's node-base64](https://github.com/brainfucker/node-base64) -- C++ base64 lib
 * [pkrumins's node-base64](https://github.com/pkrumins/node-base64) -- C++ base64 lib that actually works
