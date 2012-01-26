@@ -1043,6 +1043,7 @@ www-style proposals.
 <a name="wiki-compression"></a>
 ## [Compression](#compression)
 
+* [crsh](https://github.com/qard/crsh) -- merge and minify groups of js files and recompile when changes occur
 * [gzippo](https://github.com/tomgallacher/gzippo) -- gzip static content files with Connect/Express using node-compress
 * [connect-gzip](https://github.com/nateps/connect-gzip) -- gzip middleware for Connect. Contains middleware for gzipping and serving static files as well as gzipping responses dynamically 
 * [gzip](https://github.com/indutny/node.gzip) -- simple compression using default linux "gzip" utility
