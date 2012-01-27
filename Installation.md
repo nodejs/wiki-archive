@@ -72,21 +72,5 @@ If you have SpiderMonkey installed, you may have some some conflicting includes.
 
 ## Windows
 
-You need python and Microsoft Visual Studio but not OpenSSL. In `cmd.exe` do the following
 
-```
-C:\Users\ryan>tar -zxf node-v0.6.5.tar.gz
-C:\Users\ryan>cd node-v0.6.5
-C:\Users\ryan\node-v0.6.5>vcbuild.bat release
-[Wait 20 minutes]
-C:\Users\ryan\node-v0.6.5>Release\node.exe
-> process.versions
-{ node: '0.6.5',
-  v8: '3.6.6.11',
-  ares: '1.7.5-DEV',
-  uv: '0.6',
-  openssl: '0.9.8r' }
->
-```
-
-The executable will be in `Release\node.exe`.
+You just need 'node.msi'. Click node.msi , and then click 'next' ...
