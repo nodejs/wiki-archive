@@ -2,6 +2,7 @@ Node is under heavy development and its API changes rapidly. Instead of simply a
 
 h2. Node v0.6.0
 * "configme: v0.2.0":https://github.com/AndreasMadsen/configme
+* "node-talib: v0.1.0":https://github.com/oransel/node-talib
 
 h2. Node v0.5.0-pre
 * "quickcheck v0.0.0":https://github.com/mcandre/node-quickcheck
