@@ -1332,6 +1332,7 @@ www-style proposals.
 * [audience-meter](https://github.com/rs/audience-meter) -- A simple audience meter based on Socket.IO, perfect for live events tracking
 * [node-browserify](https://github.com/substack/node-browserify) -- Browser-side require() for your node modules and npm packages
 * [nova](https://github.com/wearefractal/nova) -- Node.js libraries ported to the browser. Write once, run everywhere.
+* [node-talib](https://github.com/oransel/node-talib) -- Technical Analysis Library with 100+ indicators and candlestick pattern recognition
 * [behaviors](https://github.com/caolan/behaviors) -- A simple way to check a module's exports, useful for 3rd party plugins and extensions
 * [box2dnode](https://github.com/jadell/box2dnode) -- Port of the box2d physics simulation library
 * [node-bullet](https://github.com/feisty/bullet) -- [Bullet Physics](http://bulletphysics.org/) for node.js
