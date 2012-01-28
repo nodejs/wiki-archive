@@ -62,12 +62,14 @@ h2. UTC-8
 ** "GitHub":http://github.com/rsdoiel, "Twitter":http://twitter.com/rsdoiel, "Website":http://phizcode.blogspot.com
 * Schell Scivally (efnx), Santa Rosa, CA, US
 ** "GitHub":http://github.com/efnx, "Website":http://blog.efnx.com
+* Christian Sullivan (euforic), Newport Beach, CA, US
+** "GitHub":http://github.com/euforic, "Website":http://roguesynaptics.com, "Company":http://xogix.com
 * Ben Lund
 ** "GitHub":http://github.com/benlund, "Website":http://team.academia.edu/BenLund
 * Stephen Belanger (qard), Vancouver, BC, Canada
 ** "GitHub":http://github.com/qard, "Website":http://www.stephenbelanger.com
 * Matt Ranney (mjr), Oakland, CA, US
-** "GitHub":http://github.com/mranney, "Twitter":http://twitter.com/mranney
+** "GitHub":http://github.com/mranney, "Twitter":http://twitter.com/mranney, "Twitter":http://twitter.com/euforic, "Company":http://xogix.com
 * Aaron Blohowiak (aaronblohowiak)
 ** "GitHub":http://github.com/aaronblohowiak, "Twitter":http://twitter.com/aaronblohowiak, "Blog":http://aaronblohowiak.com
 * Matthew Lyon (mattly)
