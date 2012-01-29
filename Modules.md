@@ -579,6 +579,7 @@ www-style proposals.
 * [modul8](https://github.com/clux/modul8) -- Extensible CommonJS browser code sharing
 * [coffee-toaster](https://github.com/serpentem/coffee-toaster) -- Minimalist dependency management system for coffee-script. 
 * [watch-node](https://github.com/viatropos/watch-node) -- Automatically restart Node.js server when a file changes, recompile JS/CSS. Do anything. Uses Mac FSEvents.
+* [start-stop-daemon](https://github.com/jiem/start-stop-daemon) -- An 1-function Node.js module to easily create native `child_process.fork` start-stop-daemon scripts with crash monitoring & automatic restarts.
 
 <a name="wiki-package-management"></a>
 ## [Package Management Systems](#package-management)
