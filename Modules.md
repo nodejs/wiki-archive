@@ -526,6 +526,7 @@ rendering process.
 * [csslike](https://github.com/chjj/csslike) -- Parses and compiles CSS, taking into account the most recent 
 www-style proposals.
 * [CSSOM](https://github.com/NV/CSSOM) — Parses CSS into CSS Object Model.
+* [Csster](https://github.com/ndp/csster) — Write CSS in JS or Coffeescript, with macros, color math, etc.
 
 <a name="wiki-content-management"></a>
 ## [Content Management Systems](#content-management)
