@@ -540,6 +540,7 @@ www-style proposals.
 * [NoCR](https://github.com/NoCR/NoCR) - JCR-inspired Content Repository API for Node.js which maps your content model to a tree of nodes and properties. There is a [MongoDB NoCR provider](https://github.com/karacos/nocr-mongo) available
 * [reed](https://github.com/ProjectMoon/reed) - A Markdown-based blogging core backed by Redis and the filesystem.
 * [MCMS](https://github.com/olegp/mcms) - A Minimal CMS using GitHub flavored Markdown, Mustache templates and the filesystem.
+* [jslardo](https://github.com/obliquid/jslardo) -- A Social CMS, where users are able to register to the application, create their own models (mongoose schemas), views, controllers, websites and pages. Work in progress, keep updated!
 
 <a name="wiki-build-and-deployment"></a>
 ## [Build and Deployment](#build-and-deployment)
