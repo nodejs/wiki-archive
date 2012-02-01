@@ -18,6 +18,7 @@ h2. Companies
 * "Bocoup":http://bocoup.com
 * "BrandedCode":http://brandedcode.com
 * "browserling":http://browserling.com - test all the browsers in your browser!
+* "Bubbler":http://bubbler.com - Bubbles up contextually useful information as you work!
 * "Caffeinehit":http://caffeinehit.com
 * "Chomp":http://chomp.com - mobile application search, uses node for components of the production backend
 * "Chompin":http://chompin.com - discover new music, mobile app, uses node for the entire back end api
