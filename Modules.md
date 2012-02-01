@@ -1334,6 +1334,7 @@ www-style proposals.
 <a name="wiki-ddd-cqrs-es"></a>
 ## [DDD, CQRS, EventSourcing](#ddd-cqrs-es)
 * [nodeEventStore](https://github.com/KABA-CCEAC/nodeEventStore) -- EventStore (Events and Snapshots) supporting MongoDb, CouchDb, Redis
+* [nodeEventedCommand](https://github.com/adrai/nodeEventedCommand) -- provides simple command/event handling for evented systems like cqrs
 
 <a name="wiki-other"></a>
 ## [Other](#other)
