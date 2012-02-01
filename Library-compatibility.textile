@@ -56,6 +56,7 @@ h2. Node v0.4.0
 * "node-sqlite3":https://github.com/developmentseed/node-sqlite3
 * "node2node-socket.io":https://github.com/dotmaster/node2node-socket.io
 * "spludo 1.0.3":http://github.com/DracoBlue/spludo/tree/v1.0
+* "nodeEventedCommand":http://github.com/adrai/nodeEventedCommand
 
 h2. node v0.3.8
 * "NormAndVal 0.1.0":https://github.com/roberthahn/NormAndVal
