@@ -891,6 +891,7 @@ www-style proposals.
 * [node-halfstreamxml](https://github.com/thejh/node-halfstreamxml) -- sax-js based, filter out nodes (with attributes and child nodes) from an xml stream by name
 * [xml2json](https://github.com/buglabs/node-xml2json) -- Simple SAX based XML to JSON parser. It uses node-expat.
 * [xml-stream](https://github.com/assistunion/xml-stream) -- XML stream parser and editor, based on node-expat.
+* [TBXML](https://github.com/71squared/TBXML) -- Super-fast, lightweight, easy to use XML parser for the Mac & iOS
 
 <a name="wiki-parsers-commandline"></a>
 ### [Command Line Option Parsers](#parsers-commandline)
