@@ -651,6 +651,7 @@ www-style proposals.
 * [Nodemailer](https://github.com/andris9/Nodemailer) - Easy to use module to send e-mails with Node.JS, unicode friendly
 * [emailjs](https://github.com/eleith/emailjs) - send emails, html and attachments from node.js to any smtp server (ex: gmail)
 * [node-smtpevent](https://github.com/euangoddard/node-smtpevent) -- Event based SMTP server
+* [mailcomposer](https://github.com/andris9/mailcomposer) - Generate e-mail messages that can be streamed to SMTP or file (unicode friendly)
 
 <a name="wiki-tcp"></a>
 ## [TCP / IP](#tcp)
