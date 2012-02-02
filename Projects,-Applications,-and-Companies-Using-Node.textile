@@ -262,6 +262,7 @@ This list is for websites and applications that are powered by node.js. If you'v
 * "Simple Node.js MUD":http://github.com/gumho/simple-node.js-mud - Simple multi-user dungeon using Node.js
 * "slyncr":https://github.com/chrisjaure/slyncr — bookmarklet to control web slideshows via a remote site
 * "Socket.IO":http://github.com/LearnBoost/Socket.IO-node - An abstraction over all the realtime transports (WebSocket, long polling, XHR multipart, etc) for the Node HTTP server
+* "SoundType":http://soundtype.com - Play MIDI music with other people in real time (uses NowJS for WebSockets)
 * "Sousaball":http://github.com/creationix/sousaball by creationix (<a href="http://sousaball.creationix.com">sousaball.creationix.com</a>)
 * "spotted@":http://spotted.at/ — spotted @ provides local classifieds for jobs, housing, for sale, personals, services, local community, and events.
 * "stackvm":http://github.com/pkrumins/stackvm -- Virtual machines on the web!
