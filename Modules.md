@@ -1267,6 +1267,7 @@ www-style proposals.
 
 * [async.js](https://github.com/fjakobs/async.js) -- Async chaining and file system utilities. Async.js is to node's fs module, what jQuery is to the DOM.
 * [async](https://github.com/caolan/async) -- Comprehensive async map/reduce and control flow (parallel, series, waterfall, auto...) module that works in node and the browser
+* [async-mini](https://github.com/ypocat/async-mini) -- Minimalistic async lib implementing only .parallel() and series(). Simple code, predictable behavior, server and browser.
 * [atbar](https://github.com/mark-hahn/atbar) -- Async callback manager for javascript in nodejs and browser
 * [begin](https://github.com/arumons/begin) -- Control flow library for node.js and CoffeeScript
 * [chainsaw](https://github.com/substack/node-chainsaw) -- Build chainable fluent interfaces the easy way in node.js
@@ -1290,6 +1291,7 @@ www-style proposals.
 * [jam](http://github.com/chakrit/jam) -- Monadic continuation/callbacks/async helper.
 * [Jscex](http://github.com/JeffreyZhao/jscex) -- Transforms sync code into monadic, async code as the async support in F# and Scala.
 * [JobManager](https://github.com/demian85/node-jobmanager) -- A really simple tool that helps you manage multiple asynchronous tasks.
+* [LAEH2](https://github.com/ypocat/laeh2) -- Lightweight Asynchronous Error Handling v2. Wrap your asynchronous functions in an intelligent try/catch. Optional stack trace minification with async support, e.g.: `unexpected thing < ./ex1.js(9) << ./ex1.js(7 < 13)`.
 * [miniqueue](https://github.com/hsch/node-miniqueue) -- A very simple in-memory queue for easy sequential processing
 * [$N](https://github.com/chjj/-N) -- Simple control flow with pretty syntax.
 * [nestableflow](https://github.com/minodisk/flow-js) -- Asynchronous nestable flow-control (serial, parallel, repeat, wait, function) module for Node.js, RequireJS, and browser.
