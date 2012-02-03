@@ -196,7 +196,6 @@ This list is for websites and applications that are powered by node.js. If you'v
 * "Fishl.com":http://fishl.com/ — Mark and save quotes you like all over the Web
 * "Flickr Spy":http://github.com/ncr/flickr_spy -- Discover where your Flickr contacts are commenting
 * "G-Lock Analytics":http://glockanalytics.com — Realtime email analytics web application
-* "Gauss":http://github.com/stackd/gauss - JavaScript statistics and analytics library
 * "Google+ Scraper":https://github.com/fhemberger/googleplus-scraper/ - Retrieve profile infos and posts from Google+ users
 * "Graffiti &beta;":http://yay3d.com/graffiti — Interactive multi-user shared canvas whiteboard
 * "GrowlHub":http://github.com/idris/growlhub - Growl Notifications for GitHub
