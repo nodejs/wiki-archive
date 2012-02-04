@@ -2,6 +2,7 @@
 
 * "Mixu's Node book":http://book.mixu.net/
 * "Node In Action":http://www.manning.com/cantelon/ -- by [Mike Cantelon](https://github.com/mcantelon), [Nathan Rajlich](https://github.com/tootallnate), and [TJ Holowaychuk](https://github.com/visionmedia)
+* "The Node Beginner Book":http://www.nodebeginner.org/ -- A comprehensive tutorial for folks that are already proficient in other languages, but new to JavaScript and Node.js
 
 ## Articles
 
