@@ -1047,7 +1047,7 @@ www-style proposals.
 * [http-console](https://github.com/cloudhead/http-console) -- A simple & intuitive HTTP console for testing APIs.
 * [inspect](https://github.com/visionmedia/inspect) -- hierarchical object inspection displaying ancestry, properties, methods, and accessors in great detail.
 * [log.js](https://github.com/visionmedia/log.js) -- light-weight logger that works with any writable stream, also supports a streaming parser for reading the log files generated
-* [log4js-node](https://github.com/csausdev/log4js-node) -- a port of log4js framework for node.js
+* [log4js-node](https://github.com/csausdev/log4js-node) -- **Broken Link** a port of log4js framework for node.js
 * [logging](https://github.com/dylang/logging) -- Super sexy color console logging.
 * [logly](https://github.com/tristanls/logly) -- A minimal logging utility to support verbose and debug modes
 * [logule](https://github.com/clux/logule) -- A sexy portable logging utility using colors
