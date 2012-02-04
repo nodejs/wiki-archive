@@ -781,7 +781,7 @@ www-style proposals.
 * [websocket-node](https://github.com/Worlize/WebSocket-Node) -- A WebSocket library that implements the most current protocol versions, 8 and 13.  Version 13 is the latest version that is now the final WebSocket spec as [RFC 6455](http://datatracker.ietf.org/doc/rfc6455/)
 * [Beseda](https://github.com/geometria-lab/Beseda) -- Fast, well designed and featured Node.js Pub/Sub server. Beseda offers multiple platform API to develop realtime web applications.
 * [node-eventstream](https://github.com/kbjr/node-eventstream) -- A server-side companion to EventSource.
-* [ws](https://github.com/einaros/ws) -- Very fast, protocol conformant WebSocket client / console.
+* [ws](https://github.com/einaros/ws) -- Very fast, protocol conformant WebSocket client, server and console. Supports [RFC 6455](http://datatracker.ietf.org/doc/rfc6455/), the Hybi drafts as well as Hixie-76.
 
 <a name="wiki-message-queue"></a>
 ## [Message Queues](#message-queue)
