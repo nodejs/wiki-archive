@@ -20,6 +20,7 @@ h2. Companies
 * "browserling":http://browserling.com - test all the browsers in your browser!
 * "Bubbler":http://bubbler.com - Bubbles up contextually useful information as you work!
 * "Caffeinehit":http://caffeinehit.com
+* "Camplight":http://camplight.net - Open company.
 * "Chomp":http://chomp.com - mobile application search, uses node for components of the production backend
 * "Chompin":http://chompin.com - discover new music, mobile app, uses node for the entire back end api
 * "clickdummy":http://clickdummy.net - Fast prototyping for designers and dummies
