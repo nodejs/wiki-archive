@@ -41,6 +41,7 @@ h2. Companies
 * "Duostack":http://www.duostack.com
 * "Durchblicker":http://durchblicker.at - The Austrian price comparison site. (price calculation engine)
 * "Drops":http://dropsapp.com - Cross-platform alternative to Droplr and Cloud.
+* "eBay":http://www.ebaytechblog.com/2011/11/30/announcing-ql-io/ - "ql.io":http://ql.io An HTTP gateway
 * "Erskine Design":http://erskinedesign.com/ -- Real(ish)-time SNMP monitoring dashboard using websockets
 * "e-resistible":http://www.e-resistible.co.uk - uses node to handle network communication to restaurant printers
 * "Fictorial":http://fictorial.com
