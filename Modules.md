@@ -1137,6 +1137,7 @@ www-style proposals.
 * [youtube-dl](https://github.com/fent/node-youtube-dl) -- youtube-dl driver for node
 * [node-handbrake](https://github.com/cwolves/node-handebrake) -- HandBrakeCLI wrapper to encode an entire folder of videos
 * [palette](https://github.com/visionmedia/palette) -- Image color palette extraction library built with node-canvas
+* [node-qr](https://github.com/bcelenza/node-qr) -- QR code generator for node
 
 <a name="wiki-sound"></a>
 ## [Sound](#sound)
