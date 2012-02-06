@@ -807,7 +807,7 @@ www-style proposals.
 * [Sslac](https://github.com/jakobo/sslac) -- Basic OOP-like support in JavaScript using chaining. Supports extension, interfaces, namespacing, and static objects.
 * [comb](https://github.com/Pollenware/comb) -- Library with a built in OO class system, and other features(datastructures, array string and date utilities, etc..).
 * [UberClass](https://github.com/daffl/uberclass) -- A class framework based on John Resig's Simple JavaScript inheritance and JavaScriptMVC $.Class.
-* [UberProto](https://github.com/daffl/uberproto) -- JavaScript object inheritance sugar: Initialization methods, easy extension, mixins, super methods, proxies
+* [UberProto](https://daffl.github.com/uberproto) -- JavaScript object inheritance sugar: Initialization methods, easy extension, mixins, super methods, proxies
 * [Structr](https://github.com/crcn/structr) -- Library built to give JavaScript the same look and feel as other popular languages such as Java. 
 * [N-Ext](https://github.com/xcambar/n-ext) -- Use the power of the Ext.data packages (from the ExtJS framework) in your NodeJS apps. Includes a MongoDB proxy based on [node-mongodb-native](https://github.com/xcambar/n-ext/node-mongodb-native))
 * [ease.js](https://github.com/mikegerwitz/easejs) -- Classical Object-Oriented framework for JavaScript
