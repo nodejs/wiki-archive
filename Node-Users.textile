@@ -254,6 +254,8 @@ h2. UTC-6 (-5)
 ** "GitHub":http://github.com/chjj, "Website":http://dilated.cc
 * Christopher Brown (chbrown), Austin, TX, US
 ** "Twitter":http://twitter.com/chbrown, "Website":http://henrian.com
+* Connor Montgomery (c_t_montgomery), St. Louis, MO
+** "Twitter":http://twitter.com/connor, "Website":http://cnnr.me
 
 h2. UTC-5 (-4)
 
