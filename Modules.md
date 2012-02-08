@@ -551,6 +551,7 @@ www-style proposals.
 * [reed](https://github.com/ProjectMoon/reed) - A Markdown-based blogging core backed by Redis and the filesystem.
 * [MCMS](https://github.com/olegp/mcms) - A Minimal CMS using GitHub flavored Markdown, Mustache templates and the filesystem.
 * [jslardo](https://github.com/obliquid/jslardo) -- A Social CMS, where users are able to register to the application, create their own models (mongoose schemas), views, controllers, websites and pages. Work in progress, keep updated!
+* [LooseLeaf](http://looseleafjs.org/) -- Very simple blogging engine based on express, no-DataBase, only JSON.
 
 <a name="wiki-build-and-deployment"></a>
 ## [Build and Deployment](#build-and-deployment)
