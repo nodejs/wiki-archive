@@ -916,6 +916,7 @@ www-style proposals.
 * [node-o3-xml](https://github.com/ajaxorg/node-o3-xml) -- W3C Standard based XML DOM with XPath and namespaces. Built on libxml2
 * [node-o3-fastxml](https://github.com/ajaxorg/node-o3-fastxml) -- W3C Standards based XML DOM based on fastest xml parser in the world pugiXML
 * [libxmljs](https://github.com/polotek/libxmljs) -- Bindings to libxml2
+* [libxmljs-easy](https://github.com/vgrichina/libxmljs-easy) -- Work with libmxmljs DOM as with plain Javascript objects, similar to E4X
 * [node-xml](https://github.com/robrighter/node-xml) -- An xml parser for node.js. (The github page for this module is showing some severe performance issues. Not recommended as an "out of the box" solution.)
 * [xmldom](https://github.com/jindw/xmldom) -- A PURE JS W3C Standard based DOMParser and XMLSerializer (DOM Level2 CORE). 
 * [sax-js](https://github.com/isaacs/sax-js) -- SAX-like parser in pure JS
