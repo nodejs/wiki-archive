@@ -27,13 +27,13 @@ If you want to compile Node C++ modules:
 Or configure shell script for install node.js using http://apptob.org
 
 ## On openSUSE BuildService
-[Node.js stable repos list](http://bit.ly/nodejs_repos).
+[Node.js stable repos list](https://build.opensuse.org/project/show?project=devel%3Alanguages%3Anodejs).
 
-Available RPM packages for: CentOS 5; Fedora 13; openSUSE 11.3; openSUSE 11.4 and Factory.
+Available RPM packages for: openSUSE 11.4, 12.1 and Factory.
 
 Example install on openSUSE 11.4:
 
-    sudo zypper ar http://download.opensuse.org/repositories/home:/SannisDev/openSUSE_11.4/ SannisDevBuildService 
+    sudo zypper ar http://download.opensuse.org/repositories/devel:/languages:/nodejs/openSUSE_11.4/ NodeJSBuildService 
     sudo zypper in nodejs nodejs-devel
 
 ## Fedora and RHEL/CentOS/Scientific Linux
