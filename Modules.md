@@ -753,6 +753,7 @@ www-style proposals.
 * [nodejs-light_rpc](https://github.com/romulka/nodejs-light_rpc) -- Simple server/client RPC, with minimal dependencies (uuid (can be removed to use simple increment)).
 * [node-zeromq](https://github.com/visionmedia/node-zeromq) -- fork of zeromq.node (zeromq in npm)
 * [zeromq.node](https://github.com/JustinTulloss/zeromq.node) -- 0MQ (zeroMQ) bindings for node.js
+* [thintalk](https://github.com/AndreasMadsen/thintalk) -- A minimal extendable RPC abstraction with buildin TPC and IPC support
 
 <a name="wiki-ws-ajax"></a>
 ## [Web Sockets & Ajax](#ws-ajax)
