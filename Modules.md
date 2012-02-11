@@ -731,6 +731,7 @@ www-style proposals.
 * [node-snmp](https://github.com/huancz/node-snmp/) -- SNMP v1 client
 * [portscanner](https://github.com/baalexander/node-portscanner) -- An asynchronous port scanner for Node.js
 * [node-ping](https://github.com/c0d3x42/node-ping) -- Simple wrapper around fping 
+* [shorty](https://github.com/mtd/shorty) -- Shorty is a lightweight, high performance SMPP client and server.
 
 <a name="wiki-rpc"></a>
 ## [RPC](#rpc)
