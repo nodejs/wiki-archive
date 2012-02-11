@@ -1,9 +1,5 @@
 Node is under heavy development and its API changes rapidly. Instead of simply a listing of modules which may or may not work with the version of Node installed on one's computer, this will provide a list of module versions which are known to work with specific versions of node.
 
-h2. Node v0.7
-* "thintalk: v0.2.0":https://github.com/AndreasMadsen/thintalk
-* "configme: v0.3.2":https://github.com/AndreasMadsen/configme
-
 h2. Node v0.6.0
 * "configme: v0.2.0":https://github.com/AndreasMadsen/configme
 * "node-talib: v0.1.0":https://github.com/oransel/node-talib
