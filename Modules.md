@@ -690,6 +690,7 @@ www-style proposals.
 * [multiparter](https://github.com/Sonetica/multiparter) -- multipart/form-data POST request maker for Node.js with support for streams (sending files) and plain params
 * [watchmen](https://github.com/iloire/WatchMen) -- A simple HTTP monitor (pings sites and services with predefined parameters to make sure they are alive)
 * [needle](https://github.com/tomas/needle) -- Lightweight HTTP client with multipart support.
+* [node-tunnel](https://github.com/koichik/node-tunnel) -- HTTP/HTTPS Agents for tunneling proxies.
 
 <a name="wiki-tcp-ftp"></a>
 ### [FTP](#tcp-ftp)
