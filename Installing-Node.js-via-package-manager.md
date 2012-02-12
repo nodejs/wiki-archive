@@ -69,7 +69,11 @@ Using [macports](http://www.macports.org/):
 ## Windows
  Note: Windows builds are not yet satisfactorily stable but it is possible to get something running.  
   
-Using [chocolatey](http://chocolatey.org):  
-
-    cinst [nodejs](http://chocolatey.org/packages/nodejs)  
-or  cinst [nodejs.install](http://chocolatey.org/packages/nodejs.install) (for NPM)  
+Using [chocolatey](http://chocolatey.org) to install [Node](http://chocolatey.org/packages/nodejs):  
+  
+    cinst nodejs  
+  
+or for [full install with NPM](http://chocolatey.org/packages/nodejs.install):  
+  
+    cinst nodejs.install  
+  
