@@ -27,6 +27,7 @@ When editing this page please be as detailed as possible. Examples are encourage
 
  * `child_process`
    * `silent` option to `child_process.fork()` - `stdout` and `stderr` won't be shared with parent.
+   * `.disconnect()` when using `child_process.fork()` this will allow the child to die graceful.
 
  * `cluster`
    * `'fork'`, `'online'`, `'listening'`, and `'setup'` events.
