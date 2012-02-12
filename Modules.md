@@ -1036,6 +1036,7 @@ www-style proposals.
 * [semver](https://github.com/isaacs/node-semver) -- Parser used by npm for version numbers.
 * [node-tldtools](https://github.com/mjpearson/node-tldtools) -- Provides domain enquiry features, whois, TLD token extraction etc.
 * [ret.js](https://github.com/fent/ret.js) -- A regexp tokenizer.
+* [node-properties-parser](https://github.com/Xavi-/node-properties-parser) -- A parser for `.properties` files written in javascript.
 
 <a name="wiki-debugging"></a>
 ## [Debugging / Console Utilities](#debugging)
