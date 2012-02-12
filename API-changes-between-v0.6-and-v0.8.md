@@ -27,7 +27,6 @@ When editing this page please be as detailed as possible. Examples are encourage
 
  * `child_process`
    * `silent` option to `child_process.fork()` - `stdout` and `stderr` won't be shared with parent.
-   * `thread` option - make a new thread and not a new process
 
  * `cluster`
    * `'fork'`, `'online'`, `'listening'`, and `'setup'` events.
