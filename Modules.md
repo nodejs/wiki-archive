@@ -522,6 +522,7 @@ rendering process.
 * [node-tmpl](https://github.com/jeromeetienne/node-tmpl) -- basic templating system in node.js based on shorttag
 * [tob](https://github.com/shimondoodkin/tob) -- Template Observer, allows self-reloading templates with your template engine
 * [node-jst](https://github.com/shaunlee/node-jst) -- A pretty high performance template engine implemented with JavaScript. [Express](http://expressjs.com) compliant
+* [node-pages](https://github.com/tasogarepg/node-pages) -- A simple template engine. Cacheable and Trackable.
 
 <a name="wiki-css-engines"></a>
 ## [CSS Engines](#css-engines)
