@@ -39,8 +39,9 @@ When editing this page please be as detailed as possible. Examples are encourage
    * `cipher.setAutoPadding()` and `decipher.setAutoPadding()`.
 
  * `fs`
-   * `fs.appendFile()`, `fs.appendFileSync()`.
+   * `fs.appendFile()` and `fs.appendFileSync()`.
    * `fs.exists()` and `fs.existsSync()`.
+   * `wx`, `wx+`, `ax`, and `ax+` modes to `fs.open()` and `fs.openSync()`.
 
  * `https`
    * `rejectUnauthorized` option to `https.request()` and `https.get()`.
