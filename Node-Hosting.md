@@ -13,7 +13,7 @@ Name | Node Version | Web Sockets | IP/Hostname | IRC | Repository | Free Plan |
 [Cure](http://cure.willsave.me) | 0.6.2 | Yes | Yes | | | Yes - One week trial. (Up to 1GB outgoing b/w, $0.18 per GB after.) | $12.95/month per server. | (accepting signups)
 [DotCloud](http://www.dotcloud.com) | 0.4.10 | No | Paid plan | #dotcloud | [dotcloud](https://github.com/dotcloud) | Yes - 2 services. | Pro - $99/month, 4 services. Enterprise - Unlimited services. | Beta
 [Heroku](http://heroku.com) | 0.4.7 | No | Yes | #heroku | [heroku](http://github.com/heroku) | Yes - 1 Dynamo (256 MB Ram) | | 
-[no.de](http://no.de) | 0.4.11 | | Paid plan | #joyent | [joyent](http://github.com/joyent) | Yes - 128 MB Ram | | 
+[no.de](http://no.de) | 0.4.11 | Paid plan | Paid plan | #joyent | [joyent](http://github.com/joyent) | Yes - 128 MB Ram | | 
 [NodeSocket](http://www.nodesocket.com) | 0.4.12 | Yes | Yes | | [nodesocket](https://github.com/nodesocket) | | | In Private Beta
 [Nodejitsu](http://nodejitsu.com) | 0.4.12, 0.6.x | Yes | Yes | #nodejitsu | [nodejitsu](http://github.com/nodejitsu) | Free - More info after beta | | In Private Beta
 [Nodester](http://nodester.com) | 0.4.9 | Yes | Yes | #nodester |[nodester](https://github.com/nodester) | Yes - Unlimited | No | Open (with invite)
