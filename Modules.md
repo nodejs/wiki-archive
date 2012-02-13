@@ -1037,6 +1037,7 @@ www-style proposals.
 * [node-tldtools](https://github.com/mjpearson/node-tldtools) -- Provides domain enquiry features, whois, TLD token extraction etc.
 * [ret.js](https://github.com/fent/ret.js) -- A regexp tokenizer.
 * [node-properties-parser](https://github.com/Xavi-/node-properties-parser) -- A parser for `.properties` files written in javascript.
+* [pdc](https://github.com/pvorb/node-pandoc.git) -- A [pandoc](http://johnmacfarlane.net/pandoc/) wrapper for node.
 
 <a name="wiki-debugging"></a>
 ## [Debugging / Console Utilities](#debugging)
