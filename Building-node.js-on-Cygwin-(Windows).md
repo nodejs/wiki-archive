@@ -12,6 +12,11 @@ Step by step instructions to install NodeJS on Windows - [[http://boxysystems.co
 
 Update Sept 1, 2011 -- as of today, v0.5.5 does not build on Cygwin (errors on make). Use v.0.5.4 (ie. follow instructions below and use "git checkout v0.5.4".
 
+Little notice
+========
+You can just drop the pre-built windows .exe in `C:/cygwin/bin`. Yes, it works, but has some disadvantages:  
+You can't just run `$ node` (don't ask, i don't know why). You can't run node with cygwin paths (e.g. `$ node /home/foo/bar.js`).
+
 Building node.js on Cygwin (Windows)
 ====
 
