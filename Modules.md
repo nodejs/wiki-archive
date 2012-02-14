@@ -734,6 +734,7 @@ www-style proposals.
 * [portscanner](https://github.com/baalexander/node-portscanner) -- An asynchronous port scanner for Node.js
 * [node-ping](https://github.com/c0d3x42/node-ping) -- Simple wrapper around fping 
 * [shorty](https://github.com/mtd/shorty) -- Shorty is a lightweight, high performance SMPP client and server.
+* [stomp-client](https://github.com/easternbloc/node-stomp-client) -- A STOMP client for Node.js
 
 <a name="wiki-rpc"></a>
 ## [RPC](#rpc)
