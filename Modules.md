@@ -876,6 +876,7 @@ www-style proposals.
 * [soda-runner](https://github.com/doug-martin/soda-runner) -- Provides a command line interface, runner, and selenium ide adapter for for soda.
 * [stest](https://github.com/siddMahen/stest) -- A sane event driven async testing framework.
 * [Speks](https://github.com/ecavazos/speks) -- A specification framework for your node-code
+* [Syringe](https://github.com/easternbloc/Syringe) -- Dependency mocking for node modules 
 * [tbd](https://github.com/aaronpowell/tbd) -- A data generator for tests & UI stubbing
 * [TestIt](http://github.com/DouglasMeyer/test_it) -- Light-weight yet complete, shoulda style testing framework for in-browser and node.js tests.
 * [TestNode](http://github.com/testnode/testnode) -- Unobtrusive BDD-style testing framework
