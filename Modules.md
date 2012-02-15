@@ -606,6 +606,7 @@ www-style proposals.
 * [coffee-toaster](https://github.com/serpentem/coffee-toaster) -- Minimalist dependency management system for coffee-script. 
 * [watch-node](https://github.com/viatropos/watch-node) -- Automatically restart Node.js server when a file changes, recompile JS/CSS. Do anything. Uses Mac FSEvents.
 * [start-stop-daemon](https://github.com/jiem/start-stop-daemon) -- An 1-function Node.js module to easily create native `child_process.fork` start-stop-daemon scripts. Created daemons are self-monitored and restart automatically when crashing (a custom crash handler can be attached too).
+* [mnm](https://github.com/nearinfinity/node-mnm) -- Make Node Module (MNM) is a build tool for making native Node.js modules with no dependencies other than Node itself (i.e. no Python required)
 
 <a name="wiki-package-management"></a>
 ## [Package Management Systems](#package-management)
