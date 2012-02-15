@@ -847,6 +847,8 @@ h2. UTC+7
 ** "GitHub":http://github.com/clement/, "Website":http://clementnodet.com/
 * Dhi Aurrahman (dio), Indonesia
 ** "Twitter":http://twitter.com/diorahman, "GitHub":http://github.com/dio/, "Website":http://dio.posterous.com
+* Denis Rechkunov, Barnaul, Russia
+** "Twitter":http://twitter.com/DenisRechkunov, "GitHub":http://github.com/DenisRechkunov, "Facebook":http://facebook.com/DenisRechkunov, "Blog":http://ferrum-box.org
 
 h2. UTC+8
 
