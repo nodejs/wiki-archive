@@ -708,6 +708,8 @@ h2. UTC+1 (+2)
 ** "GitHub":http://github.com/iloire, "Website":http://iloire.com, "Twitter":http://twitter.com/ivanloire
 * Slobodan Utvić, Novi Sad, Serbia
 ** "GitHub":http://github.com/utvara, "Website":http://www.newscurve.com
+* Javier Cicchelli, Amsterdam, The Netherlands
+** "GitHub":https://github.com/mr-rock, "Twitter":https://twitter.com/#!/monsieur_rock, "Website":http://rock-n-code.com
 
 h2. UTC+2 (+3)
 
