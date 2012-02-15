@@ -1224,6 +1224,7 @@ www-style proposals.
 * [node-cloudfiles](https://github.com/nodejitsu/node-cloudfiles) -- A client implementation for Rackspace CloudFiles in node.js
 * [node-cloudservers](https://github.com/nodejitsu/node-cloudservers) -- A client implementation for Rackspace CloudServers in node.js
 * [node-dropbox](https://github.com/Rendez/node-dropbox) -- Node.js client for the Dropbox API
+* [node-flattr](https://github.com/antics/node-flattr) -- The flattr API client.
 * [node-foursquare](https://github.com/clintandrewhall/node-foursquare) -- A wrapper for the Foursquare v2 API.
 * [node-gadgets](https://github.com/Nais/node-gadgets) -- Real-time extraction from web pages of HTML gadgets and associated properties using node-dom based on given criterias 
 * [node-gdata](https://github.com/ammmir/node-gdata) -- A generic Google Data API client library
