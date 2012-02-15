@@ -1370,8 +1370,8 @@ www-style proposals.
 * [NodeBase](https://github.com/dotmaster/NodeBase) -- A node base class for JavaScript and CoffeeScript (logging, options, defaults and EventEmitter)
 * [infigo-node-boilerplate](https://github.com/jerryjj/infigo-node-boilerplate) -- nodejs boilerplate built upon Express, db-mysql/db-drizzle/Mongoose and includes user authentication and group+role authorization system.
 * [Skeleton](https://github.com/edwardhotchkiss/skeleton) -- Skeleton is a CLI module to bootstrap a Node/Express project with a skeleton template via any git repository, with an included default repo.
-* [Lemmy](https://github.com/rock-n-code/lemmy) -- 49% Motherfucker | 51% Son of a Bitch Node.js + Express + Mocha flexible project boilerplate for Javascript/Coffee-Script coders written in Makefile.
-* [Alice](https://github.com/rock-n-code/alice) -- Killer JS/CS Node.js+Mocha Boilerplate for creating NPM packages.
+* [Lemmy](https://github.com/rock-n-code/lemmy) -- 49% Motherfucker | 51% Son of a Bitch Node.js + Express + Mocha flexible project boilerplate for Javascript/Coffee-Script coders.
+* [Alice](https://github.com/rock-n-code/alice) -- Killer Node.js + Mocha Boilerplate for creating NPM packages for both Javascript and Coffee-Script coders.
 
 <a name="wiki-continuous-integration"></a>
 ## [Continuous Integration Tools](#continuous-integration)
