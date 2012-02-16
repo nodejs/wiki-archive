@@ -1213,6 +1213,7 @@ www-style proposals.
 * [gravatar](https://github.com/emerleite/node-gravatar) -- Well tested Node.JS Gravatar URL generator
 * [gumroad](https://github.com/vdemedes/node-gumroad) -- API client for Gumroad. 100% coverage of available methods.
 * [hipchat-js](https://github.com/smurthas/hipchat-js) -- Simple HipChat API wrapper
+* [hoover](https://github.com/hakanensari/hoover) -- An Amazon Product Advertising API wrapper
 * [instagram-node-lib](https://github.com/mckelvey/instagram-node-lib) -- Library for easy interaction with the Instagram API
 * [janrain-api](https://github.com/demetriusj/janrain) -- Module for interfacing with Janrain Engage API
 * [klout-js](https://github.com/smurthas/klout-js) -- Simple Klout API wrapper
