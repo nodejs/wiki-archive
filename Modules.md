@@ -1425,3 +1425,4 @@ www-style proposals.
 * [Gauss](http://github.com/stackd/gauss) - JavaScript statistics and analytics library
 * [tty.js](https://github.com/chjj/tty.js) - a terminal for your browser
 * [java](https://github.com/nearinfinity/node-java) -- Bridge API to connect with existing Java APIs
+* [ExtJS4 Chat](https://github.com/MikhailTatsky/Ext-Chat) -- ExtJS4 Chat
