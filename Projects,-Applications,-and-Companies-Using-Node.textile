@@ -62,7 +62,7 @@ h2. Companies
 * "ipowerhouse":http://www.ipowerhouse.com - Focused on haXe/Node.js  game dev; first all haxe/node bingo product.
 * "i.TV":http://i.tv - Next gen social media.
 * "Joshfire":http://www.joshfire.com/ - Internet Of Things company, Multi-device app development
-* "Joinbox":http://www.joinbox.com/ - All of your social actions, emails and online news on one sweet website. 
+* "Joinbox":http://www.joinbox.com/ - News/Email/Social Networks aggregator implemented with Node.js using several node modules like MongoDB, Snappy, and ICU.
 * "Joyent":http://www.joyent.com/
 * "Koding":http://kodingen.com/ - Browser-based IDE and Cloud Computing Platform for PHP/Ruby/Python and others.
 * "Klout":http://klout.com/
