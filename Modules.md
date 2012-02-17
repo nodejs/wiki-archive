@@ -941,6 +941,7 @@ www-style proposals.
 * [node-xml](https://github.com/robrighter/node-xml) -- An xml parser for node.js. (The github page for this module is showing some severe performance issues. Not recommended as an "out of the box" solution.)
 * [xmldom](https://github.com/jindw/xmldom) -- A PURE JS W3C Standard based DOMParser and XMLSerializer (DOM Level2 CORE). 
 * [sax-js](https://github.com/isaacs/sax-js) -- SAX-like parser in pure JS
+  * [node-xml2object](https://github.com/emberfeather/node-xml2object) -- Simple SAX.js based xml element to object converter.
 * [dom-js](https://github.com/teknopaul/dom-js) -- A pure JS XML DOM based on sax-js
 * [node-expat](https://github.com/astro/node-expat) -- Fast SAX parser binding to expat
 * [node-expat](https://github.com/shimondoodkin/node-expat) -- a fork of Fast SAX parser binding to expat, also includes XML to JavaScript object converter
@@ -950,7 +951,6 @@ www-style proposals.
 * [node-halfstreamxml](https://github.com/thejh/node-halfstreamxml) -- sax-js based, filter out nodes (with attributes and child nodes) from an xml stream by name
 * [xml2json](https://github.com/buglabs/node-xml2json) -- Simple SAX based XML to JSON parser. It uses node-expat.
 * [xml-stream](https://github.com/assistunion/xml-stream) -- XML stream parser and editor, based on node-expat.
-* [node-xml2object](https://github.com/emberfeather/node-xml2object) -- Simple SAX.js based xml element to object converter.
 
 
 <a name="wiki-parsers-commandline"></a>
