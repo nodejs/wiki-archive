@@ -1320,6 +1320,7 @@ www-style proposals.
 * [asyncblock](https://github.com/scriby/asyncblock) -- Simple and powerful interface to fibers
 * [first](https://github.com/DanielBaulig/first) -- A tiny control-flow library.
 * [flow-js](https://github.com/willconant/flow-js) -- Continuation-esque contruct for expressing multi-step asynchronous logic
+* [flowless](https://github.com/koichik/node-flowless) -- Less but better control-flow library.
 * [funk](https://github.com/masylum/funk) -- Asynchronous parallel functions made funky!
 * [futures](https://github.com/coolaj86/futures) - Asynchronous Method Queueing, Futures, Promises, Subscriptions, and other async goodies
 * [promise](https://github.com/megakorre/promise) -- A Continuation handler (monad) with a condition system for errors
