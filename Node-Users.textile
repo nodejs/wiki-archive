@@ -767,6 +767,8 @@ h2. UTC+2 (+3)
 ** "GitHub":https://github.com/amasad, "Twitter":http://twitter.com/amjad_masad
 * Rafał Grabie (rootnot), Kraków, Poland
 ** "GitHub":https://github.com/rootnot
+* Pedro Narciso García Revington
+** "GitHub":https://github.com/revington
 
 h2. UTC+3 (+4)
 
