@@ -1346,6 +1346,7 @@ www-style proposals.
 * [narrow](https://github.com/0ctave/node-narrow) -- Shrinks a given callback parallel execution concurrency in a limited number of threads, receiving a big bunch of data (array of tasks)
 * [neuron](https://github.com/indexzero/neuron) -- The simplest possible event driven job manager, FIFO queue, and "task based cache" in node.js
 * [noflo](https://github.com/bergie/noflo) -- [Flow-Based Programming](http://en.wikipedia.org/wiki/Flow-based_programming) system for Node.js
+* [nue](https://github.com/nakamura-to/nue) -- An async control-flow library suited for node.js
 * [observer](https://github.com/azer/observer) -- An alternative observer implementation, for both ss&cs.
 * [poolr](https://github.com/codingforce/poolr) -- A lightweight resource pooling/serialization library 
 * [q](https://github.com/kriskowal/q) -- Q is a tool for making and composing asynchronous promises in JavaScript.
