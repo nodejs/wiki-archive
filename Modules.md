@@ -913,11 +913,8 @@ www-style proposals.
 <a name="wiki-wrappers"></a>
 ## [Wrappers](#wrappers)
 
-* [bdog-node](https://github.com/blackdog66/bdog-node) -- haXe wrappers for node.
-* [bdog-redis](https://github.com/blackdog66/bdog-redis) -- haXe wrappers for Fictorial's redis client
-* [bdog-gtk](https://github.com/blackdog66/bdog-gtk) -- haXe wrappers for node and Gtk-Server
-* [bdog-pstore](https://github.com/blackdog66/bdog-pstore) -- haXe object server using bdog-node and bdog-redis
-* [bdog-mongo](https://github.com/blackdog66/bdog-mongo) -- haXe wrappers for native-mongo driver
+* [cloudshift-hx-node](https://github.com/cloudshift/hx-node) -- haXe wrappers for node.
+* [cloudshift](https://github.com/cloudshift/cloudshift) -- A haXe Stack for Node.js 
 * [SQLiteHaxeWrapper](https://github.com/tommedema/NodeSQLiteHaxeWrapper) -- haXe wrappers for Orlandov's SQLite high level driver
 * [hxnodejs](https://github.com/tong/hxnodejs) -- another haXe wrappers for node
 
