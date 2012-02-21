@@ -63,3 +63,4 @@
 * "Farsi":http://nodejs.ir/
 * "Chinese":http://cnodejs.org
 * "Hebrew":http://nodejs.co.il/
+* "English":http://nodejs-news.com/
