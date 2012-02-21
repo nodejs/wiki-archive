@@ -1,10 +1,10 @@
 h1. Node.js community wiki
 
-h2. Introduction
+h2. 介绍
 
-Node.js is a server-side JavaScript environment that uses an asynchronous event-driven model. This allows Node.js to get excellent performance based on the architectures of many Internet applications.
+Node.js是一个服务器端的运行环境,是一个异步的事件驱动模型.它能够让Node.js拥有一个出色的性能在很多的web应用上.
 
-h2. Installation
+h2. 安装
 
 The "installation guide":https://github.com/joyent/node/wiki/Installation explains how to get started installing Node.js and the Node Package Manager (NPM) on your system.
 
