@@ -717,7 +717,7 @@ www-style proposals.
 * [node-ftp](https://github.com/mscdex/node-ftp) -- An FTP client module for node.js
 * [ftp-get](https://github.com/SaltwaterC/ftp-get) -- Simple to use node.js FTP client for downloading remote files
 * [node-nntp](https://github.com/mscdex/node-nntp) -- An NNTP (usenet/newsgroups) client module for node.js
-* [NodeFTPd](https://github.com/billywhizz/nodeftpd) -- Node FTP Server
+* [NodeFTPd](https://github.com/billywhizz/nodeftpd) -- Node FTP Server ... updated fork [here](https://github.com/alanszlosek/nodeftpd)
 * [node-ftpclient](https://github.com/seanhess/node-ftpclient) -- Node FTP Client
 
 <a name="wiki-tcp-e-mail"></a>
