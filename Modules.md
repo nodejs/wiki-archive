@@ -1406,6 +1406,7 @@ www-style proposals.
 ## [DDD, CQRS, EventSourcing](#ddd-cqrs-es)
 * [nodeEventStore](https://github.com/KABA-CCEAC/nodeEventStore) -- EventStore (Events and Snapshots) supporting MongoDb, CouchDb, Redis
 * [nodeEventedCommand](https://github.com/adrai/nodeEventedCommand) -- provides simple command/event handling for evented systems like cqrs
+* [cloudjs] (https://github.com/digitalwm/cloudjs) -- provides a network distributed event system and a realtime balancing for live objects
 
 <a name="wiki-desktop-app"></a>
 ## [Desktop application related](#desktop-app)
