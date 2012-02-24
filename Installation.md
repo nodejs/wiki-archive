@@ -3,7 +3,7 @@
 Node has several dependencies.  If you are building from source you should
 only need 2 things:
 
-* **python** - version 2.5 or higher. The build tools distributed with
+* **python** - version 2.6 or 2.7 The build tools distributed with
   Node run on python.
  
 
@@ -39,7 +39,7 @@ Maybe you need to change your PYTHONHOME as well. If you have any further instal
 Do something like this
 
 ```
-tar -zxf node-v0.6.7.tar.gz
+tar -zxf node-v0.6.7.tar.gz //download this from nodejs.org
 cd node-v0.6.7
 ./configure
 make
