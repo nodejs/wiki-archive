@@ -712,6 +712,8 @@ h2. UTC+1 (+2)
 ** "GitHub":http://github.com/utvara, "Website":http://www.newscurve.com
 * Javier Cicchelli, Amsterdam, The Netherlands
 ** "GitHub":https://github.com/mr-rock, "Twitter":https://twitter.com/#!/monsieur_rock, "Website":http://rock-n-code.com
+* André König, Bremen, Germany
+** "GitHub":https://github.com/akoenig, "Twitter":https://twitter.com/#!/notion, "Website":http://lochkartenstanzer.de
 
 h2. UTC+2 (+3)
 
