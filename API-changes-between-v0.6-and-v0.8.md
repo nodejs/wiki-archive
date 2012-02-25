@@ -18,6 +18,7 @@ When editing this page please be as detailed as possible. Examples are encourage
 
  * `http`
    * `http.Server` emits `'connect'` event instead of `'upgrade'` when the CONNECT method is requested.
+   * `http.ServerResponse` sends `Date:` header by default. You can disable it by setting `response.sendDate` to `false`.
    * `http.ClientRequest` emits `'connect'` event instead of `'request'` when the CONNECT method is responded.
 
  * `child_process`
@@ -36,18 +37,25 @@ When editing this page please be as detailed as possible. Examples are encourage
    * `cluster.setupMaster()` and `cluster.settings`.
 
  * `crypto`
+   * `crypto.getDiffieHellman()`.
    * `cipher.setAutoPadding()` and `decipher.setAutoPadding()`.
+   * `ciphers` option to `crypto.createCredentials()`.
 
  * `fs`
    * `fs.appendFile()` and `fs.appendFileSync()`.
    * `fs.exists()` and `fs.existsSync()`.
    * `wx`, `wx+`, `ax`, and `ax+` modes to `fs.open()` and `fs.openSync()`.
 
+ * `http`
+   * callback optional argument to `server.close()`.
+   * `sendDate` property to `http.ServerResponse`.
+
  * `https`
-   * `rejectUnauthorized` option to `https.request()` and `https.get()`.
+   * `ciphers`, `rejectUnauthorized` option to `https.request()` and `https.get()`.
 
  * `net`
    * `net.connect(options, [connectionListener)`.
+   * callback optional argument to `server.close()`.
 
  * `process`
    * `process.abort()`.
@@ -56,8 +64,9 @@ When editing this page please be as detailed as possible. Examples are encourage
    * `querystring.parse(str, [sep], [eq], [options])`.
 
  * `tls`
+   * `tls.CLIENT_RENEG_LIMIT` and `tls.CLIENT_RENEG_WINDOW` for [mitigate session renegotiation attacks](http://nodejs.org/docs/latest/api/tls.html#client_initiated_renegotiation_attack_mitigation)
    * `tls.connect(options, [secureConnectionListener])`.
-   * `rejectUnauthorized` and `socket` options to `tls.connect()`.
+   * `ciphers`, `rejectUnauthorized` and `socket` options to `tls.connect()`.
 
  * `zlib`
    * `dictionary` option.
