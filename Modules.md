@@ -810,6 +810,7 @@ www-style proposals.
 * [node-eventstream](https://github.com/kbjr/node-eventstream) -- A server-side companion to EventSource.
 * [ws](https://github.com/einaros/ws) -- Very fast, protocol conformant WebSocket client, server and console. Supports [RFC 6455](http://datatracker.ietf.org/doc/rfc6455/), the Hybi drafts as well as Hixie-76.
 * [ws-flash-client](https://github.com/ypocat/ws-flash-client) -- Replaces the WebSocket object with a Flash implementation on clients without native WebSocket support, thus covering 99% of use cases. Works well with the `ws` WebSocket server.
+* [ws-rpc](https://github.com/ypocat/ws-rpc) -- Lightweight RPC support for the `ws` WebSocket server. Supports rooms (channels), callbacks, auto-reconnection, using client WebSocket from Node.js (not only Browser), and works well with `ws-flash-client`.
 
 <a name="wiki-message-queue"></a>
 ## [Message Queues](#message-queue)
