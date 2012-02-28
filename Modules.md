@@ -1060,6 +1060,7 @@ www-style proposals.
 * [node-properties-parser](https://github.com/Xavi-/node-properties-parser) -- A parser for `.properties` files written in javascript.
 * [pdc](https://github.com/pvorb/node-pandoc) -- A [pandoc](http://johnmacfarlane.net/pandoc/) wrapper for node.
 * [pcap-parser](https://github.com/nearinfinity/node-pcap-parser) -- Packet capture (pcap) file parser written in pure javascript
+* [picksy](https://github.com/skid/picksy) -- Extracts the relevant text from a html article page
 
 <a name="wiki-debugging"></a>
 ## [Debugging / Console Utilities](#debugging)
