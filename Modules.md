@@ -630,7 +630,7 @@ www-style proposals.
 <a name="wiki-module-loader"></a>
 ## [Module Loader](#module-loader)
 
-* [directory](https://github.com/tblobaum/node-directory) -- require a whole directory
+* [directory](https://github.com/tblobaum/directory) -- require a whole directory
 * [nodules](https://github.com/kriszyp/nodules) -- Async URL CommonJS module loader with dep resolution/downloading and hot-module reloading
 * [node-DJs](https://github.com/louisremi/node-DJs) - Restart a server after each change in main script and dependencies
 * [node-hot-reload](https://github.com/shimondoodkin/node-hot-reload) - watchFile and reload modules dynamically for node.js (very useful for development, less good for production)
