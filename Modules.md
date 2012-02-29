@@ -736,6 +736,7 @@ www-style proposals.
 * [node-xmpp](https://github.com/astro/node-xmpp) -- Node XMPP library
 * [node-simple-xmpp](https://github.com/arunoda/node-simple-xmpp) -- Simple High Level NodeJS XMPP Client
 * [node-xmpp-bosh](https://github.com/dhruvbird/node-xmpp-bosh) -- An XMPP BOSH server running on node.js
+* [node-bosh-xmpp-client](https://github.com/eelcocramer/node-bosh-xmpp-client) -- An XMPP BOSH client API compatible with [node-xmpp](https://github.com/astro/node-xmpp).
 
 <a name="wiki-tcp-other"></a>
 ### [Other networking](#tcp-other)
