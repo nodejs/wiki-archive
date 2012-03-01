@@ -1302,6 +1302,7 @@ www-style proposals.
 * [waz-storage-js](https://github.com/jpgarcia/waz-storage-js) -- A simple implementation of Windows Azure Storage API for Node.js
 * [webmetrics](https://github.com/ryanbreen/node-webmetrics) -- A module for accessing the Webmetrics JSON API
 * [yammer-js](https://github.com/smurthas/yammer-js) -- Simple Yammer API wrapper
+* [airship](https://github.com/jherdman/airship) &mdash; an Urban Airship API wrapper
 
 <a name="wiki-async-flow"></a>
 ## [Control flow / Async goodies](#async-flow)
