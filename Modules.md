@@ -1164,6 +1164,7 @@ www-style proposals.
 * [node-pango-view](https://github.com/shimondoodkin/node-pango-view) -- print text with pango to temporary png image, then merge it with ImageMagick. 
 * [squeeze](https://github.com/nikhilm/squeeze) -- Mince and convert images on the cloud using [UploadJuicer](http://www.uploadjuicer.com) .
 * [alleup](https://github.com/tih-ra/alleup) - Flexible way to resize and upload images to Amazon S3 or file system storages
+* [node-imager](https://github.com/madhums/node-imager) - Easy way to resize, crop and upload images to Rackspace cloudfiles
 * [node-graphviz](https://github.com/glejeune/node-graphviz) -- GraphViz for node
 * [node-mapnik](https://github.com/mapnik/node-mapnik) -- Mapnik bindings for high performance rendering of map tiles.
 * [node-mapserver](https://github.com/pagameba/node-mapserver) -- mapserver bindings for rendering mapserver MAP files via node
