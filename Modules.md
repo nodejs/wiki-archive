@@ -761,6 +761,7 @@ www-style proposals.
 <a name="wiki-rpc"></a>
 ## [RPC](#rpc)
 
+* [messenger](https://github.com/weixiyen/messenger.js) -- Dead Simple API for cross-service communication (supports Pub/Sub, Request/Reply, Fire and Forget models).
 * [nodeQuery](https://github.com/tblobaum/nodeQuery) -- nQuery.js lets you create, edit, update or delete the DOM in real-time using jQuery/Zepto style code written on the server
 * [nowjs](https://github.com/flotype/now) -- nowjs makes realtime web apps really easy (http://nowjs.com)
 * [rpc-socket](https://github.com/FLYBYME/rpc-socket) -- Multi socket support for JSON-RPC NOTE: still under development.
