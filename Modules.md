@@ -1285,6 +1285,7 @@ www-style proposals.
 * [node-yelp](https://github.com/olalonde/node-yelp) -- A wrapper for the Yelp's APIv2. Let's you search for businesses and get specific business information.
 * [pingdom](https://github.com/ryanbreen/node-pingdom) -- A module for accessing the Pingdom JSON API
 * [postageapp](https://github.com/postageapp/postageapp-nodejs) -- A module for sending emails through the PostageApp JSON API
+* [rackit](https://github.com/rossj/rackit/) -- A simple library for managing thousands of files on Rackspace Cloud Files
 * [ranger](https://github.com/mrduncan/ranger/) -- A simple library which wraps Campfire's API
 * [sailthru-client](https://github.com/sailthru/sailthru-node-client) -- A wrapper for Sailthru API
 * [SMSified-node](https://github.com/smsified/smsified-node) -- A module for sending and receiving SMS messages (text messages) with the SMSified API.
