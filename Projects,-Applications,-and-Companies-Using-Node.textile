@@ -201,6 +201,7 @@ This list is for websites and applications that are powered by node.js. If you'v
 * "Flickr Spy":http://github.com/ncr/flickr_spy -- Discover where your Flickr contacts are commenting
 * "GAIN Index":http://index.gain.org -- by the Global Adaptation Institute. Data-intensive site on Adaptation to climate change.
 * "G-Lock Analytics":http://glockanalytics.com — Realtime email analytics web application
+* "GoldFire Network":http://goldfire.me - Social gaming platform for real-time browser games
 * "Google+ Scraper":https://github.com/fhemberger/googleplus-scraper/ - Retrieve profile infos and posts from Google+ users
 * "Graffiti &beta;":http://yay3d.com/graffiti — Interactive multi-user shared canvas whiteboard
 * "GrowlHub":http://github.com/idris/growlhub - Growl Notifications for GitHub
