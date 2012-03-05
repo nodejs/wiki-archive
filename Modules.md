@@ -516,7 +516,7 @@ rendering process.
 * [nodejs-meta-templates](https://github.com/shimondoodkin/nodejs-meta-templates) -- like php mixed with html, processed twice, 1st  static data, 2nd dynamic data.
 * [normal-template](https://github.com/gmosx/normal-template) -- Normal templates are simple, yet powerful. They are safe, usable in non XML/HTML contexts and portable to any programming language.
 * [nun](https://github.com/akaspin/nun) -- Totally asynchronous non-blocking template engine for node.js
-* [node-dom](https://github.com/github.com/Nais/node-dom) -- Javascript fast W3C DOM generation.
+* [node-dom](https://github.com/github.com/Ayms/node-dom) -- Javascript fast W3C DOM generation.
 * [node.magic_dom](https://github.com/amix/node.magic_dom) -- A DSL for building HTML in node.js, similar to Python's Stan
 * [node-template](https://github.com/graphnode/node-template) -- Fast and light cached templates.
 * [node-properties](https://github.com/theteam/node-properties) -- Simple property reader, externalise your configuration through JSON
@@ -1247,20 +1247,20 @@ www-style proposals.
 * [node-armory](https://github.com/xtian/node-armory) -- A simple wrapper around Blizzard's REST API for World of Warcraft.
 * [node-beaconpush](https://github.com/cgbystrom/node-beaconpush) -- Client for the Beaconpush REST API. A real-time push service for browsers supporting WebSockets and Comet.
 * [node-bitly](https://github.com/tanepiper/node-bitly) -- A bit.ly API library for node.js - provides URL shortening/expanding.  Features full API.
-* [node-bot](https://github.com/Nais/node-bot) -- Fast and Real-time extraction of web pages information using node-dom (html,text,etc) based on given criterias
+* [node-bot](https://github.com/Ayms/node-bot) -- Fast and Real-time extraction of web pages information using node-dom (html,text,etc) based on given criterias
 * [node-c2dm](https://github.com/SpeCT/node-c2dm) -- A library to send messages using the Android Cloud to Device Messaging (C2DM) service.
 * [node-cloudfiles](https://github.com/nodejitsu/node-cloudfiles) -- A client implementation for Rackspace CloudFiles in node.js
 * [node-cloudservers](https://github.com/nodejitsu/node-cloudservers) -- A client implementation for Rackspace CloudServers in node.js
 * [node-dropbox](https://github.com/Rendez/node-dropbox) -- Node.js client for the Dropbox API
 * [node-flattr](https://github.com/antics/node-flattr) -- The flattr API client.
 * [node-foursquare](https://github.com/clintandrewhall/node-foursquare) -- A wrapper for the Foursquare v2 API.
-* [node-gadgets](https://github.com/Nais/node-gadgets) -- Real-time extraction from web pages of HTML gadgets and associated properties using node-dom based on given criterias 
+* [node-gadgets](https://github.com/Ayms/node-gadgets) -- Real-time extraction from web pages of HTML gadgets and associated properties using node-dom based on given criterias 
 * [node-gdata](https://github.com/ammmir/node-gdata) -- A generic Google Data API client library
 * [node-github](https://github.com/ajaxorg/node-github) -- A wrapper for the [GitHub API](http://develop.github.com/)
 * [node-gitteh](https://github.com/libgit2/node-gitteh) -- Async, stable, feature-complete bindings for the [libgit2](http://libgit2.github.com/) library.
 * [node-googleanalytics](https://github.com/ncb000gt/node-googleanalytics) -- Google Analytics GData export library
 * [node-googlemaps](https://github.com/moshen/node-googlemaps) -- A wrapper for the Google Maps API
-* [node-googleSearch](https://github.com/Nais/node-googleSearch) -- Implementation of Google Search Ajax API using node-dom
+* [node-googleSearch](https://github.com/Ayms/node-googleSearch) -- Implementation of Google Search Ajax API using node-dom
 * [node-gravatar](https://github.com/arnabc/node-gravatar) -- Node.js Gravatar URL generator, can be used with Node.js blogging frameworks 
 * [node-klout](https://github.com/edwardhotchkiss/node-klout) -- Extremely reliable Node.js Klout API Wrapper
 * [node-loggly](https://github.com/nodejitsu/node-loggly) --A client implementation for Loggly in node.js
