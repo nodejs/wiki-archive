@@ -18,7 +18,7 @@ Name | Node Version | Web Sockets | IP/Hostname | IRC | Repository | Free Plan |
 [Nodejitsu](http://nodejitsu.com) | 0.4.12, 0.6.x | Yes | Yes | #nodejitsu | [nodejitsu](http://github.com/nodejitsu) | Free - More info after beta | | In Private Beta
 [Nodester](http://nodester.com) | 0.4.9, 0.4.12, 0.6.12 | Yes | Yes | #nodester |[nodester](https://github.com/nodester) | Yes - Unlimited | No | Open (with invite)
 [JSApp.US](http://jsapp.us) | | | No | | [node-host](https://github.com/matthewfl/node-host) | | | Open signup, web editing/npm command
-[Node Ninja(JP)](https://node-ninja.com) | 0.6.11 | | Yes | Yes | | | | In Private Beta
+[Node Ninja(JP)](https://node-ninja.com) | 0.6.11 | Yes | Yes | | | | | In Private Beta
 
 Empty cells mean we weren't sure what to put there. 
 
