@@ -777,7 +777,6 @@ www-style proposals.
 * [node-pingback](https://github.com/chjj/node-pingback) -- Pingbacks for node.js, conforming to the pingback and xml-rpc spec.
 * [node-soap](https://github.com/milewise/node-soap) -- SOAP client and service (partial support).
 * [nodejs-light_rpc](https://github.com/romulka/nodejs-light_rpc) -- Simple server/client RPC, with minimal dependencies (uuid (can be removed to use simple increment)).
-* [node-zeromq](https://github.com/visionmedia/node-zeromq) -- fork of zeromq.node (zeromq in npm)
 * [zeromq.node](https://github.com/JustinTulloss/zeromq.node) -- 0MQ (zeroMQ) bindings for node.js
 * [thintalk](https://github.com/AndreasMadsen/thintalk) -- A minimal extendable RPC abstraction with buildin TPC and IPC support
 
