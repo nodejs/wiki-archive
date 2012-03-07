@@ -4,6 +4,11 @@
 * "Node In Action":http://www.manning.com/cantelon/ -- by [Mike Cantelon](https://github.com/mcantelon), [Nathan Rajlich](https://github.com/tootallnate), and [TJ Holowaychuk](https://github.com/visionmedia)
 * "The Node Beginner Book":http://www.nodebeginner.org/ -- A comprehensive tutorial for folks that are already proficient in other languages, but new to JavaScript and Node.js
 
+## Sites
+
+* NodeManual: http://www.nodemanual.org -- by [Cloud9 IDE](http://www.c9.io), a fork of the official Node.js API documentation, with a different organization, examples you can run in the browser, and additional tutorials
+* NodeBits: http://www.nodebits.org -- by Tim Caswell, a site dedicated to keeping the NodeJS spirit of innovation and creativity alive. This is done by providing a constant stream of ideas and sample projects.
+
 ## Articles
 
 * "Mastering Node":http://visionmedia.github.com/masteringnode/ - Open Source eBook by TJ Holowaychuk and the node community
