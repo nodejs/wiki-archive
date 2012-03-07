@@ -92,7 +92,7 @@ When editing this page please be as detailed as possible. Examples are encourage
    * `module.require()`
  * `net`
    * `net.connect()`
-   * `net.Socket.remotePort`, `bytesRead`, `bytesWrite`
+   * `net.Socket.remotePort`, `bytesRead`, `bytesWritten`
  * `os`
    * `os.arch()`, `os.platform()`, `os.uptime()`, `os.networkInterfaces()`
  * `path`
