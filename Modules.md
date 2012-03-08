@@ -939,6 +939,7 @@ www-style proposals.
 * [jsonsp](https://github.com/jaredhanson/node-jsonsp) -- JSON stream parser for Node.js.
 * [node-yajl](http://github.com/vibornoff/node-yajl) -- SAX-like evented JSON stream parser using [yajl](http://lloyd.github.com/yajl) version 2 (fork of [yajl-js](http://bitbucket.org/nikhilm/yajl-js))
 * [yajl-js](http://bitbucket.org/nikhilm/yajl-js) -- SAX-like evented JSON parsing using [yajl](http://lloyd.github.com/yajl)
+* [json2json](https://github.com/joelvh/json2json) -- Transform (reformat) JSON from one structure to another using JavaScript
 
 <a name="wiki-parsers-xml"></a>
 ### [XML](#parsers-xml)
