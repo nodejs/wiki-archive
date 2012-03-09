@@ -59,12 +59,13 @@ When editing this page please be as detailed as possible. Examples are encourage
 
  * `process`
    * `process.abort()`.
+   * `process.hrtime()`, hi-res timer with up to nanosecond granularity.
 
  * `querystring`
    * `querystring.parse(str, [sep], [eq], [options])`.
 
  * `tls`
-   * `tls.CLIENT_RENEG_LIMIT` and `tls.CLIENT_RENEG_WINDOW` for [mitigate session renegotiation attacks](http://nodejs.org/docs/latest/api/tls.html#client_initiated_renegotiation_attack_mitigation)
+   * `tls.CLIENT_RENEG_LIMIT` and `tls.CLIENT_RENEG_WINDOW` to [mitigate session renegotiation attacks](http://nodejs.org/docs/latest/api/tls.html#client_initiated_renegotiation_attack_mitigation)
    * `tls.connect(options, [secureConnectionListener])`.
    * `ciphers`, `rejectUnauthorized` and `socket` options to `tls.connect()`.
 
