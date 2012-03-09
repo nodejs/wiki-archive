@@ -7,6 +7,7 @@ When editing this page please be as detailed as possible. Examples are encourage
  * `child_process`
    * The `customFds` option to the `child_process.spawn()` method is deprecated. Only the values -1, 0, 1, 2 will work with `customFds` now and only if those are TTY file descriptors. You can however use the `stdinStream`, `stdoutStream`, and `stderrStream` options to achieve similar functionality.
    * You can no longer send a file descriptor through a unix pipe. Instead you can send a handle via `child_process.fork()`.
+  * The `.pid` property is not set to null when the child process exits. Listen for the `'exit'` event instead.
  * `dgram`
    * The `'unix_dgram'` type to the `dgram.createSocket()` is no longer supported. Use [bnoordhuis/node-unix-dgram](https://github.com/bnoordhuis/node-unix-dgram) instead. Note: The Unix domain datagram is *not* the Internet domain datagram (UDP) which stays supported. 
  * `dns`
