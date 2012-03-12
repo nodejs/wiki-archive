@@ -1346,7 +1346,7 @@ www-style proposals.
 * [miniqueue](https://github.com/hsch/node-miniqueue) -- A very simple in-memory queue for easy sequential processing
 * [$N](https://github.com/chjj/-N) -- Simple control flow with pretty syntax.
 * [nestableflow](https://github.com/minodisk/flow-js) -- Asynchronous nestable flow-control (serial, parallel, repeat, wait, function) module for Node.js, RequireJS, and browser.
-* [node-block](https://github.com/tasogarepg/node-block) -- An async contrl-flow library. Easily error handling.
+* [node-block](https://github.com/tasogarepg/node-block) -- An async control-flow library. Easily error handling.
 * [node.flow](https://github.com/dreamerslab/node.flow) -- A deadly simple flow control package for node.js
 * [node-fnqueue](https://github.com/kilianc/node-fnqueue) -- Functions chain utility
 * [node-chain](https://github.com/ArtS/node-chain) -- Simple call chaining library for node.js
@@ -1460,4 +1460,4 @@ www-style proposals.
 * [Gauss](http://github.com/stackd/gauss) - JavaScript statistics and analytics library
 * [tty.js](https://github.com/chjj/tty.js) - a terminal for your browser
 * [java](https://github.com/nearinfinity/node-java) -- Bridge API to connect with existing Java APIs
-* [ExtJS4 Chat](https://github.com/MikhailTatsky/Chat) -- ExtJS4 Chat/a
+* [ExtJS4 Chat](https://github.com/MikhailTatsky/Chat) -- ExtJS4 Chat
