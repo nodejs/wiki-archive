@@ -723,7 +723,6 @@ www-style proposals.
 * [jsftp](https://github.com/sergi/jsftp) -- A sane, light and concise client implementation of the FTP protocol
 * [node-ftp](https://github.com/mscdex/node-ftp) -- An FTP client module for node.js
 * [ftp-get](https://github.com/SaltwaterC/ftp-get) -- Simple to use node.js FTP client for downloading remote files
-* [node-nntp](https://github.com/mscdex/node-nntp) -- An NNTP (usenet/newsgroups) client module for node.js
 * [NodeFTPd](https://github.com/billywhizz/nodeftpd) -- Node FTP Server ... updated fork [here](https://github.com/alanszlosek/nodeftpd)
 * [node-ftpclient](https://github.com/seanhess/node-ftpclient) -- Node FTP Client
 
@@ -748,6 +747,7 @@ www-style proposals.
 <a name="wiki-tcp-other"></a>
 ### [Other networking](#tcp-other)
 
+* [node-nntp](https://github.com/mscdex/node-nntp) -- An NNTP (usenet/newsgroups) client module for node.js
 * [node-snpp](https://github.com/jsanders/node-snpp) -- Node SNPP server library
 * [mdns](https://github.com/agnat/node_mdns) -- mdns/zeroconf/bonjour service discovery add-on
 * [macaddr](https://github.com/carter-thaxton/macaddr) -- Obtain MAC addresses for current machine from Node
