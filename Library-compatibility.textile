@@ -7,6 +7,7 @@ h2. Node v0.6.0
 * "immortal: v0.2.1":https://github.com/AndreasMadsen/immortal
 * "configme: v0.2.0":https://github.com/AndreasMadsen/configme
 * "node-talib: v0.1.0":https://github.com/oransel/node-talib
+* "corejs: v0.0.0":https://github.com/corejs/corejs
 
 h2. Node v0.5.0-pre
 * "quickcheck v0.0.0":https://github.com/mcandre/node-quickcheck
