@@ -1076,6 +1076,7 @@ www-style proposals.
 <a name="wiki-debugging"></a>
 ## [Debugging / Console Utilities](#debugging)
 
+* [jsdev](https://github.com/yuest/jsdev) -- a wrapper for Douglas's JSDev
 * [ain](https://github.com/akaspin/ain) -- Brain-free syslog logging
 * [cfdump.js](https://github.com/figital/cfdump.js) -- a more visually inspiring way to dump your objects to a browser
 * [cli-color](https://github.com/medikoo/cli-color) -- colors and formatting for the console
