@@ -607,7 +607,7 @@ www-style proposals.
 * [nodemon](https://github.com/remy/nodemon) -- Monitors all source files, restarts node on changes. Command-line usage, code-passive with ignore list.
 * [node-linter](https://github.com/kof/node-linter) -- generic lint wrapper for JSLint, closure-linter, closure-compiler, and JavaScript Lint.
 * [nib.js](https://github.com/blambeau/nib.js) -- package and minify JavaScript/coffeescript projects to be embedded in the browser as a single .js file 
-* [weber](https://github.com/hiddentao/weber) -- dynamically compiling and minifying scripts, stylesheets and templates for front-end delivery, including Coffeescript, Eco, Stylus, etc.
+* [weber](https://github.com/hiddentao/weber) -- dynamically compiling and minifying scripts, stylesheets and templates on-the-fly, including Coffeescript, Eco, Stylus, etc.
 * [nclosure](http://gatapia.github.com/nclosure/) -- Compiler, Style Checker, Utility Library, Unit Testing Framework, JSDoc Documentation Tool.  Built on top of Google Closure tools.
 * [quickcheck](https://github.com/mcandre/node-quickcheck) -- Port of the Haskell QuickCheck unit testing framework
 * [buildr](https://github.com/balupton/buildr.npm) -- Javascript Project Builder, Compresses Images, CSS and JS, Bundles CSS and JS, Checks Javascript, Supports SubPackages/Plugins
