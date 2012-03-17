@@ -79,6 +79,7 @@ h2. Companies
 * "Moonshadow Mobile":http://www.moonshadowmobile.com -- Using Node.js to handle communication between a web client and a geospatial server
 * "MyBrands":http://www.mybrands.de -- web-tracker and product recommendations (node + couchdb)  
 * "myGengo":http://status.mygengo.com/ - myGengo uses Node.js for some internal status stuff.
+* "nearForm":http://nearform.com - Node.js and mobile apps, systems integration.
 * "neoSource":http://www.neosource.cl -- Based in Santiago, Chile. Specializes on Distributed Solutions.  
 * "New Leaf Digital":http://newleafdigital.com -- Independent development shop specializing in Node.js and Drupal. Creator of "Spanish Flashcards":http://apps.newleafdigital.com/flashcards and "Interactive Lists":http://apps.newleafdigital.com/lists
 * "NewsBasis":http://newsbasis.com -- Web crawler and async work in node
