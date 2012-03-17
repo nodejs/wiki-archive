@@ -276,6 +276,7 @@ This list is for websites and applications that are powered by node.js. If you'v
 * "stackvm":http://github.com/pkrumins/stackvm -- Virtual machines on the web!
 * "Substance":https://github.com/michael/substance — A data-driven and cloud-aware realtime document authoring engine
 * "Sun Perks":https://www.sunperks.com - The Sun newspapers loyalty club. Entire solution developed in node.js by Clock Limited
+* "Sunday Business Post":http://businesspost.ie - Ireland's leading business newspaper
 * "Szpil":https://szpil.com - CRM using Node and TokyoCabinet. Shared client/server database and model code, user interface decoupled from the network, API retrieval and authorization performed at the meta-data layer using set union and intersection on indexes to avoid JSON deserialization/serialization overhead.
 * "teamit.org":http://teamit.org - Teaim iT is a free and simple issue tracker for small teams and individuals
 * "The API Playground":http://github.com/jashkenas/api-playground - A website where journalists can play with API examples. (CoffeeScript/Express) "apiplayground.org":http://apiplayground.org
