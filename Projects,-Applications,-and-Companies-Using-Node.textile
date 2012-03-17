@@ -179,6 +179,7 @@ This list is for websites and applications that are powered by node.js. If you'v
 * "CamanJS":https://github.com/meltingice/CamanJS/tree/node - NodeJS port of a Canvas Image Manipulation Library
 * "candy-node":https://github.com/pstadler/candy-node - Deploy "Candy":http://amiadogroup.github.com/candy/ (a JavaScript-based chat client for XMPP) as a node.js application
 * "cassiterite":http://github.com/kurokikaze/cassiterite -- Another blogging engine based on node.js + Tokyo Tyrant + nginx
+* "Chartaca":http://chartaca.com - simple real-time analytics
 * "Chilitweets":http://chilitweets.com - The service discovers the hottest links in your Twitter timeline. Node.js is used in the backed to fetch Tweets and resolve URLs.
 * "Clipboard":http://www.clipboard.com - Service that lets you clip, save &amp; share the web. Built on Node.js with Riak & Redis.
 * "Cloud9":http://www.cloud9ide.com -- Cloud9 IDE is aiming to be the IDE for Javascript developers, built with NodeJS and lots of other Node modules
