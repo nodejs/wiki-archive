@@ -1057,6 +1057,7 @@ www-style proposals.
 * [NodePie](https://github.com/andris9/NodePie) - Simple RSS/Atom parser for Node.JS
 * [node-musicmetadata](https://github.com/leetreveil/node-musicmetadata) - Get music metadata asynchronously from node streams.
 * [node-struct](https://github.com/xdenser/node-struct) -- Parse/format binary data in buffers.
+* [reified](https://github.com/Benvie/reified) -- JS Binary Data API. Structs, arrays, bitfields, and data. Reify and Reference like nobody's business.
 * [node-feedparser](https://github.com/danmactough/node-feedparser) - RSS, Atom, and RDF feed parsing in Node.js
 * [node-opmlparser](https://github.com/danmactough/node-opmlparser) - OPML parsing in Node.js
 * [VIE](https://github.com/bergie/VIE) - RDFa parsing in Node.js
