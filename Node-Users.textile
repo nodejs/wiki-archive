@@ -900,6 +900,8 @@ h2. UTC+8
 ** "GitHub":http://github.com/jackey
 * Farid Neshat (alFReD-NSH), Kuala Lumpur, Malaysia
 ** "GitHub":http://github.com/alFReD-NSH , "Twitter":http://twitter.com/alFRed88NSH
+* Firdaus Ramlan (firdausramlan), Kuala Lumpur, Malaysia
+** "GitHub":http://github.com/firdausramlan, "Twitter":http://twitter.com/firdaus5775
 
 h2. UTC+9
 
