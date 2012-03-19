@@ -34,7 +34,7 @@ VPS providers, which often require you to set everything up yourself, including 
 * [GleSYS](http://glesys.com/vps.php)
 * [Host Europe](http://www.hosteurope.de)
 * [IPAP](http://ipap.co) - Consult the many comments at [lowendbox](http://www.lowendbox.com/) before considering these guys…
-* [Joyent](http://www.joyent.com/services/cloudhosting)
+* [Joyent](http://www.joyentcloud.com/products/appliances/nodejs-smartmachine/)
 * [Linode](http://www.linode.com)
 * [Oversun Scalaxy](http://www.scalaxy.ru) - Site in Russian
 * [Prgmr](http://prgmr.com)
