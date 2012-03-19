@@ -1345,6 +1345,7 @@ www-style proposals.
 * [funk](https://github.com/masylum/funk) -- Asynchronous parallel functions made funky!
 * [futures](https://github.com/coolaj86/futures) - Asynchronous Method Queueing, Futures, Promises, Subscriptions, and other async goodies
 * [promise](https://github.com/megakorre/promise) -- A Continuation handler (monad) with a condition system for errors
+* [gate](https://github.com/nakamura-to/gate) -- An utility to await multiple asynchronous calls 
 * [groupie](https://github.com/alexkwolfe/groupie) -- A simple control flow library for executing multiple functions as a group or in a chain, calling back when complete.
 * [Ignite](http://www.ignitejs.com/) -- An easy-to-use async programming framework inspired by UML2 state machines.
 * [jam](http://github.com/chakrit/jam) -- Monadic continuation/callbacks/async helper.
