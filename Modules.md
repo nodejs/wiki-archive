@@ -1019,6 +1019,7 @@ www-style proposals.
 * [node-brainfuck](https://github.com/masylum/node-brainfuck) -- Brainfuck interpreter
 * [node-discount](https://github.com/visionmedia/node-discount) -- C markdown parser "discount" bindings
 * [node-csv](https://github.com/voodootikigod/node-csv) -- Efficient Evented CSV Parsing.
+* [node-opds-parser](https://github.com/musubu/node-opds-parser) -- OPDS Catalog Feed Parser for node.
 * [ya-csv](https://github.com/koles/ya-csv) -- Evented CSV parser and writer with configurable separator, escape and quote characters
 * [lastname](https://github.com/selead/lastname) -- Parse text and search persons by names and surnames. Only at russian for now.
 * [node-csv-parser](https://github.com/wdavidw/node-csv-parser) -- Full featured CSV parser with simple api and tested against large datasets.
