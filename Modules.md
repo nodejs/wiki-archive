@@ -995,7 +995,7 @@ www-style proposals.
 <a name="wiki-parser-generators"></a>
 ###  [Parser Generators](#parser-generators)
 
-* [2kenizer](https://github.com/LuvDaSun/2kenizer) -- It streams, it caches and it's simple, it matches RegExp's and strings.
+* [2kenizer](https://github.com/elmerbulthuis/2kenizer) -- It streams, it caches and it's simple, it matches RegExp's and strings.
 * [bnf](https://github.com/navstev0/nodebnf) -- BNF parser, compiler, and interpreter framework.
 * [canopy](https://github.com/jcoglan/canopy) -- PEG parser compiler for JavaScript
 * [jison](https://github.com/zaach/jison) -- A parser generator written in JavaScript; similar to Bison for C
