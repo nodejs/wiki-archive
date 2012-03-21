@@ -1077,6 +1077,7 @@ www-style proposals.
 * [pdc](https://github.com/pvorb/node-pandoc) -- A [pandoc](http://johnmacfarlane.net/pandoc/) wrapper for node.
 * [pcap-parser](https://github.com/nearinfinity/node-pcap-parser) -- Packet capture (pcap) file parser written in pure javascript
 * [picksy](https://github.com/skid/picksy) -- Extracts the relevant text from a html article page
+* [argtypes](https://github.com/cwolves/argtypes) -- Function arguments type parser (Allows typed & optional arguments)
 
 <a name="wiki-debugging"></a>
 ## [Debugging / Console Utilities](#debugging)
