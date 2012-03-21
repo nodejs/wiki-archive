@@ -166,6 +166,8 @@ h2. UTC-8
 ** "GitHub":http://github.com/assaf, "Twitter":http://twitter.com/assaf, "Website":http://labnotes.org
 * Nuno Job (dscape), Mountain View, CA, US
 ** "Website":http://www.nunojob.com, "GitHub":http://github.com/dscape, "Twitter":http://twitter.com/dscape
+* Robby Colvin (geetarista), Palo Alto, CA, US
+** "Website":http://robbycolvin.com, "Github":http://github.com/geetarista, "Twitter":http://twitter.com/geetarista
 
 h2. UTC-7 (-6)
 
