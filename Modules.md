@@ -1,4 +1,4 @@
-## Search for modules with [search.npmjs.org](http://search.npmjs.org/), as well as [toolbox.no.de](http://toolbox.no.de/).
+## Search for modules with [search.npmjs.org](http://search.npmjs.org/), [toolbox.no.de](http://toolbox.no.de/), and [eirikb.github.com/nipster](http://eirikb.github.com/nipster/).
 
 ## Adding to this page
 
