@@ -744,7 +744,7 @@ www-style proposals.
 * [xmpp.js](http://xmppjs.prosody.im/) -- Library for implementing XMPP server components with Node
 * [node-xmpp](https://github.com/astro/node-xmpp) -- Node XMPP library
 * [node-simple-xmpp](https://github.com/arunoda/node-simple-xmpp) -- Simple High Level NodeJS XMPP Client
-* [node-xmpp-bosh](https://github.com/dhruvbird/node-xmpp-bosh) -- An XMPP BOSH server running on node.js
+* [node-xmpp-bosh](https://github.com/dhruvbird/node-xmpp-bosh) -- An XMPP BOSH (http) and WebSocket server
 * [node-bosh-xmpp-client](https://github.com/eelcocramer/node-bosh-xmpp-client) -- An XMPP BOSH client API compatible with [node-xmpp](https://github.com/astro/node-xmpp).
 * [node-xmpp-serviceadmin](https://github.com/flosse/node-xmpp-serviceadmin) -- Service Administration (XEP-0133) library for node-xmpp
 * [node-xmpp-joap](https://github.com/flosse/node-xmpp-joap) -- Jabber Object Access Protocol (XEP-0075) library for node-xmpp
