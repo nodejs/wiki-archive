@@ -47,7 +47,7 @@ See the "Contributing":https://github.com/ry/node/wiki/Contributing page
 
 h2. API Documents
 
-see the "API Doc":http://nodejs.org/docs/latest/api/index.html
+see the "API Doc":http://nodejs.org/api/
 
 h2. Logos
 
