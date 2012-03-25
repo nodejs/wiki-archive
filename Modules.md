@@ -1476,3 +1476,4 @@ www-style proposals.
 * [tty.js](https://github.com/chjj/tty.js) - a terminal for your browser
 * [java](https://github.com/nearinfinity/node-java) -- Bridge API to connect with existing Java APIs
 * [ExtJS4 Chat](https://github.com/MikhailTatsky/Chat) -- ExtJS4 Chat
+* [difflib.js](https://github.com/qiao/difflib.js) -- Text diff library, ported from Python's difflib module
