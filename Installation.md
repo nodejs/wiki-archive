@@ -28,7 +28,7 @@ SyntaxError: invalid syntax
 
    it is because Python3 is your default Python version. To fix this issue you have to set Python2 temporary as your default Python:
 
-```
+```sh
 export PYTHON=`which python2`
 ```
 
@@ -38,8 +38,8 @@ Maybe you need to change your PYTHONHOME as well. If you have any further instal
 
 Do something like this
 
-```
-tar -zxf node-v0.6.14.tar.gz //Download this from nodejs.org
+```sh
+tar -zxf node-v0.6.14.tar.gz #Download this from nodejs.org
 cd node-v0.6.14
 ./configure
 make
@@ -48,10 +48,10 @@ sudo make install
 
 Or, if you'd like to install from the repository
 
-```
+```sh
 git clone https://github.com/joyent/node.git
 cd node
-git checkout v0.6.14//Try checking nodejs.org for what the stable version is
+git checkout v0.6.14 #Try checking nodejs.org for what the stable version is
 ./configure
 make
 sudo make install
