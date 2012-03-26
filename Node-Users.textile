@@ -430,9 +430,9 @@ h2. UTC-3 (-2)
 * Demián Rodriguez (demian85), Buenos Aires, Argentina
 ** "Twitter":http://www.twitter.com/demianr85, "GitHub":http://github.com/demian85, "Google Profile":https://profiles.google.com/demian85
 * Fernando Wermus (fwermus), Buenos Aires, Argentina 
-** "Website":www.mate-comunication.com, "Twitter":http://www.twitter.com/fwermus
+** "Website":http://www.mate-comunication.com, "Twitter":http://www.twitter.com/fwermus
 * Fabricio Leonardo Sodano Pascazi (fsodano), Buenos Aires, Argentina 
-** "Website":www.flsx.com, "Twitter":http://www.twitter.com/fsodano, "GitHub":http://github.com/fsodano
+** "Website":´http://www.flsx.com.ar, "Twitter":http://www.twitter.com/fsodano, "GitHub":http://github.com/fsodano
 
 h2. UTC±0 (0)
 
