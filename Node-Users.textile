@@ -431,6 +431,8 @@ h2. UTC-3 (-2)
 ** "Twitter":http://www.twitter.com/demianr85, "GitHub":http://github.com/demian85, "Google Profile":https://profiles.google.com/demian85
 * Fernando Wermus (fwermus), Buenos Aires, Argentina 
 ** "Website":www.mate-comunication.com, "Twitter":http://www.twitter.com/fwermus
+* Fabricio Leonardo Sodano Pascazi (fsodano), Buenos Aires, Argentina 
+** "Website":www.flsx.com, "Twitter":http://www.twitter.com/fsodano, "GitHub":http://github.com/fsodano
 
 h2. UTC±0 (0)
 
