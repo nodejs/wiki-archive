@@ -770,6 +770,7 @@ www-style proposals.
 * [node-ping](https://github.com/c0d3x42/node-ping) -- Simple wrapper around fping 
 * [shorty](https://github.com/mtd/shorty) -- Shorty is a lightweight, high performance SMPP client and server.
 * [stomp-client](https://github.com/easternbloc/node-stomp-client) -- A STOMP client for Node.js
+* [node-ssltunnel](https://github.com/anodejs/node-ssltunnel) -- A lightweight TCP over SSL / TLS tunnel running over node. If you need to add confidentiality, integrity, and authenticity to your TCP stream this is the tool for you.
 
 <a name="wiki-rpc"></a>
 ## [RPC](#rpc)
