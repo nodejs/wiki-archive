@@ -13,7 +13,7 @@ When editing this page please be as detailed as possible. Examples are encourage
 
  * `cluster`
    * `cluster.fork()` no longer return a `child_process.fork()` object use `cluster.fork().process` to get the object.
-   * the `'exit'` event is renamed to `'death'`.
+   * the `'death'` event on the `cluster` object is renamed to `'exit'`.
    * the `kill()` method is renamed to `destroy()`.
    * the `CLUSTER_WORKER_ID` env is now called `CLUSTER_UNIQUE_ID`, but you should not have used that any way.
    * workers do now kill them self when they accidentally losses there connection with the master.
