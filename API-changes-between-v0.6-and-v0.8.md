@@ -26,7 +26,7 @@ When editing this page please be as detailed as possible. Examples are encourage
    * `arguments` and `options` arguments of `child_process.fork()` became an option.
 
  * `readline`
-   * `arguments` of `rl.createInterface(input, output, completer)` became an option as `rl.createInterface(options)`
+   * `arguments` of `rl.createInterface` became an option as `rl.createInterface(options)` but still took an old style as rl.createInterface(input, output, completer)
 
 ## Added:
 
