@@ -4,6 +4,7 @@ When editing this page please be as detailed as possible. Examples are encourage
   * `http.Client()`
   * `path.{exists,existsSync}` was moved to `fs.{exists,existsSync}`
   * `tty.setRawMode(mode)` was moved to `tty.ReadStream#setRawMode()` (i.e. `process.stdin.setRawMode()`) 
+
 ## Removed:
   * `waf` build system - `node.js` will be using `gyp` now
   * `sys` throws
