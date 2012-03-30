@@ -7,6 +7,7 @@ When editing this page please be as detailed as possible. Examples are encourage
 
 ## Removed:
   * `waf` build system - `node.js` will be using `gyp` now
+    * If you are a native module author, migrate to [`node-gyp`](https://github.com/TooTallNate/node-gyp) ASAP!
   * `sys` throws
 
 ## Changed:
