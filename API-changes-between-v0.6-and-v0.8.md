@@ -3,7 +3,7 @@ When editing this page please be as detailed as possible. Examples are encourage
 ## Deprecated:
   * `http.Client()`
   * `path.{exists,existsSync}` was moved to `fs.{exists,existsSync}`
-
+  * `tty.setRawMode(mode)` was moved to `tty.ReadStream#setRawMode()` (i.e. `process.stdin.setRawMode()`) 
 ## Removed:
   * `waf` build system - `node.js` will be using `gyp` now
   * `sys` throws
@@ -68,6 +68,7 @@ When editing this page please be as detailed as possible. Examples are encourage
    * `tls.CLIENT_RENEG_LIMIT` and `tls.CLIENT_RENEG_WINDOW` to [mitigate session renegotiation attacks](http://nodejs.org/docs/latest/api/tls.html#client_initiated_renegotiation_attack_mitigation)
    * `tls.connect(options, [secureConnectionListener])`.
    * `ciphers`, `rejectUnauthorized` and `socket` options to `tls.connect()`.
+   * `cleartextStream.getCipher()` was added in the api doc and open to the public.
 
  * `zlib`
    * `dictionary` option.
