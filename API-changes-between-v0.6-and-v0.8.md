@@ -31,6 +31,9 @@ When editing this page please be as detailed as possible. Examples are encourage
  * `readline`
    * `arguments` of `rl.createInterface` became an option as `rl.createInterface(options)` but still took an old style as rl.createInterface(input, output, completer)
 
+ * `fs`
+   * `path.exists()` and `path.existsSync()` has moved to `fs.exists()` and `fs.existsSync()`.
+
 ## Added:
 
  * `child_process`
@@ -53,7 +56,6 @@ When editing this page please be as detailed as possible. Examples are encourage
 
  * `fs`
    * `fs.appendFile()` and `fs.appendFileSync()`.
-   * `fs.exists()` and `fs.existsSync()`.
    * `wx`, `wx+`, `ax`, and `ax+` modes to `fs.open()` and `fs.openSync()`.
 
  * `http`
