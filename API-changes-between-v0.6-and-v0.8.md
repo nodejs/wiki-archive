@@ -16,6 +16,7 @@ When editing this page please be as detailed as possible. Examples are encourage
    * the `'exit'` event is renamed to `'death'`.
    * the `kill()` method is renamed to `destroy()`.
    * the `CLUSTER_WORKER_ID` env is now called `CLUSTER_UNIQUE_ID`, but you should not have used that any way.
+   * workers do now kill them self when they accidentally losses there connection with the master.
 
  * `http`
    * `http.Server` emits `'connect'` event instead of `'upgrade'` when the CONNECT method is requested.
@@ -41,6 +42,9 @@ When editing this page please be as detailed as possible. Examples are encourage
    * `Worker` object which is provided from `cluster.workers` (in the master) or `cluster.worker` (in the worker).
    * `env` optional argument to `cluster.fork()`.
    * `cluster.setupMaster()` and `cluster.settings`.
+   * `cluster.disconnect()` and `worker.disconnect()`.
+   * `worker.uniqueID` what there before was internally known as `workerID`.
+   * `worker.suicide` flag set when worker disconnect or die, indicate if this was an accidentally death.
 
  * `crypto`
    * `crypto.getDiffieHellman()`.
