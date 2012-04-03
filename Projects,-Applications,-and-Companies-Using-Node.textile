@@ -49,6 +49,7 @@ h2. Companies
 * "Fog Creek":http://blog.fogcreek.com/the-trello-tech-stack/ - uses node to power "Trello":http://trello.com, its "list-of-lists" collaboration web app
 * "Forward":http://www.forwardtechnology.co.uk/ - Real-time mapping and click-tracking (also "Metris":http://nko2-forward.herokuapp.com/)
 * "Fostle":http://fostle.com/
+* "Frog Design":http://www.frogdesign.com/
 * "Geeklist":http://geekli.st/
 * "Ge.tt":http://ge.tt Kick ass file sharing service - (oh and it's real time)
 * "Gigboard":http://gigboard.com - Locational based gig finder.
@@ -94,7 +95,7 @@ h2. Companies
 * "Original Machine":http://originalmachine.com - using node for a plethora of different web services.
 * "Palm/HP":http://developer.palm.com/ - powers all the services in the new WebOS platform for mobile devices.
 * "Pearson":http://pearson.com/
-* "Peek Inc.":http://www.peek.ly/ - Uses Node.js on for lightweight ultrafast web services. Peek's cloud brings smart apps to ultra mass market devices from leading brands globally.
+* "Peek Inc.":http://www.peek.ly/ - Uses Node.js for lightweight ultrafast web services. Peek's cloud brings smart apps to ultra mass market devices from leading brands globally.
 * "Pilvy":http://www.pilvy.com/ -- backend is all node.js, including syncing with third-party services
 * "Pixelspark":http://www.pixelspark.nl/ -- uses node.js for its "CoStore":http://costore.net online data collaboration and synchronization platform
 * "Plurk":http://www.plurk.com/ -- using node.js for its "new comet system":http://amix.dk/blog/post/19490#Plurk-Instant-conversations-using-comet
