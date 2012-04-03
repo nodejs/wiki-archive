@@ -1457,6 +1457,7 @@ www-style proposals.
 * [append](https://github.com/pvorb/node-append) -- Append properties from one object to another.
 * [chat.io](https://github.com/DanielBaulig/chat.io) -- A simple chat solution build on socket.io
 * [audience-meter](https://github.com/rs/audience-meter) -- A simple audience meter based on Socket.IO, perfect for live events tracking
+* [file-utils](https://github.com/Gagle/Node-FileUtils) -- File and directory utilities.
 * [node-browserify](https://github.com/substack/node-browserify) -- Browser-side require() for your node modules and npm packages
 * [nova](https://github.com/wearefractal/nova) -- Node.js libraries ported to the browser. Write once, run everywhere.
 * [node-talib](https://github.com/oransel/node-talib) -- Technical Analysis Library with 100+ indicators and candlestick pattern recognition
