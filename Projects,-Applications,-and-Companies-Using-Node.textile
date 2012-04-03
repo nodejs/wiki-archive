@@ -94,6 +94,7 @@ h2. Companies
 * "Original Machine":http://originalmachine.com - using node for a plethora of different web services.
 * "Palm/HP":http://developer.palm.com/ - powers all the services in the new WebOS platform for mobile devices.
 * "Pearson":http://pearson.com/
+* "Peek Inc.":http://www.peek.ly/ - Uses Node.js on for lightweight ultrafast web services. Peek's cloud brings smart apps to ultra mass market devices from leading brands globally.
 * "Pilvy":http://www.pilvy.com/ -- backend is all node.js, including syncing with third-party services
 * "Pixelspark":http://www.pixelspark.nl/ -- uses node.js for its "CoStore":http://costore.net online data collaboration and synchronization platform
 * "Plurk":http://www.plurk.com/ -- using node.js for its "new comet system":http://amix.dk/blog/post/19490#Plurk-Instant-conversations-using-comet
