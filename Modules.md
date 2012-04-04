@@ -604,6 +604,7 @@ www-style proposals.
 * [run](https://github.com/DTrejo/run.js) -- Rerun your js file whenever there's a change in the current directory: <code>npm install -g run</code>, <code>runjs yourcode.js</code>. Never alt-tab to your terminal again.
 * [node-settings](https://github.com/mgutz/node-settings) -- Simple, hierarchical environment-based app settings.
 * [Jake](https://github.com/mde/jake) -- JavaScript build tool similar to Make or Rake.
+* [Grunt](https://github.com/cowboy/grunt) -- a task-based command line build tool for JavaScript projects.
 * [muffin.js](https://github.com/hornairs/muffin) -- CoffeeScript compilation, minification, concatenation, copying, growl, and SLOC counting helpers for Cakefiles.
 * [Masson](https://github.com/wdavidw/node-masson) -- Build system and rule management similar to tools like Make, Ant or Rake
 * [Ready.js](https://github.com/dsimard/ready.js) -- Continuous JavaScript integration using JSLint, Google Compiler, Node.js and Git
