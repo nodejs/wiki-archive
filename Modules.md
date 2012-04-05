@@ -1483,3 +1483,4 @@ www-style proposals.
 * [java](https://github.com/nearinfinity/node-java) -- Bridge API to connect with existing Java APIs
 * [ExtJS4 Chat](https://github.com/MikhailTatsky/Chat) -- ExtJS4 Chat
 * [difflib.js](https://github.com/qiao/difflib.js) -- Text diff library, ported from Python's difflib module
+* [jsbundle](https://github.com/proxv/jsbundle) -- Simple and clean bundling of your Node modules for use in the browser.
