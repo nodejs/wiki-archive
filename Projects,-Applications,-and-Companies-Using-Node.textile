@@ -62,6 +62,7 @@ h2. Companies
 * "ingk labs":http://ingk.com - Rapidly create startup prototypes with a strong emphasis on DRY
 * "ipowerhouse":http://www.ipowerhouse.com - Focused on haXe/Node.js  game dev; first all haxe/node bingo product.
 * "i.TV":http://i.tv - Next gen social media.
+* "Jetsetter":http://www.jetsetter.com/ - Travel and Vacation Deals. Node.js powers the mobile website. 
 * "Joshfire":http://www.joshfire.com/ - Internet Of Things company, Multi-device app development
 * "Joinbox":http://www.joinbox.com/ - News/Email/Social Networks aggregator implemented with Node.js using several node modules like MongoDB, Snappy, and ICU.
 * "Joyent":http://www.joyent.com/
