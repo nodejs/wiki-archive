@@ -1124,6 +1124,7 @@ www-style proposals.
 * [node-inspector](https://github.com/dannycoates/node-inspector) -- browser based node debugger
 * [node-custom-debug](https://github.com/bobrik/node-custom-debug) -- debugger on custom port on the fly, good addition for node-inspector to inspect many instances on the one server with ease
 * [node-cli](https://github.com/SchizoDuckie/Node-CLI/) -- cli.clear().move(20,20).color('green').write('Node-cli').down(1).back(7).color('yellow').write('Rocks!')
+* [nodetime](https://github.com/dmelikyan/nodetime) -- performance profiler for node.js
 * [nogg](https://github.com/jaekwon/nogg) -- Simple file/stdio logging for node.js
 * [profilejs](https://github.com/HerdHound/profilejs) -- profiling middleware for use with node-inspector (profiles Express handlers)
 * [prettyjson](http://rafeca.com/prettyjson/) -- Package for formatting JSON data in a coloured YAML-style, perfect for CLI output.
