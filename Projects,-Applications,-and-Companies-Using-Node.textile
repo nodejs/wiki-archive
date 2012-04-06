@@ -307,3 +307,4 @@ This list is for websites and applications that are powered by node.js. If you'v
 * "musicquiz":http://musicquiz.to - multiplayer music quiz game using express socket.io and mongodb
 * "Page Watch Report":http://pagewatchreport.com - Include web page watch, site down monitor, social media, etc., using express, jquery, and mongodb
 * "Chrome DevTools Autosave":https://github.com/NV/chrome-devtools-autosave — uses Node to write changes made in Chrome DevTools
+* "Las Vegas Athletic Clubs":http://github.com/Paul-J-Barrett/emcheck - We use Node for emergency offline  check in of members to our health club.
