@@ -1462,7 +1462,7 @@ www-style proposals.
 
 
 <a name="wiki-monitoring-alerting"></a>
-## [JavaScript threads](#monitoring-alerting)
+## [Monitoring and Alerting](#monitoring-alerting)
 
 * [Nervous](https://github.com/gflarity/nervous) -- Pluggable monitoring system with support for Graphite.
 * [Response](https://github.com/gflarity/response) -- Pluggable alerting system and Graphite proxy.
