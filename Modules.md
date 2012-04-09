@@ -1142,6 +1142,7 @@ www-style proposals.
 * [tracer](https://github.com/baryon/tracer) -- A powerful and customizable logging library for node.js. support color console with timestamp, line number, method name, file name and call stack. you can set transport to file, stream, database(ex: mongodb and clouddb, simpledb). keywords: log, logger, trace  
 * [underscore.logger](https://github.com/viatropos/underscore.logger) -- Cross-browser and Node.js empowered logging that can be used as an Underscore mixin.
 * [v8-profiler](https://github.com/dannycoates/v8-profiler) -- v8 profiler bindings with node-inspector integration
+* [node-webkit-agent](https://github.com/c4milo/node-webkit-agent) -- WebKit devtools agent that leverages remote debugging and profiling of nodejs applications using built-in webkit devtools front-end.
 * [webrepl](https://github.com/mmattozzi/webrepl) -- Serve a repl for a node process via a simple web ui
 * [Replica](https://github.com/zentooo/Replica) -- Repl to exec JavaScript code on browser
 * [Shell](https://github.com/wdavidw/node-shell) -- Nice looking shell applications with pluggable middlewares
