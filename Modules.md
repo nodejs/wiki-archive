@@ -656,6 +656,7 @@ www-style proposals.
 * [remap](https://github.com/dominictarr/remap) - reroute require for mocks, wrappers, or shenanigans (useful for testing)
 * [a3](https://github.com/twojcik/a3) -- a3 module loads any folder of code into an 'API Tree'
 * [haba](https://github.com/crcn/haba) -- plugin library
+* [sourcemint-platform-nodejs](https://github.com/sourcemint/platform-nodejs) -- [sourcemint-loader-js](https://github.com/sourcemint/loader-js) (optimized CommonJS package mappings based JavaScript module loader) for NodeJS
 
 <a name="wiki-security"></a>
 ## [OpenSSL / Crypto / Hashing](#security)
