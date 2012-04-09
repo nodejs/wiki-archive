@@ -68,6 +68,7 @@ h2. Companies
 * "Joyent":http://www.joyent.com/
 * "Koding":http://kodingen.com/ - Browser-based IDE and Cloud Computing Platform for PHP/Ruby/Python and others.
 * "Klout":http://klout.com/
+* "LayerVault":http://layervault.com/ - Version control for designers
 * "LearnBoost":http://www.learnboost.com/ - free "gradebook":http://www.learnboost.com and lesson plan software
 * "Left Logic":http://leftlogic.com
 * "LinkiT projects":http://linkit-projects.nl - Use nodejs for developing javascript sites. (http://yalia.nl/
