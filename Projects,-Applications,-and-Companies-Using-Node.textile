@@ -261,6 +261,7 @@ This list is for websites and applications that are powered by node.js. If you'v
 * "nTunes":http://github.com/TooTallNate/nTunes by TooTallNate -- A REST (HTTP) API for interacting with iTunes written in NodeJS.
 * "nTunesAnywhere":http://github.com/TooTallNate/nTunesAnywhere by TooTallNate -- A mobile WebApp to access your iTunes library from anywhere (using nTunes and jQTouch)!
 * "NowJS":https://github.com/Flotype/now — Framework for making real-time webapps using JavaScript. 
+* "OpenTaxFormFiller":http://github.com/codehero/OpenTaxFormFiller -- Uses node for data translation
 * "OPOWER Jobs":http://github.com/dylang/opowerjobs -- Open source example of a full live site using Express, Connect, EJS, AssetManager, Logging, and other Node modules.
 * "Orona":http://stephank.github.com/orona/ -- A multiplayer game of tank warfare. (Remake of the classic Mac game Bolo.)
 * "paperserve":http://github.com/StanAngeloff/node-paperserve -- Quick and dirty web server from your working directory
