@@ -144,6 +144,7 @@ h2. Companies
 * "Well.ca":http://well.ca - Canada's largest online pharmacy
 * "Widescript":http://widescript.com -- A digital reading app targeted to people who study or make use of reference material.
 * "Wikia":http://www.wikia.com -- Chat
+* "Wizcorp":http://www.wizcorp.jp -- Tokyo based author of Mithril, a Node.js based HTML5 game engine.
 * "Wompt":http://wompt.com -- A polished web-chatroom application with open authentication.
 * "XOXCO":http://xoxco.com --  a tiny product development firm in Austin, TX.  Our goal is to make products that allow people to play and work together in new ways.
 * "Yahoo!":http://www.yahoo.com -- Node.js is the basis of Yahoo! Manhattan, part of the "Cocktails platform":http://y.ahoo.it/hN9bV.
