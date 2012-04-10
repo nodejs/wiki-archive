@@ -982,6 +982,7 @@ www-style proposals.
 * [node-halfstreamxml](https://github.com/thejh/node-halfstreamxml) -- sax-js based, filter out nodes (with attributes and child nodes) from an xml stream by name
 * [xml2json](https://github.com/buglabs/node-xml2json) -- Simple SAX based XML to JSON parser. It uses node-expat.
 * [xml-stream](https://github.com/assistunion/xml-stream) -- XML stream parser and editor, based on node-expat.
+* [xml-events](https://github.com/idottv/xml-events) -- XML stream parser, based on node-expat. Fires contextual events when it finds a descendant. 
 
 
 <a name="wiki-parsers-commandline"></a>
