@@ -613,7 +613,7 @@ www-style proposals.
 * [Grunt](https://github.com/cowboy/grunt) -- a task-based command line build tool for JavaScript projects.
 * [muffin.js](https://github.com/hornairs/muffin) -- CoffeeScript compilation, minification, concatenation, copying, growl, and SLOC counting helpers for Cakefiles.
 * [Masson](https://github.com/wdavidw/node-masson) -- Build system and rule management similar to tools like Make, Ant or Rake
-* [Ready.js](https://github.com/dsimard/ready.js) -- Continuous JavaScript integration using JSLint, Google Compiler, Node.js and Git
+* [ready.js](https://github.com/dsimard/ready.js) -- continuous javascript integration
 * [autolint](https://github.com/magnars/autolint) -- Autolint watches your files for jslint/jshint-errors.
 * [ripple](https://github.com/thrashaholic/ripple) -- Dynamic runtime configuration for node.js deployment based on lorenwest's config.
 * [nodemon](https://github.com/remy/nodemon) -- Monitors all source files, restarts node on changes. Command-line usage, code-passive with ignore list.
