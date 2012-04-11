@@ -79,6 +79,7 @@ h2. Companies
 * "Mass":http://mass.io - High traffic community sites, services and e-commerce.
 * "Medium":http://thisismedium.com
 * "Milewise":http://milewise.com - Using Node.js for real-time fare searching
+* "Mistash":http://www.mistash.com - social network for sharing products.
 * "Mockingbird":http://gomockingbird.com -- Using Node.js and operational transformations to do real-time, collaborative wireframing
 * "Moonshadow Mobile":http://www.moonshadowmobile.com -- Using Node.js to handle communication between a web client and a geospatial server
 * "MyBrands":http://www.mybrands.de -- web-tracker and product recommendations (node + couchdb)  
