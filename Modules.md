@@ -1505,3 +1505,4 @@ www-style proposals.
 * [ExtJS4 Chat](https://github.com/MikhailTatsky/Chat) -- ExtJS4 Chat
 * [difflib.js](https://github.com/qiao/difflib.js) -- Text diff library, ported from Python's difflib module
 * [jsbundle](https://github.com/proxv/jsbundle) -- Simple, clean, and automatic bundling of your Node modules and packages for use in the browser.
+* [sorter](https://github.com/minodisk/sorter) -- Sort methods: dictionary sort and natural sort
