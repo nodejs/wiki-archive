@@ -766,6 +766,7 @@ www-style proposals.
 ### [Other networking](#tcp-other)
 
 * [node-nntp](https://github.com/mscdex/node-nntp) -- An NNTP (usenet/newsgroups) client module for node.js
+* [node-hydna](https://github.com/hydna/node-hydna) -- Bindings for the Hydna platform
 * [node-snpp](https://github.com/jsanders/node-snpp) -- Node SNPP server library
 * [mdns](https://github.com/agnat/node_mdns) -- mdns/zeroconf/bonjour service discovery add-on
 * [macaddr](https://github.com/carter-thaxton/macaddr) -- Obtain MAC addresses for current machine from Node
