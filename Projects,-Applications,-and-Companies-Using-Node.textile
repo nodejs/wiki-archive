@@ -229,6 +229,7 @@ This list is for websites and applications that are powered by node.js. If you'v
 * "Junkyard Jumbotron":https://github.com/c4fcm/Junkyard-Jumbotron - Take a bunch of random displays and stitch them together into a large, virtual display. 
 * "KansoJS":http://kansojs.org - A surprisingly simple way to write CouchApps, by making use of the design_doc api in the browser
 * "Kraken.io":http://kraken.io - Online image optimization tool.
+* "League of Stats":http://http://leagueofstats.com/ - League of Legends Summoner information look-up tool. 
 * "LifeInText":http://github.com/weilawei/LifeInText -- LiT is a mashup platform for personal projects and snippets.
 * "Locker Project":http://lockerproject.org/ — Open source project for all your personal data.
 * "Loggly":http://loggly.com/ — Webservice for receiving syslog and HTTP based logs.
