@@ -1008,6 +1008,7 @@ www-style proposals.
 * [celeri.js](https://github.com/crcn/celeri) -- Complete command line interfaces lib for node.js
 * [nopt](https://github.com/isaacs/nopt) -- The command line options parser npm uses.
 * [dreamopt](https://github.com/andreyvit/dreamopt.js) -- Command-line parser with readable syntax from your sweetest dreams
+* [COA](https://github.com/veged/coa/) -- Command-Option-Argument: full featured command line parsing, async all the way, use user defined COA's as module with API, auto generate shells completions
 
 <a name="wiki-parser-generators"></a>
 ###  [Parser Generators](#parser-generators)
