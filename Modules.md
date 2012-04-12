@@ -697,15 +697,18 @@ www-style proposals.
 ## [SMTP](#smtp)
 
 * [Haraka](https://github.com/baudehlo/Haraka) -- Full Featured SMTP Server
-* [node-smtpclient](https://github.com/sleeplessinc/node-smtpclient) -- Simple SMTP that uses AUTH and TLS/SSL (2.4)
-* [node-smtp-client](https://github.com/miksago/node-smtp-client) -- Implementation of the SMTP protocol in Node
+* [emailjs](https://github.com/eleith/emailjs) - send emails, html and attachments from node.js to any smtp server (ex: gmail)
+* [Nodemailer](https://github.com/andris9/Nodemailer) - Easy to use module to send e-mails with Node.JS, unicode friendly
+* [mailcomposer](https://github.com/andris9/mailcomposer) - Generate e-mail messages that can be streamed to SMTP or file (unicode friendly)
 * [node-smtp](https://github.com/aredridel/node-smtp) -- Implementation of an SMTP server (and soon, client)
 * [node_mailer](https://github.com/marak/node_mailer) -- send emails from node.js to an smtp server, simple as cake 
-* [Nodemailer](https://github.com/andris9/Nodemailer) - Easy to use module to send e-mails with Node.JS, unicode friendly
-* [emailjs](https://github.com/eleith/emailjs) - send emails, html and attachments from node.js to any smtp server (ex: gmail)
 * [node-smtpevent](https://github.com/euangoddard/node-smtpevent) -- Event based SMTP server
-* [mailcomposer](https://github.com/andris9/mailcomposer) - Generate e-mail messages that can be streamed to SMTP or file (unicode friendly)
 * [simplesmtp](https://github.com/andris9/simplesmtp) - Use SMTP as a first class protocol, useful for generating custom SMTP servers
+
+ No Longer Maintained
+
+  * [node-smtpclient](https://github.com/sleeplessinc/node-smtpclient) -- Simple SMTP that uses AUTH and TLS/SSL (2.4)
+  * [node-smtp-client](https://github.com/miksago/node-smtp-client) -- Implementation of the SMTP protocol in Node
 
 <a name="wiki-tcp"></a>
 ## [TCP / IP](#tcp)
