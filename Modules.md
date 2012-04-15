@@ -1036,6 +1036,7 @@ www-style proposals.
 ### [Other Parsers](#parsers-other)
 
 * [groan](https://github.com/mscdex/groan) -- A PHP session file parser
+* [properties](https://github.com/Gagle/Node-Properties) -- Provides a simple way for persisting key-value properties.
 * [tldextract](https://github.com/masylum/tldextract) -- Extract domain, subdomain and tld from a url.
 * [mingy](https://github.com/mcantelon/node-mingy) -- Command parser for CLI tool and adventure game needs. Works well with the optimist module.
 * [node-rdf2json](https://github.com/baxtree/node-rdf2json) -- A simple RDF/XML to JSON converter
