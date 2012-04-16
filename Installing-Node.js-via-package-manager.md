@@ -74,13 +74,14 @@ Using [macports](http://www.macports.org/):
     port install nodejs  
 
 ## Windows
- Note: Windows builds are not yet satisfactorily stable but it is possible to get something running.  
-  
+Using [a package](http://nodejs.org/#download)
+
+> Simply [download Windows Installer](http://nodejs.org/#download).
+
 Using [chocolatey](http://chocolatey.org) to install [Node](http://chocolatey.org/packages/nodejs):  
-  
+
     cinst nodejs  
-  
+
 or for [full install with NPM](http://chocolatey.org/packages/nodejs.install):  
-  
-    cinst nodejs.install  
-  
+
+    cinst nodejs.install
