@@ -1513,4 +1513,4 @@ www-style proposals.
 * [difflib.js](https://github.com/qiao/difflib.js) -- Text diff library, ported from Python's difflib module
 * [jsbundle](https://github.com/proxv/jsbundle) -- Simple, clean, and automatic bundling of your Node modules and packages for use in the browser.
 * [sorter](https://github.com/minodisk/sorter) -- Sort methods: dictionary sort and natural sort
-* [node-diff](https://github.com/andreyvit/json-diff) -- structured colored diff for JSON files
+* [json-diff](https://github.com/andreyvit/json-diff) -- structured colored diff for JSON files
