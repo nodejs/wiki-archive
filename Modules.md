@@ -1353,6 +1353,7 @@ www-style proposals.
 <a name="wiki-async-flow"></a>
 ## [Control flow / Async goodies](#async-flow)
 
+* [sjs](https://github.com/elmerbulthuis/sjs) -- Asynchronous JavaScript for synchronous people
 * [async.js](https://github.com/fjakobs/async.js) -- Async chaining and file system utilities. Async.js is to node's fs module, what jQuery is to the DOM.
 * [async](https://github.com/caolan/async) -- Comprehensive async map/reduce and control flow (parallel, series, waterfall, auto...) module that works in node and the browser
 * [async-mini](https://github.com/ypocat/async-mini) -- Minimalistic async lib implementing only .parallel() and series(). Simple code, predictable behavior, server and browser.
