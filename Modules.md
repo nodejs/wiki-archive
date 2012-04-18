@@ -1184,6 +1184,7 @@ www-style proposals.
 <a name="wiki-graphics"></a>
 ## [Graphics](#graphics)
 
+* [EasyImage](https://github.com/hacksparrow/node-easyimage) -- User-friendly module for common image editing requirements. Requires ImageMagick.
 * [navcodec](https://github.com/OptimalBits/navcodec) -- Node bindings for libavcodec (ffmpeg).
 * [magician](https://github.com/vdemedes/magician) -- Image manipulation for Node.js using ImageMagick.
 * [pdfkit](https://github.com/devongovett/pdfkit) -- A powerful PDF generation library for Node
