@@ -724,7 +724,7 @@ www-style proposals.
 
 * [shred](https://github.com/spire-io/shred) -- HTTP client library for Node.js and browsers.  Supports gzip, cookies, https, proxies, and redirects.
 * [node-httpclient](https://github.com/billywhizz/node-httpclient) -- Node HTTP Client (gzip, https, cookies etc.)
-* [node-get](https://github.com/tmcw/node-get) -- Moderately higher-level HTTP client library.
+* [node-get](https://github.com/developmentseed/node-get) -- Moderately higher-level HTTP client library.
 * [node-digest](https://github.com/wearefractal/node-digest) -- HTTP Digest authentication for NodeJS
 * [node-http-status](https://github.com/wdavidw/node-http-status) -- Interact with HTTP status code (just a set of constants)
 * [request](https://github.com/mikeal/request) -- Simple HTTP client library.
