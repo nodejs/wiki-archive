@@ -996,6 +996,7 @@ www-style proposals.
 ### [Command Line Option Parsers](#parsers-commandline)
 
 * [aparser](https://github.com/thypon/aparser) -- Async ARGS parser
+* [argumentr](https://github.com/pgundlach/argumentr) -- simple to use but powerful argument parser with free `--help`
 * [cli](https://github.com/chriso/cli) -- Rapidly build command line apps. Full featured opts/args parser + plugin support
 * [commander.js](https://github.com/visionmedia/commander.js) -- The complete solution for nodejs command-line interfaces
 * [argsparser](https://github.com/kof/node-argsparser) -- A tiny limited arguments parser, returns a hash.
