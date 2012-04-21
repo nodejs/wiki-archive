@@ -55,7 +55,7 @@
 
 ## Tools
 
-* [Node.js Package Manager](http://npmjs.org/-) by Isaac Z. Schlueter
+* [Node.js Package Manager](http://npmjs.org/) by Isaac Z. Schlueter
 
 ## Sites in other languages
 
