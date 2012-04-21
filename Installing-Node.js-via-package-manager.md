@@ -60,6 +60,12 @@ Node.js is available in the Community Repository.
 
     pacman -S nodejs
 
+## FreeBSD and OpenBSD
+Node.js is available through the ports system.
+
+    /usr/ports/www/node
+
+
 ## OSX
 Using [a package](http://nodejs.org/#download)
 
