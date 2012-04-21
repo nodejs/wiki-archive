@@ -78,6 +78,7 @@ h2. Companies
 * "M-Way Solutions":http://www.mwaysolutions.com -- Developing node.js based build tools for The-M-Project
 * "Mass":http://mass.io - High traffic community sites, services and e-commerce.
 * "Medium":http://thisismedium.com
+* "Microsoft":http://www.microsoft.com - Core contributor to node.js for Windows. Uses node.js internally and provides cloud hosting for node.js applications in Windows Azure. https://www.windowsazure.com/en-us/develop/nodejs/
 * "Milewise":http://milewise.com - Using Node.js for real-time fare searching
 * "Mistash":http://www.mistash.com - social network for sharing products.
 * "Mockingbird":http://gomockingbird.com -- Using Node.js and operational transformations to do real-time, collaborative wireframing
