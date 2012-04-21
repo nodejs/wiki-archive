@@ -579,17 +579,16 @@ www-style proposals.
 <a name="wiki-content-management"></a>
 ## [Content Management Systems](#content-management)
 
-* [Nodepad](https://github.com/alexyoung/nodepad) -- A nice basic web-based notepad.
+* [Nodepad](https://github.com/alexyoung/nodepad) — A nice basic web-based notepad.
 * [Calipso](http://calip.so/?utm_source=nodejs&utm_medium=github&utm_campaign=nodejs) -- An express based CMS, very much work in progress.
-* [Murray CMS](https://github.com/thecolorblue/murray-cms) -- blog platform using express and mongodb.
-* [AE86](http://github.com/cliffano/ae86) - Static website generator. Easy to write custom tag as simple JavaScript function, clean and minimalistic template syntax.
-* [DocPad](https://github.com/balupton/docpad) -- a static website generator which supports markdown and eco among others
-* [FilePad](https://github.com/balupton/filepad) - edit your local files collaboratively in realtime inside the browser, can be used [in conjunction with DocPad](https://github.com/balupton/docpad/wiki/Tips-&-Tricks)
-* [NoCR](https://github.com/NoCR/NoCR) - JCR-inspired Content Repository API for Node.js which maps your content model to a tree of nodes and properties. There is a [MongoDB NoCR provider](https://github.com/karacos/nocr-mongo) available
-* [reed](https://github.com/ProjectMoon/reed) - A Markdown-based blogging core backed by Redis and the filesystem.
-* [MCMS](https://github.com/olegp/mcms) - A Minimal CMS using GitHub flavored Markdown, Mustache templates and the filesystem.
-* [jslardo](https://github.com/obliquid/jslardo) -- A Social CMS, where users are able to register to the application, create their own models (mongoose schemas), views, controllers, websites and pages. Work in progress, keep updated!
-* [LooseLeaf](http://looseleafjs.org/) -- Very simple blogging engine based on express, no-DataBase, only JSON.
+* [Murray CMS](https://github.com/thecolorblue/murray-cms) — blog platform using express and mongodb.
+* [AE86](http://github.com/cliffano/ae86) — Static website generator. Easy to write custom tag as simple JavaScript function, clean and minimalistic template syntax.
+* [DocPad](https://github.com/balupton/docpad) — is a language agnostic document management system. It's actively maintained and supported by a growing community. It's also modular; so easy to extend and use in bigger systems. It already supports lots of markups and pre-processors through [available plugins](https://github.com/bevry/docpad/wiki/Plugins) and [powers many websites](https://github.com/bevry/docpad/wiki/Showcase).
+* [NoCR](https://github.com/NoCR/NoCR) — JCR-inspired Content Repository API for Node.js which maps your content model to a tree of nodes and properties. There is a [MongoDB NoCR provider](https://github.com/karacos/nocr-mongo) available
+* [reed](https://github.com/ProjectMoon/reed) — A Markdown-based blogging core backed by Redis and the filesystem.
+* [MCMS](https://github.com/olegp/mcms) — A Minimal CMS using GitHub flavored Markdown, Mustache templates and the filesystem.
+* [jslardo](https://github.com/obliquid/jslardo) — A Social CMS, where users are able to register to the application, create their own models (mongoose schemas), views, controllers, websites and pages. Work in progress, keep updated!
+* [LooseLeaf](http://looseleafjs.org/) — Very simple blogging engine based on express, no-DataBase, only JSON.
 
 <a name="wiki-build-and-deployment"></a>
 ## [Build and Deployment](#build-and-deployment)
