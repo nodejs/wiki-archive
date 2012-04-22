@@ -1213,6 +1213,7 @@ www-style proposals.
 * [node-mapnik](https://github.com/mapnik/node-mapnik) -- Mapnik bindings for high performance rendering of map tiles.
 * [node-mapserver](https://github.com/pagameba/node-mapserver) -- mapserver bindings for rendering mapserver MAP files via node
 * [node-exif](https://github.com/gomfunkel/node-exif) -- Library to extract Exif metadata from images
+* [exiv2node](https://github.com/dberesford/exiv2node) -- Extension that provides asynchronous support for reading & writing image metadata via Exiv2.
 * [node-fluent-ffmpeg](https://github.com/schaermu/node-fluent-ffmpeg) -- Fluent API for ffmpeg (including streaming, thumbnail-generation and custom presets)
 * [ffmpeg2theora](https://github.com/FLYBYME/node-ffmpeg2theora) -- Batch encoding with ffmpeg2theora
 * [ffmpeg-node](https://github.com/xonecas/ffmpeg-node) -- Node.js driver for ffmpeg library
