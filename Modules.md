@@ -1516,3 +1516,4 @@ www-style proposals.
 * [jsbundle](https://github.com/proxv/jsbundle) -- Simple, clean, and automatic bundling of your Node modules and packages for use in the browser.
 * [sorter](https://github.com/minodisk/sorter) -- Sort methods: dictionary sort and natural sort
 * [json-diff](https://github.com/andreyvit/json-diff) -- structured colored diff for JSON files
+* [crud-bones](http://words.alexeypro.com/crud-bones/) -- CRUD boilerplate/template for Node.JS/Mongo/MySQL/Redis/Express/EJS/Cluster/etc.
