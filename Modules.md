@@ -1465,8 +1465,8 @@ www-style proposals.
 ## [DDD, CQRS, EventSourcing](#ddd-cqrs-es)
 * [nodeEventStore](https://github.com/KABA-CCEAC/nodeEventStore) -- EventStore (Events and Snapshots) supporting MongoDb, CouchDb, Redis
 * [nodeEventedCommand](https://github.com/adrai/nodeEventedCommand) -- provides simple command/event handling for evented systems like cqrs
-* [node-queue](https://github.com/adrai/node-queue) -- Node-viewmodel is a node.js module for multiple databases. It can be very useful if you work with (d)ddd, cqrs, eventdenormalizer, host, etc.
-* [node-viewmodel](https://github.com/adrai/node-viewmodel) -- Node-queue is a node.js module for multiple databases. It can be very useful if you work with (d)ddd, cqrs, eventsourcing, commands and events, etc.
+* [node-queue](https://github.com/adrai/node-queue) -- Node-queue is a node.js module for multiple databases. It can be very useful if you work with (d)ddd, cqrs, eventsourcing, commands and events, etc.
+* [node-viewmodel](https://github.com/adrai/node-viewmodel) -- Node-viewmodel is a node.js module for multiple databases. It can be very useful if you work with (d)ddd, cqrs, eventdenormalizer, host, etc.
 * [cloudjs] (https://github.com/digitalwm/cloudjs) -- provides a network distributed event system and a 
 realtime balancing for live objects
 
