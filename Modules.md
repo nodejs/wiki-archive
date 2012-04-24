@@ -1109,8 +1109,11 @@ www-style proposals.
 <a name="wiki-filesys"></a>
 ## [File system](#filesys)
 
-* [fs-extra](https://github.com/jprichardson/node-fs-extra) -- Patches the Node.js **fs** object with a couple of extra methods (a method to copy a file and a method to delete a directory recursively), both sync and async versions.
+* [fs-extra](https://github.com/jprichardson/node-fs-extra) -- Patches the Node.js `fs` object with a couple of extra methods (a method to copy a file and a method to delete a directory recursively), both sync and async versions.
+* [fsutil](https://github.com/npcode/node-fsutil) and [fsautil](https://github.com/npcode/node-fsautil) -- Synchronous and asynchronous file system utilities for Node.js.
 * [line-reader](https://github.com/nickewing/line-reader) -- Asynchronous line-by-line file reader.
+* [meta-fs](https://github.com/dvv/meta-fs) -- Patches the Node.js `fs` object with methods that find files, delete directory trees, create nested directories, make symlinks, copy files and directories.
+* [wrench](https://github.com/ryanmcgrath/wrench-js) -- Recursive operations (create directory, delete directory, read contents, chmod, chown, deep copy). Line-by-line reader. Asynchronous read of directories contents.
 
 <a name="wiki-debugging"></a>
 ## [Debugging / Console Utilities](#debugging)
