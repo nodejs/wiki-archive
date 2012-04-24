@@ -1023,15 +1023,15 @@ www-style proposals.
 * [bnf](https://github.com/navstev0/nodebnf) -- BNF parser, compiler, and interpreter framework.
 * [canopy](https://github.com/jcoglan/canopy) -- PEG parser compiler for JavaScript
 * [jison](https://github.com/zaach/jison) -- A parser generator written in JavaScript; similar to Bison for C
-* [PEG.js](http://pegjs.majda.cz/) -- Parser Generator for JavaScript
-* [language.js](http://languagejs.com/) -- A fast PEG parser generator with first class errors and reasonable sized output
-* [PanPG](http://boshi.inimino.org/3box/PanPG/about.html) -- A PEG Packrat Parser Generator for JavaScript
 * [jparse](https://github.com/doublec/jsparse) -- A parser combinator for JavaScript based on Packrat parsers and Parsing expression grammars
-* [ReParse](https://github.com/weaver/ReParse) -- A parser combinator library for JavaScript like Haskell's Parsec
-* [OMeta JavaScript compiler](http://tinlizzie.org/ometa-js/#JavaScript_Compiler)
-* [tokenizer](http://github.com/floby/node-tokenizer) -- A regex-based and streamed tokenizer
-* [parser](http://github.com/floby/node-parser) -- A general purpose parser that feeds on tokens (see [tokenizer](http://github.com/floby/node-tokenizer))
 * [JSCC-NODE](http://github.com/badlee/JSCC-NODE) -- The Best and The first parser generator written in JavaScript; Use a regular expression-based lexical analyzer generator and a LALR parser generator for building a stand-alone, working parser.
+* [language.js](http://languagejs.com/) -- A fast PEG parser generator with first class errors and reasonable sized output
+* [OMeta JavaScript compiler](http://tinlizzie.org/ometa-js/#JavaScript_Compiler)
+* [PanPG](http://boshi.inimino.org/3box/PanPG/about.html) -- A PEG Packrat Parser Generator for JavaScript
+* [parser](http://github.com/floby/node-parser) -- A general purpose parser that feeds on tokens (see [tokenizer](http://github.com/floby/node-tokenizer))
+* [PEG.js](http://pegjs.majda.cz/) -- Parser Generator for JavaScript
+* [ReParse](https://github.com/weaver/ReParse) -- A parser combinator library for JavaScript like Haskell's Parsec
+* [tokenizer](http://github.com/floby/node-tokenizer) -- A regex-based and streamed tokenizer
 
 <a name="wiki-parsers-other"></a>
 ### [Other Parsers](#parsers-other)
