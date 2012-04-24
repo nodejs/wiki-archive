@@ -1110,6 +1110,7 @@ www-style proposals.
 ## [File system](#filesys)
 
 * [fs-extra](https://github.com/jprichardson/node-fs-extra) -- Patches the Node.js `fs` object with a couple of extra methods (a method to copy a file and a method to delete a directory recursively), both sync and async versions.
+* [fstream](https://github.com/isaacs/fstream) -- High-level objects like FS streams, but with stat on them, and supporting directories and symbolic links, as well as normal files. Also, you can use this to set the stats on a file, even if you don't change its contents, or to create a symlink, etc.
 * [fsutil](https://github.com/npcode/node-fsutil) and [fsautil](https://github.com/npcode/node-fsautil) -- Synchronous and asynchronous file system utilities for Node.js.
 * [line-reader](https://github.com/nickewing/line-reader) -- Asynchronous line-by-line file reader.
 * [meta-fs](https://github.com/dvv/meta-fs) -- Patches the Node.js `fs` object with methods that find files, delete directory trees, create nested directories, make symlinks, copy files and directories.
