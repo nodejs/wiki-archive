@@ -1478,6 +1478,7 @@ www-style proposals.
 ## [DDD, CQRS, EventSourcing](#ddd-cqrs-es)
 * [nodeEventStore](https://github.com/KABA-CCEAC/nodeEventStore) -- EventStore (Events and Snapshots) supporting MongoDb, CouchDb, Redis
 * [nodeEventedCommand](https://github.com/adrai/nodeEventedCommand) -- provides simple command/event handling for evented systems like cqrs
+* [node-cqrs](https://github.com/petrjanda/node-cqrs) -- node.js cqrs implementation. CouchDb repository embedded, others can be plugged in. Contains basic implementation of denormalized view builder with storing data snapshots.
 * [node-queue](https://github.com/adrai/node-queue) -- Node-queue is a node.js module for multiple databases. It can be very useful if you work with (d)ddd, cqrs, eventsourcing, commands and events, etc.
 * [node-viewmodel](https://github.com/adrai/node-viewmodel) -- Node-viewmodel is a node.js module for multiple databases. It can be very useful if you work with (d)ddd, cqrs, eventdenormalizer, host, etc.
 * [rule-validator](https://github.com/adrai/rule-validator) -- Rule-validator is a javascript module based on amanda. And works for node.js and in the browser. It can be very useful if you work with (d)ddd, cqrs, eventsourcing, domain, commands and events, etc.
