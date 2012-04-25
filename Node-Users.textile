@@ -684,7 +684,7 @@ h2. UTC+1 (+2)
 ** "GitHub":http://github.com/DrBenton 
 * Nicolas Chambrier (naholyr), Lyon, France
 ** "GitHub":http://github.com/naholyr, "Twitter":http://twitter.com/naholyr, "Website":http://naholyr.fr
-* John Fischer (jfroffice), Marseille, France
+* John Fischer (jfroffice), Aix en Provence, France
 ** "GitHub":http://github.com/jfroffice, "Twitter":http://twitter.com/jfroffice
 * Carlos Villuendas (carlosvillu), Barcelona, Spain
 ** "GitHub":http://github.com/carlosvillu, "Twitter":http://twitter.com/cvillu, "Website":http://www.carlosvillu.com
