@@ -525,6 +525,8 @@ h2. UTC±0 (+1)
 ** "GitHub":http://github.com/rjrodger, "Twitter":http://twitter.com/rjrodger
 * Peter Elger, Dublin, Ireland
 ** "GitHub":http://github.com/pelger, "Twitter":http://twitter.com/pelger
+* David Castellà, Tàrrega, Catalunya (Spain)
+** "Github":http://github.com/davidkaste, "Twitter":http://twitter.com/davidkaste
 
 h2. UTC+1 (+2)
 
