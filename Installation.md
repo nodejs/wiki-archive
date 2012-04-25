@@ -1,4 +1,6 @@
-# Building and Installing Node.js
+# Building and installing Node.js
+
+## Building requirements
 
 Node has several dependencies.  If you are building from source you should
 only need 2 things:
@@ -34,7 +36,7 @@ export PYTHON=`which python2`
 
 Maybe you need to change your PYTHONHOME as well. If you have any further installation problems stop into [#node.js](http://webchat.freenode.net/?channels=node.js&uio=d4) on irc.freenode.net and ask questions.
 
-## GNU/Linux and other UNIX
+## Building on GNU/Linux and other UNIX
 
 Do something like this
 
@@ -69,8 +71,7 @@ You may want to put the node executables in your path as well for easier use. Ad
 
 If you have SpiderMonkey installed, you may have some conflicting includes. Set `CXXFLAGS="-I./deps/v8/src"` before building to prioritize the v8 files over SpiderMonkey's.
 
-
-## Windows
+## Building on Windows
 
 You need python and Microsoft Visual Studio but not OpenSSL. In `cmd.exe` do the following
 
@@ -90,3 +91,25 @@ C:\Users\ryan\node-v0.6.5>Release\node.exe
 ```
 
 The executable will be in `Release\node.exe`.
+
+## Installing without building
+
+You may obtain pre-compiled Node.js binaries for several platforms from [http://nodejs.org/dist/latest/](http://nodejs.org/dist/latest/).
+
+### Installing on Windows
+
+#### Manual install
+
+The [http://nodejs.org/dist/latest/node.exe](http://nodejs.org/dist/latest/node.exe) file is a standalone Windows executable that contains only the last version of Node.js engine.
+
+The [http://nodejs.org/dist/latest/](http://nodejs.org/dist/latest/) directory does contain the latest `.zip` archive of npm (such as `npm-1.1.16.zip` when npm v1.1.16 was the latest).
+
+Put `node.exe` to a clean directory, unpack npm there, add that directory to your `PATH` variable, and then you'll be able to run scripts (`node scriptname.js`) and install modules (`npm install modulename`).
+
+#### Automatic install (with Microsoft Installer)
+
+The [http://nodejs.org/dist/latest/](http://nodejs.org/dist/latest/) directory does contain the latest `.msi` package (such as `node-v0.6.15.msi` when Node v0.6.15 was the latest) that you may use to install both Node.js engine and npm.
+
+### Installing on Mac
+
+The [http://nodejs.org/dist/latest/](http://nodejs.org/dist/latest/) directory does contain the latest `.pkg` package (such as `node-v0.6.15.pkg` when Node v0.6.15 was the latest).
