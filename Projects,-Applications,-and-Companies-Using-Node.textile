@@ -318,4 +318,4 @@ This list is for websites and applications that are powered by node.js. If you'v
 * "Chrome DevTools Autosave":https://github.com/NV/chrome-devtools-autosave — uses Node to write changes made in Chrome DevTools
 * "Las Vegas Athletic Clubs":http://github.com/Paul-J-Barrett/emcheck - We use Node for emergency offline  check in of members to our health club.
 * "Notifymode":http://notifymode.com — provides real time performance and memory profiling for your node.js app
-
+* "ZooQoos":http://zooqoos.com - "Be A Jumper" Teleportable Location Based SNS - uses express and socket.io
