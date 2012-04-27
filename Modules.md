@@ -869,7 +869,6 @@ www-style proposals.
 <a name="wiki-class-system"></a>
 ## [Class systems](#class-system)
 
-* [Classful JS](https://github.com/Gagle/Classful-JS) -- Library that eases the manipulation and usage of JavaScript prototypes.
 * [joose](https://github.com/joose/joose) -- complete modern class system for JavaScript, based on concepts from many programming languages
 * [mootools.js](https://github.com/stanislavfeldman/mootools.js) -- MooTools latest server library as npm package for node.js
 * [class-js](https://github.com/bnoguchi/class-js) -- Simple, Light-weight OO Class factory
