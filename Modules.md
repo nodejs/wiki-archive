@@ -758,6 +758,7 @@ www-style proposals.
 ### [E-mail](#tcp-e-mail)
 
 * [node-imap](https://github.com/mscdex/node-imap) -- A module for interacting with IMAP mail servers
+* [inbox](https://github.com/andris9/inbox) -- Super easy access to IMAP mail server mailboxes
 * [n3](https://github.com/andris9/n3) -- Experimental POP3 server to send arbitrary data to e-mail clients (including e-mails)
 * [node-poplib](https://github.com/ditesh/node-poplib) -- POP3 client library for Node.js
 
