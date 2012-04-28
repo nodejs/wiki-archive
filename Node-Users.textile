@@ -812,6 +812,8 @@ h2. UTC+3 (+4)
 ** "GitHub":http://github.com/shumkov, "Сorporate GitHub":http://github.com/geometria-lab, "Twitter":http://twitter.com/shumkov
 * Artem Zaytsev, Moscow, Russia
 ** "GitHub":http://github.com/avz
+* Alex Movsisyan, Yerevan, Armenia
+** "GitHub":http://github.com/konteck
 
 h2. UTC+5
 
