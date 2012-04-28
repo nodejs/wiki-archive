@@ -1534,6 +1534,7 @@ realtime balancing for live objects
 * [chat.io](https://github.com/DanielBaulig/chat.io) -- A simple chat solution build on socket.io
 * [audience-meter](https://github.com/rs/audience-meter) -- A simple audience meter based on Socket.IO, perfect for live events tracking
 * [buffered-reader](https://github.com/Gagle/Node-BufferedReader) -- Fully configurable buffered reader.
+* [buffered-writer](https://github.com/Gagle/Node-BufferedWriter) -- Fully configurable buffered writer.
 * [file-utils](https://github.com/Gagle/Node-FileUtils) -- File and directory utilities.
 * [node-browserify](https://github.com/substack/node-browserify) -- Browser-side require() for your node modules and npm packages
 * [nova](https://github.com/wearefractal/nova) -- Node.js libraries ported to the browser. Write once, run everywhere.
