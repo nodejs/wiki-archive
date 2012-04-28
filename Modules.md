@@ -1134,6 +1134,9 @@ www-style proposals.
 <a name="wiki-filesys"></a>
 ## [File system](#filesys)
 
+* [buffered-reader](https://github.com/Gagle/Node-BufferedReader) -- Fully configurable buffered reader.
+* [buffered-writer](https://github.com/Gagle/Node-BufferedWriter) -- Fully configurable buffered writer.
+* [file-utils](https://github.com/Gagle/Node-FileUtils) -- File and directory utilities. Object representation of file and directory path names.
 * [fs-extra](https://github.com/jprichardson/node-fs-extra) -- Patches the Node.js `fs` object with a couple of extra methods (a method to copy a file and a method to delete a directory recursively), both sync and async versions.
 * [fstream](https://github.com/isaacs/fstream) -- High-level objects like FS streams, but with stat on them, and supporting directories and symbolic links, as well as normal files. Also, you can use this to set the stats on a file, even if you don't change its contents, or to create a symlink, etc.
 * [fsutil](https://github.com/npcode/node-fsutil) and [fsautil](https://github.com/npcode/node-fsautil) -- Synchronous and asynchronous file system utilities for Node.js.
@@ -1533,9 +1536,6 @@ realtime balancing for live objects
 * [append](https://github.com/pvorb/node-append) -- Append properties from one object to another.
 * [chat.io](https://github.com/DanielBaulig/chat.io) -- A simple chat solution build on socket.io
 * [audience-meter](https://github.com/rs/audience-meter) -- A simple audience meter based on Socket.IO, perfect for live events tracking
-* [buffered-reader](https://github.com/Gagle/Node-BufferedReader) -- Fully configurable buffered reader.
-* [buffered-writer](https://github.com/Gagle/Node-BufferedWriter) -- Fully configurable buffered writer.
-* [file-utils](https://github.com/Gagle/Node-FileUtils) -- File and directory utilities.
 * [node-browserify](https://github.com/substack/node-browserify) -- Browser-side require() for your node modules and npm packages
 * [nova](https://github.com/wearefractal/nova) -- Node.js libraries ported to the browser. Write once, run everywhere.
 * [node-talib](https://github.com/oransel/node-talib) -- Technical Analysis Library with 100+ indicators and candlestick pattern recognition
