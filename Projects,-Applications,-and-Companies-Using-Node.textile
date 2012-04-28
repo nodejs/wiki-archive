@@ -66,6 +66,7 @@ h2. Companies
 * "Joshfire":http://www.joshfire.com/ - Internet Of Things company, Multi-device app development
 * "Joinbox":http://www.joinbox.com/ - News/Email/Social Networks aggregator implemented with Node.js using several node modules like MongoDB, Snappy, and ICU.
 * "Joyent":http://www.joyent.com/
+* "Kano/Apps":http://www.kanoapps.com/ - builds social games and applications for every platform
 * "Koding":http://kodingen.com/ - Browser-based IDE and Cloud Computing Platform for PHP/Ruby/Python and others.
 * "Klout":http://klout.com/
 * "LayerVault":http://layervault.com/ - Version control for designers
