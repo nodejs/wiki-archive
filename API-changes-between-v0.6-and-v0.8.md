@@ -35,6 +35,9 @@ When editing this page please be as detailed as possible. Examples are encourage
  * `fs`
    * `path.exists()` and `path.existsSync()` has moved to `fs.exists()` and `fs.existsSync()`.
 
+ * `console`
+   * `console.timeEnd` now throws when there's no such label
+
 ## Added:
 
  * `child_process`
