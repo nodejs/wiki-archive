@@ -1448,6 +1448,7 @@ www-style proposals.
 * [observer](https://github.com/azer/observer) -- An alternative observer implementation, for both ss&cs.
 * [poolr](https://github.com/codingforce/poolr) -- A lightweight resource pooling/serialization library 
 * [q](https://github.com/kriskowal/q) -- Q is a tool for making and composing asynchronous promises in JavaScript.
+* [QBox](https://github.com/arunoda/qbox) -- Quick Controller flow for NodeJS
 * [read-files](https://github.com/pvorb/node-read-files) -- Asynchronously read a bunch of files and give a callback when reading is complete.
 * [Rubberduck](https://github.com/daffl/rubberduck) -- Punch JavaScript objects and receive events before and after a function executes.
 * [SCION](https://github.com/jbeard4/SCION) -- An implementation of SCXML/Statecharts in JavaScript.
@@ -1461,7 +1462,7 @@ www-style proposals.
 * [stepc](https://github.com/akidee/stepc) -- A CoffeeScript-safe version of creationix' step
 * [streamline.js](https://github.com/Sage/streamlinejs) -- Tool that transforms synchronous code into asynchronous code with callbacks. 
 * [sync](https://github.com/0ctave/node-sync) -- Write simple and readable synchronous code in nodejs using fibers (based on [node-fibers](https://github.com/laverdet/node-fibers))
-* [QBox](https://github.com/arunoda/qbox) -- Quick Controller flow for NodeJS
+* [TwoStep](https://github.com/xavi-/two-step) -- An async control-flow library that makes stepping through logic easy.  The spiritual successor of Step with better error handling and finer flow control.
 * [zo.js](https://github.com/refractalize/zo) -- Async-friendly versions of the usual list processing functions: `map`, `select`, `reduce` and friends.
 * [pauseable](https://github.com/fent/pauseable.js) -- Easily pause and resume event emitters, timeouts, and intervals.
 
