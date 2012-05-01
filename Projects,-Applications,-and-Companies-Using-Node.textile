@@ -6,6 +6,7 @@ h2. Companies
 * "Academia.edu":http://www.academia.edu/ - uses node for background data processing
 * "Adcloud":http://adcloud.com/ -- Javascript Adserver on EC2
 * "AdGear":http://adgear.com/ -- Real-time advertising reporting
+* "Adperium":http://www.adperium.com/ -- Real-time bidding platform, statistics collection
 * "aimifan.com":http://aimifan.com -- Online food ordering in Shanghai
 * "af83":http://af83.com/ -- uses node on several projects ("Geeks":https://github.com/AF83/Geeks for example)
 * "Ajax.org":http://ajax.org/ -- Home of the Cloud9 IDE, Ajax.org Platform and O3 Node modules
