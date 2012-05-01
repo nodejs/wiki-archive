@@ -1462,7 +1462,7 @@ www-style proposals.
 * [stepc](https://github.com/akidee/stepc) -- A CoffeeScript-safe version of creationix' step
 * [streamline.js](https://github.com/Sage/streamlinejs) -- Tool that transforms synchronous code into asynchronous code with callbacks. 
 * [sync](https://github.com/0ctave/node-sync) -- Write simple and readable synchronous code in nodejs using fibers (based on [node-fibers](https://github.com/laverdet/node-fibers))
-* [TwoStep](https://github.com/xavi-/two-step) -- An async control-flow library that makes stepping through logic easy.  The spiritual successor of Step with better error handling and finer flow control.
+* [TwoStep](https://github.com/xavi-/two-step) -- An async control-flow library that makes stepping through logic easy.  The spiritual successor of [Step](https://github.com/creationix/step) with better error handling and finer flow control.
 * [zo.js](https://github.com/refractalize/zo) -- Async-friendly versions of the usual list processing functions: `map`, `select`, `reduce` and friends.
 * [pauseable](https://github.com/fent/pauseable.js) -- Easily pause and resume event emitters, timeouts, and intervals.
 
