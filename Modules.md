@@ -1469,21 +1469,21 @@ www-style proposals.
 
 <a name="wiki-i18n"></a>
 ## [I18n and L10n modules](#i18n)
-* [unidecode](https://github.com/FGRibreau/node-unidecode) -- ASCII transliterations of Unicode text
-* [i18next](https://github.com/jamuhl/i18next-node) -- express middleware, template support, clientside support
-* [Lingo](http://bit.ly/cuaHAh) -- Inflection, transformation and more
+* [connect-i18n](https://github.com/masylum/connect-i18n) -- Middleware for connect to handle i18n.
 * [cld](https://github.com/dachev/cld) -- A straight port of the CLD (Compact Language Detector) library embedded in Google's Chromium browser.
 * [dialect](https://github.com/masylum/dialect) -- Translations for nodejs.
 * [dialect-http](https://github.com/masylum/dialect-http) -- http client to manage your dialect translations.
-* [node-i18n](https://github.com/ohaibbq/node-i18n) -- node-i18n is a minimalistic internationalization module with templating 
+* [i18next](https://github.com/jamuhl/i18next-node) -- express middleware, template support, clientside support
 * [i18n-node](https://github.com/mashpie/i18n-node) -- Exports common __(), __n() syntax. Stores JSON objects dynamically on code-change.
-* [connect-i18n](https://github.com/masylum/connect-i18n) -- Middleware for connect to handle i18n.
-* [translate.js](https://github.com/Marak/translate.js) -- translate text from one language to another on node.js and the browser. 30+ languages supported, simple as cake.
 * [inflect](https://github.com/MSNexploder/inflect) -- A port of the Rails / ActiveSupport inflector to JavaScript (node.js and browser compatible).
-* [node-gettext](https://github.com/andris9/node-gettext) -- Use Gettext .MO files with Node.js.
+* [Lingo](http://bit.ly/cuaHAh) -- Inflection, transformation and more
 * [lingua](https://github.com/akoenig/express-lingua) -- A i18n middleware for the Express.js framework.
 * [node-date-diff](https://github.com/morishani/node-date-diff) -- Calculates date differences and allows to format it nicely to your language (Eg. In one hour)
+* [node-gettext](https://github.com/andris9/node-gettext) -- Use Gettext .MO files with Node.js.
+* [node-i18n](https://github.com/ohaibbq/node-i18n) -- node-i18n is a minimalistic internationalization module with templating
 * [node-language-detect](https://github.com/FGRibreau/node-language-detect) -- NodeJS language detection library using n-gram (which can identify up to 52 human languages)
+* [translate.js](https://github.com/Marak/translate.js) -- translate text from one language to another on node.js and the browser. 30+ languages supported, simple as cake.
+* [unidecode](https://github.com/FGRibreau/node-unidecode) -- ASCII transliterations of Unicode text
 
 <a name="wiki-boilerplates"></a>
 ## [Boilerplates](#boilerplates)
