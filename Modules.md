@@ -1479,6 +1479,7 @@ www-style proposals.
 * [inflect](https://github.com/MSNexploder/inflect) -- A port of the Rails / ActiveSupport inflector to JavaScript (node.js and browser compatible).
 * [Lingo](http://bit.ly/cuaHAh) -- Inflection, transformation and more
 * [lingua](https://github.com/akoenig/express-lingua) -- A i18n middleware for the Express.js framework.
+* [localize](https://github.com/AGROSICA/node-localize) -- A localization module with Date support and simple Express integration.
 * [node-date-diff](https://github.com/morishani/node-date-diff) -- Calculates date differences and allows to format it nicely to your language (Eg. In one hour)
 * [node-gettext](https://github.com/andris9/node-gettext) -- Use Gettext .MO files with Node.js.
 * [node-i18n](https://github.com/ohaibbq/node-i18n) -- node-i18n is a minimalistic internationalization module with templating
