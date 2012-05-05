@@ -886,6 +886,7 @@ www-style proposals.
 
 * [API Easy](http://flatiron.github.com/api-easy/) -- Fluent (chainable) syntax for generating Vows tests against any RESTful API. 
 * [Benchmark.js](https://github.com/bestiejs/benchmark.js) -- A benchmarking library that works on nearly all JavaScript platforms, supports high-resolution timers, and returns statistically significant results.
+* [benchmark-pages](https://github.com/penartur/node-benchmark-pages) -- A benchmarking library for your web service that measures page response time under different loads.
 * [Broke](https://github.com/zyndiecate/broke) -- Customizable vowsjs layer for flexible unit and integration tests.
 * [Cucumber](https://github.com/cucumber/cucumber-js) -- The official JavaScript implementation of the well-known BDD tool. Runs both on Node.js and browsers.
 * [cucumis](https://github.com/noblesamurai/cucumis) -- A [cucumber nodejs](https://github.com/noblesamurai/cucumis) implementation. Run plain text gherkin stories with full asynchronous support in native node.js JavaScript.
