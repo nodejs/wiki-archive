@@ -1293,7 +1293,7 @@ www-style proposals.
 * [aws-snsclient](https://github.com/mattrobenolt/node-snsclient) -- A client for handling Amazon AWS SNS endpoints
 * [awssum](https://github.com/appsattic/node-awssum) -- NodeJS modules for talking to lots of Web Service APIs
 * [calais](https://github.com/mcantelon/node-calais) -- Semantically analyze text using the Calais web service
-* [cloudfront](https://github.com/tellnes/cloudfront) -- Amazon AWS CloudFront client
+* [cloudfront](https://github.com/tellnes/node-cloudfront) -- Amazon AWS CloudFront client
 * [cpanel-lib](https://github.com/vially/cpanel-lib) -- Node.js client for the cPanel/WHM API
 * [discogs](https://github.com/linus/discogs) -- Discogs API client
 * [dribbble-node](https://github.com/carlosvillu/Dribbble-node) -- A wrapper for the Dribbble API
