@@ -1217,12 +1217,12 @@ www-style proposals.
 * [ansimator](https://github.com/jesusabdullah/ansimator) -- simple animations onto the terminal with ANSI codes
 * [ansi pansi](https://github.com/constantology/ansi-pansi) -- basic ANSI formatting, foreground and background colours for use with CLI
 * [ansiparse](https://github.com/mmalecki/ansiparse) -- parses text with ANSI codes to an array of JavaScript objects
-* [ansispan](https://github.com/mmalecki/ansispan) -- changes ANSI color codes to HTML `&lt;span&gt;` elements with CSS color styles
+* [ansispan](https://github.com/mmalecki/ansispan) -- changes ANSI color codes to HTML `<span>` elements with CSS color styles
 * [charm](https://github.com/substack/node-charm) -- use ansi terminal characters to write colors and cursor positions
 * [cli-chart](https://github.com/andrewjstone/cli-chart) -- creates pseudographic charts in Node console with ANSI-coloured blocks
 * [cli-color](https://github.com/medikoo/cli-color) -- colors and formatting for the console
 * [colors.js](https://github.com/Marak/colors.js) -- get colors in your node.js console like what
-* [colours.js](https://github.com/botanicus/colours.js) -- Give your CLI programs some colours!
+* [colours.js](https://github.com/botanicus/colours.js) -- Give your CLI programs some colours! (Does not support background colour manipulation.)
 * [colored.js](https://github.com/chrislloyd/colored.js) -- Colorize terminal output.
 * [colorize](https://github.com/mattpat/colorize) -- Markup tool which uses English words to set text colours with ANSI codes.
 * [consolelog.js](https://github.com/jazzychad/consolelog.node.js) -- stylized console logging for node.js
