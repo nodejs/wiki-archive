@@ -1209,14 +1209,28 @@ www-style proposals.
 <a name="wiki-ansi"></a>
 ### [Console colors and other ANSI codes](#ansi)
 
+* [ANSIdom](https://github.com/marak/ANSIdom) -- a quick and dirty DOM implementation in ANSI escape codes
+* [ansidiff](https://github.com/trentm/node-ansidiff) -- a small node.js library for ANSI colored text diffs
+* [ansi-font](https://github.com/Gozala/ansi-font) -- ANSI font styling (background and foreground colours)
+* [ANSInception](https://github.com/DennisKehrig/ANSInception) -- Colorful exception handler for Node.js with CoffeeScript support and improved nodemon/supervisor compatibility
+* [ansi.js](https://github.com/TooTallNate/ansi.js) -- advanced ANSI formatting tool for Node.js
+* [ansimator](https://github.com/jesusabdullah/ansimator) -- simple animations onto the terminal with ANSI codes
+* [ansi pansi](https://github.com/constantology/ansi-pansi) -- basic ANSI formatting, foreground and background colours for use with CLI
+* [ansiparse](https://github.com/mmalecki/ansiparse) -- parses text with ANSI codes to an array of JavaScript objects
+* [ansispan](https://github.com/mmalecki/ansispan) -- changes ANSI color codes to HTML `&lt;span&gt;` elements with CSS color styles
+* [charm](https://github.com/substack/node-charm) -- use ansi terminal characters to write colors and cursor positions
+* [cli-chart](https://github.com/andrewjstone/cli-chart) -- creates pseudographic charts in Node console with ANSI-coloured blocks
 * [cli-color](https://github.com/medikoo/cli-color) -- colors and formatting for the console
 * [colors.js](https://github.com/Marak/colors.js) -- get colors in your node.js console like what
 * [colours.js](https://github.com/botanicus/colours.js) -- Give your CLI programs some colours!
 * [colored.js](https://github.com/chrislloyd/colored.js) -- Colorize terminal output.
+* [colorize](https://github.com/mattpat/colorize) -- Markup tool which uses English words to set text colours with ANSI codes.
 * [consolelog.js](https://github.com/jazzychad/consolelog.node.js) -- stylized console logging for node.js
-* [irc-colors.js](https://github.com/fent/irc-colors.js) --Color and formatting for irc bots made easy
+* [irc-colors.js](https://github.com/fent/irc-colors.js) -- Color and formatting for irc bots made easy
+* [kahve-ansi](https://github.com/jmalloc/kahve-ansi) -- easy-mode insertion of ANSI colour codes
 * [node-cli](https://github.com/SchizoDuckie/Node-CLI/) -- cli.clear().move(20,20).color('green').write('Node-cli').down(1).back(7).color('yellow').write('Rocks!')
 * [prettyjson](http://rafeca.com/prettyjson/) -- Package for formatting JSON data in a coloured YAML-style, perfect for CLI output.
+* [String ANSI](https://github.com/yuffster/npm-string-ansi) -- extends the `String` prototype with the function `color`, which inserts ANSI color codes in place of color string names.
 
 <a name="wiki-other-console"></a>
 ### [Other console tools](#other-console)
