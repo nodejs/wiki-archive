@@ -42,6 +42,9 @@ When editing this page please be as detailed as possible. Examples are encourage
 
 ## Added:
 
+ * `buffer`
+   * `'utf16le'` encoding.
+
  * `child_process`
    * `silent` option to `child_process.fork()` - `stdout` and `stderr` won't be shared with parent.
    * `.disconnect()` when using `child_process.fork()` this will allow the child to die graceful.
@@ -59,6 +62,9 @@ When editing this page please be as detailed as possible. Examples are encourage
    * `crypto.getDiffieHellman()`.
    * `cipher.setAutoPadding()` and `decipher.setAutoPadding()`.
    * `ciphers` option to `crypto.createCredentials()`.
+
+ * `domain`
+   * see http://nodejs.org/docs/api/domain.html
 
  * `fs`
    * `fs.appendFile()` and `fs.appendFileSync()`.
@@ -81,6 +87,9 @@ When editing this page please be as detailed as possible. Examples are encourage
 
  * `querystring`
    * `querystring.parse(str, [sep], [eq], [options])`.
+
+ * `stream`
+   * `'utf16le'` and `'ucs2'` encoding to `setEncoding()`.
 
  * `tls`
    * `tls.CLIENT_RENEG_LIMIT` and `tls.CLIENT_RENEG_WINDOW` to [mitigate session renegotiation attacks](http://nodejs.org/docs/latest/api/tls.html#client_initiated_renegotiation_attack_mitigation)
