@@ -168,6 +168,7 @@ h2. Websites and Applications
 
 This list is for websites and applications that are powered by node.js. If you've created a module (something which can *only* be run by being included into another project) then your project belongs on the "modules page":https://github.com/joyent/node/wiki/Modules instead. _If you spot modules here, feel free to remove them._
 
+* "Duke Chronicle":http://www.dukechronicle.com -- Duke University's student run news site, built entirely on Node.js
 * "Monorail.js":https://github.com/runexec/Monorail.js -- Ultra lightweight MVC Framework for Node.js
 * "node_chat":http://github.com/ry/node_chat by ry
 * "64squares":http://64sq.com - by weepy - real time live chess running on node + socket.io with facebook
