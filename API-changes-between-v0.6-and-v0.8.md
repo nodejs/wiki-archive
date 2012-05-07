@@ -34,6 +34,9 @@ When editing this page please be as detailed as possible. Examples are encourage
  * `readline`
    * `arguments` of `rl.createInterface` became an option as `rl.createInterface(options)` but still took an old style as rl.createInterface(input, output, completer)
 
+ * `url`
+   * `url.parse()` now parses IPv6 addresses.
+
  * `fs`
    * `path.exists()` and `path.existsSync()` has moved to `fs.exists()` and `fs.existsSync()`.
 
