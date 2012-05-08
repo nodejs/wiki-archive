@@ -752,6 +752,8 @@ www-style proposals.
 * [watchmen](https://github.com/iloire/WatchMen) -- A simple HTTP monitor (pings sites and services with predefined parameters to make sure they are alive)
 * [needle](https://github.com/tomas/needle) -- Lightweight HTTP client with multipart support.
 * [node-tunnel](https://github.com/koichik/node-tunnel) -- HTTP/HTTPS Agents for tunneling proxies.
+* [poster](https://github.com/rfrench/poster) -- Upload local/remote files over multipart.
+* [curler](https://github.com/rfrench/curler) -- Native c++ node.js module for asynchronous http requests via libcurl.
 
 <a name="wiki-tcp-ftp"></a>
 ### [FTP](#tcp-ftp)
