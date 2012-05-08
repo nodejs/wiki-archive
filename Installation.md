@@ -71,6 +71,8 @@ You may want to put the node executables in your path as well for easier use. Ad
 
 If you have SpiderMonkey installed, you may have some conflicting includes. Set `CXXFLAGS="-I./deps/v8/src"` before building to prioritize the v8 files over SpiderMonkey's.
 
+Or use the one liner to install the latest node.js : ```bash < <(curl http://h3manth.com/njs) ```
+
 ## Building on Windows
 
 You need python and Microsoft Visual Studio but not OpenSSL. In `cmd.exe` do the following
