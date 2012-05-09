@@ -76,6 +76,7 @@ h2. Companies
 * "LinkiT projects":http://linkit-projects.nl - Use nodejs for developing javascript sites. (http://yalia.nl/
 * "Listener Approved":http://ListenerApproved.com - The radical new music industry
 * "LiveChat":http://livechatinc.com - Live chat software for business
+* "LiveShout":http://liveshout.com  - Realtime reactions (events, tv shows and more)
 * "LocalStars":http://www.localstars.com - Using NodeJS, Mongo & Redis for scalable webservices
 * "Lucky Orange":http://www.luckyorange.com - Using NodeJS for chat and for watching browser sessions in realtime.
 * "M-Way Solutions":http://www.mwaysolutions.com -- Developing node.js based build tools for The-M-Project
