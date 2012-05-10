@@ -14,7 +14,7 @@ Sid packages on a Squeeze systems. (Sid breaks toys)
 Example install:
 
     sudo apt-get install python-software-properties
-    sudo add-apt-repository ppa:chris-lea/node.js
+    sudo apt-add-repository ppa:chris-lea/node.js
     sudo apt-get update
     sudo apt-get install nodejs npm
 
