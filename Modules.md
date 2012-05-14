@@ -1158,6 +1158,7 @@ www-style proposals.
 * [meta-fs](https://github.com/dvv/meta-fs) -- Patches the Node.js `fs` object with methods that find files, delete directory trees, create nested directories, make symlinks, copy files and directories.
 * [wrench](https://github.com/ryanmcgrath/wrench-js) -- Recursive operations (create directory, delete directory, read contents, chmod, chown, deep copy). Line-by-line reader. Asynchronous read of directories contents.
 * [pathspec](https://github.com/andreyvit/pathspec.js) -- Shell- and .gitignore/.npmignore-style wildcards and file lists
+* [diskspace.js](https://github.com/keverw/diskspace.js) -- A simple module to check disk space usages in bytes.
 
 <a name="wiki-debugging-and-console"></a>
 ## [Debugging / console utilities](#debugging-and-console)
