@@ -1558,6 +1558,7 @@ www-style proposals.
 * [node-viewmodel](https://github.com/adrai/node-viewmodel) -- Node-viewmodel is a node.js module for multiple databases. It can be very useful if you work with (d)ddd, cqrs, eventdenormalizer, host, etc.
 * [rule-validator](https://github.com/adrai/rule-validator) -- Rule-validator is a javascript module based on amanda. And works for node.js and in the browser. It can be very useful if you work with (d)ddd, cqrs, eventsourcing, domain, commands and events, etc.
 * [node-cqrs-domain](https://github.com/adrai/node-cqrs-domain) -- Node-cqrs-domain is a node.js module based on nodeEventStore that. It can be very useful as domain component if you work with (d)ddd, cqrs, eventdenormalizer, host, etc.
+* [node-cqs](https://github.com/adrai/node-cqs) -- Node-cqs is a node.js module that implements the cqrs pattern without eventsourcing. It can be very useful as domain and eventdenormalizer component if you work with (d)ddd, cqrs, host, etc.
 * [cloudjs] (https://github.com/digitalwm/cloudjs) -- provides a network distributed event system and a 
 realtime balancing for live objects
 
