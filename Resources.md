@@ -8,7 +8,7 @@
 
 * [NodeManual](http://www.nodemanual.org) -- by [Cloud9 IDE](http://www.c9.io), a fork of the official Node.js API documentation, with a different organization, examples you can run in the browser, and additional tutorials
 * [NodeBits](http://www.nodebits.org) -- by Tim Caswell, a site dedicated to keeping the NodeJS spirit of innovation and creativity alive. This is done by providing a constant stream of ideas and sample projects.
-
+* [justjs](http://justjs.com) -- by Tom Boutell. A blog featuring a series of node.js tutorials, starting with the basics of installing Node and MongoDB on your own computer and building from there into creating full-fledged node apps, beginning with the justjs.com blog itself.
 ## Articles
 
 * [Mastering Node](http://visionmedia.github.com/masteringnode/) - Open Source eBook by TJ Holowaychuk and the node community
