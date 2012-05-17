@@ -913,6 +913,7 @@ www-style proposals.
 * [fakeredis](https://github.com/hdachev/fakeredis) -- Simulated Redis instances, so that you can run any number of redis-dependent tests in parallel.
 * [fakeweb](https://github.com/ctide/fakeweb) -- A port of [fakeweb](https://github.com/chrisk/fakeweb) that fakes out requests made via Mikeal's request module, or the standard HTTP module.
 * [foounit](https://github.com/foobarfighter/foounit) -- client/server side BDD testing framework 
+* [grover](https://github.com/davglass/grover) -- PhantomJS/YUITest CLI test runner.
 * [httpmock](https://github.com/bbyars/httpmock) -- A RESTful web API for stubbing out network dependencies.
 * [horaa](https://github.com/arunoda/horaa) -- Mocking NodeJS Modules
 * [jasmine-node](https://github.com/mhevery/jasmine-node) -- integration with [Pivotal's Jasmine Spec](https://github.com/pivotal/jasmine) framework
