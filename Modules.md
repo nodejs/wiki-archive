@@ -1617,3 +1617,4 @@ realtime balancing for live objects
 * [json-diff](https://github.com/andreyvit/json-diff) -- structured colored diff for JSON files
 * [crud-bones](http://words.alexeypro.com/crud-bones/) -- CRUD boilerplate/template for Node.JS/Mongo/MySQL/Redis/Express/EJS/Cluster/etc.
 * [node-dummy-cache](http://github.com/pescuma/node-dummy-cache) -- A simple in memory cache to use with nodejs.
+* [yui](http://github.com/yui/yui3) -- YUI available in Node.js, ([extra docs](http://yuilibrary.com/yui/docs/yui/nodejs.html))
