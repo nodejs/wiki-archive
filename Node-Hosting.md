@@ -18,7 +18,7 @@ Name | Node Version | Web Sockets | IP/Hostname | IRC | Repository | Free Plan |
 [Nodejitsu](http://nodejitsu.com) | 0.4.12, 0.6.x | Yes | Yes | #nodejitsu | [nodejitsu](http://github.com/nodejitsu) | Free - More info after beta | | In Private Beta
 [Nodester](http://nodester.com) | 0.4.9, 0.4.12, 0.6.12, 0.6.17 | Yes | Yes | #nodester |[nodester](https://github.com/nodester) | Yes - Unlimited | No | Open (with invite)
 [JSApp.US](http://jsapp.us) | | | No | | [node-host](https://github.com/matthewfl/node-host) | | | Open signup, web editing/npm command
-[Node Ninja(JP)](https://node-ninja.com) | 0.6.11 | Yes | Yes | | | | | In Private Beta
+[Node Ninja(JP)](https://node-ninja.com) | 0.6.11 | Yes | Yes | | | | Yes | In Private Beta
 [NAE(CN)](http://cnodejs.net) | 0.6.2 | Yes | Just allow *.cnodejs.net or custom domain | | | Yes - You can create 10 apps. And you can request a MongoDB for every app. | | Open (with invite)
 [OpenShift](https://openshift.redhat.com/) | 0.6.10 | | | #openshift | [openshift](https://github.com/openshift) | Yes | | Open
 
