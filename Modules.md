@@ -1017,6 +1017,7 @@ www-style proposals.
 ### [Command line option parsers](#parsers-commandline)
 
 * [aparser](https://github.com/thypon/aparser) -- Async ARGS parser
+* [argparse](https://github.com/nodeca/argparse) -- One of the most featured & flexible parser. Direct port of phyton's argparse module
 * [argsparser](https://github.com/kof/node-argsparser) -- A tiny limited arguments parser, returns a hash.
 * [argumentr](https://github.com/pgundlach/argumentr) -- simple to use but powerful argument parser with free `--help`
 * [celeri.js](https://github.com/crcn/celeri) -- Complete command line interfaces lib for node.js
