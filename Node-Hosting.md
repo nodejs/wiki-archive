@@ -20,7 +20,7 @@ Name | Node Version | Web Sockets | IP/Hostname | IRC | Repository | Free Plan |
 [JSApp.US](http://jsapp.us) | | | No | | [node-host](https://github.com/matthewfl/node-host) | | | Open signup, web editing/npm command
 [Node Ninja(JP)](https://node-ninja.com) | 0.6.11 | Yes | Yes | | | Yes |  | In Private Beta
 [NAE(CN)](http://cnodejs.net) | 0.6.2 | Yes | Just allow *.cnodejs.net or custom domain | | | Yes - You can create 10 apps. And you can request a MongoDB for every app. | | Open (with invite)
-[OpenShift](https://openshift.redhat.com/) | 0.6.10 | | | #openshift | [openshift](https://github.com/openshift) | Yes | | Open
+[OpenShift](https://openshift.redhat.com/) | 0.6.10 | No (vote pending) | | #openshift | [openshift](https://github.com/openshift) | Yes | | Open
 
 Empty cells mean we weren't sure what to put there. 
 
