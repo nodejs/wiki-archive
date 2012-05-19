@@ -592,8 +592,9 @@ rendering process.
 * [less](https://github.com/cloudhead/less.js) -- Parses a LESS template and renders css.
 * [csslike](https://github.com/chjj/csslike) -- Parses and compiles CSS, taking into account the most recent 
 www-style proposals.
-* [CSSOM](https://github.com/NV/CSSOM) — Parses CSS into CSS Object Model.
-* [Csster](https://github.com/ndp/csster) — Write CSS in JS or Coffeescript, with macros, color math, etc.
+* [CSSOM](https://github.com/NV/CSSOM) —- Parses CSS into CSS Object Model.
+* [Csster](https://github.com/ndp/csster) —- Write CSS in JS or Coffeescript, with macros, color math, etc.
+* [Inverter](https://github.com/coolony/inverter) -- Flips CSS from LTR to RTL and vice-versa.
 
 <a name="wiki-content-management"></a>
 ## [Content Management Systems](#content-management)
