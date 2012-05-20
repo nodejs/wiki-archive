@@ -1542,6 +1542,7 @@ www-style proposals.
 ## [Boilerplates](#boilerplates)
 
 * [npm-boilerplate](https://github.com/wearefractal/npm-boilerplate) -- Boilerplate for creating NPM packages
+* [node-backbone](https://github.com/vinkaga/node-backbone) -- Sample project for a Node/Backbone/HTML5 application optimized separately for desktop browsers (web), generic mobile platforms using jQuery Mobile (jquerymobile) and iPhone (iphone). Uses Express, Socket.io, Mongoose/MongoDB, Redis.io (for sessions) and Mocha (for testing).
 * [node-boilerplate](https://github.com/robrighter/node-boilerplate) -- Everything you need to get started on a Node.js website with express and socket.IO
 * [transsiberian](https://github.com/masylum/transsiberian) -- [outdated] nodejs boilerplate built upon Express and Mongolia
 * [NodeBase](https://github.com/dotmaster/NodeBase) -- A node base class for JavaScript and CoffeeScript (logging, options, defaults and EventEmitter)
