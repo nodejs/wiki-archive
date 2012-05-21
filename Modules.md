@@ -880,9 +880,8 @@ www-style proposals.
 * [amqp-dsl](https://github.com/FGRibreau/node-amqp-dsl) -- Fluent Interface for dealing with AMQP (RabbitMQ,...) on NodeJS
 * [amqp-tool](https://github.com/FGRibreau/node-amqp-tool) -- Import & export data from/to an AMQP/RabbitMQ broker
 * [rabbitmq-nodejs-client](https://github.com/adrai/rabbitmq-nodejs-client) -- rabbitmq client for node.js
-* [QDis](https://github.com/gflarity/qdis) -- a simple durable fanout pub/sub queueing system built with Redis 
+* [QDis](https://github.com/gflarity/qdis) -- a simple durable fanout pub/sub queueing system built with Redis + Node.js 
 * [fairy](https://github.com/baoshan/fairy) -- a queue engine based on Redis offering ActiveMQ's message groups alike feature.
-+ Node.js
 
 <a name="wiki-class-system"></a>
 ## [Class systems](#class-system)
