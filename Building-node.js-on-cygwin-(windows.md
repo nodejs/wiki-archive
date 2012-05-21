@@ -1,1 +1,0 @@
-I think you meant to go here: [Building node.js on Cygwin (Windows)](https://github.com/ry/node/wiki/Building-node.js-on-Cygwin-%28Windows%29)
