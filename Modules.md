@@ -982,6 +982,7 @@ www-style proposals.
 * [cloudshift](https://github.com/cloudshift/cloudshift) -- A haXe Stack for Node.js 
 * [SQLiteHaxeWrapper](https://github.com/tommedema/NodeSQLiteHaxeWrapper) -- haXe wrappers for Orlandov's SQLite high level driver
 * [hxnodejs](https://github.com/tong/hxnodejs) -- another haXe wrappers for node
+* [node-tidy](https://github.com/leondealmeida/node-tidy) -- a simple wrapper for tidy
 
 <a name="wiki-parsers"></a>
 ## [Parsers](#parsers)
