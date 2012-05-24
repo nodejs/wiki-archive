@@ -18,6 +18,7 @@ h2. Companies
 * "Bitmechanic":http://www.bitmechanic.com/
 * "Bocoup":http://bocoup.com
 * "BrandedCode":http://brandedcode.com
+* "Brightin":http://brightin.nl - Creating simple, often realtime, apps
 * "browserling":http://browserling.com - test all the browsers in your browser!
 * "Bubbler":http://bubbler.com - Bubbles up contextually useful information as you work!
 * "Caffeinehit":http://caffeinehit.com
