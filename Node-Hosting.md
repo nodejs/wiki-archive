@@ -10,7 +10,6 @@ Name | Node Version | Web Sockets | IP/Hostname | IRC | Repository | Free Plan |
 [bejes.us](http://bejes.us) | | | | | | | | Beta Coming Soon (accepting signups) - powered by Nodester 
 [Cloud Foundry](http://www.cloudfoundry.com) | | | No | | [cloudfoundry](https://github.com/cloudfoundry) | Yes - Only during beta. | | Beta, accepting signups
 [Cloudnode](http://cloudno.de) | 0.4.12, 0.6.x | Yes | Yes | | | Yes - Up to 3 VMs, 25 MB CouchDB space, 250,000 requests/month. | | Beta (accepting signups) - powered by Nodester 
-[Cure](http://cure.willsave.me) | 0.6.2 | Yes | Yes | | | Yes - One week trial. (Up to 1GB outgoing b/w, $0.18 per GB after.) | $12.95/month per server. | 
 [DotCloud](http://www.dotcloud.com) | 0.4.10 | Yes | Paid plan | #dotcloud | [dotcloud](https://github.com/dotcloud) | Yes - 2 services. | Pro - $99/month, 4 services. Enterprise - Unlimited services. | Beta
 [Heroku](http://heroku.com) | 0.4.7 | No | Yes | #heroku | [heroku](http://github.com/heroku) | Yes - 1 Dynamo (256 MB Ram) | | 
 [no.de](http://no.de) | 0.4.11 | Paid plan | Paid plan | #joyent | [joyent](http://github.com/joyent) | Yes - 128 MB Ram | | 
@@ -23,6 +22,15 @@ Name | Node Version | Web Sockets | IP/Hostname | IRC | Repository | Free Plan |
 [OpenShift](https://openshift.redhat.com/) | 0.6.10 | No (vote pending) | | #openshift | [openshift](https://github.com/openshift) | Yes | | Open
 
 Empty cells mean we weren't sure what to put there. 
+
+##Self-Managed Preconfigured
+
+"Node Appliance" solution where Node and NPM are already set up for you, and deploys are typically done via git push or similar method. You will have complete control over and responsibility for your servers, but everything will be set up for you.
+
+Name | Node Version | Web Sockets | IP/Hostname | IRC | Repository | Free Plan | Paid Plans | Notes |
+:-----------|:------------|:-------------|:-------------|:-------------|:-------------|:-------------|:-------------|:-------------------------------------|
+[Cure](http://cure.willsave.me) | 0.6.2 | Yes | Yes | | | Yes - One week trial. (Up to 1GB outgoing b/w, $0.18 per GB after.) | $12.95/month per server. | 
+
 
 ## Self-Managed
 
