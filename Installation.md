@@ -41,8 +41,8 @@ Maybe you need to change your PYTHONHOME as well. If you have any further instal
 Do something like this
 
 ```sh
-tar -zxf node-v0.6.16.tar.gz #Download this from nodejs.org
-cd node-v0.6.16
+tar -zxf node-v0.6.18.tar.gz #Download this from nodejs.org
+cd node-v0.6.18
 ./configure
 make
 sudo make install
@@ -53,7 +53,7 @@ Or, if you'd like to install from the repository
 ```sh
 git clone https://github.com/joyent/node.git
 cd node
-git checkout v0.6.16 #Try checking nodejs.org for what the stable version is
+git checkout v0.6.18 #Try checking nodejs.org for what the stable version is
 ./configure
 make
 sudo make install
