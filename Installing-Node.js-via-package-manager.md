@@ -39,21 +39,27 @@ Example install on openSUSE 11.4:
 ## Fedora, RHEL/CentOS/Scientific Linux, and Amazon Linux
 Packages for Fedora 15 and 16, RHEL, CentOS, and Scientific Linux 5 and 6, as well as Amazon Linux are available from the [Node.js for Fedora and Enterprise Linux repository](http://nodejs.tchol.org/).
 
-To install node and npm on **Fedora**:
+To install node on **Fedora**:
 
     sudo yum localinstall --nogpgcheck http://nodejs.tchol.org/repocfg/fedora/nodejs-stable-release.noarch.rpm
     sudo yum install nodejs-compat-symlinks npm
 
-To install node and npm on **RHEL and friends**:
+To install node on **RHEL and friends**:
 
     wget http://nodejs.tchol.org/repocfg/el/nodejs-stable-release.noarch.rpm
     yum localinstall --nogpgcheck nodejs-stable-release.noarch.rpm
     yum install nodejs-compat-symlinks npm
 
-To install node and npm on **Amazon Linux**:
+To install node on **Amazon Linux**:
+
+First install the repository:
 
     sudo yum localinstall --nogpgcheck http://nodejs.tchol.org/repocfg/amzn1/nodejs-stable-release.noarch.rpm
     sudo yum install nodejs-compat-symlinks npm
+
+Then run:
+
+    sudo yum install nodejs
 
 ## Arch Linux
 Node.js is available in the Community Repository.
