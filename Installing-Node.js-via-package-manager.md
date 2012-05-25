@@ -54,12 +54,11 @@ To install node on **Amazon Linux**:
 
 First install the repository:
 
-    sudo yum localinstall --nogpgcheck http://nodejs.tchol.org/repocfg/amzn1/nodejs-stable-release.noarch.rpm
+    sudo yum localinstall --nogpgcheck http://nodejs.tchol.org/repocfg/amzn1/nodejs-stable-release.noarch.rpm   
+
+Then install the packages:
+
     sudo yum install nodejs-compat-symlinks npm
-
-Then run:
-
-    sudo yum install nodejs
 
 ## Arch Linux
 Node.js is available in the Community Repository.
