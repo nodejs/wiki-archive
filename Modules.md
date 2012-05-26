@@ -1204,7 +1204,7 @@ www-style proposals.
 ### [Logging and dumping](#logs)
 
 * [ain](https://github.com/akaspin/ain) -- Brain-free syslog logging
-* [Caterpillar](https://github.com/balupton/caterpillar.npm) -- Caterpillar is an awesome, simple, intuitive console logger for node.js. It supports grouping of messages, filtering log levels, colors, times, modules, custom formatters and custom transports.
+* [Caterpillar](https://github.com/bevry/caterpillar) -- Caterpillar is an awesome, simple, intuitive console logger for node.js. It supports grouping of messages, filtering log levels, colors, times, modules, custom formatters and custom transports.
 * [cfdump.js](https://github.com/figital/cfdump.js) -- a more visually inspiring way to dump your objects to a browser
 * [flume-rpc](https://github.com/recoset/node-flume-rpc) -- A flume-compatible (RPC) logging source and sink
 * [hexy.js](https://github.com/a2800276/hexy.js) -- hex pretty printing like xxd
