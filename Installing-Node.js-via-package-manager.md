@@ -9,6 +9,10 @@ For Debian Squeeze:
 You may want to read about [Apt pinning](http://wiki.debian.org/AptPreferences) to limit the impact of using
 Sid packages on a Squeeze systems. (Sid breaks toys)
 
+## Linux Mint
+
+Using [a package](http://oodavid.tumblr.com/post/15090798307/how-to-install-node-js-on-linux)
+
 ## Ubuntu
 
 Example install:
