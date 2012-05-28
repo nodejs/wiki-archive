@@ -11,7 +11,7 @@ Sid packages on a Squeeze systems. (Sid breaks toys)
 
 ## Linux Mint
 
-[How to install node.js on Linux](http://oodavid.tumblr.com/post/15090798307/how-to-install-node-js-on-linux)
+[How to install node.js on Debian-based Linux distros (Debian, Ubuntu, Mint etc)](http://oodavid.tumblr.com/post/15090798307/how-to-install-node-js-on-linux)
 
 ## Ubuntu
 
