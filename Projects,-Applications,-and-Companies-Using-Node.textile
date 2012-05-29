@@ -38,6 +38,7 @@ h2. Companies
 * "Development Seed":http://developmentseed.org/ - building data sites  
 * "Dextrose":http://dextrose.com/ -- heavily uses node for their upcoming JavaScript based game engine "Aves Engine"
 * "Doctape":http://www.doctape.com/ -- tag-based document & media management including an online-viewer to view dozens of document & video types in the browser
+* "Doodle or Die":http://doodleordie.com - online social doodling game (developed entirely in node)
 * "Dow Jones":http://social.wsj.com/ -- The WSJ Social front-end is written completely in node, using Express, ejs, and many other modules
 * "DuckDuckGo":http://duckduckgo.com/ -- uses it for XMPP bot im@ddg.gg
 * "Duostack":http://www.duostack.com
