@@ -63,6 +63,7 @@ h2. Companies
 * "IDFuze":http://www.idfuze.com - Working on a real time cards game using node.js and socket.io
 * "ingk labs":http://ingk.com - Rapidly create startup prototypes with a strong emphasis on DRY
 * "ipowerhouse":http://www.ipowerhouse.com - Focused on haXe/Node.js  game dev; first all haxe/node bingo product.
+* "ipseitycloud":http://www.ipseitycloud.com - Use node.js for everything, blog, apps, webpage, etc
 * "i.TV":http://i.tv - Next gen social media.
 * "Jetsetter":http://www.jetsetter.com/ - Travel and Vacation Deals. Node.js powers the mobile website. 
 * "Jetpacks for Dinosaurs":http://jetpacksfordinosaurs.com" - Node.js Consultancy and Startup incubator.
