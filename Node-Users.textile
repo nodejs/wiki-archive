@@ -936,6 +936,8 @@ h2. UTC+8
 ** "Github":http://github.com/fadzril, "Twitter":http://twitter.com/fadzril
 * Eric Chuang(ddsakura),Taiwan
 ** "GitHub":http://github.com/ddsakura/, "Twitter":http://twitter.com/ddsakura, "Blog":http://cire.pixnet.net/
+* Jack Tsai (jacksctsai), Hsinchu, Taiwan
+** "GitHub":http://github.com/jacksctsai, "Twitter":http://twitter.com/jacksctsai, "Facebook":http://facebook.com/jacksctsai
 
 h2. UTC+9
 
