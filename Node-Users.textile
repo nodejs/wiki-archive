@@ -926,6 +926,8 @@ h2. UTC+8
 ** "Github":http://github.com/soggie, "Twitter":http://twitter.com/roguejs, "Website":http://roguejs.com
 * sunshine1988, Chengdu, China
 ** "GitHub":http://github.com/sunshine1988, "Twitter":http://twitter.com/ifairy1988
+* YH Lai(coderkk), Kuala Lumpur, Malaysia
+** "GitHub":http://github.com/coderkk, "Twitter":http://twitter.com/coderkk
 
 h2. UTC+9
 
