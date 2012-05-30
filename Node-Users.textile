@@ -880,6 +880,8 @@ h2. UTC+8
 ** "GitHub":http://github.com/summer1433/
 * Vanilla Hsu(vanillahsu),Taiwan
 ** "GitHub":http://github.com/vanillahsu/
+* Caesar Chi(clonn),Taiwan
+** "GitHub":http://github.com/clonn/, "Website":http://clonn.blogspot.com
 * Scott Ballantyne (ballantyne), Shanghai, China
 ** "GitHub":http://github.com/ballantyne/, "Website":http://scottballantyne.com, "Twitter":http://twitter.com/ussballantyne, "Sina Weibo":http://t.sina.com.cn/ballantyne
 * Yu-Chung Wang(wycc), Taiwan
