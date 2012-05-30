@@ -914,10 +914,12 @@ h2. UTC+8
 ** "GitHub":http://github.com/alFReD-NSH , "Twitter":http://twitter.com/alFRed88NSH
 * Firdaus Ramlan (firdausramlan), Kuala Lumpur, Malaysia
 ** "GitHub":http://github.com/firdausramlan, "Twitter":http://twitter.com/firdaus5775
-* sunshine1988, Chengdu, China
-** "GitHub":http://github.com/sunshine1988, "Twitter":http://twitter.com/ifairy1988
+*Raj Kissu (rajkissu), Kuala Lumpur, Malaysia
+** "Github":http://github.com/rajkissu, "Twitter":http://twitter.com/rajkissu
 * Ruben LZ Tan (soggie), Kuala Lumpur, Malaysia
 ** "Github":http://github.com/soggie, "Twitter":http://twitter.com/roguejs, "Website":http://roguejs.com
+* sunshine1988, Chengdu, China
+** "GitHub":http://github.com/sunshine1988, "Twitter":http://twitter.com/ifairy1988
 
 h2. UTC+9
 
