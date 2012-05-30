@@ -870,7 +870,7 @@ h2. UTC+7
 
 h2. UTC+8
 
-* Evert Chin (megablue)
+* Evert Chin (megablue), Kuala Lumpur, Malaysia
 ** "GitHub":http://github.com/megablue, "Twitter":http://twitter.com/megablue
 * Fadrizul H. (fadrizul), Kuala Lumpur, Malaysia
 ** "GitHub":http://github.com/fadrizul, "Twitter":http://twitter.com/fadrizul
