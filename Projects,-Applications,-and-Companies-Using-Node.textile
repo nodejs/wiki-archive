@@ -208,6 +208,7 @@ This list is for websites and applications that are powered by node.js. If you'v
 * "colorapi":http://colorapi.com/ - Color palette generator from Flickr images.
 * [[Constant Sail: Pirates & Traders|http://constantsail.com]] - real time pirate game (uses [[mongodb-native|https://github.com/christkv/node-mongodb-native]] and socket.io)
 * "ComicR":https://github.com/amiklosi/Comicr - An online html5 speech bubble tool ( <a href="http://comicr.co.uk">http://comicr.co.uk</a> )
+* "Countly":http://count.ly/ - Open source, real-time mobile analytics platform that runs on MongoDB and Node.js
 * "CouchPress":http://couchpress.nodester.com - a super lightweight and modular blogging engine or content management system built on NodeJS, Express and CouchDB.
 * "designo":https://github.com/kazuyukitanimura/designo — Realtime Twitter client demo exploiting Node.js+Websockets+HTML5
 * "DinMaker":http://github.com/creationix/node-topcloud-chat by creationix (live demo at <a href="http://chat.creationix.com">chat.creationix.com</a>)
