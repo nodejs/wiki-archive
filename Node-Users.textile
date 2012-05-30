@@ -870,7 +870,7 @@ h2. UTC+7
 
 h2. UTC+8
 
-* Fadrizul H., Kuala Lumpur, Malaysia
+* Fadrizul H. (fadrizul), Kuala Lumpur, Malaysia
 ** "GitHub":http://github.com/fadrizul, "Twitter":http://twitter.com/fadrizul
 * summer(summer), Hangzhou, China
 ** "GitHub":http://github.com/summer1433/
