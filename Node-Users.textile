@@ -979,6 +979,8 @@ h2. UTC+9
 ** "GitHub":http://github.com/mattn, "Twitter":http://twitter.com/mattn_jp, "Blog":http://mattn.kaoriya.net/
 * Hideaki Ohno (hide_o_55), Toyko, Japan
 ** "Github":http://github.com/hideo55, "Twitter":http://twitter.com/hide_o_55, "Blog":http://d.hatena.ne.jp/hide_o_55/
+* EungJun Yi, Seoul, Korea
+** "GitHub":http://github.com/npcode, "Twitter":http://twitter.com/semtlnori, "Blog":http://npcode.com/
 
 h2. UTC+9:30 (+10:30)
 
