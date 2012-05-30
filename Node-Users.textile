@@ -783,6 +783,8 @@ h2. UTC+2 (+3)
 ** "GitHub":https://github.com/revington
 * Rehno Lindeque, Pretoria, South Africa
 ** "GitHub":https://github.com/rehno-lindeque, "Twitter":http://twitter.com/RehnoLindeque, "Website":http://rehno.lindeque.name
+* Alexandru Topliceanu, Bucharest, Romania
+** "GitHub":https://github.com/topliceanu, "Twitter":http://twitter.com/topliceanu, "Website":http://alexandrutopliceanu.ro
 
 h2. UTC+3 (+4)
 
