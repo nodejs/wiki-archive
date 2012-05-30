@@ -928,6 +928,8 @@ h2. UTC+8
 ** "GitHub":http://github.com/sunshine1988, "Twitter":http://twitter.com/ifairy1988
 * YH Lai(coderkk), Kuala Lumpur, Malaysia
 ** "GitHub":http://github.com/coderkk, "Twitter":http://twitter.com/coderkk
+* Fadzril (fadzril), Kuala Lumpur, Malaysia
+** "Github":http://github.com/fadzril, "Twitter":http://twitter.com/fadzril
 
 h2. UTC+9
 
