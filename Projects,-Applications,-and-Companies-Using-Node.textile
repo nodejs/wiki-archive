@@ -73,6 +73,7 @@ h2. Companies
 * "Joyent":http://www.joyent.com/
 * "Kano/Apps":http://www.kanoapps.com/ - builds social games and applications for every platform
 * "Keaton Row":http://keatonrow.com/ - Online personal shopping and styling service for the professional woman.
+* "Kinvey":http://kinvey.com/ - A Backend as a Service platform that makes really easy for developers to setup and operate backends for mobile, tablet AND web apps.
 * "Koding":http://kodingen.com/ - Browser-based IDE and Cloud Computing Platform for PHP/Ruby/Python and others.
 * "Klout":http://klout.com/
 * "LayerVault":http://layervault.com/ - Version control for designers
