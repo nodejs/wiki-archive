@@ -1376,6 +1376,7 @@ www-style proposals.
 * [gdata-js](https://github.com/smurthas/gdata-js) -- Simple Google Data API OAuth 2.0 wrapper
 * [geo](http://github.com/feliperazeek/geonode) -- A very basic, but simple, geocode library, currently using Google Geocode API (v3)
 * [gist](https://github.com/emerleite/node-gist) -- A gist creator. Create GISTs and use the generated URI.
+* [gnip](https://github.com/demian85/gnip) -- A simple library that allows you to connect to Gnip Twitter Power Track and manage rules easily.
 * [gravatar](https://github.com/emerleite/node-gravatar) -- Well tested Node.JS Gravatar URL generator
 * [gumroad](https://github.com/vdemedes/node-gumroad) -- API client for Gumroad. 100% coverage of available methods.
 * [hipchat-js](https://github.com/smurthas/hipchat-js) -- Simple HipChat API wrapper
