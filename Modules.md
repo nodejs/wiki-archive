@@ -1193,6 +1193,7 @@ www-style proposals.
 * [node-webkit-agent](https://github.com/c4milo/node-webkit-agent) -- WebKit devtools agent that leverages remote debugging and profiling of nodejs applications using built-in webkit devtools front-end.
 * [profilejs](https://github.com/HerdHound/profilejs) -- profiling middleware for use with node-inspector (profiles Express handlers)
 * [Replica](https://github.com/zentooo/Replica) -- Repl to exec JavaScript code on browser
+* [rewire](http://jhnns.github.com/rewire/) -- Dependency injection for node.js applications
 * [spine](https://github.com/thrashaholic/spine) -- Dynamic runtime monitoring for node.js applications inspired by lorenwest's monitor.
 * [strack](https://github.com/selead/strack) -- bug tracking/tickets system  
 * [v8-profiler](https://github.com/dannycoates/v8-profiler) -- v8 profiler bindings with node-inspector integration
@@ -1643,3 +1644,4 @@ realtime balancing for live objects
 * [node-dummy-cache](http://github.com/pescuma/node-dummy-cache) -- A simple in memory cache to use with nodejs.
 * [yui](http://github.com/yui/yui3) -- YUI available in Node.js, ([extra docs](http://yuilibrary.com/yui/docs/yui/nodejs.html))
 * [Jalali](https://github.com/alireza-ahmadi/jalali) -- Gregorian to Jalali Converter
+* [toSrc](http://jhnns.github.com/toSrc/) -- Turns every JavaScript object or primitive into valid source code that can be evaled again.
