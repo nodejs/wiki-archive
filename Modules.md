@@ -1225,6 +1225,7 @@ www-style proposals.
 * [spruce](https://github.com/MarkPNeyer/spruce) -- configurable node.js logging module
 * [tracer](https://github.com/baryon/tracer) -- A powerful and customizable logging library for node.js. support color console with timestamp, line number, method name, file name and call stack. you can set transport to file, stream, database(ex: mongodb and clouddb, simpledb). keywords: log, logger, trace  
 * [underscore.logger](https://github.com/viatropos/underscore.logger) -- Cross-browser and Node.js empowered logging that can be used as an Underscore mixin.
+* [Windows Event Log Js](http://jfromaniello.github.com/windowseventlogjs/) -- native Node.js module to log messages to the Microsoft Windows EventLog
 * [Winston](https://github.com/indexzero/winston) -- A multi-transport async logging library for node.js
 
 <a name="wiki-ansi"></a>
