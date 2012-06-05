@@ -672,6 +672,8 @@ www-style proposals.
 * [node-settings](https://github.com/mgutz/node-settings) -- Simple, hierarchical environment-based app settings.
 * [ripple](https://github.com/thrashaholic/ripple) -- Dynamic runtime configuration for node.js deployment based on lorenwest's config.
 
+↓ **See also** [parsers](#parsers), they may be used to parse configuration files.
+
 <a name="wiki-misc-build-and-deployment"></a>
 ### [Miscellaneous build and deployment tools](#misc-build-and-deployment)
 
