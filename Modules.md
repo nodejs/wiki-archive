@@ -652,7 +652,7 @@ www-style proposals.
 * [run](https://github.com/DTrejo/run.js) -- Rerun your js file whenever there's a change in the current directory: <code>npm install -g run</code>, <code>runjs yourcode.js</code>. Never alt-tab to your terminal again.
 * [start-stop-daemon](https://github.com/jiem/start-stop-daemon) -- An 1-function Node.js module to easily create native `child_process.fork` start-stop-daemon scripts. Created daemons are self-monitored and restart automatically when crashing (a custom crash handler can be attached too).
 
-<a name="wiki-compile-and-build"></a>
+<a name="wiki-deployment"></a>
 ### [Deployment](#deployment)
 
 * [Gittyup](https://github.com/crcn/gittyup) -- Application deployment library for node.js
