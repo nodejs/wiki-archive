@@ -81,7 +81,7 @@ When editing this page please be as detailed as possible. Examples are encourage
    * `ciphers`, `rejectUnauthorized` option to `https.request()` and `https.get()`.
 
  * `net`
-   * `net.connect(options, [connectionListener)`.
+   * `net.connect(options, [connectionListener])`.
    * callback optional argument to `server.close()`.
 
  * `process`
