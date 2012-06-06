@@ -19,7 +19,7 @@ When editing this page please be as detailed as possible. Examples are encourage
    * the `'death'` event on the `cluster` object is renamed to `'exit'`.
    * the `kill()` method is renamed to `destroy()`.
    * the `CLUSTER_WORKER_ID` env is now called `CLUSTER_UNIQUE_ID`, but you should not have used that anyway.
-   * workers do now kill them self when they accidentally losses there connection with the master.
+   * workers now kill themselves when they accidentally lose their connection to the master.
 
  * `http`
    * `http.Server` emits `'connect'` event instead of `'upgrade'` when the CONNECT method is requested.
