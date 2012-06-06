@@ -940,6 +940,7 @@ www-style proposals.
 * [databasecleaner](https://github.com/emerleite/node-database-cleaner) -- Clean your database after each test. Supports MongoDB, Redis and CouchDB. Will support MySQL and others.
 * [ensure](https://github.com/dscape/ensure) -- nodejs testing made easy with vows or node-tap
 * [Gently](https://github.com/felixge/node-gently) -- A node.js module that helps with mocking and behavior verification.
+* [Gerbil](https://github.com/elcuervo/gerbil) -- Gerbil attemps to be an uber simple and minimalistic testing framework for javascript.
 * [gherkin](https://github.com/cucumber/gherkin) -- A fast Gherkin parser in Ragel (The parser behind Cucumber)
 * [espionage](https://github.com/smtlaissezfaire/espionage) -- A mock/stub framework using the test spy pattern.
 * [expresso](https://github.com/visionmedia/expresso) -- TDD framework by the author of [JSpec](http://jspec.info)
