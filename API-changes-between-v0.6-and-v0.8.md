@@ -67,7 +67,7 @@ When editing this page please be as detailed as possible. Examples are encourage
    * `ciphers` option to `crypto.createCredentials()`.
 
  * `domain`
-   * see http://nodejs.org/docs/api/domain.html
+   * see http://nodejs.org/docs/v0.7.9/api/domain.html
 
  * `fs`
    * `fs.appendFile()` and `fs.appendFileSync()`.
