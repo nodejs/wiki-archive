@@ -924,6 +924,8 @@ h2. UTC+8
 ** "GitHub":http://github.com/firdausramlan, "Twitter":http://twitter.com/firdaus5775
 * CacPhy, Kuala Lumpur, Malaysia
 ** "Github":http://github.com/cacphy, "Twitter":http://twitter.com/cacphy
+* Chua Kiem Fai (Kieve Chua), Kuala Lumpur, Malaysia
+** "Github":http://github.com/kievechua, "Twitter":https://twitter.com/KieveChua
 * Raj Kissu (rajkissu), Kuala Lumpur, Malaysia
 ** "Github":http://github.com/rajkissu, "Twitter":http://twitter.com/rajkissu
 * Ruben LZ Tan (soggie), Kuala Lumpur, Malaysia
