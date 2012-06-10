@@ -1534,6 +1534,7 @@ www-style proposals.
 * [Ignite](http://www.ignitejs.com/) -- An easy-to-use async programming framework inspired by UML2 state machines.
 * [jam](http://github.com/chakrit/jam) -- Monadic continuation/callbacks/async helper.
 * [Jscex](http://github.com/JeffreyZhao/jscex) -- Transforms sync code into monadic, async code as the async support in F# and Scala.
+  * [jscex-jquery](http://github.com/audreyt/jscex-jquery) -- Jscex adapter to jQuery.Deferred API, with $.async/$await support
 * [JobManager](https://github.com/demian85/node-jobmanager) -- A really simple tool that helps you manage multiple asynchronous tasks.
 * [LAEH2](https://github.com/ypocat/laeh2) -- Lightweight Asynchronous Error Handling v2. Wrap your asynchronous functions in an intelligent try/catch. Optional stack trace minification with async support, e.g.: `unexpected thing < ./ex1.js(9) << ./ex1.js(7 < 13)`.
 * [miniqueue](https://github.com/hsch/node-miniqueue) -- A very simple in-memory queue for easy sequential processing
