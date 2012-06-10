@@ -53,6 +53,7 @@ To install node on **RHEL and friends**:
     wget http://nodejs.tchol.org/repocfg/el/nodejs-stable-release.noarch.rpm
     yum localinstall --nogpgcheck nodejs-stable-release.noarch.rpm
     yum install nodejs-compat-symlinks npm
+    rm nodejs-stable-release.noarch.rpm
 
 To install node on **Amazon Linux**:
 
