@@ -1537,6 +1537,7 @@ www-style proposals.
   * [jscex-jquery](http://github.com/audreyt/jscex-jquery) -- Jscex adapter to jQuery.Deferred API, with $.async/$await support
 * [JobManager](https://github.com/demian85/node-jobmanager) -- A really simple tool that helps you manage multiple asynchronous tasks.
 * [LAEH2](https://github.com/ypocat/laeh2) -- Lightweight Asynchronous Error Handling v2. Wrap your asynchronous functions in an intelligent try/catch. Optional stack trace minification with async support, e.g.: `unexpected thing < ./ex1.js(9) << ./ex1.js(7 < 13)`.
+* [locker](https://github.com/bobrik/locker) (server) and [node-locker](https://github.com/bobrik/node-locker) (client) — lock server and client for distributed systems with waiting and execution timeouts.
 * [miniqueue](https://github.com/hsch/node-miniqueue) -- A very simple in-memory queue for easy sequential processing
 * [$N](https://github.com/chjj/-N) -- Simple control flow with pretty syntax.
 * [nestableflow](https://github.com/minodisk/flow-js) -- Asynchronous nestable flow-control (serial, parallel, repeat, wait, function) module for Node.js, RequireJS, and browser.
