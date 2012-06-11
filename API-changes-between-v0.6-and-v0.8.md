@@ -40,6 +40,7 @@ When editing this page please be as detailed as possible. Examples are encourage
  * `fs`
    * `path.exists()` and `path.existsSync()` has moved to `fs.exists()` and `fs.existsSync()`.
    * `fs.symlink` `type` argument can now be `'junction'` (for Windows only).
+   * `fs.realpath` and `fs.lstat` work the same on Windows as on Unix
 
  * `console`
    * `console.timeEnd` now throws when there's no such label
@@ -69,7 +70,7 @@ When editing this page please be as detailed as possible. Examples are encourage
    * `ciphers` option to `crypto.createCredentials()`.
 
  * `domain`
-   * see http://nodejs.org/docs/v0.7.9/api/domain.html
+   * see http://nodejs.org/docs/v0.7.10/api/domain.html
 
  * `fs`
    * `fs.appendFile()` and `fs.appendFileSync()`.
