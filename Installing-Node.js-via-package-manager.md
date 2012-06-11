@@ -85,6 +85,8 @@ Using [homebrew](https://github.com/mxcl/homebrew):
 
     brew install node
 
+**Warning:** brew installs are known to be buggy
+
 Using [macports](http://www.macports.org/):
 
     port install nodejs  
