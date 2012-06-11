@@ -98,7 +98,7 @@ When editing this page please be as detailed as possible. Examples are encourage
    * `'utf16le'` and `'ucs2'` encoding to `setEncoding()`.
 
  * `tls`
-   * `tls.CLIENT_RENEG_LIMIT` and `tls.CLIENT_RENEG_WINDOW` to [mitigate session renegotiation attacks](http://nodejs.org/docs/latest/api/tls.html#client_initiated_renegotiation_attack_mitigation)
+   * `tls.CLIENT_RENEG_LIMIT` and `tls.CLIENT_RENEG_WINDOW` to [mitigate session renegotiation attacks](http://nodejs.org/docs/latest/api/tls.html#tls_client_initiated_renegotiation_attack_mitigation)
    * `tls.connect(options, [secureConnectionListener])`.
    * `ciphers`, `rejectUnauthorized` and `socket` options to `tls.connect()`.
    * `cleartextStream.getCipher()` was added in the api doc and open to the public.
