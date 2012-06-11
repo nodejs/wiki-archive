@@ -982,6 +982,7 @@ www-style proposals.
 * [platoon](https://github.com/chrisdickinson/platoon) -- A javascript testing framework whose goals are to work gracefully with callbacks, both in node.js and the browser
 * [pretendr](https://github.com/nathanmacinnes/pretendr) -- Yet another mocking function. Simple and lightweight, it lets you mock objects just by passing them as a single argument.
 * [reut](https://github.com/5long/reut) -- Heavyweight unit testing framework.
+* [rewire](http://jhnns.github.com/rewire/) -- Dependency injection for node.js applications
 * [should](https://github.com/visionmedia/should.js) -- expressive test framework agnostic BDD-style assertions
 * [sinon](https://github.com/cjohansen/sinon.js) -- JavaScript test spies, stubs and mocks for Node.js and the browser
 * [spectacular](https://github.com/jcrosby/spectacular) -- for testing
@@ -1229,7 +1230,6 @@ www-style proposals.
 * [node-webkit-agent](https://github.com/c4milo/node-webkit-agent) -- WebKit devtools agent that leverages remote debugging and profiling of nodejs applications using built-in webkit devtools front-end.
 * [profilejs](https://github.com/HerdHound/profilejs) -- profiling middleware for use with node-inspector (profiles Express handlers)
 * [Replica](https://github.com/zentooo/Replica) -- Repl to exec JavaScript code on browser
-* [rewire](http://jhnns.github.com/rewire/) -- Dependency injection for node.js applications
 * [spine](https://github.com/thrashaholic/spine) -- Dynamic runtime monitoring for node.js applications inspired by lorenwest's monitor.
 * [strack](https://github.com/selead/strack) -- bug tracking/tickets system  
 * [v8-profiler](https://github.com/dannycoates/v8-profiler) -- v8 profiler bindings with node-inspector integration
