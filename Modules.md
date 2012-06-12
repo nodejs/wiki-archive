@@ -1193,7 +1193,7 @@ www-style proposals.
 * [pcap-parser](https://github.com/nearinfinity/node-pcap-parser) -- Packet capture (pcap) file parser written in pure javascript
 * [picksy](https://github.com/skid/picksy) -- Extracts the relevant text from a html article page
 * [argtypes](https://github.com/cwolves/argtypes) -- Function arguments type parser (Allows typed & optional arguments)
-* [service-parser](https://github.com/sebastianmckenzie/service-parser) -- /etc/services or C:\WINDOWS\system32\drivers\etc\services file parser
+* [service-parser](https://github.com/sebastianmckenzie/service-parser) -- /etc/services file parser
 
 <a name="wiki-filesys"></a>
 ## [File system](#filesys)
