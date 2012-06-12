@@ -1015,6 +1015,8 @@ www-style proposals.
 * [SQLiteHaxeWrapper](https://github.com/tommedema/NodeSQLiteHaxeWrapper) -- haXe wrappers for Orlandov's SQLite high level driver
 * [hxnodejs](https://github.com/tong/hxnodejs) -- another haXe wrappers for node
 * [node-tidy](https://github.com/leondealmeida/node-tidy) -- a simple wrapper for tidy
+* [ping-wrapper2](https://github.com/sebastianmckenzie/ping-wrapper) -- native unix wrapper for ping
+* [traceroute-wrapper](https://github.com/sebastianmckenzie/traceroute-wrapper) -- native unix wrapper for traceroute
 
 <a name="wiki-parsers"></a>
 ## [Parsers](#parsers)
@@ -1191,6 +1193,7 @@ www-style proposals.
 * [pcap-parser](https://github.com/nearinfinity/node-pcap-parser) -- Packet capture (pcap) file parser written in pure javascript
 * [picksy](https://github.com/skid/picksy) -- Extracts the relevant text from a html article page
 * [argtypes](https://github.com/cwolves/argtypes) -- Function arguments type parser (Allows typed & optional arguments)
+* [service-parser](https://github.com/sebastianmckenzie/service-parser) -- /etc/services or C:\WINDOWS\system32\drivers\etc\services file parser
 
 <a name="wiki-filesys"></a>
 ## [File system](#filesys)
