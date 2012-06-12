@@ -640,6 +640,7 @@ www-style proposals.
 * [nib.js](https://github.com/blambeau/nib.js) -- package and minify JavaScript/coffeescript projects to be embedded in the browser as a single .js file 
 * [mnm](https://github.com/nearinfinity/node-mnm) -- Make Node Module (MNM) is a build tool for making native Node.js modules with no dependencies other than Node itself (i.e. no Python required)
 * [weber](https://github.com/hiddentao/weber) -- dynamically compiling and minifying scripts, stylesheets and templates on-the-fly, including Coffeescript, Eco, Stylus, etc.
+* [asset-bundler](https://github.com/sergiok/asset-bundler) -- pack and create asset bundles, organize your scripts and stylesheets in different packages.
 
 <a name="wiki-restarting"></a>
 ### [Restarting and continuous running](#restarting)
