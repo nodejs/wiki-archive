@@ -55,6 +55,7 @@ When editing this page please be as detailed as possible. Examples are encourage
    * `.disconnect()` when using `child_process.fork()` this will allow the child to die gracefully.
    * `stdio` option for `child_process.spawn()` - configuration of child's stdio (file descriptors).
    * `detached` option for `child_process.spawn()` - make the child a process group leader ([see docs](http://nodejs.org/docs/v0.7.10/api/child_process.html#child_process_child_process_spawn_command_args_options))
+   * `child.send()` can now send `net.Server` and `net.Socket` as second argument.
 
  * `cluster`
    * `'fork'`, `'online'`, `'listening'`, and `'setup'` events.
