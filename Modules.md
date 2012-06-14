@@ -1019,6 +1019,7 @@ www-style proposals.
 * [java](https://github.com/nearinfinity/node-java) -- Bridge API to connect with existing Java APIs
 * [node-tidy](https://github.com/leondealmeida/node-tidy) -- a simple wrapper for tidy
 * [ping-wrapper2](https://github.com/sebastianmckenzie/ping-wrapper) -- native unix wrapper for ping
+* [sm.js](https://github.com/dherman/sm.js) -- run a SpiderMonkey shell as a node child process
 * [traceroute-wrapper](https://github.com/sebastianmckenzie/traceroute-wrapper) -- native unix wrapper for traceroute
 
 <a name="wiki-parsers"></a>
