@@ -1013,10 +1013,10 @@ www-style proposals.
 <a name="wiki-wrappers"></a>
 ## [Wrappers](#wrappers)
 
-* [cloudshift-hx-node](https://github.com/cloudshift/hx-node) -- haXe wrappers for node.
-* [cloudshift](https://github.com/cloudshift/cloudshift) -- A haXe Stack for Node.js 
-* [SQLiteHaxeWrapper](https://github.com/tommedema/NodeSQLiteHaxeWrapper) -- haXe wrappers for Orlandov's SQLite high level driver
+* [cloudshift-hx-node](https://github.com/cloudshift/hx-node) -- haXe wrappers for node
+* [cloudshift](https://github.com/cloudshift/cloudshift) -- A haXe Stack for Node.js
 * [hxnodejs](https://github.com/tong/hxnodejs) -- another haXe wrappers for node
+* [java](https://github.com/nearinfinity/node-java) -- Bridge API to connect with existing Java APIs
 * [node-tidy](https://github.com/leondealmeida/node-tidy) -- a simple wrapper for tidy
 * [ping-wrapper2](https://github.com/sebastianmckenzie/ping-wrapper) -- native unix wrapper for ping
 * [traceroute-wrapper](https://github.com/sebastianmckenzie/traceroute-wrapper) -- native unix wrapper for traceroute
@@ -1678,7 +1678,6 @@ realtime balancing for live objects
 * [Gauss](http://github.com/stackd/gauss) - JavaScript statistics and analytics library
 * [GFMS](https://github.com/ypocat/gfms) -- Github Flavored Markdown Server. Preview your README.md (and other markdown docs) locally before committing it. Uses Github's CSS for faithful representation. Uses socket.io to automatically reload your browser upon file changes.
 * [Jalali](https://github.com/alireza-ahmadi/jalali) -- Gregorian to Jalali Converter
-* [java](https://github.com/nearinfinity/node-java) -- Bridge API to connect with existing Java APIs
 * [jsbundle](https://github.com/proxv/jsbundle) -- Simple, clean, and automatic bundling of your Node modules and packages for use in the browser.
 * [node-ast-inlining](https://github.com/FGRibreau/node-ast-inlining) -- A small library that inline and expand function call
 * [node-dummy-cache](http://github.com/pescuma/node-dummy-cache) -- A simple in memory cache to use with nodejs.
