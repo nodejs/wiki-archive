@@ -19,7 +19,7 @@ Name | Node Version | Web Sockets | IP/Hostname | IRC | Repository | Free Plan |
 [JSApp.US](http://jsapp.us) | | | No | | [node-host](https://github.com/matthewfl/node-host) | | | Open signup, web editing/npm command
 [Node Ninja(JP)](https://node-ninja.com) | 0.6.11 | Yes | Yes | | | Yes |  | In Private Beta
 [NAE(CN)](http://cnodejs.net) | 0.6.2 | Yes | Just allow *.cnodejs.net or custom domain | | | Yes - You can create 10 apps. And you can request a MongoDB for every app. | | Open (with invite)
-[OpenShift](https://openshift.redhat.com/) | 0.6.10 | No (vote pending) | | #openshift | [openshift](https://github.com/openshift) | Yes | | Open
+[OpenShift](https://openshift.redhat.com/) | 0.6.10 | No (vote pending) | Yes | #openshift | [openshift](https://github.com/openshift) | Yes | | Open
 
 Empty cells mean we weren't sure what to put there. 
 
@@ -62,6 +62,7 @@ VPS providers, which often require you to set everything up yourself, including 
 Node.JS hosting platforms that allow you to host Node.JS apps on your own servers or clouds.
 
 * [Nodester](http://nodester.com/) - Open source Node.JS hosting platform and services
+* [OpenShift](https://openshift.redhat.com/community/open-source) - Open source polyglot PaaS with native support for Node.js
 * [Nodejitsu](http://github.com/nodejitsu)
   * [haibu](http://github.com/nodejitsu/haibu) - Open-source Node.js Application Server
   * [node-http-proxy](http://github.com/nodejitsu/node-http-proxy) - Proxy / Load Balancing
