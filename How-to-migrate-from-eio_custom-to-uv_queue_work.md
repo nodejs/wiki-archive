@@ -100,3 +100,5 @@ Rundown:
   * Don't forget to `free()` or `delete` the `uv_work_t` struct at the end of the "after work" callback function.
 
 If you desire backwards-compatibility with node <= `v0.4.x`, then check out this [shim header file](https://gist.github.com/1368935), which will conditionally use `uv_queue_work()` when available or fall back to using `eio_custom()` when it's not.
+
+`uv_queue_work()` works on Windows, `eio_custom()` does not.
