@@ -63,7 +63,7 @@ When editing this page please be as detailed as possible. Examples are encourage
    * `env` optional argument to `cluster.fork()`.
    * `cluster.setupMaster()` and `cluster.settings`.
    * `cluster.disconnect()` and `worker.disconnect()`.
-   * `worker.uniqueID` what there before was internally known as `workerID`.
+   * `worker.id` what there before was internally known as `workerID`.
    * `worker.suicide` flag set when worker disconnect or die, indicate if this was an accidental death.
 
  * `crypto`
@@ -88,6 +88,7 @@ When editing this page please be as detailed as possible. Examples are encourage
  * `net`
    * `net.connect(options, [connectionListener])`.
    * callback optional argument to `server.close()`.
+   * `server.listen({ fd: someNumber })` to listen on arbitrary file descriptors.
 
  * `process`
    * `process.abort()`.
