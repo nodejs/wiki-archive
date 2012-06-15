@@ -3,7 +3,8 @@ When editing this page please be as detailed as possible. Examples are encourage
 ## Deprecated:
   * `http.Client()`
   * `path.{exists,existsSync}` was moved to `fs.{exists,existsSync}`
-  * `tty.setRawMode(mode)` was moved to `tty.ReadStream#setRawMode()` (i.e. `process.stdin.setRawMode()`) 
+  * `tty.setRawMode(mode)` was moved to `tty.ReadStream#setRawMode()` (i.e. `process.stdin.setRawMode()`)
+  * Direct use of `ev_*` and `eio_*` functions are deprecated.  Please use the methods provided by `libuv` instead.  For help porting from `eio_custom` to `uv_queue_work`, [see this wiki page](https://github.com/joyent/node/wiki/How-to-migrate-from-eio_custom-to-uv_queue_work)
 
 ## Removed:
   * `waf` build system - `node.js` will be using `gyp` now
