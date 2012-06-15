@@ -25,10 +25,10 @@ int after_doing_work (eio_req *req) {
   // cleanup
   m->callback.Dispose();
   delete m;
-  return 0;
 
   if (try_catch.HasCaught())
     FatalException(try_catch);
+  return 0;
 }
 
 /* the JS entry point */
