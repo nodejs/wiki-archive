@@ -21,13 +21,14 @@ int after_doing_work (eio_req *req) {
 
   TryCatch try_catch;
   m->callback->Call(Context::GetCurrent()->Global(), 1, argv);
-  if (try_catch.HasCaught())
-    FatalException(try_catch);
 
   // cleanup
   m->callback.Dispose();
   delete m;
   return 0;
+
+  if (try_catch.HasCaught())
+    FatalException(try_catch);
 }
 
 /* the JS entry point */
@@ -65,13 +66,14 @@ void after_doing_work (uv_work_t *req) {
 
   TryCatch try_catch;
   m->callback->Call(Context::GetCurrent()->Global(), 1, argv);
-  if (try_catch.HasCaught())
-    FatalException(try_catch);
 
   // cleanup
   m->callback.Dispose();
   delete m;
   delete req;
+
+  if (try_catch.HasCaught())
+    FatalException(try_catch);
 }
 
 /* the JS entry point */
