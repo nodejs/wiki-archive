@@ -1,15 +1,17 @@
 For native modules that wanted to utilize the thread pool, the original function to do this was `eio_custom()`, exposed by `libeio`. You would have code that looked _something_ like this:
 
 ``` c++
+/** THIS IS THE OLD API, DON'T COPY THIS, SEE BELOW!! **/
+
 /* the "do work" callback; called on the thread pool */
-int doing_work (uv_work_t *req) {
+int doing_work (eio_req *req) {
   /* Something computationally expensive here */
   req->rtn = 1 + 1;
-  RETURN_ASYNC
+  return 0;
 }
 
 /* the "after work" callback; called on the main thread */
-int after_doing_work (uv_work_t *req) {
+int after_doing_work (eio_req *req) {
   HandleScope scope;
 
   my_struct *m = (my_struct *)req->data;
@@ -25,8 +27,7 @@ int after_doing_work (uv_work_t *req) {
   // cleanup
   m->callback.Dispose();
   delete m;
-
-  RETURN_ASYNC_AFTER
+  return 0;
 }
 
 /* the JS entry point */
@@ -45,6 +46,47 @@ Handle<Value> start_doing_work (const Arguments& args) {
 Now, starting with node `v0.5.6`, there is a new preferred method of utilizing the thread pool for CPU-intensive tasks: `uv_queue_work`, exposed by `libuv`. The API is similar but slightly different:
 
 ``` c++
+/** THIS IS THE CURRENT API. COPY THIS!!! **/
+
+/* the "do work" callback; called on the thread pool */
+void doing_work (uv_work_t *req) {
+  /* Something computationally expensive here */
+  req->rtn = 1 + 1;
+}
+
+/* the "after work" callback; called on the main thread */
+void after_doing_work (uv_work_t *req) {
+  HandleScope scope;
+
+  my_struct *m = (my_struct *)req->data;
+
+  Handle<Value> argv[1];
+  argv[0] = Integer::New(r->rtn);
+
+  TryCatch try_catch;
+  m->callback->Call(Context::GetCurrent()->Global(), 1, argv);
+  if (try_catch.HasCaught())
+    FatalException(try_catch);
+
+  // cleanup
+  m->callback.Dispose();
+  delete m;
+  delete req;
+}
+
+/* the JS entry point */
+Handle<Value> start_doing_work (const Arguments& args) {
+  HandleScope scope;
+
+  uv_work_t *req = new uv_work_t;
+  my_struct *m = new my_struct;
+  req->data = m;
+  m->callback = Persistent<Function>::New(Local<Function>::Cast(args[0]));
+
+  uv_queue_work(uv_default_loop(), req, doing_work, after_doing_work);
+
+  return Undefined();
+}
 ```
 
 Rundown:
