@@ -1550,7 +1550,7 @@ www-style proposals.
 * [Ignite](http://www.ignitejs.com/) -- An easy-to-use async programming framework inspired by UML2 state machines.
 * [jam](http://github.com/chakrit/jam) -- Monadic continuation/callbacks/async helper.
 * [Jscex](http://github.com/JeffreyZhao/jscex) -- Transforms sync code into monadic, async code as the async support in F# and Scala.
-  * [jscex-jquery](http://github.com/audreyt/jscex-jquery) -- Jscex adapter to jQuery.Deferred API, with $.async/$await support
+* [jscex-jquery](http://github.com/audreyt/jscex-jquery) -- Jscex adapter to jQuery.Deferred API, with $.async/$await support
 * [JobManager](https://github.com/demian85/node-jobmanager) -- A really simple tool that helps you manage multiple asynchronous tasks.
 * [LAEH2](https://github.com/ypocat/laeh2) -- Lightweight Asynchronous Error Handling v2. Wrap your asynchronous functions in an intelligent try/catch. Optional stack trace minification with async support, e.g.: `unexpected thing < ./ex1.js(9) << ./ex1.js(7 < 13)`.
 * [locker](https://github.com/bobrik/locker) (server) and [node-locker](https://github.com/bobrik/node-locker) (client) — lock server and client for distributed systems with waiting and execution timeouts.
@@ -1594,6 +1594,7 @@ www-style proposals.
 * [zo.js](https://github.com/refractalize/zo) -- Async-friendly versions of the usual list processing functions: `map`, `select`, `reduce` and friends.
 * [pauseable](https://github.com/fent/pauseable.js) -- Easily pause and resume event emitters, timeouts, and intervals.
 * [when](https://github.com/cujojs/when) -- A lightweight CommonJS Promises/A and when() implementation. It also provides several other useful Promise-related concepts, such as joining and chaining, and has a robust unit test suite.
+* [timequeue](https://github.com/fent/timequeue.js) -- A queue with custom concurrency and time limit.
 
 <a name="wiki-i18n"></a>
 ## [I18n and L10n modules](#i18n)
