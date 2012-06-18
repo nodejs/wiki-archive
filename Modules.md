@@ -579,7 +579,7 @@ rendering process.
 * [Node-T](https://github.com/skid/node-t) -- A fast django-like templating engine for node.js
 * [plates](https://github.com/flatiron/plates) -- A fast, non-intrusive engine (similar to weld, but faster).
 * [shift.js](https://github.com/viatropos/shift.js) -- Standard interface to the Node.js template engines.
-* [Swig](https://github.com/paularmstrong/swig) -- Fast and powerful Django-style templates for node.js
+* [Swig](https://github.com/paularmstrong/swig) -- Fast and powerful Django-style templates for node.js. [Express](http://expressjs.com) compliant.
 * [Templ8](https://github.com/constantology/Templ8) -- A fast, lightweight, yet powerful & feature rich client/ server template engine based on Django style syntax
 * [template.node.js](https://github.com/jazzychad/template.node.js) -- A light, fast, cached template module for node.
 * [thunder](https://github.com/dreamerslab/thunder) -- A lighting fast template parser for node.js. [Express](http://expressjs.com) compliant
