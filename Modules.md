@@ -678,6 +678,7 @@ www-style proposals.
 * [envious](https://github.com/markbao/node-envious) -- environment variable configuration that's too easy to pass up
 * [node-config](https://github.com/ArtS/node-config) -- Lightweight configuration engine for Node.js
 * [node-settings](https://github.com/mgutz/node-settings) -- Simple, hierarchical environment-based app settings.
+* [osenv](https://github.com/isaacs/osenv) -- Gets environment settings of the operating system.
 * [ripple](https://github.com/thrashaholic/ripple) -- Dynamic runtime configuration for node.js deployment based on lorenwest's config.
 
 **See also** [parsers](#parsers), they may be used to parse configuration files.
