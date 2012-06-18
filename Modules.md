@@ -1656,7 +1656,7 @@ realtime balancing for live objects
 ## [Desktop application related](#desktop-app)
 
 * [clipboard](https://github.com/Benvie/node-clipboard) -- Easy to use utility for reading and writing to the system clipboard.
-
+* [appjs](https://github.com/milani/appjs) -- SDK on top of nodejs to build desktop apps with html/css/js.
 <a name="wiki-javascript-threads"></a>
 ## [JavaScript threads](#javascript-threads)
 
