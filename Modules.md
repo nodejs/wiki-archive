@@ -626,6 +626,7 @@ www-style proposals.
 * [MCMS](https://github.com/olegp/mcms) — A Minimal CMS using GitHub flavored Markdown, Mustache templates and the filesystem.
 * [jslardo](https://github.com/obliquid/jslardo) — A Social CMS, where users are able to register to the application, create their own models (mongoose schemas), views, controllers, websites and pages. Work in progress, keep updated!
 * [LooseLeaf](http://looseleafjs.org/) — Very simple blogging engine based on express, no-DataBase, only JSON.
+* [blacksmith](https://github.com/flatiron/blacksmith) -- A static site generator built with Node.js, JSDOM, and Weld.
 
 <a name="wiki-build-and-deployment"></a>
 ## [Build and deployment](#build-and-deployment)
@@ -1103,6 +1104,7 @@ www-style proposals.
 * [marked](https://github.com/chjj/marked) - A markdown parser and compiler. Built for speed.
 * [node-discount](https://github.com/visionmedia/node-discount) -- C markdown parser "discount" bindings
 * [node-markdown](https://github.com/andris9/node-markdown) -- Easy to use Markdown parser
+* [Robotskirt](https://github.com/benmills/robotskirt) -- A simple node binding for the [sundown](https://github.com/tanoku/sundown) markdown parser
 
 <a name="wiki-parsers-yaml"></a>
 ### [YAML parsers](#parsers-yaml)
