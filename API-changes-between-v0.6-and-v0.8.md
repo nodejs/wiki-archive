@@ -37,6 +37,8 @@ When editing this page please be as detailed as possible. Examples are encourage
 
  * `url`
    * `url.parse()` now parses IPv6 addresses.
+   * `url.parse()` now escapes delimiters characters rather than truncating the input.
+   * `url.format()` now escapes the `auth` section, and `url.parse()` decodes it.
 
  * `fs`
    * `path.exists()` and `path.existsSync()` has moved to `fs.exists()` and `fs.existsSync()`.
@@ -82,6 +84,7 @@ When editing this page please be as detailed as possible. Examples are encourage
  * `http`
    * callback optional argument to `server.close()`.
    * `sendDate` property to `http.ServerResponse`.
+   * `http.request()` and `http.get()` can accept as their argument a url that is parsed with `url.parse()`
 
  * `https`
    * `ciphers`, `rejectUnauthorized` option to `https.request()` and `https.get()`.
