@@ -91,7 +91,7 @@ h2. Companies
 * "Microsoft":http://www.microsoft.com - Core contributor to node.js for Windows. Uses node.js internally and provides cloud hosting for node.js applications in "Windows Azure":https://www.windowsazure.com/en-us/develop/nodejs/
 * "Milewise":http://milewise.com - Using Node.js for real-time fare searching
 * "Mistash":http://www.mistash.com - social network for sharing products.
-* "Mixtaping.fm":http://www.mixtaping.fm
+* "Mixtaping.fm":http://www.mixtaping.fm - Create, discover and share mixtapes with your friends.
 * "Mockingbird":http://gomockingbird.com -- Using Node.js and operational transformations to do real-time, collaborative wireframing
 * "Moonshadow Mobile":http://www.moonshadowmobile.com -- Using Node.js to handle communication between a web client and a geospatial server
 * "MyBrands":http://www.mybrands.de -- web-tracker and product recommendations (node + couchdb)  
