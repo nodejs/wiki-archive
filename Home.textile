@@ -1,5 +1,7 @@
 h1. Node.js community wiki
 
+**Attention Node Users** Version 0.8 will be out soon.  If you are currently using 0.6, please read <https://github.com/joyent/node/wiki/API-changes-between-v0.6-and-v0.8> and update your programs accordingly.
+
 h2. Introduction
 
 Node.js is a server-side JavaScript environment that uses an asynchronous event-driven model. This allows Node.js to get excellent performance based on the architectures of many Internet applications.
