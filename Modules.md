@@ -1499,6 +1499,7 @@ www-style proposals.
 * [node-wikimapia](https://github.com/Sannis/node-wikimapia) -- Node.js wrapper for the Wikimapia API
 * [node-yelp](https://github.com/olalonde/node-yelp) -- A wrapper for the Yelp's APIv2. Let's you search for businesses and get specific business information.
 * [node-untappd](http://github.com/arei/node-untappd) -- Library for accessing the Untappd APIs.
+* [openstack-storage](http://github.com/feedhenry/openstack-storage) -- A module for accessing Openstack Storage (Swift)
 * [pingdom](https://github.com/ryanbreen/node-pingdom) -- A module for accessing the Pingdom JSON API
 * [postageapp](https://github.com/postageapp/postageapp-nodejs) -- A module for sending emails through the PostageApp JSON API
 * [rackit](https://github.com/rossj/rackit/) -- A simple library for managing a large number of files on Rackspace Cloud Files (CloudFiles)
