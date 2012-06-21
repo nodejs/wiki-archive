@@ -6,7 +6,7 @@ For Debian Squeeze, your best bet is to compile node by yourself:
     # apt-get update 
     # apt-get install git-core curl build-essential openssl libssl-dev
     # mkdir -p /tmp/build/node && cd!
-    # git clone git clone https://github.com/joyent/node.git .
+    # git clone https://github.com/joyent/node.git .
     # git checkout v0.6.19
     # ./configure --openssl-libpath=/usr/lib/ssl
     # make
