@@ -1,13 +1,20 @@
 ## Debian
-[Node.js is available in official repo for Debian Sid(unstable)](http://packages.debian.org/search?searchon=names&keywords=nodejs).  
-For Debian Squeeze:
+[Node.js is available in official repo for Debian Sid(unstable)](http://packages.debian.org/search?searchon=names&keywords=nodejs).
 
-    root@host: ~ # echo deb http://ftp.us.debian.org/debian/ sid main > /etc/apt/sources.list.d/sid.list
-    root@host: ~ # apt-get update
-    root@host: ~ # apt-get install nodejs # Documentation is great.
+For Debian Squeeze, your best bet is to compile node by yourself:
 
-You may want to read about [Apt pinning](http://wiki.debian.org/AptPreferences) to limit the impact of using
-Sid packages on a Squeeze systems. (Sid breaks toys)
+    # apt-get update 
+    # apt-get install git-core curl build-essential openssl libssl-dev
+    # mkdir /tmp/build/node && cd!
+    # git clone git clone https://github.com/joyent/node.git .
+    # git checkout v0.6.19
+    # ./configure --openssl-libpath=/usr/lib/ssl
+    # make
+    # make test
+    # sudo make install
+    # node -v
+
+This last command should print the version of Node matching the git tag you checked out.
 
 ## Linux Mint
 
