@@ -8,7 +8,7 @@ Node.js is available in official gentoo portage tree. You have to unmask it.
 ## Debian
 [Node.js is available in official repo for Debian Sid(unstable)](http://packages.debian.org/search?searchon=names&keywords=nodejs).
 
-For Debian Squeeze, your best bet is to compile node by yourself:
+For Debian Squeeze, your best bet is to compile node by yourself (as `root`):
 
     # apt-get update 
     # apt-get install git-core curl build-essential openssl libssl-dev
@@ -18,7 +18,7 @@ For Debian Squeeze, your best bet is to compile node by yourself:
     # ./configure --openssl-libpath=/usr/lib/ssl
     # make
     # make test
-    # sudo make install
+    # make install
     # node -v
 
 This last command should print the version of Node matching the git tag you checked out.
