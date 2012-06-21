@@ -51,7 +51,7 @@ When editing this page please be as detailed as possible. Examples are encourage
    * `console.timeEnd` now throws when there's no such label
 
  * `buffer`
-   * `SlowBuffer` now inherits from `Buffer`. So if you have a module that modifies the prototype, now you only need to do it to `Buffer.prototype`.
+   * `SlowBuffer` now inherits from `Buffer`. So if you have a module that modifies the prototype, now you only need to alter `Buffer.prototype`.
 
 ## Added:
 
