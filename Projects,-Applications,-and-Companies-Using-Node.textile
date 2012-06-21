@@ -15,6 +15,7 @@ h2. Companies
 * "AntPortal":https://antportal.com/
 * "appendTo":http://appendto.com/ -- The Company Dedicated to jQuery
 * "bejes.us":http://bejes.us/ -- NodeJS hosting using the @Nodester platform - Maintained by one of the developers.
+* "BandPage":http://www.bandpage.com/ - Used by musicians to share music, videos, photos, touring schedule and more with their fans. 
 * "Bitmechanic":http://www.bitmechanic.com/
 * "Bocoup":http://bocoup.com
 * "BrandedCode":http://brandedcode.com
