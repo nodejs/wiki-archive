@@ -1672,6 +1672,7 @@ realtime balancing for live objects
 
 * [Nervous](https://github.com/gflarity/nervous) -- Pluggable monitoring system with support for Graphite.
 * [Response](https://github.com/gflarity/response) -- Pluggable alerting system and Graphite proxy.
+* [zabbix-agent-client](https://github.com/bobrik/node-zabbix-agent-client) -- getting data from zabbix_agent servers.
 
 <a name="wiki-other"></a>
 ## [Other](#other)
