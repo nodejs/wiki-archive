@@ -627,6 +627,7 @@ www-style proposals.
 * [jslardo](https://github.com/obliquid/jslardo) — A Social CMS, where users are able to register to the application, create their own models (mongoose schemas), views, controllers, websites and pages. Work in progress, keep updated!
 * [LooseLeaf](http://looseleafjs.org/) — Very simple blogging engine based on express, no-DataBase, only JSON.
 * [blacksmith](https://github.com/flatiron/blacksmith) -- A static site generator built with Node.js, JSDOM, and Weld.
+* [MuContent](https://github.com/anddimario/mucontent) — MuContent is a multisite and multilanguage cms in Javascript (Node.js) written with a central proxy for balancing the request on multiple client. Based on MongoDB for storage all content. Themes are based on Foundation framework and mustache.
 
 <a name="wiki-build-and-deployment"></a>
 ## [Build and deployment](#build-and-deployment)
