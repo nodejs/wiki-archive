@@ -1690,6 +1690,7 @@ realtime balancing for live objects
 * [GFMS](https://github.com/ypocat/gfms) -- Github Flavored Markdown Server. Preview your README.md (and other markdown docs) locally before committing it. Uses Github's CSS for faithful representation. Uses socket.io to automatically reload your browser upon file changes.
 * [Jalali](https://github.com/alireza-ahmadi/jalali) -- Gregorian to Jalali Converter
 * [jsbundle](https://github.com/proxv/jsbundle) -- Simple, clean, and automatic bundling of your Node modules and packages for use in the browser.
+* [model.js](https://github.com/tarruda/model.js) -- Simple data validation for both server and browser.
 * [node-ast-inlining](https://github.com/FGRibreau/node-ast-inlining) -- A small library that inline and expand function call
 * [node-dummy-cache](http://github.com/pescuma/node-dummy-cache) -- A simple in memory cache to use with nodejs.
 * [node.packer](https://github.com/dreamerslab/node.packer) -- An assets combine and minify tool
