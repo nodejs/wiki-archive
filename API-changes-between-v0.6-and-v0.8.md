@@ -31,11 +31,11 @@ When editing this page please be as detailed as possible. Examples are encourage
 
  * `child_process`
    * `arguments` and `options` arguments of `child_process.fork()` became an option.
-   * the 'exit' event is now emitted right after the child process exits. It no longer waits for all stdio pipes to be closed.
-   * the 'close' event was added that has is emitted after the child has exited *and* all the stdio pipes are closed.
+   * the `'exit'` event is now emitted right after the child process exits. It no longer waits for all stdio pipes to be closed.
+   * the `'close'` event was added that has is emitted after the child has exited *and* all the stdio pipes are closed.
 
  * `readline`
-   * `arguments` of `rl.createInterface` became an option as `rl.createInterface(options)` but still took an old style as rl.createInterface(input, output, completer)
+   * `arguments` of `rl.createInterface` became an option as `rl.createInterface(options)` but still took an old style as `rl.createInterface(input, output, completer)`
 
  * `url`
    * `url.parse()` now parses IPv6 addresses.
