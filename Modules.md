@@ -1700,6 +1700,7 @@ realtime balancing for live objects
 * [node-talib](https://github.com/oransel/node-talib) -- Technical Analysis Library with 100+ indicators and candlestick pattern recognition
 * [nova](https://github.com/wearefractal/nova) -- Node.js libraries ported to the browser. Write once, run everywhere.
 * [numpad](https://github.com/pvorb/numpad) -- Pad numbers with leading zeros to any number of digits
+* [oid](https://github.com/Obvious/oid) -- Utilities for object identity
 * [randexp.js](http://fent.github.com/randexp.js/) - Create random strings that match a given regular expression.
 * [short](http://github.com/edwardhotchkiss/short/) -- NodeJS URL Shortener backed by MongooseJS w/ Complete Example Site
 * [sigar](https://github.com/wdavidw/node-sigar) -- Node Binding to SIGAR (System Information Gatherer And Reporter)
