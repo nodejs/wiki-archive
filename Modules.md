@@ -1581,6 +1581,7 @@ www-style proposals.
 * [noflo](https://github.com/bergie/noflo) -- [Flow-Based Programming](http://en.wikipedia.org/wiki/Flow-based_programming) system for Node.js
 * [nue](https://github.com/nakamura-to/nue) -- An async control-flow library suited for node.js
 * [observer](https://github.com/azer/observer) -- An alternative observer implementation, for both ss&cs.
+* [pipette](https://github.com/Obvious/pipette) -- A collection of pipe / stream utility classes.
 * [poolr](https://github.com/codingforce/poolr) -- A lightweight resource pooling/serialization library 
 * [q](https://github.com/kriskowal/q) -- Q is a tool for making and composing asynchronous promises in JavaScript.
 * [QBox](https://github.com/arunoda/qbox) -- Quick Controller flow for NodeJS
