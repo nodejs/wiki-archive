@@ -754,6 +754,7 @@ www-style proposals.
 * [murmurhash3](https://github.com/hideo55/node-murmurhash3) -- Node.js bindings for [MurmurHash3](http://code.google.com/p/smhasher/wiki/MurmurHash3)
 * [speakeasy](https://github.com/markbao/speakeasy) -- Easy two-factor authentication. Time-based or counter-based one-time passwords with the HMAC One-Time Password algorithms. Supports Google Authenticator.
 * [S3ncryptedProxy](https://github.com/gflarity/s3ncrypted_proxy) -- A simple proxy that makes securely sharing data via Amazon S3 easy
+* [ursa](https://github.com/Obvious/ursa) -- A clean and reasonably complete set of wrappers for OpenSSL's RSA functionality.
 
 <a name="wiki-smtp"></a>
 ## [SMTP](#smtp)
