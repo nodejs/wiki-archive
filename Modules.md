@@ -671,6 +671,8 @@ www-style proposals.
 * [jitsu](https://github.com/nodejitsu/jitsu) -- Flawless command line deployment of your Node.js apps to the cloud
 * [npkg](https://github.com/wearefractal/npkg) -- Generates cross-platform installers for Node.js applications
 * [roco](https://github.com/1602/roco) -- Capistrano inspired CLI for deployment, monitoring and other stuff.
+* [girror](https://github.com/eladb/node-girror) -- Mirrors (and re-mirrors) git repositories.
+* [connect-girror](https://github.com/eladb/node-connect/girror) -- Connect middleware which mounts an entire app from any git repository, spawns it and exposes a git post-receive hook endpoint.
 
 <a name="wiki-configuration-management"></a>
 ### [Configuration management](#configuration-management)
