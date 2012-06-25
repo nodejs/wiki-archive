@@ -52,7 +52,9 @@ See the [Contributing](https://github.com/ry/node/wiki/Contributing) page.
 
 ## API Documents
 
-See the [API Doc](http://nodejs.org/api/) page.
+See the current [API Doc](http://nodejs.org/api/) page.
+
+For previous versions, see [Documentation Index](http://nodejs.org/docs) page.
 
 ## Logos
 
