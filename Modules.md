@@ -1701,6 +1701,7 @@ realtime balancing for live objects
 * [node.packer](https://github.com/dreamerslab/node.packer) -- An assets combine and minify tool
 * [node-stem](https://github.com/chriso/node-stem) -- Bindings to the libstemmer library
 * [node-talib](https://github.com/oransel/node-talib) -- Technical Analysis Library with 100+ indicators and candlestick pattern recognition
+* [node-upload-progress](https://github.com/phstc/node-upload-progress) -- It's a Node.js module to handle upload and upload-progress
 * [nova](https://github.com/wearefractal/nova) -- Node.js libraries ported to the browser. Write once, run everywhere.
 * [numpad](https://github.com/pvorb/numpad) -- Pad numbers with leading zeros to any number of digits
 * [oid](https://github.com/Obvious/oid) -- Utilities for object identity
