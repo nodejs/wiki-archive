@@ -78,7 +78,7 @@ void on_fd_event (uv_poll_t* handle, int status, int events) {
   // stop watcher
   uv_poll_stop(handle);
   // and close poll handle
-  uv_close(handle, on_handle_close);
+  uv_close((uv_handle_t *)handle, on_handle_close);
 
   /* Some code here that works with `fd` (and closes it if needed) and produces `Handle<Value> result` */
 
