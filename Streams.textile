@@ -1,5 +1,7 @@
-Node is working towards a unified data stream interface. 
+Streams are exist in several last stable Node.js versions, so it is better to refer [API documentation](http://nodejs.org/api/stream.html).
+----
 
+Node is working towards a unified data stream interface. 
 
 h2. Readable Stream
 * event: @'data'@. (One argument, a @Buffer@ object.)
