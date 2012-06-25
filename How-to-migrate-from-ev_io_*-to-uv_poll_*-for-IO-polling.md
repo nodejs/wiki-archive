@@ -121,4 +121,3 @@ Rundown:
   * Call `uv_poll_init()` + `uv_poll_start()` instead of `ev_init()` + `ev_set()` + `ev_start()` to initiate IO watching.
   * The "on fd IO event" callback functions now accept a `uv_poll_t *` pointer as their arguments and extra `int status`, instead of a `ev_io *` pointer.
   * You can attach a custom `void *` to the `data` field of the `uv_poll_t` struct.
-  * Don't forget to `free()` or `delete` the `uv_poll_t` struct at the end of the "on fd IO event" callback function.
