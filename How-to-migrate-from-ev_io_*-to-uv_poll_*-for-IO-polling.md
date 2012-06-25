@@ -105,7 +105,7 @@ Handle<Value> start_fd_watch (const Arguments& args) {
   uv_poll_t* handle = new uv_poll_t;
   handle->data = m;
   uv_poll_init(uv_default_loop(), handle, fd);
-  uv_poll_start(handle, EV_READ /* or other flags */, on_fd_event);
+  uv_poll_start(handle, UV_READABLE /* or other flags */, on_fd_event);
 
   return Undefined();
 }
