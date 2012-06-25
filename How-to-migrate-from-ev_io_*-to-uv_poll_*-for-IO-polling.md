@@ -65,6 +65,10 @@ struct my_struct {
   int fd;
 };
 
+static void on_handle_close (uv_handle_t *handle) {
+  delete handle;
+}
+
 /* the "on fd IO event" callback; called on the main thread */
 void on_fd_event (uv_poll_t* handle, int status, int events) {
   HandleScope scope;
@@ -73,7 +77,8 @@ void on_fd_event (uv_poll_t* handle, int status, int events) {
 
   // stop watcher
   uv_poll_stop(handle);
-  delete handle;
+  // and close poll handle
+  uv_close(handle, on_handle_close);
 
   /* Some code here that works with `fd` (and closes it if needed) and produces `Handle<Value> result` */
 
