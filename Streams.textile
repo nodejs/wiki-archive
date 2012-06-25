@@ -1,4 +1,4 @@
-Streams are exist in several last stable Node.js versions, so it is better to refer [API documentation](http://nodejs.org/api/stream.html).
+Streams are exist in several last stable Node.js versions, so it is better to refer "API documentation":http://nodejs.org/api/stream.html.
 
 ----
 
