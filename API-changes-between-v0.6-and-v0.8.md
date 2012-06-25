@@ -18,6 +18,7 @@ When editing this page please be as detailed as possible. Examples are encourage
  * `process`
    * `process.stdin.on('keypress')` will not be emitted by default, as it's an internal API.
    * `process.stdin.pipe(dest)` will automatically call `process.stdin.resume()`.
+
  * `cluster`
    * `cluster.fork()` no longer return a `child_process.fork()` object use `cluster.fork().process` to get the object.
    * the `'death'` event on the `cluster` object is renamed to `'exit'`.
@@ -53,6 +54,10 @@ When editing this page please be as detailed as possible. Examples are encourage
 
  * `buffer`
    * `SlowBuffer` now inherits from `Buffer`. So if you have a module that modifies the prototype, now you only need to alter `Buffer.prototype`.
+
+ * `os`
+   * `os.cpus().times` is now supported on Windows
+   * `os.uptime` now displays the correct uptime if the system's current uptime is > 50 days on Windows
 
 ## Added:
 
