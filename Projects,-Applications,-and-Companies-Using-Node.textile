@@ -228,6 +228,7 @@ This list is for websites and applications that are powered by node.js. If you'v
 * "Filsh":http://www.filsh.net - Converts online videos to other formats in a big server cluster. (German)
 * "Fishl.com":http://fishl.com/ — Mark and save quotes you like all over the Web
 * "Flickr Spy":http://github.com/ncr/flickr_spy -- Discover where your Flickr contacts are commenting
+* "Fluid.js":https://github.com/peteclark82/node-fluid -- Create dynamic fluent interfaces the easy way
 * "GAIN Index":http://index.gain.org -- by the Global Adaptation Institute. Data-intensive site on Adaptation to climate change.
 * "G-Lock Analytics":http://glockanalytics.com — Realtime email analytics web application
 * "GoldFire Network":http://goldfire.me - Social gaming platform for real-time browser games
