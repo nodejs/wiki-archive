@@ -574,12 +574,13 @@ rendering process.
 * [node.magic_dom](https://github.com/amix/node.magic_dom) -- A DSL for building HTML in node.js, similar to Python's Stan
 * [node-template](https://github.com/graphnode/node-template) -- Fast and light cached templates.
 * [node-properties](https://github.com/theteam/node-properties) -- Simple property reader, externalise your configuration through JSON
+* [Node-T](https://github.com/skid/node-t) -- A fast django-like templating engine for node.js
 * [Parrot](https://github.com/ollym/parrot) -- A lightning fast and lightweight templating engine for Node.js (Just 33 LOC!)
 * [PURE](https://github.com/pure/pure) -- Unobtrusive Rendering Engine. The HTML view and the JS logic remain strictly separated. Works with jsdom.
-* [stencil](https://github.com/thetalecrafter/stencil) -- Renders asynchronous templates shared by server and browser
-* [Node-T](https://github.com/skid/node-t) -- A fast django-like templating engine for node.js
 * [plates](https://github.com/flatiron/plates) -- A fast, non-intrusive engine (similar to weld, but faster).
+* [QEJS](https://github.com/jepso/QEJS) -- Asyncronous Embedded JavaScript Templates with Q promises
 * [shift.js](https://github.com/viatropos/shift.js) -- Standard interface to the Node.js template engines.
+* [stencil](https://github.com/thetalecrafter/stencil) -- Renders asynchronous templates shared by server and browser
 * [Swig](https://github.com/paularmstrong/swig) -- Fast and powerful Django-style templates for node.js. [Express](http://expressjs.com) compliant.
 * [Templ8](https://github.com/constantology/Templ8) -- A fast, lightweight, yet powerful & feature rich client/ server template engine based on Django style syntax
 * [template.node.js](https://github.com/jazzychad/template.node.js) -- A light, fast, cached template module for node.
