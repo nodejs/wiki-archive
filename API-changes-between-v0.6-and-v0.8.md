@@ -31,6 +31,9 @@ When editing this page please be as detailed as possible. Examples are encourage
    * `http.ServerResponse` sends `Date:` header by default. You can disable it by setting `response.sendDate` to `false`.
    * `http.ClientRequest` emits `'connect'` event instead of `'request'` when the CONNECT method is responded.
 
+ * `net`
+   * `net.listen(socketPath)` no longer automatically unlinks the socket. It was subject to race conditions in multi-process setups. That also applies to `http.listen(socketPath)`.
+
  * `child_process`
    * `arguments` and `options` arguments of `child_process.fork()` became an option.
    * the `'exit'` event is now emitted right after the child process exits. It no longer waits for all stdio pipes to be closed.
