@@ -258,6 +258,8 @@ h2. UTC-6 (-5)
 ** "Twitter":http://twitter.com/chbrown, "Website":http://henrian.com
 * Connor Montgomery (c_t_montgomery), St. Louis, MO
 ** "Twitter":http://twitter.com/connor, "Website":http://cnnr.me
+* Tom Leach (tomtheguvnor), Wichita, KS
+** "GitHub":http://github/tomtheguvnor, "Twitter":http://twitter.com/tomtheguvnor
 
 h2. UTC-5 (-4)
 
