@@ -916,6 +916,7 @@ www-style proposals.
 <a name="wiki-message-queue"></a>
 ## [Message Queues](#message-queue)
 
+* [Que](https://github.com/vdemedes/que) -- One model-based interface to many message queue backends.
 * [gearman-node](https://github.com/cramerdev/gearman-node) -- [Gearman](http://gearman.org/) client.
 * [gearnode](https://github.com/andris9/gearnode) -- [Gearman](http://gearman.org/) client and worker.
 * [node-gearman](https://github.com/andris9/node-gearman) -- Simple worker/client module for [Gearman](http://gearman.org/)
