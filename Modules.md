@@ -1583,6 +1583,7 @@ www-style proposals.
 * [node-parallel](https://github.com/Tim-Smart/node-parallel) -- Create tasks in node.js that run in parallel, or sequences that run tasks one after another.
 * [node-promise](https://github.com/kriszyp/node-promise) -- Robust promises for node.js, includes promise utilities and promise-based I/O library
 * [narrow](https://github.com/0ctave/node-narrow) -- Shrinks a given callback parallel execution concurrency in a limited number of threads, receiving a big bunch of data (array of tasks)
+* [node-async](https://github.com/Johanndutoit/node-async) -- Executes a number of functions and returns the results of each function, when all are complete, for processing. Based on Narrow.
 * [neuron](https://github.com/indexzero/neuron) -- The simplest possible event driven job manager, FIFO queue, and "task based cache" in node.js
 * [noflo](https://github.com/bergie/noflo) -- [Flow-Based Programming](http://en.wikipedia.org/wiki/Flow-based_programming) system for Node.js
 * [nue](https://github.com/nakamura-to/nue) -- An async control-flow library suited for node.js
