@@ -1004,6 +1004,7 @@ www-style proposals.
 * [Soda](https://github.com/LearnBoost/soda) -- Selenium Node.JS adapter
 * [soda-runner](https://github.com/doug-martin/soda-runner) -- Provides a command line interface, runner, and selenium ide adapter for for soda.
 * [stest](https://github.com/siddMahen/stest) -- A sane event driven async testing framework.
+* [supertest](https://github.com/visionmedia/supertest) -- HTTP test utility built on top of superagent, works with any test framework
 * [Speks](https://github.com/ecavazos/speks) -- A specification framework for your node-code
 * [Syringe](https://github.com/easternbloc/Syringe) -- Dependency mocking for node modules 
 * [tbd](https://github.com/aaronpowell/tbd) -- A data generator for tests & UI stubbing
