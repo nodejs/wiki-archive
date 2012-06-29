@@ -1259,6 +1259,7 @@ www-style proposals.
 * [v8-profiler](https://github.com/dannycoates/v8-profiler) -- v8 profiler bindings with node-inspector integration
 * [webrepl](https://github.com/mmattozzi/webrepl) -- Serve a repl for a node process via a simple web ui
 * [UltraREPL](https://github.com/Benvie/Node.js-Ultra-REPL) -- Replaces Node's built-in REPL with customizable keybindings, a significantly enhanced inspector with hidden/builtin/depth toggles, simultaneous independent V8 contexts, syntax highlighting, and a full-fledged plug-in system including CoffeeScript contexts, SpiderMonkey contexts, and more.
+* [node-codein](https://github.com/ketamynx/node-codein) -- browser based console and object explorer (stand-alone, no dependencies)
 
 <a name="wiki-logs"></a>
 ### [Logging and dumping](#logs)
