@@ -763,6 +763,7 @@ www-style proposals.
 <a name="wiki-smtp"></a>
 ## [SMTP](#smtp)
 
+* [Mailman](https://github.com/vdemedes/mailman) -- Send emails in a comfortable way via models. SMTP, SES, Sendmail supported.
 * [Haraka](https://github.com/baudehlo/Haraka) -- Full Featured SMTP Server
 * [emailjs](https://github.com/eleith/emailjs) - send emails, html and attachments from node.js to any smtp server (ex: gmail)
 * [Nodemailer](https://github.com/andris9/Nodemailer) - Easy to use module to send e-mails with Node.JS, unicode friendly
