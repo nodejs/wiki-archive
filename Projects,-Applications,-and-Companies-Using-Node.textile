@@ -182,7 +182,7 @@ This list is for websites and applications that are powered by node.js. If you'v
 * "Monorail.js":https://github.com/runexec/Monorail.js -- Ultra lightweight MVC Framework for Node.js
 * "node_chat":http://github.com/ry/node_chat by ry
 * "64squares":http://64sq.com - by weepy - real time live chess running on node + socket.io with facebook
-* "Sudoku Battle":http://apps.facebook.com/sudokuquest/?ref=nodewiki -- Multiplayer sudoku sudoku with node + socket.io on facebook
+* "Sudoku Battle":http://apps.facebook.com/sudokuquest/?ref=nodewiki -- Multiplayer realtime sudoku with node + socket.io on facebook
 * "7 Minutes Chrono":http://www.7minuteschrono.com - A speed-dating chat application. Uses websockets and node.js
 * "Ajax IM":http://github.com/endtwist/AjaxIM -- Ajax IM is an instant messaging server and framework for the browser.
 * "Alligator":http://github.com/mrohad/Alligator -- Application Server on top of NodeJS (JSSP and SSJS support)
