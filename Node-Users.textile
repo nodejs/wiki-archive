@@ -726,6 +726,8 @@ h2. UTC+1 (+2)
 ** "GitHub":https://github.com/akoenig, "Twitter":https://twitter.com/#!/notion, "Website":http://lochkartenstanzer.de
 * Huan Manué Qabeyo, Málaga, Spain (huamma)
 ** "GitHub":https://github.com/juanmac, "Twitter":https://twitter.com/#!/kerunaru, "Website":http://about.me/huamma
+* Pavel Lang, Rychnov nad Kněžnou, Czech Republic
+** "GitHub":https://github.com/langpavel
 
 h2. UTC+2 (+3)
 
