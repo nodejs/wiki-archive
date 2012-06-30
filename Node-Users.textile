@@ -890,6 +890,8 @@ h2. UTC+8
 ** "GitHub":http://github.com/clonn/, "Website":http://clonn.blogspot.com
 * Scott Ballantyne (ballantyne), Shanghai, China
 ** "GitHub":http://github.com/ballantyne/, "Website":http://scottballantyne.com, "Twitter":http://twitter.com/ussballantyne, "Sina Weibo":http://t.sina.com.cn/ballantyne
+* Will Wen Gunn (iwillwen), Guangzhou, China
+** "GitHub":http://github.com/iwillwen/, "Website":http://iwwen.me, "Twitter":http://twitter.com/iwillwen, "Sina Weibo":http://weibo.com/iwillwen
 * Yu-Chung Wang(wycc), Taiwan
 ** "Website":http://www.assembla.com/wiki/show/MadButterfly
 * Jerry sun(sjerrys),China
