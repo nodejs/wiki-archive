@@ -5,7 +5,7 @@
 Node has several dependencies.  If you are building from source you should
 only need 2 things:
 
-* (**python**)[http://python.org] - version 2.6 or 2.7, The build tools distributed with
+* [**python**](http://python.org) - version 2.6 or 2.7, The build tools distributed with
   Node run on python.
  
 
