@@ -892,6 +892,8 @@ h2. UTC+8
 ** "GitHub":http://github.com/ballantyne/, "Website":http://scottballantyne.com, "Twitter":http://twitter.com/ussballantyne, "Sina Weibo":http://t.sina.com.cn/ballantyne
 * Will Wen Gunn (iwillwen), Guangzhou, China
 ** "GitHub":http://github.com/iwillwen/, "Website":http://iwwen.me, "Twitter":http://twitter.com/iwillwen, "Sina Weibo":http://weibo.com/iwillwen
+* Randy Lu(djyde), Zhongshan, China
+** "Github":http://github.com/djyde/,"Website":http://djyde.github.com,"Twitter":http://twitter.com/iamrandy,"Sina Weibo":http://weibo.com/djyde
 * Yu-Chung Wang(wycc), Taiwan
 ** "Website":http://www.assembla.com/wiki/show/MadButterfly
 * Jerry sun(sjerrys),China
