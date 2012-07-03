@@ -9,6 +9,7 @@ h2. Node v0.6.0
 * "node-talib: v0.1.0":https://github.com/oransel/node-talib
 * "protos: v0.0.1":https://github.com/derdesign/protos
 * "mongo-express: v0.11.x":https://github.com/andzdroid/mongo-express
+* "Bike: v0.x.x":https://github.com/behere/bike
 
 h2. Node v0.5.0-pre
 * "quickcheck v0.0.0":https://github.com/mcandre/node-quickcheck
