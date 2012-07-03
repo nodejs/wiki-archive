@@ -6,14 +6,15 @@ Node has several dependencies.  If you are building from source you should
 only need 2 things:
 
 * [**python**](http://python.org) - version 2.6 or 2.7, The build tools distributed with
-  Node run on python.
- 
+  Node run on python. 
 
 * **libssl-dev** - If you plan to use SSL/TLS encryption in your
   networking, you'll need this.  Libssl is the library used in the
   [openssl](http://www.openssl.org/) tool. On Linux and Unix systems
   it can usually be installed with your favorite package manager. The
   lib comes pre- installed on OS X.
+
+* **libexecinfo** - (FreeBSD and OpenBSD only.) Required by V8. `pkg_add -r libexecinfo` installs it.
 
 ### Known Issues
 
