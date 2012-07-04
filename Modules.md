@@ -947,6 +947,7 @@ www-style proposals.
 * [N-Ext](https://github.com/xcambar/n-ext) -- Use the power of the Ext.data packages (from the ExtJS framework) in your NodeJS apps. Includes a MongoDB proxy based on [node-mongodb-native](https://github.com/xcambar/n-ext/node-mongodb-native))
 * [ease.js](https://github.com/mikegerwitz/easejs) -- Classical Object-Oriented framework for JavaScript
 * [Bike](https://github.com/behere/bike) -- Class system to organize namespaces, define, create, extend, mixin, super inheritance and more.
+
 <a name="wiki-testing"></a>
 ## [Testing / Spec Frameworks](#testing)
 
