@@ -1,6 +1,6 @@
 # Node.js community wiki
 
-**Attention Node Users**<br>Version 0.8 will be out soon.  If you are currently using 0.6, please read [API changes between v0.6 and v0.8](https://github.com/joyent/node/wiki/API-changes-between-v0.6-and-v0.8) and update your programs accordingly.
+**Attention Node Users**<br>Current stable version is 0.8. If you are currently using 0.6, please read [API changes between v0.6 and v0.8](https://github.com/joyent/node/wiki/API-changes-between-v0.6-and-v0.8) and update your programs accordingly.
 
 ## Introduction
 
