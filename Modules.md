@@ -1277,7 +1277,7 @@ www-style proposals.
 * [log.js](https://github.com/visionmedia/log.js) -- light-weight logger that works with any writable stream, also supports a streaming parser for reading the log files generated
 * [log4js-node](https://github.com/nomiddlename/log4js-node) -- a port of log4js framework for node.js
 * [logging](https://github.com/dylang/logging) -- Super sexy color console logging.
-* [logly](https://github.com/tristanls/logly) -- A minimal logging utility to support verbose and debug modes
+* [logly](https://github.com/tristanls/logly) -- A minimal logging utility to support verbose and debug modes with basic colors
 * [logule](https://github.com/clux/logule) -- A sexy portable logging utility using colors
 * [nlogger](https://github.com/igo/nlogger) -- Logging lib that can print also module names and line numbers, optionally in color
 * [NodeLog](https://github.com/FabianM/NodeLog) -- Logging library for Node.js based on the java.util.logging library.
