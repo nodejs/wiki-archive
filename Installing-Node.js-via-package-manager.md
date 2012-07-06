@@ -54,13 +54,14 @@ Example install on openSUSE 11.4:
     sudo zypper ar http://download.opensuse.org/repositories/devel:/languages:/nodejs/openSUSE_11.4/ NodeJSBuildService 
     sudo zypper in nodejs nodejs-devel
 
-## Fedora, RHEL/CentOS/Scientific Linux, and Amazon Linux
-Packages for Fedora 15 and 16, RHEL, CentOS, and Scientific Linux 5 and 6, as well as Amazon Linux are available from the [Node.js for Fedora and Enterprise Linux repository](http://nodejs.tchol.org/).
+## Fedora 15 and 16
 
 To install node on **Fedora**:
 
     sudo yum localinstall --nogpgcheck http://nodejs.tchol.org/repocfg/fedora/nodejs-stable-release.noarch.rpm
     sudo yum install nodejs-compat-symlinks npm
+
+## RHEL/CentOS/Scientific Linux 5 and 6
 
 To install node on **RHEL and friends**:
 
@@ -69,7 +70,7 @@ To install node on **RHEL and friends**:
     yum install nodejs-compat-symlinks npm
     rm nodejs-stable-release.noarch.rpm
 
-To install node on **Amazon Linux**:
+## Amazon Linux
 
 First install the repository:
 
