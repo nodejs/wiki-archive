@@ -8,7 +8,7 @@ When editing this page please be as detailed as possible. Examples are encourage
 
 ## Removed:
   * `waf` build system - `node.js` will be using `gyp` now
-    * If you are a native module author, migrate to [`node-gyp`](https://github.com/TooTallNate/node-gyp) ASAP!
+    * If you are a [native module author](https://gist.github.com/3026789)(you may still be one if you're not on this list), migrate to [`node-gyp`](https://github.com/TooTallNate/node-gyp) ASAP!
   * `require('sys')` throws, use `require('util')` now. The "sys" module was deprecated in node v0.4.
   * `process.installPrefix` has been removed ([#3483](https://github.com/joyent/node/pull/3483)). `process.installPrefix` was (accidentally) always `undefined` in node v0.6.
   * `node --vars` has been removed ([#3483](https://github.com/joyent/node/pull/3483)). `node --vars` always (accidentally) has empty output in node v0.6
