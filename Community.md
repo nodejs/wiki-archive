@@ -14,12 +14,10 @@ For real-time discussion, check irc.freenode.net #node.js or Stack Overflow [cha
 * [Debuggable Blog](http://debuggable.com/blog) | Some articles on node.js
 * [Ryah's Blog](http://four.livejournal.com/)
 * [How To Node](http://howtonode.org/) | Tutorials related to node
-* [Boldr](http://boldr.net/) | Some articles on node.js
 * [Setting up with Apache and Supervisord](http://bigbangtechnology.com/preview/installation_configuration_deployment_node.js_applications_on_media_temple) | Easy deployment
-* [Node Blogs](http://nodeblogs.com/) | An aggregator for the node.js community
 * [Blog.101Ideas.cz](http://blog.101ideas.cz/) | A lot of Node.js stuff there
 * [OSButler Blog](http://blog.osbutler.com/categories/node-by-example/) | Collection of simple node examples
-* [Persian blog for nodejs](http://blog.nodejs.ir)
+* [Codehenge Blog](http://codehenge.net/blog/tag/node-js/) | Some node.js examples and tutorials
 * [IT Wars](http://www.it-wars.com/categorie8/dev) | French blog with news and nodejs codes
 * [Node Tuts Screen-casts](http://nodetuts.com) | Node.js Screen casts
 * [Nodejitsu Node Docs](http://docs.nodejitsu.com) | Several node.js hands-on tutorials
