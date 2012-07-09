@@ -958,6 +958,8 @@ h2. UTC+8
 ** "GitHub":http://github.com/lambgao, "Twitter":http://twitter.com/lambgao, "Blog":http://lamb.b3log.org, "Weibo":http://weibo.com/lambsand
 * Leton Li (letonode), Hangzhou, China
 ** "GitHub":http://github.com/LeToNode, "Twitter":http://twitter.com/letonlife, "Blog":http://www.letonlife.com, "Weibo":http://weibo.com/letonlife
+* Tian Xia (xiatian), Shenzhen, China
+** "GitHub":http://github.com/xiatian, "Weibo":http://weibo.com/xtpython
 
 h2. UTC+9
 
