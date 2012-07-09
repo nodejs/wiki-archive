@@ -960,6 +960,8 @@ h2. UTC+8
 ** "GitHub":http://github.com/LeToNode, "Twitter":http://twitter.com/letonlife, "Blog":http://www.letonlife.com, "Weibo":http://weibo.com/letonlife
 * Tian Xia (xiatian), Shenzhen, China
 ** "GitHub":http://github.com/xiatian, "Weibo":http://weibo.com/xtpython
+* Li Zhe (lizhepro), Beijing, China
+** "GitHub":http://github.com/lizhepro, "Twitter":http://twitter.com/lizhepro
 
 h2. UTC+9
 
