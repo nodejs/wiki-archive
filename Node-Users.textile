@@ -953,7 +953,7 @@ h2. UTC+8
 * MK Yuan (fengmk2), Hangzhou, China
 ** "GitHub":http://github.com/fengmk2, "Twitter":http://twitter.com/fengmk2, "Blog":http://fengmk2.github.com, "Weibo":http://weibo.com/imk2
 * Goddy Zhao(goddyzhao), Shanghai, China
-** "GitHub":http://github.com/goddyzhao, "Twitter":http://twitter.com/goddyzhao, "Blog":http://goddyzhao.me
+** "GitHub":http://github.com/goddyzhao, "Twitter":http://twitter.com/goddyzhao, "Blog":http://goddyzhao.me, "Weibo":http://weibo.com/goddyzhao
 
 h2. UTC+9
 
