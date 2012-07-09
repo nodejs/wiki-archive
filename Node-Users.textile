@@ -962,6 +962,8 @@ h2. UTC+8
 ** "GitHub":http://github.com/xiatian, "Weibo":http://weibo.com/xtpython
 * Li Zhe (lizhepro), Beijing, China
 ** "GitHub":http://github.com/lizhepro, "Twitter":http://twitter.com/lizhepro, "Weibo":http://weibo.com/lizhepro
+* Trevor Wang, Shanghai, China
+** "GitHub":http://github.com/trevorwang, "Twitter":http://twitter.com/trevorwang
 
 h2. UTC+9
 
