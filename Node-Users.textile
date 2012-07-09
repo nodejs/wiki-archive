@@ -961,7 +961,7 @@ h2. UTC+8
 * Tian Xia (xiatian), Shenzhen, China
 ** "GitHub":http://github.com/xiatian, "Weibo":http://weibo.com/xtpython
 * Li Zhe (lizhepro), Beijing, China
-** "GitHub":http://github.com/lizhepro, "Twitter":http://twitter.com/lizhepro
+** "GitHub":http://github.com/lizhepro, "Twitter":http://twitter.com/lizhepro, "Weibo":http://weibo.com/lizhepro
 
 h2. UTC+9
 
