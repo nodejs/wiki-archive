@@ -18,9 +18,6 @@ For Debian Squeeze, your best bet is to compile node by yourself (as `root`):
     # make
     # make test
     # make install
-    # node -v
-
-This last command should print the version of Node matching the git tag you checked out.
 
 ## Linux Mint
 
