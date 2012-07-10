@@ -964,6 +964,8 @@ h2. UTC+8
 ** "GitHub":http://github.com/lizhepro, "Twitter":http://twitter.com/lizhepro, "Weibo":http://weibo.com/lizhepro
 * Trevor Wang, Shanghai, China
 ** "GitHub":http://github.com/trevorwang, "Twitter":http://twitter.com/trevorwang
+* Yiyu He (dead_horse), Hangzhou, China
+** "GitHub":http://github.com/dead-horse, "Blog":http://deadhorse.me, "Weibo":http://weibo.com/deadhorse
 
 h2. UTC+9
 
