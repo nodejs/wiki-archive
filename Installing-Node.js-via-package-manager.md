@@ -10,14 +10,14 @@ Node.js is available in official gentoo portage tree. You have to unmask it.
 
 For Debian Squeeze, your best bet is to compile node by yourself (as `root`):
 
-    # apt-get install python g++ curl libssl-dev
-    # mkdir /tmp/nodejs && cd /tmp/nodejs
-    # wget http://nodejs.org/dist/node-latest.tar.gz
-    # tar xzvf node-latest.tar.gz && cd node-v*
-    # ./configure
-    # make
-    # make test
-    # make install
+    apt-get install python g++ curl libssl-dev
+    mkdir /tmp/nodejs && cd /tmp/nodejs
+    wget http://nodejs.org/dist/node-latest.tar.gz
+    tar xzvf node-latest.tar.gz && cd node-v*
+    ./configure
+    make
+    make test
+    make install
 
 ## Linux Mint
 
