@@ -15,8 +15,6 @@ For Debian Squeeze, your best bet is to compile node by yourself (as `root`):
     wget -N http://nodejs.org/dist/node-latest.tar.gz
     tar xzvf node-latest.tar.gz && cd `ls -rd node-v*`
     ./configure
-    make
-    make test
     make install
 
 ## Linux Mint
