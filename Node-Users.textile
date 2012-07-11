@@ -966,6 +966,8 @@ h2. UTC+8
 ** "GitHub":http://github.com/trevorwang, "Twitter":http://twitter.com/trevorwang
 * Yiyu He (dead_horse), Hangzhou, China
 ** "GitHub":http://github.com/dead-horse, "Blog":http://deadhorse.me, "Weibo":http://weibo.com/deadhorse
+* Huanyu Xie (xhowhy), Hangzhou, China
+** "GitHub":http://github.com/xhowhy, "Blog":http://x1989.com, "Weibo":http://weibo.com/xhowhy
 
 h2. UTC+9
 
