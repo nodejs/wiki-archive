@@ -1294,6 +1294,7 @@ rendering process.
 * [underscore.logger](https://github.com/viatropos/underscore.logger) — Cross-browser and Node.js empowered logging that can be used as an Underscore mixin.
 * [Windows Event Log Js](http://jfromaniello.github.com/windowseventlogjs/) — native Node.js module to log messages to the Microsoft Windows EventLog
 * [Winston](https://github.com/indexzero/winston) — A multi-transport async logging library for node.js
+* [PuperGrep](https://github.com/bobrik/pupergrep) - Real-time web view for your logs with hightlighting, grep and more.
 
 <a name="wiki-ansi"></a>
 ### [Console colors and other ANSI codes](#ansi)
