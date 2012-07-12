@@ -621,6 +621,7 @@ rendering process.
 
 * [AE86](http://github.com/cliffano/ae86) — Static website generator. Easy to write custom tag as simple JavaScript function, clean and minimalistic template syntax.
 * [blacksmith](https://github.com/flatiron/blacksmith) — A static site generator built with Node.js, JSDOM, and Weld.
+* [bread](https://github.com/pvorb/node-bread) — A file based static website/blog generator for node that uses markdown files as content providers.
 * [Calipso](http://calip.so/?utm_source=nodejs&utm_medium=github&utm_campaign=nodejs) — An express based CMS, very much work in progress.
 * [DocPad](https://github.com/bevry/docpad) — is a language agnostic document management system. It's actively maintained and supported by a growing community. It's also modular; so easy to extend and use in bigger systems. It already supports lots of markups and pre-processors through [available plugins](https://github.com/bevry/docpad/wiki/Plugins) and [powers many websites](https://github.com/bevry/docpad/wiki/Showcase).
 * [jslardo](https://github.com/obliquid/jslardo) — A Social CMS, where users are able to register to the application, create their own models (mongoose schemas), views, controllers, websites and pages. Work in progress, keep updated!
