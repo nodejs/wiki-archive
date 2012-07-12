@@ -1,4 +1,4 @@
-When editing this page please be as detailed as possible. Examples are encouraged!!
+When editing this page please be as detailed as possible. Examples are encouraged!
 
 ## Changed:
  * Cygwin build is no longer supported. Use native windows builds instead.
