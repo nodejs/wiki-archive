@@ -1116,7 +1116,6 @@ rendering process.
 <a name="wiki-parsers-markdown"></a>
 ### [Markdown parsers](#parsers-markdown)
 
-* [highlight](https://github.com/andris9/highlight) — Code highlighter for Markdown `code` blocks and for automatic language detection
 * [marked](https://github.com/chjj/marked) - A markdown parser and compiler. Built for speed.
 * [node-discount](https://github.com/visionmedia/node-discount) — C markdown parser "discount" bindings
 * [node-markdown](https://github.com/andris9/node-markdown) — Easy to use Markdown parser
