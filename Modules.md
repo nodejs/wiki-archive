@@ -1529,6 +1529,7 @@ rendering process.
 * [SMSified-node](https://github.com/smsified/smsified-node) — A module for sending and receiving SMS messages (text messages) with the SMSified API.
 * [spotify](https://github.com/roncioso/node-spotify-metadata) — Spotify api wrapper. Metadata lookup and search. Works with Spotify and http uris
 * [supervisord](https://github.com/crcn/supervisord) - Library for supervisord
+* [tuiter](https://github.com/danzajdband/Tuiter) - Library for Twitter Search, REST and Streaming API
 * [tropo-webapi-node](https://github.com/tropo/tropo-webapi-node) — A library for building multi-channel communication apps with the Tropo WebAPI.
 * [tumblr](https://github.com/meritt/node-tumblr) — A wrapper for Tumblr's API v2
 * [tumblrrr](https://github.com/mvrilo/tumblrrr) — A wrapper for Tumblr's API
