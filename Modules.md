@@ -1616,6 +1616,7 @@ rendering process.
 * [soda.js](https://github.com/tomyan/soda) — Asynchonous JavaScript module loader for client-side and Node.js
 * [Step](https://github.com/creationix/step) — Tool for grouping and chaining asynchronous callbacks, based on [flow-js](https://github.com/willconant/flow-js)
 * [stepc](https://github.com/akidee/stepc) — A CoffeeScript-safe version of creationix' step
+* [streamify](https://github.com/fent/node-streamify) — Streamify helps you easily provide a streaming interface for your code.
 * [streamline.js](https://github.com/Sage/streamlinejs) — Tool that transforms synchronous code into asynchronous code with callbacks.
 * [sync](https://github.com/0ctave/node-sync) — Write simple and readable synchronous code in nodejs using fibers (based on [node-fibers](https://github.com/laverdet/node-fibers))
 * [taskman](https://github.com/bryan-m-hughes/node-taskman) — A task management library for managing (possibly) asynchronous tasks by declaring task dependencies.
