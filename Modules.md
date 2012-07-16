@@ -1401,6 +1401,7 @@ rendering process.
 * [palette](https://github.com/visionmedia/palette) — Image color palette extraction library built with node-canvas
 * [pdfkit](https://github.com/devongovett/pdfkit) — A powerful PDF generation library for Node
 * [squeeze](https://github.com/nikhilm/squeeze) — Mince and convert images on the cloud using [UploadJuicer](http://www.uploadjuicer.com) .
+* [ytdl](https://github.com/fent/node-ytdl) — Pure Javascript youtube video downloader.
 * [youtube-dl](https://github.com/fent/node-youtube-dl) — youtube-dl driver for node
 
 <a name="wiki-sound"></a>
