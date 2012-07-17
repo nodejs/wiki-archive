@@ -12,7 +12,8 @@ only need 2 things:
   networking, you'll need this.  Libssl is the library used in the
   [openssl](http://www.openssl.org/) tool. On Linux and Unix systems
   it can usually be installed with your favorite package manager. The
-  lib comes pre- installed on OS X.
+  lib comes pre- installed on OS X. (Note: this is not
+  required to be installed if building v0.8.x)
 
 * **libexecinfo** - (FreeBSD and OpenBSD only.) Required by V8. `pkg_add -r libexecinfo` installs it.
 
