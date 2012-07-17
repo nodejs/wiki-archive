@@ -928,6 +928,7 @@ rendering process.
 * [fairy](https://github.com/baoshan/fairy) — a queue engine based on Redis offering ActiveMQ's **message groups** alike feature.
 * [gearman-node](https://github.com/cramerdev/gearman-node) — [Gearman](http://gearman.org/) client.
 * [gearnode](https://github.com/andris9/gearnode) — [Gearman](http://gearman.org/) client and worker.
+* [MongoMQ](https://github.com/jdarling/MongoMQ) — MongoMQ is a messaging queue built on top of Node.js and MongoDB's tailable cursors. It allows for distributed of messages across workers in both a single reciever and broadcast method.
 * [node-gearman](https://github.com/andris9/node-gearman) — Simple worker/client module for [Gearman](http://gearman.org/)
 * [node-rqueue](https://github.com/csanz/node-rqueue) — Implementation of RQueue, includes Worker and Queue
 * [QDis](https://github.com/gflarity/qdis) — a simple durable fanout pub/sub queueing system built with Redis + Node.js
