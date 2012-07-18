@@ -1,21 +1,15 @@
 # Building and installing Node.js
 
-## Building requirements
+## Prerequisites
 
-Node has several dependencies.  If you are building from source you should
-only need 2 things:
+* **GNU make** 3.81 or newer. Pre-installed on most systems. Sometimes called `gmake`.
 
-* [**python**](http://python.org) - version 2.6 or 2.7, The build tools distributed with
-  Node run on python. 
+* [**python**](http://python.org) 2.6 or 2.7. The build tools distributed with
+  Node run on python.
 
-* **libssl-dev** - If you plan to use SSL/TLS encryption in your
-  networking, you'll need this.  Libssl is the library used in the
-  [openssl](http://www.openssl.org/) tool. On Linux and Unix systems
-  it can usually be installed with your favorite package manager. The
-  lib comes pre- installed on OS X. (Note: this is not
-  required to be installed if building v0.8.x)
+* **libssl-dev** (Node v0.6.x only.) Can usually be installed on *NIX systems with your favorite package manager. Pre-installed on OS X.
 
-* **libexecinfo** - (FreeBSD and OpenBSD only.) Required by V8. `pkg_add -r libexecinfo` installs it.
+* **libexecinfo** (FreeBSD and OpenBSD only.) Required by V8. `pkg_add -r libexecinfo` installs it.
 
 ### Known Issues
 
