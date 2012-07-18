@@ -117,3 +117,22 @@ To update npm, run the `npm update npm -g` command.
 ### Installing on Mac
 
 The [http://nodejs.org/dist/latest/](http://nodejs.org/dist/latest/) directory does contain the latest `.pkg` package (such as `node-v0.6.15.pkg` when Node v0.6.15 was the latest).
+
+#### How to compile Node.js on Mac OSX 10.8 + Xcode 4.5 
+1. Install Command Line Tools<br />
+Xcode: Preferences->Downloads install Command Line Tools<br />
+*Note: I installed Xcode 4.5 in /Applications/Xcode*
+1. Download node.js src code<br />
+<pre>
+git clone https://github.com/joyent/node.git
+cd node
+git checkout v0.8.2
+</pre>
+1. Compiling Source Code<br />
+<pre>
+export CC=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang
+export CXX=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+./configure
+make
+sudo make install
+</pre>
