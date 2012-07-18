@@ -260,6 +260,8 @@ h2. UTC-6 (-5)
 ** "Twitter":http://twitter.com/connor, "Website":http://cnnr.me
 * Tom Leach (tomtheguvnor), Wichita, KS
 ** "GitHub":http://github/tomtheguvnor, "Twitter":http://twitter.com/tomtheguvnor
+* John Jelinek (leetcharmer), Dallas, TX, US
+** "GitHub":http://github.com/johnjelinek, "Twitter":http://twitter.com/johnjelinek, "Website":http://johnjelinek.com
 
 h2. UTC-5 (-4)
 
