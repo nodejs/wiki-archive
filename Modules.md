@@ -1410,13 +1410,13 @@ rendering process.
 <a name="wiki-sound"></a>
 ## [Sound](#sound)
 
-* [node-sound](https://github.com/xk/node-sound) — The best sound library for Node
+* [play](https://github.com/Marak/play.js) - play sound files from node.js to your speakers
+* [node-sound](https://github.com/xk/node-sound) — The best sound library for Node (Only for MacOSX)
 
 <a name="wiki-chat"></a>
 ## [Chat](#chat)
 
 * [chat.io](https://github.com/DanielBaulig/chat.io) — A simple chat solution build on socket.io
-* [ExtJS4 Chat](https://github.com/MikhailTatsky/Chat) — ExtJS4 Chat
 
 <a name="wiki-payment-gateways"></a>
 ## [Payment Gateways](#payment-gateways)
