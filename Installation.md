@@ -125,15 +125,15 @@ The [http://nodejs.org/dist/latest/](http://nodejs.org/dist/latest/) directory c
 
 Put `node.exe` to a clean directory, add that directory to your `PATH` variable, unpack npm to the same directory, and then you'll be able to run scripts (`node scriptname.js`) and install modules (`npm install modulename`) anywhere you want.
 
-#### Automatic install (with Microsoft Installer)
-
-The [http://nodejs.org/dist/latest/](http://nodejs.org/dist/latest/) directory contains the latest `.msi` package (such as `node-v0.6.15.msi` when Node v0.6.15 was the latest) that you may use to install both Node.js engine and npm.
-
-#### Updating your Windows installation of Node and npm
+##### Manual update
 
 To update Node, download the latest [http://nodejs.org/dist/latest/node.exe](http://nodejs.org/dist/latest/node.exe) file and replace your old `node.exe` with it.
 
 To update npm, run the `npm update npm -g` command.
+
+#### Automatic install (with Microsoft Installer)
+
+The [http://nodejs.org/dist/latest/](http://nodejs.org/dist/latest/) directory contains the latest `.msi` package (such as `node-v0.6.15.msi` when Node v0.6.15 was the latest) that you may use to install both Node.js engine and npm.
 
 ### Installing on Mac
 
