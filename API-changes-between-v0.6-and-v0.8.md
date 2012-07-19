@@ -16,7 +16,7 @@ When editing this page please be as detailed as possible. Examples are encourage
 ## Changed:
 
  * `process`
-   * `process.stdin.on('keypress')` will not be emitted by default, as it's an internal API. Use the [keypress](https://github.com/TooTallNate/keypress) module now.
+   * `process.stdin.on('keypress')` will not be emitted by default, as it's an internal API. Use the [`keypress`](https://github.com/TooTallNate/keypress) module now.
    * `process.stdin.pipe(dest)` will automatically call `process.stdin.resume()`.
 
  * `cluster`
