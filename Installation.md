@@ -121,7 +121,7 @@ You may obtain pre-compiled Node.js binaries for several platforms from [http://
 
 The [http://nodejs.org/dist/latest/node.exe](http://nodejs.org/dist/latest/node.exe) file is a standalone Windows executable that contains only the last version of Node.js engine.
 
-The [http://nodejs.org/dist/latest/](http://nodejs.org/dist/latest/) directory does contain the latest `.zip` archive of npm (such as `npm-1.1.16.zip` when npm v1.1.16 was the latest).
+The [http://nodejs.org/dist/latest/](http://nodejs.org/dist/latest/) directory contains the latest `.zip` archive of npm (such as `npm-1.1.16.zip` when npm v1.1.16 was the latest).
 
 Put `node.exe` to a clean directory, add that directory to your `PATH` variable, unpack npm to the same directory, and then you'll be able to run scripts (`node scriptname.js`) and install modules (`npm install modulename`) anywhere you want.
 
