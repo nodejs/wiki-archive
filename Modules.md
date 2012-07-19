@@ -1686,7 +1686,7 @@ realtime balancing for live objects
 <a name="wiki-desktop-app"></a>
 ## [Desktop application related](#desktop-app)
 
-* [appjs](https://github.com/milani/appjs) — SDK on top of nodejs to build desktop apps with html/css/js.
+* [AppJS](https://github.com/appjs/appjs) — SDK on top of Node to build desktop apps (GUI windows) with HTML/CSS/JS.
 * [clipboard](https://github.com/Benvie/node-clipboard) — Easy to use utility for reading and writing to the system clipboard.
 
 <a name="wiki-javascript-threads"></a>
