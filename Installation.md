@@ -69,6 +69,27 @@ If you have SpiderMonkey installed, you may have some conflicting includes. Set 
 
 Or use the one liner to install the latest node.js : ```bash < <(curl http://h3manth.com/njs) ```
 
+## Building on Mac OSX 10.8 with Xcode 4.5 
+1. Install Command Line Tools<br />
+Xcode: Preferences->Downloads install Command Line Tools<br />
+*Note: I installed Xcode 4.5 in `/Applications/Xcode`*
+
+1. Download node.js src code
+```
+git clone https://github.com/joyent/node.git
+cd node
+git checkout v0.8.2
+```
+
+1. Compiling Source Code
+```
+export CC=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang
+export CXX=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+./configure
+make
+sudo make install
+```
+
 ## Building on Windows
 
 You need python and Microsoft Visual Studio but not OpenSSL. In `cmd.exe` do the following
@@ -102,7 +123,7 @@ The [http://nodejs.org/dist/latest/node.exe](http://nodejs.org/dist/latest/node.
 
 The [http://nodejs.org/dist/latest/](http://nodejs.org/dist/latest/) directory does contain the latest `.zip` archive of npm (such as `npm-1.1.16.zip` when npm v1.1.16 was the latest).
 
-Put `node.exe` to a clean directory, unpack npm there, add that directory to your `PATH` variable, and then you'll be able to run scripts (`node scriptname.js`) and install modules (`npm install modulename`) anywhere you want.
+Put `node.exe` to a clean directory, add that directory to your `PATH` variable, unpack npm to the same directory, and then you'll be able to run scripts (`node scriptname.js`) and install modules (`npm install modulename`) anywhere you want.
 
 #### Automatic install (with Microsoft Installer)
 
@@ -117,22 +138,3 @@ To update npm, run the `npm update npm -g` command.
 ### Installing on Mac
 
 The [http://nodejs.org/dist/latest/](http://nodejs.org/dist/latest/) directory does contain the latest `.pkg` package (such as `node-v0.6.15.pkg` when Node v0.6.15 was the latest).
-
-#### How to compile Node.js on Mac OSX 10.8 + Xcode 4.5 
-1. Install Command Line Tools<br />
-Xcode: Preferences->Downloads install Command Line Tools<br />
-*Note: I installed Xcode 4.5 in /Applications/Xcode*
-1. Download node.js src code<br />
-<pre>
-git clone https://github.com/joyent/node.git
-cd node
-git checkout v0.8.2
-</pre>
-1. Compiling Source Code<br />
-<pre>
-export CC=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang
-export CXX=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
-./configure
-make
-sudo make install
-</pre>
