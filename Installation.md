@@ -127,7 +127,7 @@ Put `node.exe` to a clean directory, add that directory to your `PATH` variabl
 
 #### Automatic install (with Microsoft Installer)
 
-The [http://nodejs.org/dist/latest/](http://nodejs.org/dist/latest/) directory does contain the latest `.msi` package (such as `node-v0.6.15.msi` when Node v0.6.15 was the latest) that you may use to install both Node.js engine and npm.
+The [http://nodejs.org/dist/latest/](http://nodejs.org/dist/latest/) directory contains the latest `.msi` package (such as `node-v0.6.15.msi` when Node v0.6.15 was the latest) that you may use to install both Node.js engine and npm.
 
 #### Updating your Windows installation of Node and npm
 
