@@ -1496,6 +1496,7 @@ rendering process.
 * [node-googleSearch](https://github.com/Ayms/node-googleSearch) — Implementation of Google Search Ajax API using node-dom
 * [node-gravatar](https://github.com/arnabc/node-gravatar) — Node.js Gravatar URL generator, can be used with Node.js blogging frameworks
 * [node-klout](https://github.com/edwardhotchkiss/node-klout) — Extremely reliable Node.js Klout API Wrapper
+* [node-kraken](https://github.com/matylla/node-kraken) — Plug into the power and speed of Kraken.io Image Optimizer
 * [node-loggly](https://github.com/nodejitsu/node-loggly) --A client implementation for Loggly in node.js
 * [node-mailchimp](https://github.com/gomfunkel/node-mailchimp) — A wrapper for the MailChimp API, MailChimp Export API and MailChimp Webhooks
 * [node-mailgun](https://github.com/shz/node-mailgun) — Client library for MailGun
