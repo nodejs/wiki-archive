@@ -631,7 +631,7 @@ rendering process.
 * [Murray CMS](https://github.com/thecolorblue/murray-cms) — blog platform using express and mongodb.
 * [NoCR](https://github.com/NoCR/NoCR) — JCR-inspired Content Repository API for Node.js which maps your content model to a tree of nodes and properties. There is a [MongoDB NoCR provider](https://github.com/karacos/nocr-mongo) available
 * [Nodepad](https://github.com/alexyoung/nodepad) — A nice basic web-based notepad.
-* [Punch](https://laktek.github.com/punch) - A simple tool to generate HTML documents from Mustache templates and content stored in JSON & Markdown format.
+* [Punch](http://laktek.github.com/punch) - A simple tool to generate HTML documents from Mustache templates and content stored in JSON & Markdown format.
 * [reed](https://github.com/ProjectMoon/reed) — A Markdown-based blogging core backed by Redis and the filesystem.
 
 <a name="wiki-build-and-deployment"></a>
