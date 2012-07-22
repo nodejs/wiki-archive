@@ -42,9 +42,7 @@ Besides the documentation on the [official site](http://nodejs.org) here are lin
 
 ## ChangeLog
 
-Node releases a new version every one or two weeks. The official ChangeLog can always be found [here](https://github.com/ry/node/blob/master/ChangeLog).
-
-The ChangeLog is also mirrored on this wiki so that users can make notes about bugs or changes that didn't make it into the official notes: [wiki changelog](https://github.com/ry/node/wiki/ChangeLog).
+Node releases a new version every one or two weeks. The ChangeLog can always be found [here](https://github.com/ry/node/blob/master/ChangeLog).
 
 ## Contributing
 
