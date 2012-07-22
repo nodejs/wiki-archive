@@ -14,7 +14,7 @@ Name | Node Version | Web Sockets | IP/Hostname | IRC | Repository | Free Plan |
 [Heroku](http://heroku.com) | [0.4.x, 0.6.x, 0.8.x](http://heroku-buildpack-nodejs.s3.amazonaws.com/manifest.nodejs) | No | Yes | #heroku | [heroku](http://github.com/heroku) | Yes - 1 Dynamo (256 MB Ram) | | 
 [no.de](http://no.de) | 0.4.11 | Paid plan | Paid plan | #joyent | [joyent](http://github.com/joyent) | Yes - 128 MB Ram | | 
 [NodeSocket](http://www.nodesocket.com) | 0.4.12 | Yes | Yes | | [nodesocket](https://github.com/nodesocket) | | | In Private Beta
-[Nodejitsu](http://nodejitsu.com) | 0.4.12, 0.6.x | Yes | Yes | #nodejitsu | [nodejitsu](http://github.com/nodejitsu) | Free - More info after beta | | In Private Beta
+[Nodejitsu](http://nodejitsu.com) | 0.4.12, 0.6.x | Yes | Yes | #nodejitsu | [nodejitsu](http://github.com/nodejitsu) | Free - More info after beta | | Public Beta
 [Nodester](http://nodester.com) | 0.6.12, 0.6.17, 0.8.1 | Yes | Yes | #nodester |[nodester](https://github.com/nodester) | Yes - Unlimited | No | Open (with invite)
 [JSApp.US](http://jsapp.us) | | | No | | [node-host](https://github.com/matthewfl/node-host) | | | Open signup, web editing/npm command
 [Node Ninja(JP)](https://node-ninja.com) | 0.6.11 | Yes | Yes | | | Yes |  | In Private Beta
