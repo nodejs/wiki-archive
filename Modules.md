@@ -1450,6 +1450,7 @@ rendering process.
 * [discogs](https://github.com/linus/discogs) — Discogs API client
 * [dribbble-node](https://github.com/carlosvillu/Dribbble-node) — A wrapper for the Dribbble API
 * [dropbox-node](https://github.com/evnm/dropbox-node) — A wrapper for the Dropbox API
+* [ec2](https://github.com/bigeasy/node-ec2) - Light-weight, asynchronous Node.js bindings to the full Amazon EC2 API.
 * [ec2metadata](https://github.com/kilianc/node-ec2metadata) — An API wrapper for the AWS EC2 metadata.
 * [evented-twitter](https://github.com/polotek/evented-twitter) — asynchronous twitter client, supports streaming api
 * [facebook-api](https://github.com/mren/facebook-api) — offers high level and low level calls against the facebook graph API
