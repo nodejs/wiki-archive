@@ -736,6 +736,7 @@ h2. UTC+1 (+2)
 ** "GitHub":https://github.com/medikoo, "Twitter":http://twitter.com/medikoo, "Website":http://www.medikoo.com/
 * Christopher R. Parr, Vienna, Austria
 ** "Github":http://github.com/fosstux, "Website":http://soft.fosstux.net, "Twitter":http://twitter.com/fosstux
+
 h2. UTC+2 (+3)
 
 * Aurimas Rim?a, Lithuania
