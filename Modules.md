@@ -1040,8 +1040,9 @@ rendering process.
 <a name="wiki-wrappers"></a>
 ## [Wrappers](#wrappers)
 
-* [cloudshift-hx-node](https://github.com/cloudshift/hx-node) — haXe wrappers for node
-* [cloudshift](https://github.com/cloudshift/cloudshift) — A haXe Stack for Node.js
+* [cloudshift-hx-node](https://github.com/cloudshift/hx-node) — Haxe wrappers for node
+* [cloudshift](https://github.com/cloudshift/cloudshift) — A Haxe Stack for Node.js
+* [dionjwa-nodejs_externs](https://github.com/dionjwa/nodejs_externs) — A collection of Node.js module externs for Haxe
 * [java](https://github.com/nearinfinity/node-java) — Bridge API to connect with existing Java APIs
 * [node-tidy](https://github.com/leondealmeida/node-tidy) — a simple wrapper for tidy
 * [ping-wrapper2](https://github.com/sebastianmckenzie/ping-wrapper) — native unix wrapper for ping
