@@ -1042,7 +1042,6 @@ rendering process.
 
 * [cloudshift-hx-node](https://github.com/cloudshift/hx-node) — haXe wrappers for node
 * [cloudshift](https://github.com/cloudshift/cloudshift) — A haXe Stack for Node.js
-* [hxnodejs](https://github.com/tong/hxnodejs) — another haXe wrappers for node
 * [java](https://github.com/nearinfinity/node-java) — Bridge API to connect with existing Java APIs
 * [node-tidy](https://github.com/leondealmeida/node-tidy) — a simple wrapper for tidy
 * [ping-wrapper2](https://github.com/sebastianmckenzie/ping-wrapper) — native unix wrapper for ping
