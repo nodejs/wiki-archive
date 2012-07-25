@@ -608,8 +608,9 @@ rendering process.
 * [carto](https://github.com/mapbox/carto) — Parses MSS templates and renders XML for [Mapnik](http://mapnik.org/)
 * [ccss](https://github.com/aeosynth/ccss) — Parses a JavaScript object and renders css.
 * [csslike](https://github.com/chjj/csslike) — Parses and compiles CSS, taking into account the most recent www-style proposals.
-* [CSSOM](https://github.com/NV/CSSOM) —- Parses CSS into CSS Object Model.
-* [Csster](https://github.com/ndp/csster) —- Write CSS in JS or Coffeescript, with macros, color math, etc.
+* [cssjanus](https://github.com/trevorparscal/cssjanus) — Converts left-to-right stylesheets to right-to-left, useful for projects that support right-to-left languages like Arabic.
+* [CSSOM](https://github.com/NV/CSSOM) — Parses CSS into CSS Object Model.
+* [Csster](https://github.com/ndp/csster) — Write CSS in JS or Coffeescript, with macros, color math, etc.
 * [Inverter](https://github.com/coolony/inverter) — Flips CSS from LTR to RTL and vice-versa.
 * [less](https://github.com/cloudhead/less.js) — Parses a LESS template and renders css.
 * [sass.js](https://github.com/visionmedia/sass.js) — Parses Sass templates and renders css.
