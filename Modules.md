@@ -1669,6 +1669,7 @@ rendering process.
 * [npm-boilerplate](https://github.com/wearefractal/npm-boilerplate) — Boilerplate for creating NPM packages
 * [Skeleton](https://github.com/edwardhotchkiss/skeleton) — Skeleton is a CLI module to bootstrap a Node/Express project with a skeleton template via any git repository, with an included default repo.
 * [transsiberian](https://github.com/masylum/transsiberian) — [outdated] nodejs boilerplate built upon Express and Mongolia
+* [node-package-boilerplate](https://github.com/liangzan/node-package-boilerplate) - boilerplate files and dirs for a plain node.js project. more intended for starting node packages.
 
 <a name="wiki-continuous-integration"></a>
 ## [Continuous Integration Tools](#continuous-integration)
