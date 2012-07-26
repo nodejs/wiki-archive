@@ -1331,6 +1331,7 @@ rendering process.
 * [node-cli](https://github.com/SchizoDuckie/Node-CLI/) — cli.clear().move(20,20).color('green').write('Node-cli').down(1).back(7).color('yellow').write('Rocks!')
 * [prettyjson](http://rafeca.com/prettyjson/) — Package for formatting JSON data in a coloured YAML-style, perfect for CLI output.
 * [String ANSI](https://github.com/yuffster/npm-string-ansi) — extends the `String` prototype with the function `color`, which inserts ANSI color codes in place of color string names.
+* [term-css](https://github.com/visionmedia/node-term-css) -- style terminal output using CSS
 
 <a name="wiki-other-console"></a>
 ### [Other console tools](#other-console)
