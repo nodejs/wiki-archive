@@ -1714,6 +1714,7 @@ realtime balancing for live objects
 <a name="wiki-other"></a>
 ## [Other](#other)
 
+* [BinaryJS](https://github.com/binaryjs/binaryjs) — Node binary websocket streaming made easy 
 * [append](https://github.com/pvorb/node-append) — Append properties from one object to another.
 * [attache.js](https://github.com/rodzyn/attache.js) - Very basic AOP implementation
 * [audience-meter](https://github.com/rs/audience-meter) — A simple audience meter based on Socket.IO, perfect for live events tracking
