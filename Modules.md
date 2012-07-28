@@ -1656,6 +1656,7 @@ rendering process.
 * [node-gettext](https://github.com/andris9/node-gettext) — Use Gettext .MO files with Node.js.
 * [node-i18n](https://github.com/ohaibbq/node-i18n) — node-i18n is a minimalistic internationalization module with templating
 * [node-language-detect](https://github.com/FGRibreau/node-language-detect) — NodeJS language detection library using n-gram (which can identify up to 52 human languages)
+* [resource-bundle](https://github.com/Gagle/Node-ResourceBundle) — Internationalization tool that provides locale-specific resources.
 * [translate.js](https://github.com/Marak/translate.js) — translate text from one language to another on node.js and the browser. 30+ languages supported, simple as cake.
 * [unidecode](https://github.com/FGRibreau/node-unidecode) — ASCII transliterations of Unicode text
 
