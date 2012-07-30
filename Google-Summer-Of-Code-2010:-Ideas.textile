@@ -4,7 +4,6 @@ h2. Core Node
 
 * <strike>Rewrite DNS module - using "c-ares":http://c-ares.haxx.se/ . See "this":http://groups.google.com/group/nodejs/browse_thread/thread/b49eeba96bfd4b4</strike>
 * Port to windows.
-* Port to Chromium using the Chrome Extension API in order to Node.js modules in the browser.
 * HTML parser
 * <strike>Ability to do text user interfaces (by binding to ncurses)</strike> (a binding now exists for this for node)
 
