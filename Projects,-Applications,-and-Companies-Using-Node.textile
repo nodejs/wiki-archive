@@ -10,6 +10,7 @@ h2. Companies
 * "aimifan.com":http://aimifan.com -- Online food ordering in Shanghai
 * "af83":http://af83.com/ -- uses node on several projects ("Geeks":https://github.com/AF83/Geeks for example)
 * "Ajax.org":http://ajax.org/ -- Home of the Cloud9 IDE, Ajax.org Platform and O3 Node modules
+* "AppFog":http://www.appfog.com/ -- Leading polyglot/poly-infrastructure PaaS provider. Uses node.js for its back end.
 * "Applied Data Consultants":http://applieddataconsultants.com
 * "&yet (andyet)":http://andyet.net -- We make web software for human people.
 * "AntPortal":https://antportal.com/
