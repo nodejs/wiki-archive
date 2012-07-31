@@ -35,6 +35,7 @@ Of course, if you don't use [Pathogen](http://www.vim.org/scripts/script.php?scr
 ## Completion
 
 * [vim-node](https://github.com/guileen/vim-node) A dictionary for node
+* [vim-nodejs-complete](https://github.com/myhere/vim-nodejs-complete) nodejs's `omnifunc` function, `ctrl-x_ctrl-o` to complete
 
 ## Browsing
 
