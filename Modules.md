@@ -796,6 +796,7 @@ rendering process.
 ### [Multiple protocols](#tcp-multiple)
 
 * [open-uri](https://github.com/publicclass/open-uri) — A very simple HTTP(S)/FTP client library similar to Rubys Open-URI lib.
+* [node-Tor](https://github.com/Ayms/node-Tor) — Javascript implementation of the Tor anonymizer project (The Onion Router https://www.torproject.org/).
 
 <a name="wiki-tcp-http"></a>
 ### [HTTP](#tcp-http)
