@@ -42,6 +42,7 @@ VPS providers, which often require you to set everything up yourself, including 
 * [DreamHostPS](http://www.dreamhost.com/hosting-vps.html) - Need a total reconfiguration of virtual machines
 * [Gandi](http://en.gandi.net/hosting)
 * [GleSYS](http://glesys.com/vps.php)
+* [HP Cloud] (https://www.hpcloud.com)
 * [Host Europe](http://www.hosteurope.de)
 * [IPAP](http://ipap.co) - Consult the many comments at [lowendbox](http://www.lowendbox.com/) before considering these guys…
 * [Joyent](http://www.joyentcloud.com/products/appliances/nodejs-smartmachine/)
