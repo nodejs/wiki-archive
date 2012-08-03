@@ -735,6 +735,8 @@ rendering process.
 * [nodules](https://github.com/kriszyp/nodules) — Async URL CommonJS module loader with dep resolution/downloading and hot-module reloading
 * [remap](https://github.com/dominictarr/remap) - reroute require for mocks, wrappers, or shenanigans (useful for testing)
 * [sourcemint-platform-nodejs](https://github.com/sourcemint/platform-nodejs) — [sourcemint-loader-js](https://github.com/sourcemint/loader-js) (optimized CommonJS package mappings based JavaScript module loader) for NodeJS
+* [remap](https://github.com/dominictarr/remap) - reroute require for mocks, wrappers, or shenanigans (useful for testing)
+* [wrapit](https://github.com/omphalos/wrapit) - webservice to wrap any web resource in a header and footer; good for wrapping javascript files in require calls
 
 <a name="wiki-security"></a>
 ## [OpenSSL / Crypto / Hashing](#security)
