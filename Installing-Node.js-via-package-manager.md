@@ -47,7 +47,7 @@ Example install on openSUSE 11.4:
     sudo zypper ar http://download.opensuse.org/repositories/devel:/languages:/nodejs/openSUSE_11.4/ NodeJSBuildService 
     sudo zypper in nodejs nodejs-devel
 
-## Fedora 15 and 16
+## Fedora 15, 16 and 17
 
 To install node on **Fedora**:
 
