@@ -40,7 +40,7 @@ Do something like this
 tar -zxf node-v0.6.18.tar.gz #Download this from nodejs.org
 cd node-v0.6.18
 ./configure
-make -j 3
+make
 sudo make install
 ```
 
@@ -49,9 +49,9 @@ Or, if you'd like to install from the repository
 ```sh
 git clone https://github.com/joyent/node.git
 cd node
-git checkout v0.8.5 #Try checking nodejs.org for what the stable version is
+git checkout v0.6.18 #Try checking nodejs.org for what the stable version is
 ./configure
-make -j 3
+make
 sudo make install
 ```
 
