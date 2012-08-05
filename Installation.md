@@ -61,6 +61,8 @@ You may wish to install Node in a custom folder instead of a global directory.
     make
     sudo make install
 
+You can really speed up building process by adding `-j` argument with a number usually approximately equals number of cores plus one, so `make -j 3` would be appropriate for dual-core processor.
+
 You may want to put the node executables in your path as well for easier use. Add this line to your `~/.profile` or `~/.bash_profile` or `~/.bashrc` or `~/.zshenv`
 
     export PATH=$PATH:/opt/node/bin
