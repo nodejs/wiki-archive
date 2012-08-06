@@ -168,6 +168,8 @@ h2. UTC-8
 ** "Website":http://www.nunojob.com, "GitHub":http://github.com/dscape, "Twitter":http://twitter.com/dscape
 * Robby Colvin (geetarista), Palo Alto, CA, US
 ** "Website":http://robbycolvin.com, "Github":http://github.com/geetarista, "Twitter":http://twitter.com/geetarista
+* Steve Heffernan (heff), San Francisco, CA, US
+** "Website":http://steveheffernan.com, "Github":http://github.com/heff, "Twitter":http://twitter.com/heff
 
 h2. UTC-7 (-6)
 
