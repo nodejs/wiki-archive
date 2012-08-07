@@ -738,6 +738,7 @@ rendering process.
 * [sourcemint-platform-nodejs](https://github.com/sourcemint/platform-nodejs) — [sourcemint-loader-js](https://github.com/sourcemint/loader-js) (optimized CommonJS package mappings based JavaScript module loader) for NodeJS
 * [remap](https://github.com/dominictarr/remap) - reroute require for mocks, wrappers, or shenanigans (useful for testing)
 * [wrapit](https://github.com/omphalos/wrapit) - webservice to wrap any web resource in a header and footer; good for wrapping javascript files in require calls
+* [express-load](https://github.com/jarradseers/express-load) — Autoload scripts (routes, controllers, models...) into the Express application instance. 
 
 <a name="wiki-security"></a>
 ## [OpenSSL / Crypto / Hashing](#security)
