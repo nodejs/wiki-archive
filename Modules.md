@@ -1075,6 +1075,7 @@ rendering process.
 * [node-yajl](http://github.com/vibornoff/node-yajl) — SAX-like evented JSON stream parser using [yajl](http://lloyd.github.com/yajl) version 2 (fork of [yajl-js](http://bitbucket.org/nikhilm/yajl-js))
 * [props](https://github.com/pvorb/node-props) — Parse json or yaml from the beginning of text files.
 * [yajl-js](http://bitbucket.org/nikhilm/yajl-js) — SAX-like evented JSON parsing using [yajl](http://lloyd.github.com/yajl)
+* [jsvutil](https://github.com/fhellwig/jsvutil) - A Node.js utility wrapper for the JSON Schema Validator (JSV).
 
 <a name="wiki-parsers-xml"></a>
 ### [XML](#parsers-xml)
