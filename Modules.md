@@ -1760,3 +1760,4 @@ realtime balancing for live objects
 * [tty.js](https://github.com/chjj/tty.js) - a terminal for your browser
 * [version](https://github.com/edwardhotchkiss/version) — NodeJS package.json version number fetcher
 * [yui](http://github.com/yui/yui3) — YUI available in Node.js, ([extra docs](http://yuilibrary.com/yui/docs/yui/nodejs.html))
+* [strformat](https://github.com/fhellwig/strformat) - Node.js string formatting the way you expect it to work.
