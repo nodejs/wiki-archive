@@ -677,7 +677,7 @@ rendering process.
 <a name="wiki-deployment"></a>
 ### [Deployment](#deployment)
 
-* [azure] (http://github.com/windowsazure/azure-sdk-for-node) - Deploy and manage node.js applications to [Windows Azure](http://windowsazure.com), deloy and manage Linux and Windows Virtual Machines and more.
+* [azure] (http://github.com/windowsazure/azure-sdk-for-node) - Deploy and manage node.js applications to [Windows Azure](http://windowsazure.com), create Linux and Windows Virtual Machines and more.
 * [connect-girror](https://github.com/eladb/node-connect-girror) — Connect middleware which mounts an entire app from any git repository, spawns it and exposes a git post-receive hook endpoint.
 * [girror](https://github.com/eladb/node-girror) — Mirrors (and re-mirrors) git repositories.
 * [Gittyup](https://github.com/crcn/gittyup) — Application deployment library for node.js
