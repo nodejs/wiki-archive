@@ -677,6 +677,7 @@ rendering process.
 <a name="wiki-deployment"></a>
 ### [Deployment](#deployment)
 
+* [azure] (http://github.com/windowsazure/azure-sdk-for-node) - Deploy and manage node.js applications to [Windows Azure](http://windowsazure.com), deloy and manage Linux and Windows Virtual Machines and more.
 * [connect-girror](https://github.com/eladb/node-connect-girror) — Connect middleware which mounts an entire app from any git repository, spawns it and exposes a git post-receive hook endpoint.
 * [girror](https://github.com/eladb/node-girror) — Mirrors (and re-mirrors) git repositories.
 * [Gittyup](https://github.com/crcn/gittyup) — Application deployment library for node.js
@@ -1459,6 +1460,7 @@ rendering process.
 * [aws-snsclient](https://github.com/mattrobenolt/node-snsclient) — A client for handling Amazon AWS SNS endpoints
 * [aws2js](https://github.com/SaltwaterC/aws2js) — Amazon Web Services APIs client implementation for node.js. Simple to use and extend.
 * [awssum](https://github.com/appsattic/node-awssum) — NodeJS modules for talking to lots of Web Service APIs
+* [azure](http://github.com/windowsazure/azure-sdk-for-node) - A library for accessing [Windows Azure](http://windowsazure.com) services including Tables, Blobs, Queues and Service Bus.
 * [calais](https://github.com/mcantelon/node-calais) — Semantically analyze text using the Calais web service
 * [cloudfront](https://github.com/tellnes/node-cloudfront) — Amazon AWS CloudFront client
 * [cpanel-lib](https://github.com/vially/cpanel-lib) — Node.js client for the cPanel/WHM API
