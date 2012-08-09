@@ -1208,6 +1208,7 @@ rendering process.
 * [fastcgi-parser](https://github.com/billywhizz/node-fastcgi-parser) — FastCGI protocol parser and Writer
 * [glossy](https://github.com/squeeks/glossy) — Syslog message parser and producer
 * [groan](https://github.com/mscdex/groan) — A PHP session file parser
+* [JSML](https://github.com/pvorb/jsml) — JSON-like markup language that omits the surrounding braces
 * [lastname](https://github.com/selead/lastname) — Parse text and search persons by names and surnames. Only at russian for now.
 * [mailparser](https://github.com/andris9/mailparser) — Parse mime encoded e-mails into structured objects
 * [memcache-parser](https://github.com/billywhizz/node-memcache-parser) — Memcached binary protocol parser
