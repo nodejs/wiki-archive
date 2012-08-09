@@ -755,7 +755,8 @@ rendering process.
 * [node_nibbler](https://github.com/mattrobenolt/node_nibbler) — Base32/base64 encoder/decoder.
 * [node-cityhash](https://github.com/fbzhong/node-cityhash) — NodeJS bindings for [Google CityHash](http://code.google.com/p/cityhash/) , both CityHash64 and CityHash128 are supported.
 * [node-crypto](https://github.com/waveto/node-crypto) — OpenSSL based Hashing, Signing and Verifying
-* [node-gpg](https://github.com/drudge/node-gpg)
+* [node-gpg](https://github.com/drudge/node-gpg) - GPG encryption and decryption by way of the gpg command-line tool
+* [node-keychain](https://github.com/drudge/node-keychain) - Basic Keychain Access on Mac computers running Node.js
 * [node-hashring](https://github.com/3rd-Eden/node-hashring) — Hash ring provides consistent hashing based on the libketema library.
 * [node-oauth](https://github.com/ciaranj/node-oauth) — OAuth client (1 and 2)
 * [node-oauth2-provider](https://github.com/ammmir/node-oauth2-provider) — OAuth 2 provider as Connect/Express middleware with custom token storage hooks
