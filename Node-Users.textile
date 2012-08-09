@@ -267,6 +267,8 @@ h2. UTC-6 (-5)
 
 h2. UTC-5 (-4)
 
+* Nicholas Penree (drudge)
+** "GitHub":http://github.com/drudge, "Twitter":http://twitter.com/npenree, "Website":http://penree.com
 * Paul Barry (pjb3)
 ** "GitHub":http://github.com/pjb3, "Twitter":http://twitter.com/pjb3, "Website":http://paulbarry.com
 * Marak Squires (JimBastard)
