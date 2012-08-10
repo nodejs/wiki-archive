@@ -251,6 +251,7 @@ This list is for websites and applications that are powered by node.js. If you'v
 * "Kraken.io":http://kraken.io - Online image optimization tool.
 * "League of Stats":http://leagueofstats.com - League of Legends Summoner information look-up tool. 
 * "LifeInText":http://github.com/weilawei/LifeInText -- LiT is a mashup platform for personal projects and snippets.
+* "LiveChant":http://www.livechant.com -- LiveChant is an online platform to connect offline businesses to their users simply, directly and locally.
 * "Locker Project":http://lockerproject.org/ — Open source project for all your personal data.
 * "Loggly":http://loggly.com/ — Webservice for receiving syslog and HTTP based logs.
 * "Manifest Validator":http://manifest-validator.com - Check cache manifest files for web application offline storage
