@@ -1579,7 +1579,7 @@ rendering process.
 ## [Control flow / Async goodies](#async-flow)
 
 <a name="wiki-async-flow-libraries"></a>
-### Libraries
+### [Libraries](#async-flow-libraries)
 
 * [$N](https://github.com/chjj/-N) — Simple control flow with pretty syntax.
 * [async-mini](https://github.com/ypocat/async-mini) — Minimalistic async lib implementing only .parallel() and series(). Simple code, predictable behavior, server and browser.
@@ -1649,7 +1649,7 @@ rendering process.
 * [zo.js](https://github.com/refractalize/zo) — Async-friendly versions of the usual list processing functions: `map`, `select`, `reduce` and friends.
 
 <a name="wiki-async-flow-fibers"></a>
-### Fibers
+### [Fibers](#async-flow-fibers)
 
 * [asyncblock](https://github.com/scriby/asyncblock) — Simple and powerful interface to fibers
 * [fiberize](https://github.com/lm1/node-fiberize) — Node API wrapper for use with fibers.
@@ -1658,7 +1658,7 @@ rendering process.
 * [sync](https://github.com/0ctave/node-sync) — Write simple and readable synchronous code in nodejs using fibers (based on [node-fibers](https://github.com/laverdet/node-fibers))
 
 <a name="wiki-async-flow-extensions"></a>
-### Other Language Extensions
+### [Other Language Extensions](#async-flow-extensions)
 
 * [Cinch](https://github.com/pguillory/cinch) — Write async code in sync form.
 * [Jscex](http://github.com/JeffreyZhao/jscex) — Transforms sync code into monadic, async code as the async support in F# and Scala.
