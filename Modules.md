@@ -1575,24 +1575,21 @@ rendering process.
 <a name="wiki-async-flow"></a>
 ## [Control flow / Async goodies](#async-flow)
 
+<a name="wiki-async-flow-libraries"></a>
+### Libraries
+
 * [$N](https://github.com/chjj/-N) — Simple control flow with pretty syntax.
 * [async-mini](https://github.com/ypocat/async-mini) — Minimalistic async lib implementing only .parallel() and series(). Simple code, predictable behavior, server and browser.
 * [async.js](https://github.com/fjakobs/async.js) — Async chaining and file system utilities. Async.js is to node's fs module, what jQuery is to the DOM.
 * [async](https://github.com/caolan/async) — Comprehensive async map/reduce and control flow (parallel, series, waterfall, auto...) module that works in node and the browser
-* [asyncblock](https://github.com/scriby/asyncblock) — Simple and powerful interface to fibers
-* [atbar](https://github.com/mark-hahn/atbar) — Async callback manager for javascript in nodejs and browser
 * [backbone-callbacks](http://lorenwest.github.com/backbone-callbacks) — Node.js style callbacks for [Backbone.js](http://documentcloud.github.com/backbone) asynchronous methods
 * [begin](https://github.com/arumons/begin) — Control flow library for node.js and CoffeeScript
 * [chainsaw](https://github.com/substack/node-chainsaw) — Build chainable fluent interfaces the easy way in node.js
 * [channels](https://github.com/Pita/channels) — Event channels for node.js
-* [Cinch](https://github.com/pguillory/cinch) — Write async code in sync form.
 * [cloudd](https://github.com/truepattern/cloudd) — Job manager, runs set of tasks defined using a DAG definition
 * [deferred](https://github.com/medikoo/deferred) — Asynchronous control-flow with deferred and promises
 * [each](https://github.com/wdavidw/node-each) — Chained and parallel async iterator in one elegant function
 * [EventProxy.js](https://github.com/JacksonTian/eventproxy) — An implementation of task/event based asynchronous pattern. Use events to avoid dirty callbacks.
-* [fiberize](https://github.com/lm1/node-fiberize) — Node API wrapper for use with fibers.
-* [fibers-promise](https://github.com/lm1/node-fibers-promise) — Small yet powerful promises based on fibers.
-* [fibers](https://github.com/laverdet/node-fibers) — The closest thing to a thread you'll find in JavaScript
 * [first](https://github.com/DanielBaulig/first) — A tiny control-flow library.
 * [flow-js](https://github.com/willconant/flow-js) — Continuation-esque contruct for expressing multi-step asynchronous logic
 * [flowless](https://github.com/koichik/node-flowless) — Less but better control-flow library.
@@ -1604,14 +1601,12 @@ rendering process.
 * [jam](http://github.com/chakrit/jam) — Monadic continuation/callbacks/async helper.
 * [JobManager](https://github.com/demian85/node-jobmanager) — A really simple tool that helps you manage multiple asynchronous tasks.
 * [jscex-jquery](http://github.com/audreyt/jscex-jquery) — Jscex adapter to jQuery.Deferred API, with $.async/$await support
-* [Jscex](http://github.com/JeffreyZhao/jscex) — Transforms sync code into monadic, async code as the async support in F# and Scala.
 * [LAEH2](https://github.com/ypocat/laeh2) — Lightweight Asynchronous Error Handling v2. Wrap your asynchronous functions in an intelligent try/catch. Optional stack trace minification with async support, e.g.: `unexpected thing < ./ex1.js(9) << ./ex1.js(7 < 13)`.
 * [locker](https://github.com/bobrik/locker) (server) and [node-locker](https://github.com/bobrik/node-locker) (client) — lock server and client for distributed systems with waiting and execution timeouts.
 * [miniqueue](https://github.com/hsch/node-miniqueue) — A very simple in-memory queue for easy sequential processing
 * [narrow](https://github.com/0ctave/node-narrow) — Shrinks a given callback parallel execution concurrency in a limited number of threads, receiving a big bunch of data (array of tasks)
 * [nestableflow](https://github.com/minodisk/flow-js) — Asynchronous nestable flow-control (serial, parallel, repeat, wait, function) module for Node.js, RequireJS, and browser.
 * [neuron](https://github.com/indexzero/neuron) — The simplest possible event driven job manager, FIFO queue, and "task based cache" in node.js
-* [node_memo](https://github.com/akidee/node_memo) — Sophisticated function memoization
 * [node-async](https://github.com/Johanndutoit/node-async) — Executes a number of functions and returns the results of each function, when all are complete, for processing. Based on Narrow.
 * [node-block](https://github.com/tasogarepg/node-block) — An async control-flow library. Easily error handling.
 * [node-chain](https://github.com/ArtS/node-chain) — Simple call chaining library for node.js
@@ -1637,22 +1632,35 @@ rendering process.
 * [statechart](https://github.com/DavidDurman/statechart) — An implementation of Statecharts as described in *Practical Statecharts in C/C++: Quantum Programming for Embedded Systems* by Miro Samek.
 * [SCION](https://github.com/jbeard4/SCION) — An implementation of SCXML/Statecharts in JavaScript.
 * [seq](https://github.com/substack/node-seq) — Chainable asynchronous control flow for node.js with sequential and parallel primitives and pipeline-style error handling
-* [sexy](https://github.com/crabdude/sexy) — Proxy (ES5) for writing sequential asynchronous code in a synchronous style
 * [Signals](http://millermedeiros.github.com/js-signals/) — Custom Event/Messaging system which supports advanced features, doesn't rely on strings for the event publishing/subscribing and favor composition over inheritance.
 * [simple-schedule](https://github.com/SaltwaterC/simple-schedule) — Simple scheduler for dispatching a number of batch tasks at defined intervals
-* [sjs](https://github.com/elmerbulthuis/sjs) — Asynchronous JavaScript for synchronous people
 * [Slide](https://github.com/isaacs/slide-flow-control)  — A control flow library that fits in a slide presentation
 * [soda.js](https://github.com/tomyan/soda) — Asynchonous JavaScript module loader for client-side and Node.js
 * [Step](https://github.com/creationix/step) — Tool for grouping and chaining asynchronous callbacks, based on [flow-js](https://github.com/willconant/flow-js)
 * [stepc](https://github.com/akidee/stepc) — A CoffeeScript-safe version of creationix' step
 * [streamify](https://github.com/fent/node-streamify) — Streamify helps you easily provide a streaming interface for your code.
-* [streamline.js](https://github.com/Sage/streamlinejs) — Tool that transforms synchronous code into asynchronous code with callbacks.
-* [sync](https://github.com/0ctave/node-sync) — Write simple and readable synchronous code in nodejs using fibers (based on [node-fibers](https://github.com/laverdet/node-fibers))
 * [taskman](https://github.com/bryan-m-hughes/node-taskman) — A task management library for managing (possibly) asynchronous tasks by declaring task dependencies.
 * [timequeue](https://github.com/fent/timequeue.js) — A queue with custom concurrency and time limit.
 * [TwoStep](https://github.com/xavi-/two-step) — An async control-flow library that makes stepping through logic easy.  The spiritual successor of [Step](https://github.com/creationix/step) with better error handling and finer flow control.
 * [when](https://github.com/cujojs/when) — A lightweight CommonJS Promises/A and when() implementation. It also provides several other useful Promise-related concepts, such as joining and chaining, and has a robust unit test suite.
 * [zo.js](https://github.com/refractalize/zo) — Async-friendly versions of the usual list processing functions: `map`, `select`, `reduce` and friends.
+
+<a name="wiki-async-flow-fibers"></a>
+### Fibers
+
+* [asyncblock](https://github.com/scriby/asyncblock) — Simple and powerful interface to fibers
+* [fiberize](https://github.com/lm1/node-fiberize) — Node API wrapper for use with fibers.
+* [fibers-promise](https://github.com/lm1/node-fibers-promise) — Small yet powerful promises based on fibers.
+* [fibers](https://github.com/laverdet/node-fibers) — The closest thing to a thread you'll find in JavaScript
+* [sync](https://github.com/0ctave/node-sync) — Write simple and readable synchronous code in nodejs using fibers (based on [node-fibers](https://github.com/laverdet/node-fibers))
+
+<a name="wiki-async-flow-extensions"></a>
+### Other Language Extensions
+
+* [Cinch](https://github.com/pguillory/cinch) — Write async code in sync form.
+* [Jscex](http://github.com/JeffreyZhao/jscex) — Transforms sync code into monadic, async code as the async support in F# and Scala.
+* [sjs](https://github.com/elmerbulthuis/sjs) — Asynchronous JavaScript for synchronous people
+* [streamline.js](https://github.com/Sage/streamlinejs) — Tool that transforms synchronous code into asynchronous code with callbacks.
 
 <a name="wiki-i18n"></a>
 ## [I18n and L10n modules](#i18n)
