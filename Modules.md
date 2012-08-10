@@ -1664,6 +1664,7 @@ rendering process.
 * [Jscex](http://github.com/JeffreyZhao/jscex) — Transforms sync code into monadic, async code as the async support in F# and Scala.
 * [sjs](https://github.com/elmerbulthuis/sjs) — Asynchronous JavaScript for synchronous people
 * [streamline.js](https://github.com/Sage/streamlinejs) — Tool that transforms synchronous code into asynchronous code with callbacks.
+* [tamejs](https://github.com/maxtaco/tamejs/) — Library by OK Cupid for flattening out async code.
 
 <a name="wiki-i18n"></a>
 ## [I18n and L10n modules](#i18n)
