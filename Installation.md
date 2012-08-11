@@ -38,7 +38,7 @@ Do something like this
 
 ```sh
 tar -zxf node-v0.6.18.tar.gz #Download this from nodejs.org
-cd node-v0.6.18
+cd node-v0.8.4
 ./configure
 make
 sudo make install
