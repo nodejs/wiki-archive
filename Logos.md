@@ -1,4 +1,4 @@
-##Offical Logos
+##Official Logos
 ![Official Logo](http://nodejs.org/logos/nodejs.png)  
 [Download Official Logos](http://nodejs.org/logos/)
 
