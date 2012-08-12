@@ -34,11 +34,13 @@ Maybe you need to change your `PYTHONHOME` as well. If you have any further inst
 
 ## Building on GNU/Linux and other UNIX
 
+The filenames vary with the Node's version. The following examples are for Node v0.6.18.
+
 Do something like this
 
 ```sh
 tar -zxf node-v0.6.18.tar.gz #Download this from nodejs.org
-cd node-v0.8.4
+cd node-v0.6.18
 ./configure
 make
 sudo make install
