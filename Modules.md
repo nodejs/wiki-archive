@@ -1324,6 +1324,7 @@ rendering process.
 * [Windows Event Log Js](http://jfromaniello.github.com/windowseventlogjs/) — native Node.js module to log messages to the Microsoft Windows EventLog
 * [Winston](https://github.com/indexzero/winston) — A multi-transport async logging library for node.js
 * [PuperGrep](https://github.com/bobrik/pupergrep) - Real-time web view for your logs with hightlighting, grep and more.
+* [stdlog](https://github.com/fhellwig/stdlog) - A Node.js log utility that logs messages to stderr by default.
 
 <a name="wiki-ansi"></a>
 ### [Console colors and other ANSI codes](#ansi)
