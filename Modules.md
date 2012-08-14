@@ -1558,6 +1558,7 @@ rendering process.
 * [postageapp](https://github.com/postageapp/postageapp-nodejs) — A module for sending emails through the PostageApp JSON API
 * [rackit](https://github.com/rossj/rackit/) — A simple library for managing a large number of files on Rackspace Cloud Files (CloudFiles)
 * [ranger](https://github.com/mrduncan/ranger/) — A simple library which wraps Campfire's API
+* [rottentomatoes](https://github.com/Skookum/tomatoes) - Simple interface for the Rotten Tomatoes API
 * [sailthru-client](https://github.com/sailthru/sailthru-node-client) — A wrapper for Sailthru API
 * [sms](https://github.com/kaven276/sms) — Aimed at whole SGIP/SMPP nodes support for SMS system, now focused on SP function.
 * [SMSified-node](https://github.com/smsified/smsified-node) — A module for sending and receiving SMS messages (text messages) with the SMSified API.
