@@ -116,6 +116,7 @@ h2. Companies
 * "Palm/HP":http://developer.palm.com/ - powers all the services in the new WebOS platform for mobile devices.
 * "Pearson":http://pearson.com/
 * "Peek Inc.":http://www.peek.ly/ - Uses Node.js for lightweight ultrafast web services. Peek's cloud brings smart apps to ultra mass market devices from leading brands globally.
+* "Picturelife":http://picturelife.com -- private, secure backup of your photos.
 * "Pilvy":http://www.pilvy.com/ -- backend is all node.js, including syncing with third-party services
 * "Pixelspark":http://www.pixelspark.nl/ -- uses node.js for its "CoStore":http://costore.net online data collaboration and synchronization platform
 * "Plurk":http://www.plurk.com/ -- using node.js for its "new comet system":http://amix.dk/blog/post/19490#Plurk-Instant-conversations-using-comet
