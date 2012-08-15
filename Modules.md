@@ -1120,6 +1120,7 @@ rendering process.
 * [dreamopt](https://github.com/andreyvit/dreamopt.js) — Command-line parser with readable syntax from your sweetest dreams
 * [js-opts](http://www.bitbucket.org/mazzarelli/js-opts/) — Another simple command line option parser, easily installed via NPM
 * [mingy](https://github.com/mcantelon/node-mingy) — Command parser for CLI tool and adventure game needs. Works well with the optimist module.
+* [node-named-argv](https://github.com/ecdeveloper/node-named-argv) - Simple module for passing named parameters to node app.
 * [node-arguments](https://github.com/fczuardi/node-arguments) — Yet another simple command line option parser
 * [nomnom](https://github.com/harthur/nomnom) — Option parser with generated usage, support for callbacks and commands.
 * [nopt](https://github.com/isaacs/nopt) — The command line options parser npm uses.
