@@ -1788,3 +1788,4 @@ realtime balancing for live objects
 * [version](https://github.com/edwardhotchkiss/version) — NodeJS package.json version number fetcher
 * [yui](http://github.com/yui/yui3) — YUI available in Node.js, ([extra docs](http://yuilibrary.com/yui/docs/yui/nodejs.html))
 * [strformat](https://github.com/fhellwig/strformat) - Node.js string formatting the way you expect it to work.
+* [parambulator](https://github.com/rjrodger/parambulator) - A simple way to generate nice error messages for named parameters.
