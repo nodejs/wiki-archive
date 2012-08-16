@@ -1063,6 +1063,7 @@ rendering process.
 * [cloudshift-hx-node](https://github.com/cloudshift/hx-node) — Haxe wrappers for node
 * [cloudshift](https://github.com/cloudshift/cloudshift) — A Haxe Stack for Node.js
 * [dionjwa-nodejs_externs](https://github.com/dionjwa/nodejs_externs) — A collection of Node.js module externs for Haxe
+* [git-wrapper](https://github.com/pvorb/node-git-wrapper) — A wrapper around the git executable.
 * [java](https://github.com/nearinfinity/node-java) — Bridge API to connect with existing Java APIs
 * [node-tidy](https://github.com/leondealmeida/node-tidy) — a simple wrapper for tidy
 * [ping-wrapper2](https://github.com/sebastianmckenzie/ping-wrapper) — native unix wrapper for ping
@@ -1492,7 +1493,6 @@ rendering process.
 * [gdata-js](https://github.com/smurthas/gdata-js) — Simple Google Data API OAuth 2.0 wrapper
 * [geo](http://github.com/feliperazeek/geonode) — A very basic, but simple, geocode library, currently using Google Geocode API (v3)
 * [gist](https://github.com/emerleite/node-gist) — A gist creator. Create GISTs and use the generated URI.
-* [git-wrapper](https://github.com/pvorb/node-git-wrapper) — A wrapper around the git executable.
 * [gnip](https://github.com/demian85/gnip) — A simple library that allows you to connect to Gnip Twitter Power Track and manage rules easily.
 * [gravatar](https://github.com/emerleite/node-gravatar) — Well tested Node.JS Gravatar URL generator
 * [gumroad](https://github.com/vdemedes/node-gumroad) — API client for Gumroad. 100% coverage of available methods.
