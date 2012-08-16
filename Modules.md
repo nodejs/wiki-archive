@@ -1290,7 +1290,7 @@ rendering process.
 * [Node-JavaScript-Preprocessor](https://github.com/mcoolin/Node-JavaScript-Preprocessor) — Preprocessor for JavaScript
 * [node-profiler](https://github.com/bnoordhuis/node-profiler) — access the V8 profiler from node.js
 * [node-webkit-agent](https://github.com/c4milo/node-webkit-agent) — WebKit devtools agent that leverages remote debugging and profiling of nodejs applications using built-in webkit devtools front-end.
-* [nodetime](https://github.com/dmelikyan/nodetime) — performance profiler for node.js
+* [nodetime](https://github.com/nodetime/nodetime) — Performance profiler and monitor for Node.js applications
 * [profilejs](https://github.com/HerdHound/profilejs) — profiling middleware for use with node-inspector (profiles Express handlers)
 * [Replica](https://github.com/zentooo/Replica) — Repl to exec JavaScript code on browser
 * [spine](https://github.com/thrashaholic/spine) — Dynamic runtime monitoring for node.js applications inspired by lorenwest's monitor.
