@@ -170,6 +170,8 @@ h2. UTC-8
 ** "Website":http://robbycolvin.com, "Github":http://github.com/geetarista, "Twitter":http://twitter.com/geetarista
 * Steve Heffernan (heff), San Francisco, CA, US
 ** "Website":http://steveheffernan.com, "Github":http://github.com/heff, "Twitter":http://twitter.com/heff
+* Glenn Block (gblock), Seattle, WA, US
+** "Website":http://codebetter.com/glennblock, "Github":http://github.com/glennblock, "Twitter":http://twitter.com/gblock
 
 h2. UTC-7 (-6)
 
