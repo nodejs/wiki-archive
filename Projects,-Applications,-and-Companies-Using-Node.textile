@@ -51,6 +51,7 @@ h2. Companies
 * "Empeeric":http://www.empeeric.com - Alchemists of excellent software
 * "Erskine Design":http://erskinedesign.com/ -- Real(ish)-time SNMP monitoring dashboard using websockets
 * "e-resistible":http://www.e-resistible.co.uk - uses node to handle network communication to restaurant printers
+* "Errorception":http://errorception.com - uses node to manage and manipulate data about JavaScript errors in browser clients
 * "Fictorial":http://fictorial.com
 * "FeedHenry":http://www.feedhenry.com - uses node to host server-side JS for mobile apps in a MEAP (Mobile Enterprise Application Platform)
 * "Trello":http://blog.fogcreek.com/the-trello-tech-stack/ - is powered by Node
