@@ -1306,6 +1306,7 @@ rendering process.
 * [ain](https://github.com/akaspin/ain) — Brain-free syslog logging
 * [Caterpillar](https://github.com/bevry/caterpillar) — Caterpillar is an awesome, simple, intuitive console logger for node.js. It supports grouping of messages, filtering log levels, colors, times, modules, custom formatters and custom transports.
 * [cfdump.js](https://github.com/figital/cfdump.js) — a more visually inspiring way to dump your objects to a browser
+* [console-plus](https://github.com/itadakimasu/console-plus) — console logging with filenames and line numbers 
 * [flume-rpc](https://github.com/recoset/node-flume-rpc) — A flume-compatible (RPC) logging source and sink
 * [gelf-node](https://github.com/robertkowalski/gelf-node) - gelf-node is a full implementation for sending messages in GELF (Graylog Extended Log Format) from node.js to Graylog
 * [hexy.js](https://github.com/a2800276/hexy.js) — hex pretty printing like xxd
