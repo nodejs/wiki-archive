@@ -22,6 +22,7 @@ h2. Companies
 * "BrandedCode":http://brandedcode.com
 * "Brightin":http://brightin.nl - Creating simple, often realtime, apps
 * "browserling":http://browserling.com - test all the browsers in your browser!
+* "BrowserQuest":http://browserquest.mozilla.org/ - Mozilla's experimental, browser-based MMORPG.
 * "Bubbler":http://bubbler.com - Bubbles up contextually useful information as you work!
 * "Caffeinehit":http://caffeinehit.com
 * "Camplight":http://camplight.net - Open company.
