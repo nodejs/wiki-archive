@@ -1765,6 +1765,7 @@ realtime balancing for live objects
 * [box2dnode](https://github.com/jadell/box2dnode) — Port of the box2d physics simulation library
 * [browserify](https://github.com/substack/node-browserify) — Browser-side require() for your node modules and npm packages
 * [bullet](https://github.com/feisty/bullet) — [Bullet Physics](http://bulletphysics.org/) for node.js
+* [compare.js](https://github.com/goloroden/compare.js) - Reliable comparison operators for Node.js the way you would expect them to be.
 * [crud-bones](http://words.alexeypro.com/crud-bones/) — CRUD boilerplate/template for Node.JS/Mongo/MySQL/Redis/Express/EJS/Cluster/etc.
 * [descriptive-statistics](http://fgribreau.github.com/descriptive_statistics/) — Descriptive Statistics for JavaScript
 * [difflib.js](https://github.com/qiao/difflib.js) — Text diff library, ported from Python's difflib module
