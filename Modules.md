@@ -1324,6 +1324,7 @@ rendering process.
 * [node-streamlogger](https://github.com/andrewvc/node-streamlogger) — Extensively customizable logging, with support for rotation
 * [node-tick](https://github.com/sidorares/node-tick) — v8.log processor
 * [NodeLog](https://github.com/FabianM/NodeLog) — Logging library for Node.js based on the java.util.logging library.
+* [onelog](https://github.com/vjpr/onelog) - Logging consolidation library
 * [nogg](https://github.com/jaekwon/nogg) — Simple file/stdio logging for node.js
 * [spruce](https://github.com/MarkPNeyer/spruce) — configurable node.js logging module (Note: 404 error on link.)
 * [tracer](https://github.com/baryon/tracer) — A powerful and customizable logging library for node.js. support color console with timestamp, line number, method name, file name and call stack. you can set transport to file, stream, database(ex: mongodb and clouddb, simpledb). keywords: log, logger, trace
