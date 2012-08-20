@@ -690,6 +690,7 @@ rendering process.
 * [connect-girror](https://github.com/eladb/node-connect-girror) — Connect middleware which mounts an entire app from any git repository, spawns it and exposes a git post-receive hook endpoint.
 * [girror](https://github.com/eladb/node-girror) — Mirrors (and re-mirrors) git repositories.
 * [Gittyup](https://github.com/crcn/gittyup) — Application deployment library for node.js
+* [gogogo](https://github.com/idottv/gogogo) - Easy automatic deployment and management to any server with upstart (ubuntu)
 * [haibu](https://github.com/nodejitsu/haibu) — a node.js application server - spawn your own node.js clouds, on your own hardware
 * [jitsu](https://github.com/nodejitsu/jitsu) — Flawless command line deployment of your Node.js apps to the cloud
 * [npkg](https://github.com/wearefractal/npkg) — Generates cross-platform installers for Node.js applications
