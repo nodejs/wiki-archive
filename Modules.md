@@ -1530,7 +1530,7 @@ rendering process.
 * [node-foursquare](https://github.com/clintandrewhall/node-foursquare) — A wrapper for the Foursquare v2 API.
 * [node-gadgets](https://github.com/Ayms/node-gadgets) — Real-time extraction from web pages of HTML gadgets and associated properties using node-dom based on given criterias
 * [node-gdata](https://github.com/ammmir/node-gdata) — A generic Google Data API client library
-* [node-gisty](https://github.com/meritt/node-4sq) — Node.js client for the GitHub gist API v3.
+* [node-gisty](https://github.com/meritt/node-gisty) — Node.js client for the GitHub gist API v3.
 * [node-github](https://github.com/ajaxorg/node-github) — A wrapper for the [GitHub API](http://develop.github.com/)
 * [node-gitteh](https://github.com/libgit2/node-gitteh) — Async, stable, feature-complete bindings for the [libgit2](http://libgit2.github.com/) library.
 * [node-googleanalytics](https://github.com/ncb000gt/node-googleanalytics) — Google Analytics GData export library
