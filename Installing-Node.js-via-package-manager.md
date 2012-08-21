@@ -38,14 +38,14 @@ If you want to compile Node C++ modules:
 
 Or configure shell script for install node.js using http://apptob.org
 
-## openSUSE & SLES
-[Node.js stable repos list](https://build.opensuse.org/package/show?package=nodejs&project=devel%3Alanguages%3Anodejs).
+## openSUSE & SLE
+[Node.js stable repos list](https://build.opensuse.org/package/show?package=nodejs&project=devel%3Alanguages%3Anodejs). Also node.js is available in openSUSE:Factory repository.
 
-Available RPM packages for: openSUSE 11.4, 12.1, Factory and Tumbleweed.
+Available RPM packages for: openSUSE 11.4, 12.1, Factory and Tumbleweed; SLE 11 (with SP1 and SP2 variations).
 
-Example install on openSUSE 11.4:
+Example install on openSUSE 12.1:
 
-    sudo zypper ar http://download.opensuse.org/repositories/devel:/languages:/nodejs/openSUSE_11.4/ NodeJSBuildService 
+    sudo zypper ar http://download.opensuse.org/repositories/devel:/languages:/nodejs/openSUSE_12.1/ NodeJSBuildService 
     sudo zypper in nodejs nodejs-devel
 
 ## Fedora 15, 16 and 17
