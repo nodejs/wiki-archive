@@ -20,6 +20,7 @@ Name | Node Version | Web Sockets | IP/Hostname | IRC | Repository | Free Plan |
 [Node Ninja(JP)](https://node-ninja.com) | 0.6.11 | Yes | Yes | | | Yes |  | In Private Beta
 [NAE(CN)](http://cnodejs.net) | 0.6.2 | Yes | Just allow *.cnodejs.net or custom domain | | | Yes - You can create 10 apps. And you can request a MongoDB for every app. | | Open (with invite)
 [OpenShift](https://openshift.redhat.com/) | 0.6.10 | No (on the roadmap) | Yes | #openshift | [openshift](https://github.com/openshift) | Yes | | Open
+[Windows Azure](http://www.windowsazure.com/en-us/develop/nodejs/) | 0.6+ |Yes (Worker Role) | Yes || [Azure-Sdk-for-Node](http://github.com/WindowsAzure/azure-sdk-for-node) |3 month free trial 10 free web sites forever | Yes ||
 
 Empty cells mean we weren't sure what to put there. 
 
@@ -56,6 +57,7 @@ VPS providers, which often require you to set everything up yourself, including 
 * [W2Servers](http://w2servers.com)
 * [Webbynode](http://www.webbynode.com) - [setup guide](http://blog.dtrejo.com/nodejs-for-server-newbs) - [deployment guide](http://guides.webbynode.com/articles/rapidapps/nodejs.html) - [screencast](http://vimeo.com/15406437)
 * [WebFaction](http://webfaction.com) - [setup guide](http://davestevens.us/articles/setting-up-nodejs-on-webfaction-revised)
+* [Windows Azure](https://www.windowsazure.com/en-us/develop/nodejs/tutorials/linux-virtual-machine/)
 * [Zerigo](http://www.zerigo.com/)
 
 ## DIY Platforms
