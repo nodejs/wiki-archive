@@ -1193,6 +1193,7 @@ rendering process.
 
 * [iniparser](https://github.com/shockie/node-iniparser) — a simple .ini parser
 * [inireader](https://github.com/Ajnasz/IniReader) — .ini file parser
+* [node-ini](https://github.com/PastorBones/node-ini) — A simple .ini config parser that supports sections, comments, arrays, and objects.
 
 <a name="wiki-parser-generators"></a>
 ### [Parser generators](#parser-generators)
