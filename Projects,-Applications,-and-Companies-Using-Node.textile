@@ -1,6 +1,6 @@
 h2. Companies
 
-* "Marlabs":http://marlabs.com/ -- Building Node.js cloud apps on the Windows Azure programming.
+* "Marlabs":http://marlabs.com/ -- Uses Node.js to build cloud apps on the Windows Azure.
 * "13 pass":http://www.13pass.com/ -- Uses node.js and mongoDb to deals with API or realtime websocket programming.
 * "37Signals":http://www.37signals.com/ -- Used node.js to write "Pow":http://pow.cx/, zero configuration Rack server for OS/X.
 * "4TIC":http://4tic.com -- Amazing & Rich web applications.
