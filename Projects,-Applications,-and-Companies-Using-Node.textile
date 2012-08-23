@@ -153,6 +153,7 @@ h2. Companies
 * "Thinkfuse":http://www.thinkfuse.com
 * "TRData Limited":https://trdata.com - real-time data processing and comet-server
 * "Trellon":https://trellon.com - making node.js work with Drupal
+* "Uber":https://uber.com - Everyone's Private Driver
 * "URGE IO":http://urge.io
 * "UrbanTouch.com":http://www.urbantouch.com -- Online Beauty Store (E-Commerce) based in India
 * "Votizen":http://votizen.com -- Social lobbying for registered voters.
