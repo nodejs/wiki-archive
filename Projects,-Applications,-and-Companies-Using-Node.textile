@@ -1,6 +1,5 @@
 h2. Companies
 
-* "Marlabs":http://marlabs.com/ -- Uses Node.js to build cloud apps on the Windows Azure.
 * "13 pass":http://www.13pass.com/ -- Uses node.js and mongoDb to deals with API or realtime websocket programming.
 * "37Signals":http://www.37signals.com/ -- Used node.js to write "Pow":http://pow.cx/, zero configuration Rack server for OS/X.
 * "4TIC":http://4tic.com -- Amazing & Rich web applications.
@@ -94,6 +93,7 @@ h2. Companies
 * "LocalStars":http://www.localstars.com - Using NodeJS, Mongo & Redis for scalable webservices
 * "Lucky Orange":http://www.luckyorange.com - Using NodeJS for chat and for watching browser sessions in realtime.
 * "M-Way Solutions":http://www.mwaysolutions.com -- Developing node.js based build tools for The-M-Project
+* "Marlabs":http://marlabs.com/ -- Uses Node.js to build cloud apps on the Windows Azure.
 * "Mass":http://mass.io - High traffic community sites, services and e-commerce.
 * "Medium":http://thisismedium.com
 * "Microsoft":http://www.microsoft.com - Core contributor to node.js for Windows. Uses node.js internally and provides cloud hosting for node.js applications in "Windows Azure":https://www.windowsazure.com/en-us/develop/nodejs/
