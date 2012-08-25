@@ -84,6 +84,13 @@ Node.js is available through the ports system.
 
     /usr/ports/www/node
 
+Development versions are also available using ports 
+
+    cd /usr/ports/www/node-devel/ && make install clean
+
+or packages on FreeBSD
+
+    pkg_add -r node-devel
 
 ## OSX
 Using [a package](http://nodejs.org/#download)
