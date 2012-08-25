@@ -1226,6 +1226,7 @@ rendering process.
 * [lastname](https://github.com/selead/lastname) — Parse text and search persons by names and surnames. Only at russian for now.
 * [mailparser](https://github.com/andris9/mailparser) — Parse mime encoded e-mails into structured objects
 * [memcache-parser](https://github.com/billywhizz/node-memcache-parser) — Memcached binary protocol parser
+* [node-office](https://github.com/dkiyatkin/node-office) — Parse office documents (odt, doc, docx, ods, xls, etc..) (unoconv, xlhtml)
 * [node_spreadsheet](https://github.com/shimondoodkin/node_spreadsheet) — Read xls,xlsx,ods,csv spreadsheets (php based)
 * [node-brainfuck](https://github.com/masylum/node-brainfuck) — Brainfuck interpreter
 * [node-browscap](https://github.com/dangrossman/node-browscap) — browscap.ini parser and port of PHP's get_browser function
