@@ -1475,7 +1475,7 @@ rendering process.
 * [airship](https://github.com/jherdman/airship) — an Urban Airship API wrapper
 * [akismet-js](https://github.com/oozcitak/akismet-js) — A client for the [Akismet spam detection API](http://akismet.com/development/api/)
 * [alleup](https://github.com/tih-ra/alleup) - Flexible way to resize and upload images to Amazon S3 or file system storages
-* [authome](https://github.com/jed/authome) - A dependency-free mutli-service authentication tool
+* [authom](https://github.com/jed/authom) - A dependency-free mutli-service authentication tool
 * [aws-lib](https://github.com/mirkok/aws-lib) — An extensible library for Amazon Web Services including EC2, SimpleDB and the Product Advertising API
 * [aws-snsclient](https://github.com/mattrobenolt/node-snsclient) — A client for handling Amazon AWS SNS endpoints
 * [aws2js](https://github.com/SaltwaterC/aws2js) — Amazon Web Services APIs client implementation for node.js. Simple to use and extend.
