@@ -1,6 +1,6 @@
 # Node.js community wiki
 
-**Attention Node Users**<br>Current stable version is 0.8. If you are currently using 0.6, please read [API changes between v0.6 and v0.8](https://github.com/joyent/node/wiki/API-changes-between-v0.6-and-v0.8) and update your programs accordingly.
+**Attention Node Users**<br>Current stable version is 0.8. If you are currently using 0.6, please read [[API changes between v0.6 and v0.8]] and update your programs accordingly.
 
 ## Introduction
 
@@ -8,17 +8,17 @@ Node.js is a server-side JavaScript environment that uses an asynchronous event-
 
 ## Installation
 
-The [installation guide](https://github.com/joyent/node/wiki/Installation) explains how to get started installing Node.js and the Node Package Manager (NPM) on your system.
+The [[installation guide|Installation]] explains how to get started installing Node.js and the Node Package Manager (NPM) on your system.
 
 ## FAQ
 
-The [FAQ](https://github.com/ry/node/wiki/FAQ) answers common questions people have about Node.js.
+The [[FAQ]] answers common questions people have about Node.js.
 
 ## Users
 
 Come talk to us in the **#node.js** IRC channel on [freenode.net](http://webchat.freenode.net/?channels=node.js&uio=d4) or on the [nodejs Google group](http://groups.google.com/group/nodejs).
 
-* [Projects, Applications, and Companies using Node](https://github.com/ry/node/wiki/Projects,-Applications,-and-Companies-Using-Node)
+* [[Projects, Applications, and Companies using Node]]
 
 ## Modules
 
@@ -26,19 +26,19 @@ Most modules can be found by [searching the npm registry](http://search.npmjs.or
 
 Alternatively, use [nipster](http://eirikb.github.com/nipster/), or [toolbox](http://toolbox.no.de/), or [npmdocs](http://npmdoc.nodejitsu.com/).
 
-There is also [a list of modules](https://github.com/joyent/node/wiki/Modules) on this wiki.
+There is also [[a list of modules|Modules]] on this wiki.
 
 ## Hosting
 
-* [Managed providers, Self-Managed and DIY Platforms](https://github.com/joyent/node/wiki/Node-Hosting)
+* [[Managed providers, Self-Managed and DIY Platforms|Node Hosting]]
 
 ## Resources
 
-Besides the documentation on the [official site](http://nodejs.org) here are links to [other resources](https://github.com/ry/node/wiki/Resources).
+Besides the documentation on the [official site](http://nodejs.org) here are links to [[other resources|Resources]].
 
 ## Project Organization
 
-* [Information about who runs the project](https://github.com/ry/node/wiki/Project-Organization)
+* [[Information about who runs the project|Project Organization]].
 
 ## ChangeLog
 
@@ -46,7 +46,7 @@ Node releases a new version every one or two weeks. The ChangeLog can always be 
 
 ## Contributing
 
-See the [Contributing](https://github.com/ry/node/wiki/Contributing) page.
+See the [[Contributing]] page.
 
 ## API Documents
 
@@ -56,4 +56,4 @@ For previous versions, see [Documentation Index](http://nodejs.org/docs) page.
 
 ## Logos
 
-* [Official and Community Logos](https://github.com/joyent/node/wiki/Logos)
+* [[Official and Community Logos|Logos]]
