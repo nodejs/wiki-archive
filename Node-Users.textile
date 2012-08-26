@@ -462,6 +462,8 @@ h2. UTC±0 (0)
 ** "Website":http://www.thinkdigital.pt, "GitHub":http://github.com/dresende, "Twitter":http://twitter.com/dresende
 * Sérgio Ramos (ramitos), Portugal
 ** "Website":http://sergioramos.me, "GitHub":http://github.com/ramitos, "Twitter":http://twitter.com/ramitos
+* Igor Soarez (Soarez)
+** "GitHub":http://github.com/Soarez, "Twitter":http://twitter.com/igorsoarez
 
 h2. UTC±0 (+1)
 
