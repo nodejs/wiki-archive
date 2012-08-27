@@ -993,6 +993,7 @@ rendering process.
 * [Cup of Tea?](https://github.com/refractalize/cupoftea) — BBD-style Unit Testing for Async apps.
 * [databasecleaner](https://github.com/emerleite/node-database-cleaner) — Clean your database after each test. Supports MongoDB, Redis and CouchDB. Will support MySQL and others.
 * [datagen](http://github.com/cliffano/datagen) - Multi-process test data files generator
+* [dokimon](https://github.com/victorjonsson/nodejs-dokimon) — A nodejs module used to setup automated tests of various kinds.
 * [ensure](https://github.com/dscape/ensure) — nodejs testing made easy with vows or node-tap
 * [espionage](https://github.com/smtlaissezfaire/espionage) — A mock/stub framework using the test spy pattern.
 * [exemplor.js](https://github.com/chrislloyd/exemplor.js) — A port of [exemplor](https://github.com/quackingduck/exemplor) with Node goodness.
