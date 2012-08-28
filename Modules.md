@@ -1070,6 +1070,7 @@ rendering process.
 
 * [Coffee-Injector](https://github.com/Ezku/coffee-injector) — An asynchronous dependency injection container written in coffeescript.
 * [rewire](http://jhnns.github.com/rewire/) — Dependency injection for node.js applications
+* [dependable](https://github.com/idottv/dependable) - Automatic dependency resolution without tweaking require
 
 <a name="wiki-wrappers"></a>
 ## [Wrappers](#wrappers)
