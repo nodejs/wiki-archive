@@ -1074,6 +1074,7 @@ rendering process.
 * [Coffee-Injector](https://github.com/Ezku/coffee-injector) — An asynchronous dependency injection container written in coffeescript.
 * [rewire](http://jhnns.github.com/rewire/) — Dependency injection for node.js applications
 * [dependable](https://github.com/idottv/dependable) - Automatic dependency resolution without tweaking require
+* [Medic Injector](https://github.com/DrBenton/Medic-Injector-JS) - A light-weight Javascript Dependency Injection tool, strongly inspired by the great ActionScript3 [RobotLegs](http://www.robotlegs.org/) framework and it SwiftSuspenders IoC container
 
 <a name="wiki-wrappers"></a>
 ## [Wrappers](#wrappers)
