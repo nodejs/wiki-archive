@@ -65,6 +65,7 @@ VPS providers, which often require you to set everything up yourself, including 
 Node.JS hosting platforms that allow you to host Node.JS apps on your own servers or clouds.
 
 * [Nodester](http://nodester.com/) - Open source Node.JS hosting platform and services
+* [CloudFoundry](https://github.com/cloudfoundry) - Open source PaaS with support for NodeJS
 * [OpenShift](https://openshift.redhat.com/community/open-source) - Open source polyglot PaaS with native support for Node.js
 * [Nodejitsu](http://github.com/nodejitsu)
   * [haibu](http://github.com/nodejitsu/haibu) - Open-source Node.js Application Server
