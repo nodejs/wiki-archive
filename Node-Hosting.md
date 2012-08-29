@@ -6,7 +6,7 @@ Managed providers provide a simplified "Node Appliance" solution. Node and NPM w
 
 Name | Node Version | Web Sockets | IP/Hostname | IRC | Repository | Free Plan | Paid Plans | Notes |
 :-----------|:------------|:-------------|:-------------|:-------------|:-------------|:-------------|:-------------|:-------------------------------------|
-[appfog](http://appfog.com/) | 0.4.12, 0.6.17 | | | | [cloudfoundry](https://github.com/cloudfoundry) | Yes – up to 2G RAM for your applications | Yes – monthly subscriptions and enterprise support available | General Availability
+[appfog](http://appfog.com/) | 0.4.12, 0.6.17 | | Yes | | [cloudfoundry](https://github.com/cloudfoundry) | Yes – up to 2G RAM for your applications | Yes – monthly subscriptions and enterprise support available | General Availability
 [bejes.us](http://bejes.us) | | | | | | | | Beta Coming Soon (accepting signups) - powered by Nodester 
 [Cloud Foundry](http://www.cloudfoundry.com) | | | No | | [cloudfoundry](https://github.com/cloudfoundry) | Yes - Only during beta. | | Beta, accepting signups
 [Cloudnode](http://cloudno.de) | 0.4.12, 0.6.17 | Yes | Yes | | | Yes - Up to 3 VMs, 25 MB CouchDB space, 250,000 requests/month. | | Beta (accepting signups) - powered by Nodester 
