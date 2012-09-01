@@ -796,6 +796,8 @@ rendering process.
 * [sha1](https://github.com/pvorb/node-sha1) — Plain JavaScript SHA-1 hashing function
 * [speakeasy](https://github.com/markbao/speakeasy) — Easy two-factor authentication. Time-based or counter-based one-time passwords with the HMAC One-Time Password algorithms. Supports Google Authenticator.
 * [ursa](https://github.com/Obvious/ursa) — A clean and reasonably complete set of wrappers for OpenSSL's RSA functionality.
+* [xml-crypto](https://github.com/yaronn/xml-crypto) — Xml digital signature and encryption library for Node.js - written in pure javascript.
+
 
 <a name="wiki-smtp"></a>
 ## [SMTP](#smtp)
@@ -918,6 +920,8 @@ rendering process.
 * [thintalk](https://github.com/AndreasMadsen/thintalk) — A minimal extendable RPC abstraction with buildin TPC and IPC support
 * [xmlrpc](https://github.com/baalexander/node-xmlrpc) — A pure JavaScript XML-RPC server and client
 * [zeromq.node](https://github.com/JustinTulloss/zeromq.node) — 0MQ (zeroMQ) bindings for node.js
+* [ws.js](https://github.com/yaronn/ws.js) — A WS-* client stack for node.js. Written in pure javascript! 
+* [wcf.js](https://github.com/yaronn/wcf.js) — A WCF-compatible web service client stack for node.js. Written in pure javascript! 
 
 <a name="wiki-ws-ajax"></a>
 ## [Web Sockets & Ajax](#ws-ajax)
@@ -1129,6 +1133,8 @@ rendering process.
 * [xml-stream](https://github.com/assistunion/xml-stream) — XML stream parser and editor, based on node-expat.
 * [xml2json](https://github.com/buglabs/node-xml2json) — Simple SAX based XML to JSON parser. It uses node-expat.
 * [xmldom](https://github.com/jindw/xmldom) — A PURE JS W3C Standard based DOMParser and XMLSerializer (DOM Level2 CORE).
+* [xml-crypto](https://github.com/yaronn/xml-crypto) — Xml digital signature and encryption library for Node.js - written in pure javascript.
+
 
 <a name="wiki-parsers-commandline"></a>
 ### [Command line option parsers](#parsers-commandline)
