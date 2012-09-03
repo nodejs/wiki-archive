@@ -1718,7 +1718,7 @@ rendering process.
 * [dialect-http](https://github.com/masylum/dialect-http) — http client to manage your dialect translations.
 * [dialect](https://github.com/masylum/dialect) — Translations for nodejs.
 * [i18n-node](https://github.com/mashpie/i18n-node) — Exports common __(), __n() syntax. Stores JSON objects dynamically on code-change.
-* [i18next](https://github.com/jamuhl/i18next-node) — full-featured (plurals, vars, context, nesting,...), express middleware, template support, clientside usage/sharing
+* [i18next](http://i18next.com/node/index.html) — full-featured (plurals, vars, context, nesting,...), express middleware, template support, clientside usage/sharing
 * [inflect](https://github.com/MSNexploder/inflect) — A port of the Rails / ActiveSupport inflector to JavaScript (node.js and browser compatible).
 * [Lingo](http://bit.ly/cuaHAh) — Inflection, transformation and more
 * [lingua](https://github.com/akoenig/express-lingua) — A i18n middleware for the Express.js framework.
