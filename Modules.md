@@ -1766,6 +1766,7 @@ rendering process.
 * [rule-validator](https://github.com/adrai/rule-validator) — Rule-validator is a javascript module based on amanda. And works for node.js and in the browser. It can be very useful if you work with (d)ddd, cqrs, eventsourcing, domain, commands and events, etc.
 realtime balancing for live objects
 * [cqrs-commands](https://github.com/goloroden/cqrs-commands) - cqrs-commands is a middleware for Connect / Express to create and manage commands.
+* [cqrs-bus](https://github.com/goloroden/cqrs-bus) - cqrs-bus is a message queue for sending and receiving commands, events & co.
 
 <a name="wiki-desktop-app"></a>
 ## [Desktop application related](#desktop-app)
