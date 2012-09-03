@@ -397,6 +397,8 @@ h2. UTC-5 (-4)
 ** "Github":http://github.com/zzak, "Website":http://zacharyscott.net/, "Blog":http://blog.zacharyscott.net/
 * Justin Plock, Fairfield, CT, US
 ** "Github":http://github.com/jplock, "Twitter":http://twitter.com/jplock
+* Nicholas Poorman (poorman), Syracuse, NY
+** "Github":http://github.com/nickpoorman, "Twitter":http://twitter.com/nickpoorman, "Website":http://poorman.me/
 
 h2. UTC-4 (-3)
 
