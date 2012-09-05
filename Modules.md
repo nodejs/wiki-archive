@@ -1711,6 +1711,7 @@ rendering process.
 * [qjs](https://github.com/ForbesLindesay/QJS) — transforms synchronous looking code that uses Q promises into asynchronous code.
 * [sjs](https://github.com/elmerbulthuis/sjs) — Asynchronous JavaScript for synchronous people
 * [streamline.js](https://github.com/Sage/streamlinejs) — Tool that transforms synchronous code into asynchronous code with callbacks.
+* [syncasync.js](https://github.com/goloroden/syncasync.js) - syncasync.js allows you to run synchronous functions asynchronously, and asynchronous functions synchronously.
 * [tamejs](https://github.com/maxtaco/tamejs/) — Library by OK Cupid for flattening out async code.
 
 <a name="wiki-i18n"></a>
