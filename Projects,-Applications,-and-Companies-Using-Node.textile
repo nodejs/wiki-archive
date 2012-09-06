@@ -252,6 +252,7 @@ This list is for websites and applications that are powered by node.js. If you'v
 * "GrowlHub":http://github.com/idris/growlhub - Growl Notifications for GitHub
 * "gwt-node":https://github.com/cretz/gwt-node - Node.js in GWT allowing apps to be written in Java.
 * "Hummingbird":http://hummingbirdstats.com/ -- A realtime web analytics app using socket.io
+* "Html2pdf.it":http://html2pdf.it/ -- Service for converting HTML to PDF using the API
 * "instant message God":http://imgod.me - Social Art project using node and MySQL
 * "instapolls":http://instapoll.in - Realtime polls using node.js, Socket.IO and mongodb
 * "JamBox":http://jambox.us/ – a collaborative real-time musicmaking app.
@@ -273,6 +274,7 @@ This list is for websites and applications that are powered by node.js. If you'v
 * "minlint":https://github.com/tsmith/minlint - minimalist version of jslint from command line
 * "Multi Touch Multi User Canvas":https://github.com/eddanger/Multi-Touch-Multi-User-Canvas - Node.js, Socket.IO, Express, and a multi touch canvas!
 * "MultiplayerChess.com":http://multiplayerchess.com - Quickest way to play chess. 
+* "Muscula":http://muscula.com - Log you JavaScript errors in production. "architecture":http://www.muscula.com/architecture
 * "Nextdays":http://www.nextdays.com - The fun and easy way for social planning - uses Node.js, Express, Mongoose, Passport and related modules.
 * "NewsQast.net":http://www.newsqast.net - Local news, weather, traffic, and more.
 * "nakliyem.net":http://nakliyem.net - Transportation business network.
