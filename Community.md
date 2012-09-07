@@ -1,10 +1,10 @@
 * [Home page with documentation](http://nodejs.org/)
 * [User mailing list](http://groups.google.com/group/nodejs)
-* [Development list](http://groups.google.com/group/nodejs-dev)
 * [IRC](http://webchat.freenode.net/?channels=node.js) on irc://irc.freenode.net/node.js
    * [nodejs irc logs](http://nodejs.debuggable.com/)
 * [Linkedin Node.js group](http://www.linkedin.com/groups?home=&gid=2906459&trk=anet_ug_hm)
 * [Node.js QA](http://stackoverflow.com/questions/tagged/node.js) on Stack Overflow
+* [NodeUp](http://nodeup.com) Node.js podcast
 
 For help and discussion subscribe to the mailing list at or send an email to nodejs+subscribe@googlegroups.com. 
 For real-time discussion, check irc.freenode.net #node.js or Stack Overflow [chat room](http://chat.stackoverflow.com/rooms/642/node-js.)
