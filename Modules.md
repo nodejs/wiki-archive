@@ -1301,6 +1301,7 @@ rendering process.
 * [meta-fs](https://github.com/dvv/meta-fs) — Patches the Node.js `fs` object with methods that find files, delete directory trees, create nested directories, make symlinks, copy files and directories.
 * [pathspec](https://github.com/andreyvit/pathspec.js) — Shell- and .gitignore/.npmignore-style wildcards and file lists
 * [wrench](https://github.com/ryanmcgrath/wrench-js) — Recursive operations (create directory, delete directory, read contents, chmod, chown, deep copy). Line-by-line reader. Asynchronous read of directories contents.
+* [qfs](https://github.com/tommy351/qfs) - File I/O in jQuery way
 
 <a name="wiki-debugging-and-console"></a>
 ## [Debugging / console utilities](#debugging-and-console)
