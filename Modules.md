@@ -1769,8 +1769,9 @@ rendering process.
 * [nodeEventStore](https://github.com/KABA-CCEAC/nodeEventStore) — EventStore (Events and Snapshots) supporting MongoDb, CouchDb, Redis
 * [rule-validator](https://github.com/adrai/rule-validator) — Rule-validator is a javascript module based on amanda. And works for node.js and in the browser. It can be very useful if you work with (d)ddd, cqrs, eventsourcing, domain, commands and events, etc.
 realtime balancing for live objects
-* [cqrs-commands](https://github.com/goloroden/cqrs-commands) — cqrs-commands is a middleware for Connect / Express to create and manage commands.
 * [cqrs-bus](https://github.com/goloroden/cqrs-bus) — cqrs-bus is a message queue for sending and receiving commands, events & co.
+* [cqrs-commands](https://github.com/goloroden/cqrs-commands) — cqrs-commands is a middleware for Connect / Express to create and manage commands.
+* [cqrs-events](https://github.com/goloroden/cqrs-events) — cqrs-events creates and manages events.
 * [cqrs-handlers](https://github.com/goloroden/cqrs-handlers) — cqrs-handlers is a module to dynamically handle CQRS commands.
 
 <a name="wiki-desktop-app"></a>
