@@ -1816,7 +1816,7 @@ realtime balancing for live objects
 * [descriptive-statistics](http://fgribreau.github.com/descriptive_statistics/) — Descriptive Statistics for JavaScript
 * [difflib.js](https://github.com/qiao/difflib.js) — Text diff library, ported from Python's difflib module
 * [Gauss](http://github.com/stackd/gauss) - JavaScript statistics and analytics library
-* [GFMS](https://github.com/ypocat/gfms) — Github Flavored Markdown Server. Preview your README.md (and other markdown docs) locally before committing it. Uses Github's CSS for faithful representation. Uses socket.io to automatically reload your browser upon file changes.
+* [GFMS](https://github.com/ypocat/gfms) — Github Flavored Markdown Server. Preview your README.md (and other markdown docs) locally before committing it. Uses Github's CSS for faithful representation. Uses [ws-rpc](https://github.com/ypocat/ws-rpc) to automatically reload your browser upon file changes.
 * [highlight.js](https://github.com/isagalaev/highlight.js) — Syntax Highlighting (for node.js and browser)
 * [Jalali](https://github.com/alireza-ahmadi/jalali) — Gregorian to Jalali Converter
 * [jsbundle](https://github.com/proxv/jsbundle) — Simple, clean, and automatic bundling of your Node modules and packages for use in the browser.
