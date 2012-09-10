@@ -205,6 +205,8 @@ h2. UTC-7 (-6)
 ** "GitHub":http://github.com/chrismatthieu/, "Twitter":http://twitter.com/chrismatthieu/, "Website":http://chrismatthieu.com
 * Mike Brevoort (mbrevoort), Denver, CO, US
 ** "GitHub":http://github.com/mbrevoort/, "Twitter":http://twitter.com/mbrevoort/, "Website":http://mike.brevoort.com
+* Daniel Niquet (danielniquet), Orem, UT, US
+** "Twitter":http://twitter.com/danielniquet/, "Website":http://activatize.com
 
 h2. UTC-6 (-5)
 
