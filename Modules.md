@@ -660,6 +660,7 @@ rendering process.
 * [Nodepad](https://github.com/alexyoung/nodepad) — A nice basic web-based notepad.
 * [Punch](http://laktek.github.com/punch) - A simple tool to generate HTML documents from Mustache templates and content stored in JSON & Markdown format.
 * [reed](https://github.com/ProjectMoon/reed) — A Markdown-based blogging core backed by Redis and the filesystem.
+* [nodeportal](https://github.com/saggiyogesh/nodeportal) — Inspired from Liferay, its a portal cms. Currently in heavy development. 
 
 <a name="wiki-build-and-deployment"></a>
 ## [Build and deployment](#build-and-deployment)
