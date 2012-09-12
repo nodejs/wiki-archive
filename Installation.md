@@ -119,7 +119,7 @@ The executable will be in `Release\node.exe`.
 
 ## Installing without building
 
-You may obtain pre-compiled Node.js binaries for several platforms from [http://nodejs.org/dist/latest/](http://nodejs.org/dist/latest/).
+You may obtain pre-compiled Node.js binaries for several platforms from [http://nodejs.org/download](http://nodejs.org/download).
 
 ### Installing on Windows
 
