@@ -1016,6 +1016,7 @@ rendering process.
 * [espionage](https://github.com/smtlaissezfaire/espionage) — A mock/stub framework using the test spy pattern.
 * [exemplor.js](https://github.com/chrislloyd/exemplor.js) — A port of [exemplor](https://github.com/quackingduck/exemplor) with Node goodness.
 * [expresso](https://github.com/visionmedia/expresso) — TDD framework by the author of [JSpec](http://jspec.info)
+* [fake-fs](https://github.com/eldargab/node-fake-fs) — Fake file system for testing
 * [fakeredis](https://github.com/hdachev/fakeredis) — Simulated Redis instances, so that you can run any number of redis-dependent tests in parallel.
 * [fakeweb](https://github.com/ctide/fakeweb) — A port of [fakeweb](https://github.com/chrisk/fakeweb) that fakes out requests made via Mikeal's request module, or the standard HTTP module.
 * [foounit](https://github.com/foobarfighter/foounit) — client/server side BDD testing framework
@@ -1085,6 +1086,7 @@ rendering process.
 * [rewire](https://github.com/jhnns/rewire) — Dependency injection for node.js applications
 * [dependable](https://github.com/idottv/dependable) - Automatic dependency resolution without tweaking require
 * [Medic Injector](https://github.com/DrBenton/Medic-Injector-JS) - A light-weight Javascript Dependency Injection tool, strongly inspired by the great ActionScript3 [RobotLegs](http://www.robotlegs.org/) framework and it SwiftSuspenders IoC container
+* [the-box](https://github.com/eldargab/the-box) — Build systems style computational model for complex apps
 
 <a name="wiki-wrappers"></a>
 ## [Wrappers](#wrappers)
