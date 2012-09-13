@@ -967,6 +967,7 @@ rendering process.
 <a name="wiki-message-queue"></a>
 ## [Message Queues](#message-queue)
 
+* [kue](http://learnboost.github.com/kue/) — Kue is a priority job queue backed by redis, with a clean & simple UI
 * [amqp-dsl](https://github.com/FGRibreau/node-amqp-dsl) — Fluent Interface for dealing with AMQP (RabbitMQ,...) on NodeJS
 * [amqp-tool](https://github.com/FGRibreau/node-amqp-tool) — Import & export data from/to an AMQP/RabbitMQ broker
 * [fairy](https://github.com/baoshan/fairy) — a queue engine based on Redis offering ActiveMQ's **message groups** alike feature.
