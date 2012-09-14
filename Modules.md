@@ -906,6 +906,7 @@ rendering process.
 <a name="wiki-rpc"></a>
 ## [RPC](#rpc)
 
+* [json-rpc-server](https://github.com/diligences/json-rpc-server) — Simple implementation of JSON-RPC 2.0 server-side protocol with middleware support. Needs HTTP or any another server to communicate with clients.
 * [bertrpc](https://github.com/rtomayko/node-bertrpc)
 * [dnode](https://github.com/substack/dnode) — Asynchronous remote method calls with transparently wrapped callbacks. Works with regular network streams or socket.io.
 * [IPCNode](https://github.com/Frans-Willem/IPCNode) — Asynchronous RPC library based on node.js Stream object,  with support for circular objects, and explicit reference counting to ensure proper garbage collection.
