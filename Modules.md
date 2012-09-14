@@ -906,11 +906,11 @@ rendering process.
 <a name="wiki-rpc"></a>
 ## [RPC](#rpc)
 
-* [json-rpc-server](https://github.com/diligences/json-rpc-server) — Simple implementation of JSON-RPC 2.0 server-side protocol with middleware support. Needs HTTP or any another server to communicate with clients.
 * [bertrpc](https://github.com/rtomayko/node-bertrpc)
 * [dnode](https://github.com/substack/dnode) — Asynchronous remote method calls with transparently wrapped callbacks. Works with regular network streams or socket.io.
 * [IPCNode](https://github.com/Frans-Willem/IPCNode) — Asynchronous RPC library based on node.js Stream object,  with support for circular objects, and explicit reference counting to ensure proper garbage collection.
 * [jayson](https://github.com/tedeh/jayson) - Featureful client and server implementation of JSON-RPC 2.0 (supports automatic forking, reviving/replacing, binary client etc.)
+* [json-rpc-server](https://github.com/diligences/json-rpc-server) — Simple implementation of JSON-RPC 2.0 server-side protocol with middleware support. Needs HTTP or any another server to communicate with clients.
 * [jsonrpc](https://github.com/ericflo/node-jsonrpc)
 * [jsonrpc2](https://github.com/Philipp15b/node-jsonrpc2) — A super easy to use JSON-RPC v2 server
 * [messenger](https://github.com/weixiyen/messenger.js) — Dead Simple API for cross-service communication (supports Pub/Sub, Request/Reply, Fire and Forget models).
