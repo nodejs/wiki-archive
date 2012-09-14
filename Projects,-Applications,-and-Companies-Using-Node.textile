@@ -127,6 +127,7 @@ h2. Companies
 * "Pilvy":http://www.pilvy.com/ -- backend is all node.js, including syncing with third-party services
 * "Pixelspark":http://www.pixelspark.nl/ -- uses node.js for its "CoStore":http://costore.net online data collaboration and synchronization platform
 * "Plurk":http://www.plurk.com/ -- using node.js for its "new comet system":http://amix.dk/blog/post/19490#Plurk-Instant-conversations-using-comet
+* "Pokki":http://www.pokki.com/ -- using node for real-time platform analytics
 * "Proxlet":http://proxlet.com -- Twitter API proxy & browser extension to filter out the noise.
 * "Public Class":http://publicclass.se
 * "Pushme.to":http://pushme.to -- web to iPhone messenger is using node.js for real-time messaging passing and push notifications
