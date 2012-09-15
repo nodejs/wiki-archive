@@ -1846,3 +1846,5 @@ realtime balancing for live objects
 * [yui](http://github.com/yui/yui3) — YUI available in Node.js, ([extra docs](http://yuilibrary.com/yui/docs/yui/nodejs.html))
 * [strformat](https://github.com/fhellwig/strformat) - Node.js string formatting the way you expect it to work.
 * [parambulator](https://github.com/rjrodger/parambulator) - A simple way to generate nice error messages for named parameters.
+* [subst](https://github.com/andreyvit/subst.js) - Substitutes placeholders in strings, arrays and objects
+* [urlmatch](https://github.com/andreyvit/urlmatch.js) - URL host/port/path matching (kind of like fnmatch)
