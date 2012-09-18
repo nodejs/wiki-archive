@@ -344,6 +344,7 @@ This list is for websites and applications that are powered by node.js. If you'v
 * "Trending Topics Client":http://github.com/fczuardi/ttc -- Command line tool to get trending topics from Twitter
 * "TxtAtlas: Put your texts on the map":http ://txtatlas.com -- A demo Twilio/Node.js/Redis application by Stephen J. Walters
 * "vertex.js":http://github.com/stevedekorte/vertex.js - A graph database inspired by filesystems built on node.js and tokyocabinet.
+* "view-test":https://github.com/gtmtg/view-test - A command line app that enables easy testing of Jade and EJS templates. Powered by node.js and express.
 * "vows.js":http://vowsjs.org/ - "Asynchronous behaviour driven development for Node."
 * "Wherevent":http://www.wherevent.com -- a search engine to help you find geolocated events and check who's coming. It use node.js to interface with facebook graph-API, yahoo and google APIs.
 * "wikiedge.org":http://www.wikiedge.org/ - A website to promote Chinese Wikipedia by deliver a daily magazine by good Wikipedia content, it is an opensource project, and code is at "github":https://github.com/mountain/distilled .
