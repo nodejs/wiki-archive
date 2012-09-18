@@ -360,3 +360,4 @@ This list is for websites and applications that are powered by node.js. If you'v
 * "Notifymode":http://notifymode.com — provides real time performance and memory profiling for your node.js app
 * "ZooQoos":http://zooqoos.com - "Be A Jumper" Teleportable Location Based SNS - uses express and socket.io
 * "Pade.me":http://pade.me - social events & meetups magazine
+* "nirc":https://github.com/cjstewart88/nirc - A simple web browser irc client for connecting to any irc server.
