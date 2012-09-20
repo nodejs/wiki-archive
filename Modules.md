@@ -1140,6 +1140,7 @@ rendering process.
 * [sax-js](https://github.com/isaacs/sax-js) — SAX-like parser in pure JS
   * [node-xml2object](https://github.com/emberfeather/node-xml2object) — Simple SAX.js based xml element to object converter.
 * [xml-events](https://github.com/idottv/xml-events) — XML stream parser, based on node-expat. Fires contextual events when it finds a descendant.
+* [xml-object-stream](https://github.com/idottv/xml-object-stream) — Low-memory streaming xml parser for node.js. Returns each node as an object. Uses node-expat
 * [xml-stream](https://github.com/assistunion/xml-stream) — XML stream parser and editor, based on node-expat.
 * [xml2json](https://github.com/buglabs/node-xml2json) — Simple SAX based XML to JSON parser. It uses node-expat.
 * [xmldom](https://github.com/jindw/xmldom) — A PURE JS W3C Standard based DOMParser and XMLSerializer (DOM Level2 CORE).
