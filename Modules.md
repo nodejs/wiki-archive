@@ -1374,6 +1374,7 @@ rendering process.
 * [Winston](https://github.com/indexzero/winston) — A multi-transport async logging library for node.js
 * [PuperGrep](https://github.com/bobrik/pupergrep) - Real-time web view for your logs with hightlighting, grep and more.
 * [stdlog](https://github.com/fhellwig/stdlog) - A Node.js log utility that logs messages to stderr by default.
+* [blammo](https://github.com/StevenLooman/blammo) - A powerful NodeJS logger loosely based on Logback.
 
 <a name="wiki-ansi"></a>
 ### [Console colors and other ANSI codes](#ansi)
