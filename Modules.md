@@ -800,6 +800,7 @@ rendering process.
 * [S3ncryptedProxy](https://github.com/gflarity/s3ncrypted_proxy) — A simple proxy that makes securely sharing data via Amazon S3 easy
 * [sasljs](https://github.com/nikhilm/sasljs) — [Gsasl](http://www.gnu.org/software/gsasl/) wrapper to performs server-side SASL authentication.
 * [sha1](https://github.com/pvorb/node-sha1) — Plain JavaScript SHA-1 hashing function
+* [simple_rsa_encrypt](https://github.com/paspao/simple_rsa_encrypt) - A simple OpenSSL RSA module for node.js, to integrate rsa public encryption and private dencryption.
 * [speakeasy](https://github.com/markbao/speakeasy) — Easy two-factor authentication. Time-based or counter-based one-time passwords with the HMAC One-Time Password algorithms. Supports Google Authenticator.
 * [ursa](https://github.com/Obvious/ursa) — A clean and reasonably complete set of wrappers for OpenSSL's RSA functionality.
 * [xml-crypto](https://github.com/yaronn/xml-crypto) — Xml digital signature and encryption library for Node.js - written in pure javascript.
