@@ -172,6 +172,8 @@ h2. UTC-8
 ** "Website":http://steveheffernan.com, "Github":http://github.com/heff, "Twitter":http://twitter.com/heff
 * Glenn Block (gblock), Seattle, WA, US
 ** "Website":http://codebetter.com/glennblock, "Github":http://github.com/glennblock, "Twitter":http://twitter.com/gblock
+* David Dripps (daviddripps), Palo Alto, CA, US
+** "Github":http://github.com/daviddripps, "Website":http://www.daviddripps.com, "Twitter":http://twitter.com/daviddripps
 
 h2. UTC-7 (-6)
 
