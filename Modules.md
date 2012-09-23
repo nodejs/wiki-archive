@@ -1783,6 +1783,7 @@ realtime balancing for live objects
 * [cqrs-bus](https://github.com/goloroden/cqrs-bus) — cqrs-bus is a message queue for sending and receiving commands, events & co.
 * [cqrs-commands](https://github.com/goloroden/cqrs-commands) — cqrs-commands is a middleware for Connect / Express to create and manage commands.
 * [cqrs-events](https://github.com/goloroden/cqrs-events) — cqrs-events creates and manages events.
+* [cqrs-eventstore](https://github.com/goloroden/cqrs-eventstore) — cqrs-eventstore stores and manages events in a MongoDB database.
 * [cqrs-handlers](https://github.com/goloroden/cqrs-handlers) — cqrs-handlers is a module to dynamically handle CQRS commands.
 * [cqrs-repository](https://github.com/goloroden/cqrs-repository) — cqrs-repository handles loading and committing aggregates.
 
