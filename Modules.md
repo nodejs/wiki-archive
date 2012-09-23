@@ -1784,6 +1784,7 @@ realtime balancing for live objects
 * [cqrs-commands](https://github.com/goloroden/cqrs-commands) — cqrs-commands is a middleware for Connect / Express to create and manage commands.
 * [cqrs-events](https://github.com/goloroden/cqrs-events) — cqrs-events creates and manages events.
 * [cqrs-handlers](https://github.com/goloroden/cqrs-handlers) — cqrs-handlers is a module to dynamically handle CQRS commands.
+* [cqrs-repository](https://github.com/goloroden/cqrs-repository) — cqrs-repository handles loading and committing aggregates.
 
 <a name="wiki-desktop-app"></a>
 ## [Desktop application related](#desktop-app)
