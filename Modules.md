@@ -1465,7 +1465,7 @@ rendering process.
 * [node-handbrake](https://github.com/cwolves/node-handebrake) — HandBrakeCLI wrapper to encode an entire folder of videos
 * [node-image](https://github.com/pkrumins/node-image) — Unifies node-png, node-gif, node-jpeg
 * [node-imagemagick](https://github.com/rsms/node-imagemagick) — ImageMagick module
-* [node-imager](https://github.com/madhums/node-imager) - Easy way to resize, crop and upload images to Rackspace cloudfiles
+* [node-imager](https://github.com/madhums/node-imager) - Easy way to resize, crop and upload images (with different presets) to Rackspace cloudfiles and Amazon S3.
 * [node-jpeg](https://github.com/pkrumins/node-jpeg) — Convert an RGBA or RGB buffer to JPEG fast
 * [node-magick](https://github.com/mirkok/Node-Magick) — rewrite of GraphicsMagick wrapper magickal-node fixing some issues
 * [node-mapnik](https://github.com/mapnik/node-mapnik) — Mapnik bindings for high performance rendering of map tiles.
