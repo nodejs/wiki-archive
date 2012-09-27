@@ -1856,3 +1856,4 @@ realtime balancing for live objects
 * [parambulator](https://github.com/rjrodger/parambulator) - A simple way to generate nice error messages for named parameters.
 * [subst](https://github.com/andreyvit/subst.js) - Substitutes placeholders in strings, arrays and objects
 * [urlmatch](https://github.com/andreyvit/urlmatch.js) - URL host/port/path matching (kind of like fnmatch)
+* [node-eibd](https://github.com/andreek/node-eibd) - eibd client for eib/knx daemon
