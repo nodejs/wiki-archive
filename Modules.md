@@ -1816,6 +1816,7 @@ realtime balancing for live objects
 ## [Other](#other)
 
 * [node-copy-paste](https://github.com/xavi-/node-copy-paste) - A command line utility that allows read/write (i.e copy/paste) access to the system clipboard.
+* [bigdecimal](https://github.com/iriscouch/bigdecimal.js) — Helps circumventing the problem of "0.1 + 0.2 = 0.30000000000000004".
 * [BinaryJS](https://github.com/binaryjs/binaryjs) — Node binary websocket streaming made easy 
 * [append](https://github.com/pvorb/node-append) — Append properties from one object to another.
 * [attache.js](https://github.com/rodzyn/attache.js) - Very basic AOP implementation
