@@ -32,6 +32,12 @@ export PYTHON=`which python2`
 
 Maybe you need to change your `PYTHONHOME` as well. If you have any further installation problems stop into [#node.js](http://webchat.freenode.net/?channels=node.js&uio=d4) on irc.freenode.net and ask questions.
 
+If you are compiling on a NFS mount and get errors at the linker stage, try this:
+
+```
+make LINK=g++
+```
+
 ## Building on GNU/Linux and other UNIX
 
 The filenames vary with the Node's version. The following examples are for Node v0.6.18.
