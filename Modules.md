@@ -682,6 +682,7 @@ rendering process.
 * [muffin.js](https://github.com/hornairs/muffin) — CoffeeScript compilation, minification, concatenation, copying, growl, and SLOC counting helpers for Cakefiles.
 * [nib.js](https://github.com/blambeau/nib.js) — package and minify JavaScript/coffeescript projects to be embedded in the browser as a single .js file
 * [node-linter](https://github.com/kof/node-linter) — generic lint wrapper for JSLint, closure-linter, closure-compiler, and JavaScript Lint.
+* [simple-watcher](https://github.com/Laboratory/simple-watcher) - Coffee-script, haml and sass simple watcher
 * [weber](https://github.com/hiddentao/weber) — dynamically compiling and minifying scripts, stylesheets and templates on-the-fly, including Coffeescript, Eco, Stylus, etc.
 
 <a name="wiki-restarting"></a>
