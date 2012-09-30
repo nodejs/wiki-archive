@@ -1591,6 +1591,7 @@ rendering process.
 * [node-notifo](https://github.com/nerocreativo/node-notifo) — Real-time notifications pushed to your mobile phone (and more).
 * [node-ocr](https://github.com/selead/node-ocr) — ABBYY API wrapper.
 * [node-ostatus](https://github.com/eschnou/node-ostatus) — An implementation of the OStatus protocol (Webfinger, Push, Hcard, Salmon, etc.)
+* [node-ovh](https://github.com/gierschv/node-ovh) — A helper library for OVH.com web services
 * [node-pdfcrowd](https://github.com/pdfcrowd/node-pdfcrowd) — A wrapper for the Pdfcrowd API. It lets you convert web pages and raw HTML code to PDF.
 * [node-posterous](https://github.com/andzdroid/node-posterous) — Library for the Posterous API
 * [node-prowl](https://github.com/mape/node-prowl) — A module that allows you to send push notifications to your iPhone through the Prowl API
