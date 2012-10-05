@@ -39,6 +39,7 @@ make LINK=g++
 ```
 
 ## Building on GNU/Linux and other UNIX
+There's a number of ways to install Node.js on Linux, instructions for installing Node.js on specific Linux distributions using a package manager can be found at: [Installing Node.js via package manager](https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager).
 
 The filenames vary with the Node's version. The following examples are for Node v0.6.18.
 
