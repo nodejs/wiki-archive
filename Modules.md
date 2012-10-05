@@ -1104,9 +1104,9 @@ rendering process.
 * [git-wrapper](https://github.com/pvorb/node-git-wrapper) — A wrapper around the git executable.
 * [java](https://github.com/nearinfinity/node-java) — Bridge API to connect with existing Java APIs
 * [node-tidy](https://github.com/leondealmeida/node-tidy) — a simple wrapper for tidy
-* [ping-wrapper2](https://github.com/sebastianmckenzie/ping-wrapper) — native unix wrapper for ping
+* [ping-wrapper2](https://github.com/sebmck/ping-wrapper) — native unix wrapper for ping
 * [sm.js](https://github.com/dherman/sm.js) — run a SpiderMonkey shell as a node child process
-* [traceroute-wrapper](https://github.com/sebastianmckenzie/traceroute-wrapper) — native unix wrapper for traceroute
+* [traceroute-wrapper](https://github.com/sebmck/traceroute-wrapper) — native unix wrapper for traceroute
 
 <a name="wiki-parsers"></a>
 ## [Parsers](#parsers)
@@ -1292,7 +1292,7 @@ rendering process.
 * [querystring.node.js](https://github.com/jazzychad/querystring.node.js) — Robust query string parsing for node.
 * [ret.js](https://github.com/fent/ret.js) — A regexp tokenizer.
 * [semver](https://github.com/isaacs/node-semver) — Parser used by npm for version numbers.
-* [service-parser](https://github.com/sebastianmckenzie/service-parser) — /etc/services file parser
+* [service-parser](https://github.com/sebmck/service-parser) — /etc/services file parser
 * [strscan](https://github.com/sstephenson/strscan-js) — Simple string tokenizer for lexical scanning operations
 * [tap](https://github.com/isaacs/node-tap) — Tools for the [Test Anything Protocol](http://testanything.org/)
 * [tldextract](https://github.com/masylum/tldextract) — Extract domain, subdomain and tld from a url.
