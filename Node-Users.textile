@@ -174,6 +174,8 @@ h2. UTC-8
 ** "Website":http://codebetter.com/glennblock, "Github":http://github.com/glennblock, "Twitter":http://twitter.com/gblock
 * David Dripps (daviddripps), Palo Alto, CA, US
 ** "Github":http://github.com/daviddripps, "Website":http://www.daviddripps.com, "Twitter":http://twitter.com/daviddripps
+* Salehen Shovon Rahman (shovon), Vancouver, BC, Canada
+** "GitHub":http://github.com/shovon, "Twitter":http://twitter.com/shovon_rahman
 
 h2. UTC-7 (-6)
 
