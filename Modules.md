@@ -684,6 +684,7 @@ rendering process.
 * [node-linter](https://github.com/kof/node-linter) — generic lint wrapper for JSLint, closure-linter, closure-compiler, and JavaScript Lint.
 * [simple-watcher](https://github.com/Laboratory/simple-watcher) - Coffee-script, haml and sass simple watcher
 * [weber](https://github.com/hiddentao/weber) — dynamically compiling and minifying scripts, stylesheets and templates on-the-fly, including Coffeescript, Eco, Stylus, etc.
+* [kaffee](https://github.com/FabianM/kaffee) — a software project management tool and framework similar to Maven.
 
 <a name="wiki-restarting"></a>
 ### [Restarting and continuous running](#restarting)
