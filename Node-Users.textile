@@ -752,6 +752,8 @@ h2. UTC+1 (+2)
 ** "GitHub":https://github.com/medikoo, "Twitter":http://twitter.com/medikoo, "Website":http://www.medikoo.com/
 * Christopher R. Parr, Vienna, Austria
 ** "Github":http://github.com/fosstux, "Website":http://soft.fosstux.net, "Twitter":http://twitter.com/fosstux
+* Jakub Mrozek, Český Těšín/Praha, Czech Republic
+** "GitHub":https://github.com/JakubMrozek, "Website":http://www.ronnieweb.net, "Twitter":http://twitter.com/cznodejs
 
 h2. UTC+2 (+3)
 
