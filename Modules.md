@@ -1515,8 +1515,9 @@ rendering process.
 <a name="wiki-desktop-app"></a>
 ### [Building desktop GUI applications](#desktop-app)
 
-* [AppJS](https://github.com/appjs/appjs) — SDK on top of Node to build desktop apps (GUI windows) with HTML/CSS/JS.
-* [clipboard](https://github.com/Benvie/node-clipboard) — Easy to use utility for reading and writing to the system clipboard.
+* [AppJS](https://github.com/appjs/appjs) — SDK on top of Node to build desktop apps (GUI windows) with HTML/CSS/JS.
+* [clipboard](https://github.com/Benvie/node-clipboard) — Easy to use utility for reading and writing to the system clipboard.
+* [node-webkit](https://github.com/rogerwang/node-webkit) — SDK for running Node modules (and other Node code) inside WebKit (browser) windows, to build desktop apps with HTML/CSS/JS.
 
 <a name="wiki-api-clients"></a>
 ## [API clients](#api-clients)
