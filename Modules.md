@@ -1007,11 +1007,11 @@ rendering process.
 * [joose](https://github.com/joose/joose) — complete modern class system for JavaScript, based on concepts from many programming languages
 * [mootools.js](https://github.com/stanislavfeldman/mootools.js) — MooTools latest server library as npm package for node.js
 * [N-Ext](https://github.com/xcambar/n-ext) — Use the power of the Ext.data packages (from the ExtJS framework) in your NodeJS apps. Includes a MongoDB proxy based on [node-mongodb-native](https://github.com/xcambar/n-ext/node-mongodb-native))
+* [node-interface](https://github.com/agutoli/node-interface) — Interface that defines the signature of the methods that must be implemented.
 * [Sslac](https://github.com/jakobo/sslac) — Basic OOP-like support in JavaScript using chaining. Supports extension, interfaces, namespacing, and static objects.
 * [Structr](https://github.com/crcn/structr) — Library built to give JavaScript the same look and feel as other popular languages such as Java.
 * [UberClass](https://github.com/daffl/uberclass) — A class framework based on John Resig's Simple JavaScript inheritance and JavaScriptMVC $.Class.
 * [UberProto](http://daffl.github.com/uberproto) — JavaScript object inheritance sugar: Initialization methods, easy extension, mixins, super methods, proxies
-* [node-interface](https://github.com/agutoli/node-interface) — Interface that defines the signature of the methods that must be implemented.
 <a name="wiki-testing"></a>
 ## [Testing / Spec Frameworks](#testing)
 
