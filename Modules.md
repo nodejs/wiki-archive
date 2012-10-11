@@ -1868,6 +1868,7 @@ realtime balancing for live objects
 * [GFMS](https://github.com/ypocat/gfms) — Github Flavored Markdown Server. Preview your README.md (and other markdown docs) locally before committing it. Uses Github's CSS for faithful representation. Uses [ws-rpc](https://github.com/ypocat/ws-rpc) to automatically reload your browser upon file changes.
 * [highlight.js](https://github.com/isagalaev/highlight.js) — Syntax Highlighting (for node.js and browser)
 * [Jalali](https://github.com/alireza-ahmadi/jalali) — Gregorian to Jalali Converter
+* [jomap](https://bitbucket.org/dotCypress/jomap/) — Powerfull object mapper
 * [jsbundle](https://github.com/proxv/jsbundle) — Simple, clean, and automatic bundling of your Node modules and packages for use in the browser.
 * [model.js](https://github.com/tarruda/model.js) — Simple data validation for both server and browser.
 * [node-ast-inlining](https://github.com/FGRibreau/node-ast-inlining) — A small library that inline and expand function call
