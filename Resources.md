@@ -3,7 +3,7 @@
 * [Mixu's Node book](http://book.mixu.net/)
 * [Node In Action](http://www.manning.com/cantelon/) -- by [Mike Cantelon](https://github.com/mcantelon), [Nathan Rajlich](https://github.com/tootallnate), and [TJ Holowaychuk](https://github.com/visionmedia)
 * [The Node Beginner Book](http://www.nodebeginner.org/) -- A comprehensive tutorial for folks that are already proficient in other languages, but new to JavaScript and Node.js
-
+* [サーバサイドJavaScript Node.js入門(In Japanese)](http://www.amazon.co.jp/%E3%82%B5%E3%83%BC%E3%83%90%E3%82%B5%E3%82%A4%E3%83%89JavaScript-Node-js%E5%85%A5%E9%96%80-%E6%B8%85%E6%B0%B4%E4%BF%8A%E5%8D%9A/dp/4048703676/ref=sr_1_1?ie=UTF8&qid=1349928638&sr=8-1) -- by T Shimizu et al. 
 ## Sites
 
 * [NodeManual](http://www.nodemanual.org) -- by [Cloud9 IDE](http://www.c9.io), a fork of the official Node.js API documentation, with a different organization, examples you can run in the browser, and additional tutorials
