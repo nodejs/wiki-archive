@@ -862,7 +862,7 @@ rendering process.
 * [node-tunnel](https://github.com/koichik/node-tunnel) — HTTP/HTTPS Agents for tunneling proxies.
 * [poster](https://github.com/rfrench/poster) — Upload local/remote files over multipart.
 * [request](https://github.com/mikeal/request) — Simple HTTP client library.
-* [shred](https://github.com/spire-io/shred) — HTTP client library for Node.js and browsers.  Supports gzip, cookies, https, proxies, and redirects.
+* [shred](https://github.com/automatthew/shred) — HTTP client library for Node.js and browsers.  Supports gzip, cookies, https, proxies, and redirects.
 * [superagent](https://github.com/visionmedia/superagent) — High-level HTTP client sporting a progressive API
 * [watchmen](https://github.com/iloire/WatchMen) — A simple HTTP monitor (pings sites and services with predefined parameters to make sure they are alive)
 
