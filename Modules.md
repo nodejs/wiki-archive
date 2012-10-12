@@ -816,7 +816,6 @@ rendering process.
 * [ursa](https://github.com/Obvious/ursa) — A clean and reasonably complete set of wrappers for OpenSSL's RSA functionality.
 * [xml-crypto](https://github.com/yaronn/xml-crypto) — Xml digital signature and encryption library for Node.js - written in pure javascript.
 
-
 <a name="wiki-smtp"></a>
 ## [SMTP](#smtp)
 
@@ -1158,7 +1157,6 @@ rendering process.
 * [xmldom](https://github.com/jindw/xmldom) — A PURE JS W3C Standard based DOMParser and XMLSerializer (DOM Level2 CORE).
 * [xml-crypto](https://github.com/yaronn/xml-crypto) — Xml digital signature and encryption library for Node.js - written in pure javascript.
 * [saxpath](https://github.com/StevenLooman/saxpath) - Pure-JS XPath evaluator using a SAX parser.
-
 
 <a name="wiki-parsers-commandline"></a>
 ### [Command line option parsers](#parsers-commandline)
