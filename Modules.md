@@ -848,7 +848,7 @@ rendering process.
 
 * [curler](https://github.com/rfrench/curler) — Native c++ node.js module for asynchronous http requests via libcurl.
 * [fetch](https://github.com/andris9/fetch) — Fetch urls with ease, supports gzip content, cookies and more
-* [http-get](https://github.com/SaltwaterC/http-get) — Simple to use node.js HTTP / HTTPS client for downloading remote files. Supports transparent gzip decoding.
+* [http-get](https://github.com/SaltwaterC/http-get) — Simple to use node.js HTTP / HTTPS client for downloading remote files. Supports transparent gzip decoding. May use some HTTP or HTTPS proxy.
 * [http-sync](https://github.com/dhruvbird/http-sync) — Synchronous http(s) client
 * [multiparter](https://github.com/Sonetica/multiparter) — multipart/form-data POST request maker for Node.js with support for streams (sending files) and plain params
 * [multipost](https://github.com/josephwegner/Multipost) — An easy interface for the multipart/form-data protocol
