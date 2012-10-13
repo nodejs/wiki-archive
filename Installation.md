@@ -150,4 +150,8 @@ The [http://nodejs.org/dist/latest/](http://nodejs.org/dist/latest/) directory c
 
 ### Installing on Mac
 
-The [http://nodejs.org/dist/latest/](http://nodejs.org/dist/latest/) directory does contain the latest `.pkg` package (such as `node-v0.6.15.pkg` when Node v0.6.15 was the latest).
+The [http://nodejs.org/dist/latest/](http://nodejs.org/dist/latest/) directory contains the latest `.pkg` package (such as `node-v0.6.15.pkg` when Node v0.6.15 was the latest).
+
+### Upgrading on Mac with `.pkg`
+
+You can download the latest `.pkg` and run the installer and it will overwrite the existing version of Node currently installed.
