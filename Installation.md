@@ -13,6 +13,8 @@
 
 ### Known Issues
 
+  On UNIX platforms, make sure that the path doesn't contain whitespace: `/home/user/My Projects/node` won't work.
+
   If you receive an error during `./configure` like this
   
 ```
