@@ -1,19 +1,5 @@
 There are two node mailing lists, with different purposes.
 
-## nodejs-dev http://groups.google.com/group/nodejs-dev
-
-The nodejs-dev list is for work **on** node.
-
-1. Suggested changes to the nodejs API.
-2. Discussion of patches that are not yet mature enough for a proper github pull request.
-3. Build errors or other internal node bugs that are not investigated fully enough for a proper github issue report.
-
-That's it.  It's a very quiet list.  Keep in mind that people whose jobs involve node.js tend to monitor this list very closely, so we want to keep the signal-to-noise ratio as high as possible.
-
-Reproducible bugs in node should be posted at https://github.com/joyent/node/issues
-
-Patches that are either extremely simple and obvious, or have previously been discussed on nodejs-dev, should be sent as github pull requests to joyent/node.
-
 ## nodejs http://groups.google.com/group/nodejs
 
 For people and things **about** node.  Including but not limited to:
@@ -26,6 +12,10 @@ For people and things **about** node.  Including but not limited to:
 6. Issues with specific node programs.  (Though, it's worth checking if they have their own mailing list.  Express, socket.io, npm, and many others have their own dedicated lists, where you'll generally get faster help.)
 7. "Help, I'm new to JS and need to know why this code doesn't work."  Note that this is *very different* from "Please do my homework for me"!  General rules of techie politeness apply.  Be easy to help, and you'll get more help.
 8. What's awesome, what's lame, who's hot, who's not, who just had a baby, a funny video on youtube, philosophy, politics, sports, or any other (valuable!) primate-bonding subjects that you as a member of the node.js community are interested in and feel like sharing with others in the community.  It's not reddit, and it should be at least *somewhat* node-related to be shared on the list, but the bar is pretty low.
+
+## nodejs-dev http://groups.google.com/group/nodejs-dev
+
+This list is no longer used, it's kept for archival purposes. Design ideas and node core bugs can be posted on the [github issues page](https://github.com/joyent/node/issues).
 
 ## Not Allowed
 
