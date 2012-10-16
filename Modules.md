@@ -1459,6 +1459,7 @@ rendering process.
 
 * [play](https://github.com/Marak/play.js) - play sound files from node.js to your speakers
 * [node-sound](https://github.com/xk/node-sound) — The best sound library for Node (Only for MacOSX)
+* [node-mpg123](https://github.com/maciek134/node-mpg123) - JS wrapper around mpg123.
 
 <a name="wiki-chat"></a>
 ## [Chat](#chat)
