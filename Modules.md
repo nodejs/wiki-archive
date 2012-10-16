@@ -1320,6 +1320,7 @@ rendering process.
 * [pathspec](https://github.com/andreyvit/pathspec.js) — Shell- and .gitignore/.npmignore-style wildcards and file lists
 * [wrench](https://github.com/ryanmcgrath/wrench-js) — Recursive operations (create directory, delete directory, read contents, chmod, chown, deep copy). Line-by-line reader. Asynchronous read of directories contents.
 * [qfs](https://github.com/tommy351/qfs) - File I/O in jQuery way
+* [scopedfs](https://github.com/andreyvit/scopedfs) — A convenient API to build and access file system subtrees, particularly in tests; provides a version of every ‘fs’ module function scoped to the given root or, optionally, to a new temporary directory; also adds a bunch of convenience methods.
 
 <a name="wiki-debugging-and-console"></a>
 ## [Debugging / console utilities](#debugging-and-console)
