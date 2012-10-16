@@ -1890,6 +1890,7 @@ realtime balancing for live objects
 * [tty.js](https://github.com/chjj/tty.js) - a terminal for your browser
 * [twitter-conference](https://github.com/meritt/twitter-conference) - It's a small example how to create twitter online conference with Node.js, Twitter Streaming API and Websockets.
 * [version](https://github.com/edwardhotchkiss/version) — NodeJS package.json version number fetcher
+* [value](https://github.com/jhnns/value) - Convenient high-performance type-checking for JavaScript
 * [yui](http://github.com/yui/yui3) — YUI available in Node.js, ([extra docs](http://yuilibrary.com/yui/docs/yui/nodejs.html))
 * [strformat](https://github.com/fhellwig/strformat) - Node.js string formatting the way you expect it to work.
 * [parambulator](https://github.com/rjrodger/parambulator) - A simple way to generate nice error messages for named parameters.
