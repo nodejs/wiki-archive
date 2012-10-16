@@ -256,6 +256,7 @@ This list is for websites and applications that are powered by node.js. If you'v
 * "Graffiti &beta;":http://yay3d.com/graffiti — Interactive multi-user shared canvas whiteboard
 * "GrowlHub":http://github.com/idris/growlhub - Growl Notifications for GitHub
 * "gwt-node":https://github.com/cretz/gwt-node - Node.js in GWT allowing apps to be written in Java.
+* "Hall.com":https://hall.com - Realtime chat and collaboration for business.
 * "Hummingbird":http://hummingbirdstats.com/ -- A realtime web analytics app using socket.io
 * "Html2pdf.it":http://html2pdf.it/ -- Service for converting HTML to PDF using the API
 * "instant message God":http://imgod.me - Social Art project using node and MySQL
