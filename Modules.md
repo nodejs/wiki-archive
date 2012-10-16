@@ -1262,6 +1262,7 @@ rendering process.
 
 * [apricot](https://github.com/silentrob/Apricot) — Hpricot inspired clone, JSDom with Sizzle Selector engine and XUI for HTML augmentation
 * [argtypes](https://github.com/cwolves/argtypes) — Function arguments type parser (Allows typed & optional arguments)
+* [JsCron](https://github.com/romansky/JsCron) — Javascript cron parser, schedule date generator
 * [carrier](https://github.com/pgte/carrier) — Evented stream line reader for node.js
 * [enhanced-properties](https://github.com/Gagle/Node-EnhancedProperties) — A key-value parser based on Properties with enhanced features.
 * [fastcgi-parser](https://github.com/billywhizz/node-fastcgi-parser) — FastCGI protocol parser and Writer
