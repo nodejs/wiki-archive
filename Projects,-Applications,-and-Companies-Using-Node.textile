@@ -73,6 +73,7 @@ h2. Companies
 * "Humansized Inc.":http://www.humansized.com
 * "IDFuze":http://www.idfuze.com - Working on a real time cards game using node.js and socket.io
 * "ingk labs":http://ingk.com - Rapidly create startup prototypes with a strong emphasis on DRY
+* "inweso":http://www.inweso.ch/ - A company that uses the latest technologies such as node.js, HTML5 and JavaScript to create web based systems for their customers.
 * "ipowerhouse":http://www.ipowerhouse.com - Focused on haXe/Node.js  game dev; first all haxe/node bingo product.
 * "ipseitycloud":http://www.ipseitycloud.com - Use node.js for everything, blog, apps, webpage, etc
 * "i.TV":http://i.tv - Next gen social media.
