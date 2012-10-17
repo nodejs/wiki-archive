@@ -1,1 +1,0 @@
-http://socialchessapp.jit.su/ Online chess game develop with Node + socke.io + express. Play with all the peolple free
