@@ -271,6 +271,7 @@ This list is for websites and applications that are powered by node.js. If you'v
 * "KansoJS":http://kansojs.org - A surprisingly simple way to write CouchApps, by making use of the design_doc api in the browser
 * "Kraken.io":http://kraken.io - Online image optimization tool.
 * "League of Stats":http://leagueofstats.com - League of Legends Summoner information look-up tool. 
+* "lebdo":http://www.lebdo.ch - A curriculum-based monitoring documentation tool for the nursery level. A single-page evented web app built with socket.io and mongodb.
 * "LifeInText":http://github.com/weilawei/LifeInText -- LiT is a mashup platform for personal projects and snippets.
 * "LiveChant":http://www.livechant.com -- LiveChant is an online platform to connect offline businesses to their users simply, directly and locally.
 * "Locker Project":http://lockerproject.org/ — Open source project for all your personal data.
