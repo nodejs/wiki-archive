@@ -48,31 +48,9 @@ Example install on openSUSE 12.1:
     sudo zypper ar http://download.opensuse.org/repositories/devel:/languages:/nodejs/openSUSE_12.1/ NodeJSBuildService 
     sudo zypper in nodejs nodejs-devel
 
-## Fedora 15, 16 and 17
+## CentOS, RHEL, Fedora etc
 
-To install node on **Fedora**:
-
-    sudo yum localinstall --nogpgcheck http://nodejs.tchol.org/repocfg/fedora/nodejs-stable-release.noarch.rpm
-    sudo yum install nodejs-compat-symlinks npm
-
-## RHEL/CentOS/Scientific Linux 5 and 6
-
-To install node on **RHEL and friends**:
-
-    wget http://nodejs.tchol.org/repocfg/el/nodejs-stable-release.noarch.rpm
-    yum localinstall --nogpgcheck nodejs-stable-release.noarch.rpm
-    yum install nodejs-compat-symlinks npm
-    rm nodejs-stable-release.noarch.rpm
-
-## Amazon Linux
-
-First install the repository:
-
-    sudo yum localinstall --nogpgcheck http://nodejs.tchol.org/repocfg/amzn1/nodejs-stable-release.noarch.rpm   
-
-Then install the packages:
-
-    sudo yum install nodejs-compat-symlinks npm
+On http://nodejs.tchol.org/ there was previously an updated yum repository, but it hasn't been updated since May 2012.
 
 ## Arch Linux
 Node.js is available in the Community Repository.
