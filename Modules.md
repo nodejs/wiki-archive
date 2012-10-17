@@ -707,7 +707,7 @@ rendering process.
 * [nodemon](https://github.com/remy/nodemon) — Monitors all source files, restarts node on changes. Command-line usage, code-passive with ignore list.
 * [reloader](https://github.com/konteck/reloader) — Reload app on it's source code change. Suitable to work both on production and development machines. Act as usual NodeJS module.
 * [run](https://github.com/DTrejo/run.js) — Rerun your js file whenever there's a change in the current directory: <code>npm install -g run</code>, <code>runjs yourcode.js</code>. Never alt-tab to your terminal again.
-* [start-stop-daemon](https://github.com/jiem/start-stop-daemon) — An 1-function Node.js module to easily create native `child_process.fork` start-stop-daemon scripts. Created daemons are self-monitored and restart automatically when crashing (a custom crash handler can be attached too).
+* [start-stop-daemon](https://github.com/jiem/start-stop-daemon) — Easily transform JS scripts into start-stop-daemon scripts
 * [winser](https://github.com/jfromaniello/winser) — Run Node.js applications as services on Microsoft Windows.
 
 <a name="wiki-deployment"></a>
