@@ -865,6 +865,7 @@ rendering process.
 * [shred](https://github.com/automatthew/shred) — HTTP client library for Node.js and browsers.  Supports gzip, cookies, https, proxies, and redirects.
 * [superagent](https://github.com/visionmedia/superagent) — High-level HTTP client sporting a progressive API
 * [watchmen](https://github.com/iloire/WatchMen) — A simple HTTP monitor (pings sites and services with predefined parameters to make sure they are alive)
+* [node-crawler](https://github.com/joshfire/node-crawler) — Web crawler/spider with JSDom, jQuery & connection pooling.
 
 <a name="wiki-tcp-ftp"></a>
 ### [FTP](#tcp-ftp)
@@ -1278,7 +1279,6 @@ rendering process.
 * [node_spreadsheet](https://github.com/shimondoodkin/node_spreadsheet) — Read xls,xlsx,ods,csv spreadsheets (php based)
 * [node-brainfuck](https://github.com/masylum/node-brainfuck) — Brainfuck interpreter
 * [node-browscap](https://github.com/dangrossman/node-browscap) — browscap.ini parser and port of PHP's get_browser function
-* [node-crawler](https://github.com/joshfire/node-crawler) — Web crawler/spider with JSDom, jQuery & connection pooling.
 * [node-formidable](https://github.com/felixge/node-formidable) — A node.js module for parsing form data, especially file uploads.
 * [node-htmlparser](https://github.com/tautologistics/node-htmlparser) — Forgiving HTML Parser in JS for both Node and Browsers
 * [node-msgpack](https://github.com/pgriess/node-msgpack) — Bindings for MessagePack, space-efficient object serialization library
