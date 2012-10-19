@@ -857,7 +857,6 @@ rendering process.
 * [needle](https://github.com/tomas/needle) — Lightweight HTTP client with multipart support.
 * [node-digest](https://github.com/wearefractal/node-digest) — HTTP Digest authentication for NodeJS
 * [node-get](https://github.com/developmentseed/node-get) — Moderately higher-level HTTP client library.
-* [node-http-status](https://github.com/wdavidw/node-http-status) — Interact with HTTP status code (just a set of constants)
 * [node-tunnel](https://github.com/koichik/node-tunnel) — HTTP/HTTPS Agents for tunneling proxies.
 * [poster](https://github.com/rfrench/poster) — Upload local/remote files over multipart.
 * [request](https://github.com/mikeal/request) — Simple HTTP client library.
