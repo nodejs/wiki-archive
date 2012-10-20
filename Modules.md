@@ -1845,7 +1845,7 @@ realtime balancing for live objects
 ## [Functional Programming](#functional-programming)
 
 * [Underscore](http://underscorejs.org/) — Utility belt for Javascript. Adds iterators and much more. 
-* [FJS](https://github.com/idottv/fjs) — Functional Javascript. Currying, point-free composition.
+* [FJS](https://github.com/seanhess/fjs) — Functional Javascript. Currying, point-free composition.
 
 <a name="wiki-physics"></a>
 ## [Physics](#physics)
