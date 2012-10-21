@@ -36,7 +36,7 @@ Name | Node Version | Web Sockets | IP/Hostname | IRC | Repository | Free Plan |
 ## Self-Managed
 
 VPS providers, which often require you to set everything up yourself, including the operating system.
-
+* [Host Stage](http://www.host-stage.net/linuxvps.php)
 * [A2 Hosting](http://www.a2hosting.com/web-development/nodejs-hosting)
 * [Amazon EC2](http://aws.amazon.com/ec2)
 * [BuyVM](http://www.buyvm.net)
