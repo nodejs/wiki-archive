@@ -1874,6 +1874,7 @@ realtime balancing for live objects
 * [Jalali](https://github.com/alireza-ahmadi/jalali) — Gregorian to Jalali Converter
 * [jomap](https://bitbucket.org/dotCypress/jomap/) — Powerfull object mapper
 * [jsbundle](https://github.com/proxv/jsbundle) — Simple, clean, and automatic bundling of your Node modules and packages for use in the browser.
+* [nshell](https://github.com/visionmedia/nshell) — non-posix shell written with node.js 
 * [model.js](https://github.com/tarruda/model.js) — Simple data validation for both server and browser.
 * [node-ast-inlining](https://github.com/FGRibreau/node-ast-inlining) — A small library that inline and expand function call
 * [node-dummy-cache](http://github.com/pescuma/node-dummy-cache) — A simple in memory cache to use with nodejs.
