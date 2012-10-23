@@ -263,6 +263,7 @@ This list is for websites and applications that are powered by node.js. If you'v
 * "Html2pdf.it":http://html2pdf.it/ -- Service for converting HTML to PDF using the API
 * "instant message God":http://imgod.me - Social Art project using node and MySQL
 * "instapolls":http://instapoll.in - Realtime polls using node.js, Socket.IO and mongodb
+* "in1":http://www.in1.com - social media aggregation and sharing using node.js, Express and Mongo
 * "JamBox":http://jambox.us/ – a collaborative real-time musicmaking app.
 * "jimi":http://github.com/colingourlay/jimi -- A framework for writing modular web applications in node.js ("tutorial":http://wiki.github.com/colingourlay/jimi/tutorial-hello-world)
 * "js.io":http://github.com/mcarter/js.io -- Javascript Networking Library for building real-time web applications
