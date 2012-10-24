@@ -1906,3 +1906,4 @@ realtime balancing for live objects
 * [subst](https://github.com/andreyvit/subst.js) - Substitutes placeholders in strings, arrays and objects
 * [urlmatch](https://github.com/andreyvit/urlmatch.js) - URL host/port/path matching (kind of like fnmatch)
 * [node-eibd](https://github.com/andreek/node-eibd) - eibd client for eib/knx daemon
+* [typed](http://alexlawrence.github.com/typed) - Static typing library
