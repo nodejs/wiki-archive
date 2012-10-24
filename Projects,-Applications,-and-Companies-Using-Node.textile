@@ -314,6 +314,7 @@ This list is for websites and applications that are powered by node.js. If you'v
 * "OpenTaxFormFiller":http://github.com/codehero/OpenTaxFormFiller -- Uses node for data translation
 * "OPOWER Jobs":http://github.com/dylang/opowerjobs -- Open source example of a full live site using Express, Connect, EJS, AssetManager, Logging, and other Node modules.
 * "Orona":http://stephank.github.com/orona/ -- A multiplayer game of tank warfare. (Remake of the classic Mac game Bolo.)
+* "page-buddies":http://page-buddies.com/ -- A social chat widget for web sites
 * "paperserve":http://github.com/StanAngeloff/node-paperserve -- Quick and dirty web server from your working directory
 * "pdfkit":http://devongovett.github.com/pdfkit/ - a powerful PDF generation library for Node
 * "Persevere":http://www.persvr.org/ - REST/HTTP + JSON-based web data project that includes "Pintura":http://github.com/kriszyp/pintura, "Perstore":http://github.com/kriszyp/perstore, "CommonJS-Utils":http://github.com/kriszyp/commonjs-utils
