@@ -66,6 +66,7 @@ h2. Companies
 * "Geeklist":http://geekli.st/
 * "Ge.tt":http://ge.tt Kick ass file sharing service - (oh and it's real time)
 * "Gigboard":http://gigboard.com - Locational based gig finder.
+* "Gigzolo":http://gigzolo.com - Marketplace to help people booking artists.  
 * "GoInstant":http://goinstant.com - No install, web co-browsing
 * "GoodData":http://www.gooddata.com Metric-driven analytics SAAS BI - the Way It Should Be
 * "GREE":http://gree-corp.com/ - Largest mobile social game platform (GREE & OpenFeint)
