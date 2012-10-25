@@ -1,1 +1,0 @@
-redirect: [https://github.com/ry/node/wiki/Migrating-from-v0.2-to-v0.3](https://github.com/ry/node/wiki/Migrating-from-v0.2-to-v0.3)
