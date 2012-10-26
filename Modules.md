@@ -1673,6 +1673,7 @@ rendering process.
 * [webmetrics](https://github.com/ryanbreen/node-webmetrics) — A module for accessing the Webmetrics JSON API
 * [yammer-js](https://github.com/smurthas/yammer-js) — Simple Yammer API wrapper
 * [fb-js](https://github.com/bobrik/fb-js) - Facebook api done right.
+* [oss](https://github.com/fantasyni/oss) - OSS is a node.js SDK and Command-Line Tool for Aliyun OSS
 
 <a name="wiki-async-flow"></a>
 ## [Control flow / Async goodies](#async-flow)
