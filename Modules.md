@@ -749,6 +749,7 @@ rendering process.
 * [doc.md](https://github.com/Pita/doc.md) — A simple JSDoc documenation tool that creates markdown for node.js modules
 * [modul8](https://github.com/clux/modul8) — Extensible CommonJS browser code sharing
 * [nclosure](http://gatapia.github.com/nclosure/) — Compiler, Style Checker, Utility Library, Unit Testing Framework, JSDoc Documentation Tool.  Built on top of Google Closure tools.
+* [node-foreman](https://github.com/nodefly/node-foreman) - A Node implementation of [Foreman](http://ddollar.github.com/foreman/) with Node-specific additions.
 * [octoploy](https://github.com/ammmir/octoploy) — GitHub post-receive hook URL handler (execute script on push to repo)
 * [poly.shell](https://github.com/dvidelabs/poly.shell) — distributed shell job control with role based configuration
 * [quickcheck](https://github.com/mcandre/node-quickcheck) — Port of the Haskell QuickCheck unit testing framework
