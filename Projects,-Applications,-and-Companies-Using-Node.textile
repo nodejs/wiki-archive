@@ -157,6 +157,7 @@ h2. Companies
 * "Siteworx":http://www.siteworx.com/
 * "Shortrr":http://shortrr.com -- Submit, read, and rank summary highlights of content in realtime while browsing the web
 * "Sleepless Software Inc.":http://sleepless.com - Servers for large scale Facebook games.
+* "Software Projects":http://www.softwareprojects.com - Real-time Job queue
 * "Spoondate":http://spoondate.com - A delicious way to meet.
 * "Stanzr":http://stanzr.com -- Real-Time, Outbound, Social Media Conversations for businesses 
 * "Szpil":https://szpil.com - Keep detailed contact histories. Review past calls and conversations. Collaborate with colleagues. 
