@@ -1534,6 +1534,7 @@ rendering process.
 * [node-fluent-ffmpeg](https://github.com/schaermu/node-fluent-ffmpeg) — Fluent API for ffmpeg (including streaming, thumbnail-generation and custom presets)
 * [node-handbrake](https://github.com/cwolves/node-handebrake) — HandBrakeCLI wrapper to encode an entire folder of videos
 * [node-video](https://github.com/pkrumins/node-video) — Create Theora/OGG videos from RGB(A) buffers (and stream them via <video> tag)
+* [nodeminderjs](https://github.com/nodeminderjs/NodeMinder.js) — Linux video camera security and surveillance solution based on ZoneMinder and developed on top of a node.js stack.
 * [ytdl](https://github.com/fent/node-ytdl) — Pure Javascript youtube video downloader.
 * [youtube-dl](https://github.com/fent/node-youtube-dl) — youtube-dl driver for node
 
