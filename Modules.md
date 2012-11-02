@@ -1042,6 +1042,7 @@ rendering process.
 * [grover](https://github.com/davglass/grover) — PhantomJS/YUITest CLI test runner.
 * [horaa](https://github.com/arunoda/horaa) — Mocking NodeJS Modules
 * [httpmock](https://github.com/bbyars/httpmock) — A RESTful web API for stubbing out network dependencies.
+* [intent.js](https://github.com/goloroden/intent.js) — Functional testing for Node.js and the browser.
 * [jasmine-jquery](https://github.com/dkastner/node-jasmine-jquery) — jQuery matchers and fixture loader for Jasmine framework for node forked from [Jasmine-Jquery](https://github.com/velesin/jasmine-jquery)
 * [jasmine-node](https://github.com/mhevery/jasmine-node) — integration with [Pivotal's Jasmine Spec](https://github.com/pivotal/jasmine) framework
 * [jessie](https://github.com/futuresimple/jessie) — Node runner for Jasmine JavaScript BDD testing framework
