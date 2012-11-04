@@ -859,6 +859,7 @@ rendering process.
 * [multiparter](https://github.com/Sonetica/multiparter) — multipart/form-data POST request maker for Node.js with support for streams (sending files) and plain params
 * [multipost](https://github.com/josephwegner/Multipost) — An easy interface for the multipart/form-data protocol
 * [needle](https://github.com/tomas/needle) — Lightweight HTTP client with multipart support.
+* [node-curl](https://github.com/jiangmiao/node-curl) - node cURL wrapper with fully implemented.
 * [node-digest](https://github.com/wearefractal/node-digest) — HTTP Digest authentication for NodeJS
 * [node-get](https://github.com/developmentseed/node-get) — Moderately higher-level HTTP client library.
 * [node-tunnel](https://github.com/koichik/node-tunnel) — HTTP/HTTPS Agents for tunneling proxies.
@@ -1178,6 +1179,7 @@ rendering process.
 * [mingy](https://github.com/mcantelon/node-mingy) — Command parser for CLI tool and adventure game needs. Works well with the optimist module.
 * [node-named-argv](https://github.com/ecdeveloper/node-named-argv) - Simple module for passing named parameters to node app.
 * [node-arguments](https://github.com/fczuardi/node-arguments) — Yet another simple command line option parser
+* [node-getopt](https://github.com/jiangmiao/node-getopt) - Featured command line options parser.
 * [nomnom](https://github.com/harthur/nomnom) — Option parser with generated usage, support for callbacks and commands.
 * [nopt](https://github.com/isaacs/nopt) — The command line options parser npm uses.
 * [Operetta](https://github.com/tricknik/node-operetta) — A Node Option Parser That Sings!
