@@ -272,6 +272,8 @@ h2. UTC-6 (-5)
 ** "GitHub":http://github/tomtheguvnor, "Twitter":http://twitter.com/tomtheguvnor
 * John Jelinek (leetcharmer), Dallas, TX, US
 ** "GitHub":http://github.com/johnjelinek, "Twitter":http://twitter.com/johnjelinek, "Website":http://johnjelinek.com
+* Nathan Cartwright (fshost), Kendalia, TX, US
+** "GitHub":http://github.com/fshost, "Twitter":http://twitter.com/webnate
 
 h2. UTC-5 (-4)
 
