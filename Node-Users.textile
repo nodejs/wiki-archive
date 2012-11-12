@@ -477,6 +477,8 @@ h2. UTC±0 (0)
 
 h2. UTC±0 (+1)
 
+* Mark Willis, Bournemouth, UK
+** "Website":http://mwillis.co.uk, "GitHub":http://github.com/markwillis82, "Twitter":http://twitter.com/markwillis82
 * Guy Halford-Thompson (guyht), London
 ** "Website":http://cach.me/blog, "GitHub":http://github.com/guyht, "Twitter":http://twitter.com/mrwooster
 * Kiril Piskunov (ciudilo), London
