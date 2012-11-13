@@ -960,6 +960,7 @@ rendering process.
 * [node-eventstream](https://github.com/kbjr/node-eventstream) — A server-side companion to EventSource.
 * [node-object-sync](https://github.com/jonashuckestein/node-object-sync) — Transparently synchronize objects across connected clients
 * [node-rpc-socket.io](https://github.com/Tronix117/node-rpc-socket.io) — socket.io addon, add a full client/server implementation of JSON-RPC
+* [node-typedarray](https://github.com/Ayms/node-typedarray) — How to mix node.js's Buffers and Typed Arrays
 * [node-socket.io-client](https://github.com/saschagehlich/node-socket.io-client) — Node.js implementation of the Socket.IO client libraries
 * [node-websocket-client](https://github.com/pgriess/node-websocket-client) — An HTML5 Web Socket client.
 * [node-websocket-server](https://github.com/miksago/node-websocket-server) — Another websocket server on top of the http server.
