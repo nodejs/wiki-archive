@@ -24,7 +24,7 @@ Come talk to us in the **#node.js** IRC channel on [freenode.net](http://webchat
 
 Most modules can be found by [searching the npm registry](http://search.npmjs.org/).
 
-Alternatively, use [nipster](http://eirikb.github.com/nipster/), or [toolbox](http://toolbox.no.de/), or [npmdocs](http://npmdoc.nodejitsu.com/).
+Alternatively, use [nipster](http://eirikb.github.com/nipster/), or [toolbox](http://nodetoolbox.com/), or [npmdocs](http://npmdoc.nodejitsu.com/).
 
 There is also [[a list of modules|Modules]] on this wiki.
 
