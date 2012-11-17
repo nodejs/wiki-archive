@@ -1483,6 +1483,7 @@ rendering process.
 * [EasyImage](https://github.com/hacksparrow/node-easyimage) — User-friendly module for common image editing requirements. Requires ImageMagick.
 * [exiv2node](https://github.com/dberesford/exiv2node) — Extension that provides asynchronous support for reading & writing image metadata via Exiv2.
 * [Face.js](https://github.com/talvarez/Face.js) — Node.js module for detecting faces in images
+* [fav](https://github.com/vicapow/fav) - Node.js module for parsing ICO (favicon) files
 * [gm](https://github.com/aheckmann/gm) — GraphicsMagick for node
 * [magician](https://github.com/vdemedes/magician) — Image manipulation for Node.js using ImageMagick.
 * [magickal-node](https://github.com/quiiver/magickal-node) — GraphicsMagick wrapper for node.js
