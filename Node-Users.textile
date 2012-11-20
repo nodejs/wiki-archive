@@ -457,6 +457,8 @@ h2. UTC-3 (-2)
 ** "Website":´http://www.flsx.com.ar, "Twitter":http://www.twitter.com/fsodano, "GitHub":http://github.com/fsodano
 * Javier Viola (pepoviola), Buenos Aires, Argentina
 ** "GitHub":https://github.com/pepoviola, "Twitter":https://twitter.com/pepoviola
+* Dan Zajdband (danzajdband), Buenos Aires, Argentina
+** "GitHub":https://github.com/danzajdband, "Twitter":https://twitter.com/dzajdband
 
 h2. UTC±0 (0)
 
