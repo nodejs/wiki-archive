@@ -821,6 +821,8 @@ h2. UTC+2 (+3)
 ** "GitHub":https://github.com/rehno-lindeque, "Twitter":http://twitter.com/RehnoLindeque, "Website":http://rehno.lindeque.name
 * Alexandru Topliceanu, Bucharest, Romania
 ** "GitHub":https://github.com/topliceanu, "Twitter":http://twitter.com/topliceanu, "Website":http://alexandrutopliceanu.ro
+* Hasan Arous, Damascus, Syria
+** "GitHub":https://github.com/aularon,"Twitter":https://twitter.com/aularon,"Website":http://www.lastown.com/
 
 h2. UTC+3 (+4)
 
