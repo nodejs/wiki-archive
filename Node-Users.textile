@@ -860,7 +860,7 @@ h2. UTC+3 (+4)
 h2. UTC+5
 
 * M S Rishikesh (msrishikesh), India
-** "Twitter":http://twitter.com/msrishikesh, "GitHub":http://github.com/msrishikesh, "GitHub":http://github.com/OneNode, "Bitbucket":http://bitbucket.org/nikhilm/, "Website":http://msrishikesh.co.de/, "Website":http://atommic.co.de/
+** "Twitter":http://twitter.com/msrishikesh, "GitHub":http://github.com/msrishikesh, "GitHub":http://github.com/OneNode, "Website":http://msrishikesh.co.de/, "Atom":http://atom.atommic.co.de/r
 * Nikhil Marathe (nsm), India
 ** "Twitter":http://twitter.com/nikhilcutshort, "GitHub":http://github.com/nikhilm/, "Bitbucket":http://bitbucket.org/nikhilm/
 * Shiv Shankar ( _sh ), India
