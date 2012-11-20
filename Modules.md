@@ -1020,6 +1020,7 @@ rendering process.
 * [Structr](https://github.com/crcn/structr) — Library built to give JavaScript the same look and feel as other popular languages such as Java.
 * [UberClass](https://github.com/daffl/uberclass) — A class framework based on John Resig's Simple JavaScript inheritance and JavaScriptMVC $.Class.
 * [UberProto](http://daffl.github.com/uberproto) — JavaScript object inheritance sugar: Initialization methods, easy extension, mixins, super methods, proxies
+* [node-class](https://github.com/llafuente/class) - OO Class with support for: static, extends, abstract, final, hide properties, serialization etc. and a proper typeof, instanceof. ES5 required.
 <a name="wiki-testing"></a>
 ## [Testing / Spec Frameworks](#testing)
 
