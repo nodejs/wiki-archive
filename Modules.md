@@ -921,6 +921,7 @@ rendering process.
 * [shorty](https://github.com/mtd/shorty) — Shorty is a lightweight, high performance SMPP client and server.
 * [stomp-client](https://github.com/easternbloc/node-stomp-client) — A STOMP client for Node.js
 * [wake_on_lan](https://github.com/agnat/node_wake_on_lan) — Generate and send Wake-on-LAN magic packets
+* [geotools](https://github.com/runk/geotools) — IP to Country/Region lookup
 
 <a name="wiki-rpc"></a>
 ## [RPC](#rpc)
