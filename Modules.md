@@ -956,7 +956,7 @@ rendering process.
 * [Beseda](https://github.com/geometria-lab/Beseda) — Fast, well designed and featured Node.js Pub/Sub server. Beseda offers multiple platform API to develop realtime web applications.
 * [Comet LongPollingBuffer](https://github.com/robrighter/Long-Polling-Buffer) — A Library to simplify the server side of Comet AJAX long polling
 * [easywebsocket](https://github.com/jeromeetienne/EasyWebsocket) — WebSocket to broadcast messages to webpages
-* [Faye](https://github.com/jcoglan/faye) — Bayeux protocol Comet client and server for Node.js and Rack
+* [Faye](https://github.com/faye/faye) — Bayeux protocol Comet client and server for Node.js and Rack
 * [grappler](https://github.com/mscdex/grappler) — A minimalistic server for handling "comet" connections that supports a variety of connection methods.
 * [Minotaur](https://github.com/yojimbo87/minotaur) — Long poll server using JSONP communication with clients
 * [node-bus](https://github.com/node-bus/node-bus) — A distributed pubsub engine for JSON-based events
