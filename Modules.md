@@ -708,6 +708,7 @@ rendering process.
 * [dev](https://github.com/iliakan/node-dev) — Automatically restarts the app when a source-file is modified. Autohooks on new files, so it doesn't need manual restart at all.
 * [forever](http://github.com/nodejitsu/forever) — A simple CLI tool for ensuring that a given script runs continuously (i.e. forever)
   * [forever-webui](https://github.com/FGRibreau/forever-webui) — A simple web UI for efficient nodejs administration
+* [naught](https://github.com/indabamusic/naught) — zero downtime deployment using native cluster API. Created as an alternative to forever.
 * [forewoman](https://github.com/liangzan/forewoman) — A port of foreman (process management tool) + hot code reload.
 * [node-dev](https://github.com/fgnass/node-dev) — Automatically restarts node when a source-file is modified. Displays notifications via Growl.
 * [nodemon](https://github.com/remy/nodemon) — Monitors all source files, restarts node on changes. Command-line usage, code-passive with ignore list.
