@@ -1668,7 +1668,7 @@ rendering process.
 * [ranger](https://github.com/mrduncan/ranger/) — A simple library which wraps Campfire's API
 * [rottentomatoes](https://github.com/Skookum/tomatoes) - Simple interface for the Rotten Tomatoes API
 * [sailthru-client](https://github.com/sailthru/sailthru-node-client) — A wrapper for Sailthru API
-* [sendgrid-mustache](https://github.com/jiem/sendgrid-mustache.git) — The most efficient way to use mustache templates with SendGrid.
+* [sendgrid-mustache](https://github.com/jiem/sendgrid-mustache.git) — The most efficient way to use mustache templates with SendGrid: send 1000 mustache mails with only 1 POST request.
 * [sms](https://github.com/kaven276/sms) — Aimed at whole SGIP/SMPP nodes support for SMS system, now focused on SP function.
 * [SMSified-node](https://github.com/smsified/smsified-node) — A module for sending and receiving SMS messages (text messages) with the SMSified API.
 * [spotify](https://github.com/roncioso/node-spotify-metadata) — Spotify api wrapper. Metadata lookup and search. Works with Spotify and http uris
