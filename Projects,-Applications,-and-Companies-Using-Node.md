@@ -195,6 +195,8 @@
 * "Neuron web creative": <a href="http://www.neuron-webagency.com" target="_blank"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png" width="12px" height="12px"/>http://www.neuron-webagency.com</a>- A creative and innovative web agency, this is the agency that develops http://www.meetbymaps.com
 * "CellkastGames": <a href="http://www.tickade.com" target="_blank"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png" width="12px" height="12px"/>http://www.tickade.com</a>- Tickade is an online redemption games platform where players can play casual games by themselves or against each other for tickets. Players can exchange tickets for real world prizes of their choice delivered to their doors 
 * "Taobao": <a href="http://www.taobao.com" target="_blank"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png" width="12px" height="12px"/>http://www.taobao.com</a>-"Taobao labs":http://labs.taobao.com/ applications hosting and"Taobao index":http://shu.taobao.com/.
+* "YellowHammer Media Group": <a href="http://www.yhmg.com" target="_blank"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png" width="12px" height="12px"/>http://www.yhmg.com</a>
+
 
 
 ## Websites and Applications
