@@ -1093,6 +1093,8 @@ h2. UTC+10 or UTC+11
 ** "GitHub":http://github.com/benw
 * Chris O'Hara ("chriso":http://github.com/chriso), Sydney, Australia
 ** "GitHub":http://github.com/chriso, "Twitter":http://twitter.com/chris6F, "Website":http://node.io/
+* Adam Ahmed ("hitsthings":http://github.com/hitsthings), Sydney, Australia
+** "GitHub":http://github.com/hitsthings, "Twitter":http://twitter.com/hitsthings, "Website":http://www.noiregrets.com/
 
 h2. UTC+12
 
