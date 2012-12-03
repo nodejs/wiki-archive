@@ -1573,6 +1573,7 @@ rendering process.
 * [aws2js](https://github.com/SaltwaterC/aws2js) — Amazon Web Services APIs client implementation for node.js. Simple to use and extend.
 * [awssum](https://github.com/appsattic/node-awssum) — NodeJS modules for talking to lots of Web Service APIs
 * [azure](http://github.com/windowsazure/azure-sdk-for-node) - A library for accessing [Windows Azure](http://windowsazure.com) services including Tables, Blobs, Queues and Service Bus.
+* [basecamp](https://github.com/mark-hahn/basecamp) - Supports all 57 requests of the new Basecamp JSON api. With built-in oauth2 support.
 * [calais](https://github.com/mcantelon/node-calais) — Semantically analyze text using the Calais web service
 * [cloudfront](https://github.com/tellnes/node-cloudfront) — Amazon AWS CloudFront client
 * [cpanel-lib](https://github.com/vially/cpanel-lib) — Node.js client for the cPanel/WHM API
