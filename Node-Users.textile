@@ -760,6 +760,8 @@ h2. UTC+1 (+2)
 ** "Github":http://github.com/fosstux, "Website":http://soft.fosstux.net, "Twitter":http://twitter.com/fosstux
 * Jakub Mrozek, Český Těšín, Czech Republic
 ** "GitHub":https://github.com/JakubMrozek, "Website":http://www.ronnieweb.net, "Twitter":http://twitter.com/cznodejs
+* François Parmentier (parmentf), Nancy, France
+** "GitHub":http://github.com/parmentf, "Twitter":http://twitter.com/parmentf, "G+":https://plus.google.com/u/0/108420454149741066109/about
 
 h2. UTC+2 (+3)
 
