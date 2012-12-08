@@ -1049,6 +1049,8 @@ h2. UTC+9
 ** "Github":http://github.com/hideo55, "Twitter":http://twitter.com/hide_o_55, "Blog":http://d.hatena.ne.jp/hide_o_55/
 * EungJun Yi, Seoul, Korea
 ** "GitHub":http://github.com/npcode, "Twitter":http://twitter.com/semtlnori, "Blog":http://npcode.com/
+* Rishabh Mahajan (rishabhmhjn), Tokyo, Japan
+** "GitHub":http://github.com/rishabhmhjn, "Twitter":http://twitter.com/rishabhmhjn, "Blog":http://blog.rishabhmhjn.me
 
 h2. UTC+9:30 (+10:30)
 
