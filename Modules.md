@@ -786,13 +786,11 @@ rendering process.
 
 * [a3](https://github.com/twojcik/a3) — a3 module loads any folder of code into an 'API Tree'
 * [directory](https://github.com/tblobaum/directory) — require a whole directory
-* [haba](https://github.com/crcn/haba) — plugin library
 * [node-DJs](https://github.com/louisremi/node-DJs) - Restart a server after each change in main script and dependencies
 * [node-hot-reload](https://github.com/shimondoodkin/node-hot-reload) - watchFile and reload modules dynamically for node.js (very useful for development, less good for production)
 * [nodules](https://github.com/kriszyp/nodules) — Async URL CommonJS module loader with dep resolution/downloading and hot-module reloading
 * [remap](https://github.com/dominictarr/remap) - reroute require for mocks, wrappers, or shenanigans (useful for testing)
 * [sourcemint-platform-nodejs](https://github.com/sourcemint/platform-nodejs) — [sourcemint-loader-js](https://github.com/sourcemint/loader-js) (optimized CommonJS package mappings based JavaScript module loader) for NodeJS
-* [remap](https://github.com/dominictarr/remap) - reroute require for mocks, wrappers, or shenanigans (useful for testing)
 * [wrapit](https://github.com/omphalos/wrapit) - webservice to wrap any web resource in a header and footer; good for wrapping javascript files in require calls
 * [express-load](https://github.com/jarradseers/express-load) — Autoload scripts (routes, controllers, models...) into the Express application instance. 
 
