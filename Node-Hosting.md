@@ -61,6 +61,7 @@ VPS providers, which often require you to set everything up yourself, including 
 * [WebFaction](http://webfaction.com) - [setup guide](http://davestevens.us/articles/setting-up-nodejs-on-webfaction-revised)
 * [Windows Azure](https://www.windowsazure.com/en-us/develop/nodejs/tutorials/linux-virtual-machine/)
 * [Wirehive](http://www.wirehive.net/hosting/managed-hosting)
+* [Xentos VPS Germany](http://www.xentos.de/)
 * [Zerigo](http://www.zerigo.com/)
 
 ## DIY Platforms
