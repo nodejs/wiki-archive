@@ -988,6 +988,7 @@ rendering process.
 * [tunguska](https://github.com/kriszyp/tunguska) — A comet publish/subscribe distributed hub (runs across multiple node instances).
 * [wave-node](https://github.com/scottbw/wave-node) — An implementation of the Google Wave Gadget API for node.js
 * [Weasel](https://github.com/hackfrag/Weasel) — a command based websocket application framework
+* [websocket](https://github.com/Ayms/websocket) - Simple, minimal, modular, fast and easy WebSocket client and server
 * [websocket-node](https://github.com/Worlize/WebSocket-Node) — A WebSocket library that implements the most current protocol versions, 8 and 13.  Version 13 is the latest version that is now the final WebSocket spec as [RFC 6455](http://datatracker.ietf.org/doc/rfc6455/)
 * [ws-flash-client](https://github.com/ypocat/ws-flash-client) — Replaces the WebSocket object with a Flash implementation on clients without native WebSocket support, thus covering 99% of use cases. Works well with the `ws` WebSocket server.
 * [ws-rpc](https://github.com/ypocat/ws-rpc) — Lightweight RPC support for the `ws` WebSocket server. Supports rooms (channels), callbacks, auto-reconnection, using client WebSocket from Node.js (not only Browser), and works well with `ws-flash-client`.
