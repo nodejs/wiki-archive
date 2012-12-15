@@ -204,7 +204,7 @@
 
 This list is for websites and applications that are powered by node.js. If you've created a module (something which can *only* be run by being included into another project) then your project belongs on the"modules page":https://github.com/joyent/node/wiki/Modules instead. _If you spot modules here, feel free to remove them._
 
-* "madeinYYZ": <a href="http://madeinYYZ.com"></a> - A real time aggregator and interactive map for startup made in Toronto
+* "madeinYYZ": <a href="http://madeinYYZ.com"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png" width="12px" height="12px" alt='Toronto Startups'/></a> - A real time aggregator and interactive map for startup made in Toronto
 * "Duke Chronicle": <a href="http://www.dukechronicle.com" target="_blank"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png" width="12px" height="12px"/>http://www.dukechronicle.com</a>-- Duke University's student run news site, built entirely on Node.js
 * "WatchInSync": <a href="http://www.watchinsync.com/" target="_blank"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png" width="12px" height="12px"/>http://www.watchinsync.com/</a>-- A website for people to watch Youtube videos in synchronization in a"video chat room." It runs on node, Express and socket.io, while using YouTube api and tokbox api.
 * "Monorail.js": <a href="https://github.com/runexec/Monorail.js" target="_blank"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png" width="12px" height="12px"/>https://github.com/runexec/Monorail.js</a>-- Ultra lightweight MVC Framework for Node.js
