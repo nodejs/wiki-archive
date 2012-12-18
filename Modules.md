@@ -1548,6 +1548,7 @@ rendering process.
 <a name="wiki-video"></a>
 ## [Video](#video)
 
+* [node-ffmpeg](https://github.com/damianociarla/node-ffmpeg) — FFmpeg module for Node. This library provides a set of functions and utilities to abstract commands-line usage of ffmpeg
 * [ffmpeg-node](https://github.com/xonecas/ffmpeg-node) — Node.js driver for ffmpeg library
 * [ffmpeg2theora](https://github.com/FLYBYME/node-ffmpeg2theora) — Batch encoding with ffmpeg2theora
 * [navcodec](https://github.com/OptimalBits/navcodec) — Node bindings for libavcodec (ffmpeg).
