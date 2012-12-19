@@ -1233,6 +1233,7 @@ rendering process.
 <a name="wiki-parsers-binary"></a>
 ### [Binary file parsers](#parsers-binary)
 
+* [bop](https://github.com/rootslab/bop) — Bop is a very fast Boyer-Moore parser for string or buffer patterns. It is optimized for using with pattern lengths <= 255 bytes.
 * [bufferlist](https://github.com/substack/node-bufferlist) — Create linked lists of buffers and asynchronously parse binary data from these lists
 * [butter](https://github.com/rootslab/butter) — Butter === nodeJS Buffer + ( some hexadecimals delights )
 * [epub](https://github.com/andris9/epub) — Parse EPUB electronic book files with Node.JS, load chapters, images etc.
@@ -1240,7 +1241,8 @@ rendering process.
 * [jspack](https://github.com/pgriess/node-jspack) — JavaScript library to pack ints, floats, etc. to octet arrays representing C data structures
 * [musicmetadata](https://github.com/leetreveil/node-musicmetadata) — Get music metadata asynchronously from node streams.
 * [protobuf_for_node](http://code.google.com/p/protobuf-for-node/) — [Protocol buffer](https://developers.google.com/protocol-buffers/docs/overview) parsing and serialization.
-  * [protobuf](https://github.com/chrisdew/protobuf/) — A fork of protobuf_for_node with an npm package.
+* [protobuf](https://github.com/chrisdew/protobuf/) — A fork of protobuf_for_node with an npm package.
+* [qap](https://github.com/rootslab/qap) — Qap is a quick parser for string or buffer patterns ( optimized for pattern lengths <= 255 bytes ).
 * [reified](https://github.com/Benvie/reified) — JS Binary Data API. Structs, arrays, bitfields, and data. Reify and Reference like nobody's business.
 * [strtok](https://github.com/pgriess/node-strtok) — A streaming tokenizer library for binary data
 * [struct](https://github.com/xdenser/node-struct) — Parse/format binary data in buffers.
