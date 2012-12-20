@@ -1478,6 +1478,7 @@ rendering process.
 * [node-compress-buffer](https://github.com/egorfine/node-compress-buffer) — single-step Buffer compression library on top of zlib
 * [node-lzf](https://github.com/Sonetica/node-lzf) - lzf compression library (C++ around liblzf)
 * [node-snappy](https://github.com/kesla/node-snappy) — compression using Google's snappy library.
+* [minify](https://github.com/coderaiser/minify) - minify of js, css, html and img files.
 
 <a name="wiki-sound"></a>
 ## [Sound](#sound)
