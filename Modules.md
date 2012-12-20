@@ -678,6 +678,7 @@ rendering process.
 * [bread](https://github.com/pvorb/node-bread) — A file based static website/blog generator for node that uses markdown files as content providers.
 * [Calipso](http://calip.so/?utm_source=nodejs&utm_medium=github&utm_campaign=nodejs) — An express based CMS, very much work in progress.
 * [DocPad](https://github.com/bevry/docpad) — is a language agnostic document management system. It's actively maintained and supported by a growing community. It's also modular; so easy to extend and use in bigger systems. It already supports lots of markups and pre-processors through [available plugins](https://github.com/bevry/docpad/wiki/Plugins) and [powers many websites](https://github.com/bevry/docpad/wiki/Showcase).
+* [Enfield](https://github.com/fortes/enfield) - Static site / blog generator that aims to be as compatible as possible with Jekyll, only with JS/CoffeeScript plugins instead of Ruby.
 * [jslardo](https://github.com/obliquid/jslardo) — A Social CMS, where users are able to register to the application, create their own models (mongoose schemas), views, controllers, websites and pages. Work in progress, keep updated!
 * [LooseLeaf](http://looseleafjs.org/) — Very simple blogging engine based on express, no-DataBase, only JSON.
 * [MCMS](https://github.com/olegp/mcms) — A Minimal CMS using GitHub flavored Markdown, Mustache templates and the filesystem.
