@@ -1000,6 +1000,7 @@ rendering process.
 <a name="wiki-message-queue"></a>
 ## [Message Queues](#message-queue)
 
+* [simple-queue-service](https://github.com/ForbesLindesay/simple-queue-service) - A simple wrapper for amazon's simple queue service
 * [kue](http://learnboost.github.com/kue/) — Kue is a priority job queue backed by redis, with a clean & simple UI
 * [amqp-dsl](https://github.com/FGRibreau/node-amqp-dsl) — Fluent Interface for dealing with AMQP (RabbitMQ,...) on NodeJS
 * [amqp-tool](https://github.com/FGRibreau/node-amqp-tool) — Import & export data from/to an AMQP/RabbitMQ broker
