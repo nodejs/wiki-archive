@@ -1006,6 +1006,8 @@ h2. UTC+8
 ** "GitHub":http://github.com/dead-horse, "Blog":http://deadhorse.me, "Weibo":http://weibo.com/deadhorse
 * Huanyu Xie (xhowhy), Hangzhou, China
 ** "GitHub":http://github.com/xhowhy, "Blog":http://x1989.com, "Weibo":http://weibo.com/xhowhy
+* Chuan Yuan (yuanchuan), Chengdu, China
+** "GitHub":http://github.com/yuanchuan, "Blog":http://yuanchuan.name, "Weibo":http://weibo.com/spirit23
 
 h2. UTC+9
 
