@@ -50,7 +50,7 @@ Example install on openSUSE 12.1:
 
 ## CentOS, RHEL, Fedora etc
 
-On http://nodejs.tchol.org/ there was previously an updated yum repository, but it hasn't been updated since May 2012.
+On http://nodejs.tchol.org/ there was previously an updated yum repository, but this site does not exist anymore.
 
 ## Arch Linux
 Node.js is available in the Community Repository.
