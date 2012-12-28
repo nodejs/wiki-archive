@@ -1451,6 +1451,7 @@ rendering process.
 
 * [easy-table](https://github.com/eldargab/easy-table) — Nice and simple text table for the cli
 * [node-prompt](https://github.com/jesusabdullah/node-prompt) — Prompt the user for questions in cli!
+* [nosh](https://github.com/openmason/nosh) - Shell with plugin capabilities. Comes with a REST http client commands that makes any API browser from command line simple.
 * [Shell](https://github.com/wdavidw/node-shell) — Nice looking shell applications with pluggable middlewares
 
 <a name="wiki-compression"></a>
