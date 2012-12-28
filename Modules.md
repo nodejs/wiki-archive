@@ -944,6 +944,7 @@ rendering process.
 * [IPCNode](https://github.com/Frans-Willem/IPCNode) — Asynchronous RPC library based on node.js Stream object,  with support for circular objects, and explicit reference counting to ensure proper garbage collection.
 * [jayson](https://github.com/tedeh/jayson) - Featureful client and server implementation of JSON-RPC 2.0 (supports automatic forking, reviving/replacing, binary client etc.)
 * [json-rpc-server](https://github.com/diligences/json-rpc-server) — Simple implementation of JSON-RPC 2.0 server-side protocol with middleware support. Needs HTTP or any another server to communicate with clients.
+* [jsonrpclib](https://github.com/openmason/jsonrpclib) - A JSON-RPC v 2.0 library with full test suites. Transport is left out, so this library can be used with any transport.
 * [jsonrpc](https://github.com/ericflo/node-jsonrpc)
 * [jsonrpc2](https://github.com/Philipp15b/node-jsonrpc2) — A super easy to use JSON-RPC v2 server
 * [messenger](https://github.com/weixiyen/messenger.js) — Dead Simple API for cross-service communication (supports Pub/Sub, Request/Reply, Fire and Forget models).
