@@ -1745,6 +1745,7 @@ rendering process.
 * [jscex-jquery](http://github.com/audreyt/jscex-jquery) — Jscex adapter to jQuery.Deferred API, with $.async/$await support
 * [LAEH2](https://github.com/ypocat/laeh2) — Lightweight Asynchronous Error Handling v2. Wrap your asynchronous functions in an intelligent try/catch. Optional stack trace minification with async support, e.g.: `unexpected thing < ./ex1.js(9) << ./ex1.js(7 < 13)`.
 * [locker](https://github.com/bobrik/locker) (server) and [node-locker](https://github.com/bobrik/node-locker) (client) — lock server and client for distributed systems with waiting and execution timeouts.
+* [make-flow](https://github.com/eldargab/make-flow) - Make style control flow. Nice for complex functions.
 * [miniqueue](https://github.com/hsch/node-miniqueue) — A very simple in-memory queue for easy sequential processing
 * [narrow](https://github.com/0ctave/node-narrow) — Shrinks a given callback parallel execution concurrency in a limited number of threads, receiving a big bunch of data (array of tasks)
 * [nestableflow](https://github.com/minodisk/flow-js) — Asynchronous nestable flow-control (serial, parallel, repeat, wait, function) module for Node.js, RequireJS, and browser.
