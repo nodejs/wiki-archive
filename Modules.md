@@ -675,6 +675,7 @@ rendering process.
 <a name="wiki-content-management"></a>
 ## [Content Management Systems](#content-management)
 
+* [AkashaCMS](http://akashacms.com) - Static website generator, supporting EJS, Markdown and Kernel (asynchronous) template engines, template inheritance, partials, and more
 * [AE86](http://github.com/cliffano/ae86) — Static website generator. Easy to write custom tag as simple JavaScript function, clean and minimalistic template syntax.
 * [blacksmith](https://github.com/flatiron/blacksmith) — A static site generator built with Node.js, JSDOM, and Weld.
 * [bread](https://github.com/pvorb/node-bread) — A file based static website/blog generator for node that uses markdown files as content providers.
