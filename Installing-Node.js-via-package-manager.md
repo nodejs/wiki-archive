@@ -50,7 +50,10 @@ Example install on openSUSE 12.1:
 
 ## CentOS, RHEL, Fedora etc
 
-On http://nodejs.tchol.org/ there was previously an updated yum repository, but this site does not exist anymore.
+node.js has been accepted into Fedora Rawhide as of December 2012 and will be
+available in Fedora 18.
+
+See http://rpmfind.net/linux/rpm2html/search.php?query=nodejs for details.
 
 ## Arch Linux
 Node.js is available in the Community Repository.
