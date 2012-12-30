@@ -39,6 +39,7 @@ When editing this page please be as detailed as possible. Examples are encourage
       path: '/',
       href: 'http://foo/' }
 
+* Domain-added properties on error objects are `camelCase` instead of `snake_case`
 
 ## Added
 
