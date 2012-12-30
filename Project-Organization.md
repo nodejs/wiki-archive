@@ -1,6 +1,6 @@
 ## Core
 
-Node is an open source project run by [Joyent](http://joyent.com/). Joyent employs [Ryan Dahl](https://github.com/ry) and [Isaac Schlueter] (https://github.com/isaacs).
+Node is an open source project run by [Joyent](http://joyent.com/). Joyent employs [Isaac Schlueter] (https://github.com/isaacs).
 
 [Cloud9 IDE](https://c9.io/) employs [Bert Belder](https://github.com/piscisaureus) and [Ben Noordhuis](https://github.com/bnoordhuis).
 
