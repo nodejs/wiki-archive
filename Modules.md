@@ -1691,7 +1691,6 @@ rendering process.
 * [postageapp](https://github.com/postageapp/postageapp-nodejs) — A module for sending emails through the PostageApp JSON API
 * [rackit](https://github.com/rossj/rackit/) — A simple library for managing a large number of files on Rackspace Cloud Files (CloudFiles)
 * [ranger](https://github.com/mrduncan/ranger/) — A simple library which wraps Campfire's API
-* [rottentomatoes](https://github.com/Skookum/tomatoes) - Simple interface for the Rotten Tomatoes API
 * [sailthru-client](https://github.com/sailthru/sailthru-node-client) — A wrapper for Sailthru API
 * [sendgrid-mustache](https://github.com/jiem/sendgrid-mustache.git) — The most efficient way to use mustache templates with SendGrid: send 1000 mustache mails with only 1 POST request.
 * [sms](https://github.com/kaven276/sms) — Aimed at whole SGIP/SMPP nodes support for SMS system, now focused on SP function.
@@ -1915,6 +1914,7 @@ realtime balancing for live objects
 * [browserify](https://github.com/substack/node-browserify) — Browser-side require() for your node modules and npm packages
 * [compare.js](https://github.com/goloroden/compare.js) — Reliable comparison operators for Node.js the way you would expect them to be.
 * [crud-bones](http://words.alexeypro.com/crud-bones/) — CRUD boilerplate/template for Node.JS/Mongo/MySQL/Redis/Express/EJS/Cluster/etc.
+* [cryo](https://github.com/hunterloftis/cryo) - Pickle for JavaScript; extended JSON. Easily store/serialize/freeze and re-hydrate complex JavaScript objects including Functions and nested references.
 * [descriptive-statistics](http://fgribreau.github.com/descriptive_statistics/) — Descriptive Statistics for JavaScript
 * [difflib.js](https://github.com/qiao/difflib.js) — Text diff library, ported from Python's difflib module
 * [Gauss](http://github.com/stackd/gauss) - JavaScript statistics and analytics library
