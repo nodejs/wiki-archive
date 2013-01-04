@@ -32,6 +32,8 @@ To generate patch files:
 # commit your change
 # Use the <code>git format-patch</code> command to generate patch files.
 
+For more detailed information on managing a git repo, please visit the [[Contributing for Dummies]] page.
+
 h2. A note about your patch
 
 These are some things to consider before thinking about patching node core:
