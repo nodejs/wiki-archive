@@ -1523,6 +1523,7 @@ rendering process.
 * [node-imager](https://github.com/madhums/node-imager) - Easy way to resize, crop and upload images (with different presets) to Rackspace cloudfiles and Amazon S3.
 * [node-jpeg](https://github.com/pkrumins/node-jpeg) — Convert an RGBA or RGB buffer to JPEG fast
 * [node-magick](https://github.com/mirkok/Node-Magick) — rewrite of GraphicsMagick wrapper magickal-node fixing some issues
+* [node-occ](https://github.com/erossignon/node-occ) - construct BREP solid geometry with OpenCascade 
 * [node-ogl](https://github.com/tmpvar/node-ogl) — OpenGL bindings
 * [node-opencv](https://github.com/talvarez/node-opencv) — Node.js bindings for OpenCV. Originally forked from [peterbraden/node-opencv](https://github.com/peterbraden/node-opencv)
 * [opencv-node](https://github.com/codeboost/opencv-node) - Node.js bindings for OpenCV. Supports most of the OpenCV 2.42 API, including video capture.
