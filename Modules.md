@@ -1938,6 +1938,7 @@ realtime balancing for live objects
 * [nova](https://github.com/wearefractal/nova) — Node.js libraries ported to the browser. Write once, run everywhere.
 * [numpad](https://github.com/pvorb/numpad) — Pad numbers with leading zeros to any number of digits
 * [oid](https://github.com/Obvious/oid) — Utilities for object identity
+* [rainbow.js](https://github.com/jiin/Rainbow) — Library for converting in most famous colors schema
 * [randexp.js](http://fent.github.com/randexp.js/) - Create random strings that match a given regular expression.
 * [short](http://github.com/edwardhotchkiss/short/) — NodeJS URL Shortener backed by MongooseJS w/ Complete Example Site
 * [sigar](https://github.com/wdavidw/node-sigar) — Node Binding to SIGAR (System Information Gatherer And Reporter)
