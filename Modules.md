@@ -1629,6 +1629,7 @@ rendering process.
 * [instagram-node-lib](https://github.com/mckelvey/instagram-node-lib) — Library for easy interaction with the Instagram API
 * [janrain-api](https://github.com/demetriusj/janrain) — Module for interfacing with Janrain Engage API
 * [klout-js](https://github.com/smurthas/klout-js) — Simple Klout API wrapper
+* [kippt-js](https://github.com/jiin/kippt) — API modules for kippt.com
 * [lastfm-node](https://github.com/jammus/lastfm-node) — Read and write to users' recent plays on Last.fm
 * [libravatar](https://github.com/fmarier/node-libravatar) — Module for generating [Libravatar](https://www.libravatar.org) avatar URLs.
 * [linkedin-js](https://github.com/masylum/linkedin-js) — Easy peasy linkedin client for connect.
