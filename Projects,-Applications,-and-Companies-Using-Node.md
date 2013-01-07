@@ -1,4 +1,3 @@
-
 ## Companies
 
 Company|Link|Notes
@@ -152,7 +151,7 @@ Redman Tech|<a href="http://redmantech.com" target="_blank"><img src='http://upl
 Sayqua|<a href="http://sayqua.com" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;sayqua.com</a>| Online tool to create Final Cut Pro subtitles from translation documents, and SRT & STL files.
 ScientiaMobile|<a href="http://www.scientiamobile.com" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;www.scientiamobile.com</a>| Cloud Mobile Device Detection through a [Device Description Repository (DDR) in the Cloud](http://www.scientiamobile.com/wurflCloud/gettingStarted/).
 Scopely|<a href="http://bit.ly/scopely-github" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;bit.ly/scopely-github</a>|using Node to power realtime chat, user presence and notifications, analytics, apis and general geekery.
-SecretSocial|<a href="http://shh.sh" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;shh.sh</a>| 100% node + SSL, a place for having private conversations.
+SecretSocial|<a href="http://shh.sh" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;shh.sh</a>| 100% node + SSL, a place for having private conversations. [Redirects to <a href="https://quip.io/">Quip.io</a>.]
 Securesha.re|<a href="http://securesha.re/" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;securesha.re</a>|A system for sharing files that are encrypted in-browser.
 Sentymetr|<a href="http://sentymetr.pl" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;sentymetr.pl</a>| Social media monitoring in Poland. We use JavaScript and node.js for data processing.
 Sexbyfood|<a href="http://www.sexbyfood.com" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;www.sexbyfood.com</a>|a web-based reservations book for restaurateurs
