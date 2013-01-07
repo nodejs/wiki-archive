@@ -1,5 +1,4 @@
 
-
 ## Companies
 
 Company|Link|Notes
@@ -87,7 +86,7 @@ ipowerhouse|<a href="http://www.ipowerhouse.com" target="_blank"><img src='http:
 ipseitycloud|<a href="http://www.ipseitycloud.com" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;www.ipseitycloud.com</a>| Use node.js for everything, blog, apps, webpage, etc
 Jetpacks for Dinosaurs|<a href="http://jetpacksfordinosaurs.com" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;jetpacksfordinosaurs.com</a>| Node.js Consultancy and Startup incubator.
 Jetsetter|<a href="http://www.jetsetter.com/" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;www.jetsetter.com</a>| Travel and Vacation Deals. Node.js powers the mobile website. 
-Joinbox|<a href="http://www.joinbox.com/" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;www.joinbox.com</a>| News/Email/Social Networks aggregator implemented with Node.js using several node modules like MongoDB, Snappy, and ICU.
+Joinbox|<a href="http://www.joinbox.com/" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;www.joinbox.com</a>| News/Email/Social Networks aggregator implemented with Node.js using several node modules like MongoDB, Snappy, and ICU. [Shut down Dec 31, 2012]
 Joshfire|<a href="http://www.joshfire.com/" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;www.joshfire.com</a>| Internet Of Things company, Multi-device app development
 Joyent|<a href="http://www.joyent.com/" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;www.joyent.com</a>|
 Kano/Apps|<a href="http://www.kanoapps.com/" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;www.kanoapps.com</a>| builds social games and applications for every platform
