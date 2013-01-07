@@ -6,7 +6,6 @@
 * [サーバサイドJavaScript Node.js入門(In Japanese)](http://www.amazon.co.jp/%E3%82%B5%E3%83%BC%E3%83%90%E3%82%B5%E3%82%A4%E3%83%89JavaScript-Node-js%E5%85%A5%E9%96%80-%E6%B8%85%E6%B0%B4%E4%BF%8A%E5%8D%9A/dp/4048703676/ref=sr_1_1?ie=UTF8&qid=1349928638&sr=8-1) -- by T Shimizu et al. 
 ## Sites
 
-* [v8 Getting Started](https://developers.google.com/v8/get_started) -- Google official v8 documentation
 * [NodeManual](http://www.nodemanual.org) -- by [Cloud9 IDE](http://www.c9.io), a fork of the official Node.js API documentation, with a different organization, examples you can run in the browser, and additional tutorials
 * [NodeBits](http://www.nodebits.org) -- by Tim Caswell, a site dedicated to keeping the NodeJS spirit of innovation and creativity alive. This is done by providing a constant stream of ideas and sample projects.
 * [justjs](http://justjs.com) -- by Tom Boutell. A blog featuring a series of node.js tutorials, starting with the basics of installing Node and MongoDB on your own computer and building from there into creating full-fledged node apps, beginning with the justjs.com blog itself.
@@ -38,6 +37,7 @@
 * [Chat webapp with node 0.6.15 and socket.io](http://cestfait.ch/content/chat-webapp-nodejs) -- by Damien Snoeck
 * [A Beginner’s Tutorial for Node.js](http://project70.com/nodejs/beginners-tutorial-node-js/) -- by Cedric Dussud
 * Exploring the V8 JS engine [Part 1](http://jcla1.com/blog/2012/01/07/exploring-the-v8-js-engine-part-1/) [Part 2](http://jcla1.com/blog/2012/01/08/exploring-the-v8-js-engine-part-2/)
+* [v8 Getting Started](https://developers.google.com/v8/get_started) -- Google official v8 documentation
 
 ## Talks
 * [GoogleTechTalk: Node.js](http://www.youtube.com/watch?v=F6k8lTrAE2g) -- by Ryan Dahl (video, 2010-07-28)
