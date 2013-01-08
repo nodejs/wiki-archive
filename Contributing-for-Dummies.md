@@ -78,7 +78,7 @@ It's highly unlikely that in the time you create a change, submit the pull reque
 # move onto the master branch
 git checkout master
 # rebase my master onto upstream's
-git pull --rebase upstream/master
+git pull --rebase upstream master
 
 # However, if you have any commits "floating"
 # on your master branch that you'd like to discard,
