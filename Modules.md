@@ -1011,6 +1011,7 @@ rendering process.
 <a name="wiki-message-queue"></a>
 ## [Message Queues](#message-queue)
 
+* [redisq](https://github.com/runk/redisq) Fast message processing queue backed by redis, web interface for monitoring 
 * [simple-queue-service](https://github.com/ForbesLindesay/simple-queue-service) - A simple wrapper for amazon's simple queue service
 * [kue](http://learnboost.github.com/kue/) — Kue is a priority job queue backed by redis, with a clean & simple UI
 * [amqp-dsl](https://github.com/FGRibreau/node-amqp-dsl) — Fluent Interface for dealing with AMQP (RabbitMQ,...) on NodeJS
