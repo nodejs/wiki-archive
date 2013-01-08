@@ -4,21 +4,21 @@ The simplest way to contribute to Node.js is by using GitHub's pull request syst
 
 Go to the repository page and hit that big **Fork** button in the top right. This will create your very own personal copy of the repository to which you can commit. Now `clone` the repository to your machine:
 
-```
+```bash
 git clone git@github.com:seriousu/node.git
 cd node
 ```
 
 To receive the latest changes we need to let the repository know where the `upstream` repository lives. _Pull requests that don't stay up-to-date don't get pulled_.
 
-```
-    git remote -v add upstream https://github.com/joyent/node.git
-    git fetch upstream
+```bash
+git remote -v add upstream https://github.com/joyent/node.git
+git fetch upstream
 ```
 
 Now you're setup and anxious to start hacking away with some awesome ideas. **STOP**. If you want a snowball's chance in hell of having your changes pulled, they need to be self contained. To do this, start by creating and checking out a new branch from `master`:
 
-```
+```bash
 git checkout master
 git checkout -b my_awesome_idea
 ```
@@ -43,46 +43,75 @@ Fixes joyent/node#4510.
 ```
 
 This demonstrates three key things:
+
 * First line is prepended with area of functionality and followed by a short and descriptive message.
 * Followed by descriptive text explaining what caused the bug.
 * Ended by referencing the bug in question.
 
 GitHub automatically links to bugs in commit messages in the form of `<usr>/<repo>#<issue>` or `GH-<issue>`. Use it, please.
 
-Usually userland pull requests won't be large enough for multiple commits. So if you've already committed but would like to add additional changes to that commit use the following:
+Usually userland pull requests won't be large enough for multiple commits. So if you've already made multiple commits, and would like to squash them into one (or a few) atomic changes, please use this technique:
 
-```
+```bash
 git commit --amend
 ```
 
 This will bring up the commit message box which can be edited and saved. Once this is done your commit history will be rewritten. So in order to push these new changes to the server they'll have to be forced. Force pushing changes will overwrite the remote history with what you currently have in your local repository:
 
-```
-git push -f origin my_awesome_branch
+```bash
+# the + sign is for "clobber". This is better than --force
+# because it will only clobber this one single thing.
+# see `git help push` for more info.
+git push origin +my_awesome_branch
+
+# to clobber *everything* you can do this, but USE WITH CAUTION!
+git push origin --all --force
 ```
 
 ## Staying up-to-date
 
 It's highly unlikely that in the time you create a change, submit the pull request and have it accepted there will be no changes to the repository. So now it's time to get those changes into our repository. Do this with the following:
 
-```
+```bash
+# this is usually the best way:
+
+# move onto the master branch
 git checkout master
-git fetch upstream
-git merge --ff upstream/master
+# rebase my master onto upstream's
+git pull --rebase upstream/master
+
+# However, if you have any commits "floating"
+# on your master branch that you'd like to discard,
+# you can do this.  IT WILL LOSE THOSE COMMITS!
+# but sometimes that's what you want to do.
+
+# move onto the master branch
+git checkout master
+# get all the refs from the upstream
+git fetch -a upstream
+# point the current branch at upstream's master
+git reset --hard upstream/master
+
+# you can omit the --hard to leave your floating commits
+# in the working dir as just a bunch of changed files.
+# I do this sometimes if I want to entirely start over with
+# my commit messages.
 ```
 
-The `--ff` will `fast-forward` (meaning not leaving a trace of a merge) to your `master` branch. _If you can't fast-forward your master branch something has gone wrong_.
+And now to combine the latest from `master` to `my_awesome_idea`. How do we keep our changes up on the current `upstream` branch? If you're thinking `merge` you're mistaken. Merging your changes will make all kinds of ugly in the pull request, and nobody wants ugly.  (Typically, if you do this, a committer will ask you to "rebase onto the current master".  Here's how to do that.)
 
-And now to combine the latest from `master` to `my_awesome_idea`. How do we keep our changes up on the current `upstream` branch? If you're thinking `merge` you're mistaken. Merging your changes will make all kinds of ugly in the pull request, and nobody wants ugly.
+Instead of `merge`, we'll be using `rebase`. This will rewind your commits then reapply them to the latest. Do that with the following:
 
-Instead we'll be using `rebase`. This will rewind your commits then reapply them to the latest. Do that with the following:
-
-```
+```bash
+# update local master
+git checkout master
+git pull --rebase upstream master
 git checkout my_awesome_branch
 git rebase master
+# or git rebase master -i if you also want to edit/squash commits
 ```
 
-It's possible there will be conflicts with your changes. You can either fix the conflicts then `git rebase --continue` or just `git rebase --abort` to cancel the `rebase`. Afterwards force push your changes with the same `git push -f origin my_awesome_idea`. Now when you check your pull request again all you'll see are the update SHA's of each commit. And GitHub has a very nice code commenting feature where any previous comments will only be rendered outdated if the section of code was changed by the `rebase`.
+It's possible there will be conflicts with your changes. You can either fix the conflicts then `git rebase --continue` or just `git rebase --abort` to cancel the `rebase`. Afterwards force push your changes with the same `git push origin +my_awesome_idea`. Now when you check your pull request again all you'll see are the update SHA's of each commit. And GitHub has a very nice code commenting feature where any previous comments will only be rendered outdated if the section of code was changed by the `rebase`.
 
 ## Submission and review
 
@@ -102,4 +131,4 @@ For a more extreme example of a pull request see [joyent/node#4348](https://gith
 
 On a final note: Don't get discouraged. Node is held to high standards, and it can take months to begin to feel comfortable with how the workflow operates and why things are done the way they are. Jump on IRC. Chances are someone is there ready to help.
 
-Welcome to the community.
+Welcome to the community, and thanks for helping!
