@@ -1927,6 +1927,7 @@ realtime balancing for live objects
 * [cryo](https://github.com/hunterloftis/cryo) - Pickle for JavaScript; extended JSON. Easily store/serialize/freeze and re-hydrate complex JavaScript objects including Functions and nested references.
 * [descriptive-statistics](http://fgribreau.github.com/descriptive_statistics/) — Descriptive Statistics for JavaScript
 * [difflib.js](https://github.com/qiao/difflib.js) — Text diff library, ported from Python's difflib module
+* [easyRTC](http://easyrtc.com/) — WebRTC server and client API kit. Allows for rapid WebRTC application deployment.
 * [Gauss](http://github.com/stackd/gauss) - JavaScript statistics and analytics library
 * [GFMS](https://github.com/ypocat/gfms) — Github Flavored Markdown Server. Preview your README.md (and other markdown docs) locally before committing it. Uses Github's CSS for faithful representation. Uses [ws-rpc](https://github.com/ypocat/ws-rpc) to automatically reload your browser upon file changes.
 * [highlight.js](https://github.com/isagalaev/highlight.js) — Syntax Highlighting (for node.js and browser)
