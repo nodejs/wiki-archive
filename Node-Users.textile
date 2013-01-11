@@ -176,6 +176,8 @@ h2. UTC-8
 ** "Github":http://github.com/daviddripps, "Website":http://www.daviddripps.com, "Twitter":http://twitter.com/daviddripps
 * Salehen Shovon Rahman (shovon), Vancouver, BC, Canada
 ** "GitHub":http://github.com/shovon, "Twitter":http://twitter.com/shovon_rahman
+* Sabra Pratt (prattsj), Seattle, WA, US
+** "GitHub":http://github.com/prattsj/, "Twitter":http://twitter.com/prattsj/, "Website":http://generalui.com
 
 h2. UTC-7 (-6)
 
