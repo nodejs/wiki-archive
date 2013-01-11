@@ -4,6 +4,11 @@ Node is an open source project run by [Joyent](http://joyent.com/). Joyent emplo
 
 [Cloud9 IDE](https://c9.io/) employs [Bert Belder](https://github.com/piscisaureus) and [Ben Noordhuis](https://github.com/bnoordhuis).
 
+[Voxer](http://voxer.com/) employs [Fedor Indutny](https://github.com/indutny).
+
+[LearnBoost](http://learnboost.com/) employs [Nathan Rajlich](https://github.com/TooTallNate).
+
+[Microsoft](http://microsoft.com/) employs [Scot Blomquist](https://github.com/sblom).
 
 ## Core Team
 
