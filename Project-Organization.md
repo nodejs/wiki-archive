@@ -1,25 +1,15 @@
-## Core
-
-Node is an open source project run by [Joyent](http://joyent.com/). Joyent employs [Isaac Schlueter] (https://github.com/isaacs).
-
-[Cloud9 IDE](https://c9.io/) employs [Bert Belder](https://github.com/piscisaureus) and [Ben Noordhuis](https://github.com/bnoordhuis).
-
-[Voxer](http://voxer.com/) employs [Fedor Indutny](https://github.com/indutny).
-
-[LearnBoost](http://learnboost.com/) employs [Nathan Rajlich](https://github.com/TooTallNate).
-
-[Microsoft](http://microsoft.com/) employs [Scot Blomquist](https://github.com/sblom).
+Node is an open source project run by [Joyent](http://joyent.com/), originally written by [Ryan Dahl](https://github.com/ry).
 
 ## Core Team
 
 Full-time/active committers:
 
-* Isaac Schlueter ([isaacs](https://github.com/isaacs))
-* Bert Belder ([piscisaureus](https://github.com/piscisaureus))
-* Ben Noordhuis ([bnoordhuis](https://github.com/bnoordhuis))
-* Fedor Indutny ([indutny](https://github.com/indutny))
-* Nathan Rajlich ([TooTallNate](https://github.com/TooTallNate))
-* Scott Blomquist ([sblom](https://github.com/sblom))
+* Isaac Schlueter ([isaacs](https://github.com/isaacs) - [Joyent](http://joyent.com/))
+* Bert Belder ([piscisaureus](https://github.com/piscisaureus) - [Cloud9 IDE](https://c9.io/))
+* Ben Noordhuis ([bnoordhuis](https://github.com/bnoordhuis) - [Cloud9 IDE](https://c9.io/))
+* Fedor Indutny ([indutny](https://github.com/indutny) - [Voxer](http://voxer.com/))
+* Nathan Rajlich ([TooTallNate](https://github.com/TooTallNate) - [LearnBoost](http://learnboost.com/))
+* Scott Blomquist ([sblom](https://github.com/sblom) - [Microsoft](http://microsoft.com/))
 
 Part-time/inactive committers:
 
