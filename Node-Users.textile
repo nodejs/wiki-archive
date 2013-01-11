@@ -279,6 +279,8 @@ h2. UTC-6 (-5)
 
 h2. UTC-5 (-4)
 
+* Aleksandr Yampolskiy (yampolskiy)
+** "GitHub":http://github.com/cinchcast, "Twitter":http://twitter.com/ayampolskiy, "Website":http://www.ctothoughts.com
 * Nicholas Penree (drudge)
 ** "GitHub":http://github.com/drudge, "Twitter":http://twitter.com/npenree, "Website":http://penree.com
 * Paul Barry (pjb3)
