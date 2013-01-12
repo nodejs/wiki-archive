@@ -1132,10 +1132,10 @@ rendering process.
 ## [Dependency Injection tools](#dependency-injection)
 
 * [Coffee-Injector](https://github.com/Ezku/coffee-injector) — An asynchronous dependency injection container written in coffeescript.
+* [easy-app](https://github.com/eldargab/easy-app) — Nice home for your applications
 * [rewire](https://github.com/jhnns/rewire) — Dependency injection for node.js applications
 * [dependable](https://github.com/idottv/dependable) - Automatic dependency resolution without tweaking require
 * [Medic Injector](https://github.com/DrBenton/Medic-Injector-JS) - A light-weight Javascript Dependency Injection tool, strongly inspired by the great ActionScript3 [RobotLegs](http://www.robotlegs.org/) framework and it SwiftSuspenders IoC container
-* [the-box](https://github.com/eldargab/the-box) — Build systems style computational model for complex apps
 
 <a name="wiki-wrappers"></a>
 ## [Wrappers](#wrappers)
