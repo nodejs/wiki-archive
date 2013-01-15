@@ -48,7 +48,7 @@ Example install on openSUSE 12.1:
     sudo zypper ar http://download.opensuse.org/repositories/devel:/languages:/nodejs/openSUSE_12.1/ NodeJSBuildService 
     sudo zypper in nodejs nodejs-devel
 
-## CentOS, RHEL, Fedora etc
+## RHEL, Fedora etc
 
 node.js has been accepted into Fedora Rawhide as of December 2012 and will be
 available in Fedora 18.
