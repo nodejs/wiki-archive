@@ -411,6 +411,8 @@ h2. UTC-5 (-4)
 ** "Github":http://github.com/jplock, "Twitter":http://twitter.com/jplock
 * Nicholas Poorman (poorman), Syracuse, NY
 ** "Github":http://github.com/nickpoorman, "Twitter":http://twitter.com/nickpoorman, "Website":http://poorman.me/
+* Aurigadl, Bogota, CO
+** "Github":http://github.com/aurigadl, "Website":http://empresarialhd.co/
 
 h2. UTC-4 (-3)
 
