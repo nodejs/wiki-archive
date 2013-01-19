@@ -696,11 +696,11 @@ rendering process.
 * [Murray CMS](https://github.com/thecolorblue/murray-cms) — blog platform using express and mongodb.
 * [NoCR](https://github.com/NoCR/NoCR) — JCR-inspired Content Repository API for Node.js which maps your content model to a tree of nodes and properties. There is a [MongoDB NoCR provider](https://github.com/karacos/nocr-mongo) available
 * [Nodepad](https://github.com/alexyoung/nodepad) — A nice basic web-based notepad.
-* [NodeWiki](https://github.com/nhoss2/nodewiki) - A simple markdown/text file wiki system.
-* [Punch](http://laktek.github.com/punch) - A simple tool to generate HTML documents from Mustache templates and content stored in JSON & Markdown format.
+* [NodeWiki](https://github.com/nhoss2/nodewiki) — A simple markdown/text file wiki system.
+* [Punch](http://laktek.github.com/punch) — A simple tool to generate HTML documents from Mustache templates and content stored in JSON & Markdown format.
 * [reed](https://github.com/ProjectMoon/reed) — A Markdown-based blogging core backed by Redis and the filesystem.
 * [nodeportal](https://github.com/saggiyogesh/nodeportal) — Inspired from Liferay, its a portal cms. Currently in heavy development. 
-* [hexo](https://github.com/tommy351/hexo) - A fast, simple & powerful blog framework inspired by Jekyll & Octopress.
+* [hexo](https://github.com/tommy351/hexo) — A fast, simple & powerful blog framework inspired by Jekyll & Octopress.
 
 <a name="wiki-build-and-deployment"></a>
 ## [Build and deployment](#build-and-deployment)
