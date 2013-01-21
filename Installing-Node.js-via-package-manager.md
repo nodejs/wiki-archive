@@ -50,10 +50,11 @@ Example install on openSUSE 12.1:
 
 ## RHEL, Fedora etc
 
-node.js has been accepted into Fedora Rawhide as of December 2012 and will be
-available in Fedora 18.
+Node.js is currently being implemented in Fedora 18 and will become a regular part of the distribution starting with Fedora 19.
 
-See http://rpmfind.net/linux/rpm2html/search.php?query=nodejs for details.
+To try the unstable 0.9.x series with Fedora 18 right now, run:
+
+    sudo yum --enablerepo=updates-testing install nodejs
 
 ## Arch Linux
 Node.js is available in the Community Repository.
