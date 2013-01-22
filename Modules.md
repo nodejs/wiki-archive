@@ -1114,6 +1114,7 @@ rendering process.
 * [spectacular](https://github.com/jcrosby/spectacular) — for testing
 * [speculum](https://github.com/edwardhotchkiss/speculum) — BDD Test Suite.
 * [Speks](https://github.com/ecavazos/speks) — A specification framework for your node-code
+* [stage](https://github.com/jfd/stage) — Distributed testing suite
 * [stest](https://github.com/siddMahen/stest) — A sane event driven async testing framework.
 * [supertest](https://github.com/visionmedia/supertest) — HTTP test utility built on top of superagent, works with any test framework
 * [Syringe](https://github.com/easternbloc/Syringe) — Dependency mocking for node modules
