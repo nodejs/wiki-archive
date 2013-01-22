@@ -12,7 +12,7 @@ Name | Node Version | Web Sockets | IP/Hostname | IRC | Repository | Free Plan |
 [Cloudnode](http://cloudno.de) | 0.4.12, 0.6.17 | Yes | Yes | | | Yes - Up to 3 VMs, 25 MB CouchDB space, 250,000 requests/month. | | Beta (accepting signups) - powered by Nodester 
 [DotCloud](http://www.dotcloud.com) | 0.4.10 | Yes | Paid plan | #dotcloud | [dotcloud](https://github.com/dotcloud) | Yes - 2 services. | Pro - $99/month, 4 services. Enterprise - Unlimited services. | Beta
 [Heroku](http://heroku.com) | [0.4.x, 0.6.x, 0.8.x](http://heroku-buildpack-nodejs.s3.amazonaws.com/manifest.nodejs) | No | Yes | #heroku | [heroku](http://github.com/heroku) | Yes - 1 Dynamo (256 MB Ram) | | 
-[Modulus](http://modulus.io) | 0.8.15 | Yes | Yes | | [OnModulus](https://github.com/onmodulus) | | | Public Beta 
+[Modulus](http://modulus.io) | 0.8.15 | Yes | Yes | #modulus | [OnModulus](https://github.com/onmodulus) | | | Public Beta 
 [MangoRaft](http://mangoraft.com/) | 0.8.10 | Yes | Yes | | [MangoRaft](https://github.com/MangoRaft) | Yes | | In Private Beta
 [no.de](http://no.de) | 0.4.11 | Paid plan | Paid plan | #joyent | [joyent](http://github.com/joyent) | Yes - 128 MB Ram (no longer available) | | 
 [NodeSocket](http://www.nodesocket.com) | 0.4.12 | Yes | Yes | | [nodesocket](https://github.com/nodesocket) | | | In Private Beta
