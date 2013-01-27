@@ -133,6 +133,7 @@ You may obtain pre-compiled Node.js binaries for several platforms from [http://
 ### Installing on Windows
 
 #### Manual install
+#### Recommended ( Manual Install is cleaner than Automatic Install )
 
 The [http://nodejs.org/dist/latest/node.exe](http://nodejs.org/dist/latest/node.exe) file is a standalone Windows executable that contains only the last version of Node.js engine.
 
