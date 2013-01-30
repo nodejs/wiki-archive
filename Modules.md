@@ -797,6 +797,7 @@ rendering process.
 * [npm](https://github.com/isaacs/npm) — A node package manager that uses CommonJS-compatible package.json files, written in asynchronous JavaScript.
 * [police](https://github.com/pksunkara/npm-police) — A module dependency version policing tool. It goes through all your repositories on github which has package.json and analyzes the dependencies and reports back to you about all the outdated packages.
 * [Slugr](https://github.com/crcn/slugr) — Wraps node.js apps into a single executable file.
+* [pkgtool](https://github.com/vtsvang/node-pkgtool) — Tool for managing package dependencies.
 
 <a name="wiki-module-loader"></a>
 ## [Module Loader](#module-loader)
