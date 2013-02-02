@@ -58,4 +58,4 @@ For previous versions, see [Documentation Index](http://nodejs.org/docs) page.
 
 ## Logos
 
-* [[Official and Community Logos|Logos]]
+* [[Official and Community Logos|Logos]] a
