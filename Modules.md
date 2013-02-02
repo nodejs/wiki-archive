@@ -1422,7 +1422,7 @@ rendering process.
 * [logule](https://github.com/clux/logule) — A sexy portable logging utility using colors
 * [nlogger](https://github.com/igo/nlogger) — Logging lib that can print also module names and line numbers, optionally in color
 * [node-logentries](https://github.com/rjrodger/node-logentries) — A winston-compatible wrapper library for the logentries.com service
-* [node-logging](https://github.com/HerdHound/node-logging) — Simple colorized logging for Node.js with request logger Express middleware
+* [node-logging](https://github.com/HerdHound/node-logging) — Simple colorized logging for Node.js with request logger Express middleware (Note: 404 error on link.)
 * [node-streamlogger](https://github.com/andrewvc/node-streamlogger) — Extensively customizable logging, with support for rotation
 * [node-tick](https://github.com/sidorares/node-tick) — v8.log processor
 * [NodeLog](https://github.com/FabianM/NodeLog) — Logging library for Node.js based on the java.util.logging library.
