@@ -1200,6 +1200,7 @@ rendering process.
 * [xml2json](https://github.com/buglabs/node-xml2json) — Simple SAX based XML to JSON parser. It uses node-expat.
 * [xmldom](https://github.com/jindw/xmldom) — A PURE JS W3C Standard based DOMParser and XMLSerializer (DOM Level2 CORE).
 * [xml-crypto](https://github.com/yaronn/xml-crypto) — Xml digital signature and encryption library for Node.js - written in pure javascript.
+* [xml-digester](https://github.com/vrvolle/xml-digester) — Yet another Xml-to-Javascript converter - that can easily be extended (e.g. allows to preserve the sequence of nodes).
 * [saxpath](https://github.com/StevenLooman/saxpath) - Pure-JS XPath evaluator using a SAX parser.
 
 <a name="wiki-parsers-commandline"></a>
