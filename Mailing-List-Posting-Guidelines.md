@@ -55,7 +55,7 @@ If you're not sure whether or not a given sentiment counts as "complaining", **a
 
 If you really need to complain, do it productively, like a grownup, **off-list**, with the person who you actually have a problem with.  If you want to whine like a child in unproductive ways about how the free services of the world are not satisfying your every need, then that's what Hacker News is for.  The Node community is different.  We don't want to hear it.
 
-We don't care about losing a few people who spew bad energy.  We care about losing all the newcomers who see a bad-energy-geiser, and decide that Node is not a friendly place.
+We don't care about losing a few people who spew bad energy.  We care about losing all the newcomers who see a bad-energy-geyser, and decide that Node is not a friendly place.
 
 Those who violate the "no kvetching" rule will be removed from the list swiftly, permanently, and without recourse or discussion.
 
