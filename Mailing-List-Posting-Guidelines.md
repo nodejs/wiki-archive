@@ -37,10 +37,30 @@ If someone offends or insults you on-list, it's probably inadvertent.  Most peop
 
 This also covers generally mean-spirited comments about other platforms.  Complaining about other platforms doesn't help node.
 
+### Flame and Complaining (the "no kvetching" rule)
+
+In fact, **no complaining of any sort is allowed at all** on the list.
+
+Didn't have a good time at a conference, or the videos are taking a long time to be released?  Email the organizer **off-list**.
+
+Don't think promises are a good idea?  **Just don't use them.**  What if someone asks (on-list) if you think promises are a good idea.  Reply that you don't use them, and explain the pro's and con's, **respectfully**, like an adult.
+
+Got a problem with a module that you *do* use?  **Post a bug**, or **email the author**.  Got a problem with node itself?  [We got you covered.](https://github.com/joyent/node/issues)  **Keep it off the list.**
+
+If you're not sure whether or not a given sentiment counts as "complaining", **assume that it does**, and figure out if there's something better you can do with that opinion.  Perhaps there's a better place to discuss it (and perhaps "alone with your thoughts" is the perfect place to do so).
+
+If you really need to complain, do it productively, like a grownup, **off-list**, with the person who you actually have a problem with.  If you want to whine like a child in unproductive ways about how the free services of the world are not satisfying your ever need, then that's what Hacker News is for.  The Node community is different.  We don't want to hear it.
+
+We don't care about losing a few people who spew bad energy.  We care about losing all the newcomers who see a bad-energy-geiser, and decide that Node is not a friendly place.
+
+Those who violate the "no kvetching" rule will be removed from the list swiftly, permanently, and without recourse or discussion.
+
 ### Discussions about whether a given message belongs where someone sent it
 
 If someone posts something that you think doesn't belong in the place they posted it, please kindly direct them to this page, and trust that they'll read it and try to follow it.
 
 If you think this page is unclear or unhelpful, then let's discuss that on the nodejs list, without making it about a specific user, who will probably end up feeling guilty and picked on, and almost certainly had the best intentions.  We need to encourage our community to grow, and we can't do that by berating new people.
+
+If someone is repeatedly breaking these rules, chances are that a moderator is just not noticing because it tends to be a rather busy list, and it's hard to keep up with every thread.  Email <i@izs.me> with your concerns.
 
 Don't reply to spam, not even to tell the spammer to die, not even in a fire.
