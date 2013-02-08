@@ -53,7 +53,7 @@ Pretend that your best friend or dear old auntie made that thing you're annoyed 
 
 If you're not sure whether or not a given sentiment counts as "complaining", **assume that it does**, and figure out if there's something better you can do with that opinion.  Perhaps there's a better place to discuss it (and perhaps "alone with your thoughts" is the perfect place to do so).
 
-If you really need to complain, do it productively, like a grownup, **off-list**, with the person who you actually have a problem with.  If you want to whine like a child in unproductive ways about how the free services of the world are not satisfying your ever need, then that's what Hacker News is for.  The Node community is different.  We don't want to hear it.
+If you really need to complain, do it productively, like a grownup, **off-list**, with the person who you actually have a problem with.  If you want to whine like a child in unproductive ways about how the free services of the world are not satisfying your every need, then that's what Hacker News is for.  The Node community is different.  We don't want to hear it.
 
 We don't care about losing a few people who spew bad energy.  We care about losing all the newcomers who see a bad-energy-geiser, and decide that Node is not a friendly place.
 
