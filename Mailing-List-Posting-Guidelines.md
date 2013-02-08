@@ -37,6 +37,8 @@ If someone offends or insults you on-list, it's probably inadvertent.  Most peop
 
 This also covers generally mean-spirited comments about other platforms, software programs, or events, as well as people.  Complaining about other stuff doesn't help node.  We get nowhere by pushing other open source software projects down.
 
+<a id="no-kvetching"></a>
+
 ### Flame and Complaining (the "no kvetching" rule)
 
 In fact, **no complaining of any sort is allowed at all** on the list, because it's never the right place for it, and no one wants to hear it.
