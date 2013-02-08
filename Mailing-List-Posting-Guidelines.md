@@ -9,9 +9,9 @@ For people and things **about** node.  Including but not limited to:
 3. Discussions of Node.js community guidelines and policies
 4. JavaScript language discussions/questions/suggestions.
 5. Discussions of other SSJS platforms.
-6. Issues with specific node programs.  (Though, it's worth checking if they have their own mailing list.  Express, socket.io, npm, and many others have their own dedicated lists, where you'll generally get faster help.)
+6. Questions about specific node programs.  (Though, it's worth checking if they have their own mailing list.  Express, socket.io, npm, and many others have their own dedicated lists and issue trackers, where you'll generally get faster help.)
 7. "Help, I'm new to JS and need to know why this code doesn't work."  Note that this is *very different* from "Please do my homework for me"!  General rules of techie politeness apply.  Be easy to help, and you'll get more help.
-8. What's awesome, what's lame, who's hot, who's not, who just had a baby, a funny video on youtube, philosophy, politics, sports, or any other (valuable!) primate-bonding subjects that you as a member of the node.js community are interested in and feel like sharing with others in the community.  It's not reddit, and it should be at least *somewhat* node-related to be shared on the list, but the bar is pretty low.
+8. What's awesome, who's hot, who's not, who just had a baby, a funny video on youtube, philosophy, politics, sports, or any other (valuable!) primate-bonding subjects that you as a member of the node.js community are interested in and feel like sharing with others in the community.  It's not reddit, and it should be at least *somewhat* node-related to be shared on the list, but the bar is pretty low.
 
 ## nodejs-dev http://groups.google.com/group/nodejs-dev
 
@@ -19,7 +19,7 @@ This list is no longer used, it's kept for archival purposes. Design ideas and n
 
 ## Not Allowed
 
-Here are some things that do not belong on either list:
+Here are some things that do not belong on the list:
 
 ### Job Posts
 
@@ -33,19 +33,21 @@ The price isn't intended to be exorbitant.  If the price is a significant obstac
 
 ### Flame
 
-If someone offends or insults you on-list, it's probably inadvertent.  Most people try to be nice most of the time, or at least think they are.  Take it up with them off-list.  That kind of drama is not interesting to other users.
+If someone offends or insults you on-list, it's probably inadvertent.  Most people try to be nice most of the time, or at least think they are.  Take it up with them **off-list**.  That kind of drama is not interesting to other users.
 
-This also covers generally mean-spirited comments about other platforms.  Complaining about other platforms doesn't help node.
+This also covers generally mean-spirited comments about other platforms, software programs, or events, as well as people.  Complaining about other stuff doesn't help node.  We get nowhere by pushing other open source software projects down.
 
 ### Flame and Complaining (the "no kvetching" rule)
 
-In fact, **no complaining of any sort is allowed at all** on the list.
+In fact, **no complaining of any sort is allowed at all** on the list, because it's never the right place for it, and no one wants to hear it.
 
 Didn't have a good time at a conference, or the videos are taking a long time to be released?  Email the organizer **off-list**.
 
-Don't think promises are a good idea?  **Just don't use them.**  What if someone asks (on-list) if you think promises are a good idea.  Reply that you don't use them, and explain the pro's and con's, **respectfully**, like an adult.
+Don't think promises are a good idea?  **Just don't use them.**  But what if someone asks (on-list) if you think promises are a good idea!?  (Maybe they're just curious.)  Reply that you don't use them, and explain the pro's and con's, **respectfully**, like an adult.
 
 Got a problem with a module that you *do* use?  **Post a bug**, or **email the author**.  Got a problem with node itself?  [We got you covered.](https://github.com/joyent/node/issues)  **Keep it off the list.**
+
+Pretend that your best friend or dear old auntie made that thing you're annoyed with.  Does it still seem like a nice idea to tear it down in a public forum?
 
 If you're not sure whether or not a given sentiment counts as "complaining", **assume that it does**, and figure out if there's something better you can do with that opinion.  Perhaps there's a better place to discuss it (and perhaps "alone with your thoughts" is the perfect place to do so).
 
