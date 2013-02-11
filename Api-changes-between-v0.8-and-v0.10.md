@@ -13,32 +13,32 @@ When editing this page please be as detailed as possible. Examples are encourage
 * `-p --print` command line switch implies `-e --eval`
 * url: Parsed objects always have all properties, but unused ones are set to `null`.  Example:
 
-    ```javascript
-    // v0.8
-    > url.parse('http://foo')
-    { protocol: 'http:',
-      slashes: true,
-      host: 'foo',
-      hostname: 'foo',
-      href: 'http://foo/',
-      pathname: '/',
-      path: '/' }
+``` js
+// v0.8
+> url.parse('http://foo')
+{ protocol: 'http:',
+  slashes: true,
+  host: 'foo',
+  hostname: 'foo',
+  href: 'http://foo/',
+  pathname: '/',
+  path: '/' }
 
-    // 0.10
-    > url.parse('http://foo')
-    { protocol: 'http:',
-      slashes: true,
-      auth: null,
-      host: 'foo',
-      port: null,
-      hostname: 'foo',
-      hash: null,
-      search: null,
-      query: null,
-      pathname: '/',
-      path: '/',
-      href: 'http://foo/' }
-
+// 0.10
+> url.parse('http://foo')
+{ protocol: 'http:',
+  slashes: true,
+  auth: null,
+  host: 'foo',
+  port: null,
+  hostname: 'foo',
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/',
+  path: '/',
+  href: 'http://foo/' }
+```
 * Domain-added properties on error objects are `camelCase` instead of `snake_case`
 
 ## Added
