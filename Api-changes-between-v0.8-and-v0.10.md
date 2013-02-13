@@ -50,3 +50,4 @@ When editing this page please be as detailed as possible. Examples are encourage
 * http: add response.headersSent property
 * events: 'removeListener' event
 * setImmediate() and clearImmediate() functions
+* string_decoder: the decoder.end() function was added
