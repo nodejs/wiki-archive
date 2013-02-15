@@ -1937,6 +1937,7 @@ realtime balancing for live objects
 * [audience-meter](https://github.com/rs/audience-meter) — A simple audience meter based on Socket.IO, perfect for live events tracking
 * [behaviors](https://github.com/caolan/behaviors) — A simple way to check a module's exports, useful for 3rd party plugins and extensions
 * [browserify](https://github.com/substack/node-browserify) — Browser-side require() for your node modules and npm packages
+* [cjs2web](https://github.com/alexlawrence/cjs2web) — Transform CommonJS modules to a web browser suitable format with minimal code overhead.
 * [compare.js](https://github.com/goloroden/compare.js) — Reliable comparison operators for Node.js the way you would expect them to be.
 * [crud-bones](http://words.alexeypro.com/crud-bones/) — CRUD boilerplate/template for Node.JS/Mongo/MySQL/Redis/Express/EJS/Cluster/etc.
 * [cryo](https://github.com/hunterloftis/cryo) - Pickle for JavaScript; extended JSON. Easily store/serialize/freeze and re-hydrate complex JavaScript objects including Functions and nested references.
@@ -1976,4 +1977,4 @@ realtime balancing for live objects
 * [subst](https://github.com/andreyvit/subst.js) - Substitutes placeholders in strings, arrays and objects
 * [urlmatch](https://github.com/andreyvit/urlmatch.js) - URL host/port/path matching (kind of like fnmatch)
 * [node-eibd](https://github.com/andreek/node-eibd) - eibd client for eib/knx daemon
-* [typed](http://alexlawrence.github.com/typed) - Static typing library
+* [typed](http://alexlawrence.github.com/typed) - Type checking library
