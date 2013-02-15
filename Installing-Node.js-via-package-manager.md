@@ -54,7 +54,7 @@ Node.js is currently being implemented in Fedora 18 and will become a regular pa
 
 To try the unstable 0.9.x series with Fedora 18 right now, run:
 
-    sudo yum --enablerepo=updates-testing install nodejs
+    sudo yum --enablerepo=updates-testing install nodejs npm
 
 ## Arch Linux
 Node.js is available in the Community Repository.
