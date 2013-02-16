@@ -1252,7 +1252,7 @@ rendering process.
 <a name="wiki-parsers-yaml"></a>
 ### [YAML parsers](#parsers-yaml)
 
-* [JS-YAML](https://github.com/nodeca/js-yaml) — Full featured YAML parser. Native PyYAML port.
+* [JS-YAML](https://github.com/nodeca/js-yaml) — Very fast, full featured YAML 1.2 parser & writer.
 * [props](https://github.com/pvorb/node-props) — Parse json or yaml from the beginning of text files.
 * [yamlish](https://github.com/isaacs/yamlish) — Minimally featured YAML parser which handles the subset of YAML used by TAP.
 * [yamlparser](https://github.com/h4evr/commonjs-javascript-yaml-parser) — A JavaScript YAML parser.
