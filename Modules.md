@@ -1065,6 +1065,7 @@ rendering process.
 * [Benchmark.js](https://github.com/bestiejs/benchmark.js) — A benchmarking library that works on nearly all JavaScript platforms, supports high-resolution timers, and returns statistically significant results.
 * [Broke](https://github.com/zyndiecate/broke) — Customizable vowsjs layer for flexible unit and integration tests.
 * [Charlatan](https://github.com/nodeca/charlatan) — Fake user identities generator, with multilanguage support (names, email, addresses, phones and others).
+* [Ciao](https://github.com/missinglink/ciao) — Simple and fast command line utility for async testing http(s) requests and generating API documentation.
 * [Cucumber](https://github.com/cucumber/cucumber-js) — The official JavaScript implementation of the well-known BDD tool. Runs both on Node.js and browsers.
 * [cucumis](https://github.com/noblesamurai/cucumis) — A [cucumber nodejs](https://github.com/noblesamurai/cucumis) implementation. Run plain text gherkin stories with full asynchronous support in native node.js JavaScript.
 * [Cup of Tea?](https://github.com/refractalize/cupoftea) — BBD-style Unit Testing for Async apps.
