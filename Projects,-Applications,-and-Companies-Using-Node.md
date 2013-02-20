@@ -309,6 +309,7 @@ view-test|<a href="http://github.com/gtmtg/view-test" target="_blank"><img src="
 wtfjs|<a href="http://github.com/brianleroux/wtfjs" target="_blank"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png" width="12px" height="12px"/>&nbsp;brianleroux/wtfjs</a>|what the fuck javascript!
 yamr|<a href="http://github.com/poops/yamr" target="_blank"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png" width="12px" height="12px"/>&nbsp;poops/yamr</a>|The open source multi-user/multi-room chat application used by [yamr.net](http://yamr.net).
 zztmmo|<a href="http://github.com/marak/zztmmo" target="_blank"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png" width="12px" height="12px"/>&nbsp;marak/zztmmo</a>|a zzt based massive multiplayer online game built in node.js and<br/>jQuery _(currently only single player)_
+lighter|<a href="http://github.com/mehfuzh/lighter" target="_blank"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png" width="12px" height="12px"/>&nbsp;mehfuzh/lighter</a>|Lightweight blogging engine for geeks written entirely in node.js and mongo _([*meonbinary.com*](http://www.meonbinary.com))_
 
 ## Websites and Applications
 
