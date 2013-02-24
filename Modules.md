@@ -1254,6 +1254,7 @@ rendering process.
 * [node-discount](https://github.com/visionmedia/node-discount) — C markdown parser "discount" bindings
 * [node-markdown](https://github.com/andris9/node-markdown) — Easy to use Markdown parser
 * [Robotskirt](https://github.com/benmills/robotskirt) — A simple node binding for the [sundown](https://github.com/tanoku/sundown) markdown parser
+* [showdown](https://github.com/coreyti/showdown)
 
 <a name="wiki-parsers-yaml"></a>
 ### [YAML parsers](#parsers-yaml)
