@@ -826,6 +826,7 @@ rendering process.
 * [hashlib](https://github.com/brainfucker/hashlib) — Fast hashing module, written in C/C++, supports: md4, md5, md6, sha, sha1, sha256, sha512
 * [jsHashes](https://github.com/h2non/jsHashes) — A fast and independent hashing library pure JavaScript implemented for both server and client side. Supports MD5, SHA1, SHA256, SHA512, RIPEMD-160 and HMAC. Includes Base64 encode/decode, CRC-32 and UTF-8 support.
 * [keygrip](https://github.com/jed/keygrip) — Key signing and verification for rotated credentials
+* [lhc](https://github.com/stuartpb/lhc) — Large Hashsum Collider, for creating strings that hash to a value beginning with specific hex digits
 * [MD5](https://github.com/pvorb/node-md5) — Plain JavaScript MD5 hashing function
 * [murmurhash3](https://github.com/hideo55/node-murmurhash3) — Node.js bindings for [MurmurHash3](http://code.google.com/p/smhasher/wiki/MurmurHash3)
 * [node_nibbler](https://github.com/mattrobenolt/node_nibbler) — Base32/base64 encoder/decoder.
