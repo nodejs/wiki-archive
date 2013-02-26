@@ -1,4 +1,4 @@
-Cygwin is no longer supported, despite being [POSIX](en.wikipedia.org/wiki/Posix) compliant. The latest version that compiles is 0.4.12. 
+Cygwin is no longer supported, despite being [POSIX](http://en.wikipedia.org/wiki/Posix) compliant. The latest version that compiles is 0.4.12. 
 
 ```
 wget http://nodejs.org/dist/node-v0.4.12.tar.gz
