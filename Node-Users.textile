@@ -178,6 +178,8 @@ h2. UTC-8
 ** "GitHub":http://github.com/shovon, "Twitter":http://twitter.com/shovon_rahman
 * Sabra Pratt (prattsj), Seattle, WA, US
 ** "GitHub":http://github.com/prattsj/, "Twitter":http://twitter.com/prattsj/, "Website":http://generalui.com
+* William Wicks (wwicks), Las Vegas, NV, US
+** "GitHub":https://github.com/williamwicks/, "Twitter":http://twitter.com/williamwicks/
 
 h2. UTC-7 (-6)
 
