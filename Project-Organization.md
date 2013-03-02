@@ -2,7 +2,7 @@ Node is an open source project run by [Joyent](http://joyent.com/), originally w
 
 ## Core Team
 
-Full-time/active committers:
+Active committers:
 
 * Isaac Schlueter ([isaacs](https://github.com/isaacs) - [Joyent](http://joyent.com/))
 * Bert Belder ([piscisaureus](https://github.com/piscisaureus) - [StrongLoop](http://strongloop.com/))
@@ -11,7 +11,7 @@ Full-time/active committers:
 * Nathan Rajlich ([TooTallNate](https://github.com/TooTallNate) - [LearnBoost](http://learnboost.com/))
 * Scott Blomquist ([sblom](https://github.com/sblom) - [Microsoft](http://microsoft.com/))
 
-Part-time/inactive committers:
+Inactive committers:
 
 * Ryan Dahl ([ry](https://github.com/ry))
 * Felix Geisendoerfer ([felixge](https://github.com/felixge))
