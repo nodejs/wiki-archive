@@ -5,8 +5,8 @@ Node is an open source project run by [Joyent](http://joyent.com/), originally w
 Full-time/active committers:
 
 * Isaac Schlueter ([isaacs](https://github.com/isaacs) - [Joyent](http://joyent.com/))
-* Bert Belder ([piscisaureus](https://github.com/piscisaureus) - [Cloud9 IDE](https://c9.io/))
-* Ben Noordhuis ([bnoordhuis](https://github.com/bnoordhuis) - [Cloud9 IDE](https://c9.io/))
+* Bert Belder ([piscisaureus](https://github.com/piscisaureus) - [StrongLoop](http://strongloop.com/))
+* Ben Noordhuis ([bnoordhuis](https://github.com/bnoordhuis) - [StrongLoop](http://strongloop.com/))
 * Fedor Indutny ([indutny](https://github.com/indutny) - [Voxer](http://voxer.com/))
 * Nathan Rajlich ([TooTallNate](https://github.com/TooTallNate) - [LearnBoost](http://learnboost.com/))
 * Scott Blomquist ([sblom](https://github.com/sblom) - [Microsoft](http://microsoft.com/))
