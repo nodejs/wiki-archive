@@ -21,7 +21,7 @@ Name | Node Version | Web Sockets | IP/Hostname | IRC | Repository | Free Plan |
 [JSApp.US](http://jsapp.us) | | | No | | [node-host](https://github.com/matthewfl/node-host) | | | Open signup, web editing/npm command
 [Node Ninja(JP)](https://node-ninja.com) | 0.6.11 | Yes | Yes | | | Yes |  | In Private Beta
 [NAE(CN)](http://cnodejs.net) | 0.6.2 | Yes | Just allow *.cnodejs.net or custom domain | | | Yes - You can create 10 apps. And you can request a MongoDB for every app. | | Open (with invite)
-[OpenShift](https://openshift.redhat.com/) | 0.6.10 | Yes (preview) | Yes | #openshift | [openshift](https://github.com/openshift) | Yes | | Open
+[OpenShift](https://openshift.redhat.com/) | 0.6.20 [or any other](https://openshift.redhat.com/community/blogs/any-version-of-nodejs-you-want-in-the-cloud-openshift-does-it-paas-style)| Yes (preview) | Yes | #openshift | [openshift](https://github.com/openshift) | Yes | | Open
 [Pogoapp](http://pogoapp.com) | 0.4.x, 0.6.x, 0.8.x | Yes | Yes | #pogoapp | [pogoapp](http://github.com/pogoapp) | Yes - Trial | Not yet | Alpha Trial
 [Windows Azure](http://www.windowsazure.com/en-us/develop/nodejs/) | 0.6+ |Yes (Worker Role) | Yes || [Azure-Sdk-for-Node](http://github.com/WindowsAzure/azure-sdk-for-node) |3 month free trial 10 free web sites forever | Yes ||
 
