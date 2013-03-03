@@ -1020,6 +1020,8 @@ h2. UTC+8
 ** "GitHub":http://github.com/xhowhy, "Blog":http://x1989.com, "Weibo":http://weibo.com/xhowhy
 * Chuan Yuan (yuanchuan), Chengdu, China
 ** "GitHub":http://github.com/yuanchuan, "Blog":http://yuanchuan.name, "Weibo":http://weibo.com/spirit23
+* Xiuyu Li (nickleefly), Shanghai, China
+** "GitHub":http://github.com/nickleefly, "Twitter":http://twitter.com/nickleefly, "Blog":http://nickleefly.github.com
 
 h2. UTC+9
 
