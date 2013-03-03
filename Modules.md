@@ -1001,7 +1001,7 @@ rendering process.
 * [node-rpc-socket.io](https://github.com/Tronix117/node-rpc-socket.io) — socket.io addon, add a full client/server implementation of JSON-RPC
 * [node-typedarray](https://github.com/Ayms/node-typedarray) — How to mix node.js's Buffers and Typed Arrays
 * [node-socket.io-client](https://github.com/saschagehlich/node-socket.io-client) — Node.js implementation of the Socket.IO client libraries
-* [node-websockets](https://github.com/bodokaiser/node-websockets) - a simple, fundamental implementation of the websocket protocol which supports easy extension handling
+* [node-websockets](https://github.com/bodokaiser/node-websockets) - a simple, fundamental and final (RFC 6455) implementation of the websocket protocol which supports easy extension handling
 * [node-websocket-client](https://github.com/pgriess/node-websocket-client) — An HTML5 Web Socket client.
 * [node-websocket-server](https://github.com/miksago/node-websocket-server) — Another websocket server on top of the http server.
 * [node-wwwdude](https://github.com/pfleidi/node-wwwdude) — A simplified, flexible HTTP/REST client library for node.js
