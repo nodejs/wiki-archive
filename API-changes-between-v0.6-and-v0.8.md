@@ -113,7 +113,7 @@ When editing this page please be as detailed as possible. Examples are encourage
    * `process.hrtime()`, hi-res timer with up to nanosecond granularity.
 
  * `querystring`
-   * `querystring.parse(str, [sep], [eq], [options])`.
+   * `querystring.parse(str, [sep], [eq], [options])`, limited to 1000 parameters by default.
 
  * `stream`
    * `'utf16le'` and `'ucs2'` encoding to `setEncoding()`.
