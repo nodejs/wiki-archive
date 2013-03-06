@@ -40,6 +40,7 @@ When editing this page please be as detailed as possible. Examples are encourage
   href: 'http://foo/' }
 ```
 * Domain-added properties on error objects are `camelCase` instead of `snake_case`
+* `path.resolve` and `path.join` throw a TypeError on non-string input
 
 ## Added
 
