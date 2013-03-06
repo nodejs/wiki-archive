@@ -1914,6 +1914,8 @@ realtime balancing for live objects
 
 * [Threads A GoGo](https://github.com/xk/node-threads-a-gogo) — Run cpu-bound JavaScript tasks non-blockingly in background kernel threads. With EventEmitter and continuation passing style APIs.
 
+* [webworker-threads](https://github.com/audreyt/node-webworker-threads) — Lightweight Web Worker API implementation with native threads
+
 <a name="wiki-monitoring-alerting"></a>
 ## [Monitoring and Alerting](#monitoring-alerting)
 
