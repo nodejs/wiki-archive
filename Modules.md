@@ -1431,6 +1431,7 @@ rendering process.
 * [hexy.js](https://github.com/a2800276/hexy.js) — hex pretty printing like xxd
 * [inspect](https://github.com/visionmedia/inspect) — hierarchical object inspection displaying ancestry, properties, methods, and accessors in great detail.
 * [jog](https://github.com/visionmedia/jog) — JSON-based logger with multiple stores, namespacing, CLI and more
+* [little-logger](https://github.com/monsur/little-logger) - For adding simple logging to your project. Small footprint, no dependencies.
 * [log.js](https://github.com/visionmedia/log.js) — light-weight logger that works with any writable stream, also supports a streaming parser for reading the log files generated
 * [log4js-node](https://github.com/nomiddlename/log4js-node) — a port of log4js framework for node.js
 * [logging](https://github.com/dylang/logging) — Super sexy color console logging.
