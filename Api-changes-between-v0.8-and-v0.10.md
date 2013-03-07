@@ -41,6 +41,22 @@ When editing this page please be as detailed as possible. Examples are encourage
 ```
 * Domain-added properties on error objects are `camelCase` instead of `snake_case`
 * `path.resolve` and `path.join` throw a TypeError on non-string input
+* `dgram.Socket#bind()` is always asynchronous now. If you have code that looks like this:             
+
+```javascript                                                                             
+var s = dgram.createSocket('udp4');
+s.bind(1234);
+s.addMembership('224.0.0.114');
+```
+                                                                                    
+You have to change it to this:                                                      
+
+```javascript                                                                             
+var s = dgram.createSocket('udp4');
+s.bind(1234, function() {
+  s.addMembership('224.0.0.114');
+});
+```
 
 ## Added
 
