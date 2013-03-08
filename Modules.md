@@ -1873,7 +1873,7 @@ rendering process.
 ## [Boilerplates](#boilerplates)
 
 * [Alice](https://github.com/rock-n-code/alice) — Killer Node.js + Mocha Boilerplate for creating NPM packages for both Javascript and Coffee-Script coders. (: seems a advertisement)
-* [Bawws] (https://github.com/JamesS237/Bawws-Boilerplate) An awesome boilerplate for Express. With authentication from passport on MongoDB with Mongoose, and sexiness from Bootstrap.
+* [Bawws] (https://github.com/JamesS237/Bawws-Boilerplate) — An awesome boilerplate for Express. With authentication from passport on MongoDB with Mongoose, and sexiness from Bootstrap.
 * [infigo-node-boilerplate](https://github.com/jerryjj/infigo-node-boilerplate) — nodejs boilerplate built upon Express, db-mysql/db-drizzle/Mongoose and includes user authentication and group+role authorization system.
 * [Lemmy](https://github.com/rock-n-code/lemmy) — 49% Motherfucker | 51% Son of a Bitch Node.js + Express + Mocha flexible project boilerplate for Javascript/Coffee-Script coders.
 * [node-backbone](https://github.com/vinkaga/node-backbone) — Sample project for a Node/Backbone/HTML5 application optimized separately for desktop browsers (web), generic mobile platforms using jQuery Mobile (jquerymobile) and iPhone (iphone). Uses Express, Socket.io, Mongoose/MongoDB, Redis.io (for sessions) and Mocha (for testing).
