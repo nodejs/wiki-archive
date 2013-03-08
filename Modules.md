@@ -723,6 +723,7 @@ rendering process.
 * [Anvil.js](https://github.com/anviljs/anvil.js) — Convention over Configuration build system with plugins for performing a variety of tasks.
 * [asereje](https://github.com/masylum/asereje) — Bundles and minifies your javascript and css files on demand. Forget about builds, hard deploys and cache forever.
 * [asset-bundler](https://github.com/sergiok/asset-bundler) — pack and create asset bundles, organize your scripts and stylesheets in different packages.
+* [aspa](https://github.com/icflorescu/aspa) - An opinionated, lightweight asset packager enabling you to concatenate, compress and fingerprint your stylesheets and scripts during development / before deployment.
 * [buildr](https://github.com/balupton/buildr.npm) — JavaScript project builder, compresses images, CSS and JS, bundles CSS and JS, checks JavaScript, supports subpackages/plugins
 * [Grunt](https://github.com/cowboy/grunt) — a task-based command line build tool for JavaScript projects.
 * [Jake](https://github.com/mde/jake) — JavaScript build tool similar to Make or Rake.
