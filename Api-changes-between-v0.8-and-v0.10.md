@@ -13,50 +13,50 @@ When editing this page please be as detailed as possible. Examples are encourage
 * `-p --print` command line switch implies `-e --eval`
 * url: Parsed objects always have all properties, but unused ones are set to `null`.  Example:
 
-``` js
-// v0.8
-> url.parse('http://foo')
-{ protocol: 'http:',
-  slashes: true,
-  host: 'foo',
-  hostname: 'foo',
-  href: 'http://foo/',
-  pathname: '/',
-  path: '/' }
-
-// 0.10
-> url.parse('http://foo')
-{ protocol: 'http:',
-  slashes: true,
-  auth: null,
-  host: 'foo',
-  port: null,
-  hostname: 'foo',
-  hash: null,
-  search: null,
-  query: null,
-  pathname: '/',
-  path: '/',
-  href: 'http://foo/' }
-```
+    ``` js
+    // v0.8
+    > url.parse('http://foo')
+    { protocol: 'http:',
+      slashes: true,
+      host: 'foo',
+      hostname: 'foo',
+      href: 'http://foo/',
+      pathname: '/',
+      path: '/' }
+    
+    // 0.10
+    > url.parse('http://foo')
+    { protocol: 'http:',
+      slashes: true,
+      auth: null,
+      host: 'foo',
+      port: null,
+      hostname: 'foo',
+      hash: null,
+      search: null,
+      query: null,
+      pathname: '/',
+      path: '/',
+      href: 'http://foo/' }
+    ```
 * Domain-added properties on error objects are `camelCase` instead of `snake_case`
 * `path.resolve` and `path.join` throw a TypeError on non-string input
 * `dgram.Socket#bind()` is always asynchronous now. If you have code that looks like this:             
 
-```javascript                                                                             
-var s = dgram.createSocket('udp4');
-s.bind(1234);
-s.addMembership('224.0.0.114');
-```
-                                                                                    
-You have to change it to this:                                                      
-
-```javascript                                                                             
-var s = dgram.createSocket('udp4');
-s.bind(1234, function() {
-  s.addMembership('224.0.0.114');
-});
-```
+    ```javascript                                                                             
+    var s = dgram.createSocket('udp4');
+    s.bind(1234);
+    s.addMembership('224.0.0.114');
+    ```
+                                                                                        
+    You have to change it to this:                                                      
+    
+    ```javascript                                                                             
+    var s = dgram.createSocket('udp4');
+    s.bind(1234, function() {
+      s.addMembership('224.0.0.114');
+    });
+    ```
 
 ## Added
 
