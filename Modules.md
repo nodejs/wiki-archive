@@ -1484,6 +1484,7 @@ rendering process.
 * [prettyjson](http://rafeca.com/prettyjson/) — Package for formatting JSON data in a coloured YAML-style, perfect for CLI output.
 * [String ANSI](https://github.com/yuffster/npm-string-ansi) — extends the `String` prototype with the function `color`, which inserts ANSI color codes in place of color string names.
 * [term-css](https://github.com/visionmedia/node-term-css) -- style terminal output using CSS
+* [xcolor](https://github.com/cmoncrief/xcolor) — Extended colors and markup for the terminal, including CSS color names and Xterm-256 support.
 
 <a name="wiki-other-console"></a>
 ### [Other console tools](#other-console)
