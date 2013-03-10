@@ -964,6 +964,7 @@ rendering process.
 * [stomp-client](https://github.com/easternbloc/node-stomp-client) — A STOMP client for Node.js
 * [wake_on_lan](https://github.com/agnat/node_wake_on_lan) — Generate and send Wake-on-LAN magic packets
 * [geotools](https://github.com/runk/geotools) — IP to Country/Region lookup
+* [maxmind](https://github.com/runk/node-maxmind) — IP geo lookup using Maxmind databases
 
 <a name="wiki-rpc"></a>
 ## [RPC](#rpc)
