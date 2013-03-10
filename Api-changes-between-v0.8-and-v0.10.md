@@ -57,6 +57,32 @@ When editing this page please be as detailed as possible. Examples are encourage
       s.addMembership('224.0.0.114');
     });
     ```
+* The `EventEmitter` constructor initializes various properties now.  It still works fine as an OOP inheritance parent, but you have to do inheritance properly.  The Broken-Style JS inheritance pattern will not work when extending the EventEmitter class.  This inheritance style was never supported, but prior to 0.10, it did not actually break.
+
+    ```javascript
+    // Broken-Style Inheritance, which has never been safe or wise
+    // but is shown on many broken tutorials around the web.
+    function Child() {}
+    Child.prototype = new Parent(); // <-- NEVER EVER DO THIS!!
+    // If you see anyone doing this in any javascript library ever,
+    // post a bug telling them that it is a huge terrible mistake!
+    // Inheriting from a class should not call that class's ctor
+    // on the prototype shared with EVERY instance of the child class!
+
+    // Correct-Style Inheritance
+    function Child() {}
+    Child.prototype = Object.create(Parent.prototype, {
+      constructor: {
+        value: Child,
+        enumerable: false,
+        writable: true,
+        configurable: true
+      }
+    });
+    // "Gee that's a lot of lines! I wish there was a helper method!"
+    // There is.  Do this:
+    util.inherits(Child, Parent);
+    ```
 
 ## Added
 
