@@ -4,8 +4,8 @@ h2. Node v0.8.2
 * "MongoMQ: v0.2.1":https://github.com/jdarling/MongoMQ
 * "nodeportal: v0.0.4":https://github.com/saggiyogesh/nodeportal
 * "simple_rsa_encrypt: v0.1.0":https://github.com/paspao/simple_rsa_encrypt
-* "simpleS: v0.2.7":https://github.com/micnic/simpleS
-* "simpleT: v0.0.8":https://github.com/micnic/simpleT
+* "simpleS: v0.3.4":https://github.com/micnic/simpleS
+* "simpleT: v0.1.0":https://github.com/micnic/simpleT
 * "node-couchdb: v0.1.1":https://github.com/1999/node-couchdb
 * "aspa: v0.1.8":https://github.com/icflorescu/aspa
 * "aspa-express: v0.1.7":https://github.com/icflorescu/aspa-express
