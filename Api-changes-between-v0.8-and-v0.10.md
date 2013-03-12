@@ -85,6 +85,7 @@ When editing this page please be as detailed as possible. Examples are encourage
     // There is.  Do this:
     util.inherits(Child, Parent);
     ```
+* [https](http://nodejs.org/docs/latest/api/https.html) now does peer verification by default. This means that if you try to access an SSL endpoint which has a Certificate Authority that is not in the default CA list, you will get an error where you did not before. You can set `rejectUnauthorized` to `false` to get the old behavior.
 
 ## Added
 
