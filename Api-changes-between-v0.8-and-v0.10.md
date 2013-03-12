@@ -11,6 +11,7 @@ When editing this page please be as detailed as possible. Examples are encourage
 * The `uv_after_work_cb` signature has changed to take a second integer argument indicating status.  For backwards compatibility, explicitly cast the 4th argument to `uv_queue_work`.  [Example](https://github.com/rbranson/node-ffi/commit/fdeff41ae8b1cca31d4707d7b61253c45181b8fa)
 * `process.nextTick` happens at the end of the current tick, immediately after the current stack unwinds.  If you are currently using recursive nextTick calls, use `setImmediate` instead.
 * `-p --print` command line switch implies `-e --eval`
+* net: sockets created with net.createServer() no longer emit a `connect` event.  The socket is already connected, by the time the `connectionListener` callback is called.
 * url: Parsed objects always have all properties, but unused ones are set to `null`.  Example:
 
     ``` js
