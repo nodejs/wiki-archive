@@ -86,6 +86,41 @@ When editing this page please be as detailed as possible. Examples are encourage
     util.inherits(Child, Parent);
     ```
 * [https](http://nodejs.org/docs/latest/api/https.html) now does peer verification by default. This means that if you try to access an SSL endpoint which has a Certificate Authority that is not in the default CA list, you will get an error where you did not before. You can set `rejectUnauthorized` to `false` to get the old behavior.
+* Native [addons](http://nodejs.org/docs/latest/api/addons.html) can now receive the complete `module` object, allowing them to override `exports` with a custom object or function (i.e. the ["substack pattern"](https://twitter.com/n8agrin/status/261151288685907968)). Simply adding a second argument to your `Init()` function gives you the `module` object: `void Init(Handle<Object> exports, Handle<Object> module);`. The [addons examples](https://github.com/rvagg/node-addon-examples) now mix both classic and `exports`-overriding patterns (additionally the examples are now available in a [GitHub repo](https://github.com/rvagg/node-addon-examples)).
+
+    **Classic**
+
+    ```c++
+    Handle<Value> Booya(const Arguments& args) {
+      HandleScope scope;
+      return scope.Close(String::New("hello world"));
+    }
+    void Init(Handle<Object> exports) {
+      exports->Set(String::NewSymbol("booya"), FunctionTemplate::New(Booya)->GetFunction());
+    }
+    NODE_MODULE(addon, Init)
+    ```
+
+    ```js
+    console.log(require('./build/Release/addon').booya())
+    ```
+
+    **Single-function on `exports`**
+
+    ```c++
+    Handle<Value> Booya(const Arguments& args) {
+      HandleScope scope;
+      return scope.Close(String::New("hello world"));
+    }
+    void Init(Handle<Object> exports, Handle<Object> module) {
+      module->Set(String::NewSymbol("exports"), FunctionTemplate::New(Booya)->GetFunction());
+    }
+    NODE_MODULE(addon, Init)
+    ```
+
+    ```js
+    console.log(require('./build/Release/addon')())
+    ```
 
 ## Added
 
