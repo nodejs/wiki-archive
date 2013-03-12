@@ -70,7 +70,9 @@ When editing this page please be as detailed as possible. Examples are encourage
     // on the prototype shared with EVERY instance of the child class!
 
     // Correct-Style Inheritance
-    function Child() {}
+    function Child() {
+      Parent.call(this);
+    }
     Child.prototype = Object.create(Parent.prototype, {
       constructor: {
         value: Child,
