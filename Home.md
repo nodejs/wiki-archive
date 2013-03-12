@@ -1,8 +1,8 @@
 # Node.js community wiki
 
-**Current stable version is 0.8.** If you are currently using 0.6, please read [[API changes between v0.6 and v0.8]] and update your programs accordingly.
+**Current stable version is 0.10.** Please read [[Api changes between v0.8 and v0.10]], and update your programs accordingly.
 
-**Version 0.10 will be released soon.** Please read [[Api changes between v0.8 and v0.10]], and test your programs with the latest 0.9 release.
+**Previous stable version is 0.8.** If you are still using 0.6, please read [[API changes between v0.6 and v0.8]].
 
 ## Introduction
 
