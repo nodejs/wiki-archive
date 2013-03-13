@@ -126,6 +126,7 @@ When editing this page please be as detailed as possible. Examples are encourage
     console.log(require('./build/Release/addon')())
     ```
 * FS operations that raise an error will throw if no callback is provided.  This prevents missing potentially hazardous errors when a callback function was forgotten.  To ignore errors, pass in `function(){}` as a callback.  To track down the source of the callback-less fs operation, set `NODE_DEBUG=fs` in the environment.
+* Crypto methods return Buffer objects by default, rather than binary-encoded strings.
 
 ## Added
 
