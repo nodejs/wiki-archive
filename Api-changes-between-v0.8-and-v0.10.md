@@ -12,7 +12,7 @@ When editing this page please be as detailed as possible. Examples are encourage
 * The `uv_after_work_cb` signature has changed to take a second integer argument indicating status.  For backwards compatibility, explicitly cast the 4th argument to `uv_queue_work`.  [Example](https://github.com/rbranson/node-ffi/commit/fdeff41ae8b1cca31d4707d7b61253c45181b8fa)
 * `process.nextTick` happens at the end of the current tick, immediately after the current stack unwinds.  If you are currently using recursive nextTick calls, use `setImmediate` instead.
 * `-p --print` command line switch implies `-e --eval`
-* net: sockets created with net.createServer() no longer emit a `connect` event.  The socket is already connected, by the time the `connectionListener` callback is called, so this was considered [superfluous](https://github.com/joyent/node/commit/c11612026fa28f7aedc60c577120f87d86fc15bf#lib/net.js)
+* net: sockets created with net.createServer() no longer emit a `connect` event.  The socket is already connected, by the time the `connectionListener` callback is called, so this was considered [superfluous](https://github.com/joyent/node/commit/c11612026fa28f7aedc60c577120f87d86fc15bf#lib/net.js)  This was originally there to support Socket object re-use, which has not actually been possible since well before Node v0.4.  The Socket is already connected by the time the Server has it, obviously, and the time of the event emission was thus actually a lie.  When you get a socket on the server, it's already connected, so you can just go ahead and use it.
 * url: Parsed objects always have all properties, but unused ones are set to `null`.  Example:
 
     ``` js
@@ -124,7 +124,6 @@ When editing this page please be as detailed as possible. Examples are encourage
     ```js
     console.log(require('./build/Release/addon')())
     ```
-* TCP Server socket objects no longer emit the `'connection'` event.  This was originally there to support Socket object re-use, which has not actually been possible since well before Node v0.4.  The Socket is already connected by the time the Server has it, obviously, and the time of the event emission was thus actually a lie.  The spurious event has been removed.  When you get a socket on the server, it's already connected, so you can just go ahead and use it.
 * FS operations that raise an error will throw if no callback is provided.  This prevents missing potentially hazardous errors when a callback function was forgotten.  To ignore errors, pass in `function(){}` as a callback.  To track down the source of the callback-less fs operation, set `NODE_DEBUG=fs` in the environment.
 
 ## Added
