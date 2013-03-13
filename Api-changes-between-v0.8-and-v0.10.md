@@ -124,7 +124,7 @@ When editing this page please be as detailed as possible. Examples are encourage
     console.log(require('./build/Release/addon')())
     ```
 * TCP Server socket objects no longer emit the `'connection'` event.  This was originally there to support Socket object re-use, which has not actually been possible since well before Node v0.4.  The Socket is already connected by the time the Server has it, obviously, and the time of the event emission was thus actually a lie.  The spurious event has been removed.  When you get a socket on the server, it's already connected, so you can just go ahead and use it.
-
+* FS operations that raise an error will throw if no callback is provided.  This prevents missing potentially hazardous errors when a callback function was forgotten.  To ignore errors, pass in `function(){}` as a callback.
 
 ## Added
 
