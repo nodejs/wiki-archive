@@ -1053,7 +1053,8 @@ rendering process.
 * [rabbit.js](https://github.com/squaremo/rabbit.js) — Idiomatic messaging using RabbitMQ from node.js
 * [rabbitmq-nodejs-client](https://github.com/adrai/rabbitmq-nodejs-client) — rabbitmq client for node.js
 * [websocket.MQ](https://github.com/networkimprov/websocket.MQ) — Reliable message queue server accessible via websockets, socket.IO, etc
-* [Wormhole](https://github.com/aikar/wormhole) — Fast/High Performance message queue system using streaming deserialization with the MessagePack format.
+* [Wormhole](https://github.com/aikar/wormhole) — Fast/High Performance message queue system using streaming deserialization with the MessagePack format
+* [node-celery](https://github.com/mher/node-celery) — [Celery](http://www.celeryproject.org/) client for Node.js
 
 <a name="wiki-class-system"></a>
 ## [Class systems](#class-system)
