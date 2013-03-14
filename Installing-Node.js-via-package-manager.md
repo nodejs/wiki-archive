@@ -40,6 +40,8 @@ If you want to compile Node C++ modules:
 
 Or, use the configure shell script from <http://apptob.org/> for installing node.js.
 
+There is a naming conflict with the node package (Amateur Packet Radio Node Program), and the nodejs binary has been renamed from `node` to `nodejs`. You'll need to symlink `/usr/bin/node` to `/usr/bin/nodejs` or you could uninstall the Amateur Packet Radio Node Program to avoid that conflict.
+
 ## openSUSE & SLE
 [Node.js stable repos list](https://build.opensuse.org/package/show?package=nodejs&project=devel%3Alanguages%3Anodejs). Also node.js is available in openSUSE:Factory repository.
 
