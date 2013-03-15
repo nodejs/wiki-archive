@@ -27,7 +27,7 @@ For Debian Squeeze, your best bet is to compile node by yourself (as `root`):
 
 Example install:
 
-    sudo apt-get install software-properties-common python-software-properties python g++ make
+    sudo apt-get install python-software-properties python g++ make
     sudo add-apt-repository ppa:chris-lea/node.js
     sudo apt-get update
     sudo apt-get install nodejs npm
