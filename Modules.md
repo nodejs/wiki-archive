@@ -909,6 +909,7 @@ rendering process.
 * [node-get](https://github.com/developmentseed/node-get) — Moderately higher-level HTTP client library.
 * [node-tunnel](https://github.com/koichik/node-tunnel) — HTTP/HTTPS Agents for tunneling proxies.
 * [poster](https://github.com/rfrench/poster) — Upload local/remote files over multipart.
+* [rem](https://github.com/tcr/rem-js) — HTTP library for Node.js and web browsers. Flexible for any HTTP request, customizable for building API clients, and supports OAuth.
 * [request](https://github.com/mikeal/request) — Simple HTTP client library.
 * [shred](https://github.com/automatthew/shred) — HTTP client library for Node.js and browsers.  Supports gzip, cookies, https, proxies, and redirects.
 * [superagent](https://github.com/visionmedia/superagent) — High-level HTTP client sporting a progressive API
