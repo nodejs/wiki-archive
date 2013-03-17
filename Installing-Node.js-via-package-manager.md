@@ -30,13 +30,11 @@ Example install:
     sudo apt-get install python-software-properties python g++ make
     sudo add-apt-repository ppa:chris-lea/node.js
     sudo apt-get update
-    sudo apt-get install nodejs npm
+    sudo apt-get install nodejs
 
 It installs current stable Node on the current stable Ubuntu. Quantal (12.10) users may need to install the *software-properties-common* package for the `add-apt-repository` command to work: `sudo apt-get install software-properties-common`
 
-If you want to compile Node C++ modules:
-
-    sudo apt-get install nodejs-dev
+As of Node.js v0.10.0, the nodejs package from [Chris Lea](https://chrislea.com/2013/03/15/upgrading-from-node-js-0-8-x-to-0-10-0-from-my-ppa/)'s repo includes both npm and nodejs-dev.
 
 Or, use the configure shell script from <http://apptob.org/> for installing node.js.
 
