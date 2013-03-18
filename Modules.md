@@ -1571,7 +1571,7 @@ rendering process.
 * [node-ogl](https://github.com/tmpvar/node-ogl) — OpenGL bindings
 * [node-opencv](https://github.com/talvarez/node-opencv) — Node.js bindings for OpenCV. Originally forked from [peterbraden/node-opencv](https://github.com/peterbraden/node-opencv)
 * [opencv-node](https://github.com/codeboost/opencv-node) - Node.js bindings for OpenCV. Supports most of the OpenCV 2.42 API, including video capture.
-* [node-dv](https://github.com/schulzch/node-dv) — Node.js library for processing and understanding scanned documents (Leptonica and Tesseract-OCR, ...).
+* [node-dv](https://github.com/creatale/node-dv) — Node.js library for processing and understanding scanned documents (Leptonica, Tesseract-OCR, ZXing, ...).
 * [node-pango-view](https://github.com/shimondoodkin/node-pango-view) — print text with pango to temporary png image, then merge it with ImageMagick.
 * [node-png](https://github.com/pkrumins/node-png) — Convert an RGB or RGBA buffer to PNG fast
 * [node-pngjs](https://github.com/niegowski/node-pngjs) — Simple PNG encoder/decoder for Node.js with no native dependencies
