@@ -113,7 +113,7 @@ h2. UTC-8
 * Corey Hart (codenothing), San Jose, CA, US
 ** "GitHub":http://github.com/codenothing, "Twitter":http://twitter.com/codeNothing, "Website":http://codenothing.com
 * Paul English (nrub), San Luis Obispo, CA, US
-** "GitHub":http://github.com/nrub, "Twitter":http://twitter.com/nrub, "Website":http://typosfrompaul.com
+** "GitHub":http://github.com/nrub, "Twitter":http://twitter.com/nrub, "Website":http://nrub.onfrst.com
 * Cagdas Tulek (cagdas)
 ** "GitHub":http://github.com/ctulek, "Twitter":http://twitter.com/ctulek, "Website":http://tulek.org
 * Anders Conbere (aconbere), Seattle, WA, USA
