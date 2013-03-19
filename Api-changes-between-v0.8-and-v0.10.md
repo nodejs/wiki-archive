@@ -128,6 +128,7 @@ When editing this page please be as detailed as possible. Examples are encourage
 * FS operations that raise an error will throw if no callback is provided.  This prevents missing potentially hazardous errors when a callback function was forgotten.  To ignore errors, pass in `function(){}` as a callback.  To track down the source of the callback-less fs operation, set `NODE_DEBUG=fs` in the environment.
 * FS `readFile()`, `writeFile()`, `appendFile()` and their Sync counterparts now take an `options` object (but the old API, an `encoding` string, is still supported)
 * Crypto methods return Buffer objects by default, rather than binary-encoded strings.
+* `util.inspect()` now takes an "options" object. The old API is still supported for backwards compatibility.
 
 ## Added
 
