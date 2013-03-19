@@ -19,7 +19,7 @@ Of course, if you don't use [Pathogen](http://www.vim.org/scripts/script.php?scr
 * [CoffeeScript](https://github.com/kchmck/vim-coffee-script)
 * [Jade](https://github.com/digitaltoad/vim-jade)
 * [Stylus](https://github.com/wavded/vim-stylus)
-* [Syntactis](https://github.com/scrooloose/syntastic) :
+* [Syntastic](https://github.com/scrooloose/syntastic) :
 
 ## Editing
 
