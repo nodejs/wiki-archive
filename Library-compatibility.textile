@@ -4,6 +4,7 @@ h2. Node v0.10.0
 * "aspa: v0.3.0":https://github.com/icflorescu/aspa
 * "aspa-express: v0.3.0":https://github.com/icflorescu/aspa-express
 * "simpleS: v0.3.5":https://github.com/micnic/simpleS
+* "raptor: v2.3.0":http://raptorjs.org
 
 h2. Node v0.8.2
 * "MongoMQ: v0.2.1":https://github.com/jdarling/MongoMQ
@@ -14,6 +15,7 @@ h2. Node v0.8.2
 * "node-couchdb: v0.1.1":https://github.com/1999/node-couchdb
 * "aspa: v0.1.8":https://github.com/icflorescu/aspa
 * "aspa-express: v0.1.7":https://github.com/icflorescu/aspa-express
+* "raptor: v2.3.0":http://raptorjs.org
 
 h2. Node v0.7.x
 * "immortal: v0.2.1":https://github.com/AndreasMadsen/immortal
