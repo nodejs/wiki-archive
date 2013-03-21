@@ -142,3 +142,4 @@ When editing this page please be as detailed as possible. Examples are encourage
 * setImmediate() and clearImmediate() functions
 * string_decoder: the decoder.end() function was added
 * fs: ftruncate() and ftruncateSync()
+* buffer: Buffer.prototype.toJSON() function as added
