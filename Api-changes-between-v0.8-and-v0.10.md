@@ -70,6 +70,7 @@ When editing this page please be as detailed as possible. Examples are encourage
     // post a bug telling them that it is a huge terrible mistake!
     // Inheriting from a class should not call that class's ctor
     // on the prototype shared with EVERY instance of the child class!
+    [ Why not? You don't provide any real argument for this statement! ]
 
     // Correct-Style Inheritance
     function Child() {
