@@ -1820,6 +1820,7 @@ rendering process.
 * [node-promise](https://github.com/kriszyp/node-promise) — Robust promises for node.js, includes promise utilities and promise-based I/O library
 * [node.flow](https://github.com/dreamerslab/node.flow) — A deadly simple flow control package for node.js
 * [noflo](https://github.com/bergie/noflo) — [Flow-Based Programming](http://en.wikipedia.org/wiki/Flow-based_programming) system for Node.js
+* [nThen](https://github.com/cjdelisle/nthen) — The simple intuitive async library. Do this nThen do that.
 * [nue](https://github.com/nakamura-to/nue) — An async control-flow library suited for node.js
 * [observer](https://github.com/azer/observer) — An alternative observer implementation, for both ss&cs.
 * [pauseable](https://github.com/fent/pauseable.js) — Easily pause and resume event emitters, timeouts, and intervals.
