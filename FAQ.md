@@ -17,6 +17,7 @@ The official name of Node is &quot;Node&quot;. The unofficial name is &quot;Node
 * [[n|https://github.com/visionmedia/n]]
 * [[nvm|https://github.com/creationix/nvm]]
 * [[nave|https://github.com/isaacs/nave]]
+* [[nodebrew|https://github.com/hokaccha/nodebrew]]
 
 ### What is the memory limit on a node process?
 
