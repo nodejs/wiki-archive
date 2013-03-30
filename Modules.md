@@ -1979,7 +1979,7 @@ realtime balancing for live objects
 * [behaviors](https://github.com/caolan/behaviors) — A simple way to check a module's exports, useful for 3rd party plugins and extensions
 * [browserify](https://github.com/substack/node-browserify) — Browser-side require() for your node modules and npm packages
 * [cjs2web](https://github.com/alexlawrence/cjs2web) — Transform CommonJS modules to a web browser suitable format with minimal code overhead.
-* [compare.js](https://github.com/goloroden/compare.js) — Reliable comparison operators for Node.js the way you would expect them to be.
+* [comparejs](https://github.com/goloroden/comparejs) — Reliable comparison operators for Node.js the way you would expect them to be.
 * [crud-bones](http://words.alexeypro.com/crud-bones/) — CRUD boilerplate/template for Node.JS/Mongo/MySQL/Redis/Express/EJS/Cluster/etc.
 * [cryo](https://github.com/hunterloftis/cryo) - Pickle for JavaScript; extended JSON. Easily store/serialize/freeze and re-hydrate complex JavaScript objects including Functions and nested references.
 * [descriptive-statistics](http://fgribreau.github.com/descriptive_statistics/) — Descriptive Statistics for JavaScript
