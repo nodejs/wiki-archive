@@ -797,6 +797,8 @@ h2. UTC+2 (+3)
 ** "GitHub":https://github.com/alessioalex, "Twitter":http://twitter.com/alessioalex
 * Bogdan Bursuc (Bogh), Romania/Suceava
 ** "Twitter":http://twitter.com/bogdanbursuc
+* Bugariu Catalin, Romania/Bucuresti
+** "GitHub":http://github.com/bugariu-catalin, "Website":http://bugariu-catalin.com, "Twitter":http://twitter.com/bugariu_catalin
 * Peteris Krumins (pkrumins), Latvia
 ** "GitHub":http://github.com/pkrumins, "Blog":http://www.catonmat.net, "Twitter":http://twitter.com/pkrumins
 * Andris Reinman (andris9), Estonia
