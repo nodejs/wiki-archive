@@ -902,6 +902,9 @@ rendering process.
 * [open-uri](https://github.com/publicclass/open-uri) — A very simple HTTP(S)/FTP client library similar to Rubys Open-URI lib.
 * [node-Tor](https://github.com/Ayms/node-Tor) — Javascript implementation of the Tor anonymizer project (The Onion Router https://www.torproject.org/).
 * [iAnonym](https://github.com/Ayms/iAnonym) — Anonymity into your browser everywhere from any device (node-Tor browserified).
+* [node-httpp](https://github.com/InstantWebP2P/node-httpp) — Run HTTP over UDP.
+* [iwebpp.io](https://github.com/InstantWebP2P/iwebpp.io) — Deliver Peer and P2P Web Service.
+* [peer-proxy](https://github.com/InstantWebP2P/peer-proxy) — Proxy web service or website from peer.
 
 <a name="wiki-tcp-http"></a>
 ### [HTTP](#tcp-http)
@@ -924,9 +927,6 @@ rendering process.
 * [superagent](https://github.com/visionmedia/superagent) — High-level HTTP client sporting a progressive API
 * [watchmen](https://github.com/iloire/WatchMen) — A simple HTTP monitor (pings sites and services with predefined parameters to make sure they are alive)
 * [node-crawler](https://github.com/joshfire/node-crawler) — Web crawler/spider with JSDom, jQuery & connection pooling.
-* [node-httpp](https://github.com/InstantWebP2P/node-httpp) — Run HTTP over UDP.
-* [iwebpp.io](https://github.com/InstantWebP2P/iwebpp.io) — Deliver Peer and P2P Web Service.
-* [peer-proxy](https://github.com/InstantWebP2P/peer-proxy) — Proxy web service or website from peer.
 
 <a name="wiki-tcp-ftp"></a>
 ### [FTP](#tcp-ftp)
