@@ -688,6 +688,7 @@ rendering process.
 <a name="wiki-css-engines"></a>
 ## [CSS Engines](#css-engines)
 
+* [assemble-less](https://github.com/assemble/assemble-less) — Compile LESS to CSS, with options for creating "bundles", individual components, and themes.
 * [carto](https://github.com/mapbox/carto) — Parses MSS templates and renders XML for [Mapnik](http://mapnik.org/)
 * [ccss](https://github.com/aeosynth/ccss) — Parses a JavaScript object and renders css.
 * [csslike](https://github.com/chjj/csslike) — Parses and compiles CSS, taking into account the most recent www-style proposals.
