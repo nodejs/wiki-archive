@@ -1243,6 +1243,7 @@ rendering process.
 ### [Command line option parsers](#parsers-commandline)
 
 * [aparser](https://github.com/thypon/aparser) — Async ARGS parser
+* [argchecker](https://github.com/tasogarepg/argchecker) — A command line options parser for node.js.
 * [argparse](https://github.com/nodeca/argparse) — One of the most featured & flexible parser. Direct port of python's argparse module
 * [argsparser](https://github.com/kof/node-argsparser) — A tiny limited arguments parser, returns a hash.
 * [argumentr](https://github.com/pgundlach/argumentr) — simple to use but powerful argument parser with free `--help`
