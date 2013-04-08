@@ -745,6 +745,7 @@ rendering process.
 * [Masson](https://github.com/wdavidw/node-masson) — Build system and rule management similar to tools like Make, Ant or Rake
 * [mnm](https://github.com/nearinfinity/node-mnm) — Make Node Module (MNM) is a build tool for making native Node.js modules with no dependencies other than Node itself (i.e. no Python required)
 * [muffin.js](https://github.com/hornairs/muffin) — CoffeeScript compilation, minification, concatenation, copying, growl, and SLOC counting helpers for Cakefiles.
+* [Modjs](https://github.com/modulejs/modjs) — modern build tool for the web
 * [nib.js](https://github.com/blambeau/nib.js) — package and minify JavaScript/coffeescript projects to be embedded in the browser as a single .js file
 * [node-linter](https://github.com/kof/node-linter) — generic lint wrapper for JSLint, closure-linter, closure-compiler, and JavaScript Lint.
 * [simple-watcher](https://github.com/Laboratory/simple-watcher) - Coffee-script, haml and sass simple watcher
