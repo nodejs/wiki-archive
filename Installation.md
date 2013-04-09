@@ -50,9 +50,7 @@ Do something like this
 ```sh
 tar -zxf node-v0.6.18.tar.gz #Download this from nodejs.org
 cd node-v0.6.18
-./configure
-make
-sudo make install
+./configure && make && sudo make install
 ```
 
 Or, if you'd like to install from the repository
@@ -61,16 +59,12 @@ Or, if you'd like to install from the repository
 git clone https://github.com/joyent/node.git
 cd node
 git checkout v0.6.18 #Try checking nodejs.org for what the stable version is
-./configure
-make
-sudo make install
+./configure && make && sudo make install
 ```
 
 You may wish to install Node in a custom folder instead of a global directory. 
 
-    ./configure --prefix=/opt/node
-    make
-    sudo make install
+    ./configure --prefix=/opt/node && make && sudo make install
 
 You can really speed up building process by adding `-j` argument with a number usually approximately equals number of cores plus one, so `make -j 3` would be appropriate for dual-core processor.
 
@@ -100,9 +94,7 @@ git checkout v0.8.2
 ```
 export CC=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang
 export CXX=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
-./configure
-make
-sudo make install
+./configure && make && sudo make install
 ```
 
 ## Building on Windows
