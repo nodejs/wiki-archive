@@ -933,6 +933,7 @@ rendering process.
 * [poster](https://github.com/rfrench/poster) — Upload local/remote files over multipart.
 * [rem](https://github.com/tcr/rem-js) — HTTP clients with middleware for Node.js and web browsers. Flexible for any HTTP request, customizable for building API clients, and supports OAuth.
 * [request](https://github.com/mikeal/request) — Simple HTTP client library.
+* [Restler](https://github.com/danwrong/restler) — Simplified REST client for Node.js
 * [shred](https://github.com/automatthew/shred) — HTTP client library for Node.js and browsers.  Supports gzip, cookies, https, proxies, and redirects.
 * [superagent](https://github.com/visionmedia/superagent) — High-level HTTP client sporting a progressive API
 * [watchmen](https://github.com/iloire/WatchMen) — A simple HTTP monitor (pings sites and services with predefined parameters to make sure they are alive)
@@ -1043,7 +1044,6 @@ rendering process.
 * [node.ws.js](https://github.com/ncr/node.ws.js) — A basic Web Socket server with interface similar to tcp.createServer(...)
 * [node2node-socket.io](https://github.com/dotmaster/node2node-socket.io) — A node2node transport and client for socket.io .
 * [nodejs-http-websocket](https://github.com/zimbatm/nodejs-http-websocket) — A websocket server on top of the http server.
-* [Restler](https://github.com/danwrong/restler) — Simplified REST client for Node.js
 * [Reston](https://github.com/maxpert/Reston) — REST client with multipart support and friendly API
 * [Socket.io](https://github.com/LearnBoost/Socket.IO) — WebSocket-compatible server and client with fallback for legacy browsers
 * [spacesocket](https://github.com/astro/spacesocket) — WebSocket server not invented here
