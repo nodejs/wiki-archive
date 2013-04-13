@@ -21,6 +21,7 @@ For real-time discussion, check irc.freenode.net #node.js or Stack Overflow [cha
 * [IT Wars](http://www.it-wars.com/categorie8/dev) | French blog with news and nodejs codes
 * [Node Tuts Screen-casts](http://nodetuts.com) | Node.js Screen casts
 * [Nodejitsu Node Docs](http://docs.nodejitsu.com) | Several node.js hands-on tutorials
+* [Underground WebDev](http://www.udgwebdev.com) | Blog with many posts about Node.js
 
 # Localized sites
 
