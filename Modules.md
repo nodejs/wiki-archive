@@ -1101,6 +1101,7 @@ rendering process.
 * [benchmark-pages](https://github.com/penartur/node-benchmark-pages) — A benchmarking library for your web service that measures page response time under different loads.
 * [Benchmark.js](https://github.com/bestiejs/benchmark.js) — A benchmarking library that works on nearly all JavaScript platforms, supports high-resolution timers, and returns statistically significant results.
 * [Broke](https://github.com/zyndiecate/broke) — Customizable vowsjs layer for flexible unit and integration tests.
+* [cases](https://github.com/goloroden/cases) — cases provides parameterized unit tests for Mocha.
 * [Charlatan](https://github.com/nodeca/charlatan) — Fake user identities generator, with multilanguage support (names, email, addresses, phones and others).
 * [Ciao](https://github.com/missinglink/ciao) — Simple and fast command line utility for async testing http(s) requests and generating API documentation.
 * [Cucumber](https://github.com/cucumber/cucumber-js) — The official JavaScript implementation of the well-known BDD tool. Runs both on Node.js and browsers.
