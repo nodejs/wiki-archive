@@ -805,6 +805,8 @@ h2. UTC+2 (+3)
 ** "GitHub":http://github.com/andris9, "Blog":http://www.andrisreinman.com, "Twitter":http://twitter.com/andris9
 * Mihkel Sokk (msokk), Estonia
 ** "GitHub":http://github.com/msokk, "Twitter":http://twitter.com/mihkelsokk
+* Aare Puussaar (aarepuu), Estonia
+** "GitHub":http://github.com/aarepuu, "Twitter":https://twitter.com/aarepuu
 * Göktuğ Kayaalp (), Turkey/Istanbul
 ** "GitHub":http://github.com/gkya, "Website":http://gkayaalp.com
 * Mustafa Paltun (mpaltun), Turkey
