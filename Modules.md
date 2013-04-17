@@ -1228,6 +1228,7 @@ rendering process.
 * [libxml-to-js](https://github.com/SaltwaterC/libxml-to-js) — XML to JavaScript object converter based on libxmljs.
 * [libxmljs-easy](https://github.com/vgrichina/libxmljs-easy) — Work with libmxmljs DOM as with plain Javascript objects, similar to E4X
 * [libxmljs](https://github.com/polotek/libxmljs) — Bindings to libxml2
+* [libxsltjs](https://github.com/RobeeeJay/libxsltjs) — Bindings to libxslt for XSLT transformations on XML documents
 * [node-expat](https://github.com/astro/node-expat) — Fast SAX parser binding to expat
 * [node-expat](https://github.com/shimondoodkin/node-expat) — a fork of Fast SAX parser binding to expat, also includes XML to JavaScript object converter
 * [node-halfstreamxml](https://github.com/thejh/node-halfstreamxml) — sax-js based, filter out nodes (with attributes and child nodes) from an xml stream by name
