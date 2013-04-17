@@ -76,8 +76,6 @@ If you have SpiderMonkey installed, you may have some conflicting includes. Set 
 
 Or use the one liner to install the latest node.js : ```bash < <(curl http://h3manth.com/njs) ```
 
-Or use a generator installation script for Ubuntu [**Rock-Solid Node.JS Server**](http://apptob.org)
-
 ## Building on Mac OSX 10.8 with Xcode 4.5 
 1. Install Command Line Tools<br />
 Xcode: Preferences->Downloads install Command Line Tools<br />
