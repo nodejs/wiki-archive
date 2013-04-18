@@ -32,7 +32,15 @@ SyntaxError: invalid syntax
 export PYTHON=`which python2`
 ```
 
-Maybe you need to change your `PYTHONHOME` as well. If you have any further installation problems stop into [#node.js](http://webchat.freenode.net/?channels=node.js&uio=d4) on irc.freenode.net and ask questions.
+Maybe you need to change your `PYTHONHOME` as well. If that doesn't work, you can try creating symlinks to the old python in a directory which comes before python's in $PATH:
+
+```sh
+cd /usr/local/bin
+ln -s /usr/bin/python2 python
+ln -s /usr/bin/python2-config python-config
+```
+
+Remember to remove the symlinks when you're done. If you have any further installation problems stop into [#node.js](http://webchat.freenode.net/?channels=node.js&uio=d4) on irc.freenode.net and ask questions.
 
 If you are compiling on a NFS mount and get errors at the linker stage, try this:
 
