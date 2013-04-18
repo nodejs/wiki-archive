@@ -1580,7 +1580,6 @@ rendering process.
 * [fav](https://github.com/vicapow/fav) - Node.js module for parsing ICO (favicon) files
 * [gm](https://github.com/aheckmann/gm) — GraphicsMagick for node
 * [magician](https://github.com/vdemedes/magician) — Image manipulation for Node.js using ImageMagick.
-* [magickal-node](https://github.com/quiiver/magickal-node) — GraphicsMagick wrapper for node.js
 * [node-exif](https://github.com/gomfunkel/node-exif) — Library to extract Exif metadata from images
 * [node-gd](https://github.com/taggon/node-gd) — GD graphic library bindings
 * [node-gif](https://github.com/pkrumins/node-gif) — Convert an RGB or RGBA buffer to GIF fast
@@ -1589,7 +1588,6 @@ rendering process.
 * [node-imagemagick](https://github.com/rsms/node-imagemagick) — ImageMagick module
 * [node-imager](https://github.com/madhums/node-imager) - Easy way to resize, crop and upload images (with different presets) to Rackspace cloudfiles and Amazon S3.
 * [node-jpeg](https://github.com/pkrumins/node-jpeg) — Convert an RGBA or RGB buffer to JPEG fast
-* [node-magick](https://github.com/mirkok/Node-Magick) — rewrite of GraphicsMagick wrapper magickal-node fixing some issues
 * [node-occ](https://github.com/erossignon/node-occ) - construct BREP solid geometry with OpenCascade 
 * [node-ogl](https://github.com/tmpvar/node-ogl) — OpenGL bindings
 * [node-opencv](https://github.com/talvarez/node-opencv) — Node.js bindings for OpenCV. Originally forked from [peterbraden/node-opencv](https://github.com/peterbraden/node-opencv)
