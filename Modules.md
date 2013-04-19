@@ -1793,7 +1793,7 @@ rendering process.
 
 <a name="wiki-async-flow-libraries"></a>
 ### [Libraries](#async-flow-libraries)
-
+* [yuemeng](https://github.com/uxnow/yuemeng) — A choice for coffeescript of control flow with syntax: go -> fisrt -> auto(second1, second2) -> three.
 * [$N](https://github.com/chjj/-N) — Simple control flow with pretty syntax.
 * [async-mini](https://github.com/ypocat/async-mini) — Minimalistic async lib implementing only .parallel() and series(). Simple code, predictable behavior, server and browser.
 * [async.js](https://github.com/fjakobs/async.js) — Async chaining and file system utilities. Async.js is to node's fs module, what jQuery is to the DOM.
