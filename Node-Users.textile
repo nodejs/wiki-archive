@@ -180,6 +180,9 @@ h2. UTC-8
 ** "GitHub":http://github.com/prattsj/, "Twitter":http://twitter.com/prattsj/, "Website":http://generalui.com
 * William Wicks (wwicks), Las Vegas, NV, US
 ** "GitHub":https://github.com/williamwicks/, "Twitter":http://twitter.com/williamwicks/
+* Trevor Norris (trevnorris)
+** "GitHub":https://github.com/trevnorris/, "Twitter":https://twitter.com/trevnorris,
+"WebSite":http://trevorjnorris.com
 
 h2. UTC-7 (-6)
 
