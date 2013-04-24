@@ -48,11 +48,9 @@ Example install on openSUSE 12.1:
 
 ## Fedora
 
-Node.js is currently being implemented in Fedora 18 and will become a regular part of the distribution starting with Fedora 19.
+[Node.js](https://apps.fedoraproject.org/packages/nodejs) and [npm](https://apps.fedoraproject.org/packages/npm) are available in Fedora 18 and later.  Just use your favorite graphical package manager or run this on a terminal to install both npm and node:
 
-To try the unstable 0.9.x series with Fedora 18 right now, run:
-
-    sudo yum --enablerepo=updates-testing install nodejs npm
+    sudo yum install npm
 
 ## Arch Linux
 Node.js is available in the Community Repository.
