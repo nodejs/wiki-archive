@@ -788,6 +788,7 @@ rendering process.
 * [jitsu](https://github.com/nodejitsu/jitsu) — Flawless command line deployment of your Node.js apps to the cloud
 * [npkg](https://github.com/wearefractal/npkg) — Generates cross-platform installers for Node.js applications
 * [roco](https://github.com/1602/roco) — Capistrano inspired CLI for deployment, monitoring and other stuff.
+* [napp](https://github.com/Ideolys/napp) — Node AP[P]lication [P]ackager to pack your app and unpack it on your server in a few seconds even without Internet.
 
 <a name="wiki-configuration-management"></a>
 ### [Configuration management](#configuration-management)
