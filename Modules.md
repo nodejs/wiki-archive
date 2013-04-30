@@ -745,7 +745,7 @@ rendering process.
 * [aspa](https://github.com/icflorescu/aspa) - An opinionated, lightweight asset packager enabling you to concatenate, compress and fingerprint your stylesheets and scripts during development / before deployment.
 * [beholder](https://github.com/cmoncrief/beholder) — Robust cross-platform file watching with support for  globbing and large file sets.
 * [buildr](https://github.com/balupton/buildr.npm) — JavaScript project builder, compresses images, CSS and JS, bundles CSS and JS, checks JavaScript, supports subpackages/plugins
-* [Grunt](https://github.com/cowboy/grunt) — a task-based command line build tool for JavaScript projects.
+* [Grunt](https://github.com/gruntjs/grunt) — a task-based command line build tool for JavaScript projects.
 * [Jadebars](https://github.com/cmoncrief/jadebars) — Compile Jade into pre-compiled Handlebars templates, with support for watching and minification.
 * [Jake](https://github.com/mde/jake) — JavaScript build tool similar to Make or Rake.
 * [Masson](https://github.com/wdavidw/node-masson) — Build system and rule management similar to tools like Make, Ant or Rake
