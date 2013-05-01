@@ -2004,6 +2004,7 @@ realtime balancing for live objects
 <a name="wiki-other"></a>
 ## [Other](#other)
 
+* [chardet](https://github.com/runk/node-chardet) - Character/encoding detection module 
 * [bigdecimal](https://github.com/iriscouch/bigdecimal.js) — Helps circumventing the problem of "0.1 + 0.2 = 0.30000000000000004".
 * [BinaryJS](https://github.com/binaryjs/binaryjs) — Node binary websocket streaming made easy 
 * [append](https://github.com/pvorb/node-append) — Append properties from one object to another.
