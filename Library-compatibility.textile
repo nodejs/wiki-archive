@@ -29,6 +29,7 @@ h2. Node v0.6.0
 * "mongo-express: v0.11.x":https://github.com/andzdroid/mongo-express
 * "Bike: v0.5.x":https://github.com/gabrieleds/bike
 * "nodeportal: v0.0.4":https://github.com/saggiyogesh/nodeportal
+* "console-ten: v0.0.5":https://github.com/mpalmerlee/console-ten
 
 h2. Node v0.5.0-pre
 * "quickcheck v0.0.0":https://github.com/mcandre/node-quickcheck
