@@ -2,7 +2,7 @@
 ## Para
 ### Estrutura
     para <variável> de <valor-inicial> ate <valor-limite> [passo <incremento>] faca
-    <seqüência-de-comandos>
+       <seqüência-de-comandos>
     fimpara
 ## Enquanto
 ## Repita
