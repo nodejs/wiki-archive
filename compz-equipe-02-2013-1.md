@@ -1,10 +1,6 @@
-
-# Laços de repetições
+# Vetores
 ## Para
 ## Enquanto
 ## Repita
 ## Comando Interrompa
-
-# Vetores
-
 # Matrizes
