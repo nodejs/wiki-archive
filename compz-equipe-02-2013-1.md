@@ -3,7 +3,7 @@
 ### Estrutura
     para <variável> de <valor-inicial> ate <valor-limite> [passo <incremento>] faca
     <seqüência-de-comandos>
-fimpara
+    fimpara
 ## Enquanto
 ## Repita
 ## Comando Interrompa
