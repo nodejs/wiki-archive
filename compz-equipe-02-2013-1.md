@@ -1,7 +1,8 @@
 Título 1
-# Vetores
+# Laços de repetições
 ## Para
 ## Enquanto
 ## Repita
 ## Comando Interrompa
+# Vetores
 # Matrizes
