@@ -1890,7 +1890,7 @@ rendering process.
 ### [Other Language Extensions](#async-flow-extensions)
 
 * [Cinch](https://github.com/pguillory/cinch) — Write async code in sync form.
-* [Jscex](http://github.com/JeffreyZhao/jscex) — Transforms sync code into monadic, async code as the async support in F# and Scala.
+* [Wind.js](http://github.com/JeffreyZhao/wind) — Transforms sync code into monadic, async code as the async support in F# and Scala.
 * [qjs](https://github.com/ForbesLindesay/QJS) — transforms synchronous looking code that uses Q promises into asynchronous code.
 * [sjs](https://github.com/elmerbulthuis/sjs) — Asynchronous JavaScript for synchronous people
 * [streamline.js](https://github.com/Sage/streamlinejs) — Tool that transforms synchronous code into asynchronous code with callbacks.
