@@ -15,7 +15,7 @@ For Debian Squeeze, your best bet is to compile node by yourself (as `root`):
     apt-get install python g++ make
     mkdir ~/nodejs && cd $_
     wget -N http://nodejs.org/dist/node-latest.tar.gz
-    tar xzvf node-latest.tar.gz && cd `ls -rd node-v*`
+    tar xzvf node-latest.tar.gz && cd `ls -rd --color=no node-v*`
     ./configure
     make install
 
