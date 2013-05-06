@@ -993,6 +993,7 @@ rendering process.
 * [wake_on_lan](https://github.com/agnat/node_wake_on_lan) — Generate and send Wake-on-LAN magic packets
 * [geotools](https://github.com/runk/geotools) — IP to Country/Region lookup
 * [maxmind](https://github.com/runk/node-maxmind) — IP geo lookup using Maxmind databases
+* [socksjs](https://github.com/m2ys4u/socksjs) — A SOCKS (v5) client library for node.js
 
 <a name="wiki-rpc"></a>
 ## [RPC](#rpc)
