@@ -10,14 +10,19 @@ Node.js is available in official gentoo portage tree. You have to unmask it.
 ## Debian, LMDE
 [Node.js is available in official repo for Debian Sid(unstable)](http://packages.debian.org/search?searchon=names&keywords=nodejs).
 
-For Debian Squeeze, your best bet is to compile node by yourself:
+For Debian Wheezy, your best bet is to compile node by yourself:
 
-    sudo apt-get install python g++ make
-    mkdir ~/nodejs && cd $_
+    sudo apt-get install python g++ make checkinstall
+    mkdir ~/src && cd $_
     wget -N http://nodejs.org/dist/node-latest.tar.gz
     tar xzvf node-latest.tar.gz && cd node-v*
     ./configure
-    sudo make install
+    checkinstall #(remove the "v" in front of the version number in the dialog)
+    sudo dpkg -i node_*
+
+Uninstall:
+
+    sudo dpkg -r node
 
 ## Ubuntu, Mint
 
