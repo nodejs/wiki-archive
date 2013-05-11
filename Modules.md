@@ -738,6 +738,8 @@ rendering process.
 * [reed](https://github.com/ProjectMoon/reed) — A Markdown-based blogging core backed by Redis and the filesystem.
 * [nodeportal](https://github.com/saggiyogesh/nodeportal) — Inspired from Liferay, its a portal cms. Currently in heavy development. 
 * [hexo](https://github.com/tommy351/hexo) — A fast, simple & powerful blog framework inspired by Jekyll & Octopress.
+* [Node2Blog](https://github.com/jawerty/Node2Blog) — A simple and easy to setup blog template (Express and MongoDB)
+* [pagen.js](https://github.com/jawerty/pagen) — A colorful and **highly** customizable static website generator.
 
 <a name="wiki-build-and-deployment"></a>
 ## [Build and deployment](#build-and-deployment)
