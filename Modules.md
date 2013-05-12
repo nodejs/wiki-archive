@@ -997,6 +997,8 @@ rendering process.
 * [radius](https://github.com/nearbuy/node-radius) — RADIUS packet encoding/decoding library
 * [shorty](https://github.com/mtd/shorty) — Shorty is a lightweight, high performance SMPP client and server.
 * [stomp-client](https://github.com/easternbloc/node-stomp-client) — A STOMP client for Node.js
+* [ssh2](https://github.com/mscdex/ssh2) - An SSH2 client module written in pure JavaScript for node.js
+* [sshclient](https://github.com/ypocat/sshclient) - a simple deployment-oriented wrapper for mscdex's ssh2 lib
 * [wake_on_lan](https://github.com/agnat/node_wake_on_lan) — Generate and send Wake-on-LAN magic packets
 * [geotools](https://github.com/runk/geotools) — IP to Country/Region lookup
 * [maxmind](https://github.com/runk/node-maxmind) — IP geo lookup using Maxmind databases
