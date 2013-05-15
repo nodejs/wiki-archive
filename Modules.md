@@ -1414,6 +1414,7 @@ rendering process.
 * [ret.js](https://github.com/fent/ret.js) — A regexp tokenizer.
 * [semver](https://github.com/isaacs/node-semver) — Parser used by npm for version numbers.
 * [service-parser](https://github.com/sebmck/service-parser) — /etc/services file parser
+* [space](https://github.com/nudgepad/space) — Parser for Space, a whitespace encoding for associative arrays.
 * [strscan](https://github.com/sstephenson/strscan-js) — Simple string tokenizer for lexical scanning operations
 * [tap](https://github.com/isaacs/node-tap) — Tools for the [Test Anything Protocol](http://testanything.org/)
 * [tldextract](https://github.com/masylum/tldextract) — Extract domain, subdomain and tld from a url.
