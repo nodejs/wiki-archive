@@ -58,9 +58,9 @@ Example install on openSUSE 12.1:
 
 ## RHEL/CentOS/Scientific Linux 6
 
-Node.js and npm are available from the [Fedora Extra Packages for Enterprise Linux (EPEL)](https://fedoraproject.org/wiki/EPEL) _testing_ repository.  If you haven't already done so, first [enable EPEL](https://fedoraproject.org/wiki/EPEL#How_can_I_use_these_extra_packages.3F) and then run the following command to install node and npm:
+Node.js and npm are available from the [Fedora Extra Packages for Enterprise Linux (EPEL)](https://fedoraproject.org/wiki/EPEL) repository.  If you haven't already done so, first [enable EPEL](https://fedoraproject.org/wiki/EPEL#How_can_I_use_these_extra_packages.3F) and then run the following command to install node and npm:
 
-    su -c 'yum --enablerepo=epel-testing install npm'
+    su -c 'yum install npm'
 
 ## Arch Linux
 Node.js is available in the Community Repository.
