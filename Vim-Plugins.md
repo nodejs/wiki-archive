@@ -10,7 +10,7 @@ Of course, if you don't use [Pathogen](http://www.vim.org/scripts/script.php?scr
 
 * [Tabular](http://vimcasts.org/episodes/aligning-text-with-tabular-vim/) Align declarations, equals signs, etc.
 * [JSLint](https://github.com/hallettj/jslint.vim) Lint your code from Vim
-* [JSHint](https://github.com/manalang/jshint.vim) JSHint plugin
+* [JSHint](https://github.com/walm/jshint.vim) JSHint plugin
 
 
 ## Syntax
