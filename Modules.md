@@ -781,7 +781,8 @@ rendering process.
 * [naught](https://github.com/indabamusic/naught) — zero downtime deployment using native cluster API. Created as an alternative to forever.
 * [forewoman](https://github.com/liangzan/forewoman) — A port of foreman (process management tool) + hot code reload.
 * [node-dev](https://github.com/fgnass/node-dev) — Automatically restarts node when a source-file is modified. Displays notifications via Growl.
-* [node-windows](https://github.com/coreybutler/node-windows) — Run scripts as background services on Windows. Also has event logging and security management features.
+* [node-windows](https://github.com/coreybutler/node-windows) — Run scripts as native background services on Windows. Also has event logging and security management features.
+* [node-mac](https://github.com/coreybutler/node-mac) — Run scripts as native background services on OSX. Also has event logging.
 * [nodemon](https://github.com/remy/nodemon) — Monitors all source files, restarts node on changes. Command-line usage, code-passive with ignore list.
 * [reloader](https://github.com/konteck/reloader) — Reload app on it's source code change. Suitable to work both on production and development machines. Act as usual NodeJS module.
 * [run](https://github.com/DTrejo/run.js) — Rerun your js file whenever there's a change in the current directory: <code>npm install -g run</code>, <code>runjs yourcode.js</code>. Never alt-tab to your terminal again.
