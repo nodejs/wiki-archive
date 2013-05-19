@@ -2042,6 +2042,7 @@ realtime balancing for live objects
 * [easyRTC](http://easyrtc.com/) — WebRTC server and client API kit. Allows for rapid WebRTC application deployment.
 * [Gauss](http://github.com/stackd/gauss) - JavaScript statistics and analytics library
 * [GFMS](https://github.com/ypocat/gfms) — Github Flavored Markdown Server. Preview your README.md (and other markdown docs) locally before committing it. Uses Github's CSS for faithful representation. Uses [ws-rpc](https://github.com/ypocat/ws-rpc) to automatically reload your browser upon file changes.
+* [hdoc](https://github.com/tasogarepg/hdoc) — A here-document utility for node.js.
 * [highlight.js](https://github.com/isagalaev/highlight.js) — Syntax Highlighting (for node.js and browser)
 * [Jalali](https://github.com/alireza-ahmadi/jalali) — Gregorian to Jalali Converter
 * [jomap](https://bitbucket.org/dotCypress/jomap/) — Powerfull object mapper
