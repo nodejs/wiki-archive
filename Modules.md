@@ -1060,6 +1060,7 @@ rendering process.
 * [node.ws.js](https://github.com/ncr/node.ws.js) — A basic Web Socket server with interface similar to tcp.createServer(...)
 * [node2node-socket.io](https://github.com/dotmaster/node2node-socket.io) — A node2node transport and client for socket.io .
 * [nodejs-http-websocket](https://github.com/zimbatm/nodejs-http-websocket) — A websocket server on top of the http server.
+* [partial.js - RFC 6455](https://github.com/petersirka/partial.js/) - a fully web application framework for node.js, **NO DEPENDENCIES**
 * [Restler](https://github.com/danwrong/restler) — Simplified REST client for Node.js
 * [Reston](https://github.com/maxpert/Reston) — REST client with multipart support and friendly API
 * [Socket.io](https://github.com/LearnBoost/Socket.IO) — WebSocket-compatible server and client with fallback for legacy browsers
