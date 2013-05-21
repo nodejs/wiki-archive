@@ -10,6 +10,8 @@ Active committers:
 * Fedor Indutny ([indutny](https://github.com/indutny) - [Voxer](http://voxer.com/))
 * Nathan Rajlich ([TooTallNate](https://github.com/TooTallNate) - [LearnBoost](http://learnboost.com/))
 * Scott Blomquist ([sblom](https://github.com/sblom) - [Microsoft](http://microsoft.com/))
+* TJ Fontaine ([tjfontaine](https://github.com/tjfontaine) - [Joyent](http://joyent.com/))
+* Trevor Norris ([trevnorris](https://github.com/trevnorris) - [Mozilla](http://mozilla.org))
 
 Inactive committers:
 
