@@ -15,11 +15,13 @@ Of course, if you don't use [Pathogen](http://www.vim.org/scripts/script.php?scr
 
 ## Syntax
 
-* [JavaScript](https://github.com/pangloss/vim-javascript)
+* [JavaScript](https://github.com/pangloss/vim-javascript) (indentation + syntax)
+* [JavaScript](https://github.com/jelera/vim-javascript-syntax) (More complete syntax than the one above)
 * [CoffeeScript](https://github.com/kchmck/vim-coffee-script)
 * [Jade](https://github.com/digitaltoad/vim-jade)
 * [Stylus](https://github.com/wavded/vim-stylus)
-* [Syntastic](https://github.com/scrooloose/syntastic) :
+* [Syntastic](https://github.com/scrooloose/syntastic)
+* [Mustache](https://github.com/juvenn/mustache.vim.git)
 
 ## Editing
 
