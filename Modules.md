@@ -758,6 +758,7 @@ rendering process.
 * [aspa](https://github.com/icflorescu/aspa) - An opinionated, lightweight asset packager enabling you to concatenate, compress and fingerprint your stylesheets and scripts during development / before deployment.
 * [beholder](https://github.com/cmoncrief/beholder) — Robust cross-platform file watching with support for  globbing and large file sets.
 * [buildr](https://github.com/balupton/buildr.npm) — JavaScript project builder, compresses images, CSS and JS, bundles CSS and JS, checks JavaScript, supports subpackages/plugins
+* [ClosureCompiler.js](https://github.com/dcodeIO/ClosureCompiler.js) — ClosureCompiler for node.js - the all-round carefree package
 * [Grunt](https://github.com/gruntjs/grunt) — a task-based command line build tool for JavaScript projects.
 * [Jadebars](https://github.com/cmoncrief/jadebars) — Compile Jade into pre-compiled Handlebars templates, with support for watching and minification.
 * [Jake](https://github.com/mde/jake) — JavaScript build tool similar to Make or Rake.
@@ -866,6 +867,7 @@ rendering process.
 ## [OpenSSL / Crypto / Hashing](#security)
 
 * [amir's node-base62](https://github.com/amir/node-base62) — C++ base62 lib for representing big numbers
+* [bcrypt.js](https://github.com/dcodeIO/bcrypt.js) — Optimized bcrypt in plain JavaScript with zero dependencies. 100% typed code.
 * [brainfucker's node-base64](https://github.com/brainfucker/node-base64) — C++ base64 lib
 * [hashlib](https://github.com/brainfucker/hashlib) — Fast hashing module, written in C/C++, supports: md4, md5, md6, sha, sha1, sha256, sha512
 * [jsHashes](https://github.com/h2non/jsHashes) — A fast and independent hashing library pure JavaScript implemented for both server and client side. Supports MD5, SHA1, SHA256, SHA512, RIPEMD-160 and HMAC. Includes Base64 encode/decode, CRC-32 and UTF-8 support.
@@ -985,6 +987,7 @@ rendering process.
 <a name="wiki-tcp-other"></a>
 ### [Other networking](#tcp-other)
 
+* [ByteBuffer.js](https://github.com/dcodeIO/ByteBuffer.js) — A Java-like, Netty-inspired ByteBuffer implementation using typed arrays.
 * [jsDAV](https://github.com/mikedeboer/jsdav) — jsDAV allows you to easily add WebDAV and CalDAV support to a NodeJS application. jsDAV is meant to cover the entire standard, and attempts to allow integration using an easy to understand API.
 * [macaddr](https://github.com/carter-thaxton/macaddr) — Obtain MAC addresses for current machine from Node
 * [mdns](https://github.com/agnat/node_mdns) — mdns/zeroconf/bonjour service discovery add-on
@@ -999,6 +1002,7 @@ rendering process.
 * [node-tld](https://github.com/donpark/node-tld) — for working with TLD data (registered domain name, etc)
 * [NodeSSH](https://github.com/FlashFan/NodeSSH) — a lightweight SSH client
 * [portscanner](https://github.com/baalexander/node-portscanner) — An asynchronous port scanner for Node.js
+* [ProtoBuf.js](https://github.com/dcodeIO/ProtoBuf.js) — protobuf for JavaScript
 * [radius](https://github.com/nearbuy/node-radius) — RADIUS packet encoding/decoding library
 * [shorty](https://github.com/mtd/shorty) — Shorty is a lightweight, high performance SMPP client and server.
 * [stomp-client](https://github.com/easternbloc/node-stomp-client) — A STOMP client for Node.js
@@ -1541,6 +1545,7 @@ rendering process.
 * [colored.js](https://github.com/chrislloyd/colored.js) — Colorize terminal output.
 * [colorize](https://github.com/mattpat/colorize) — Markup tool which uses English words to set text colours with ANSI codes.
 * [colors.js](https://github.com/Marak/colors.js) — get colors in your node.js console like what
+* [colour.js](https://github.com/dcodeIO/colour.js) — A cored, fixed, documented and optimized version of the popular colors.js.
 * [colours.js](https://github.com/botanicus/colours.js) — Give your CLI programs some colours! (Does not support background colour manipulation.)
 * [consolelog.js](https://github.com/jazzychad/consolelog.node.js) — stylized console logging for node.js
 * [irc-colors.js](https://github.com/fent/irc-colors.js) — Color and formatting for irc bots made easy
