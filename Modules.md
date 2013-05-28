@@ -1042,6 +1042,7 @@ rendering process.
 * [zeromq.node](https://github.com/JustinTulloss/zeromq.node) — 0MQ (zeroMQ) bindings for node.js
 * [ws.js](https://github.com/yaronn/ws.js) — A WS-* client stack for node.js. Written in pure javascript! 
 * [wcf.js](https://github.com/yaronn/wcf.js) — A WCF-compatible web service client stack for node.js. Written in pure javascript! 
+* [node-ice](https://github.com/durs/node-ice) - ZeroC Ice client implementation (c++)
 
 <a name="wiki-ws-ajax"></a>
 ## [Web Sockets & Ajax](#ws-ajax)
