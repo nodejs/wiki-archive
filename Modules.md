@@ -2010,6 +2010,7 @@ realtime balancing for live objects
 
 * [Underscore](http://underscorejs.org/) — Utility belt for Javascript. Adds iterators and much more. 
 * [FJS](https://github.com/seanhess/fjs) — Functional Javascript. Currying, point-free composition.
+* [JSUS](https://github.com/nodeGame/JSUS) — JSUS: JavaScript UtilS: JSUS helps!
 
 <a name="wiki-physics"></a>
 ## [Physics](#physics)
