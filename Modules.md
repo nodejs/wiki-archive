@@ -1902,6 +1902,7 @@ rendering process.
 * [Step](https://github.com/creationix/step) — Tool for grouping and chaining asynchronous callbacks, based on [flow-js](https://github.com/willconant/flow-js)
 * [stepc](https://github.com/akidee/stepc) — A CoffeeScript-safe version of creationix' step
 * [streamify](https://github.com/fent/node-streamify) — Streamify helps you easily provide a streaming interface for your code.
+* [suspend](https://github.com/jmar777/suspend) - Generator-based control-flow library expressly designed to work with Node's callback conventions.
 * [taskman](https://github.com/bryan-m-hughes/node-taskman) — A task management library for managing (possibly) asynchronous tasks by declaring task dependencies.
 * [timequeue](https://github.com/fent/timequeue.js) — A queue with custom concurrency and time limit.
 * [TwoStep](https://github.com/xavi-/two-step) — An async control-flow library that makes stepping through logic easy.  The spiritual successor of [Step](https://github.com/creationix/step) with better error handling and finer flow control.
