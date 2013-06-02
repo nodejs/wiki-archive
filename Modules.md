@@ -1855,6 +1855,7 @@ rendering process.
 * [flowless](https://github.com/koichik/node-flowless) — Less but better control-flow library.
 * [funk](https://github.com/masylum/funk) — Asynchronous parallel functions made funky!
 * [futures](https://github.com/coolaj86/futures) - Asynchronous Method Queueing, Futures, Promises, Subscriptions, and other async goodies
+* [galaxy](https://github.com/bjouhier/galaxy) — async/await in JavaScript thanks to harmony generators.
 * [gate](https://github.com/nakamura-to/gate) — An utility to await multiple asynchronous calls
 * [groupie](https://github.com/alexkwolfe/groupie) — A simple control flow library for executing multiple functions as a group or in a chain, calling back when complete.
 * [ice-stream](https://github.com/rossj/ice-stream) — An expressive, chainable utility to allow for complex processing of streaming data.
