@@ -2,6 +2,7 @@ Node is under heavy development and its API changes rapidly. Instead of simply a
 
 h2. Node v0.11.2
 * "suspend: v0.1.0":https://github.com/jmar777/suspend
+* "galaxy: v0.1.1a":https://github.com/bjouhier/galaxy
 
 h2. Node v0.10.4
 * "Kruntch.js: v1.1.0":http://www.kruntch.com
