@@ -6,8 +6,7 @@ Managed providers provide a simplified "Node Appliance" solution. Node and NPM w
 
 Name | Node Version | Web Sockets | IP/Hostname | IRC | Repository | Free Plan | Paid Plans | Notes |
 :-----------|:------------|:-------------|:-------------|:-------------|:-------------|:-------------|:-------------|:-------------------------------------|
-[appfog](http://appfog.com/) | 0.4.12, 0.6.17, 0.8.14 | | Yes | | [appfog](https://github.com/appfog) | Yes – up to 2G RAM for your applications | Yes – monthly subscriptions and enterprise support available | General Availability
-[bejes.us](http://bejes.us) || | | | | | | Beta Coming Soon (accepting signups) - powered by Nodester 
+[appfog](http://appfog.com/) | 0.4.12, 0.6.17, 0.8.14 | No | Yes | | [appfog](https://github.com/appfog) | Yes – up to 2G RAM for your applications | Yes – monthly subscriptions and enterprise support available | General Availability
 [Cloud Foundry](http://www.cloudfoundry.com) | 0.4.12, 0.6.8, 0.8.2 | No | No | | [cloudfoundry](https://github.com/cloudfoundry) | Yes - Only during beta. | | Beta, accepting signups
 [Cloudnode](http://cloudno.de) | 0.4.12, 0.6.17 | Yes | Yes | | | Yes - Up to 3 VMs, 25 MB CouchDB space, 250,000 requests/month. | | Beta (accepting signups) - powered by Nodester 
 [DotCloud](http://www.dotcloud.com) | 0.4.10 | Yes | Paid plan | #dotcloud | [dotcloud](https://github.com/dotcloud) | Yes - 2 services. | Pro - $99/month, 4 services. Enterprise - Unlimited services. | Beta
@@ -15,9 +14,8 @@ Name | Node Version | Web Sockets | IP/Hostname | IRC | Repository | Free Plan |
 [Modulus](http://modulus.io) | 0.8.15 | Yes | Yes | #modulus | [OnModulus](https://github.com/onmodulus) | | $0.02/hour per instance | Live on AWS
 [MangoRaft](http://mangoraft.com/) | 0.4.x, 0.6.x, 0.8.x | Yes | Yes | | [MangoRaft](https://github.com/MangoRaft) | Yes | No | Still under development. Looking for testers.
 [no.de](http://no.de) | 0.4.11 | Paid plan | Paid plan | #joyent | [joyent](http://github.com/joyent) | Yes - 128 MB Ram (no longer available) | | 
-[NodeSocket](http://www.nodesocket.com) | 0.4.12 | Yes | Yes | | [nodesocket](https://github.com/nodesocket) | | | In Private Beta
 [Nodejitsu](http://nodejitsu.com) | 0.4.12, 0.6.x, 0.8.x | Yes | Yes | #nodejitsu | [nodejitsu](http://github.com/nodejitsu) | 30 days sandbox | Yes | now with Joyent
-[Nodester](http://nodester.com) | 0.6.12, 0.6.17, 0.8.1 | Yes | Yes | #nodester |[nodester](https://github.com/nodester) | Yes - Unlimited | No | Open (with invite)
+[Nodester](http://nodester.com) | 0.6.12, 0.6.17, 0.8.1 | Yes | Yes | #nodester |[nodester](https://github.com/nodester) | Yes - Unlimited | No | No longer accepting signups
 [JSApp.US](http://jsapp.us) | | | No | | [node-host](https://github.com/matthewfl/node-host) | | | Open signup, web editing/npm command
 [Node Ninja(JP)](https://node-ninja.com) | 0.6.11 | Yes | Yes | | | Yes |  | In Private Beta
 [NAE(CN)](http://cnodejs.net) | 0.6.2 | Yes | Just allow *.cnodejs.net or custom domain | | | Yes - You can create 10 apps. And you can request a MongoDB for every app. | | Open (with invite)
