@@ -1019,6 +1019,7 @@ rendering process.
 <a name="wiki-rpc"></a>
 ## [RPC](#rpc)
 
+* [mar](https://github.com/esnunes/mar) - Message & Reply - RPC library based on message exchange.
 * [bertrpc](https://github.com/rtomayko/node-bertrpc)
 * [dnode](https://github.com/substack/dnode) — Asynchronous remote method calls with transparently wrapped callbacks. Works with regular network streams or socket.io.
 * [IPCNode](https://github.com/Frans-Willem/IPCNode) — Asynchronous RPC library based on node.js Stream object,  with support for circular objects, and explicit reference counting to ensure proper garbage collection.
