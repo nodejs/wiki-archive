@@ -4,6 +4,10 @@ h2. Node v0.11.2
 * "suspend: v0.1.0":https://github.com/jmar777/suspend
 * "galaxy: v0.1.1a":https://github.com/bjouhier/galaxy
 
+h2. Node v0.10.10
+* "aspa: v0.3.6":https://github.com/icflorescu/aspa
+* "aspa-express: v0.3.2":https://github.com/icflorescu/aspa-express
+
 h2. Node v0.10.4
 * "Kruntch.js: v1.1.0":http://www.kruntch.com
 * "aspa: v0.3.6":https://github.com/icflorescu/aspa
