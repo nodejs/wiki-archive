@@ -84,7 +84,10 @@ If you have SpiderMonkey installed, you may have some conflicting includes. Set 
 
 Or use the one liner to install the latest node.js : ```bash < <(curl http://h3manth.com/njs) ```
 
-## Building on Mac OSX 10.8 with Xcode 4.5 
+## Mac OSX
+It's easiest to use a [package manager (as mentioned above)](https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager#osx) such as brew or macports.
+
+### Building on Mac OSX 10.8 with Xcode 4.5 
 1. Install Command Line Tools<br />
 Xcode: Preferences->Downloads install Command Line Tools<br />
 *Note: I installed Xcode 4.5 in `/Applications/Xcode`*
