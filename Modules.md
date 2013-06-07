@@ -1850,6 +1850,7 @@ rendering process.
 * [chainsaw](https://github.com/substack/node-chainsaw) — Build chainable fluent interfaces the easy way in node.js
 * [channels](https://github.com/Pita/channels) — Event channels for node.js
 * [cloudd](https://github.com/truepattern/cloudd) — Job manager, runs set of tasks defined using a DAG definition
+* [ctrl](https://github.com/freethenation/ctrl) — Async library that makes writing parallel code, synchronous code, and error handling simple.
 * [deferred](https://github.com/medikoo/deferred) — Asynchronous control-flow with deferred and promises
 * [each](https://github.com/wdavidw/node-each) — Chained and parallel async iterator in one elegant function
 * [eventproxy](https://github.com/JacksonTian/eventproxy) — An implementation of task/event based asynchronous pattern. Use events to avoid dirty callbacks.
