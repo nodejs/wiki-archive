@@ -1022,6 +1022,7 @@ rendering process.
 <a name="wiki-rpc"></a>
 ## [RPC](#rpc)
 
+* [eureca.io](https://github.com/Ezelia/eureca.io) - transparent bidirectional RPC library using engine.io or sockjs as transport layer.
 * [mar](https://github.com/esnunes/mar) - Message & Reply - RPC library based on message exchange.
 * [bertrpc](https://github.com/rtomayko/node-bertrpc)
 * [dnode](https://github.com/substack/dnode) — Asynchronous remote method calls with transparently wrapped callbacks. Works with regular network streams or socket.io.
