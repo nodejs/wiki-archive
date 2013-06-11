@@ -3,9 +3,11 @@
 <pre>
 <code>
  node --debug[=port] NodeApp.js
-
+</code>
+</pre>
 or
-
+<pre>
+<code>
  node --debug-brk[=port] NodeApp.js
 </code>
 </pre>
