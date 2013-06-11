@@ -2067,10 +2067,12 @@ realtime balancing for live objects
 * [Jalali](https://github.com/alireza-ahmadi/jalali) — Gregorian to Jalali Converter
 * [jomap](https://bitbucket.org/dotCypress/jomap/) — Powerfull object mapper
 * [jsbundle](https://github.com/proxv/jsbundle) — Simple, clean, and automatic bundling of your Node modules and packages for use in the browser.
+* [json-ptr](https://github.com/flitbit/json-ptr) - A complete, fast implementation of JSON Pointer (RFC 6901) for nodejs and the browser.
 * [nshell](https://github.com/visionmedia/nshell) — non-posix shell written with node.js 
 * [model.js](https://github.com/tarruda/model.js) — Simple data validation for both server and browser.
 * [node-ast-inlining](https://github.com/FGRibreau/node-ast-inlining) — A small library that inline and expand function call
 * [node-dummy-cache](http://github.com/pescuma/node-dummy-cache) — A simple in memory cache to use with nodejs.
+* [node-eibd](https://github.com/andreek/node-eibd) - eibd client for eib/knx daemon
 * [node-stem](https://github.com/chriso/node-stem) — Bindings to the libstemmer library
 * [node-talib](https://github.com/oransel/node-talib) — Technical Analysis Library with 100+ indicators and candlestick pattern recognition
 * [node-upload-progress](https://github.com/phstc/node-upload-progress) — It's a Node.js module to handle upload and upload-progress
@@ -2085,6 +2087,7 @@ realtime balancing for live objects
 * [sorter](https://github.com/minodisk/sorter) — Sort methods: dictionary sort and natural sort
 * [toSrc](http://jhnns.github.com/toSrc/) — Turns every JavaScript object or primitive into valid source code that can be evaled again.
 * [tty.js](https://github.com/chjj/tty.js) - a terminal for your browser
+* [typed](http://alexlawrence.github.com/typed) - Type checking libraryC
 * [twitter-conference](https://github.com/meritt/twitter-conference) - It's a small example how to create twitter online conference with Node.js, Twitter Streaming API and Websockets.
 * [version](https://github.com/edwardhotchkiss/version) — NodeJS package.json version number fetcher
 * [value](https://github.com/jhnns/value) - Convenient high-performance type-checking for JavaScript
@@ -2093,5 +2096,3 @@ realtime balancing for live objects
 * [parambulator](https://github.com/rjrodger/parambulator) - A simple way to generate nice error messages for named parameters.
 * [subst](https://github.com/andreyvit/subst.js) - Substitutes placeholders in strings, arrays and objects
 * [urlmatch](https://github.com/andreyvit/urlmatch.js) - URL host/port/path matching (kind of like fnmatch)
-* [node-eibd](https://github.com/andreek/node-eibd) - eibd client for eib/knx daemon
-* [typed](http://alexlawrence.github.com/typed) - Type checking libraryC
