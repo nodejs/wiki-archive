@@ -994,6 +994,7 @@ rendering process.
 ### [Other networking](#tcp-other)
 
 * [ByteBuffer.js](https://github.com/dcodeIO/ByteBuffer.js) — A Java-like, Netty-inspired ByteBuffer implementation using typed arrays.
+* [evilscan](https://github.com/eviltik/evilscan) — Massive ports scanner
 * [jsDAV](https://github.com/mikedeboer/jsdav) — jsDAV allows you to easily add WebDAV and CalDAV support to a NodeJS application. jsDAV is meant to cover the entire standard, and attempts to allow integration using an easy to understand API.
 * [macaddr](https://github.com/carter-thaxton/macaddr) — Obtain MAC addresses for current machine from Node
 * [mdns](https://github.com/agnat/node_mdns) — mdns/zeroconf/bonjour service discovery add-on
