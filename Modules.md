@@ -1235,7 +1235,8 @@ rendering process.
 * [dionjwa-nodejs_externs](https://github.com/dionjwa/nodejs_externs) — A collection of Node.js module externs for Haxe
 * [git-wrapper](https://github.com/pvorb/node-git-wrapper) — A wrapper around the git executable.
 * [java](https://github.com/nearinfinity/node-java) — Bridge API to connect with existing Java APIs
-* [jmx](https://github.com/onddo/node-jmx) — Bridge library to communicate with java applications through JMX 
+* [jmx](https://github.com/onddo/node-jmx) — Bridge library to communicate with java applications through JMX
+* [msfnode](https://github.com/eviltik/msfnode) — Metasploit client, using http rpc calls throught webservices offered by msfrpcd
 * [node-tidy](https://github.com/leondealmeida/node-tidy) — a simple wrapper for tidy
 * [ping-wrapper2](https://github.com/sebmck/ping-wrapper) — native unix wrapper for ping
 * [sm.js](https://github.com/dherman/sm.js) — run a SpiderMonkey shell as a node child process
