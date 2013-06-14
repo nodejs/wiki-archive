@@ -1608,6 +1608,7 @@ rendering process.
 * [node-snappy](https://github.com/kesla/node-snappy) — compression using Google's snappy library.
 * [minify](https://github.com/coderaiser/minify) - minify of js, css, html and img files.
 * [html-minifier](https://github.com/kangax/html-minifier) - html minifier
+* [rarfile](https://github.com/sandy98/node-rarfile) - utility for decompressing .rar files
 
 <a name="wiki-sound"></a>
 ## [Sound](#sound)
