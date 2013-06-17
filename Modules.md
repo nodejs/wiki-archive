@@ -1656,7 +1656,7 @@ rendering process.
 * [node-webgl](https://github.com/pufuwozu/node-webgl) — WebGL emulation
 * [node-wkhtml](https://github.com/mhemesath/node-wkhtml) — Convert HTML to PDF or PNG using the Webkit Rendering Engine.
 * [pdfkit](https://github.com/devongovett/pdfkit) — A powerful PDF generation library for Node
-* [squeeze](https://github.com/nikhilm/squeeze) — Mince and convert images on the cloud using [UploadJuicer](http://www.uploadjuicer.com).
+* [squeeze](https://github.com/nikhilm/squeeze) — Mince and convert images on the cloud using [UploadJuicer](http://www.uploadjuicer.com) _discontinued_.
 
 <a name="wiki-canvas"></a>
 ### [Canvas](#canvas)
