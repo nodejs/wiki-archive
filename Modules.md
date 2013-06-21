@@ -1864,6 +1864,7 @@ rendering process.
 * [deferred](https://github.com/medikoo/deferred) — Asynchronous control-flow with deferred and promises
 * [each](https://github.com/wdavidw/node-each) — Chained and parallel async iterator in one elegant function
 * [eventproxy](https://github.com/JacksonTian/eventproxy) — An implementation of task/event based asynchronous pattern. Use events to avoid dirty callbacks.
+* [finish](https://github.com/chaoran/node-finish) - A nodejs utility that provides a single callback for multiple asynchronous calls.
 * [first](https://github.com/DanielBaulig/first) — A tiny control-flow library.
 * [flow-js](https://github.com/willconant/flow-js) — Continuation-esque contruct for expressing multi-step asynchronous logic
 * [flowless](https://github.com/koichik/node-flowless) — Less but better control-flow library.
