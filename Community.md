@@ -34,6 +34,7 @@ For real-time discussion, check irc.freenode.net #node.js or Stack Overflow [cha
 * [HKNoJ](http://nodejs.hk) | Hong Kong nodejs community
 * [nodejs.tw](http://nodejs.tw) | Taiwan nodejs community
 * [NodeHispano](http://nodehispano.com) | Comunidad de nodejs en español
+* [NodeBR.com](http://nodebr.com) | Brazilian community of Node.js
 
 # Books about Node
 
