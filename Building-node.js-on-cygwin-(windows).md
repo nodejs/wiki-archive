@@ -10,3 +10,5 @@ make install
 ```
 
 Source: http://stackoverflow.com/a/10114528/148844
+
+Update: some people have had success building Node.js 0.10 on MinGW+MSYS. Source: http://opensourcepack.blogspot.co.uk/2013/06/nodejs-with-posix-path-support.html
