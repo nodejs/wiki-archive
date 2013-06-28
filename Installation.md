@@ -48,7 +48,6 @@ If you are compiling on a NFS mount and get errors at the linker stage, try this
 make LINK=g++
 ```
 
-Edit: A simpler fix is to change the first line/shebang of ./configure to run 'python2'
 
 ## Building on GNU/Linux and other UNIX
 There's a number of ways to install Node.js on Linux, instructions for installing Node.js on specific Linux distributions using a package manager can be found at: [Installing Node.js via package manager](https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager).
