@@ -1,3 +1,5 @@
+**NOTE:** Out of date.
+
 If you encounter the following error on linux:
 
     error: could not configure a cxx compiler!
