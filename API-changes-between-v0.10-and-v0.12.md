@@ -18,3 +18,7 @@ When editing this page please be as detailed as possible. Examples are encourage
 * `buffer.offset` is now a read-only prototype property equal to zero since no instance methods require working on the parent backing.
 * API additions `Buffer.alloc()` and `Buffer.dipose()` have been added.
 * `Buffer#fill()`  has been extended to fill with the entire passed value.
+
+## Process
+
+* `process.maxTickDepth` has been removed, allowing `process.nextTick` to starve I/O indefinitely.
