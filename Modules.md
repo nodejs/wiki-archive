@@ -1763,6 +1763,7 @@ rendering process.
 * [gumroad](https://github.com/vdemedes/node-gumroad) — API client for Gumroad. 100% coverage of available methods.
 * [hipchat-js](https://github.com/smurthas/hipchat-js) — Simple HipChat API wrapper
 * [hoover](https://github.com/hakanensari/hoover) — An Amazon Product Advertising API wrapper
+* [iframely](https://github.com/itteco/iframely) — Get embed data for any URL. Handles oEmbed, Open Graph, Twitter Cards and 100 domain plugins
 * [instagram-node-lib](https://github.com/mckelvey/instagram-node-lib) — Library for easy interaction with the Instagram API
 * [janrain-api](https://github.com/demetriusj/janrain) — Module for interfacing with Janrain Engage API
 * [klout-js](https://github.com/smurthas/klout-js) — Simple Klout API wrapper
