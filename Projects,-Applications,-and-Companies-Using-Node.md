@@ -2,7 +2,7 @@
 
 Company|Link|Notes
 -------|----|-----
-dsg.nr ('designer')|<a href="http://beta.dsg.nr" target="_blank"><img src='http://dsg.nr/images/dsgnr.svg'/>beta.dsg.nr</a>|A new way to visualize your home decor projects. (coming soon)
+dsg.nr ('designer')|<a href="http://beta.dsg.nr" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;beta.dsg.nr</a>|A new way to visualize your home decor projects. (coming soon)
 &yet (andyet)|<a href="http://andyet.net" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;andyet.net</a>|We make web software for human people.
 13 pass|<a href="http://www.13pass.com/" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;www.13pass.com</a>|Uses node.js and mongoDb to deals with API or realtime websocket programming.
 37Signals|<a href="http://www.37signals.com/" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;www.37signals.com</a>|Used node.js to write
@@ -241,7 +241,7 @@ YellowHammer Media Group|<a href="http://www.yhmg.com" target="_blank"><img src=
 YinzCam Inc.|<a href="http://yinzcam.com" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;yinzcam.com</a>|
 Ylastic|<a href="http://ylastic.com/" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;ylastic.com</a>| uses node for report processing and admin app
 Yupana|<a href="http://yupana.com/" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;yupana.com</a>| node.js is the basis of our framework (collaborative accounting apps)
-
+Zumba Fitness|<a href="http://www.zumba.com" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;www.zumba.com</a>|Uses gruntjs to run several pre-commit tasks, and frisbyjs for testing their APIs
 
 ## Projects on GitHub
 
