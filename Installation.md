@@ -160,7 +160,7 @@ Manual installation steps:
 
 3. Download the latest npm's `.zip` file and unpack its contents to the same directory.
 
-Then, with the help of `PATH`, you'll be able to run scripts (`node scriptname.js`) and install modules (`npm install modulename`) in any directory.
+Then, with the usual help of `PATH`, you'll be able to run scripts (`node scriptname.js`) and install modules (`npm install modulename`) in any directory.
 
 ##### Manual update
 
