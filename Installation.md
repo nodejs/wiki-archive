@@ -163,7 +163,6 @@ To update Node, download the latest [http://nodejs.org/dist/latest/node.exe](ht
 To update npm, run the `npm update npm -g` command.
 
 #### Automatic install (with Microsoft Installer)
-Probably asks for cygwin packages, if not installed.
 
 The [http://nodejs.org/dist/latest/](http://nodejs.org/dist/latest/) directory contains the latest `.msi` package (such as `node-v0.6.15.msi` when Node v0.6.15 was the latest) that you may use to install both Node.js engine and npm.
 
