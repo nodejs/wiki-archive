@@ -142,7 +142,7 @@ The [http://nodejs.org/dist/latest/node.exe](http://nodejs.org/dist/latest/node.
 
 The [http://nodejs.org/dist/npm/](http://nodejs.org/dist/npm/) directory contains the latest `.zip` archive of npm (such as `npm-1.1.16.zip` when npm v1.1.16 was the latest).
 
-Put `node.exe` to a clean directory, add that directory to your `PATH` variable, unpack npm to the same directory, and then you'll be able to run scripts (`node scriptname.js`) and install modules (`npm install modulename`) anywhere you want.
+Put `node.exe` to a clean directory, add that directory to your `PATH` variable, unpack npm to the same directory. With the help of `PATH` you'll be able to run scripts (`node scriptname.js`) and install modules (`npm install modulename`) in any directory.
 
 ##### Manual update
 
