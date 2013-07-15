@@ -135,9 +135,10 @@ You may obtain pre-compiled Node.js binaries for several platforms from [http://
 ### Installing on Windows
 
 #### Manual install
-#### Recommended ( Manual Install is cleaner than Automatic Install )
 
-The [http://nodejs.org/dist/latest/node.exe](http://nodejs.org/dist/latest/node.exe) file is a standalone Windows executable that contains only the last version of Node.js engine.
+**Installing Node manually is recommended as a workaround for any problems with automatic install. You also have much better understanding of the things that happen if you do those things yourself.**
+
+The [http://nodejs.org/dist/latest/node.exe](http://nodejs.org/dist/latest/node.exe) file is a standalone Windows executable that contains only the last version of Node.js engine. (You may use [http://nodejs.org/dist/latest/x64/node.exe](http://nodejs.org/dist/latest/x64/node.exe) to get 64bit version of Node if you have 64bit Windows.)
 
 The [http://nodejs.org/dist/npm/](http://nodejs.org/dist/npm/) directory contains the latest `.zip` archive of npm (such as `npm-1.1.16.zip` when npm v1.1.16 was the latest).
 
