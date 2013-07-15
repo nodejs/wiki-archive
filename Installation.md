@@ -2,7 +2,7 @@
 
 You may build the Node.js engine for any of the supported platforms.
 
-For Windows and Mac some pre-built binaries are available; you may [install them](#installing-without-building) without building Node for yourself.
+For Windows and Mac some pre-built binaries are available; you may [install them](https://github.com/joyent/node/wiki/Installation#installing-without-building) without building Node for yourself.
 
 ## Prerequisites and known issues of building
 
