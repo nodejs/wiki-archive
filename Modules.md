@@ -1220,7 +1220,7 @@ rendering process.
 * [supertest](https://github.com/visionmedia/supertest) — HTTP test utility built on top of superagent, works with any test framework
 * [Syringe](https://github.com/easternbloc/Syringe) — Dependency mocking for node modules
 * [tbd](https://github.com/aaronpowell/tbd) — A data generator for tests & UI stubbing
-* [testing](https://github.com/alexfernandez/testing) — Very simple (~200 lines of code) asynchronous testing library, ideal for starting projects and easy to retrofit into existing code.
+* [testing](https://github.com/alexfernandez/testing) — Very simple (~80 lines of code) asynchronous testing library, ideal for starting projects and easy to retrofit into existing code.
 * [TestIt](http://github.com/DouglasMeyer/test_it) — Light-weight yet complete, shoulda style testing framework for in-browser and node.js tests.
 * [TestNode](http://github.com/testnode/testnode) — Unobtrusive BDD-style testing framework
 * [testosterone](https://github.com/masylum/testosterone) — Virile testing for http servers or any nodejs application.
