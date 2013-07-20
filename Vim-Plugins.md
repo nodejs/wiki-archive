@@ -39,6 +39,7 @@ Of course, if you don't use [Pathogen](http://www.vim.org/scripts/script.php?scr
 
 * [vim-node](https://github.com/guileen/vim-node) A dictionary for node
 * [vim-nodejs-complete](https://github.com/myhere/vim-nodejs-complete) nodejs's `omnifunc` function, `ctrl-x_ctrl-o` to complete
+* [vim-nodejs-complete (local completion)](https://github.com/ahayman/vim-nodejs-complete) This is a fork of 'vim-nodejs-complete' that adds local module completion by searching through the 'node_modules' directory/subdirectories and processing the .js and package.json files.
 
 ## Browsing
 
