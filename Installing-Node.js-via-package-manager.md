@@ -1,11 +1,9 @@
 The packages on this page are maintained and supported by their respective packagers, **not** the node.js core team.  Please report any issues you encounter to the package maintainer.  If it turns out your issue is a bug in node.js itself, the maintainer will report the issue upstream.
 
 ## Gentoo
-Node.js is available in official gentoo portage tree. You have to unmask it.
+Node.js is available in the portage tree.
 
-    # emerge -aqv --autounmask-write nodejs
-    # etc-update
-    # emerge -aqv nodejs
+    # emerge nodejs
 
 ## Debian, LMDE
 [Node.js is available in official repo for Debian Sid(unstable)](http://packages.debian.org/search?searchon=names&keywords=nodejs).
