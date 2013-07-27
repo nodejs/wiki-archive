@@ -12,7 +12,6 @@ Name | Node Version | Web Sockets | IP/Hostname | IRC | Repository | Free Plan |
 [DotCloud](http://www.dotcloud.com) | 0.4.10 | Yes | Paid plan | #dotcloud | [dotcloud](https://github.com/dotcloud) |  | Pro - $99/month, 4 services. Enterprise - Unlimited services. | 
 [Heroku](http://heroku.com) | [0.4.x, 0.6.x, 0.8.x, 0.10.x](http://heroku-buildpack-nodejs.s3.amazonaws.com/manifest.nodejs) | No | Yes | #heroku | [heroku](http://github.com/heroku) | Yes - 1 Dyno (512 MB Ram) | $0.05/hour/dyno  | 
 [Modulus](http://modulus.io) | 0.2.x - 0.11.x | Yes | Yes | #modulus | [OnModulus](https://github.com/onmodulus) | $15 free credits | $0.02/hour per instance | Live on AWS
-[MangoRaft](http://mangoraft-main.aws.af.cm/) | 0.4.x, 0.6.x, 0.8.x | Yes | Yes | | [MangoRaft](https://github.com/MangoRaft) | Yes | No | Still under development. Looking for testers.
 [no.de](http://no.de) | 0.4.11 | Paid plan | Paid plan | #joyent | [joyent](http://github.com/joyent) | Yes - 128 MB Ram (no longer available) | | 
 [Nodejitsu](http://nodejitsu.com) | 0.4.12, 0.6.x, 0.8.x | Yes | Yes | #nodejitsu | [nodejitsu](http://github.com/nodejitsu) | 30 days sandbox | Yes | now with Joyent
 [Nodester](http://nodester.com) | 0.6.12, 0.6.17, 0.8.1 | Yes | Yes | #nodester |[nodester](https://github.com/nodester) | Yes - Unlimited | No | No longer accepting signups
@@ -69,7 +68,7 @@ Node.JS hosting platforms that allow you to host Node.JS apps on your own server
 * [Nodester](http://nodester.com/) - Open source Node.JS hosting platform and services
 * [CloudFoundry](https://github.com/cloudfoundry) - Open source PaaS with support for NodeJS
 * [OpenShift](https://openshift.redhat.com/community/open-source) - Open source polyglot PaaS with native support for Node.js
-* [MangoRaft](http://mangoraft-main.aws.af.cm/) - Open source PaaS built on Node.js
+* [Raft](https://github.com/MangoRaft/Raft) - Open source PaaS built on Node.js Looing for please to help out with the project.
 * [Nodejitsu](http://github.com/nodejitsu)
   * [haibu](http://github.com/nodejitsu/haibu) - Open-source Node.js Application Server
   * [node-http-proxy](http://github.com/nodejitsu/node-http-proxy) - Proxy / Load Balancing
