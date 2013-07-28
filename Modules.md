@@ -801,6 +801,7 @@ rendering process.
 * [always](https://github.com/edwardhotchkiss/always) — A CLI & Daemon tool to run a NodeJS process forever, restarting on file changes & crashes with piping to stdout or log files.
 * [autorestart](https://github.com/shimondoodkin/nodejs-autorestart) — It is a way to watch all .js files if they have been changed and to restart nodejs. It allows easy development and stable production.
 * [dev](https://github.com/iliakan/node-dev) — Automatically restarts the app when a source-file is modified. Autohooks on new files, so it doesn't need manual restart at all.
+* [supervizer](https://github.com/oOthkOo/supervizer) — A CLI & Daemon server to manage NodeJS process. 
 * [forever](http://github.com/nodejitsu/forever) — A simple CLI tool for ensuring that a given script runs continuously (i.e. forever)
   * [forever-webui](https://github.com/FGRibreau/forever-webui) — A simple web UI for efficient nodejs administration
 * [naught](https://github.com/indabamusic/naught) — zero downtime deployment using native cluster API. Created as an alternative to forever.
