@@ -6,6 +6,10 @@ After [this thread](http://groups.google.com/group/nodejs/browse_thread/thread/c
 
 Of course, if you don't use [Pathogen](http://www.vim.org/scripts/script.php?script_id=2332) (or [Vundle](http://github.com/gmarik/vundle)), you're not _really_ a vim user.
 
+## General
+
+* [Node.vim](https://github.com/moll/vim-node) Tools and utilities to make Vim superb for developing with Node.js. Like [Rails.vim](https://github.com/tpope/vim-rails) for Node.
+
 ## Linter
 
 * [Tabular](http://vimcasts.org/episodes/aligning-text-with-tabular-vim/) Align declarations, equals signs, etc.
@@ -46,7 +50,7 @@ Of course, if you don't use [Pathogen](http://www.vim.org/scripts/script.php?scr
 * [Command-T](http://www.vim.org/scripts/script.php?script_id=3025) TextMate-like Command-T explorer. Find files by pattern
 * [NERD_Tree](http://www.vim.org/scripts/script.php?script_id=1658) Tree filesystem browser
 * [Ack](https://github.com/mileszs/ack.vim) better than grep
-* [Fuzzyfinder] (http://www.vim.org/scripts/script.php?script_id=1984) find files by pattern
+* [Fuzzyfinder](http://www.vim.org/scripts/script.php?script_id=1984) find files by pattern
 
 ## Colorschemes
 
