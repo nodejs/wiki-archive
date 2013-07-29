@@ -22,6 +22,15 @@ Uninstall:
 
     sudo dpkg -r node
 
+In case you get a permission denied on the `node` executable, an alternative path might be:
+
+    umask 0022
+    ./configure
+    make
+    checkinstall -D --umask 0022 --reset-uids --install=no
+    dpkg -i node_*.deb
+
+
 ## Ubuntu, Mint
 
 Example install:
