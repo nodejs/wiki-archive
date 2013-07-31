@@ -1079,6 +1079,7 @@ rendering process.
 * [easywebsocket](https://github.com/jeromeetienne/EasyWebsocket) — WebSocket to broadcast messages to webpages
 * [Faye](https://github.com/faye/faye) — Bayeux protocol Comet client and server for Node.js and Rack
 * [grappler](https://github.com/mscdex/grappler) — A minimalistic server for handling "comet" connections that supports a variety of connection methods.
+* [Lightstreamer](https://github.com/Weswit/Lightstreamer-lib-node-adapter) — Node.js adapter for Lightstreamer real-time messaging server (WebSockets, fallback, pub/sub, massive fan out).
 * [Minotaur](https://github.com/yojimbo87/minotaur) — Long poll server using JSONP communication with clients
 * [node-bus](https://github.com/node-bus/node-bus) — A distributed pubsub engine for JSON-based events
 * [node-eventstream](https://github.com/kbjr/node-eventstream) — A server-side companion to EventSource.
