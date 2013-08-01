@@ -164,7 +164,7 @@ Then, with the usual help of `PATH`, you'll be able to run scripts (`node scr
 
 ##### Manual update
 
-To update Node, download the latest [http://nodejs.org/dist/latest/node.exe](http://nodejs.org/dist/latest/node.exe) file and replace your old `node.exe` with it.
+To update Node, download the latest [http://nodejs.org/dist/latest/node.exe](http://nodejs.org/dist/latest/node.exe) (or [http://nodejs.org/dist/latest/x64/node.exe](http://nodejs.org/dist/latest/x64/node.exe) for 64bit systems) and replace your old `node.exe` with it.
 
 To update npm, run the `npm update npm -g` command.
 
