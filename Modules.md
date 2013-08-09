@@ -1894,7 +1894,7 @@ rendering process.
 * [futures](https://github.com/coolaj86/futures) - Asynchronous Method Queueing, Futures, Promises, Subscriptions, and other async goodies
 * [galaxy](https://github.com/bjouhier/galaxy) — async/await in JavaScript thanks to harmony generators.
 * [gate](https://github.com/nakamura-to/gate) — An utility to await multiple asynchronous calls
-* [node-block](https://github.com/tasogarepg/gene) — A generator-based control-flow library. Easily parallel execution and error handling.
+* [gene](https://github.com/tasogarepg/gene) — A generator-based control-flow library. Easily parallel execution and error handling.
 * [groupie](https://github.com/alexkwolfe/groupie) — A simple control flow library for executing multiple functions as a group or in a chain, calling back when complete.
 * [ice-stream](https://github.com/rossj/ice-stream) — An expressive, chainable utility to allow for complex processing of streaming data.
 * [Ignite](http://www.ignitejs.com/) — An easy-to-use async programming framework inspired by UML2 state machines.
