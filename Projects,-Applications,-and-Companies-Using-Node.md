@@ -1,5 +1,7 @@
 ## Companies
 
+If you're considering adding your company to this list, you should also submit a logo and quote for the http://nodejs.org/industry/ page.  See https://github.com/joyent/node-in-the-industry.  Thanks.
+
 Company|Link|Notes
 -------|----|-----
 dsg.nr ('designer')|<a href="http://beta.dsg.nr" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;beta.dsg.nr</a>|A new way to visualize your home decor projects. (coming soon)
