@@ -1433,7 +1433,6 @@ rendering process.
 * [argtypes](https://github.com/cwolves/argtypes) — Function arguments type parser (Allows typed & optional arguments)
 * [JsCron](https://github.com/romansky/JsCron) — Javascript cron parser, schedule date generator
 * [carrier](https://github.com/pgte/carrier) — Evented stream line reader for node.js
-* [enhanced-properties](https://github.com/Gagle/Node-EnhancedProperties) — A key-value parser based on Properties with enhanced features.
 * [fastcgi-parser](https://github.com/billywhizz/node-fastcgi-parser) — FastCGI protocol parser and Writer
 * [glossy](https://github.com/squeeks/glossy) — Syslog message parser and producer
 * [groan](https://github.com/mscdex/groan) — A PHP session file parser
