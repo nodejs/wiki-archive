@@ -1318,8 +1318,9 @@ rendering process.
 ### [HTML](#parsers-html)
 
 * [apricot](https://github.com/silentrob/Apricot) — Hpricot inspired clone, JSDom with Sizzle Selector engine and XUI for HTML augmentation
-* [node-htmlparser](https://github.com/tautologistics/node-htmlparser) — Forgiving HTML Parser in JS for both Node and Browsers
-* [picksy](https://github.com/skid/picksy) — Extracts the relevant text from a html article page
+* [cheerio](https://github.com/MatthewMueller/cheerio) — jQuery-alike interface for server-side HTML parsing and processing.
+* [node-htmlparser](https://github.com/tautologistics/node-htmlparser) — Forgiving HTML Parser in JS for both Node and browsers.
+* [picksy](https://github.com/skid/picksy) — Extracts the relevant text from a HTML article page.
 
 <a name="wiki-parsers-csv"></a>
 ### [CSV](#parsers-csv)
