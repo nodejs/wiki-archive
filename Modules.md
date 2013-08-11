@@ -1469,7 +1469,8 @@ rendering process.
 * [querystring.node.js](https://github.com/jazzychad/querystring.node.js) — Robust query string parsing for node.
 * [ret.js](https://github.com/fent/ret.js) — A regexp tokenizer.
 * [semver](https://github.com/isaacs/node-semver) — Parser used by npm for version numbers.
-* [service-parser](https://github.com/sebmck/service-parser) — /etc/services file parser
+* [service-parser](https://github.com/sebmck/service-parser) — /etc/services file parser.
+* [simteconf](https://github.com/Mithgol/simteconf) — a synchronous reader of simple text configuration files.
 * [space](https://github.com/nudgepad/space) — Parser for Space, a whitespace encoding for associative arrays.
 * [strscan](https://github.com/sstephenson/strscan-js) — Simple string tokenizer for lexical scanning operations
 * [tap](https://github.com/isaacs/node-tap) — Tools for the [Test Anything Protocol](http://testanything.org/)
