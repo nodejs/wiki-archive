@@ -1726,6 +1726,7 @@ rendering process.
 * [ffmpeg2theora](https://github.com/FLYBYME/node-ffmpeg2theora) — Batch encoding with ffmpeg2theora
 * [navcodec](https://github.com/OptimalBits/navcodec) — Node bindings for libavcodec (ffmpeg).
 * [node-fluent-ffmpeg](https://github.com/schaermu/node-fluent-ffmpeg) — Fluent API for ffmpeg (including streaming, thumbnail-generation and custom presets)
+* [node-flvmeta](https://github.com/patriksimek/node-flvmeta) — FLVmeta wrapper to Adobe FLV manipulation
 * [node-handbrake](https://github.com/cwolves/node-handebrake) — HandBrakeCLI wrapper to encode an entire folder of videos
 * [node-video](https://github.com/pkrumins/node-video) — Create Theora/OGG videos from RGB(A) buffers (and stream them via <video> tag)
 * [nodeminderjs](https://github.com/nodeminderjs/NodeMinder.js) — Linux video camera security and surveillance solution based on ZoneMinder and developed on top of a node.js stack.
