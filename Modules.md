@@ -2094,14 +2094,15 @@ realtime balancing for live objects
 <a name="wiki-other"></a>
 ## [Other](#other)
 
-* [chardet](https://github.com/runk/node-chardet) - Character/encoding detection module 
-* [bigdecimal](https://github.com/iriscouch/bigdecimal.js) — Helps circumventing the problem of "0.1 + 0.2 = 0.30000000000000004".
-* [BinaryJS](https://github.com/binaryjs/binaryjs) — Node binary websocket streaming made easy 
 * [append](https://github.com/pvorb/node-append) — Append properties from one object to another.
 * [attache.js](https://github.com/rodzyn/attache.js) — Very basic AOP implementation
 * [audience-meter](https://github.com/rs/audience-meter) — A simple audience meter based on Socket.IO, perfect for live events tracking
+* [bayesian-bandit](https://github.com/omphalos/bayesian-bandit.js) — Bayesian bandit implementation for Node and the browser.
 * [behaviors](https://github.com/caolan/behaviors) — A simple way to check a module's exports, useful for 3rd party plugins and extensions
+* [bigdecimal](https://github.com/iriscouch/bigdecimal.js) — Helps circumventing the problem of "0.1 + 0.2 = 0.30000000000000004".
+* [BinaryJS](https://github.com/binaryjs/binaryjs) — Node binary websocket streaming made easy 
 * [browserify](https://github.com/substack/node-browserify) — Browser-side require() for your node modules and npm packages
+* [chardet](https://github.com/runk/node-chardet) - Character/encoding detection module 
 * [cjs2web](https://github.com/alexlawrence/cjs2web) — Transform CommonJS modules to a web browser suitable format with minimal code overhead.
 * [comparejs](https://github.com/goloroden/comparejs) — Reliable comparison operators for Node.js the way you would expect them to be.
 * [crud-bones](http://words.alexeypro.com/crud-bones/) — CRUD boilerplate/template for Node.JS/Mongo/MySQL/Redis/Express/EJS/Cluster/etc.
