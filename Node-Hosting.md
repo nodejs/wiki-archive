@@ -38,6 +38,7 @@ VPS providers, which often require you to set everything up yourself, including 
 * [A2 Hosting](http://www.a2hosting.com/web-development/nodejs-hosting)
 * [Amazon EC2](http://aws.amazon.com/ec2)
 * [BuyVM](http://www.buyvm.net)
+* [Digital Ocean](https://www.digitalocean.com/) - $5/mo. SSD VPS, New York and Amsterdam
 * [DreamHostPS](http://www.dreamhost.com/hosting-vps.html) - Need a total reconfiguration of virtual machines
 * [Gandi](http://en.gandi.net/hosting)
 * [GleSYS](http://glesys.com/vps.php)
