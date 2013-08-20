@@ -4,7 +4,7 @@
 ### What is the "official" spelling/capitalization/pronunciation?
 
 - When referring to the software or the project in general, it's Node.js or simply Node.  It is a proper noun, so capitalize it.  The `.js` appears with the first use, to disambiguate from other things called "Node", and `Node` (without the .js) afterwards.  One way to think of this is that `Node.js` is the full name, and `Node` is the more familiar first name.
-- When referring specifically to the binary executable, it's always `node`, capitalized like a normal noun.
+- When referring specifically to the binary executable, it's always `node`, lower-case to match the binary's name itself.
 - When referring to the libs that are included with the binary, as opposed to the libs published by Node users in The npm Registry, it's `node-core`.  (See [[node core vs userland]].)
 - "npm" is always lowercase, even when it appears at the start of a sentence, unless used in a context where all-caps are used (such as the title of a man page.)
 - "Node.js" is pronounced either "node dot jay ess", or "node jay ess", or "node point javascript".
