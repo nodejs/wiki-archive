@@ -27,7 +27,3 @@ Odd versions are unstable, even versions are stable. v0.2 and v0.4 are even/stab
 ### What is the memory limit on a node process?
 
 Currently, by default v8 has a memory limit of 512mb on 32-bit systems, and 1gb on 64-bit systems.  The limit can be raised by setting --max-old-space-size to a maximum of ~1gb (32-bit) and ~1.7gb (64-bit), but it is recommended that you split your single process into several workers if you are hitting memory limits.
-
-### Crashes on 32-bit FreeBSD systems
-
-Known issue: https://github.com/joyent/node/issues/4412
