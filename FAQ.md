@@ -31,6 +31,3 @@ Currently, by default v8 has a memory limit of 512mb on 32-bit systems, and 1gb 
 ### Crashes on 32-bit FreeBSD systems
 
 Known issue: https://github.com/joyent/node/issues/4412
-
-### [Meta] How have release sizes changed over time?
-![Graph of size in MB vs node release, by dtrejo.com](http://c0848462.cdn.cloudfiles.rackspacecloud.com/c97716dd8e4f943501bfcaadcecfdd75d06407afde.jpg &quot;Graph of size in MB vs node release, by dtrejo.com&quot;)
