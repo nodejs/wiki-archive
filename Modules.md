@@ -1288,6 +1288,7 @@ rendering process.
 * [yajl-js](http://bitbucket.org/nikhilm/yajl-js) — SAX-like evented JSON parsing using [yajl](http://lloyd.github.com/yajl)
 * [jsvutil](https://github.com/fhellwig/jsvutil) - A Node.js utility wrapper for the JSON Schema Validator (JSV).
 * [js-schema](https://github.com/molnarg/js-schema/) - Simple and intuitive schema validator
+* [typing-js](https://github.com/weidagang/typing-js) - Expressive type checker and JSON schema validator
 
 <a name="wiki-parsers-xml"></a>
 ### [XML](#parsers-xml)
