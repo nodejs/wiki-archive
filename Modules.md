@@ -1438,6 +1438,7 @@ rendering process.
 * [PEG.js](http://pegjs.majda.cz/) — Parser Generator for JavaScript.
 * [ReParse](https://github.com/weaver/ReParse) — A parser combinator library for JavaScript like Haskell's Parsec.
 * [tokenizer](http://github.com/floby/node-tokenizer) — A regex-based and streamed tokenizer.
+* [Peasy](http://github.com/chaosim/peasy) — An easy but powerful parser, a new method to write parser.
 
 <a name="wiki-parsers-other"></a>
 ### [Other parsers](#parsers-other)
