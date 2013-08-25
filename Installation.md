@@ -115,14 +115,57 @@ export CXX=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xc
 
 ## Building on Windows
 
-You need python and Microsoft Visual Studio but not OpenSSL. In `cmd.exe` do the following
+vcbuild.bat release x64 : Build in release mode in 64-bits
+vcbuild.bat debug x64   : Build in debug mode for 64-bits
+vcbuild.bat release     : Build in release mode in 32-bits
 
+You need python and Microsoft Visual Studio but not OpenSSL. In `cmd.exe` do the following
+The easiest way, is to add the python binary path to your global Windows path.
+
+The underneath example, build node in debug mode 64-bits
 ```
-C:\Users\ryan>tar -zxf node-v0.6.5.tar.gz
-C:\Users\ryan>cd node-v0.6.5
-C:\Users\ryan\node-v0.6.5>vcbuild.bat release
-[Wait 20 minutes]
-C:\Users\ryan\node-v0.6.5>Release\node.exe
+c:\_GIT\node>.\vcbuild.bat debug x64
+ctrpp not found in WinSDK path--using pre-gen files from tools/msvs/genfiles.
+{ 'target_defaults': { 'cflags': [],
+                       'default_configuration': 'Debug',
+                       'defines': ['OPENSSL_NO_SSL2=1'],
+                       'include_dirs': [],
+                       'libraries': []},
+  'variables': { 'clang': 0,
+                 'host_arch': 'x64',
+                 'node_install_npm': 'true',
+                 'node_prefix': '',
+                 'node_shared_cares': 'false',
+                 'node_shared_http_parser': 'false',
+                 'node_shared_libuv': 'false',
+                 'node_shared_openssl': 'false',
+                 'node_shared_v8': 'false',
+                 'node_shared_zlib': 'false',
+                 'node_tag': '',
+                 'node_use_dtrace': 'false',
+                 'node_use_etw': 'true',
+                 'node_use_mdb': 'false',
+                 'node_use_openssl': 'true',
+                 'node_use_perfctr': 'true',
+                 'node_use_systemtap': 'false',
+                 'python': '**c:\\Python27\\python.exe**',
+                 'target_arch': 'x64',
+                 'v8_enable_gdbjit': 0,
+                 'v8_no_strict_aliasing': 1,
+                 'v8_use_snapshot': 'true',
+                 'visibility': ''}}
+creating  config.gypi
+creating  config.mk
+Project files generated.
+  ares_platform.c
+  inet.c
+  js2c, and also js2c_experimental
+  Assembling c:\_GIT\node\deps\openssl\openssl\crypto\bn\asm\x86_64-win32-masm.asm to Debug\obj\openssl\x86_64-win32-masm.obj.
+  http_parser.c
+  node_js2c
+  ...
+[Wait a few minutes]
+C:\_GIT\node\Build\Debug\node.exe
 > process.versions
 { node: '0.6.5',
   v8: '3.6.6.11',
@@ -132,7 +175,13 @@ C:\Users\ryan\node-v0.6.5>Release\node.exe
 >
 ```
 
-The executable will be in `Release\node.exe`.
+The executable will be in `Build\Debug\node.exe`.
+
+## Managing multiple version of Visual Studio
+Assume that you have two versions of Visual Studio 2012 and 2010, in this case depending of the search you may build against Visual Studio 2010 engine. If you want to force a specific version of Visual Studio you may use the variable GYP_MSVS_VERSION.
+
+Example : Force Visual Studio 2012
+set GYP_MSVS_VERSION=2012
 
 ## Installing without building
 
