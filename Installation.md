@@ -167,11 +167,13 @@ Project files generated.
 [Wait a few minutes]
 C:\_GIT\node\Build\Debug\node.exe
 > process.versions
-{ node: '0.6.5',
-  v8: '3.6.6.11',
-  ares: '1.7.5-DEV',
-  uv: '0.6',
-  openssl: '0.9.8r' }
+{ http_parser: '1.0',
+  node: '0.11.7-pre',
+  v8: '3.20.14.1',
+  uv: '0.11.9',
+  zlib: '1.2.3',
+  modules: '0x000C',
+  openssl: '1.0.1e' }
 >
 ```
 
