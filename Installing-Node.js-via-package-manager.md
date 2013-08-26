@@ -31,7 +31,7 @@ In case you get a permission denied on the `node` executable, an alternative pat
     dpkg -i node_*.deb
 
 
-## Ubuntu, Mint
+## Ubuntu, Mint, Elementary OS
 
 Example install:
 
