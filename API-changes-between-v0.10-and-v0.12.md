@@ -9,6 +9,9 @@ When editing this page please be as detailed as possible. Examples are encourage
 * The return value for `node::Buffer::New()` is an instantiated JS `Buffer` object.
 * `node::Buffer::New(Handle<String>)` now accepts an optional second argument of `enum encoding`.
 * API addition of `node::Buffer::Use()` which will use the passed `char*` instead of making a copy.
+* `(new Buffer('text\0!', 'ascii')).toString()` outputs `'text !' in 0.10 and `'text\u0000!'` in 0.12.
+* Writable stream `_write()` gets called with 'buffer' encoding when chuck is a Buffer (#6119).
+* Writable stream emits 'finish' on next tick if there was a `write()` (#6118).
 
 ### JS API Changes
 
