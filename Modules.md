@@ -1965,6 +1965,7 @@ rendering process.
 * [TwoStep](https://github.com/xavi-/two-step) — An async control-flow library that makes stepping through logic easy.  The spiritual successor of [Step](https://github.com/creationix/step) with better error handling and finer flow control.
 * [when](https://github.com/cujojs/when) — A lightweight CommonJS Promises/A and when() implementation. It also provides several other useful Promise-related concepts, such as joining and chaining, and has a robust unit test suite.
 * [zo.js](https://github.com/refractalize/zo) — Async-friendly versions of the usual list processing functions: `map`, `select`, `reduce` and friends.
+* [y-yield](https://github.com/staeke/yield) — Avoid callback soup and rely on exceptions with asynchronous programming using harmony generators.
 
 <a name="wiki-async-flow-fibers"></a>
 ### [Fibers](#async-flow-fibers)
