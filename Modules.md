@@ -1079,7 +1079,7 @@ rendering process.
 ## [Web Sockets & Ajax](#ws-ajax)
 
 * [Abstract HTTP Request](https://github.com/coolaj86/abstract-http-request) — An HTTP Client wrapper for the browser (XHR) and node.js (http module)
-* [Beseda](https://github.com/geometria-lab/Beseda) — Fast, well designed and featured Node.js Pub/Sub server. Beseda offers multiple platform API to develop realtime web applications.
+* [Beseda](https://github.com/GeometriaLab/Beseda) — Fast, well designed and featured Node.js Pub/Sub server. Beseda offers multiple platform API to develop realtime web applications.
 * [Comet LongPollingBuffer](https://github.com/robrighter/Long-Polling-Buffer) — A Library to simplify the server side of Comet AJAX long polling
 * [DataChannel.io](https://github.com/marcolanaro/DataChannel.IO) — WebRTC application framework for Node.JS, with Socket.io as signaling server.
 * [easywebsocket](https://github.com/jeromeetienne/EasyWebsocket) — WebSocket to broadcast messages to webpages
