@@ -1013,7 +1013,7 @@ rendering process.
 * [node-xmpp-joap](https://github.com/flosse/node-xmpp-joap) — Jabber Object Access Protocol (XEP-0075) library for node-xmpp
 * [node-xmpp-serviceadmin](https://github.com/flosse/node-xmpp-serviceadmin) — Service Administration (XEP-0133) library for node-xmpp
 * [node-xmpp](https://github.com/astro/node-xmpp) — Node XMPP library
-* [xmpp.js](http://xmppjs.prosody.im/) — Library for implementing XMPP server components with Node
+* [xmpp.js](https://github.com/mwild1/xmppjs) — Library for implementing XMPP server components with Node
 
 <a name="wiki-tcp-other"></a>
 ### [Other networking](#tcp-other)
