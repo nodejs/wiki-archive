@@ -1423,6 +1423,7 @@ rendering process.
 * [iniparser](https://github.com/shockie/node-iniparser) — a simple .ini parser
 * [inireader](https://github.com/Ajnasz/IniReader) — .ini file parser
 * [node-ini](https://github.com/PastorBones/node-ini) — A simple .ini config parser that supports sections, comments, arrays, and objects.
+* [node-browscap](https://github.com/dangrossman/node-browscap) — browscap.ini parser and port of PHP's get_browser function
 
 <a name="wiki-parser-generators"></a>
 ### [Parser generators](#parser-generators)
@@ -1455,7 +1456,6 @@ rendering process.
 * [mailparser](https://github.com/andris9/mailparser) — Parse mime encoded e-mails into structured objects
 * [memcache-parser](https://github.com/billywhizz/node-memcache-parser) — Memcached binary protocol parser
 * [node-brainfuck](https://github.com/masylum/node-brainfuck) — Brainfuck interpreter
-* [node-browscap](https://github.com/dangrossman/node-browscap) — browscap.ini parser and port of PHP's get_browser function
 * [node-formidable](https://github.com/felixge/node-formidable) — A node.js module for parsing form data, especially file uploads.
 * [node-msgpack](https://github.com/pgriess/node-msgpack) — Bindings for MessagePack, space-efficient object serialization library
 * [node-netstring](https://github.com/pgriess/node-netstring) — Read and write [netstrings](http://cr.yp.to/proto/netstrings.txt)
