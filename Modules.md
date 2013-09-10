@@ -1226,6 +1226,7 @@ rendering process.
 * [Soda](https://github.com/LearnBoost/soda) — Selenium Node.JS adapter
 * [spectacular](https://github.com/jcrosby/spectacular) — for testing
 * [speculum](https://github.com/edwardhotchkiss/speculum) — BDD Test Suite.
+* [speedy](https://github.com/gagle/node-speedy) — Tiny benchmark utility.
 * [Speks](https://github.com/ecavazos/speks) — A specification framework for your node-code
 * [stage](https://github.com/jfd/stage) — Distributed testing suite
 * [stest](https://github.com/siddMahen/stest) — A sane event driven async testing framework.
@@ -1323,7 +1324,7 @@ rendering process.
 ### [HTML](#parsers-html)
 
 * [apricot](https://github.com/silentrob/Apricot) — Hpricot inspired clone, JSDom with Sizzle Selector engine and XUI for HTML augmentation
-* [cheerio](https://github.com/MatthewMueller/cheerio) — jQuery-alike interface for server-side HTML parsing and processing.
+* [cheerio](https://github.com/MatthewMueller/cheerio) — jQuery-alike interface for server-side HTML parsing and processing.
 * [node-htmlparser](https://github.com/tautologistics/node-htmlparser) — Forgiving HTML Parser in JS for both Node and browsers.
 * [picksy](https://github.com/skid/picksy) — Extracts the relevant text from a HTML article page.
 
@@ -1486,8 +1487,7 @@ rendering process.
 <a name="wiki-filesys"></a>
 ## [File system](#filesys)
 
-* [buffered-reader](https://github.com/Gagle/Node-BufferedReader) — Fully configurable buffered reader.
-* [buffered-writer](https://github.com/Gagle/Node-BufferedWriter) — Fully configurable buffered writer.
+* [binary-reader](https://github.com/gagle/node-binary-reader) — Buffered binary reader with a fluent api.
 * [diskspace.js](https://github.com/keverw/diskspace.js) — A simple module to check disk space usages in bytes.
 * [mass_hfs](https://github.com/RubyLouvre/hfs) — height level file system, can simultaneously operate of the directories and files, multi-stage creating folders……
 * [file-utils](https://github.com/Gagle/Node-FileUtils) — File and directory utilities. Object representation of file and directory path names.
