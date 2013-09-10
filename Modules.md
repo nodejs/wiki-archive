@@ -1472,7 +1472,7 @@ rendering process.
 * [pcap-parser](https://github.com/nearinfinity/node-pcap-parser) — Packet capture (pcap) file parser written in pure javascript
 * [pdc](https://github.com/pvorb/node-pandoc) — A [pandoc](http://johnmacfarlane.net/pandoc/) wrapper for node.
 * [Platform.js](https://github.com/bestiejs/platform.js/) — A platform detection and user agent parsing library that works on nearly all JavaScript platforms
-* [properties](https://github.com/Gagle/Node-Properties) — A Java .properties file parser ported to node.js.
+* [properties](https://github.com/gagle/node-properties) — .properties parser/stringifier.
 * [querystring.node.js](https://github.com/jazzychad/querystring.node.js) — Robust query string parsing for node.
 * [ret.js](https://github.com/fent/ret.js) — A regexp tokenizer.
 * [semver](https://github.com/isaacs/node-semver) — Parser used by npm for version numbers.
