@@ -1370,6 +1370,7 @@ rendering process.
 * [options.js](http://valeriu.palos.ro/1026/command-line-option-parser-in-javascript/) — An inline (non-module!) options parser that is very small and yet quite complete.
 * [optparse-js](https://github.com/jfd/optparse-js/tree/master) — Option Parser in JS
 * [parseopt](http://bitbucket.org/panzi/javascript-utils/src/tip/parseopt/) — Flexible and extensible option parser in JavaScript.
+* [shotgun](https://github.com/Chevex/shotgun) - UI agnostic command shell with command module development API. Extremely simple and easy to setup.
 * [tav](https://github.com/akaspin/tav) — Brain-free command-line options parser for node.js
 * [trollopjs](https://github.com/bentomas/trollopjs) — Another option parser
 * [yanop](https://github.com/frodwith/yanop) — Yet Another Node Option Parser
