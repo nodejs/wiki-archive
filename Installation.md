@@ -8,6 +8,8 @@ For Windows and Mac some pre-built binaries are available; you may [install 
 
 ### Prerequisites
 
+* **GCC** 4.2 or newer
+
 * **GNU make** 3.81 or newer. Pre-installed on most systems. Sometimes called `gmake`.
 
 * [**python**](http://python.org) 2.6 or 2.7. The build tools distributed with
