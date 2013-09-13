@@ -8,7 +8,7 @@ Of course, if you don't use [Pathogen](http://www.vim.org/scripts/script.php?scr
 
 ## General
 
-* [Node.vim](https://github.com/moll/vim-node) Tools and utilities to make Vim superb for developing with Node.js. Like [Rails.vim](https://github.com/tpope/vim-rails) for Node.
+* [Node.vim](https://github.com/moll/vim-node) Tools and utilities to make Vim superb for developing with Node.js. Like [Rails.vim](https://github.com/tpope/vim-rails) for Ruby on Rails.
 
 ## Linter
 
