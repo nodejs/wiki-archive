@@ -19,7 +19,7 @@ When editing this page please be as detailed as possible. Examples are encourage
 * API additions `Buffer.alloc()` and `Buffer.dispose()` have been added.
 * `Buffer#fill()`  has been extended to fill with the entire passed value.
 * `(new Buffer('text\0!', 'ascii')).toString()` outputs `'text !'` in 0.10 and `'text\u0000!'` in 0.12.
-* Writable stream `_write()` gets called with 'buffer' encoding when chunck is a Buffer ([#6119](https://github.com/joyent/node/issues/6119)).
+* Writable stream `_write()` gets called with 'buffer' encoding when chunk is a Buffer ([#6119](https://github.com/joyent/node/issues/6119)).
 * Writable stream emits 'finish' on next tick if there was a `write()` ([#6118](https://github.com/joyent/node/issues/6118)).
 
 ## Process
