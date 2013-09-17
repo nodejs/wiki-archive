@@ -1072,6 +1072,7 @@ rendering process.
 * [thintalk](https://github.com/AndreasMadsen/thintalk) — A minimal extendable RPC abstraction with buildin TPC and IPC support
 * [xmlrpc](https://github.com/baalexander/node-xmlrpc) — A pure JavaScript XML-RPC server and client
 * [zeromq.node](https://github.com/JustinTulloss/zeromq.node) — 0MQ (zeroMQ) bindings for node.js
+* [zerorpc-node](https://github.com/dotcloud/zerorpc-node) — A port of the original ZeroRPC for node.js.
 * [ws.js](https://github.com/yaronn/ws.js) — A WS-* client stack for node.js. Written in pure javascript! 
 * [wcf.js](https://github.com/yaronn/wcf.js) — A WCF-compatible web service client stack for node.js. Written in pure javascript! 
 * [node-ice](https://github.com/durs/node-ice) - ZeroC Ice client implementation (c++)
