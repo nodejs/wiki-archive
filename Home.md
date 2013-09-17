@@ -26,7 +26,7 @@ Come talk to us in the **#node.js** IRC channel on [freenode.net](http://webchat
 
 Most modules can be found by [searching the npm registry](http://search.npmjs.org/).
 
-Alternatively, use [nipster](http://eirikb.github.com/nipster/), or [toolbox](http://nodetoolbox.com/), or [npmdocs](http://npmdoc.nodejitsu.com/).
+Alternatively, use [nipster](http://eirikb.github.com/nipster/), or [toolbox](http://nodetoolbox.com/).
 
 There is also [[a list of modules|Modules]] on this wiki.
 
@@ -45,6 +45,11 @@ Besides the documentation on the [official site](http://nodejs.org) here are lin
 ## ChangeLog
 
 Node releases a new version every one or two weeks. The ChangeLog can always be found [here](https://github.com/joyent/node/blob/master/ChangeLog).
+
+## The Future
+* [[API changes between v0.10 and v0.12]]
+* [[ECMA 5 Mozilla Features Implemented in V8]]
+* [[ES6 (a.k.a. Harmony) Features Implemented in V8 and Available in Node]]
 
 ## Contributing
 
