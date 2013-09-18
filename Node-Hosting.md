@@ -72,7 +72,7 @@ Node.JS hosting platforms that allow you to host Node.JS apps on your own server
   * [haibu](http://github.com/nodejitsu/haibu) - Open-source Node.js Application Server
   * [node-http-proxy](http://github.com/nodejitsu/node-http-proxy) - Proxy / Load Balancing
   * [jitsu](http://github.com/nodejitsu/jitsu) - CLI Deployment tool
-  * [forever](http://github.com/indexzero/forever) - Process Monitoring
+  * [forever](http://github.com/nodejitsu/forever) - Process Monitoring
   * [winston](http://github.com/indexzero/winston) - Multi-transport Logging
   * [node-cloudservers](http://github.com/nodejitsu/node-cloudservers) Rackspace Cloud Server Provisioning
   * [node-cloudfiles](http://github.com/nodejitsu/node-cloudfiles) Rackspace Cloud Files
