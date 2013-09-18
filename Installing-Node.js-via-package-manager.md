@@ -39,7 +39,7 @@ Example install:
     sudo apt-get install python-software-properties python g++ make
     sudo add-apt-repository ppa:chris-lea/node.js
     sudo apt-get update
-    ## Your version may be different. Look for "Version:" in /var/lib/apt/lists/ppa.launchpad.net_chris-lea_node.js_ubuntu_dists_precise_main_binary-amd64_Packages
+    ## Your version may be different. Look for "Version:" in /var/lib/apt/lists/ppa.launchpad.net_chris-lea_node.js_[...]_Packages (ellipsised part of path varies with distro and version)
     sudo apt-get install nodejs=0.10.18-1chl1~precise1
     # @@ Why does one need to specify the install version? @@
 
