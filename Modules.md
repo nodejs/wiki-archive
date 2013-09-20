@@ -1329,6 +1329,7 @@ rendering process.
 * [cheerio](https://github.com/MatthewMueller/cheerio) — jQuery-alike interface for server-side HTML parsing and processing.
 * [node-htmlparser](https://github.com/tautologistics/node-htmlparser) — Forgiving HTML Parser in JS for both Node and browsers.
 * [picksy](https://github.com/skid/picksy) — Extracts the relevant text from a HTML article page.
+* [parse5](https://github.com/inikulin/parse5) - Fast HTML5 specification compliant parser.
 
 <a name="wiki-parsers-csv"></a>
 ### [CSV](#parsers-csv)
