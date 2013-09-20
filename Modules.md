@@ -1495,7 +1495,6 @@ rendering process.
 * [binary-reader](https://github.com/gagle/node-binary-reader) — Buffered binary reader with a fluent api.
 * [diskspace.js](https://github.com/keverw/diskspace.js) — A simple module to check disk space usages in bytes.
 * [mass_hfs](https://github.com/RubyLouvre/hfs) — height level file system, can simultaneously operate of the directories and files, multi-stage creating folders……
-* [file-utils](https://github.com/Gagle/Node-FileUtils) — File and directory utilities. Object representation of file and directory path names.
 * [fs-extra](https://github.com/jprichardson/node-fs-extra) — Patches the Node.js `fs` object with a couple of extra methods (a method to copy a file and a method to delete a directory recursively), both sync and async versions.
 * [fstream](https://github.com/isaacs/fstream) — High-level objects like FS streams, but with stat on them, and supporting directories and symbolic links, as well as normal files. Also, you can use this to set the stats on a file, even if you don't change its contents, or to create a symlink, etc.
 * [fsutil](https://github.com/npcode/node-fsutil) and [fsautil](https://github.com/npcode/node-fsautil) — Synchronous and asynchronous file system utilities for Node.js.
