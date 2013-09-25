@@ -877,6 +877,7 @@ rendering process.
 * [quickcheck](https://github.com/mcandre/node-quickcheck) — Port of the Haskell QuickCheck unit testing framework
 * [ready.js](https://github.com/dsimard/ready.js) — continuous javascript integration
 * [ndoc](https://github.com/nodeca/ndoc) — direct PDoc port with some extra features.
+* [jscpd](https://github.com/kucherenko/jscpd) — Copy/paste detector for JavaScript and CoffeeScript code.
 
 <a name="wiki-package-management"></a>
 ## [Package Management Systems](#package-management)
