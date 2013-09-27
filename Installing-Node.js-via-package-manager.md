@@ -32,8 +32,11 @@ In case you get a permission denied on the `node` executable, an alternative pat
 
 
 ## Ubuntu, Mint, Elementary OS
+At least for Ubuntu 13.04, Node is in the standard repository. To install, just run:
 
-Example install:
+    sudo apt-get install nodejs
+
+Obtaining the latest version of Node or installing on older Ubuntu and other apt-based distributions may require a few extra steps. Example install:
 
     sudo apt-get update
     sudo apt-get install python-software-properties python g++ make
