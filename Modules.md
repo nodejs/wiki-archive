@@ -901,7 +901,7 @@ rendering process.
 * [nodules](https://github.com/kriszyp/nodules) — Async URL CommonJS module loader with dep resolution/downloading and hot-module reloading
 * [raptor](http://raptorjs.org/module-loader/) — [RaptorJS](http://raptorjs.org) provides a cross-platform AMD-compliant module loader that integrates into the Node module loader. An optimized client-side module loader is also provided that handles dependencies, automatic compilation and delivering environment-specific code.
 * [remap](https://github.com/dominictarr/remap) - reroute require for mocks, wrappers, or shenanigans (useful for testing)
-* [sourcemint-platform-nodejs](https://github.com/sourcemint/platform-nodejs) — [sourcemint-loader-js](https://github.com/sourcemint/loader-js) (optimized CommonJS package mappings based JavaScript module loader) for NodeJS
+* [pinf-for-nodejs](https://github.com/pinf/pinf-for-nodejs) — JavaScript Bundle Loader for NodeJS
 * [wrapit](https://github.com/omphalos/wrapit) - webservice to wrap any web resource in a header and footer; good for wrapping javascript files in require calls
 * [express-load](https://github.com/jarradseers/express-load) — Autoload scripts (routes, controllers, models...) into the Express application instance. 
 
