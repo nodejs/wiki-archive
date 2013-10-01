@@ -117,9 +117,11 @@ export CXX=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xc
 
 ## Building on Windows
 
-vcbuild.bat release x64 : Build in release mode in 64-bits
-vcbuild.bat debug x64   : Build in debug mode for 64-bits
-vcbuild.bat release     : Build in release mode in 32-bits
+*vcbuild.bat release x64* : Build in release mode in 64-bits
+
+*vcbuild.bat debug x64*   : Build in debug mode for 64-bits
+
+*vcbuild.bat release*     : Build in release mode in 32-bits
 
 You need python and Microsoft Visual Studio but not OpenSSL. In `cmd.exe` do the following
 The easiest way, is to add the python binary path to your global Windows path.
