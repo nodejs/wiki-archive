@@ -127,7 +127,7 @@ export CXX=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xc
 
 You need to have Microsoft Visual Studio 2012 or 2010 (Express edition is fine) as well as Python 2.6 or 2.7.  Openssl is not required. Make sure that python is in your PATH.
 
-The underneath example of building node in debug mode and 64-bits
+The underneath is a example of building node in 64-bits debug mode.
 ```
 c:\_GIT\node>.\vcbuild.bat debug x64
 ctrpp not found in WinSDK path--using pre-gen files from tools/msvs/genfiles.
