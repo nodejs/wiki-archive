@@ -125,7 +125,7 @@ export CXX=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xc
 
 *vcbuild.bat clean*     : Clean Project
 
-You need to have Microsoft Visual Studio 2012 or 2010 (Express edition is fine) as well as Python 2.6 or 2.7.  Openssl is not required. Make sure that python is your PATH.
+You need to have Microsoft Visual Studio 2012 or 2010 (Express edition is fine) as well as Python 2.6 or 2.7.  Openssl is not required. Make sure that python is in your PATH.
 
 The underneath example of building node in debug mode and 64-bits
 ```
