@@ -185,7 +185,7 @@ C:\_GIT\node\Build\Debug\node.exe
 The executable will be in `Build\Debug\node.exe`.
 
 ## Managing multiple version of Visual Studio
-Assume that you have two versions of Visual Studio 2012 and 2010, in this case depending of the search you may build against Visual Studio 2010 engine. If you want to force a specific version of Visual Studio you may use the variable GYP_MSVS_VERSION.
+Lets assume that you have two versions of Visual Studio installed. In this case, you may build against a specific Visual Studio Version. If you want to force a specific version of Visual Studio, you may use the variable GYP_MSVS_VERSION.
 
 Example : Force Visual Studio 2012
 set GYP_MSVS_VERSION=2012
