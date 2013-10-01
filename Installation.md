@@ -117,16 +117,17 @@ export CXX=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xc
 
 ## Building on Windows
 
-*vcbuild.bat release x64* : Build in release mode in 64-bits
+*vcbuild.bat nosign release x64* : Build in release mode in 64-bits
 
-*vcbuild.bat debug x64*   : Build in debug mode for 64-bits
+*vcbuild.bat nosign debug x64*   : Build in debug mode for 64-bits
 
-*vcbuild.bat release*     : Build in release mode in 32-bits
+*vcbuild.bat nosign release*     : Build in release mode in 32-bits
 
-You need python and Microsoft Visual Studio but not OpenSSL. In `cmd.exe` do the following
-The easiest way, is to add the python binary path to your global Windows path.
+*vcbuild.bat clean*     : Clean Project
 
-The underneath example, build node in debug mode 64-bits
+You need to have Microsoft Visual Studio 2012 or 2010 (Express edition is fine) as well as Python 2.6 or 2.7.  Openssl is not required. Make sure that python is your PATH.
+
+The underneath example of building node in debug mode and 64-bits
 ```
 c:\_GIT\node>.\vcbuild.bat debug x64
 ctrpp not found in WinSDK path--using pre-gen files from tools/msvs/genfiles.
