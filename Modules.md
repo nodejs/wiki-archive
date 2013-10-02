@@ -904,6 +904,7 @@ rendering process.
 * [pinf-for-nodejs](https://github.com/pinf/pinf-for-nodejs) — JavaScript Bundle Loader for NodeJS
 * [wrapit](https://github.com/omphalos/wrapit) - webservice to wrap any web resource in a header and footer; good for wrapping javascript files in require calls
 * [express-load](https://github.com/jarradseers/express-load) — Autoload scripts (routes, controllers, models...) into the Express application instance. 
+* [needy](https://github.com/BlueJeansAndRain/needy) — Transparently compatible, extensible, multi-environment replacement for the built-in NodeJS module loader.
 
 <a name="wiki-security"></a>
 ## [OpenSSL / Crypto / Hashing](#security)
