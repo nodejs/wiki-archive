@@ -4,6 +4,7 @@ If you're considering adding your company to this list, you should also submit a
 
 Company|Link|Notes
 -------|----|-----
+Intercambio Juegos ('Community portal')|<a href="http://www.intercambiojuegos.cl" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;intercambiojuegos.cl</a>|Intercambio Juegos is Community portal for sharing videogames network.
 dsg.nr ('designer')|<a href="http://beta.dsg.nr" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;beta.dsg.nr</a>|A new way to visualize your home decor projects. (coming soon)
 &yet (andyet)|<a href="http://andyet.net" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;andyet.net</a>|We make web software for human people.
 13 pass|<a href="http://www.13pass.com/" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;www.13pass.com</a>|Uses node.js and mongoDb to deals with API or realtime websocket programming.
