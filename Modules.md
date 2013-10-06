@@ -909,6 +909,7 @@ rendering process.
 <a name="wiki-security"></a>
 ## [OpenSSL / Crypto / Hashing](#security)
 
+* [EncryptionHelper](https://github.com/tarunc/EncryptionHelper) - A collection of helper functions that encrypt, decrypt, and hash strings/files based on NodeJS's native crypto module.
 * [amir's node-base62](https://github.com/amir/node-base62) — C++ base62 lib for representing big numbers
 * [bcrypt.js](https://github.com/dcodeIO/bcrypt.js) — Optimized bcrypt in plain JavaScript with zero dependencies. 100% typed code.
 * [brainfucker's node-base64](https://github.com/brainfucker/node-base64) — C++ base64 lib
