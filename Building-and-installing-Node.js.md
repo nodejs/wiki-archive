@@ -1,10 +1,21 @@
-# Building and installing Node.js
+## Automatic install
+
+As of Node version 0.10.20, installation packages and binary executables can be found at the following location: http://nodejs.org/download/.  Select the proper download for your operating system from below, or download the associated sources to build manually from the download page.  This will install both node and npm in the correct locations, overwriting any previously installed versions.
+
+OSX: http://nodejs.org/dist/v0.10.20/node-v0.10.20.pkg
+
+Windows (32-bit): http://nodejs.org/dist/v0.10.20/node-v0.10.20-x86.msi 
+
+Windows (64-bit): http://nodejs.org/dist/v0.10.20/x64/node-v0.10.20-x64.msi 
+
+Linux: http://nodejs.org/dist/v0.10.20/node-v0.10.20-linux-x64.tar.gz 
+
+
+## Manual install
 
 You may build the Node.js engine for any of the supported platforms.
 
 For Windows and Mac some pre-built binaries are available; you may [install them](https://github.com/joyent/node/wiki/Installation#installing-without-building) without building Node for yourself.
-
-## Prerequisites and known issues of building
 
 ### Prerequisites
 
@@ -101,7 +112,7 @@ It's easiest to use a [package manager (as mentioned above)](https://github.com/
 Xcode: Preferences->Downloads install Command Line Tools<br />
 *Note: I installed Xcode 4.5 in `/Applications/Xcode`*
 
-1. Download node.js src code
+1. Download node.js source code
 ```
 git clone https://github.com/joyent/node.git
 cd node
@@ -223,15 +234,3 @@ Then, with the usual help of `PATH`, you'll be able to run scripts (`node scr
 To update Node, download the latest [http://nodejs.org/dist/latest/node.exe](http://nodejs.org/dist/latest/node.exe) (or [http://nodejs.org/dist/latest/x64/node.exe](http://nodejs.org/dist/latest/x64/node.exe) for 64bit systems) and replace your old `node.exe` with it.
 
 To update npm, run the `npm update npm -g` command.
-
-#### Automatic install (with Microsoft Installer)
-
-The [http://nodejs.org/dist/latest/](http://nodejs.org/dist/latest/) directory contains the latest `.msi` package (such as `node-v0.6.15.msi` when Node v0.6.15 was the latest) that you may use to install both Node.js engine and npm.
-
-### Installing on Mac
-
-The [http://nodejs.org/dist/latest/](http://nodejs.org/dist/latest/) directory contains the latest `.pkg` package (such as `node-v0.6.15.pkg` when Node v0.6.15 was the latest).
-
-### Upgrading on Mac with `.pkg`
-
-You can download the latest `.pkg` and run the installer and it will overwrite the existing version of Node currently installed.
