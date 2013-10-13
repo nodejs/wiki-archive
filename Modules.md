@@ -2047,6 +2047,7 @@ rendering process.
 * [Concrete](https://github.com/ryankee/concrete) — Simple continuous integration server written with NodeJS and CoffeeScript
 * [Jenkins API](https://github.com/jansepar/node-jenkins-api) — An API written in Node for Jenkins, allowing you to trigger jobs, delete jobs, copy jobs, etc.
 * [nestor](https://github.com/cliffano/nestor) — Jenkins (or Hudson) command-line interface in Node.js
+* [cinnamon](https://github.com/akoenig/cinnamon) — A lightweight continuous integration server for Node.js applications.
 
 <a name="wiki-ddd-cqrs-es"></a>
 ## [DDD, CQRS, EventSourcing](#ddd-cqrs-es)
