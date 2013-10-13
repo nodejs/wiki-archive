@@ -37,7 +37,7 @@ Of course, if you don't use [Pathogen](http://www.vim.org/scripts/script.php?scr
 
 ## Snippets
 
-* [SnipMate](http://www.vim.org/scripts/script.php?script_id=2540) Text-Mate like snippets
+* [SnipMate](https://github.com/garbas/vim-snipmate) Text-Mate like snippets
 * [nodejs-snippets](https://github.com/jamescarr/snipmate-nodejs) node specific snippet for SnipMate. Consider forking and improving
 
 ## Completion
