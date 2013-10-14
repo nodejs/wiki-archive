@@ -2118,7 +2118,7 @@ realtime balancing for live objects
 
 <a name="wiki-other"></a>
 ## [Other](#other)
-
+* [tree-node](https://github.com/brighthas/tree-node) — Tree node link HTML Node.
 * [append](https://github.com/pvorb/node-append) — Append properties from one object to another.
 * [attache.js](https://github.com/rodzyn/attache.js) — Very basic AOP implementation
 * [audience-meter](https://github.com/rs/audience-meter) — A simple audience meter based on Socket.IO, perfect for live events tracking
