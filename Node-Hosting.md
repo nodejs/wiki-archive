@@ -7,6 +7,7 @@ Managed providers provide a simplified "Node Appliance" solution. Node and NPM w
 Name | Node Version | Web Sockets | IP/Hostname | IRC | Repository | Free Plan | Paid Plans | Notes |
 :-----------|:------------|:-------------|:-------------|:-------------|:-------------|:-------------|:-------------|:-------------------------------------|
 [appfog](http://appfog.com/) | 0.4.12, 0.6.17, 0.8.14 | No | Yes, custom domains in paid plan only | | [appfog](https://github.com/appfog) | Yes – up to 2G RAM for your applications | Yes – monthly subscriptions and enterprise support available | General Availability
+[Clever Cloud](http://www.clever-cloud.com/) | version you need | Yes | Yes, custom domains in paid plan only | [#clevercloud on irc.freenode.net](irc://irc.freenode.net:6667/clevercloud) | [Clever Cloud on github](https://github.com/clevercloud) | No, just a free trial | Yes – pay as you go model | General Availability, launch of [nodejs-cloud](http://nodejs-cloud.com)
 [Cloud Foundry](http://www.cloudfoundry.com) | 0.4.12, 0.6.8, 0.8.2 | No | No | | [cloudfoundry](https://github.com/cloudfoundry) | Yes - Only during beta. | | Beta, accepting signups
 [Cloudnode](http://cloudno.de) | 0.4.12, 0.6.17, 0.8.25 | Yes | Yes | | | Yes - Up to 3 VMs, 25 MB CouchDB space, 250,000 requests/month. | | Beta (accepting signups) - powered by Nodester 
 [DotCloud](http://www.dotcloud.com) | 0.4.10 | Yes | Paid plan | #dotcloud | [dotcloud](https://github.com/dotcloud) |  | Pro - $99/month, 4 services. Enterprise - Unlimited services. | 
