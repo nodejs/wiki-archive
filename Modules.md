@@ -504,8 +504,8 @@ This module is inspired by impressive but abandoned project [Cluster](https://gi
 <a name="wiki-db-nosql-mongo"></a>
 #### [MongoDB](#db-nosql-mongo)
 
-* [Official Driver](https://github.com/mongodb/node-mongodb-native) _(supported by [10gen](http://www.10gen.com/))_
-* [mongoose](http://mongoosejs.com/) — Elegant [MongoDB](http://www.mongodb.org) object modeling with over 160 [plugins](http://plugins.mongoosejs.com) _(supported by [10gen](http://www.10gen.com/))_
+* [Official Driver](https://github.com/mongodb/node-mongodb-native) _(supported by [MongoDB, Inc.](http://www.mongodb.com/))_
+* [mongoose](http://mongoosejs.com/) — Elegant [MongoDB](http://www.mongodb.org) object modeling with over 160 [plugins](http://plugins.mongoosejs.com) _(supported by [MongoDB, Inc.](http://www.mongodb.com/))_
 * [node-mongoskin](https://github.com/guileen/node-mongoskin) — A future layer for node-mongodb-native.
 * [node-mongodb-wrapper](https://github.com/idottv/node-mongodb-wrapper) — As close as possible to the command-line driver. Uses node-mongodb-native.
 * [mongode](https://github.com/milewise/mongode) — Very thin wrapper around node-mongodb-native that simplifies the API a bit.
