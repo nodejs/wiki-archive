@@ -1685,6 +1685,8 @@ rendering process.
 <a name="wiki-graphics"></a>
 ## [Graphics](#graphics)
 
+* [png-word](https://github.com/brighthas/png-word) - When give a text word , then create a png.(pure javascript no C)
+* [validat-num-demo](https://github.com/brighthas/validat-num-demo) - validat number demo.(pure javascript no C)
 * [alleup](https://github.com/tih-ra/alleup) - Flexible way to resize and upload images to Amazon S3 or file system storages
 * [drawback](https://github.com/LearnBoost/drawback) — Seamless way to render 2D drawings on the client side using HTML5 technologies with a server-side backend.
 * [EasyImage](https://github.com/hacksparrow/node-easyimage) — User-friendly module for common image editing requirements. Requires ImageMagick.
