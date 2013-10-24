@@ -1385,7 +1385,6 @@ rendering process.
 * [nopt](https://github.com/isaacs/nopt) — The command line options parser npm uses.
 * [Operetta](https://github.com/tricknik/node-operetta) — A Node Option Parser That Sings!
 * [optimist](https://github.com/substack/node-optimist) — Light-weight option parsing without optstrings or any of that silliness. It's just a hash!
-* [options.js](http://valeriu.palos.ro/1026/command-line-option-parser-in-javascript/) — An inline (non-module!) options parser that is very small and yet quite complete.
 * [optparse-js](https://github.com/jfd/optparse-js/tree/master) — Option Parser in JS
 * [parseopt](http://bitbucket.org/panzi/javascript-utils/src/tip/parseopt/) — Flexible and extensible option parser in JavaScript.
 * [shotgun](https://github.com/Chevex/shotgun) - UI agnostic command shell with command module development API. Extremely simple and easy to setup.
