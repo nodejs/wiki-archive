@@ -957,7 +957,6 @@ rendering process.
 * [Haraka](https://github.com/baudehlo/Haraka) — Full Featured SMTP Server
 * [mailcomposer](https://github.com/andris9/mailcomposer) - Generate e-mail messages that can be streamed to SMTP or file (unicode friendly)
 * [Mailman](https://github.com/vdemedes/mailman) — Send emails in a comfortable way via models. SMTP, SES, Sendmail supported.
-* [node_mailer](https://github.com/marak/node_mailer) — send emails from node.js to an smtp server, simple as cake
 * [node-smtp](https://github.com/aredridel/node-smtp) — Implementation of an SMTP server (and soon, client)
 * [node-smtpevent](https://github.com/euangoddard/node-smtpevent) — Event based SMTP server
 * [Nodemailer](https://github.com/andris9/Nodemailer) - Easy to use module to send e-mails with Node.JS, unicode friendly
