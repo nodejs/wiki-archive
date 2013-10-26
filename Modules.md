@@ -962,11 +962,6 @@ rendering process.
 * [Nodemailer](https://github.com/andris9/Nodemailer) - Easy to use module to send e-mails with Node.JS, unicode friendly
 * [simplesmtp](https://github.com/andris9/simplesmtp) - Use SMTP as a first class protocol, useful for generating custom SMTP servers
 
- No Longer Maintained
-
-  * [node-smtp-client](https://github.com/miksago/node-smtp-client) — Implementation of the SMTP protocol in Node
-  * [node-smtpclient](https://github.com/sleeplessinc/node-smtpclient) — Simple SMTP that uses AUTH and TLS/SSL (2.4)
-
 <a name="wiki-tcp"></a>
 ## [TCP / IP](#tcp)
 
