@@ -232,9 +232,9 @@ The [http://nodejs.org/dist/latest/](http://nodejs.org/dist/latest/) directory c
 
 The [http://nodejs.org/dist/latest/](http://nodejs.org/dist/latest/) directory contains the latest `.pkg` package (such as `node-v0.6.15.pkg` when Node v0.6.15 was the latest).
 
-### Installing on Linaro Ubuntu
+### Installing on Linaro Ubuntu (ARM, [UDOO](http://udoo.org))
 
-[Compiled binaries and build instructions are available here](https://github.com/pilwon/nodejs-for-linaro-ubuntu)
+[Compiled binaries and build instructions are available here.](https://github.com/pilwon/nodejs-for-linaro-ubuntu)
 
 ### Upgrading on Mac with `.pkg`
 
