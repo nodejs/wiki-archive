@@ -663,7 +663,7 @@ This module is inspired by impressive but abandoned project [Cluster](https://gi
 * [Blade](https://github.com/bminer/node-blade) — HTML Template Compiler, inspired by Jade & Haml. [Express](http://expressjs.com) compliant
 * [bliss](https://github.com/cstivers78/bliss) — Template engine inspired by .NET Razor and Play! Scala Templates.
 * [blue](http://github.com/floby/node-blue) — A streamed template engine. Support for asynchronous loading of partials
-* [CoffeeKup](https://github.com/mauricemach/coffeekup) — Markup as CoffeeScript. Live [demo](http://coffeekup.org) and <s><del>[html2coffeekup](https://github.com/brandonbloom/html2coffeekup.)</del></s><!-- broken link -->
+* [CoffeeKup](https://github.com/mauricemach/coffeekup) — Markup as CoffeeScript. Live [demo](http://coffeekup.org) and [html2coffeekup](https://github.com/brandonbloom/html2coffeekup).
 * [CoffeeMugg](https://github.com/jaekwon/coffeemugg) — Markup as CoffeeScript. A branch of CoffeeKup, supports closures, requires no compilation, extensible via view-helper libraries, like ActionView.
 * [combyne.js](https://github.com/tbranyen/combyne.js) — A template engine that hopefully works the way you'd expect.
 * [Diet Dot](https://github.com/jamescostian/diet-dot) — The fastest + concise javascript template engine for nodejs and the browser, made even more so and sans mustache-style syntax
