@@ -8,7 +8,9 @@ Node.js is available in the portage tree.
 ## Debian, LMDE
 [Node.js is available in official repo for Debian Sid(unstable)](http://packages.debian.org/search?searchon=names&keywords=nodejs).
 
-For Debian Wheezy, your best bet is to compile node by yourself:
+For Debian Wheezy, you have two options:
+
+### Build from source
 
     sudo apt-get install python g++ make checkinstall
     mkdir ~/src && cd $_
@@ -30,6 +32,9 @@ In case you get a permission denied on the `node` executable, an alternative pat
     checkinstall -D --umask 0022 --reset-uids --install=no
     dpkg -i node_*.deb
 
+### Backports
+
+Alternatively, you can install `nodejs` from [`wheezy-backports`](backports.debian.org/Instructions/). If you rely on having `node` as an executable, install `nodejs-legacy` as well.
 
 ## Ubuntu, Mint, Elementary OS
 
