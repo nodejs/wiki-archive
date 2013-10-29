@@ -36,6 +36,10 @@ In case you get a permission denied on the `node` executable, an alternative pat
 
 Alternatively, you can install `nodejs` from [`wheezy-backports`](backports.debian.org/Instructions/). If you rely on having `node` as an executable, install `nodejs-legacy` as well.
 
+If you need `npm` as well, you can get it through the installer
+
+    curl https://npmjs.org/install.sh | sudo sh
+
 ## Ubuntu, Mint, Elementary OS
 
 At least for Ubuntu 13.04, an old version (0.6.x) of Node is in the standard repository. To install, just run:
