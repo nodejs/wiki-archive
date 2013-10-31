@@ -940,6 +940,7 @@ rendering process.
 * [node_nibbler](https://github.com/mattrobenolt/node_nibbler) — Base32/base64 encoder/decoder.
 * [node-cityhash](https://github.com/fbzhong/node-cityhash) — NodeJS bindings for [Google CityHash](http://code.google.com/p/cityhash/) , both CityHash64 and CityHash128 are supported.
 * [node-crypto](https://github.com/waveto/node-crypto) — OpenSSL based Hashing, Signing and Verifying
+* [node-forge](https://github.com/digitalbazaar/forge) — Native TLS in JS, various crypto tools: PKCS, MD5, SHA, HMAC, RSA, RSASSA-PSS, X.509, ASN.1, PEM, PRNG, AES, DES, PBE
 * [node-gpg](https://github.com/drudge/node-gpg) - GPG encryption and decryption by way of the gpg command-line tool
 * [node-keychain](https://github.com/drudge/node-keychain) - Basic Keychain Access on Mac computers running Node.js
 * [node-hashring](https://github.com/3rd-Eden/node-hashring) — Hash ring provides consistent hashing based on the libketema library.
