@@ -28,8 +28,6 @@ Most modules can be found by [searching the npm registry](http://search.npmjs.or
 
 Alternatively, use [nipster](http://eirikb.github.com/nipster/), or [toolbox](http://nodetoolbox.com/).
 
-There is also [[a list of modules|Modules]] on this wiki.
-
 ## Hosting
 
 * [[Managed providers, Self-Managed and DIY Platforms|Node Hosting]]
