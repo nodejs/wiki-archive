@@ -1,4 +1,18 @@
-## Search for modules with [search.npmjs.org](http://search.npmjs.org/), [node-modules](http://node-modules.com), [node-toolbox](http://nodetoolbox.com/) and [nipster](http://eirikb.github.com/nipster/).
+# DEPRECATED
+
+This page is deprecated.
+
+Feel free to add to it, but be advised that it is, at best, a faded relic of Node modules that were written before npm was a dominant force in the Node.js ecosystem.  It is not all that useful any more.
+
+If you are a newcomer, it can be handy to at least get a starting point.  However, note that there are many tens of thousands of modules in [the npm registry](https://npmjs.org/), and only just under 2,000 modules here.
+
+So, this list is long enough to be intimidating, but still only captures a tiny sliver of the Node.js modules you can use with your program.  What's worse, it's almost never updated, and cannot hope to highlight the changes that are happening in this busy ecosystem.
+
+Search for modules with [npmjs.org](https://npmjs.org/), [node-modules](http://node-modules.com), [node-toolbox](http://nodetoolbox.com/) and [nipster](http://eirikb.github.com/nipster/).
+
+The archaic contents of this once-useful page now follow.  Historians of the future, please enjoy.
+
+-----
 
 ## Adding to this page
 
