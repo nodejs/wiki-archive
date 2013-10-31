@@ -31,6 +31,7 @@ Empty cells mean we weren't sure what to put there.
 Name | Node Version | Web Sockets | IP/Hostname | IRC | Repository | Free Plan | Paid Plans | Notes |
 :-----------|:------------|:-------------|:-------------|:-------------|:-------------|:-------------|:-------------|:-------------------------------------|
 [Cure](http://cure.willsave.me) | 0.6.2 | Yes | Yes | | | Yes - One week trial. (Up to 1GB outgoing b/w, $0.18 per GB after.) | $12.95/month per server. | Uses Rackspace rather than Amazon EC2 |
+[Joyent](http://www.joyentcloud.com/products/appliances/nodejs-smartmachine/) | 0.10.21 | yes | yes | | | Yes - [Free trial available](https://my.joyentcloud.com/landing/signup/70180000000ShEu) | Plans starting from $0.008/hour, up to $2.56/hour, depending on instance size | Custom SmartOS template, running on the [Joyent Public Cloud](http://www.joyent.com/) |
 
 
 ## Self-Managed
