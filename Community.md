@@ -1,7 +1,9 @@
+See also: <http://nodejs.org/community>, which gets updated slightly less infrequently than this page.
+
 * [Home page with documentation](http://nodejs.org/)
 * [User mailing list](http://groups.google.com/group/nodejs)
 * [IRC](http://webchat.freenode.net/?channels=node.js) on irc://irc.freenode.net/node.js
-   * [nodejs irc logs](http://nodejs.debuggable.com/)
+   * [nodejs irc logs](http://logs.nodejs.org/channels)
 * [Linkedin Node.js group](http://www.linkedin.com/groups?home=&gid=2906459&trk=anet_ug_hm)
 * [Node.js QA](http://stackoverflow.com/questions/tagged/node.js) on Stack Overflow
 * [NodeUp](http://nodeup.com) Node.js podcast
