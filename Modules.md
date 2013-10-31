@@ -1986,6 +1986,7 @@ rendering process.
 ### [Fibers](#async-flow-fibers)
 
 * [asyncblock](https://github.com/scriby/asyncblock) — Simple and powerful interface to fibers
+* [asyncflow](https://github.com/sethyuan/asyncflow) — asyncflow is an expressive, capable and easy to use async flow library.
 * [fiberize](https://github.com/lm1/node-fiberize) — Node API wrapper for use with fibers.
 * [fibers-promise](https://github.com/lm1/node-fibers-promise) — Small yet powerful promises based on fibers.
 * [fibers](https://github.com/laverdet/node-fibers) — The closest thing to a thread you'll find in JavaScript
