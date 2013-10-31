@@ -92,10 +92,9 @@ then install it
 
     sudo rpm -ivh epel-release-6-8.noarch.rpm
 
-
 And then run the following command to install node and npm:
 
-    sudo yum install npm
+    sudo yum install npm --enablerepo=epel
 
 ## Arch Linux
 Node.js is available in the Community Repository.
