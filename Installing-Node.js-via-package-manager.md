@@ -49,8 +49,8 @@ At least for Ubuntu 13.04, an old version (0.6.x) of Node is in the standard rep
 Obtaining a recent version of Node or installing on older Ubuntu and other apt-based distributions may require a few extra steps. Example install:
 
     sudo apt-get update
-    sudo apt-get install python-software-properties python g++ make
-    sudo add-apt-repository ppa:chris-lea/node.js
+    sudo apt-get install -y python-software-properties python g++ make
+    sudo add-apt-repository -y ppa:chris-lea/node.js
     sudo apt-get update
     sudo apt-get install nodejs
 
