@@ -42,11 +42,7 @@ If you need `npm` as well, you can get it through the installer
 
 ## Ubuntu, Mint, Elementary OS
 
-For Ubuntus there's a ppa-repository for fresh nodejs
-
-    https://launchpad.net/~chris-lea/+archive/node.js
-
-From Ubuntu 13.04, an old version (0.6.x) of Node is in the standard repository (this is too old for grunt which needs at least `>0.8.0`). To install, just run:
+At Least from Ubuntu 13.04, an old version (0.6.x) of Node is in the standard repository. To install, just run:
 
     sudo apt-get install nodejs
 
