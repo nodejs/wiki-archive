@@ -15,9 +15,9 @@ For Debian Wheezy, you have two options:
     sudo apt-get install python g++ make checkinstall
     mkdir ~/src && cd $_
     wget -N http://nodejs.org/dist/node-latest.tar.gz
-    tar xzvf node-latest.tar.gz && cd node-v*
+    tar xzvf node-latest.tar.gz && cd node-v* #(remove the "v" in front of the version number in the dialog)
     ./configure
-    checkinstall #(remove the "v" in front of the version number in the dialog)
+    checkinstall 
     sudo dpkg -i node_*
 
 Uninstall:
