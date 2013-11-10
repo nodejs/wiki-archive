@@ -916,6 +916,9 @@ h2. UTC+5
 ** "Github":https://github.com/jknair, "Blog":http://techiejknair.blogspot.com/
 * Abhay Rana (captn3m0), India
 ** "Github":https://github.com/captn3m0, "Blog":http://captnemo.in/
+* Manan Vaghasiya (mananvaghasiya), India
+** "Twitter":https://twitter.com/manan2tweet, "Github":https://github.com/mananvaghasiya 
+
 
 h2. UTC+6
 
