@@ -210,6 +210,7 @@ Singly|<a href="http://singly.com/" target="_blank"><img src='http://upload.wiki
 SitePen|<a href="http://www.sitepen.com/" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;www.sitepen.com</a>| Using node for persevere
 Siteworx|<a href="http://www.siteworx.com/" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;www.siteworx.com</a>|
 Sleepless Software Inc.|<a href="http://sleepless.com" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;sleepless.com</a>| Servers for large scale Facebook games.
+ShareSpot|<a href="http://www.sharespot.pl" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;www.sharespot.pl</a>|Private online spot
 Software Projects|<a href="http://www.softwareprojects.com" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;softwareprojects.com</a>| Real-time Job queue
 Sold.|<a href="http://usesold.com" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;usesold.com</a>|service layer on top of existing marketplaces
 Spoondate|<a href="http://spoondate.com" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;spoondate.com</a>| A delicious way to meet. [Defunct]
@@ -254,6 +255,8 @@ YinzCam Inc.|<a href="http://yinzcam.com" target="_blank"><img src='http://uploa
 Ylastic|<a href="http://ylastic.com/" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;ylastic.com</a>| uses node for report processing and admin app
 Yupana|<a href="http://yupana.com/" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;yupana.com</a>| node.js is the basis of our framework (collaborative accounting apps)
 Zumba Fitness|<a href="http://www.zumba.com" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;www.zumba.com</a>|Uses gruntjs to run several pre-commit tasks, and frisbyjs for testing their APIs
+
+
 
 ## Projects on GitHub
 
