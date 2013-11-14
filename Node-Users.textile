@@ -402,6 +402,8 @@ h2. UTC-5 (-4)
 ** "Github":http://github.com/begnini,  "Twitter":http://twitter.com/begnini
 * Rodrigo Alves Vieira, Recife, PE, Brazil
 ** "Website":http://rodrigo3n.com, "Twitter":http://twitter.com/rodrigo3n, "Github":http://github.com/rodrigo3n
+* Carlos Alexandre Fuechter, Jaraguá do Sul, SC, Brazil
+** "Github":https://github.com/alexandref93, "Twitter":https://twitter.com/alexandref93
 * Mike Gerwitz (mikegerwitz), Buffalo, NY
 ** "Website":http://mikegerwitz.com, "GitHub":http://github.com/mikegerwitz
 * Herman A. Junge (hermanjunge), Santiago, Chile
