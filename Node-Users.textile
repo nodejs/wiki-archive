@@ -491,7 +491,7 @@ h2. UTC±0 (0)
 ** "Website":http://sergioramos.me, "GitHub":http://github.com/ramitos, "Twitter":http://twitter.com/ramitos
 * Igor Soarez (Soarez)
 ** "GitHub":http://github.com/Soarez, "Twitter":http://twitter.com/igorsoarez
-* João Henriques
+* João Henriques, Portugal
 ** "GitHub":http://github.com/jfhenriques, "Twitter":http://twitter.com/jfhenriques
 
 h2. UTC±0 (+1)
