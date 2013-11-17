@@ -50,7 +50,7 @@ VPS providers, which often require you to set everything up yourself, including 
 * [IPAP](http://ipap.co) - Consult the many comments at [lowendbox](http://www.lowendbox.com/) before considering these guys…
 * [Joyent](http://www.joyentcloud.com/products/appliances/nodejs-smartmachine/)
 * [Linode](http://www.linode.com)
-* [Oversun Scalaxy](http://www.scalaxy.ru) - Site in Russian
+* [Oversun Scalaxy](http://www.scalaxy.ru) - Site in Russian (the site says "Company closed" - November 16, 2013)
 * [Prgmr](http://prgmr.com)
 * [Rackspace Cloud](http://www.rackspacecloud.com)
 * [ServerGrove](http://servergrove.com) [also has MongoDB hosting]
