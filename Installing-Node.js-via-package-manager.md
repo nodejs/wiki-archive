@@ -1,9 +1,5 @@
 The packages on this page are maintained and supported by their respective packagers, **not** the node.js core team.  Please report any issues you encounter to the package maintainer.  If it turns out your issue is a bug in node.js itself, the maintainer will report the issue upstream.
 
-## Vagrant
-
-vagrant up
-
 ## Gentoo
 Node.js is available in the portage tree.
 
