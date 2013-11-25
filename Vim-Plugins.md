@@ -61,6 +61,9 @@ Of course, if you don't use [Pathogen](http://www.vim.org/scripts/script.php?scr
 * [xoria256](http://www.vim.org/scripts/script.php?script_id=2140) finely tuned soft gamma colorscheme
 * [Mango](https://github.com/goatslacker/mango.vim) sexy colorscheme tailored to JavaScript
 
+## Debugging
+
+* [vimdebug] (https://github.com/sidorares/node-vim-debugger) line-by line debugging in vim.
 
 ## Miscellaneous
 
