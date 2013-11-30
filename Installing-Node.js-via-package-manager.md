@@ -34,7 +34,7 @@ In case you get a permission denied on the `node` executable, an alternative pat
 
 ### Backports
 
-Alternatively, you can install `nodejs` from [`wheezy-backports`](backports.debian.org/Instructions/). If you rely on having `node` as an executable, install `nodejs-legacy` as well.
+Alternatively, you can install `nodejs` from [`wheezy-backports`](backports.debian.org). If you rely on having `node` as an executable, install `nodejs-legacy` as well.
 
 If you need `npm` as well, you can get it through the installer
 
