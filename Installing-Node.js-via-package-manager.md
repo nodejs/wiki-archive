@@ -20,6 +20,19 @@ For Debian Wheezy, you have two options:
     checkinstall 
     sudo dpkg -i node_*
 
+Note: when you call checkinstall, make sure you edit the version when presented with:
+
+"This package will be built according to these values: 
+
+0 -  Maintainer: [ root@debian ]
+1 -  Summary: [ Node.js v0.10.22 ]
+2 -  Name:    [ node ]
+3 -  Version: [ v0.10.22 ]"
+
+Version should be 0.10.22 NOT v0.10.22 otherwise your build will fail.
+
+
+
 Uninstall:
 
     sudo dpkg -r node
