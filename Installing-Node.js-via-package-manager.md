@@ -152,3 +152,7 @@ Using [chocolatey](http://chocolatey.org) to install [Node](http://chocolatey.or
 or for [full install with NPM](http://chocolatey.org/packages/nodejs.install):  
 
     cinst nodejs.install
+
+Using [Scoop](http://scoop.sh/) to install Node:
+
+    scoop install nodejs
