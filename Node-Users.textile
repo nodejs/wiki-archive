@@ -1155,3 +1155,5 @@ h2. UTC+12
 ** "Website":http://WikiEducator.org/User:JimTittsler, "GitHub":http://github.com/jimt, "Identi.ca":http://identi.ca/jimt, "Twitter":http://twitter.com/jtittsler
 * Michael Heuberger, Auckland, New Zealand
 ** "GitHub":https://github.com/binarykitchen, "Twitter":https://twitter.com/binarykitchen
+* Peter Johnson (insertcoffee), Wellington, New Zealand
+** "GitHub":http://github.com/missinglink, "Twitter":http://twitter.com/insertcoffee
