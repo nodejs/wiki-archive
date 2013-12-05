@@ -1928,6 +1928,7 @@ rendering process.
 * [async](https://github.com/caolan/async) — Comprehensive async map/reduce and control flow (parallel, series, waterfall, auto...) module that works in node and the browser
 * [backbone-callbacks](http://lorenwest.github.com/backbone-callbacks) — Node.js style callbacks for [Backbone.js](http://documentcloud.github.com/backbone) asynchronous methods
 * [begin](https://github.com/arumons/begin) — Control flow library for node.js and CoffeeScript
+* [condvar](https://github.com/boba1l0s2k9/condvar) — Conditional variables, like AnyEvent::CondVar
 * [chainsaw](https://github.com/substack/node-chainsaw) — Build chainable fluent interfaces the easy way in node.js
 * [channels](https://github.com/Pita/channels) — Event channels for node.js
 * [cloudd](https://github.com/truepattern/cloudd) — Job manager, runs set of tasks defined using a DAG definition
