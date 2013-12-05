@@ -1167,6 +1167,7 @@ rendering process.
 * [rabbitmq-nodejs-client](https://github.com/adrai/rabbitmq-nodejs-client) — rabbitmq client for node.js
 * [websocket.MQ](https://github.com/networkimprov/websocket.MQ) — Reliable message queue server accessible via websockets, socket.IO, etc
 * [Wormhole](https://github.com/aikar/wormhole) — Fast/High Performance message queue system using streaming deserialization with the MessagePack format
+* [node-amqp-rpc](http://demchenkoe.github.io/node-amqp-rpc/) Easy to use RabbitMQ driver with round-robin and broadcast remote procedure calls
 * [node-celery](https://github.com/mher/node-celery) — [Celery](http://www.celeryproject.org/) client for Node.js
 * [redis-convoy](https://github.com/gosquared/convoy) - Redis-powered unique job queueing
 * [thoonk](https://github.com/andyet/thoonk.js) - Persistent (and fast!) push feeds, queues, and jobs leveraging Redis.
