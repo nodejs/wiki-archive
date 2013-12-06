@@ -55,7 +55,7 @@ If you need `npm` as well, you can get it through the installer
 
 ## Ubuntu, Mint, Elementary OS
 
-At Least from Ubuntu 13.04, an old version (0.6.x) of Node is in the standard repository. To install, just run:
+At Least from Ubuntu 12.04, an old version (0.6.x) of Node is in the standard repository. To install, just run:
 
     sudo apt-get install nodejs
 
