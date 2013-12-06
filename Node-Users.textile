@@ -858,6 +858,9 @@ h2. UTC+2 (+3)
 ** "GitHub":https://github.com/aularon,"Twitter":https://twitter.com/aularon,"Website":http://www.lastown.com/
 * Declan de Wet (declandewet), Johannesburg, South Africa
 ** "GitHub":http://github.com/declandewet, "Twitter":http://twitter.com/declanjdewet
+* Hameed Gamal, Cairo, Egypt
+** "GitHub":https://github.com/hameedgamal, "Twitter":https://twitter.com/hameedgamal1
+
 
 h2. UTC+3 (+4)
 
