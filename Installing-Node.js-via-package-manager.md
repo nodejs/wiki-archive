@@ -53,7 +53,7 @@ If you need `npm` as well, you can get it through the installer
 
     curl https://npmjs.org/install.sh | sudo sh
 
-## Ubuntu, Mint, Elementary OS
+## Ubuntu, Mint, elementary OS
 
 At Least from Ubuntu 12.04, an old version (0.6.x) of Node is in the standard repository. To install, just run:
 
