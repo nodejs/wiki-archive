@@ -1093,6 +1093,8 @@ h2. UTC+9
 ** "GitHub":http://github.com/npcode, "Twitter":http://twitter.com/semtlnori, "Blog":http://npcode.com/
 * Rishabh Mahajan (rishabhmhjn), Tokyo, Japan
 ** "GitHub":http://github.com/rishabhmhjn, "Twitter":http://twitter.com/rishabhmhjn, "Blog":http://blog.rishabhmhjn.me
+* Keiji Yoshida (yosssi), Tokyo, Japan
+** "GitHub":https://github.com/yosssi, "Twitter":https://twitter.com/_yosssi, "Blog":http://yosssi.hatenablog.com
 
 h2. UTC+9:30 (+10:30)
 
