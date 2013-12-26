@@ -9,6 +9,7 @@ When editing this page please be as detailed as possible. Examples are encourage
 * The return value for `node::Buffer::New()` is an instantiated JS `Buffer` object.
 * `node::Buffer::New(Handle<String>)` now accepts an optional second argument of `enum encoding`.
 * API addition of `node::Buffer::Use()` which will use the passed `char*` instead of making a copy.
+* API addition of `node::Crypto::Certificate` which handles `node::Crypto::Certificate::verifySpkac(Handle<String>)`, `node::Crypto::Certificate::exportPublicKey(Handle<String>)` & node::Crypto::Certificte::exportChallenge(Handle<String>)` for working naively with SPKAC (Signed public key & challenges) coming from the HTML5 `keygen` element.
 
 ### JS API Changes
 
