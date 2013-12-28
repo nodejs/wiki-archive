@@ -968,6 +968,7 @@ rendering process.
 * [ursa](https://github.com/Obvious/ursa) — A clean and reasonably complete set of wrappers for OpenSSL's RSA functionality.
 * [xml-crypto](https://github.com/yaronn/xml-crypto) — Xml digital signature and encryption library for Node.js - written in pure javascript.
 * [apache-crypt](https://github.com/gevorg/apache-crypt) — Node.js module for Apache style password encryption using crypt(3).
+* [apache-md5](https://github.com/gevorg/apache-md5) — Node.js module for Apache style password encryption using md5.
 
 <a name="wiki-smtp"></a>
 ## [SMTP](#smtp)
