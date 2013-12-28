@@ -967,6 +967,7 @@ rendering process.
 * [speakeasy](https://github.com/markbao/speakeasy) — Easy two-factor authentication. Time-based or counter-based one-time passwords with the HMAC One-Time Password algorithms. Supports Google Authenticator.
 * [ursa](https://github.com/Obvious/ursa) — A clean and reasonably complete set of wrappers for OpenSSL's RSA functionality.
 * [xml-crypto](https://github.com/yaronn/xml-crypto) — Xml digital signature and encryption library for Node.js - written in pure javascript.
+* [apache-crypt](https://github.com/gevorg/apache-crypt) — Node.js module for Apache style password encryption using crypt(3).
 
 <a name="wiki-smtp"></a>
 ## [SMTP](#smtp)
