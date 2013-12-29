@@ -114,6 +114,14 @@ or packages on FreeBSD
 
     pkg_add -r node-devel
 
+Using [pkg-ng](https://wiki.freebsd.org/pkgng) on FreeBSD
+
+    pkg install node
+
+or the development versions 
+
+    pkg install node-devel
+
 ## OSX
 Using [a package](http://nodejs.org/#download)
 
