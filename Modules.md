@@ -813,6 +813,7 @@ rendering process.
 * [assemble](https://github.com/assemble/assemble) — Template engine and site generator for node.js. 
 * [asset-bundler](https://github.com/sergiok/asset-bundler) — pack and create asset bundles, organize your scripts and stylesheets in different packages.
 * [aspa](https://github.com/icflorescu/aspa) - An opinionated, lightweight asset packager enabling you to concatenate, compress and fingerprint your stylesheets and scripts during development / before deployment.
+* [aspax](http://aspax.github.io) - The simple Node.js asset packager (derived from ASPA).
 * [beholder](https://github.com/cmoncrief/beholder) — Robust cross-platform file watching with support for  globbing and large file sets.
 * [Brunch](https://github.com/brunch/brunch) - An assembler for HTML5 applications. It's agnostic to frameworks, libraries, programming, stylesheet & templating languages and backend technology.
 * [buildr](https://github.com/balupton/buildr.npm) — JavaScript project builder, compresses images, CSS and JS, bundles CSS and JS, checks JavaScript, supports subpackages/plugins
