@@ -16,7 +16,7 @@ For real-time discussion, check irc.freenode.net #node.js or Stack Overflow [cha
 * [Debuggable Blog](http://debuggable.com/blog) | Some articles on node.js
 * [Ryah's Blog](http://four.livejournal.com/)
 * [How To Node](http://howtonode.org/) | Tutorials related to node
-* [Setting up with Apache and Supervisord](http://bigbangtechnology.com/preview/installation_configuration_deployment_node.js_applications_on_media_temple) | Easy deployment
+* [Setting up with Apache and Supervisord](http://bigbangtechnology.com/preview/installation_configuration_deployment_node.js_applications_on_media_temple)          |  (Not Found )  Easy deployment  
 * [Blog.101Ideas.cz](http://blog.101ideas.cz/) | A lot of Node.js stuff there
 * [OSButler Blog](http://blog.osbutler.com/categories/node-by-example/) | Collection of simple node examples
 * [Codehenge Blog](http://codehenge.net/blog/tag/node-js/) | Some node.js examples and tutorials
