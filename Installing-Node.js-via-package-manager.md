@@ -17,20 +17,12 @@ For Debian Wheezy, you have two options:
     wget -N http://nodejs.org/dist/node-latest.tar.gz
     tar xzvf node-latest.tar.gz && cd node-v*
     ./configure
-    checkinstall --pkgversion 0.10.24  # Replace with current version number.
+    checkinstall -y --install=no --pkgversion 0.10.24  # Replace with current version number.
     sudo dpkg -i node_*
 
-#### Uninstall:
+#### Uninstall
 
     sudo dpkg -r node
-
-In case you get a permission denied on the `node` executable, an alternative path might be:
-
-    umask 0022
-    ./configure
-    make
-    checkinstall -D --umask 0022 --reset-uids --install=no
-    dpkg -i node_*.deb
 
 ### Backports
 
