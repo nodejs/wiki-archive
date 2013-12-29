@@ -6,8 +6,8 @@
 * [サーバサイドJavaScript Node.js入門(In Japanese)](http://www.amazon.co.jp/%E3%82%B5%E3%83%BC%E3%83%90%E3%82%B5%E3%82%A4%E3%83%89JavaScript-Node-js%E5%85%A5%E9%96%80-%E6%B8%85%E6%B0%B4%E4%BF%8A%E5%8D%9A/dp/4048703676/ref=sr_1_1?ie=UTF8&qid=1349928638&sr=8-1) -- by T Shimizu et al. 
 ## Sites
 
-* [NodeManual](http://www.nodemanual.org) -- by [Cloud9 IDE](http://www.c9.io), a fork of the official Node.js API documentation, with a different organization, examples you can run in the browser, and additional tutorials
-* [NodeBits](http://www.nodebits.org) -- by Tim Caswell, a site dedicated to keeping the NodeJS spirit of innovation and creativity alive. This is done by providing a constant stream of ideas and sample projects.
+* [NodeManual](http://www.nodemanual.org) (Not Operational) -- by [Cloud9 IDE](http://www.c9.io), a fork of the official Node.js API documentation, with a different organization, examples you can run in the browser, and additional tutorials
+* [NodeBits](http://www.nodebits.org) (Not Operational) -- by Tim Caswell, a site dedicated to keeping the NodeJS spirit of innovation and creativity alive. This is done by providing a constant stream of ideas and sample projects.
 * [justjs](http://justjs.com) -- by Tom Boutell. A blog featuring a series of node.js tutorials, starting with the basics of installing Node and MongoDB on your own computer and building from there into creating full-fledged node apps, beginning with the justjs.com blog itself.
 * [NodeCloud](http://www.nodecloud.org/) -- by [Frederic Cambus](http://www.cambus.net), an ordered Node.js resource directory allowing to evaluate relative popularity of a project.
 
@@ -17,7 +17,7 @@
 * [How to start develop with node js on linux from windows](http://wiki.github.com/shimondoodkin/nodejs-autorestart/how-to-start-develop-with-node-js-on-linux) -- by Shimon Doodkin
 * [pubsub](http://www.nonblocking.io/2009/06/scalable-pubsub-with-nodejs.html) -- by Malte Ubl
 * [Going Evented with Node.js](http://blog.nakedjavascript.com/going-evented-with-nodejs) -- Naked JavaScript 
-* [Node.js is genuinely exciting](http://simonwillison.net/2009/Nov/23/node/) -- by Simon Willison
+* [Node.js is genuinely exciting](http://simonwillison.net/2009/Nov/23/node/) (Not Found) -- by Simon Willison
 * [Unit testing in node.js](http://caolanmcmahon.com/unit_testing_nodejs.html) -- by Caolan McMahon
 * [Deploying Node.js with Upstart and Monit](http://howtonode.org/deploying-node-upstart-monit) -- by Tim Smart
 * [Deploying node.js with Upstart](http://caolanmcmahon.com/deploying_nodejs_applications_with_upstart.html) -- a few updates to the above article -- by Caolan McMahon
@@ -51,7 +51,7 @@
 * [SenchaLabs Connect & Express](http://www.slideshare.net/creationix/senchalabs-connect-express) -- By Tim Caswell (slideshare, 2010-09-20)
 * [Real Time Web with Node](http://www.slideshare.net/creationix/real-time-web-with-node) -- By Tim Caswell (slideshare, 2010-06-05)
 * [Node Powered Mobile](http://www.slideshare.net/creationix/node-powered-mobile) -- By Tim Caswell (slideshare, 2010-06-05)
-* [معرفی Node](http://weapi.org/fa/screencasts/15-introduction-to-nodejs) -- by Morteza Milani
+* [معرفی Node](http://weapi.org/fa/screencasts/15-introduction-to-nodejs)  (Not Operational)-- by Morteza Milani
 
 ## Demos
 
