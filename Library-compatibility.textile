@@ -4,6 +4,10 @@ h2. Node v0.11.2
 * "suspend: v0.1.0":https://github.com/jmar777/suspend
 * "galaxy: v0.1.1a":https://github.com/bjouhier/galaxy
 
+h2. Node v0.10.24
+* "aspax: v0.6.2":http://aspax.github.io
+* "aspax-express: v0.6.3":https://github.com/icflorescu/aspax-express
+
 h2. Node v0.10.18
 * "aspa: v0.4.0":https://github.com/icflorescu/aspa
 * "aspa-express: v0.4.0":https://github.com/icflorescu/aspa-express
