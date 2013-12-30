@@ -17,7 +17,7 @@ For Debian Wheezy, you have two options:
     wget -N http://nodejs.org/dist/node-latest.tar.gz
     tar xzvf node-latest.tar.gz && cd node-v*
     ./configure
-    checkinstall -y --install=no --pkgversion 0.10.24  # Replace with current version number.
+    sudo checkinstall -y --install=no --pkgversion 0.10.24  # Replace with current version number.
     sudo dpkg -i node_*
 
 #### Uninstall
