@@ -70,6 +70,14 @@ cd node-v0.6.18
 ./configure && make && sudo make install
 ```
 
+If you are installing on an illumos 64 bit system consider the following to enable dtrace support 
+
+```sh
+tar -zxf node-v0.6.18.tar.gz #Download this from nodejs.org
+cd node-v0.6.18
+./configure --with-dtrace --dest-cpu=x64 && make && sudo make install
+```
+
 Or, if you'd like to install from the repository
 
 ```sh
