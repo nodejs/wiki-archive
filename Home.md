@@ -1,27 +1,64 @@
-Welcome to the Wolf wiki! This wiki is a technical documentation for developers and testers, that describes a structure of the engine, rationalization of different hints and gives an API for extension of the engine.
+# Node.js community wiki
 
-Wolf engine consists of two parts: web client and server.
+**Current stable version is 0.10.** Please read [[Api changes between v0.8 and v0.10]], and update your programs accordingly.
 
-## Web client
+**Previous stable version is 0.8.** If you are still using 0.6, please read [[API changes between v0.6 and v0.8]].
 
-Web client allows to iteract with game servers via Web-browser. It visualises a world, received from the server and sends user input back to the server.
+## Introduction
 
-It is written on Dart, flexible object-oriented JavaScript analog. But it can be easily ported to JavaScript using Dart SDK.
+Node.js is a server-side JavaScript environment that uses an asynchronous event-driven model. This allows Node.js to get excellent performance based on the architectures of many Internet applications.
 
-**Related pages:**
+## Installation
 
-* [[Architecture]]
-* [[Network iteraction]]
-    * [[Client-server iteraction protocol]]
-* [[Visualisation]]
-* [[Sounds and audio]]
+The [[installation guide|Installation]] explains how to get started installing Node.js and the Node Package Manager (NPM) on your system.
 
-**API:**
+## FAQ
 
-* [[Viewport API]]
-* [[Renderable API]]
+The [[FAQ]] answers common questions people have about Node.js.
 
-## Game server
-Game server is a core of the game. It processes all game logic, physics, game events, actions of players and so on.
+## Users
 
-Server side is not implemented yet.
+Come talk to us in the **#node.js** IRC channel on [freenode.net](http://webchat.freenode.net/?channels=node.js&uio=d4) or on the [nodejs Google group](http://groups.google.com/group/nodejs).
+
+* [[Projects, Applications, and Companies using Node]]
+
+## Modules
+
+Most modules can be found by [searching the npm registry](http://search.npmjs.org/).
+
+Alternatively, use [nipster](http://eirikb.github.com/nipster/), or [toolbox](http://nodetoolbox.com/).
+
+## Hosting
+
+* [[Managed providers, Self-Managed and DIY Platforms|Node Hosting]]
+
+## Resources
+
+Besides the documentation on the [official site](http://nodejs.org) here are links to [[other resources|Resources]].
+
+## Project Organization
+
+* [[Information about who runs the project|Project Organization]].
+
+## ChangeLog
+
+Node releases a new version every one or two weeks. The ChangeLog can always be found [here](https://github.com/joyent/node/blob/master/ChangeLog).
+
+## The Future
+* [[API changes between v0.10 and v0.12]]
+* [[ECMA 5 Mozilla Features Implemented in V8]]
+* [[ES6 (a.k.a. Harmony) Features Implemented in V8 and Available in Node]]
+
+## Contributing
+
+See the [[Contributing]] page.
+
+## API Documents
+
+See the current [API Doc](http://nodejs.org/api/) page.
+
+For previous versions, see [Documentation Index](http://nodejs.org/docs) page.
+
+## Logos
+
+* [[Official and Community Logos|Logos]]
