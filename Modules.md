@@ -788,6 +788,7 @@ rendering process.
 * [DocPad](https://github.com/bevry/docpad) — is a language agnostic document management system. It's actively maintained and supported by a growing community. It's also modular; so easy to extend and use in bigger systems. It already supports lots of markups and pre-processors through [available plugins](https://github.com/bevry/docpad/wiki/Plugins) and [powers many websites](https://github.com/bevry/docpad/wiki/Showcase).
 * [Enfield](https://github.com/fortes/enfield) - Static site / blog generator that aims to be as compatible as possible with Jekyll, only with JS/CoffeeScript plugins instead of Ruby.
 * [jslardo](https://github.com/obliquid/jslardo) — A Social CMS, where users are able to register to the application, create their own models (mongoose schemas), views, controllers, websites and pages. Work in progress, keep updated!
+* [KeystoneJS](http://keystonejs.com/) - Flexible CMS / framework built on Express and MongoDB. It builds an Admin UI based on your models, and reduces boilerplate code.
 * [LooseLeaf](http://looseleafjs.org/) — Very simple blogging engine based on express, no-DataBase, only JSON.
 * [MCMS](https://github.com/olegp/mcms) — A Minimal CMS using GitHub flavored Markdown, Mustache templates and the filesystem.
 * [MuContent](https://github.com/anddimario/mucontent) — MuContent is a multisite and multilanguage cms in Javascript (Node.js) written with a central proxy for balancing the request on multiple client. Based on MongoDB for storage all content. Themes are based on Foundation framework and mustache.
