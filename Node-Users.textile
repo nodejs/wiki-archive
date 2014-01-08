@@ -785,6 +785,8 @@ h2. UTC+1 (+2)
 ** "GitHub":https://github.com/JakubMrozek, "Website":http://www.ronnieweb.net, "Twitter":http://twitter.com/cznodejs
 * François Parmentier (parmentf), Nancy, France
 ** "GitHub":http://github.com/parmentf, "Twitter":http://twitter.com/parmentf, "G+":https://plus.google.com/u/0/108420454149741066109/about
+* Willem D'Haeseleer, Belgium
+** "GitHub":http://github.com/helmus, "Twitter":https://twitter.com/WillemD
 
 h2. UTC+2 (+3)
 
