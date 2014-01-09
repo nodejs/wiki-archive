@@ -42,7 +42,7 @@ Obtaining a recent version of Node or installing on older Ubuntu and other apt-b
 
     sudo apt-get update
     sudo apt-get install -y python-software-properties python g++ make
-    sudo add-apt-repository -y ppa:chris-lea/node.js
+    sudo add-apt-repository ppa:chris-lea/node.js
     sudo apt-get update
     sudo apt-get install nodejs
 
