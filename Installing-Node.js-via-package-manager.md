@@ -18,6 +18,7 @@ For Debian Wheezy, you have two options:
     tar xzvf node-latest.tar.gz && cd node-v*
     ./configure
     sudo checkinstall -y --install=no --pkgversion 0.10.24  # Replace with current version number.
+    # optionally append " -- make -jx install" to the previous line and replace x with number of cores.
     sudo dpkg -i node_*
 
 #### Uninstall
