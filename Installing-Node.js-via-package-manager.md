@@ -119,6 +119,10 @@ Using [a package](http://nodejs.org/#download)
 
 > Simply [download Macintosh Installer](http://nodejs.org/#download).
 
+Using [Fink](http://www.finkproject.org):
+
+    fink install nodejs
+
 Using [homebrew](https://github.com/mxcl/homebrew):
 
     brew install node
