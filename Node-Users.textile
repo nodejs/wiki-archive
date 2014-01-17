@@ -1050,6 +1050,8 @@ h2. UTC+8
 ** "GitHub":http://github.com/yuanchuan, "Blog":http://yuanchuan.name, "Weibo":http://weibo.com/spirit23
 * Xiuyu Li (nickleefly), Shanghai, China
 ** "GitHub":http://github.com/nickleefly, "Twitter":http://twitter.com/nickleefly, "Blog":http://nickleefly.github.com
+* Lance He (indigofeather), Taichung, Taiwan
+** "GitHub":http://github.com/indigofeather, "Twitter":http://twitter.com/indigofeather
 
 h2. UTC+9
 
