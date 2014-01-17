@@ -926,7 +926,8 @@ h2. UTC+5
 ** "Github":https://github.com/captn3m0, "Blog":http://captnemo.in/
 * Manan Vaghasiya (mananvaghasiya), India
 ** "Twitter":https://twitter.com/manan2tweet, "Github":https://github.com/mananvaghasiya 
-
+* Ruben Yeghikyan
+** "Twitter":https://twitter.com/RUBENYEGHIKYAN
 
 h2. UTC+6
 
