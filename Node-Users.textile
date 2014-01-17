@@ -181,8 +181,9 @@ h2. UTC-8
 * William Wicks (wwicks), Oakland, CA, US
 ** "GitHub":https://github.com/williamwicks/, "Twitter":http://twitter.com/williamwicks/
 * Trevor Norris (trevnorris)
-** "GitHub":https://github.com/trevnorris/, "Twitter":https://twitter.com/trevnorris,
-"WebSite":http://trevorjnorris.com
+** "GitHub":https://github.com/trevnorris/, "Twitter":https://twitter.com/trevnorris, "WebSite":http://trevorjnorris.com
+* Bryan English (bengl), San Francisco, CA, USA
+** "GitHub":http://github.com/bengl, "Twitter":http://twitter.com/bengl, "Website":https://bryanenglish.com
 
 h2. UTC-7 (-6)
 
@@ -318,8 +319,6 @@ h2. UTC-5 (-4)
 ** "GitHub":http://github.com/arlolra, "Twitter":http://twitter.com/arlolra, "Website":http://thoughtherder.com
 * Camilo Aguilar (c4milo), Medellin, Colombia
 ** "GitHub":http://github.com/c4milo, "Twitter":http://twitter.com/c4milo
-* Bryan English (bengl), Ottawa, ON, Canada
-** "GitHub":http://github.com/bengl, "Twitter":http://twitter.com/bengl, "Website":http://bengl.net
 * Rob Righter (robrighter), Chattanooga, TN
 ** "GitHub":http://github.com/robrighter, "Twitter":http://twitter.com/robrighter, "Website":http://robrighter.com
 * Scott Gonzalez (scott_gonzalez)
