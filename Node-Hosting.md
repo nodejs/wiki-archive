@@ -48,6 +48,7 @@ VPS providers, which often require you to set everything up yourself, including 
 * [GleSYS](http://glesys.com/vps.php)
 * [HP Cloud] (https://www.hpcloud.com)
 * [Host Europe](http://www.hosteurope.de)
+* [Host Gator] (http://www.hostgatortalk.com)
 * [IPAP](http://ipap.co) - Consult the many comments at [lowendbox](http://www.lowendbox.com/) before considering these guys…
 * [Joyent](http://www.joyentcloud.com/products/appliances/nodejs-smartmachine/)
 * [Linode](http://www.linode.com)
