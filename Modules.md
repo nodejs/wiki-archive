@@ -1290,6 +1290,7 @@ rendering process.
 * [easy-app](https://github.com/eldargab/easy-app) — Simple and powerful javascript-ish container
 * [rewire](https://github.com/jhnns/rewire) — Dependency injection for node.js applications
 * [dependable](https://github.com/idottv/dependable) - Automatic dependency resolution without tweaking require
+* [dips](https://github.com/devcrust/node-dips) - A simple yet powerfull dependency injection and entity (file) management framework for Node.js
 * [Medic Injector](https://github.com/DrBenton/Medic-Injector-JS) - A light-weight Javascript Dependency Injection tool, strongly inspired by the great ActionScript3 [RobotLegs](http://www.robotlegs.org/) framework and it SwiftSuspenders IoC container
 * [minioc](https://github.com/flitbit/minioc) - A miniature, conventions-based IoC container supporting dependency injection for factories and constructors.
 * [inverted](https://github.com/philmander/inverted) Inversion of Control container
