@@ -423,6 +423,8 @@ h2. UTC-5 (-4)
 ** "Github":http://github.com/aurigadl, "Website":http://empresarialhd.co/
 * Dave Longley (dlongley), Blacksburg, VA, US
 ** "Github":http://github.com/dlongley
+* Jeremiah Senkpiel (Fishrock123), Toronto, ON, Canada
+** "Github":http://github.com/Fishrock123, "Twitter":http://twitter.com/fishrock123, "Website":https://searchbeam.jit.su/
 
 h2. UTC-4 (-3)
 
