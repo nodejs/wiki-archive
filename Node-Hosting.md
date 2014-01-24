@@ -45,6 +45,7 @@ VPS providers, which often require you to set everything up yourself, including 
 * [Digital Ocean](https://www.digitalocean.com/) - $5/mo. SSD VPS, New York and Amsterdam
 * [DreamHostPS](http://www.dreamhost.com/hosting-vps.html) - Need a total reconfiguration of virtual machines
 * [Gandi](http://en.gandi.net/hosting)
+* [Google Compute Enginge](https://cloud.google.com/products/compute-engine/)
 * [GleSYS](http://glesys.com/vps.php)
 * [HP Cloud] (https://www.hpcloud.com)
 * [Host Europe](http://www.hosteurope.de)
