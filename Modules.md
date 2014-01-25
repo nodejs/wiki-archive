@@ -445,8 +445,7 @@ This module is inspired by impressive but abandoned project [Cluster](https://gi
 <a name="wiki-db-ibm_db2"></a>
 ### [IBM DB2](#db-ibm_db2)
 
-* [node-odbc](https://github.com/wankdanker/node-odbc) — A generic ODBC driver for node.js
-* [db2.js](https://npmjs.org/package/db2) — A node.js driver for DB2
+* [ibm_db](https://github.com/ibmdb/node-ibm_db/) — IBM supported node module for IBM DB2 and Informix
 
 <a name="wiki-db-mssql"></a>
 ### [MS SQL Server](#db-mssql)
