@@ -13,12 +13,12 @@ For Debian Wheezy, you have two options:
 ### Build from source
 
     sudo apt-get install python g++ make checkinstall
-    mkdir ~/src && cd $_
+    src=$(mktemp -d) && cd $src
     wget -N http://nodejs.org/dist/node-latest.tar.gz
     tar xzvf node-latest.tar.gz && cd node-v*
     ./configure
-    sudo checkinstall -y --install=no --pkgversion 0.10.24  # Replace with current version number.
-    # optionally append " -- make -jx install" to the previous line and replace x with number of cores.
+    sudo checkinstall -y --install=no --pkgversion 0.10.25  # Replace with current version number.
+    # optionally append " -- make -jx install" to the previous line and replace x with the number of CPU cores plus one.
     sudo dpkg -i node_*
 
 #### Uninstall
