@@ -66,7 +66,7 @@ Example install on openSUSE 12.1:
 
 [Node.js](https://apps.fedoraproject.org/packages/nodejs) and [npm](https://apps.fedoraproject.org/packages/npm) are available in Fedora 18 and later.  Just use your favorite graphical package manager or run this on a terminal to install both npm and node:
 
-    sudo yum install npm
+    sudo yum install nodejs npm
 
 ## RHEL/CentOS/Scientific Linux 6
 
