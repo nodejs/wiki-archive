@@ -184,6 +184,8 @@ h2. UTC-8
 ** "GitHub":https://github.com/trevnorris/, "Twitter":https://twitter.com/trevnorris, "WebSite":http://trevorjnorris.com
 * Bryan English (bengl), San Francisco, CA, USA
 ** "GitHub":http://github.com/bengl, "Twitter":http://twitter.com/bengl, "Website":https://bryanenglish.com
+* Jeff Chao, San Francisco, CA, USA
+** "GitHub":http://github.com/jeffchao, "Twitter":http://twitter.com/thejeffchao, "Website":http://thejeffchao.com
 
 h2. UTC-7 (-6)
 
