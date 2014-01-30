@@ -908,6 +908,8 @@ h2. UTC+3 (+4)
 
 h2. UTC+5
 
+* Kushal Likhi, India
+** "GitHub":https://github.com/kushal-likhi", Twitter":https://twitter.com/KushalLikhi
 * M S Rishikesh (msrishikesh), India
 ** "Twitter":http://twitter.com/msrishikesh, "GitHub":http://github.com/msrishikesh, "GitHub":http://github.com/OneNode, "Website":http://msrishikesh.co.de/, "Atom":http://atom.atommic.co.de/r
 * Nikhil Marathe (nsm), India
