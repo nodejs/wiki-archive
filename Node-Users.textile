@@ -942,6 +942,8 @@ h2. UTC+5
 ** "Twitter":https://twitter.com/manan2tweet, "Github":https://github.com/manV 
 * Ruben Yeghikyan
 ** "Twitter":https://twitter.com/RUBENYEGHIKYAN
+* Abdul Munim Kazia (Munim), India
+** "Twitter":https://twitter.com/munimkazia, "Github":https://github.com/munimkazia, "Web":http://munimkazia.com
 
 h2. UTC+6
 
