@@ -1070,6 +1070,8 @@ h2. UTC+8
 ** "GitHub":http://github.com/indigofeather, "Twitter":http://twitter.com/indigofeather
 * Fangruei Syu (beck), Taichung, Taiwan
 ** "GitHub":https://github.com/fangrui625
+* Maziyar Panahi (maziyar_sh), Kuala Lumpur, Malaysia
+** "GitHub":http://github.com/maziyarpanahi, "Website":http://maziyar.me", Twitter":http://twitter.com/Maziyar_sh
 
 h2. UTC+9
 
