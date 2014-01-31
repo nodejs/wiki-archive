@@ -586,6 +586,8 @@ h2. UTC±0 (+1)
 
 h2. UTC+1 (+2)
 
+* Jakob Mattsson, Stockholm, Sweden
+** "GitHub":http://github.com/jakobmattsson, "Twitter":http://twitter.com/jakobmattsson, "Website":http://jakobm.com
 * Andreas Madsen, Denmark
 ** "GitHub":https://github.com/AndreasMadsen
 * Travis Dunn (travisdunn), Amsterdam, The Netherlands
