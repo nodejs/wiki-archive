@@ -1071,7 +1071,7 @@ h2. UTC+8
 * Fangruei Syu (beck), Taichung, Taiwan
 ** "GitHub":https://github.com/fangrui625
 * Maziyar Panahi (maziyar_sh), Kuala Lumpur, Malaysia
-** "GitHub":http://github.com/maziyarpanahi, "Website":http://maziyar.me", Twitter":http://twitter.com/Maziyar_sh
+** "GitHub":http://github.com/maziyarpanahi, "Twitter":http://twitter.com/Maziyar_sh, "Website":http://maziyar.me
 
 h2. UTC+9
 
