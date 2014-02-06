@@ -586,7 +586,7 @@ h2. UTC±0 (+1)
 
 h2. UTC+1 (+2)
 
-* Bastian Krol, Dortmund, Germany
+* Bastian Krol (basti1302), Dortmund, Germany
 ** "GitHub":https://github.com/basti1302, "Twitter":https://twitter.com/bastiankrol
 * Jakob Mattsson, Stockholm, Sweden
 ** "GitHub":http://github.com/jakobmattsson, "Twitter":http://twitter.com/jakobmattsson, "Website":http://jakobm.com
