@@ -76,13 +76,9 @@ To check if you have EPEL, run
 
     yum repolist
 
-if you don't see epel, download it (At the time of this writing, the last version is 6.8.)
+if you don't see epel, install it via RPM (At the time of this writing, the last version is 6.8.)
 
-    curl -O http://download-i2.fedoraproject.org/pub/epel/6/i386/epel-release-6-8.noarch.rpm
-
-then install it
-
-    sudo rpm -ivh epel-release-6-8.noarch.rpm
+    rpm -Uvh http://download-i2.fedoraproject.org/pub/epel/6/i386/epel-release-6-8.noarch.rpm
 
 And then run the following command to install node and npm:
 
