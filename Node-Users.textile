@@ -583,6 +583,8 @@ h2. UTC±0 (+1)
 ** "Github":https://github.com/roylines, "Twitter":http://twitter.com/roylinesuk, "Website":http://roylines.co.uk
 * whiskers75 (whiskers75), UK
 ** "Github":https://github.com/whiskers75, "Twitter":http://twitter.com/whiskers75, "Website":http://whiskers75.com
+* Gergely Nemeth (gergelyke), Hungary
+** "GitHub":http://github.com/gergelyke, "Twitter":http://twitter.com/nthgergo
 
 h2. UTC+1 (+2)
 
