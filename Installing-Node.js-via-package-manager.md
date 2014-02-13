@@ -30,7 +30,7 @@ Alternatively, you can install `nodejs` from [`wheezy-backports`](backports.debi
 
 If you need `npm` as well, you can get it through the installer
 
-    curl https://npmjs.org/install.sh | sudo sh
+    curl https://www.npmjs.org/install.sh | sudo sh
 
 ## Ubuntu, Mint, elementary OS
 
