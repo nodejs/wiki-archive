@@ -34,7 +34,7 @@ If you need `npm` as well, you can get it through the installer
 
 ## Ubuntu, Mint, elementary OS
 
-At Least from Ubuntu 12.04, an old version (0.6.x) of Node is in the standard repository. To install, just run:
+From Ubuntu 12.04 to 13.04, an old version (0.6.x) of Node is in the standard repository. To install, just run:
 
     sudo apt-get install nodejs
 
@@ -46,7 +46,7 @@ Obtaining a recent version of Node or installing on older Ubuntu and other apt-b
     sudo apt-get update
     sudo apt-get install nodejs
 
-It installs current stable Node on the current stable Ubuntu. Quantal (12.10) users may need to install the *software-properties-common* package for the `add-apt-repository` command to work: `sudo apt-get install software-properties-common`
+It installs current stable Node on the current stable Ubuntu. 12.10 and 13.04 users may need to install the *software-properties-common* package for the `add-apt-repository` command to work: `sudo apt-get install software-properties-common`
 
 As of Node.js v0.10.0, the nodejs package from [Chris Lea](https://chrislea.com/2013/03/15/upgrading-from-node-js-0-8-x-to-0-10-0-from-my-ppa/)'s repo includes both npm and nodejs-dev.
 
