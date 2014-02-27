@@ -523,6 +523,8 @@ h2. UTC±0 (+1)
 ** "Website":http://beebo.org/, "GitHub":http://github.com/ithinkihaveacat, "Twitter":http://twitter.com/ithinkihaveacat
 * James Coglan
 ** "Website":http://jcoglan.com/, "Blog":http://blog.jcoglan.com/, "GitHub":http://github.com/jcoglan
+* Julien Brun
+** "Website":http://www.julienbrun.co.uk/, "Twitter":http://twitter.com/julienbrunuk, "GitHub":http://github.com/julienbrunuk
 * Duncan Cragg
 ** "Website":http://duncan-cragg.org/blog/, "GitHub":http://github.com/duncancragg, "Twitter":http://twitter.com/duncancragg
 * Craig Webster (CraigW)
