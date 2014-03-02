@@ -804,6 +804,8 @@ h2. UTC+1 (+2)
 ** "GitHub":http://github.com/parmentf, "Twitter":http://twitter.com/parmentf, "G+":https://plus.google.com/u/0/108420454149741066109/about
 * Willem D'Haeseleer, Belgium
 ** "GitHub":http://github.com/helmus, "Twitter":https://twitter.com/WillemD
+* Bran van der Meer, Rotterdam, Netherlands
+** "GitHub":http://github.com/branneman, "Twitter":http://twitter.com/branmovic, "Website":http://bran.name/
 
 h2. UTC+2 (+3)
 
