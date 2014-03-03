@@ -1274,6 +1274,7 @@ rendering process.
 * [testosterone](https://github.com/masylum/testosterone) — Virile testing for http servers or any nodejs application.
 * [Tobi](https://github.com/LearnBoost/tobi) — Expressive server-side functional testing with jQuery.
 * [twerp](https://github.com/philjackson/twerp) — Simple test framework which is suited to Coffeescript users. Synchronous, simple and easy.
+* [Unit.js](https://github.com/unitjs/unit.js) — Simple and flexible unit testing framework, can be used with any other testing framework (Mocha, Jasmine, ...).
 * [uubench](https://github.com/akdubya/uubench) — A tiny asynchronous JavaScript benchmarking library
 * [vbench](https://github.com/visionmedia/vbench) — tiny visual benchmarking library powered by uubench and node-canvas
 * [Vows](https://github.com/cloudhead/vows) — asynchronous behaviour-driven development for node.js
