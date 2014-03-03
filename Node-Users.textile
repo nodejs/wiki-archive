@@ -806,6 +806,8 @@ h2. UTC+1 (+2)
 ** "GitHub":http://github.com/helmus, "Twitter":https://twitter.com/WillemD
 * Bran van der Meer, Rotterdam, Netherlands
 ** "GitHub":http://github.com/branneman, "Twitter":http://twitter.com/branmovic, "Website":http://bran.name/
+* Marco Del Tongo (logicoder), Lugano, Switzerland
+** "GitHub":https://github.com/logicoder, "Twitter":https://twitter.com/logicoder</code>, "LinkedIN":https://linkedin.com/in/marcodeltongo</code></pre>
 
 h2. UTC+2 (+3)
 
