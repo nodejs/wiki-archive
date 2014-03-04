@@ -225,7 +225,8 @@ h2. UTC-7 (-6)
 ** "GitHub":http://github.com/fmahnke/, "Twitter":http://twitter.com/fmahnke/
 
 h2. UTC-6 (-5)
-
+* Ricky Sanchez (ricky), Austin, TX, US
+** "GitHub":http://github.com/ricardodsanchez, "Twitter":http://twitter.com/ricky, "Website":http://ricardodsanchez.com
 * Carter Cole (neopunisher), Houston, TX, US
 ** "GitHub":http://github.com/neopunsher, "Twitter":http://twitter.com/cartercole, "Website":http://cartercole.com
 * Bradley Meck (bradleymeck), Austin, TX, US
