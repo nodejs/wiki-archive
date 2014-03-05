@@ -290,6 +290,8 @@ h2. UTC-6 (-5)
 
 h2. UTC-5 (-4)
 
+* Mike Barlow (mwbarlow)
+** "Twitter":http://twitter.com/MWBInJersey, "Website":http://www.mwbarlow.com
 * Aleksandr Yampolskiy (yampolskiy)
 ** "GitHub":http://github.com/cinchcast, "Twitter":http://twitter.com/ayampolskiy, "Website":http://www.ctothoughts.com
 * Nicholas Penree (drudge)
