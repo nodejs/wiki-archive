@@ -717,6 +717,7 @@ This module is inspired by impressive but abandoned project [Cluster](https://gi
 * [minimal.js](https://github.com/ruidlopes/minimal.js) — a fast HTML+JSON template engine (both browser and Node.js compatible)
 * [MinnaHtml.js](https://github.com/RobeeeJay/MinnaHTML.js) - An async aware object based HTML template library
 * [Mu (Mustache)](https://github.com/raycmorgan/Mu) — A Mustache engine that compiles templates into very fast rendering functions. Also streams the
+* [MustLayout](https://github.com/mytharcher/mustlayout) - A layout and partials pre-compile tool for mustache based template engine using in express.js
 * [node-dom](https://github.com/Ayms/node-dom) — Javascript fast W3C DOM generation.
 * [node-jst](https://github.com/shaunlee/node-jst) — A pretty high performance template engine implemented with JavaScript. [Express](http://expressjs.com) compliant
 * [node-pages](https://github.com/tasogarepg/node-pages) — A simple template engine. Cacheable and Trackable.
