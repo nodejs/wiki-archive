@@ -186,7 +186,7 @@ h2. UTC-8
 ** "GitHub":http://github.com/bengl, "Twitter":http://twitter.com/bengl, "Website":https://bryanenglish.com
 * Jeff Chao, San Francisco, CA, USA
 ** "GitHub":http://github.com/jeffchao, "Twitter":http://twitter.com/thejeffchao, "Website":http://thejeffchao.com
-* Sam Thompson (samt), Sacramento CA, USA
+* Sam Thompson (Sam-T), Sacramento CA, USA
 ** "GitHub":http://github.com/samt, "Twitter":http://twitter.com/samdtho, "Website":http://samt.us
 
 h2. UTC-7 (-6)
