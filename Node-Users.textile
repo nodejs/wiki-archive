@@ -505,6 +505,8 @@ h2. UTC±0 (0)
 ** "GitHub":http://github.com/Soarez, "Twitter":http://twitter.com/igorsoarez
 * João Henriques, Portugal
 ** "GitHub":http://github.com/jfhenriques, "Twitter":http://twitter.com/jfhenriques
+* Jorge Silva, Portugal
+** "Website":http://www.jorgesilva.co, "GitHub":http://github.com/jorgemsrs, "Twitter":http://twitter.com/jorgemsrs
 
 h2. UTC±0 (+1)
 
