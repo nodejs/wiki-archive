@@ -1705,6 +1705,7 @@ rendering process.
 <a name="wiki-graphics"></a>
 ## [Graphics](#graphics)
 
+* [ribs](https://github.com/ngryman/ribs) - Read, write, process and serve responsive images.
 * [png-word](https://github.com/brighthas/png-word) - When give a text word , then create a png.(pure javascript no C)
 * [validat-num-demo](https://github.com/brighthas/validat-num-demo) - validat number demo.(pure javascript no C)
 * [alleup](https://github.com/tih-ra/alleup) - Flexible way to resize and upload images to Amazon S3 or file system storages
