@@ -40,11 +40,9 @@ From Ubuntu 12.04 to 13.04, an old version (0.6.x) of Node is in the standard re
 
 Obtaining a recent version of Node or installing on older Ubuntu and other apt-based distributions may require a few extra steps. Example install:
 
-    sudo apt-get update
-    sudo apt-get install -y python-software-properties python g++ make
     sudo add-apt-repository ppa:chris-lea/node.js
     sudo apt-get update
-    sudo apt-get install nodejs
+    sudo apt-get install python-software-properties python g++ make nodejs
 
 It installs current stable Node on the current stable Ubuntu. 12.10 and 13.04 users may need to install the *software-properties-common* package for the `add-apt-repository` command to work: `sudo apt-get install software-properties-common`
 
