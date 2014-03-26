@@ -44,7 +44,9 @@ Obtaining a recent version of Node or installing on older Ubuntu and other apt-b
     sudo apt-get update
     sudo apt-get install python-software-properties python g++ make nodejs
 
-It installs current stable Node on the current stable Ubuntu. 12.10 and 13.04 users may need to install the *software-properties-common* package for the `add-apt-repository` command to work: `sudo apt-get install software-properties-common`
+It installs current stable Node on the current stable Ubuntu. 12.10 and 13.04 users may need to install the *software-properties-common* package for the `add-apt-repository` command to work: `sudo apt-get install software-properties-common`. 
+
+The command `add-apt-repository` is actually provided by the *python-software-properties* package. So you will have to install this one as well `sudo apt-get install python-software-properties`.
 
 As of Node.js v0.10.0, the nodejs package from [Chris Lea](https://chrislea.com/2013/03/15/upgrading-from-node-js-0-8-x-to-0-10-0-from-my-ppa/)'s repo includes both npm and nodejs-dev.
 
