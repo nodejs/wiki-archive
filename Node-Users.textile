@@ -486,6 +486,8 @@ h2. UTC-3 (-2)
 ** "GitHub":https://github.com/pepoviola, "Twitter":https://twitter.com/pepoviola
 * Dan Zajdband (danzajdband), Buenos Aires, Argentina
 ** "GitHub":https://github.com/danzajdband, "Twitter":https://twitter.com/dzajdband
+* Paulo Pires (paulohp), São Paulo, Brazil
+** "GitHub":https://github.com/paulohp, "Twitter":https://twitter.com/paulo_hp, "Website":http://paulopires.co
 
 h2. UTC±0 (0)
 
