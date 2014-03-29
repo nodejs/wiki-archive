@@ -33,7 +33,7 @@ Of course, if you don't use [Pathogen](http://www.vim.org/scripts/script.php?scr
 * [tComment](http://www.vim.org/scripts/script.php?script_id=1173) auto comment
 * [NERD_Commenter](http://www.vim.org/scripts/script.php?script_id=1218) auto comment
 * [JavaScriptIndent](http://www.vim.org/scripts/script.php?script_id=3081) web-indent - Javascript indenter (HTML indent is included) [somewhat buggy, clicking tab won't indent]
-* [vim-beautify](https://github.com/maksimr/vim-jsbeautify) beautify based on `.editorconfig`
+* [vim-jsbeautify](https://github.com/maksimr/vim-jsbeautify) beautify based on `.editorconfig`
 * [esformatter](https://gist.github.com/nisaacson/6939960) Javascript indenting. Handles promise chains correctly while other indenters do not. 
 
 ## Snippets
