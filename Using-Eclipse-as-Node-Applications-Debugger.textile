@@ -1,10 +1,10 @@
 First, there is new "Nodeclipse":http://www.nodeclipse.org/ project, that lets to create, edit and debug Node.js application in fully integrated way. It uses modified "Eclipse debugger plugin for V8":http://code.google.com/p/chromedevtools/ (with some bugs below fixed). The usage is much simplified (right-click .js file Debug As-> Node Application). Old information below is left for referenced as node is the same.
 
 "Eclipse debugger plugin for V8":http://code.google.com/p/chromedevtools/ can be easily used to debug node scripts. (On OSX 10.5 the plugin requires an Eclipse 64 bit Version, started with Java SE 6). The V8 engine provides debugging support by enabling attachment of the remote debugger on a TCP port (5858 is node's default). There are 2 debug related node options:
-```txt
+```bash
 node --debug[=port] NodeApp.js
 ```
-```txt
+```bash
 node --debug-brk[=port] NodeApp.js
 ```
 The  @--debug@ option will just enable remote debugger connection on given port and then start the application normally. Even when debugger is connected to the running node instance later on, the script execution will not be stopped until "Suspend" command is issued by Eclipse debugger. Another way to stop the execution is to browse the source code of the JavaScript modules comprising the application and double click on the line number at the desired position in script to break at (most likely a callback). Once execution stops you can set/clear more breakpoints, but also inspect call stack and view content of all program variables.
