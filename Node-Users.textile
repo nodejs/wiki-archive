@@ -926,6 +926,8 @@ h2. UTC+3 (+4)
 ** "GitHub":http://github.com/avz
 * Alex Movsisyan, Yerevan, Armenia
 ** "GitHub":http://github.com/konteck
+* Khalid Lafi (lafikl), Riyadh, Saudi Arabia
+** "Twitter":http://twitter.com/lafikl, "GitHub":http://github.com/lafikl/
 
 h2. UTC+5
 
