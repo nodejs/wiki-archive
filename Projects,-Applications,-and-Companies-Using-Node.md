@@ -265,6 +265,7 @@ YinzCam Inc.|<a href="http://yinzcam.com" target="_blank"><img src='http://uploa
 Ylastic|<a href="http://ylastic.com/" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;ylastic.com</a>| uses node for report processing and admin app
 Yupana|<a href="http://yupana.com/" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;yupana.com</a>| node.js is the basis of our framework (collaborative accounting apps)
 Zumba Fitness|<a href="http://www.zumba.com" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;www.zumba.com</a>|Uses gruntjs to run several pre-commit tasks, and frisbyjs for testing their APIs
+Sourcey|<a href="http://www.sourcey.com" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;www.sourcey.com</a>|Node.js is used in a number of our open source projects including Symple and LibSourcey.
 
 
 
@@ -365,7 +366,7 @@ WebIRC|<a href="http://github.com/pavben/WebIRC" target="_blank"><img src="http:
 wtfjs|<a href="http://github.com/brianleroux/wtfjs" target="_blank"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png" width="12px" height="12px"/>&nbsp;brianleroux/wtfjs</a>|what the fuck javascript!
 yamr|<a href="http://github.com/poops/yamr" target="_blank"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png" width="12px" height="12px"/>&nbsp;poops/yamr</a>|The open source multi-user/multi-room chat application used by [yamr.net](http://yamr.net).
 zztmmo|<a href="http://github.com/marak/zztmmo" target="_blank"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png" width="12px" height="12px"/>&nbsp;marak/zztmmo</a>|a zzt based massive multiplayer online game built in node.js and<br/>jQuery _(currently only single player)_
-
+Symple Server|<a href="https://github.com/sourcey/symple-server-node" target="_blank"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png" width="12px" height="12px"/>&nbsp;sourcey/symple-server-node</a>|The Symple node.js server connects clients and routes messages using the Symple protocol.
 
 ## Websites and Applications
 
