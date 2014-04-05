@@ -265,7 +265,7 @@ YinzCam Inc.|<a href="http://yinzcam.com" target="_blank"><img src='http://uploa
 Ylastic|<a href="http://ylastic.com/" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;ylastic.com</a>| uses node for report processing and admin app
 Yupana|<a href="http://yupana.com/" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;yupana.com</a>| node.js is the basis of our framework (collaborative accounting apps)
 Zumba Fitness|<a href="http://www.zumba.com" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;www.zumba.com</a>|Uses gruntjs to run several pre-commit tasks, and frisbyjs for testing their APIs
-Sourcey|<a href="http://www.sourcey.com" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;www.sourcey.com</a>|Node.js is used in a number of our open source projects including Symple and LibSourcey.
+Sourcey|<a href="http://sourcey.com" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;sourcey.com</a>|Node.js is used in a number of our open source projects including Symple and LibSourcey.
 
 
 
