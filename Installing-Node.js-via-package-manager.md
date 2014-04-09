@@ -84,7 +84,7 @@ First import the key:
 
 Then install
 
-    rpm -Uvh http://download-i2.fedoraproject.org/pub/epel/6/i386/epel-release-6-8.noarch.rpm
+    sudo rpm -Uvh http://download-i2.fedoraproject.org/pub/epel/6/i386/epel-release-6-8.noarch.rpm
 
 And then run the following command to install node and npm:
 
