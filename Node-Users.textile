@@ -971,6 +971,8 @@ h2. UTC+5
 ** "Twitter":https://twitter.com/munimkazia, "Github":https://github.com/munimkazia, "Web":http://munimkazia.com
 * Suroor Wijdan, India
 ** "GitHub":https://github.com/suroorwijdan, "Twitter":https://twitter.com/wotthetech
+* Akshay Agarwal, India
+** "GitHub":https://github.com/akshayagarwal, "Website":http://akshayagarwal.in, "Twitter":https://twitter.com/inspiringakshay
 
 h2. UTC+6
 
