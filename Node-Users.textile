@@ -896,6 +896,8 @@ h2. UTC+2 (+3)
 
 h2. UTC+3 (+4)
 
+* Irfan Durmus (irfaN) Dubai, UAE
+** "GitHub":http://github.com/irfan, "Twitter":http://twitter.com/irfandurmus, "Website":http://irfandurmus.com
 * Akzhan Abdulin, Moscow, Russia
 ** "GitHub":http://github.com/akzhan
 * Serge Shirokov (Kuroki Kaze), Russia
