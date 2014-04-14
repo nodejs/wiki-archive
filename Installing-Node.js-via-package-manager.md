@@ -12,7 +12,7 @@ For Debian Wheezy, you have two options:
 
 ### Build from source
 
-    sudo apt-get install python g++ make checkinstall
+    sudo apt-get install python g++ make checkinstall fakeroot
     src=$(mktemp -d) && cd $src
     wget -N http://nodejs.org/dist/node-latest.tar.gz
     tar xzvf node-latest.tar.gz && cd node-v*
