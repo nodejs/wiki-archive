@@ -1183,6 +1183,7 @@ rendering process.
 <a name="wiki-class-system"></a>
 ## [Class systems](#class-system)
 
+* [jTypes](https://github.com/gaulinsoft/jtypes) — Scalable class-based JavaScript.
 * [Bike](https://github.com/gabrieleds/bike) — Class system to organize namespaces, define, create, extend, mixin, super inheritance and more.
 * [class-js](https://github.com/bnoguchi/class-js) — Simple, Light-weight OO Class factory
 * [comb](https://github.com/Pollenware/comb) — Library with a built in OO class system, and other features(datastructures, array string and date utilities, etc..).
