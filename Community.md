@@ -44,3 +44,4 @@ For real-time discussion, check irc.freenode.net #node.js or Stack Overflow [cha
 * [Node.js in Action](http://www.manning.com/cantelon)
 * [Hands on Node.js](http://nodetuts.com/handson-nodejs-book.html)
 * [The Node Beginner Book](http://www.nodebeginner.org/)
+* [Smashing Node.js](http://smashingnode.com/)
