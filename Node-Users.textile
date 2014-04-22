@@ -292,7 +292,7 @@ h2. UTC-6 (-5)
 
 h2. UTC-5 (-4)
 
-* Travis Webb (tjwebb)
+* Travis Webb (tjwebb), Norfolk, VA, US
 ** "GitHub":http://github.com/tjwebb, "Twitter":http://twitter.com/TravisWebbUSA, "Website":http://www.traviswebb.com
 * Mike Barlow (mwbarlow)
 ** "Twitter":http://twitter.com/MWBInJersey, "Website":http://www.mwbarlow.com
