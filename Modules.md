@@ -2154,6 +2154,7 @@ realtime balancing for live objects
 * [comparejs](https://github.com/goloroden/comparejs) — Reliable comparison operators for Node.js the way you would expect them to be.
 * [crud-bones](http://words.alexeypro.com/crud-bones/) — CRUD boilerplate/template for Node.JS/Mongo/MySQL/Redis/Express/EJS/Cluster/etc.
 * [cryo](https://github.com/hunterloftis/cryo) - Pickle for JavaScript; extended JSON. Easily store/serialize/freeze and re-hydrate complex JavaScript objects including Functions and nested references.
+* [demodule](https://github.com/jaekwon/demodule) — Organize code with CommonJS. Package them to one file. Great for browser client code organization.
 * [difflib.js](https://github.com/qiao/difflib.js) — Text diff library, ported from Python's difflib module
 * [easyRTC](http://easyrtc.com/) — WebRTC server and client API kit. Allows for rapid WebRTC application deployment.
 * [GFMS](https://github.com/ypocat/gfms) — Github Flavored Markdown Server. Preview your README.md (and other markdown docs) locally before committing it. Uses Github's CSS for faithful representation. Uses [ws-rpc](https://github.com/ypocat/ws-rpc) to automatically reload your browser upon file changes.
