@@ -38,6 +38,10 @@ From Ubuntu 12.04 to 13.04, an old version (0.6.x) of Node is in the standard re
 
     sudo apt-get install nodejs
 
+To install npm on Ubuntu 13.10 and 14.04, run:
+
+    sudo apt-get install npm
+
 Obtaining a recent version of Node or installing on older Ubuntu and other apt-based distributions may require a few extra steps. Example install:
 
     sudo add-apt-repository ppa:chris-lea/node.js
