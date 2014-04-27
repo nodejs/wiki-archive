@@ -1,4 +1,4 @@
-## Companies.
+## Companies:
 
 If you're considering adding your company to this list, you should also submit a logo and quote for the http://nodejs.org/industry/ page.  See https://github.com/joyent/node-in-the-industry.  Thanks.
 
