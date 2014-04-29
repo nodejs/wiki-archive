@@ -983,6 +983,8 @@ h2. UTC+5
 ** "GitHub":https://github.com/suroorwijdan, "Twitter":https://twitter.com/wotthetech
 * Akshay Agarwal, India
 ** "GitHub":https://github.com/akshayagarwal, "Website":http://akshayagarwal.in, "Twitter":https://twitter.com/inspiringakshay
+* Ashwin Hegde, India
+** "GitHub":https://github.com/hegdeashwin, "Twitter":https://twitter.com/hegdeashwin, "Wiki":https://en.wikipedia.org/wiki/User:Hegdeashwin
 
 h2. UTC+6
 
