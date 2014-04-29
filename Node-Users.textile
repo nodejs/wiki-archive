@@ -188,6 +188,8 @@ h2. UTC-8
 ** "GitHub":http://github.com/jeffchao, "Twitter":http://twitter.com/thejeffchao, "Website":http://thejeffchao.com
 * Sam Thompson (Sam-T), Sacramento CA, USA
 ** "GitHub":http://github.com/samt, "Twitter":http://twitter.com/samdtho, "Website":http://samt.us
+* Chad Joseph Brown, Los Angeles, CA, USA
+** "GitHub":https://github.com/chadjoseph, "LinkedIn":https://www.linkedin.com/in/chadjoseph, "Website":http://www.chadjoseph.com
 
 h2. UTC-7 (-6)
 
