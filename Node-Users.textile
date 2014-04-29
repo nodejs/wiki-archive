@@ -984,7 +984,7 @@ h2. UTC+5
 * Akshay Agarwal, India
 ** "GitHub":https://github.com/akshayagarwal, "Website":http://akshayagarwal.in, "Twitter":https://twitter.com/inspiringakshay
 * Ashwin Hegde, India
-** "GitHub":https://github.com/hegdeashwin, "Twitter":https://twitter.com/hegdeashwin, "Wiki":https://en.wikipedia.org/wiki/User:Hegdeashwin
+** "GitHub":https://github.com/hegdeashwin, "Twitter":https://twitter.com/hegdeashwin3, "Wiki":https://en.wikipedia.org/wiki/User:Hegdeashwin
 
 h2. UTC+6
 
