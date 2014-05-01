@@ -440,6 +440,8 @@ h2. UTC-5 (-4)
 ** "Github":http://github.com/dlongley
 * Jeremiah Senkpiel (Fishrock123), Toronto, ON, Canada
 ** "Github":http://github.com/Fishrock123, "Twitter":http://twitter.com/fishrock123, "Website":https://searchbeam.jit.su/
+* Branden Visser (mrvisser), Toronto, ON, Canada
+** "Github":http://github.com/mrvisser, "Twitter":http://twitter.com/meestaveesa
 
 h2. UTC-4 (-3)
 
