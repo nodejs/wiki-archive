@@ -1,10 +1,10 @@
 There are two node mailing lists, with different purposes.
 
-## nodejs http://groups.google.com/group/nodejs
-
 ### Moderation
 
 As of May 3, 2014, **nodejs** is a moderated group. See https://gist.github.com/othiym23/9886289#file-moderation-policy-md for the current moderation policy, which is a slightly tweaked version of what's on this page.
+
+## nodejs http://groups.google.com/group/nodejs
 
 For people and things **about** node.  Including but not limited to:
 
