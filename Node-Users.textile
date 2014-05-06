@@ -520,6 +520,8 @@ h2. UTC±0 (0)
 
 h2. UTC±0 (+1)
 
+* Elliot Theis, London, UK
+** "Website":http://elliottheis.com, "GitHub":http://github.com/elliottheis, "Twitter":http://twitter.com/elliottheis
 * Mark Willis, Bournemouth, UK
 ** "Website":http://mwillis.co.uk, "GitHub":http://github.com/markwillis82, "Twitter":http://twitter.com/markwillis82
 * Guy Halford-Thompson (guyht), London
