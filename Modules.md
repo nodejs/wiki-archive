@@ -737,7 +737,7 @@ This module is inspired by impressive but abandoned project [Cluster](https://gi
 * [Plates](https://github.com/flatiron/plates) — Light-weight, logic-less, DSL-free, templates for all javascript environments!
 * [PURE](https://github.com/pure/pure) — Unobtrusive Rendering Engine. The HTML view and the JS logic remain strictly separated. Works with jsdom.
 * [QEJS](https://github.com/jepso/QEJS) — Asyncronous Embedded JavaScript Templates with Q promises
-* [raptor](http://raptorjs.org/raptor-templates/) — Extensible and optimized HTML templating language that is part of [RaptorJS](http://raptorjs.org). Works in the browser and on the server.
+* [Raptor Templates](https://github.com/raptorjs3/raptor-templates) — An extensible, streaming, asynchronous, high performance, HTML-based templating language
 * [Razor Leaf](https://github.com/campersander/razorleaf) — A template engine with a minimal, concise, and indentation-based syntax (akin to Jade’s).
 * [scraps](https://github.com/nudgepad/scraps) — A Space based HTML template language.
 * [shift.js](https://github.com/viatropos/shift.js) — Standard interface to the Node.js template engines.
