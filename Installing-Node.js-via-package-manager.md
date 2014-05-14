@@ -42,6 +42,10 @@ To install npm on Ubuntu 13.10 and 14.04, run:
 
     sudo apt-get install npm
 
+For programs that still depend on calling the "node" binary, run:
+
+    sudo apt-get install nodejs-legacy
+
 Obtaining a recent version of Node or installing on older Ubuntu and other apt-based distributions may require a few extra steps. Example install:
 
     sudo add-apt-repository ppa:chris-lea/node.js
