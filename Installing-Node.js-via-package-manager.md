@@ -56,7 +56,7 @@ As of Node.js v0.10.0, the nodejs package from [Chris Lea](https://chrislea.com/
 
 There is a naming conflict with the node package (Amateur Packet Radio Node Program), and the nodejs binary has been renamed from `node` to `nodejs`. You'll need to symlink `/usr/bin/node` to `/usr/bin/nodejs` or you could uninstall the Amateur Packet Radio Node Program to avoid that conflict.
 
-To avoid using `sudo` for global `npm` installs etc.: `npm config set prefix ~/npm`, add $HOME/npm/bin to $PATH, and append to .bashrc `export PATH=$HOME/npm/bin:$PATH`.
+To avoid using `sudo` for global `npm` installs etc.: `npm config set prefix ~/npm`, add `$HOME/npm/bin` to `$PATH`, and append `export PATH=$HOME/npm/bin:$PATH` to your `.bashrc`.
 
 ## openSUSE & SLE
 [Download Node.js via openSUSE one-click](http://software.opensuse.org/download.html?project=devel%3Alanguages%3Anodejs&package=nodejs).
