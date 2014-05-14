@@ -182,6 +182,8 @@ h2. UTC-8
 ** "GitHub":https://github.com/williamwicks/, "Twitter":http://twitter.com/williamwicks/
 * Trevor Norris (trevnorris)
 ** "GitHub":https://github.com/trevnorris/, "Twitter":https://twitter.com/trevnorris, "WebSite":http://trevorjnorris.com
+* Greg Sabia Tucker (engineeringmode), San Francisco, CA, US
+** "GitHub":https://github.com/EngineeringMode/, "Twitter":http://twitter.com/EngineeringMode, "Website":http://artificer.io
 * Bryan English (bengl), San Francisco, CA, USA
 ** "GitHub":http://github.com/bengl, "Twitter":http://twitter.com/bengl, "Website":https://bryanenglish.com
 * Jeff Chao, San Francisco, CA, USA
