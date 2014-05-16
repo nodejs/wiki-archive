@@ -2034,8 +2034,9 @@ rendering process.
 * [syncasync.js](https://github.com/goloroden/syncasync.js) — syncasync.js allows you to run synchronous functions asynchronously, and asynchronous functions synchronously.
 * [tamejs](https://github.com/maxtaco/tamejs/) — Library by OK Cupid for flattening out async code.
 
-<a name="wiki-i18n"></a>
+<a name="i18n"></a>
 ## [I18n and L10n modules](#i18n)
+* [babelfish](https://github.com/nodeca/babelfish/) — human friendly i18n with plurals support.
 * [cld](https://github.com/dachev/cld) — A straight port of the CLD (Compact Language Detector) library embedded in Google's Chromium browser.
 * [connect-i18n](https://github.com/masylum/connect-i18n) — Middleware for connect to handle i18n.
 * [dialect-http](https://github.com/masylum/dialect-http) — http client to manage your dialect translations.
