@@ -229,6 +229,8 @@ h2. UTC-7 (-6)
 ** "Twitter":http://twitter.com/danielniquet/, "Website":http://activatize.com
 * Fritz Mahnke, Phoenix, AZ, US
 ** "GitHub":http://github.com/fmahnke/, "Twitter":http://twitter.com/fmahnke/
+* Daniel Sellers, Salt Lake City, UT, US
+** "GitHub":http://github.com/designfrontier/, "Twitter":http://twitter.com/daniel_sellers/, "Website":http://designfrontier.net
 
 h2. UTC-6 (-5)
 * Ricky Sanchez (ricky), Austin, TX, US
