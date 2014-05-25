@@ -615,6 +615,8 @@ h2. UTC±0 (+1)
 
 h2. UTC+1 (+2)
 
+* Srirangan, The Hague, Netherlands
+** "GitHub":https://github.com/Srirangan, "Twitter":https://twitter.com/srirangan, "Website":http://srirangan.net
 * Bastian Krol (basti1302), Dortmund, Germany
 ** "GitHub":https://github.com/basti1302, "Twitter":https://twitter.com/bastiankrol
 * Jakob Mattsson, Stockholm, Sweden
@@ -951,6 +953,8 @@ h2. UTC+3 (+4)
 
 h2. UTC+5
 
+* Srirangan, The Hague, Netherlands
+** "GitHub":https://github.com/Srirangan, "Twitter":https://twitter.com/srirangan, "Website":http://srirangan.net
 * Kushal Likhi, India
 ** "GitHub":https://github.com/kushal-likhi", Twitter":https://twitter.com/KushalLikhi
 * M S Rishikesh (msrishikesh), India
