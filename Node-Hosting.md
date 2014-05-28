@@ -50,7 +50,6 @@ VPS providers, which often require you to set everything up yourself, including 
 * [HP Cloud] (https://www.hpcloud.com)
 * [Host Europe](http://www.hosteurope.de)
 * [Host Gator] (http://www.hostgatortalk.com)
-* [IPAP](http://ipap.co) - Consult the many comments at [lowendbox](http://www.lowendbox.com/) before considering these guys…
 * [Joyent](http://www.joyentcloud.com/products/appliances/nodejs-smartmachine/)
 * [Linode](http://www.linode.com)
 * [Oversun Scalaxy](http://www.scalaxy.ru) - Site in Russian (the site says "Company closed" - November 16, 2013)
