@@ -2071,6 +2071,7 @@ rendering process.
 * [Skeleton](https://github.com/edwardhotchkiss/skeleton) — Skeleton is a CLI module to bootstrap a Node/Express project with a skeleton template via any git repository, with an included default repo.
 * [transsiberian](https://github.com/masylum/transsiberian) — [outdated] nodejs boilerplate built upon Express and Mongolia
 * [node-package-boilerplate](https://github.com/liangzan/node-package-boilerplate) - boilerplate files and dirs for a plain node.js project. more intended for starting node packages.
+* [Nebula](https://github.com/hegdeashwin/Nebula) - Nebula is an open source walking application skeleton for a typical Backbone-Node.js web apps. You can use it to quickly bootstrap your Backbone-Node.js web application projects.
 
 <a name="wiki-continuous-integration"></a>
 ## [Continuous Integration Tools](#continuous-integration)
