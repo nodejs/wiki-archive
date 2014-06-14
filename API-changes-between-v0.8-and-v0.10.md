@@ -130,6 +130,7 @@ When editing this page please be as detailed as possible. Examples are encourage
 * FS `readFile()`, `writeFile()`, `appendFile()` and their Sync counterparts now take an `options` object (but the old API, an `encoding` string, is still supported)
 * Crypto methods return Buffer objects by default, rather than binary-encoded strings.
 * `util.inspect()` now takes an "options" object. The old API is still supported for backwards compatibility.
+* net: Connections are destroyed immediately after calling `end()` when "Connection: close" is in effect, rather than asynchronously.
 
 ## Added
 
