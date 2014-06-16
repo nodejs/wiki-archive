@@ -1183,6 +1183,23 @@ h2. UTC+9:30 (+10:30)
 * Paul Shirren (shirro), Regional SA, Australia
 ** "Twitter":http://twitter.com/shirro, "GitHub":http://github.com/shirro
 
+
+h2. UTC+10
+
+* Dr Nic Williams, Brisbane, Australia
+** "Twitter":http://twitter.com/drnic, "GitHub":http://github.com/drnic, "Website":http://drnicwilliams.com
+* Brian McKenna, Brisbane, Australia
+** "Twitter":http://twitter.com/puffnfresh, "GitHub":http://github.com/pufuwozu, "Website":http://brianmckenna.org/
+* Colin Gourlay, Brisbane, Australia
+** "Twitter":http://twitter.com/login_required, "GitHub":http://github.com/colingourlay, "Website":http://colin-gourlay.com/
+* Nicholas Kinsey, Brisbane, Australia
+** "Twitter":http://twitter.com/pyrotechnick, "GitHub":http://github.com/pyrotechnick
+* Nicholas Dancer, Brisbane, Australia
+** "Twitter":http://twitter.com/nj_dancer, "GitHub":http://github.com/DaNCeR
+* David Mason (damason/davidmason), Brisbane, Australia
+** "Twitter":http://twitter.com/drdmason, "GitHub":http://github.com/davidmason
+
+
 h2. UTC+10 or UTC+11
 
 * Gareth Jones, Melbourne, Australia
@@ -1199,16 +1216,6 @@ h2. UTC+10 or UTC+11
 ** "Twitter":http://twitter.com/sidorares, "GitHub":http://github.com/sidorares, "Google+":https://plus.google.com/u/0/103427972663119530249/about
 * Michael Hart (hichaelmart), Melbourne, Australia
 ** "GitHub":http://github.com/mhart, "Twitter":http://twitter.com/hichaelmart
-* Dr Nic Williams, Brisbane, Australia
-** "Twitter":http://twitter.com/drnic, "GitHub":http://github.com/drnic, "Website":http://drnicwilliams.com
-* Brian McKenna, Brisbane, Australia
-** "Twitter":http://twitter.com/puffnfresh, "GitHub":http://github.com/pufuwozu, "Website":http://brianmckenna.org/
-* Colin Gourlay, Brisbane, Australia
-** "Twitter":http://twitter.com/login_required, "GitHub":http://github.com/colingourlay, "Website":http://colin-gourlay.com/
-* Nicholas Kinsey, Brisbane, Australia
-** "Twitter":http://twitter.com/pyrotechnick, "GitHub":http://github.com/pyrotechnick
-* Nicholas Dancer, Brisbane, Australia
-** "Twitter":http://twitter.com/nj_dancer, "GitHub":http://github.com/DaNCeR
 * Denis Hoctor, Sydney, Australia
 ** "Twitter":http://twitter.com/denishoctor, "GitHub":http://github.com/denishoctor, "Website":http://denishoctor.me/
 * Andrei Railean, Sydney, Australia
@@ -1225,6 +1232,7 @@ h2. UTC+10 or UTC+11
 ** "GitHub":http://github.com/chriso, "Twitter":http://twitter.com/chris6F, "Website":http://node.io/
 * Adam Ahmed ("hitsthings":http://github.com/hitsthings), Sydney, Australia
 ** "GitHub":http://github.com/hitsthings, "Twitter":http://twitter.com/hitsthings, "Website":http://www.noiregrets.com/
+
 
 h2. UTC+12
 
