@@ -115,9 +115,7 @@ It's possible there will be conflicts with your changes. You can either fix the 
 
 ## Submission and review
 
-If you're submitting a pull request, chances are you want your work accepted. Before that can happen you need to sign [the CLA](http://nodejs.org/cla.html). If it's your first time contributing to the project save everyone a step and mention in the comment box that you already have.
-
-Now you're ready to submit! It's actually kind of anticlimactic. Go to your repo page and click the **Pull Request** button in the top right. Now **STOP**. Have you? Yes. Ok, now look at this page. Look at it again. It's very important to understand what's on this page.
+You're ready to submit! It's actually kind of anticlimactic. Go to your repo page and click the **Pull Request** button in the top right. Now **STOP**. Have you? Yes. Ok, now look at this page. Look at it again. It's very important to understand what's on this page.
 
 On the top left you'll see `base repo` and `base branch`. This defines where you want the pull request to go. The `base repo` should automatically select the `upstream` or cloned repository. If you've branched from `master` (which is all we've discussed) then make sure `base branch` is also set to `master`.
 
