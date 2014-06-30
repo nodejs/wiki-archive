@@ -844,6 +844,8 @@ h2. UTC+2 (+3)
 ** "GitHub":https://github.com/arimsa, "Website":http://aurimas.rimsa.name/
 * Shimon Doodkin (shimondoodkin), Israel
 ** "GitHub":http://github.com/shimondoodkin, "Twitter":http://twitter.com/doodkin, "Website":http://doodkin.com
+* Refael Ackermann (refack), Tel-Aviv, Israel
+** "GitHub":http://github.com/refack, "Twitter":http://twitter.com/refack, "Website":http://node.org.il
 * Artem Gnilov (Boo), Ukraine
 ** "GitHub":http://github.com/BooBSD, "Blog":http://boo.openbdsm.org/, "Twitter":http://twitter.com/BooBSD
 * Yuriy Bogdanov (octave), Ukraine
