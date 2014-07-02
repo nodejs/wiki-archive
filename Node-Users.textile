@@ -619,6 +619,8 @@ h2. UTC+1 (+2)
 ** "GitHub":https://github.com/Srirangan, "Twitter":https://twitter.com/srirangan, "Website":http://srirangan.net
 * Bastian Krol (basti1302), Dortmund, Germany
 ** "GitHub":https://github.com/basti1302, "Twitter":https://twitter.com/bastiankrol
+* Gregor Elke, Hamburg, Germany
+** "GitHub":https://github.com/greelgorke, "Twitter":https://twitter.com/greelgorke
 * Jakob Mattsson, Stockholm, Sweden
 ** "GitHub":http://github.com/jakobmattsson, "Twitter":http://twitter.com/jakobmattsson, "Website":http://jakobm.com
 * Andreas Madsen, Denmark
