@@ -1133,6 +1133,8 @@ h2. UTC+8
 ** "GitHub":https://github.com/fangrui625
 * Maziyar Panahi (maziyar_sh), Kuala Lumpur, Malaysia
 ** "GitHub":http://github.com/maziyarpanahi, "Twitter":http://twitter.com/Maziyar_sh, "Website":http://maziyar.me
+* Indra Santosa (inds), Singapore
+** "GitHub":http://github.com/indrasantosa, "Twitter":http://twitter.com/indrasantosa90, "Website":http://indrasantosa.com
 
 h2. UTC+9
 
