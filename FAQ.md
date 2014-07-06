@@ -15,7 +15,7 @@
 [[node core vs userland]]
 ### What is the versioning scheme?
 
-Odd versions are unstable, even versions are stable. v0.2 and v0.4 are even/stable. v0.3 and v0.5 are odd/unstable. The current stable series is v0.10.x. The next stable series will be v0.12.x. The stable branch takes bug fixes only - it does not change the JavaScript API, addon API, nor ABI (you don&#39;t have to rebuild modules after upgrading node with-in a stable branch).
+Odd versions are unstable, even versions are stable. v0.2 and v0.4 are even/stable. v0.3 and v0.5 are odd/unstable. The current stable series is v0.10.x. The next stable series will be v0.12.x. The stable branch takes bug fixes only - it does not change the JavaScript API, add-on API, nor ABI (you don&#39;t have to rebuild modules after upgrading node with-in a stable branch).
 
 ### What is an easy way to manage Node.js versions / installations?
 
