@@ -48,9 +48,10 @@ For programs that still depend on calling the "node" binary, run:
 ``````
 Obtaining a recent version of Node or installing on older Ubuntu and other apt-based distributions may require a few extra steps. Example install:
 ``````
+ sudo apt-get install python-software-properties
  sudo add-apt-repository ppa:chris-lea/node.js
  sudo apt-get update
- sudo apt-get install python-software-properties nodejs
+ sudo apt-get install nodejs
 ``````
 It installs current stable Node on the current stable Ubuntu. 12.10 and 13.04 users may need to install the *software-properties-common* package for the `add-apt-repository` command to work: `sudo apt-get install software-properties-common`.
 
