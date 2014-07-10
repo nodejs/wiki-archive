@@ -3,10 +3,10 @@ h2. Getting your code into Node
 The only "official" node repository is "https://github.com/joyent/node":https://github.com/joyent/node. For code, docs, tests, or anything else, joyent/node is the repository that reflects the official state of the Node.js project. That's where all patches have to end up if they are going to be in the release, website, or API docs. To submit a patch fork the repository and send a pull request via GitHub to joyent/node.
 
 h2. Some participation guidelines
+* Read "CONTRIBUTING.md":https://github.com/joyent/node/blob/master/CONTRIBUTING.md document
 * Discuss large changes on the mailing list before coding
 * JavaScript code style should follow "Google's JavaScript style guide":http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml and be run through the linter. @make jslint@ to validate.
 * C++ code should follow "Google's C++ style guide":http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml and be run through cpplint with @make cpplint@.
-* Agree to "the contributor agreement":http://nodejs.org/cla.html
 * Node follows the even/odd version numbering for changes:
 ** API changes, including new APIs will usually *not* go into even version numbers
 ** Bug fixes and documentation changes *may* go into even versions
