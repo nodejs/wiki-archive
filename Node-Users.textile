@@ -297,6 +297,8 @@ h2. UTC-6 (-5)
 ** "GitHub":http://github.com/fshost, "Twitter":http://twitter.com/webnate
 * Joe Mainwaring (theaccordance), Chicago, IL, US
 ** "Github":http://github.com/theaccordance, "Twitter":http://twitter.com/theaccordance, "Website":http://josephmainwaring.com
+* Mike McNeil (mikermcneil), Austin, TX, US
+** "Github":http://github.com/mikermcneil, "Twitter":http://twitter.com/mikermcneil, "Website":http://michaelmcneil.com
 
 h2. UTC-5 (-4)
 
