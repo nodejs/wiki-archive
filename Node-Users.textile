@@ -232,7 +232,7 @@ h2. UTC-7 (-6)
 * Daniel Sellers, Salt Lake City, UT, US
 ** "GitHub":http://github.com/designfrontier/, "Twitter":http://twitter.com/daniel_sellers/, "Website":http://designfrontier.net
 * Thom Allen, Salt Lake City, UT, US
-** "GitHub":http://github.com/thom801/, "Twitter":http://twitter.com/thom801/, "Website":thom801.github.io
+** "GitHub":http://github.com/thom801/, "Twitter":http://twitter.com/thom801/, "Website":http://thom801.github.io
 
 h2. UTC-6 (-5)
 * Ricky Sanchez (ricky), Austin, TX, US
