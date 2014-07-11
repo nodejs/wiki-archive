@@ -4,7 +4,7 @@ Node is an open source project run by [Joyent](http://joyent.com/), originally w
 
 Active committers:
 
-* Isaac Schlueter ([isaacs](https://github.com/isaacs) - [Joyent](http://joyent.com/))
+* Isaac Schlueter ([isaacs](https://github.com/isaacs) - [npm, Inc.](http://www.npmjs.com/))
 * Bert Belder ([piscisaureus](https://github.com/piscisaureus) - [StrongLoop](http://strongloop.com/))
 * Ben Noordhuis ([bnoordhuis](https://github.com/bnoordhuis) - [StrongLoop](http://strongloop.com/))
 * Fedor Indutny ([indutny](https://github.com/indutny) - [Voxer](http://voxer.com/))
