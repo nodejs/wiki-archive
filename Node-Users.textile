@@ -843,6 +843,8 @@ h2. UTC+1 (+2)
 ** "GitHub":https://github.com/logicoder, "Twitter":https://twitter.com/logicoder</code>, "LinkedIN":https://linkedin.com/in/marcodeltongo</code></pre>
 * Patrik Simek, Prague, Czech Republic
 ** "GitHub":https://github.com/patriksimek, "Website":https://patriksimek.cz, "Twitter":https://twitter.com/patriksimek
+* Matej Nemček (yangwao), Bratislava, Slovakia
+** "Github":https://github.com/yangwao, "Twitter":https://twitter.com/yangwao
 
 h2. UTC+2 (+3)
 
