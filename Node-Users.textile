@@ -1009,6 +1009,8 @@ h2. UTC+5
 ** "GitHub":https://github.com/akshayagarwal, "Website":http://akshayagarwal.in, "Twitter":https://twitter.com/inspiringakshay
 * Ashwin Hegde, India
 ** "GitHub":https://github.com/hegdeashwin, "Twitter":https://twitter.com/hegdeashwin3, "Wiki":https://en.wikipedia.org/wiki/User:Hegdeashwin
+* Shrikrishna Holla (shrikrishna), India
+** "GitHub":http://github.com/shrikrishnaholla/, "Twitter":http://twitter.com/srikrishnaholla, "Website":http://shrikrishnaholla.in
 
 h2. UTC+6
 
