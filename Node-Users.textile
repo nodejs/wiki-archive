@@ -1011,6 +1011,8 @@ h2. UTC+5
 ** "GitHub":https://github.com/hegdeashwin, "Twitter":https://twitter.com/hegdeashwin3, "Wiki":https://en.wikipedia.org/wiki/User:Hegdeashwin
 * Shrikrishna Holla (shrikrishna), India
 ** "GitHub":http://github.com/shrikrishnaholla/, "Twitter":http://twitter.com/srikrishnaholla, "Website":http://shrikrishnaholla.in
+* Dilip Kumar Thapa (dilipKrThapa), Nepal
+** "GitHub":http://github.com/DilipKThapa/, "Twitter":http://twitter.com/dilipKrThapa, 
 
 h2. UTC+6
 
