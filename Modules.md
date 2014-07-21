@@ -500,7 +500,7 @@ This module is inspired by impressive but abandoned project [Cluster](https://gi
 * [persist](https://github.com/nearinfinity/node-persist) - ORM framework supporting MySQL and SQLite 3 relational databases.
 * [persistence.js](https://github.com/zefhemel/persistencejs) — An object-relational mapper (ORM) for node. Backends: MySQL.
 * [sequelize](https://github.com/sdepold/sequelize) - An easy-to-use cross-database Object-Relational-Mapper (ORM) for Node.JS. Supports currently MySQL, PostgreSQL and SQLite.
-* [express-admin](https://github.com/simov/express-admin) - MySQL admin for NodeJS.
+* [express-admin](https://github.com/simov/express-admin) - MySQL, MariaDB, SQLite, PostgreSQL admin for NodeJS.
 
 <a name="wiki-db-sqlite"></a>
 ### [SQLite](#db-sqlite)
