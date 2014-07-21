@@ -192,6 +192,8 @@ h2. UTC-8
 ** "GitHub":http://github.com/samt, "Twitter":http://twitter.com/samdtho, "Website":http://samt.us
 * Chad Joseph Brown, Los Angeles, CA, USA
 ** "GitHub":https://github.com/chadjoseph, "LinkedIn":https://www.linkedin.com/in/chadjoseph, "Website":http://www.chadjoseph.com
+* David Howard, Sparks, NV, USA
+** "GitHub":https://github.com/dmh2000, "Twitter":https://twitter.com/dmh2000", "Website":http://geezer-x.com
 
 h2. UTC-7 (-6)
 
