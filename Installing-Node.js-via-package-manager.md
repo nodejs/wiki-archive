@@ -33,7 +33,11 @@ If you need `npm` as well, you can get it through the installer
  curl https://www.npmjs.org/install.sh | sudo sh
 ``````
 ## Ubuntu, Mint, elementary OS
-
+Add Chris Lea's repository first before installing to avoid conflicts
+``````
+ sudo add-apt-repository ppa:chris-lea/node.js
+ sudo apt-get update
+``````
 From Ubuntu 12.04 to 13.04, an old version (0.6.x) of Node is in the standard repository. For Ubuntu 13.10 and 14.04, 0.10.X versions are present. To install, just run:
 ``````
  sudo apt-get install nodejs
