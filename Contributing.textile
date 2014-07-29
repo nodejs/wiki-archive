@@ -1,3 +1,17 @@
+h1. Most of this documentation should be migrated to "the website":http://nodejs.org/documentation/contributing it is left here for now for historical purposes, please contribute to documentation on the "website repository":https://github.com/joyent/node-website
+
+
+***
+
+***
+
+***
+
+***
+
+***
+
+
 h2. Getting your code into Node
 
 The only "official" node repository is "https://github.com/joyent/node":https://github.com/joyent/node. For code, docs, tests, or anything else, joyent/node is the repository that reflects the official state of the Node.js project. That's where all patches have to end up if they are going to be in the release, website, or API docs. To submit a patch fork the repository and send a pull request via GitHub to joyent/node.
