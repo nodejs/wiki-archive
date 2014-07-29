@@ -57,6 +57,7 @@ VPS providers, which often require you to set everything up yourself, including 
 * [Oversun Scalaxy](http://www.scalaxy.ru) - Site in Russian (the site says "Company closed" - November 16, 2013)
 * [Prgmr](http://prgmr.com)
 * [Rackspace Cloud](http://www.rackspacecloud.com)
+* [rootbox.com](http://rootbox.com) - SSD Cloud Servers
 * [ServerGrove](http://servergrove.com) [also has MongoDB hosting]
 * [VPS.Net](https://www.vps.net/vps-signup)
 * [W2Servers](http://w2servers.com)
