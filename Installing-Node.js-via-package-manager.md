@@ -108,7 +108,9 @@ Available RPM packages for: openSUSE 11.4, 12.1, 12.2, 12.3, 13.1, Factory and T
 Example install on openSUSE 13.1:
 
 ```text
-sudo zypper ar http://download.opensuse.org/repositories/devel:/languages:/nodejs/openSUSE_13.1/ Node.js
+sudo zypper ar \
+  http://download.opensuse.org/repositories/devel:/languages:/nodejs/openSUSE_13.1/ \
+  Node.js
 sudo zypper in nodejs nodejs-devel
 ```
 
@@ -120,9 +122,9 @@ sudo zypper in nodejs nodejs-devel
 sudo yum install nodejs npm
 ```
 
-## RHEL/CentOS/Scientific Linux 6
+## Enterprise Linux (RHEL, CentOS, Fedora, etc.)
 
-Node.js and npm are available from the [Fedora Extra Packages for Enterprise Linux (EPEL)](https://fedoraproject.org/wiki/EPEL) repository. If you haven't already done so, first [enable EPEL](https://fedoraproject.org/wiki/EPEL#How_can_I_use_these_extra_packages.3F).
+Node.js and npm are available from the [Extra Packages for Enterprise Linux](https://fedoraproject.org/wiki/EPEL) (EPEL) repository.
 
 To check if you have EPEL, run
 
@@ -130,30 +132,27 @@ To check if you have EPEL, run
 yum repolist
 ```
 
-if you don't see EPEL, install it via RPM (At the time of this writing, the last version is 6.8.).
+If you don't see EPEL, [install it](https://fedoraproject.org/wiki/EPEL#How_can_I_use_these_extra_packages.3F
+) via `yum`:
 
-First import the key:
+For Enterprise Linux version 6 (EPEL version 6.8 at the time of writing):
 
 ```text
-sudo rpm --import https://fedoraproject.org/static/0608B895.txt
+yum install \
+  http://dl.fedoraproject.org/pub/epel/6/x86_64/epel-release-6-8.noarch.rpm
 ```
 
-Then install
+For Enterprise Linux version 7 Beta:
 
 ```text
-sudo rpm -Uvh http://download-i2.fedoraproject.org/pub/epel/6/i386/epel-release-6-8.noarch.rpm
-``````
+yum install \
+  http://dl.fedoraproject.org/pub/epel/beta/7/x86_64/epel-release-7-0.2.noarch.rpm
+```
 
-And then run the following command to install node and npm:
+Then install the **nodejs** and **npm** packages:
 
 ```text
 sudo yum install nodejs npm --enablerepo=epel
-```
-
-or if this doesn't work for you install node separately:
-
-```text
-sudo yum install npm --enablerepo=epel
 ```
 
 ## Arch Linux
@@ -198,7 +197,7 @@ pkg install node-devel
 
 ## OSX
 
-Simply download the [Macintosh Installer](http://nodejs.org/#download) direct from the [nodejs.org](http://nodejs.org) site.
+Simply download the [Macintosh Installer](http://nodejs.org/#download) direct from the [nodejs.org](http://nodejs.org) web site.
 
 ### Alternatives
 
@@ -222,7 +221,7 @@ port install nodejs
 
 ## Windows
 
-Simply download the [Windows Installer](http://nodejs.org/#download) directly from the [nodejs.org](http://nodejs.org) site.
+Simply download the [Windows Installer](http://nodejs.org/#download) directly from the [nodejs.org](http://nodejs.org) web site.
 
 ### Alternatives
 
@@ -236,6 +235,6 @@ cinst nodejs.install
 
 Using **[Scoop](http://scoop.sh/)**:
 
-```
+```text
 scoop install nodejs
 ```
