@@ -1,8 +1,8 @@
 ***Note:*** The packages on this page are maintained and supported by their respective packagers, **not** the Node.js core team. Please report any issues you encounter to the package maintainer. If it turns out your issue is a bug in Node.js itself, the maintainer will report the issue upstream.
 
-## Ubuntu, Linux Mint, Debian
+## Ubuntu, Debian, Linux Mint, etc.
 
-***And other Ubuntu and Debian-based Linux distributions***
+***Including most Ubuntu and Debian-based Linux distributions***
 
 Node.js is available from the [NodeSource](https://nodesource.com) official Debian and Ubuntu repository.
 
@@ -66,7 +66,7 @@ sudo zypper in nodejs nodejs-devel
 
 ## Fedora
 
-[Node.js](https://apps.fedoraproject.org/packages/nodejs) and [npm](https://apps.fedoraproject.org/packages/npm) are available in Fedora 18 and later. Just use your favorite graphical package manager or run this on a terminal to install both npm and node:
+[Node.js](https://apps.fedoraproject.org/packages/nodejs) and [npm](https://apps.fedoraproject.org/packages/npm) are available in Fedora 18 and later. Just use your favorite graphical package manager or run this on a terminal to install both node and npm:
 
 ```text
 sudo yum install nodejs npm
@@ -76,7 +76,7 @@ sudo yum install nodejs npm
 
 Node.js and npm are available from the [Extra Packages for Enterprise Linux](https://fedoraproject.org/wiki/EPEL) (EPEL) repository.
 
-To check if you have EPEL, run
+To check if you have EPEL registered, run:
 
 ```text
 yum repolist
@@ -85,14 +85,14 @@ yum repolist
 If you don't see EPEL, [install it](https://fedoraproject.org/wiki/EPEL#How_can_I_use_these_extra_packages.3F
 ) via `yum`:
 
-For Enterprise Linux version 6 (EPEL version 6.8 at the time of writing):
+For **Enterprise Linux version 6** (EPEL version 6.8 at the time of writing):
 
 ```text
 yum install \
   http://dl.fedoraproject.org/pub/epel/6/x86_64/epel-release-6-8.noarch.rpm
 ```
 
-For Enterprise Linux version 7 Beta:
+For **Enterprise Linux version 7 Beta**:
 
 ```text
 yum install \
@@ -127,7 +127,7 @@ Development versions are also available using ports
 cd /usr/ports/www/node-devel/ && make install clean
 ```
 
-or packages on FreeBSD
+Or packages on FreeBSD:
 
 ```text
 pkg_add -r node-devel
@@ -139,7 +139,7 @@ Using [pkg-ng](https://wiki.freebsd.org/pkgng) on FreeBSD
 pkg install node
 ```
 
-or the development versions
+Or the development versions:
 
 ```text
 pkg install node-devel
