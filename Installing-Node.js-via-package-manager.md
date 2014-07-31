@@ -1,95 +1,45 @@
 ***Note:*** The packages on this page are maintained and supported by their respective packagers, **not** the Node.js core team. Please report any issues you encounter to the package maintainer. If it turns out your issue is a bug in Node.js itself, the maintainer will report the issue upstream.
 
-## Ubuntu, Linux Mint
+## Ubuntu, Linux Mint, Debian
 
-***And other Ubuntu-based Linux distributions***
+***And other Ubuntu and Debian-based Linux distributions***
 
-Add Chris Lea's repository first before installing to avoid conflicts
+Node.js is available from the [NodeSource](https://nodesource.com) official Debian and Ubuntu repository.
 
-```text
-sudo add-apt-repository ppa:chris-lea/node.js
-sudo apt-get update
-```
-
-If "add-apt-repository not found"：
+Setup with:
 
 ```text
-# for <= 12.04
-sudo apt-get install python-software-properties
-# for >= 12.10
-sudo apt-get install software-properties-common
+curl -sL https://deb.nodesource.com/setup | bash -
 ```
 
-From Ubuntu 12.04 to 13.04, an old version (0.6.x) of Node is in the standard repository. For Ubuntu 13.10 and 14.04, 0.10.X versions are present. To install, just run:
+Then install:
 
 ```text
 sudo apt-get install nodejs
 ```
 
-To install npm on Ubuntu 13.10 and 14.04, run:
+**Available architectures:**
 
-```text
-sudo apt-get install npm
-```
+* **i386** (32-bit)
+* **amd64** (64-bit)
+* **armhf** (ARM 32-bit hard-float, ARMv7 and up: _arm-linux-gnueabihf_)
 
-For programs that still depend on calling the "node" binary, run:
+**Supported Ubuntu versions:**
 
-```text
-sudo apt-get install nodejs-legacy
-```
+* **Ubuntu 10.04 LTS** (Lucid Lynx, *armhf build not available*)
+* **Ubuntu 12.04 LTS** (Precise Pangolin)
+* **Ubuntu 13.10** (Saucy Salamander)
+* **Ubuntu 14.04 LTS** (Trusty Tahr)
 
-Obtaining a recent version of Node or installing on older Ubuntu and other apt-based distributions may require a few extra steps. Example install:
+**Supported Debian versions:**
 
-```text
-sudo apt-get install python-software-properties
-sudo add-apt-repository ppa:chris-lea/node.js
-sudo apt-get update
-sudo apt-get install nodejs
-```
+* **Debian 7 / stable** (wheezy)
+* **Debian testing** (jessie)
+* **Debian unstable** (sid)
 
-It installs current stable Node on the current stable Ubuntu. 12.10 and 13.04 users may need to install the *software-properties-common* package for the `add-apt-repository` command to work: `sudo apt-get install software-properties-common`.
+A Node.js package is also available in [official repo](http://packages.debian.org/search?searchon=names&keywords=nodejs) for Debian Sid (unstable) as "nodejs".
 
-The command `add-apt-repository` is actually provided by the *python-software-properties* package. So you will have to install this one as well `sudo apt-get install python-software-properties`.
-
-As of Node.js v0.10.0, the nodejs package from [Chris Lea](https://chrislea.com/2013/03/15/upgrading-from-node-js-0-8-x-to-0-10-0-from-my-ppa/)'s repo includes both npm and nodejs-dev.
-
-There is a naming conflict with the node package (Amateur Packet Radio Node Program), and the nodejs binary has been renamed from `node` to `nodejs`. You'll need to symlink `/usr/bin/node` to `/usr/bin/nodejs` or you could uninstall the Amateur Packet Radio Node Program to avoid that conflict.
-
-_Optional:_ To avoid using `sudo` for global `npm` installs etc.: `npm config set prefix ~/npm`, add `$HOME/npm/bin` to `$PATH`, and append `export PATH=$HOME/npm/bin:$PATH` to your `.bashrc`.
-
-## Debian and Linux Mint Debian
-
-Node.js is available in [official repo](http://packages.debian.org/search?searchon=names&keywords=nodejs) for Debian Sid (unstable).
-
-For Debian Wheezy, you have two options:
-
-### Build from source
-
-```text
-sudo apt-get install python g++ make checkinstall fakeroot
-src=$(mktemp -d) && cd $src
-wget -N http://nodejs.org/dist/node-latest.tar.gz
-tar xzvf node-latest.tar.gz && cd node-v*
-./configure
-sudo fakeroot checkinstall -y --install=no --pkgversion $(echo $(pwd) | sed -n -re's/.+node-v(.+)$/\1/p') make -j$(($(nproc)+1)) install
-sudo dpkg -i node_*
-```
-
-#### Uninstall
-
-```text
-sudo dpkg -r node
-```
-
-### Backports
-
-Alternatively, you can install `nodejs` from [`wheezy-backports`](backports.debian.org). If you rely on having `node` as an executable, install `nodejs-legacy` as well.
-
-If you need `npm` as well, you can get it through the installer
-
-```text
-curl https://www.npmjs.org/install.sh | sudo sh
-```
+***Note:*** You may experience a naming conflict with the "node" package (Amateur Packet Radio Node Program), and find that the "nodejs" binary has been renamed from `node` to `nodejs`. You'll need to symlink `/usr/bin/node` to `/usr/bin/nodejs` or you could uninstall the Amateur Packet Radio Node Program to avoid the conflict.
 
 ## Gentoo
 
