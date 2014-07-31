@@ -1,46 +1,19 @@
--The packages on this page are maintained and supported by their respective packagers, **not** the node.js core team. Please report any issues you encounter to the package maintainer. If it turns out your issue is a bug in node.js itself, the maintainer will report the issue upstream.
+***Note:*** The packages on this page are maintained and supported by their respective packagers, **not** the Node.js core team. Please report any issues you encounter to the package maintainer. If it turns out your issue is a bug in Node.js itself, the maintainer will report the issue upstream.
 
-## Gentoo
-Node.js is available in the portage tree.
-``````
- # emerge nodejs
-``````
-## Debian, LMDE
-[Node.js is available in official repo for Debian Sid(unstable)](http://packages.debian.org/search?searchon=names&keywords=nodejs).
+## Ubuntu, Linux Mint
 
-For Debian Wheezy, you have two options:
+***And other Ubuntu-based Linux distributions***
 
-### Build from source
-``````
- sudo apt-get install python g++ make checkinstall fakeroot
- src=$(mktemp -d) && cd $src
- wget -N http://nodejs.org/dist/node-latest.tar.gz
- tar xzvf node-latest.tar.gz && cd node-v*
- ./configure
- sudo fakeroot checkinstall -y --install=no --pkgversion $(echo $(pwd) | sed -n -re's/.+node-v(.+)$/\1/p') make -j$(($(nproc)+1)) install
- sudo dpkg -i node_*
-``````
-#### Uninstall
-``````
- sudo dpkg -r node
-``````
-### Backports
-
-Alternatively, you can install `nodejs` from [`wheezy-backports`](backports.debian.org). If you rely on having `node` as an executable, install `nodejs-legacy` as well.
-
-If you need `npm` as well, you can get it through the installer
-``````
- curl https://www.npmjs.org/install.sh | sudo sh
-``````
-## Ubuntu, Mint, elementary OS
 Add Chris Lea's repository first before installing to avoid conflicts
-``````
- sudo add-apt-repository ppa:chris-lea/node.js
- sudo apt-get update
-``````
 
-If ```add-apt-repository``` not found：
-```bash
+```text
+sudo add-apt-repository ppa:chris-lea/node.js
+sudo apt-get update
+```
+
+If "add-apt-repository not found"：
+
+```text
 # for <= 12.04
 sudo apt-get install python-software-properties
 # for >= 12.10
@@ -48,24 +21,32 @@ sudo apt-get install software-properties-common
 ```
 
 From Ubuntu 12.04 to 13.04, an old version (0.6.x) of Node is in the standard repository. For Ubuntu 13.10 and 14.04, 0.10.X versions are present. To install, just run:
-``````
- sudo apt-get install nodejs
-``````
+
+```text
+sudo apt-get install nodejs
+```
+
 To install npm on Ubuntu 13.10 and 14.04, run:
-``````
- sudo apt-get install npm
-``````
+
+```text
+sudo apt-get install npm
+```
+
 For programs that still depend on calling the "node" binary, run:
-``````
- sudo apt-get install nodejs-legacy
-``````
+
+```text
+sudo apt-get install nodejs-legacy
+```
+
 Obtaining a recent version of Node or installing on older Ubuntu and other apt-based distributions may require a few extra steps. Example install:
-``````
- sudo apt-get install python-software-properties
- sudo add-apt-repository ppa:chris-lea/node.js
- sudo apt-get update
- sudo apt-get install nodejs
-``````
+
+```text
+sudo apt-get install python-software-properties
+sudo add-apt-repository ppa:chris-lea/node.js
+sudo apt-get update
+sudo apt-get install nodejs
+```
+
 It installs current stable Node on the current stable Ubuntu. 12.10 and 13.04 users may need to install the *software-properties-common* package for the `add-apt-repository` command to work: `sudo apt-get install software-properties-common`.
 
 The command `add-apt-repository` is actually provided by the *python-software-properties* package. So you will have to install this one as well `sudo apt-get install python-software-properties`.
@@ -76,105 +57,185 @@ There is a naming conflict with the node package (Amateur Packet Radio Node Prog
 
 _Optional:_ To avoid using `sudo` for global `npm` installs etc.: `npm config set prefix ~/npm`, add `$HOME/npm/bin` to `$PATH`, and append `export PATH=$HOME/npm/bin:$PATH` to your `.bashrc`.
 
+## Debian and Linux Mint Debian
+
+Node.js is available in [official repo](http://packages.debian.org/search?searchon=names&keywords=nodejs) for Debian Sid (unstable).
+
+For Debian Wheezy, you have two options:
+
+### Build from source
+
+```text
+sudo apt-get install python g++ make checkinstall fakeroot
+src=$(mktemp -d) && cd $src
+wget -N http://nodejs.org/dist/node-latest.tar.gz
+tar xzvf node-latest.tar.gz && cd node-v*
+./configure
+sudo fakeroot checkinstall -y --install=no --pkgversion $(echo $(pwd) | sed -n -re's/.+node-v(.+)$/\1/p') make -j$(($(nproc)+1)) install
+sudo dpkg -i node_*
+```
+
+#### Uninstall
+
+```text
+sudo dpkg -r node
+```
+
+### Backports
+
+Alternatively, you can install `nodejs` from [`wheezy-backports`](backports.debian.org). If you rely on having `node` as an executable, install `nodejs-legacy` as well.
+
+If you need `npm` as well, you can get it through the installer
+
+```text
+curl https://www.npmjs.org/install.sh | sudo sh
+```
+
+## Gentoo
+
+Node.js is available in the portage tree.
+
+```text
+emerge nodejs
+```
+
 ## openSUSE & SLE
+
 [Download Node.js via openSUSE one-click](http://software.opensuse.org/download.html?project=devel%3Alanguages%3Anodejs&package=nodejs).
 
 Available RPM packages for: openSUSE 11.4, 12.1, 12.2, 12.3, 13.1, Factory and Tumbleweed; SLE 11 (with SP1/SP2/SP3 variations).
 
 Example install on openSUSE 13.1:
-``````
- sudo zypper ar http://download.opensuse.org/repositories/devel:/languages:/nodejs/openSUSE_13.1/ Node.js
- sudo zypper in nodejs nodejs-devel
-``````
+
+```text
+sudo zypper ar http://download.opensuse.org/repositories/devel:/languages:/nodejs/openSUSE_13.1/ Node.js
+sudo zypper in nodejs nodejs-devel
+```
+
 ## Fedora
 
 [Node.js](https://apps.fedoraproject.org/packages/nodejs) and [npm](https://apps.fedoraproject.org/packages/npm) are available in Fedora 18 and later. Just use your favorite graphical package manager or run this on a terminal to install both npm and node:
-``````
- sudo yum install nodejs npm
-``````
+
+```text
+sudo yum install nodejs npm
+```
+
 ## RHEL/CentOS/Scientific Linux 6
 
 Node.js and npm are available from the [Fedora Extra Packages for Enterprise Linux (EPEL)](https://fedoraproject.org/wiki/EPEL) repository. If you haven't already done so, first [enable EPEL](https://fedoraproject.org/wiki/EPEL#How_can_I_use_these_extra_packages.3F).
 
 To check if you have EPEL, run
-``````
- yum repolist
-``````
-if you don't see epel, install it via RPM (At the time of this writing, the last version is 6.8.).
+
+```text
+yum repolist
+```
+
+if you don't see EPEL, install it via RPM (At the time of this writing, the last version is 6.8.).
 
 First import the key:
-``````
- sudo rpm --import https://fedoraproject.org/static/0608B895.txt
-``````
+
+```text
+sudo rpm --import https://fedoraproject.org/static/0608B895.txt
+```
+
 Then install
+
+```text
+sudo rpm -Uvh http://download-i2.fedoraproject.org/pub/epel/6/i386/epel-release-6-8.noarch.rpm
 ``````
- sudo rpm -Uvh http://download-i2.fedoraproject.org/pub/epel/6/i386/epel-release-6-8.noarch.rpm
-``````
+
 And then run the following command to install node and npm:
-``````
- sudo yum install nodejs npm --enablerepo=epel
-``````
+
+```text
+sudo yum install nodejs npm --enablerepo=epel
+```
+
 or if this doesn't work for you install node separately:
-``````
- sudo yum install npm --enablerepo=epel
-``````
+
+```text
+sudo yum install npm --enablerepo=epel
+```
+
 ## Arch Linux
+
 Node.js is available in the Community Repository.
-``````
- pacman -S nodejs
-``````
+
+```text
+pacman -S nodejs
+```
+
 ## FreeBSD and OpenBSD
+
 Node.js is available through the ports system.
-``````
- /usr/ports/www/node
-``````
+
+```text
+/usr/ports/www/node
+```
+
 Development versions are also available using ports
-``````
- cd /usr/ports/www/node-devel/ && make install clean
-``````
+
+```text
+cd /usr/ports/www/node-devel/ && make install clean
+```
+
 or packages on FreeBSD
-``````
- pkg_add -r node-devel
-``````
+
+```text
+pkg_add -r node-devel
+```
+
 Using [pkg-ng](https://wiki.freebsd.org/pkgng) on FreeBSD
-``````
- pkg install node
-``````
+
+```text
+pkg install node
+```
+
 or the development versions
-``````
- pkg install node-devel
-``````
+
+```text
+pkg install node-devel
+```
+
 ## OSX
-Using [a package](http://nodejs.org/#download)
 
-> Simply [download Macintosh Installer](http://nodejs.org/#download).
+Simply download the [Macintosh Installer](http://nodejs.org/#download) direct from the [nodejs.org](http://nodejs.org) site.
 
-Using [Fink](http://www.finkproject.org):
-``````
- fink install nodejs
-``````
-Using [homebrew](https://github.com/mxcl/homebrew):
-``````
- brew install node
-``````
-Using [macports](http://www.macports.org/):
-``````
- port install nodejs
-``````
+### Alternatives
+
+Using **[Homebrew](http://brew.sh/)**:
+
+```text
+brew install node
+```
+
+Using **[Fink](http://www.finkproject.org)**:
+
+```text
+fink install nodejs
+```
+
+Using **[MacPorts](http://www.macports.org/)**:
+
+```text
+port install nodejs
+```
+
 ## Windows
-Using [a package](http://nodejs.org/#download)
 
-> Simply [download Windows Installer](http://nodejs.org/#download).
+Simply download the [Windows Installer](http://nodejs.org/#download) directly from the [nodejs.org](http://nodejs.org) site.
 
-Using [chocolatey](http://chocolatey.org) to install [Node](http://chocolatey.org/packages/nodejs):
-``````
- cinst nodejs
-``````
-or for [full install with NPM](http://chocolatey.org/packages/nodejs.install):
-``````
- cinst nodejs.install
-``````
-Using [Scoop](http://scoop.sh/) to install Node:
-``````
- scoop install nodejs
-``````
+### Alternatives
+
+Using **[Chocolatey](http://chocolatey.org)**:
+
+```text
+cinst nodejs
+# or for full install with npm
+cinst nodejs.install
+```
+
+Using **[Scoop](http://scoop.sh/)**:
+
+```
+scoop install nodejs
+```
