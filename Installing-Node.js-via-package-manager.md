@@ -9,7 +9,7 @@ Node.js is available from the [NodeSource](https://nodesource.com) official Debi
 Setup with:
 
 ```text
-curl -sL https://deb.nodesource.com/setup | bash -
+curl -sL https://deb.nodesource.com/setup | sudo bash -
 ```
 
 Then install:
