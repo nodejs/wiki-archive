@@ -2,7 +2,7 @@ When developing in the browser there are many wonderful built in JavaScript func
 
 The following is a list of some interesting api bits that aren't considered safe to use in a web setting but are built into node's V8 engine.
 
-Note that V8 implements all of ECMA 3rd edition and parts of the new stuff in the "ECMA 5th edition":http://www.ecma-international.org/publications/standards/Ecma-262.htm
+V8 implements all of "ECMA 5th edition":http://www.ecma-international.org/publications/standards/Ecma-262.htm
 
 "Sample usage":https://gist.github.com/1073547 of all features are here. You can try new features with Changing & Executing this source. 
 
