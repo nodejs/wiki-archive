@@ -304,7 +304,7 @@ h2. UTC-6 (-5)
 * Mike McNeil (mikermcneil), Austin, TX, US
 ** "Github":http://github.com/mikermcneil, "Twitter":http://twitter.com/mikermcneil, "Website":http://michaelmcneil.com
 * Nicholas Cloud (nicholascloud), St. Louis, MO
-** "Github":https://github.com/nicholascloud, "Twitter":https://twitter.com/nicholascloud, "Company":http://appendto.com
+** "Github":https://github.com/nicholascloud, "Twitter":https://twitter.com/nicholascloud, "Blog":http://nicholascloud.com, "Company":http://appendto.com
 
 h2. UTC-5 (-4)
 
