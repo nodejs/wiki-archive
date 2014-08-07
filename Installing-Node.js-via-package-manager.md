@@ -6,18 +6,29 @@
 
 Node.js is available from the [NodeSource](https://nodesource.com) official Debian and Ubuntu repository.
 
-Setup with:
+Setup with Ubuntu:
 
 ```text
 curl -sL https://deb.nodesource.com/setup | sudo bash -
 ```
 
-Then install:
+Then install with Ubuntu:
 
 ```text
 sudo apt-get install nodejs
 ```
 
+Setup with Debian:
+
+```text
+curl -sL https://deb.nodesource.com/setup | bash -
+```
+
+Then install with Debian:
+
+```text
+apt-get install nodejs
+```
 **Available architectures:**
 
 * **i386** (32-bit)
