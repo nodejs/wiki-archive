@@ -21,6 +21,7 @@ sudo apt-get install nodejs
 Setup with Debian:
 
 ```text
+apt-get install curl
 curl -sL https://deb.nodesource.com/setup | bash -
 ```
 
