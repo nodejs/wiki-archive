@@ -12,6 +12,7 @@ Name | Node Version | Web Sockets | IP/Hostname | IRC | Repository | Free Plan |
 [Cloud Foundry](http://www.cloudfoundry.com) | 0.4.12, 0.6.8, 0.8.2 | No | No | | [cloudfoundry](https://github.com/cloudfoundry) | Yes - Only during beta. | | Beta, accepting signups
 [Cloudnode](http://cloudno.de) | 0.4.12, 0.6.17, 0.8.25 | Yes | Yes | | | Yes - Up to 3 VMs, 25 MB CouchDB space, 250,000 requests/month. | | Beta (accepting signups) - powered by Nodester 
 [DotCloud](http://www.dotcloud.com) | 0.4.10 | Yes | Paid plan | #dotcloud | [dotcloud](https://github.com/dotcloud) |  | Pro - $99/month, 4 services. Enterprise - Unlimited services. | 
+[EvenNode](http://www.evennode.com) | 0.8.x, 0.9.x, 0.10.x, 0.11.x | Yes | Yes |  |  |  | Starting at $8/month | Runs on AWS 
 [exoscale apps](https://www.exoscale.ch/open-cloud/apps/) | 0.8.x, 0.10.x | Yes | Yes | | [exoscale](https://github.com/exoscale) | Yes, free credit on sign-up | Yes, pre-paid credit, post-paid option | General Availability 
 [Heroku](http://heroku.com) | [0.4.x, 0.6.x, 0.8.x, 0.10.x](http://heroku-buildpack-nodejs.s3.amazonaws.com/manifest.nodejs) | Yes | Yes | #heroku | [heroku](http://github.com/heroku) | Yes - 1 Dyno (512 MB Ram) | $0.05/hour/dyno  | 
 [Modulus](http://modulus.io) | 0.2.x - 0.11.x | Yes | Yes | #modulus | [OnModulus](https://github.com/onmodulus) | $15 free credits | $0.02/hour per instance | Live on AWS
