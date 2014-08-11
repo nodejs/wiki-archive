@@ -53,6 +53,8 @@ A Node.js package is also available in [official repo](http://packages.debian.or
 
 ***Note:*** You may experience a naming conflict with the "node" package (Amateur Packet Radio Node Program), and find that the "nodejs" binary has been renamed from `node` to `nodejs`. You'll need to symlink `/usr/bin/node` to `/usr/bin/nodejs` or you could uninstall the Amateur Packet Radio Node Program to avoid the conflict.
 
+***Note:***For Linux Mint 17, if the setup script shows an update error 'W: Failed to fetch... HttpError404' change the "deb https://deb.nodesource.com/node **qiana** main" to "deb https://deb.nodesource.com/node **trusty** main" in Software Sources. and then run update again.
+
 ## Gentoo
 
 Node.js is available in the portage tree.
