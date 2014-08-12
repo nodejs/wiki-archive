@@ -40,7 +40,6 @@ apt-get install nodejs
 
 * **Ubuntu 10.04 LTS** (Lucid Lynx, *armhf build not available*)
 * **Ubuntu 12.04 LTS** (Precise Pangolin)
-* **Ubuntu 13.10** (Saucy Salamander)
 * **Ubuntu 14.04 LTS** (Trusty Tahr)
 
 **Supported Debian versions:**
