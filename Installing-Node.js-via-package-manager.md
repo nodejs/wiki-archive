@@ -28,7 +28,7 @@ curl -sL https://deb.nodesource.com/setup | bash -
 Then install with Debian:
 
 ```text
-apt-get install nodejs nodejs-legacy
+apt-get install nodejs nodejs-legacy npm
 ```
 **Available architectures:**
 
