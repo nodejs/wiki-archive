@@ -53,8 +53,6 @@ apt-get install nodejs nodejs-legacy npm
 
 A Node.js package is also available in [official repo](http://packages.debian.org/search?searchon=names&keywords=nodejs) for Debian Sid (unstable) as "nodejs".
 
-***Note:*** For Linux Mint 17, if the setup script shows an update error 'W: Failed to fetch... HttpError404' change the "deb https://deb.nodesource.com/node **qiana** main" to "deb https://deb.nodesource.com/node **trusty** main" in Software Sources. and then run update again.
-
 ## Gentoo
 
 Node.js is available in the portage tree.
