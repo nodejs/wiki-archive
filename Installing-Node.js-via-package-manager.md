@@ -18,18 +18,21 @@ Then install with Ubuntu:
 sudo apt-get install nodejs
 ```
 
-Setup with Debian:
+Setup with Debian (as root):
 
 ```text
 apt-get install curl lsb-release
 curl -sL https://deb.nodesource.com/setup | bash -
 ```
 
-Then install with Debian:
+Then install with Debian (as root):
 
 ```text
 apt-get install nodejs nodejs-legacy npm
 ```
+
+*(Note: The *nodejs-legacy* package from Debian helps prevent a conflict with the Amateur Packet Radio "Node" Program)*
+
 **Available architectures:**
 
 * **i386** (32-bit)
@@ -49,8 +52,6 @@ apt-get install nodejs nodejs-legacy npm
 * **Debian unstable** (sid)
 
 A Node.js package is also available in [official repo](http://packages.debian.org/search?searchon=names&keywords=nodejs) for Debian Sid (unstable) as "nodejs".
-
-***Note:*** You may experience a naming conflict with the "node" package (Amateur Packet Radio Node Program), and find that the "nodejs" binary has been renamed from `node` to `nodejs`. You'll need to symlink `/usr/bin/node` to `/usr/bin/nodejs` or you could uninstall the Amateur Packet Radio Node Program to avoid the conflict. You could also install nodejs-legacy.
 
 ***Note:*** For Linux Mint 17, if the setup script shows an update error 'W: Failed to fetch... HttpError404' change the "deb https://deb.nodesource.com/node **qiana** main" to "deb https://deb.nodesource.com/node **trusty** main" in Software Sources. and then run update again.
 
