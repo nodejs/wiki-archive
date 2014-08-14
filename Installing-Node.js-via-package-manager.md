@@ -4,7 +4,7 @@
 
 ***Including most Ubuntu and Debian-based Linux distributions***
 
-Node.js is available from the [NodeSource](https://nodesource.com) official Debian and Ubuntu repository.
+Node.js is available from the [NodeSource](https://nodesource.com) Debian and Ubuntu binary distributions repository (formerly [Chris Lea's](https://github.com/chrislea) Launchpad PPA). Support for this repository, along with its scripts, can be found at [nodesource/distributions](https://github.com/nodesource/distributions).
 
 Setup with Ubuntu:
 
