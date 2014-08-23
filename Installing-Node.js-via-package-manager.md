@@ -21,17 +21,17 @@ sudo apt-get install nodejs
 Setup with Debian (as root):
 
 ```text
-apt-get install curl lsb-release
+apt-get install curl
 curl -sL https://deb.nodesource.com/setup | bash -
 ```
 
 Then install with Debian (as root):
 
 ```text
-apt-get install nodejs nodejs-legacy npm
+apt-get install nodejs nodejs-legacy
 ```
 
-*(Note: The *nodejs-legacy* package from Debian helps prevent a conflict with the Amateur Packet Radio "Node" Program)*
+*(Note: The optional *nodejs-legacy* package from Debian helps prevent a conflict with the Amateur Packet Radio "Node" Program)*
 
 **Available architectures:**
 
