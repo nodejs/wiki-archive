@@ -60,9 +60,58 @@ In other words, the current implementation has the following characteristics:
 * Cost of adding a timer: O(n).
 * Cost of a timer timing out: O(1).
 
-The current implementation is optimized for use cases when there's a lot of timeouts, and not a lot of timers 
-added. 
+It is clear now why, when running a benchmark such as the one mentioned above, this solution shows poor performance. A lot of connections are created (thus a lot of timers are added to the queue) and only a few timeouts happen.
 
-It is clear now why when running a benchmark such as the one mentioned above, this solution shows poor performance. A lot of connections are created (thus a lot of timers are added to the queue) and only a few timeouts happen.
+The current implementation is optimized for use cases when there's a lot of timeouts, and not a lot of timers 
+added. In practice, this is contradictory because you can't have a lot of timeouts without a lot of timers added. The solution to this problem needs to at least have significant better performance when adding timers.
 
 # Solutions
+
+There are at least two other ways to implement a priority queue that have better performance characteristics than an ordered linked list with regards to adding timers:
+* Using an unsorted array.
+* Using a heap.
+
+Finally, there is another popular implementation for timers management that uses a more complex data structure called a timer wheel.
+
+## Using an unsorted array
+
+An unsorted array has the advantage of providing constant time addition to the priority queue. When running the same HTTP heavy benchmark as above, this shows a significant improvement. Here's the results from v8 profiler when running the same `wrk` benchmark with the same server, but this time with an unordered list as the underlying implementation:
+```
+ticks parent  name
+   8365   27.6%  node::Parser::Execute(v8::FunctionCallbackInfo<v8::Value> const&)
+   4225   50.5%    LazyCompile: ~socketOnData _http_server.js:339:24
+   4220   99.9%      LazyCompile: *emit events.js:68:44
+   4220  100.0%        LazyCompile: *readableAddChunk _stream_readable.js:134:26
+   4220  100.0%          LazyCompile: *onread net.js:492:16
+   4095   49.0%    LazyCompile: socketOnData _http_server.js:339:24
+   4095  100.0%      LazyCompile: *emit events.js:68:44
+   4095  100.0%        LazyCompile: *readableAddChunk _stream_readable.js:134:26
+   4095  100.0%          LazyCompile: *onread net.js:492:16
+
+   1798    5.9%  _getpid
+
+   1203    4.0%  LazyCompile: *emit events.js:68:44
+    867   72.1%    LazyCompile: *readableAddChunk _stream_readable.js:134:26
+    867  100.0%      LazyCompile: *onread net.js:492:16
+    214   17.8%    LazyCompile: *resume_ _stream_readable.js:717:17
+    214  100.0%      LazyCompile: ~<anonymous> _stream_readable.js:711:30
+    214  100.0%        LazyCompile: _tickCallback node.js:332:27
+     43    3.6%    LazyCompile: *emitReadable_ _stream_readable.js:417:23
+     43  100.0%      LazyCompile: ~<anonymous> _stream_readable.js:409:32
+     43  100.0%        LazyCompile: _tickCallback node.js:332:27
+     30    2.5%    LazyCompile: ~finish _http_outgoing.js:504:18
+     30  100.0%      LazyCompile: *afterWrite _stream_writable.js:321:20
+     30  100.0%        LazyCompile: ~<anonymous> _stream_writable.js:312:32
+     30  100.0%          LazyCompile: _tickCallback node.js:332:27
+
+    801    2.6%  LazyCompile: *exports._unrefActive timers.js:555:32
+    778   97.1%    LazyCompile: *onread net.js:492:16
+
+    692    2.3%  LazyCompile: socketOnData _http_server.js:339:24
+    692  100.0%    LazyCompile: *emit events.js:68:44
+    692  100.0%      LazyCompile: *readableAddChunk _stream_readable.js:134:26
+    692  100.0%        LazyCompile: *onread net.js:492:16
+```
+We can see that `_unrefActive` is not a significant contributor. The number of requests/s also rises significantly, which indicates that overall performance is affected by this change.
+
+## Using a heap
