@@ -187,3 +187,15 @@ ticks parent  name
     134  100.0%      LazyCompile: *Heap.pop _heap.js:79:30
     134  100.0%        LazyCompile: ~<anonymous> native v8natives.js:1:1
 ```
+
+# Conclusion
+
+The unordered list implementation is the top performer when tested with the HTTP heavy benchmark mentioned at the top of the [GitHub issue](https://github.com/joyent/node/issues/8160). However, it is clear that this implementation suffers from the same issues than the current one when a lot of timeouts happen. 
+
+The heap implementation performs much better in the case when a lot of timeouts are triggered, but it's significantly slower than the unordered list implementation when tested under the HTTP heavy benchmark. It is also theoretically better in the general case, given that insertion and retrieval of timers both happen in O(log n) time.
+
+The next step to choose between these two implementations is to come up with a macro benchmark that reproduce two different use cases that are not covered by the HTTP heavy benchmark:
+* Most timers timeout.
+* A significant number if timers timeout, but not most of them.
+
+We also need to evaluate if these use cases are common.
