@@ -114,4 +114,43 @@ ticks parent  name
 ```
 We can see that `_unrefActive` is not a significant contributor. The number of requests/s also rises significantly, which indicates that overall performance is affected by this change.
 
+However, using an unsorted array also means that when a timer fires, `unrefTimeout` has to traverse the whole priority queue to determine which timer fired. This characteristic is not exposed by the benchmark above, since only a few timeouts happen. However, it is easy to build a very simple micro benchmark that exposes this issue.
+
+We can run the following code and profile it:
+```
+var timers = require('timers');
+
+var N = 100000;
+
+var i = 0;
+while (i < N) {
+    var  someObject = { _onTimeout: function () { } };
+    timers.enroll(someObject, i);
+    timers._unrefActive(someObject);
+    ++i;
+}
+
+setTimeout(function() {}, N);
+```
+to see that `unrefTimeout` is very costly:
+```
+Note: percentage shows a share of a particular caller in the total
+  amount of its parent calls.
+  Callers occupying less than 2.0% are not shown.
+
+   ticks parent  name
+  41831   52.2%  syscall
+
+  19713   24.6%  LazyCompile: unrefTimeout timers.js:470:22
+
+   9679   12.1%  Stub: LoadFieldStub
+   9679  100.0%    LazyCompile: unrefTimeout timers.js:470:22
+
+   4590    5.7%  Stub: CompareICStub
+   4590  100.0%    LazyCompile: unrefTimeout timers.js:470:22
+```
+Basically, what this micro  benchmark does is to add a very large number of timers that all fire 1ms after the previous one. This means that every time `unrefTimeout` will be called, a lot of timers will be present in the priority queue.
+
+It is not clear yet if that behavior represents a significant use case in production, but it is at least worth considering.
+
 ## Using a heap
