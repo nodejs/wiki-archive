@@ -192,7 +192,7 @@ ticks parent  name
 
 # Conclusion
 
-The unordered list implementation is the top performer when tested with the HTTP heavy benchmark mentioned at the top of the [GitHub issue](https://github.com/joyent/node/issues/8160). However, it is clear that this implementation suffers from the same issues than the current one when a lot of timeouts happen. 
+The unordered list implementation is the top performer when tested with the HTTP heavy benchmark mentioned at the top of the [GitHub issue](https://github.com/joyent/node/issues/8160). However, it is clear that this implementation suffers from the same issues than the current one when most timers timeout. 
 
 The heap implementation performs much better in the case when a lot of timeouts are triggered, but it's significantly slower than the unordered list implementation when tested under the HTTP heavy benchmark. It is also theoretically better in the general case, given that insertion and retrieval of timers both happen in O(log n) time.
 
