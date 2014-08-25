@@ -69,7 +69,7 @@ added. In practice, this is contradictory because you can't have a lot of timeou
 
 # Solutions
 
-There are at least two other ways to implement a priority queue that have better performance characteristics than an ordered linked list with regards to adding timers:
+There are at least two other ways to implement a priority queue that have better performance characteristics than an ordered linked list with regard to adding timers:
 * Using an unsorted array.
 * Using a heap.
 
