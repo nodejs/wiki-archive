@@ -22,3 +22,10 @@ This page contains the list of Node.js applications that have been tested with N
 * Platform: MacOS X.
 * Version: master branch.
 * Result: working well.
+
+### PM2
+
+* https://github.com/Unitech/pm2
+* Platform: Ubuntu 14.04
+* Version: latest (0.10.3)
+* Result: working well
