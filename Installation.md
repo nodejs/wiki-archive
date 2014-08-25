@@ -50,7 +50,7 @@ ln -s /usr/bin/python2-config python-config
 
 Remember to remove the symlinks when you're done. If you have any further installation problems stop into [#node.js](http://webchat.freenode.net/?channels=node.js&uio=d4) on irc.freenode.net and ask questions.
 
-If you are compiling on a NFS mount and get errors at the linker stage, try this:
+If you are compiling on a NFS mount and get errors at the linker stage or are getting complaints about `flock` not being available on your system, try changing the linker:
 
 ```
 make LINK=g++
