@@ -154,3 +154,36 @@ Basically, what this micro  benchmark does is to add a very large number of time
 It is not clear yet if that behavior represents a significant use case in production, but it is at least worth considering.
 
 ## Using a heap
+
+A heap gives us a good balance between the cost of adding and finding a timer:
+* Addition is O(log(n)).
+* Retrieval of the next timer is also O(log(n)).
+
+Unsurprisingly, because adding a timer is not constant time, the heavy HTTP benchmark shows that its performance is slightly worse than when using an unordered list:
+```
+ 228 2.2% LazyCompile: *exports._unrefActive timers.js:534:32
+```
+However, the micro-benchmark that highlighted the very bad performance of the unordered list implementation when a lot of timeouts happen shows that a heap implementation performs well in this case:
+```
+ticks parent  name
+  71657   93.2%  syscall
+
+   1610    2.1%  LazyCompile: *Heap._swap _heap.js:181:32
+   1475   91.6%    LazyCompile: *Heap._down _heap.js:278:32
+   1306   88.5%      LazyCompile: *Heap._down _heap.js:278:32
+   1124   86.1%        LazyCompile: *Heap._down _heap.js:278:32
+    946   84.2%          LazyCompile: *Heap._down _heap.js:278:32
+    793   83.8%            LazyCompile: *Heap._down _heap.js:278:32
+    153   16.2%            LazyCompile: *Heap.remove _heap.js:88:33
+    178   15.8%          LazyCompile: *Heap.remove _heap.js:88:33
+    178  100.0%            LazyCompile: *Heap.pop _heap.js:79:30
+    182   13.9%        LazyCompile: *Heap.remove _heap.js:88:33
+    182  100.0%          LazyCompile: *Heap.pop _heap.js:79:30
+    182  100.0%            LazyCompile: ~<anonymous> native v8natives.js:1:1
+    169   11.5%      LazyCompile: *Heap.remove _heap.js:88:33
+    169  100.0%        LazyCompile: *Heap.pop _heap.js:79:30
+    169  100.0%          LazyCompile: ~<anonymous> native v8natives.js:1:1
+    134    8.3%    LazyCompile: *Heap.remove _heap.js:88:33
+    134  100.0%      LazyCompile: *Heap.pop _heap.js:79:30
+    134  100.0%        LazyCompile: ~<anonymous> native v8natives.js:1:1
+```
