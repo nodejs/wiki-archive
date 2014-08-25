@@ -116,7 +116,9 @@ ticks parent  name
     692  100.0%      LazyCompile: *readableAddChunk _stream_readable.js:134:26
     692  100.0%        LazyCompile: *onread net.js:492:16
 ```
-We can see that `_unrefActive` is not a significant contributor. The number of requests/s also rises significantly, which indicates that overall performance is affected by this change.
+We can see that `_unrefActive` is still a significant contributor. But this time, only 2.6% of the time spent on the CPU is spent executing `_unrefActive` (down from 34%). This benchmark was run from a Ubuntu VM with only 4 CPUs. The same benchmark ran from my MacOS X laptop shows that `_unrefActive`'s impact on overall performance is even less than 2%. Most of the time, it doesn't show up in the profiling smmary.
+
+The number of requests/s also rises significantly, which indicates that overall performance is affected by this change.
 
 ### Cons
 
@@ -243,7 +245,7 @@ This is due to the improvement from a O(n) to O(log n) process to determine whic
 
 On the other hand, because adding a timer does not happen in constant time, the heavy HTTP benchmark shows that its performance is slightly worse than when using an unordered list:
 ```
- 228 2.2% LazyCompile: *exports._unrefActive timers.js:534:32
+ 456 4.4% LazyCompile: *exports._unrefActive timers.js:534:32
 ```
 
 # Conclusion
@@ -251,3 +253,5 @@ On the other hand, because adding a timer does not happen in constant time, the 
 The unordered list implementation is the top performer when tested with the HTTP heavy benchmark mentioned at the top of the [GitHub issue](https://github.com/joyent/node/issues/8160). However, it is clear that this implementation suffers from the same issues than the current one when most timers timeout. 
 
 The heap implementation performs much better in the case when a lot of timeouts are triggered, but it's slightly slower than the unordered list implementation when tested under the HTTP heavy benchmark without timeouts.
+
+My recommendation would be to favor the heap implementation over the unordered list one. One question remain if we decide to go this way: can we use @tjfontaine's binaryheap module as our `lib/_heap.js` implementation as it's done currently? 
