@@ -73,9 +73,11 @@ There are at least two other ways to implement a priority queue that have better
 * Using an unsorted array.
 * Using a heap.
 
-Finally, there is another popular implementation for timers management that uses a more complex data structure called a timer wheel.
+Finally, another popular implementation for timers management is called a timer wheel. It uses a more complex data structure and has not been implemented yet. Depending on the outcome of the comparison described in this document, it will be implemented and its performance will be tested.
 
 ## Using an unsorted array
+
+### Pros
 
 An unsorted array has the advantage of providing constant time addition to the priority queue. When running the same HTTP heavy benchmark as above, this shows a significant improvement. Here's the results from v8 profiler when running the same `wrk` benchmark with the same server, but this time with an unordered list as the underlying implementation:
 ```
@@ -116,6 +118,8 @@ ticks parent  name
 ```
 We can see that `_unrefActive` is not a significant contributor. The number of requests/s also rises significantly, which indicates that overall performance is affected by this change.
 
+### Cons
+
 However, using an unsorted array also means that when a timer fires, `unrefTimeout` has to traverse the whole priority queue to determine which timer fired. This characteristic is not exposed by the benchmark above, since only a few timeouts happen. However, it is easy to build a very simple micro benchmark that exposes this issue.
 
 We can run the following code and profile it:
@@ -153,15 +157,61 @@ Note: percentage shows a share of a particular caller in the total
 ```
 Basically, what this micro  benchmark does is to add a very large number of timers that all fire 1ms after the previous one. This means that every time `unrefTimeout` will be called, a lot of timers will be present in the priority queue.
 
-It is not clear yet if that behavior represents a significant use case in production, but it is at least worth considering.
+We can build a macro-benchmark that is very similar to the previous micro-benchmark by writing the following server-code:
+```
+var http = require('http');
+var reqIndex = 0;
+
+var server = http.createServer(function (req, res) {
+    reqIndex++;
+    req.setTimeout(reqIndex, function() { });
+});
+
+server.listen(4242);
+```
+When stress-testing this server with the following wrk benchmark (note the use of 5000 connections instead of 1000 so that wrk can put a lot of stress on the server despite all requests timing out):
+```
+wrk -t12 -c5000 -d30s http://127.0.0.1:4242/
+```
+we can see that `unrefTimeout` is one of the top contributors of v8's profile:
+```
+[Bottom up (heavy) profile]:
+  Note: percentage shows a share of a particular caller in the total
+  amount of its parent calls.
+  Callers occupying less than 2.0% are not shown.
+
+   ticks parent  name
+  18597   76.9%  syscall
+
+    991    4.1%  LazyCompile: unrefTimeout timers.js:399
+
+    968    4.0%  node::HandleWrap::Close(v8::Arguments const&)
+    956   98.8%    LazyCompile: *Socket._destroy net.js:431
+    869   90.9%      LazyCompile: *Socket.destroy net.js:488
+    858   98.7%        LazyCompile: ~<anonymous> http.js:1935
+    858  100.0%          LazyCompile: *emit events.js:53
+    858  100.0%            LazyCompile: *Socket._onTimeout net.js:324
+     87    9.1%      LazyCompile: *onSocketFinish net.js:194
+     69   79.3%        LazyCompile: *Writable.end _stream_writable.js:327
+     69  100.0%          LazyCompile: *Socket.end net.js:395
+     69  100.0%            LazyCompile: ~socket.onend http.js:2000
+     18   20.7%        LazyCompile: ~emit events.js:53
+     18  100.0%          LazyCompile: *Writable.end _stream_writable.js:327
+     18  100.0%            LazyCompile: *Socket.end net.js:395
+
+    746    3.1%  Stub: CompareICStub
+    746  100.0%    LazyCompile: unrefTimeout timers.js:399
+```
+Reducing the frequency of timeouts mitigates the impact of `unrefTimeout` on the overall performance, but even with 1 timeout out of 10 requests, it's still a significant contributor.
+
 
 ## Using a heap
 
-A heap gives us a good balance between the cost of adding and finding a timer:
+A heap theoretically gives us a good balance between the cost of adding and finding a timer:
 * Addition is O(log(n)).
 * Retrieval of the next timer is also O(log(n)).
 
-Unsurprisingly, because adding a timer is not constant time, the heavy HTTP benchmark shows that its performance is slightly worse than when using an unordered list:
+Unsurprisingly, because adding a timer does not happen in constant time, the heavy HTTP benchmark shows that its performance is slightly worse than when using an unordered list:
 ```
  228 2.2% LazyCompile: *exports._unrefActive timers.js:534:32
 ```
@@ -189,15 +239,10 @@ ticks parent  name
     134  100.0%      LazyCompile: *Heap.pop _heap.js:79:30
     134  100.0%        LazyCompile: ~<anonymous> native v8natives.js:1:1
 ```
+Results are similar with the macro-benchmark that simulates a large number of frequent timeouts.
 
 # Conclusion
 
 The unordered list implementation is the top performer when tested with the HTTP heavy benchmark mentioned at the top of the [GitHub issue](https://github.com/joyent/node/issues/8160). However, it is clear that this implementation suffers from the same issues than the current one when most timers timeout. 
 
-The heap implementation performs much better in the case when a lot of timeouts are triggered, but it's significantly slower than the unordered list implementation when tested under the HTTP heavy benchmark. It is also theoretically better in the general case, given that insertion and retrieval of timers both happen in O(log n) time.
-
-The next step to choose between these two implementations is to come up with a macro benchmark that reproduce two different use cases that are not covered by the HTTP heavy benchmark:
-* Most timers timeout.
-* A significant number if timers timeout, but not most of them.
-
-We also need to evaluate if these use cases are common.
+The heap implementation performs much better in the case when a lot of timeouts are triggered, but it's slightly slower than the unordered list implementation when tested under the HTTP heavy benchmark without timeouts. It is also theoretically better in the general case, given that insertion and retrieval of timers both happen in O(log n) time.
