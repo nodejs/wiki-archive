@@ -254,4 +254,8 @@ The unordered list implementation is the top performer when tested with the HTTP
 
 The heap implementation performs much better in the case when a lot of timeouts are triggered, but it's slightly slower than the unordered list implementation when tested under the HTTP heavy benchmark without timeouts.
 
-My recommendation would be to favor the heap implementation over the unordered list one. One question remain if we decide to go this way: can we use @tjfontaine's binaryheap module as our `lib/_heap.js` implementation as it's done currently? 
+My recommendation would be to favor the heap implementation over the unordered list one. The reason is that with an unordered list, although we would be sure to have the fastest implementation regarding adding timers, we would only move the problem to another point in time when timeouts fire.
+
+A few questions remain:
+* If we decide to go this way: can we use @tjfontaine's binaryheap module as our `lib/_heap.js` implementation (as it's done currently)?
+* Do we want to integrate the heap implementation first and then benchmark the timer wheel? Or do we want to benchmark the timer wheel before merging any change?
