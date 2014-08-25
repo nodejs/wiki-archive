@@ -1,3 +1,5 @@
+TL;DR jump to the [conclusion](https://github.com/joyent/node/wiki/Optimizing-_unrefActive#conclusion).
+
 # Introduction
 
 Some internal modules use timers to implement their timeout logic. For instance, `lib/net.js` registers a timer every time some activity happens on a socket. If a socket doesn't have any activity after some time, its timeout callback is triggered.
