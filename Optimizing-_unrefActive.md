@@ -8,6 +8,8 @@ Instead, they use an internal function named `_unrefActive`.
 
 ## The problem
 
+### How to reproduce it
+
 As described in [a recent GitHub issue](https://github.com/joyent/node/issues/8160) `_unrefActive` seems to take a significant part of CPU time when Node.js is under some heavy HTTP load. For instance, when running the following Node.js server:
 ```
 var http = require('http');
@@ -48,3 +50,19 @@ ticks parent  name
 
 Because `_unrefActive`'s purpose is to allow internal modules to create a large number of timers efficiently, it is an issue.
 
+### What's happening under the hood
+
+Whenever a timer is added to handle timeout for a socket (or any other object that needs to implement some timeout logic), `_unrefActive` adds a timer to a priority queue. When an internal timer expires, `unrefTimeout` (also implemented in `lib/timers.js`) is called. It processes the priority queue and calls the timeout callback of each timer that has expired.
+
+Using a priority queue allows quick and easy retrieval of expired timers when they expire, because they all are at the beginning of the list. However, the priority queue is implemented as a linked list. This means every time a timer is added, the list has to be traversed to determine its position in the queue. With a very large number of timer, this process can take a lot of CPU time.
+
+In other words, the current implementation has the following characteristics:
+* Cost of adding a timer: O(n).
+* Cost of a timer timing out: O(1).
+
+The current implementation is optimized for use cases when there's a lot of timeouts, and not a lot of timers 
+added. 
+
+It is clear now why when running a benchmark such as the one mentioned above, this solution shows poor performance. A lot of connections are created (thus a lot of timers are added to the queue) and only a few timeouts happen.
+
+# Solutions
