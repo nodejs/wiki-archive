@@ -211,11 +211,9 @@ A heap theoretically gives us a good balance between the cost of adding and find
 * Addition is O(log(n)).
 * Retrieval of the next timer is also O(log(n)).
 
-Unsurprisingly, because adding a timer does not happen in constant time, the heavy HTTP benchmark shows that its performance is slightly worse than when using an unordered list:
-```
- 228 2.2% LazyCompile: *exports._unrefActive timers.js:534:32
-```
-However, the micro-benchmark that highlighted the very bad performance of the unordered list implementation when a lot of timeouts happen shows that a heap implementation performs well in this case:
+# Pros
+
+Unsurprisingly, the micro-benchmark that highlighted the very bad performance of the unordered list implementation when a lot of timeouts happen shows that a heap implementation performs well in this case:
 ```
 ticks parent  name
   71657   93.2%  syscall
@@ -239,10 +237,17 @@ ticks parent  name
     134  100.0%      LazyCompile: *Heap.pop _heap.js:79:30
     134  100.0%        LazyCompile: ~<anonymous> native v8natives.js:1:1
 ```
-Results are similar with the macro-benchmark that simulates a large number of frequent timeouts.
+This is due to the improvement from a O(n) to O(log n) process to determine which timer has expired. Results are similar with the macro-benchmark that simulates a large number of frequent timeouts.
+
+# Cons
+
+On the other hand, because adding a timer does not happen in constant time, the heavy HTTP benchmark shows that its performance is slightly worse than when using an unordered list:
+```
+ 228 2.2% LazyCompile: *exports._unrefActive timers.js:534:32
+```
 
 # Conclusion
 
 The unordered list implementation is the top performer when tested with the HTTP heavy benchmark mentioned at the top of the [GitHub issue](https://github.com/joyent/node/issues/8160). However, it is clear that this implementation suffers from the same issues than the current one when most timers timeout. 
 
-The heap implementation performs much better in the case when a lot of timeouts are triggered, but it's slightly slower than the unordered list implementation when tested under the HTTP heavy benchmark without timeouts. It is also theoretically better in the general case, given that insertion and retrieval of timers both happen in O(log n) time.
+The heap implementation performs much better in the case when a lot of timeouts are triggered, but it's slightly slower than the unordered list implementation when tested under the HTTP heavy benchmark without timeouts.
