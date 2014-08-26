@@ -171,11 +171,14 @@ var server = http.createServer(function (req, res) {
 
 server.listen(4242);
 ```
-When stress-testing this server with the following wrk benchmark (note the use of 5000 connections instead of 1000 so that wrk can put a lot of stress on the server despite all requests timing out):
+When stress-testing this server with the following wrk benchmark:
 ```
 wrk -t12 -c5000 -d30s http://127.0.0.1:4242/
 ```
-we can see that `unrefTimeout` is one of the top contributors of v8's profile:
+
+Note the use of 5000 connections instead of 1000 so that wrk can put a lot of stress on the server despite all requests timing out. Using 1000 simultaneous connections wouldn't highlight the issue. Using more simultaneous connections stresses the issue even more, as more timers are added and removed over the same period of time.
+
+We can see that `unrefTimeout` is one of the top contributors of v8's profile:
 ```
 [Bottom up (heavy) profile]:
   Note: percentage shows a share of a particular caller in the total
