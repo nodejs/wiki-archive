@@ -251,6 +251,53 @@ On the other hand, because adding a timer does not happen in constant time, the 
  456 4.4% LazyCompile: *exports._unrefActive timers.js:534:32
 ```
 
+Sometimes, the heap implementation itself shows as a significant cost. For instance, here's a sample from a profiling session on MacOS X with 10K concurrent connections:
+```
+435    3.4%  LazyCompile: *Heap._swap _heap.js:181:32
+    397   91.3%    LazyCompile: *Heap._down _heap.js:278:32
+    267   67.3%      LazyCompile: *Heap._down _heap.js:278:32
+    190   71.2%        LazyCompile: *Heap._down _heap.js:278:32
+    120   63.2%          LazyCompile: *Heap._down _heap.js:278:32
+     65   54.2%            LazyCompile: *Heap._down _heap.js:278:32
+     42   35.0%            LazyCompile: Heap.remove _heap.js:88:33
+      5    4.2%            Stub: binaryWrite {5}
+      5    4.2%            LazyCompile: *Heap.remove _heap.js:88:33
+      3    2.5%            Stub: parent {4}
+     53   27.9%          LazyCompile: Heap.remove _heap.js:88:33
+     53  100.0%            LazyCompile: *exports._unrefActive timers.js:534:32
+      6    3.2%          LazyCompile: *Heap.remove _heap.js:88:33
+      6  100.0%            LazyCompile: *exports._unrefActive timers.js:534:32
+      5    2.6%          Stub: binaryWrite {5}
+      5  100.0%            LazyCompile: *exports._unrefActive timers.js:534:32
+      4    2.1%          Stub: parent {4}
+      4  100.0%            LazyCompile: *exports._unrefActive timers.js:534:32
+     58   21.7%        LazyCompile: Heap.remove _heap.js:88:33
+     58  100.0%          LazyCompile: *exports._unrefActive timers.js:534:32
+     58  100.0%            LazyCompile: *onread net.js:492:16
+      9    3.4%        LazyCompile: *Heap.remove _heap.js:88:33
+      8   88.9%          LazyCompile: *exports._unrefActive timers.js:534:32
+      8  100.0%            LazyCompile: *onread net.js:492:16
+      1   11.1%          LazyCompile: ~exports._unrefActive timers.js:534:32
+      1  100.0%            LazyCompile: *onread net.js:492:16
+      6    2.2%        Stub: binaryWrite {5}
+      6  100.0%          LazyCompile: *exports._unrefActive timers.js:534:32
+      6  100.0%            LazyCompile: *onread net.js:492:16
+    111   28.0%      LazyCompile: Heap.remove _heap.js:88:33
+    111  100.0%        LazyCompile: *exports._unrefActive timers.js:534:32
+    111  100.0%          LazyCompile: *onread net.js:492:16
+     18    4.1%    LazyCompile: *Heap.remove _heap.js:88:33
+     18  100.0%      LazyCompile: *exports._unrefActive timers.js:534:32
+     18  100.0%        LazyCompile: *onread net.js:492:16
+     11    2.5%    Stub: parent {4}
+     11  100.0%      LazyCompile: *exports._unrefActive timers.js:534:32
+     11  100.0%        LazyCompile: *onread net.js:492:16
+
+    377    2.9%  LazyCompile: *exports._unrefActive timers.js:534:32
+    361   95.8%    LazyCompile: *onread net.js:492:16
+```
+
+Still, the combined cost of `_unrefActive` and the heap implementation amounts to only a fraction of the cost of `_unrefActive`'s original implementation.
+
 # Conclusion
 
 The unordered list implementation is the top performer when tested with the HTTP heavy benchmark mentioned at the top of the [GitHub issue](https://github.com/joyent/node/issues/8160). However, it is clear that this implementation suffers from the same issues than the current one when most timers timeout. 
