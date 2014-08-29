@@ -57,3 +57,11 @@ DEFINE_implication(harmony_modules, harmony_scoping)
 DEFINE_implication(harmony, es_staging)
 DEFINE_implication(es_staging, harmony_maths)
 ```
+
+#A glimpse into the future (v8 3.29
+## Iteration protocol.
+Demonstrated here over a generator:
+![iteration_over_generator](https://cloud.githubusercontent.com/assets/96947/4081915/5869cf04-2eec-11e4-90ff-fa3e9971ef64.gif)
+
+## Fat arrow functions (lambdas):
+![fatarrowftw](https://cloud.githubusercontent.com/assets/96947/3881865/7b9935c2-2191-11e4-9e62-26ac8c080bee.gif)
