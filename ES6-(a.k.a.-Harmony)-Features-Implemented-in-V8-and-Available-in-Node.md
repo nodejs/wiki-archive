@@ -61,6 +61,7 @@ DEFINE_implication(es_staging, harmony_maths)
 #A glimpse into the future (v8 3.29)
 ## Iteration protocol.
 Demonstrated here over a generator: 
+
 ![iteration_over_generator](https://cloud.githubusercontent.com/assets/96947/4081915/5869cf04-2eec-11e4-90ff-fa3e9971ef64.gif)
 
 ## Fat arrow functions (lambdas):
