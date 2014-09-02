@@ -1,5 +1,5 @@
 # Note: these instructions are being _provisionally_ added to this page. This information depends on https://github.com/joyent/node/pull/7719 landing, which see.
-- The "Chromium ICU" instructions are still relevant even before 7719 lands, please scroll down for those.
+- An exception is the [Chromium ICU](#building-using-chromiums-icu) instructions which are already relevant to node.
 - [ ] TODO: remove the above notice when https://github.com/joyent/node/pull/7719 lands.
 
 # What is `Intl`?
