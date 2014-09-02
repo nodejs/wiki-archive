@@ -19,6 +19,8 @@ For Windows and Mac some pre-built binaries are available; you may [install 
 
 * **libexecinfo** (FreeBSD and OpenBSD only.) Required by V8. `pkg_add -r libexecinfo` installs it.
 
+* [**ICU**](http://icu-project.org) (optional) to build the Intl (EcmaScript 402) support. See [Intl](Intl) for more details.
+
 ### Known Issues
 
   On UNIX platforms, make sure that the path doesn't contain whitespace: `/home/user/My Projects/node` won't work.
