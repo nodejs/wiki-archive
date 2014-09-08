@@ -1,6 +1,6 @@
 ***Note:*** The packages on this page are maintained and supported by their respective packagers, **not** the Node.js core team. Please report any issues you encounter to the package maintainer. If it turns out your issue is a bug in Node.js itself, the maintainer will report the issue upstream.
 
-## Ubuntu, Debian, Linux Mint, etc.
+## Ubuntu, Debian, Linux Mint, elementaryOS, etc.
 
 ***Including most Ubuntu and Debian-based Linux distributions***
 
@@ -44,6 +44,8 @@ apt-get install nodejs nodejs-legacy
 * **Ubuntu 10.04 LTS** (Lucid Lynx, *armhf build not available*)
 * **Ubuntu 12.04 LTS** (Precise Pangolin)
 * **Ubuntu 14.04 LTS** (Trusty Tahr)
+
+*Ubuntu 14.10 (Utopic Unicorn) is not yet officially supported but can use the Trusty binaries, [details here](https://github.com/nodesource/distributions/issues/13).*
 
 **Supported Debian versions:**
 
