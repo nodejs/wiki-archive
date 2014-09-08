@@ -59,6 +59,9 @@ A Node.js package is also available in [official repo](http://packages.debian.or
 
 * **Linux Mint 13 "Maya"** (via Ubuntu 12.04 LTS)
 * **Linux Mint 17 "Qiana"** (via Ubuntu 14.04 LTS)
+* **Linux Mint Debian Edition (LMDE) stable** (via Debian stable)
+* **Linux Mint Debian Edition (LMDE) testing** (via Debian testing)
+* **Linux Mint Debian Edition (LMDE) unstable** (via Debian unstable)
 
 **Supported elementary OS versions:**
 
