@@ -1,6 +1,6 @@
 ***Note:*** The packages on this page are maintained and supported by their respective packagers, **not** the Node.js core team. Please report any issues you encounter to the package maintainer. If it turns out your issue is a bug in Node.js itself, the maintainer will report the issue upstream.
 
-## Ubuntu, Debian, Linux Mint, elementaryOS, etc.
+## Ubuntu, Debian, Linux Mint, elementary OS, etc.
 
 ***Including most Ubuntu and Debian-based Linux distributions***
 
@@ -54,6 +54,16 @@ apt-get install nodejs nodejs-legacy
 * **Debian unstable** (sid)
 
 A Node.js package is also available in [official repo](http://packages.debian.org/search?searchon=names&keywords=nodejs) for Debian Sid (unstable) as "nodejs".
+
+**Supported Linux Mint versions:**
+
+* **Linux Mint 13 "Maya"** (via Ubuntu 12.04 LTS)
+* **Linux Mint 17 "Qiana"** (via Ubuntu 14.04 LTS)
+
+**Supported elementary OS versions:**
+
+* **elemenrary OS Luna** (via Ubuntu 12.04 LTS)
+* **elemenrary OS Freya** (via Ubuntu 14.04 LTS)
 
 ## Gentoo
 
