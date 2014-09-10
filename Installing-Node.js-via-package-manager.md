@@ -188,6 +188,8 @@ brew install node
 
 Using **[Fink](http://www.finkproject.org)**:
 
+_warning: SEVERELY BROKEN_
+
 ```text
 fink install nodejs
 ```
