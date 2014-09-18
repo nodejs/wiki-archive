@@ -300,12 +300,14 @@ Still, the combined cost of `_unrefActive` and the heap implementation amounts t
 
 # Conclusion
 
-The unordered list implementation is the top performer when tested with the HTTP heavy benchmark mentioned at the top of the [GitHub issue](https://github.com/joyent/node/issues/8160). However, it is clear that this implementation suffers from the same issues than the current one when most timers timeout. 
+The unordered list implementation is the top performer when tested with the HTTP heavy benchmark mentioned at the top of [this GitHub issue](https://github.com/joyent/node/issues/8160). However, it is clear that this implementation suffers from another issue: when most timers timeout, timers handling' becomes once again a bottleneck. 
 
-The heap implementation performs much better in the case when a lot of timeouts are triggered, but it's slightly slower than the unordered list implementation when tested under the HTTP heavy benchmark without timeouts.
-
+The heap implementation performs much better in the case when a lot of timeouts are triggered. It's slightly slower than the unordered list implementation when tested under the HTTP heavy benchmark without timeouts, but still much better than the original implementation. Overall, it is the best solution in terms of performance.
+ 
 My recommendation would be to favor the heap implementation over the unordered list one. The reason is that with an unordered list, although we would be sure to have the fastest implementation regarding adding timers, we would only move the problem to another point in time when timeouts fire.
 
+The timer wheel solution hasn't been implemented and thus its performance hasn't been measured. It could potentially be better than the heap implementation, but it could also prove difficult to tune.
+
 A few questions remain:
-* If we decide to go this way: can we use @tjfontaine's binaryheap module as our `lib/_heap.js` implementation (as it's done currently)?
 * Do we want to integrate the heap implementation first and then benchmark the timer wheel? Or do we want to benchmark the timer wheel before merging any change?
+* If we decide to replace the original implementation with the heap implementation: can we use @tjfontaine's binaryheap module as our `lib/_heap.js` implementation (as it's done currently)?
