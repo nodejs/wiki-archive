@@ -1,19 +1,18 @@
 ***Note:*** The packages on this page are maintained and supported by their respective packagers, **not** the Node.js core team. Please report any issues you encounter to the package maintainer. If it turns out your issue is a bug in Node.js itself, the maintainer will report the issue upstream.
 
+----------------------------
 
-## TOC
-
-* [Debian and Ubuntu based Linux distributions](#deb)
-* [Enterprise Linux and Fedora Core](#rpm)
+* [Debian and Ubuntu based Linux distributions](#debian-and-ubuntu-based-linux-distributions)
+* [Enterprise Linux and Fedora Core](#enterprise-linux-and-fedora-core)
 * [Gentoo](#gentoo)
-* [openSUSE & SLE](#suse)
-* [Arch Linux](#arch)
+* [openSUSE and SLE](#opensuse-and-sle)
+* [Arch Linux](#arch-linux)
+* [FreeBSD and OpenBSD](#freebsd-and-openbsd)
 * [OSX](#osx)
-* [Windows](#win)
+* [Windows](#windows)
 
 ----------------------------
 
-<a name="deb"></a>
 ## Debian and Ubuntu based Linux distributions
 
 Also including: **Linux Mint**, **Linux Mint Debian Edition (LMDE)**, **elementaryOS** and others.
@@ -90,7 +89,6 @@ A Node.js package is also available in [official repo](http://packages.debian.or
 * **elemenrary OS Luna** (via Ubuntu 12.04 LTS)
 * **elemenrary OS Freya** (via Ubuntu 14.04 LTS)
 
-<a name="el"></a>
 ## Enterprise Linux and Fedora Core
 
 Including **Red Hat® Enterprise Linux®** / **RHEL**, **CentOS** and **Fedora**.
@@ -158,7 +156,6 @@ Install the appropriate *epel-release* RPM for your version (found on the [EPEL]
 sudo yum install nodejs npm --enablerepo=epel
 ```
 
-<a name="gentoo"></a>
 ## Gentoo
 
 Node.js is available in the portage tree.
@@ -167,8 +164,7 @@ Node.js is available in the portage tree.
 emerge nodejs
 ```
 
-<a name="suse"></a>
-## openSUSE & SLE
+## openSUSE and SLE
 
 [Download Node.js via openSUSE one-click](http://software.opensuse.org/download.html?project=devel%3Alanguages%3Anodejs&package=nodejs).
 
@@ -183,7 +179,6 @@ sudo zypper ar \
 sudo zypper in nodejs nodejs-devel
 ```
 
-<a name="arch"></a>
 ## Arch Linux
 
 Node.js is available in the Community Repository.
@@ -192,7 +187,6 @@ Node.js is available in the Community Repository.
 pacman -S nodejs
 ```
 
-<a name="bsd"></a>
 ## FreeBSD and OpenBSD
 
 Node.js is available through the ports system.
@@ -225,7 +219,6 @@ Or the development versions:
 pkg install node-devel
 ```
 
-<a name="osx"></a>
 ## OSX
 
 Simply download the [Macintosh Installer](http://nodejs.org/#download) direct from the [nodejs.org](http://nodejs.org) web site.
@@ -244,7 +237,6 @@ Using **[MacPorts](http://www.macports.org/)**:
 port install nodejs
 ```
 
-<a name="win"></a>
 ## Windows
 
 Simply download the [Windows Installer](http://nodejs.org/#download) directly from the [nodejs.org](http://nodejs.org) web site.
