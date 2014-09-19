@@ -1,12 +1,10 @@
 ***Note:*** The packages on this page are maintained and supported by their respective packagers, **not** the Node.js core team. Please report any issues you encounter to the package maintainer. If it turns out your issue is a bug in Node.js itself, the maintainer will report the issue upstream.
 
-## Ubuntu, Debian, Linux Mint, elementary OS, etc.
+## Debian and Ubuntu based Linux distributions
 
-***Including most Ubuntu and Debian-based Linux distributions***
+Also including: **Linux Mint**, **Linux Mint Debian Edition (LMDE)**, **elementaryOS** and others.
 
-Node.js is available from the [NodeSource](https://nodesource.com) Debian and Ubuntu binary distributions repository (formerly [Chris Lea's](https://github.com/chrislea) Launchpad PPA). Support for this repository, along with its scripts, can be found at [nodesource/distributions](https://github.com/nodesource/distributions).
-
-***Mandatory warning that you should verify all scripts before downloading them and blindly running them so please visit the link and read the source before simply accepting the following commands.***
+Node.js is available from the [NodeSource](https://nodesource.com) Debian and Ubuntu binary distributions repository (formerly [Chris Lea's](https://github.com/chrislea) Launchpad PPA). Support for this repository, along with its scripts, can be found on GitHub at [nodesource/distributions](https://github.com/nodesource/distributions).
 
 Setup with Ubuntu:
 
@@ -17,7 +15,7 @@ curl -sL https://deb.nodesource.com/setup | sudo bash -
 Then install with Ubuntu:
 
 ```text
-sudo apt-get install nodejs
+sudo apt-get install -y nodejs
 ```
 
 Setup with Debian (as root):
@@ -30,7 +28,15 @@ curl -sL https://deb.nodesource.com/setup | bash -
 Then install with Debian (as root):
 
 ```text
-apt-get install nodejs nodejs-legacy
+apt-get install -y nodejs nodejs-legacy
+```
+
+***Optional***: install build tools
+
+To compile and install native addons from npm you may also need to install build tools:
+
+```text
+apt-get install -y build-essential
 ```
 
 *(Note: The optional "nodejs-legacy" package from Debian helps prevent a conflict with the Amateur Packet Radio "Node" Program)*
@@ -70,6 +76,73 @@ A Node.js package is also available in [official repo](http://packages.debian.or
 * **elemenrary OS Luna** (via Ubuntu 12.04 LTS)
 * **elemenrary OS Freya** (via Ubuntu 14.04 LTS)
 
+## Enterprise Linux and Fedora Core
+
+Including **Red Hat® Enterprise Linux®** / **RHEL**, **CentOS** and **Fedora**.
+
+Node.js is available from the [NodeSource](https://nodesource.com) Enterprise Linux and Fedora Core binary distributions repository. Support for this repository, along with its scripts, can be found on GitHub at [nodesource/distributions](https://github.com/nodesource/distributions).
+
+Note that the Node.js packages for EL 5 (RHEL5 and CentOS 5) depend on the **[EPEL](https://fedoraproject.org/wiki/EPEL)** repository being available. The setup script will check and provide instructions if it is not installed.
+
+Run as root on RHEL, CentOS or Fedora:
+
+```text
+curl -sL https://rpm.nodesource.com/setup | bash -
+```
+
+Then install, as root:
+
+```text
+yum install -y nodejs
+```
+
+***Optional***: install build tools
+
+To compile and install native addons from npm you may also need to install build tools:
+
+```text
+yum install gcc-c++ make
+# or: yum groupinstall 'Development Tools'
+```
+
+**Available architectures:**
+
+* **i386** (32-bit, not available for EL7)
+* **x86_64** (64-bit)
+
+**Supported Red Hat® Enterprise Linux® versions:**
+
+* **RHEL 5** (32-bit and 64-bit)
+* **RHEL 6** (32-bit and 64-bit)
+* **RHEL 7** (64-bit)
+
+**Supported CentOS versions:**
+
+* **CentOS 5** (32-bit and 64-bit)
+* **CentOS 6** (32-bit and 64-bit)
+* **CentOS 7** (64-bit)
+
+**Supported Fedora versions:**
+
+* **Fedora 20 (Heisenbug)** (32-bit and 64-bit)
+* **Fedora 19 (Schrödinger's Cat)** (32-bit and 64-bit)
+
+### Alternatives
+
+Official **Fedora Core** [Node.js](https://apps.fedoraproject.org/packages/nodejs) and [npm](https://apps.fedoraproject.org/packages/npm) packages are available in Fedora 18 and later. These do not follow the Node.js release schedule as closely as the NodeSource repository. Install with:
+
+```text
+sudo yum install nodejs npm
+```
+
+**Enterprise Linux** (RHEL and CentOS) users may use the Node.js and npm packages from the [EPEL](https://fedoraproject.org/wiki/EPEL) repository. These do not follow the Node.js release schedule as closely as the NodeSource repository.
+
+Install the appropriate *epel-release* RPM for your version (found on the [EPEL](https://fedoraproject.org/wiki/EPEL) repository homepage), then run:
+
+```text
+sudo yum install nodejs npm --enablerepo=epel
+```
+
 ## Gentoo
 
 Node.js is available in the portage tree.
@@ -91,47 +164,6 @@ sudo zypper ar \
   http://download.opensuse.org/repositories/devel:/languages:/nodejs/openSUSE_13.1/ \
   Node.js
 sudo zypper in nodejs nodejs-devel
-```
-
-## Fedora
-
-[Node.js](https://apps.fedoraproject.org/packages/nodejs) and [npm](https://apps.fedoraproject.org/packages/npm) are available in Fedora 18 and later. Just use your favorite graphical package manager or run this on a terminal to install both node and npm:
-
-```text
-sudo yum install nodejs npm
-```
-
-## Enterprise Linux (RHEL, CentOS, Fedora, etc.)
-
-Node.js and npm are available from the [Extra Packages for Enterprise Linux](https://fedoraproject.org/wiki/EPEL) (EPEL) repository.
-
-To check if you have EPEL registered, run:
-
-```text
-yum repolist
-```
-
-If you don't see EPEL, [install it](https://fedoraproject.org/wiki/EPEL#How_can_I_use_these_extra_packages.3F
-) via `yum`:
-
-For **Enterprise Linux version 6** (EPEL version 6.8 at the time of writing):
-
-```text
-yum install \
-  http://dl.fedoraproject.org/pub/epel/6/x86_64/epel-release-6-8.noarch.rpm
-```
-
-For **Enterprise Linux version 7 Beta**:
-
-```text
-yum install \
-  http://dl.fedoraproject.org/pub/epel/beta/7/x86_64/epel-release-7-0.2.noarch.rpm
-```
-
-Then install the **nodejs** and **npm** packages:
-
-```text
-sudo yum install nodejs npm --enablerepo=epel
 ```
 
 ## Arch Linux
@@ -184,14 +216,6 @@ Using **[Homebrew](http://brew.sh/)**:
 
 ```text
 brew install node
-```
-
-Using **[Fink](http://www.finkproject.org)**:
-
-_warning: SEVERELY BROKEN_
-
-```text
-fink install nodejs
 ```
 
 Using **[MacPorts](http://www.macports.org/)**:
