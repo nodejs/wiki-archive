@@ -140,6 +140,11 @@ yum install gcc-c++ make
 * **Fedora 20 (Heisenbug)** (32-bit and 64-bit)
 * **Fedora 19 (Schrödinger's Cat)** (32-bit and 64-bit)
 
+**Other distributions known to be supported:**
+
+* **Oracle Linux** (mirrors RHEL very closely)
+* **Amazon Linux** (tested on 2014.03)
+
 ### Alternatives
 
 Official **Fedora Core** [Node.js](https://apps.fedoraproject.org/packages/nodejs) and [npm](https://apps.fedoraproject.org/packages/npm) packages are available in Fedora 18 and later. These do not follow the Node.js release schedule as closely as the NodeSource repository. Install with:
