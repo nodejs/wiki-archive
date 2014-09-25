@@ -87,3 +87,4 @@ Node.JS hosting platforms that allow you to host Node.JS apps on your own server
   * [node-cloudfiles](http://github.com/nodejitsu/node-cloudfiles) Rackspace Cloud Files
 * [Stagecoach](http://github.com/punkave/stagecoach) - Simple staging and production deployment with node-http-proxy and forever; good for deploying many node apps and non-node sites to one VPS
 * [awsbox](https://github.com/mozilla/awsbox) - A featherweight PaaS on top of Amazon EC2 for deploying node apps
+* [paastor](https://paastor.com) - Server setup and app management from a UI and CLI.
