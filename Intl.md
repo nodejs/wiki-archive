@@ -1,6 +1,6 @@
-# Note: these instructions are being _provisionally_ added to this page. This information depends on https://github.com/joyent/node/pull/7719 landing, which see.
+# Note: These instructions will apply to v0.12 and following.
 - An exception is the [Chromium ICU](#building-using-chromiums-icu) instructions which are already relevant to node.
-- [ ] TODO: remove the above notice when https://github.com/joyent/node/pull/7719 lands.
+- [ ] TODO: remove the above notice when https://github.com/joyent/node/pull/7719 is in master
 
 # What is `Intl`?
 The `Intl` object is available when [EcmaScript 402](http://www.ecma-international.org/ecma-402/1.0/)
