@@ -89,11 +89,11 @@ A Node.js package is also available in [official repo](http://packages.debian.or
 * **elemenrary OS Luna** (via Ubuntu 12.04 LTS)
 * **elemenrary OS Freya** (via Ubuntu 14.04 LTS)
 
-## Enterprise Linux and Fedora Core
+## Enterprise Linux and Fedora
 
 Including **Red Hat® Enterprise Linux®** / **RHEL**, **CentOS** and **Fedora**.
 
-Node.js is available from the [NodeSource](https://nodesource.com) Enterprise Linux and Fedora Core binary distributions repository. Support for this repository, along with its scripts, can be found on GitHub at [nodesource/distributions](https://github.com/nodesource/distributions).
+Node.js is available from the [NodeSource](https://nodesource.com) Enterprise Linux and Fedora binary distributions repository. Support for this repository, along with its scripts, can be found on GitHub at [nodesource/distributions](https://github.com/nodesource/distributions).
 
 Note that the Node.js packages for EL 5 (RHEL5 and CentOS 5) depend on the **[EPEL](https://fedoraproject.org/wiki/EPEL)** repository being available. The setup script will check and provide instructions if it is not installed.
 
@@ -147,7 +147,7 @@ yum install gcc-c++ make
 
 ### Alternatives
 
-Official **Fedora Core** [Node.js](https://apps.fedoraproject.org/packages/nodejs) and [npm](https://apps.fedoraproject.org/packages/npm) packages are available in Fedora 18 and later. These do not follow the Node.js release schedule as closely as the NodeSource repository. Install with:
+Official **Fedora** [Node.js](https://apps.fedoraproject.org/packages/nodejs) and [npm](https://apps.fedoraproject.org/packages/npm) packages are available in Fedora 18 and later. These do not follow the Node.js release schedule as closely as the NodeSource repository. Install with:
 
 ```text
 sudo yum install nodejs npm
