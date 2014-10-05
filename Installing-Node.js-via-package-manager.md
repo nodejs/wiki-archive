@@ -165,6 +165,27 @@ sudo yum install nodejs npm --enablerepo=epel
 
 In a hurry for the latest updates?  [Grab them from epel-testing.](https://fedoraproject.org/wiki/EPEL/testing)
 
+**Available architectures:**
+
+* **i686** (32-bit, not available for EL7)
+* **x86_64** (64-bit)
+* **armv6hl** (Raspberry Pi, [Pidora](http://pidora.ca) only)
+* **armv7hl** (32-bit ARM hard-float, ARMv7 and up, Fedora only)
+
+**Supported Red Hat® Enterprise Linux® versions:**
+
+* **RHEL 6** (i686/x86_64)
+* **RHEL 7** (x86_64)
+
+Additionally, versions of **CentOS** and **Scientific Linux** corresponding to the above RHEL versions are also officially supported by all EPEL packages, including nodejs.  Amazon Linux is not officially supported by EPEL due to significant incompatibilities previously reported to the epel-devel mailing list, however you might find that nodejs at least still works.
+
+**Supported Fedora versions:**
+
+* **Fedora Rawhide** (i686/x86_64/armv7hl)
+* **Fedora 21** (i686/x86_64/armv7hl)
+* **Fedora 20 (Heisenbug)** (i686/x86_64/armv6hl/armv7hl)
+* **Fedora 19 (Schrödinger's Cat)** (i686/x86_64/armv7hl)
+
 ## Gentoo
 
 Node.js is available in the portage tree.
