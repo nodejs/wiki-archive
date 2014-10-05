@@ -147,19 +147,23 @@ yum install gcc-c++ make
 
 ### Alternatives
 
-Official **Fedora** [Node.js](https://apps.fedoraproject.org/packages/nodejs) and [npm](https://apps.fedoraproject.org/packages/npm) packages are available in Fedora 18 and later. These do not follow the Node.js release schedule as closely as the NodeSource repository. Install with:
+Official **Fedora** [Node.js](https://apps.fedoraproject.org/packages/nodejs) and [npm](https://apps.fedoraproject.org/packages/npm) packages are available in Fedora 18 and later.  Install with:
 
 ```text
 sudo yum install nodejs npm
 ```
 
-**Enterprise Linux** (RHEL and CentOS) users may use the Node.js and npm packages from the [EPEL](https://fedoraproject.org/wiki/EPEL) repository. These do not follow the Node.js release schedule as closely as the NodeSource repository.
+In a hurry for the latest updates?  [Grab them from updates-testing.](https://fedoraproject.org/wiki/QA:Updates_Testing)
+
+**Enterprise Linux** (RHEL and CentOS) users may use the Node.js and npm packages from the [EPEL](https://fedoraproject.org/wiki/EPEL) repository.
 
 Install the appropriate *epel-release* RPM for your version (found on the [EPEL](https://fedoraproject.org/wiki/EPEL) repository homepage), then run:
 
 ```text
 sudo yum install nodejs npm --enablerepo=epel
 ```
+
+In a hurry for the latest updates?  [Grab them from epel-testing.](https://fedoraproject.org/wiki/EPEL/testing)
 
 ## Gentoo
 
