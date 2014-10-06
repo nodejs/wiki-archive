@@ -1,0 +1,1 @@
+see http://howtonode.org/how-to-install-nodejs 
