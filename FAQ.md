@@ -26,8 +26,7 @@ Odd versions are unstable, even versions are stable. v0.2 and v0.4 are even/stab
 
 ### What is the memory limit on a node process?
 
-From [Issue 847: 1gb memory limit](https://code.google.com/p/v8/issues/detail?id=847)
-```
-The default limit is still 700Mbytes on 32 bit and 1400Mbytes on 64 bit.  You can up the limit with --max-old-space-size=2000  The unit is Megabytes.  On 32 bit systems you probably can't set it much higher due to the lack of virtual address space.  The limit is not known on 64 bit.
-```
+Currently, by default v8 has a memory limit of 512mb on 32-bit systems, and 1gb on 64-bit systems. The limit can be raised by setting --max-old-space-size to a maximum of ~1gb (32-bit) and ~1.7gb (64-bit), but it is recommended that you split your single process into several workers if you are hitting memory limits.
+
+
 
