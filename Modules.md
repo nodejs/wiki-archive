@@ -1292,6 +1292,7 @@ rendering process.
 <a name="wiki-dependency-injection"></a>
 ## [Dependency Injection tools](#dependency-injection)
 
+* [Noder.io](https://github.com/noder-io/noder.io) — Simple and powerful dependency injection container for node.js
 * [Coffee-Injector](https://github.com/Ezku/coffee-injector) — An asynchronous dependency injection container written in coffeescript.
 * [easy-app](https://github.com/eldargab/easy-app) — Simple and powerful javascript-ish container
 * [rewire](https://github.com/jhnns/rewire) — Dependency injection for node.js applications
