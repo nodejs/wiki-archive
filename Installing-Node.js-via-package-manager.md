@@ -86,8 +86,8 @@ A Node.js package is also available in [official repo](http://packages.debian.or
 
 **Supported elementary OS versions:**
 
-* **elemenrary OS Luna** (via Ubuntu 12.04 LTS)
-* **elemenrary OS Freya** (via Ubuntu 14.04 LTS)
+* **elementary OS Luna** (via Ubuntu 12.04 LTS)
+* **elementary OS Freya** (via Ubuntu 14.04 LTS)
 
 ## Enterprise Linux and Fedora
 
