@@ -5,6 +5,7 @@ If you're considering adding your company to this list, you should also submit a
 Company|Link|Notes
 -------|----|-----
 &yet (andyet)|<a href="http://andyet.net" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;andyet.net</a>|We make web software for human people.
+Vida Digital|<a href="http://vidadigital.com.mx" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;vidadigital.com.mx</a>|Ingeniería web como estilo de vida.
 13 pass|<a href="http://www.13pass.com/" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;www.13pass.com</a>|Uses node.js and mongoDb to deals with API or realtime websocket programming.
 37Signals|<a href="http://www.37signals.com/" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;www.37signals.com</a>|Used node.js to write
 4TIC|<a href="http://4tic.com" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;4tic.com</a>|Amazing & Rich web applications.
