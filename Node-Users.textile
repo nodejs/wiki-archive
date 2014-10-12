@@ -1015,7 +1015,7 @@ h2. UTC+5
 ** "GitHub":https://github.com/hegdeashwin, "Twitter":https://twitter.com/hegdeashwin3, "Wiki":https://en.wikipedia.org/wiki/User:Hegdeashwin
 * Shrikrishna Holla (shrikrishna), India
 ** "GitHub":http://github.com/shrikrishnaholla/, "Twitter":http://twitter.com/srikrishnaholla, "Website":http://shrikrishnaholla.in
-*Rajesh Kamalanathan (insertcoffee), Chennai, India
+*Rajesh Kamalanathan (rockfort rajesh), Chennai, India
 ** "GitHub":http://github.com/rajeshk486, "Facebook":http://facebook.com/rajeshk486
 
 * Dilip Kumar Thapa (dilipKrThapa), Nepal
