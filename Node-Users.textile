@@ -1016,7 +1016,7 @@ h2. UTC+5
 * Shrikrishna Holla (shrikrishna), India
 ** "GitHub":http://github.com/shrikrishnaholla/, "Twitter":http://twitter.com/srikrishnaholla, "Website":http://shrikrishnaholla.in
 *Rajesh Kamalanathan (rockfort rajesh), Chennai, India
-** "GitHub":http://github.com/rajeshk486, "Facebook":http://facebook.com/rajeshk486
+** "GitHub":http://github.com/rajeshk486, "Facebook":http://facebook.com/rajesh.kamalanathan
 
 * Dilip Kumar Thapa (dilipKrThapa), Nepal
 ** "GitHub":http://github.com/DilipKThapa/, "Twitter":http://twitter.com/dilipKrThapa, 
