@@ -3,7 +3,7 @@
 ----------------------------
 
 * [Debian and Ubuntu based Linux distributions](#debian-and-ubuntu-based-linux-distributions)
-* [Enterprise Linux and Fedora Core](#enterprise-linux-and-fedora-core)
+* [Enterprise Linux and Fedora](#enterprise-linux-and-fedora)
 * [Gentoo](#gentoo)
 * [openSUSE and SLE](#opensuse-and-sle)
 * [Arch Linux](#arch-linux)
