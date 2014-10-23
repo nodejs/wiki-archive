@@ -77,6 +77,10 @@ Finally, another popular implementation for timers management is called a timer 
 
 ## Using an unsorted array
 
+An implementation of this solution is available both for Node.js 0.10 and 0.11.x in the following branches:
+* https://github.com/misterdjules/node/commits/fix-issue-8160, based off of v0.12.
+* https://github.com/misterdjules/node/tree/fix-issue-8160-0-10, based off of v0.10.
+
 ### Pros
 
 An unsorted array has the advantage of providing constant time addition to the priority queue. When running the same HTTP heavy benchmark as above, this shows a significant improvement. Here's the results from v8 profiler when running the same `wrk` benchmark with the same server, but this time with an unordered list as the underlying implementation:
@@ -211,6 +215,10 @@ Reducing the frequency of timeouts mitigates the impact of `unrefTimeout` on the
 
 
 ## Using a heap
+
+An implementation of this solution is available both for Node.js 0.10 and 0.11.x in the following branches:
+* https://github.com/misterdjules/node/commits/fix-issue-8160-with-heap, based off of v0.12.
+* https://github.com/misterdjules/node/tree/fix-issue-8160-0-10-with-heap, based off of v0.10.
 
 A heap theoretically gives us a good balance between the cost of adding and finding a timer:
 * Addition is O(log(n)).
