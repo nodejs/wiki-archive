@@ -6,6 +6,7 @@
 * [Linux](#)
 * [Mac](#)
 * [Windows](#)
+* [SunOS]()
 * [Via package manager](#)
 
 ***
@@ -17,10 +18,22 @@
 
 ***
 
+## Installing on Linux
+You can install a pre-built version of node.js via [the downloads page](http://nodejs.org/download/) avaliable in a **.tar.gz**.
 
-You may build the Node.js engine for any of the supported platforms.
+## Installing on Mac
+You can install a pre-built version of node.js via [the downloads page](http://nodejs.org/download/) using a **.pkg** or avaliable in a **.tar.gz**.
 
-For Windows and Mac some pre-built binaries are available; you may [install them](https://github.com/joyent/node/wiki/Installation#installing-without-building) without building Node for yourself.
+## Installing on Windows
+You can install a pre-built version of node.js via [the downloads page](http://nodejs.org/download/) using a **.exe** or a **.msi**.
+
+## Installing on SunOS
+You can install a pre-built version of node.js via [the downloads page](http://nodejs.org/download/) avaliable in a **.tar.gz**.
+
+## Installing via package manager
+See [[Installing Node.js via package manager]] for more information.
+
+## Building
 
 ## Prerequisites and known issues of building
 
