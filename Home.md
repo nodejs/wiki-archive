@@ -1,64 +1,70 @@
 # Node.js community wiki
 
-**Current stable version is 0.10.** Please read [[Api changes between v0.8 and v0.10]], and update your programs accordingly.
+Node.js is a platform built on [Chrome's JavaScript runtime](http://code.google.com/p/v8/) for easily building fast, scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.
 
-**Previous stable version is 0.8.** If you are still using 0.6, please read [[API changes between v0.6 and v0.8]].
+## Official Links:
 
-## Introduction
-
-Node.js is a server-side JavaScript environment that uses an asynchronous event-driven model. This allows Node.js to get excellent performance based on the architectures of many Internet applications.
+* [Website](http://nodejs.org/)
+* [Download](http://nodejs.org/download/)
+* [Docs, Contributing and Tutorials](http://nodejs.org/documentation/)
+* [About](http://nodejs.org/about/)
+* [Blog](http://blog.nodejs.org/)
+* [API](http://nodejs.org/api/all.html)
+* [The Core Team](http://nodejs.org/about/core-team/)
 
 ## Installation
 
-The [[installation guide|Installation]] explains how to get started installing Node.js and the Node Package Manager (NPM) on your system.
+The [[installation guide|Installation]] explains how to get started with Node.js and npm (node package manager) on your system.
 
-## FAQ
+## Versions
+
+**Stable:**
+
+The current stable version is **0.10.33**
+
+**Unstable:**
+
+The current unstable version is **0.11.14**
+
+**The Future:**
+
+* [[API changes between v0.10 and v0.12]]
+* [[ECMA 5 Mozilla Features Implemented in V8]]
+* [[ES6 (a.k.a. Harmony) Features Implemented in V8 and Available in Node]]
+
+**API Changes:**
+
+Using an old version of node.js? You might need to update your programs.
+
+* [[From v0.2 to v0.3|Migrating-from-v0.2-to-v0.3]]
+* [[From v0.3 to v0.4|Migrating-from-v0.2-to-v0.4]]
+* [[From v0.4 to v0.6|API-changes-between-v0.4-and-v0.6]]
+* [[From v0.6 to v0.8|API-changes-between-v0.6-and-v0.8]]
+* [[From v0.8 to v0.10|API-changes-between-v0.8-and-v0.10]]
+* [[From v0.10 to v0.12|API-changes-between-v0.10-and-v0.12]]
+
+## Frequently Asked Questions
 
 The [[FAQ]] answers common questions people have about Node.js.
 
-## Users
-
-Come talk to us in the **#node.js** IRC channel on [freenode.net](http://webchat.freenode.net/?channels=node.js&uio=d4) or on the [nodejs Google group](http://groups.google.com/group/nodejs).
-
-* [[Projects, Applications, and Companies using Node]]
+## Community
+* [Events](http://nodejs.org/community/#index_md_events)
+* [Discussion](http://nodejs.org/community/#index_md_discussion)
+* [Learning](http://nodejs.org/community/#index_md_learning)
+* [Development](http://nodejs.org/community/#index_md_development)
 
 ## Modules
 
-Most modules can be found by [searching the npm registry](http://search.npmjs.org/).
+Most modules can be found by [searching the npm registry](https://www.npmjs.org/search?q=npm).
 
-Alternatively, use [nipster](http://eirikb.github.com/nipster/), or [toolbox](http://nodetoolbox.com/).
-
-## Hosting
-
-* [[Managed providers, Self-Managed and DIY Platforms|Node Hosting]]
+Alternatively you can use [nipster](http://eirikb.github.com/nipster/) or [toolbox](http://nodetoolbox.com/).
 
 ## Resources
 
 Besides the documentation on the [official site](http://nodejs.org) here are links to [[other resources|Resources]].
 
-## Project Organization
-
-* [[Information about who runs the project|Project Organization]].
-
 ## ChangeLog
 
 Node releases a new version every one or two weeks. The ChangeLog can always be found [here](https://github.com/joyent/node/blob/master/ChangeLog).
 
-## The Future
-* [[API changes between v0.10 and v0.12]]
-* [[ECMA 5 Mozilla Features Implemented in V8]]
-* [[ES6 (a.k.a. Harmony) Features Implemented in V8 and Available in Node]]
-
-## Contributing
-
-See the [[Contributing]] page.
-
-## API Documents
-
-See the current [API Doc](http://nodejs.org/api/) page.
-
-For previous versions, see [Documentation Index](http://nodejs.org/docs) page.
-
-## Logos
-
-* [[Official and Community Logos|Logos]]
+## Wiki Contents
