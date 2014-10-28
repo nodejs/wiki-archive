@@ -13,10 +13,6 @@ Node.js is a platform built on [Chrome's JavaScript runtime](http://code.google.
 * [API](http://nodejs.org/api/all.html)
 * [ChangeLog](https://github.com/joyent/node/blob/master/ChangeLog)
 
-## Installation
-
-The  explains how to get started with Node.js and npm (node package manager) on your system.
-
 ## Versions
 
 ##### Stable:
