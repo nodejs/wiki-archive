@@ -18,21 +18,21 @@ The [[installation guide|Installation]] explains how to get started with Node.js
 
 ## Versions
 
-**Stable:**
+##### Stable:
 
 The current stable version is **0.10.33**
 
-**Unstable:**
+##### Unstable:
 
 The current unstable version is **0.11.14**
 
-**The Future:**
+##### The Future:
 
 * [[API changes between v0.10 and v0.12]]
 * [[ECMA 5 Mozilla Features Implemented in V8]]
 * [[ES6 (a.k.a. Harmony) Features Implemented in V8 and Available in Node]]
 
-**API Changes:**
+##### API Changes:
 
 Using an old version of node.js? You might need to update your programs.
 
