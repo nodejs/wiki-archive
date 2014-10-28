@@ -1,4 +1,22 @@
-# Building and installing Node.js
+# Installing/Building Node.js
+
+***
+
+# Installing
+* [Linux](#)
+* [Mac](#)
+* [Windows](#)
+* [Via package manager](#)
+
+***
+
+# Building
+* [Linux](#)
+* [Mac](#)
+* [Windows](#)
+
+***
+
 
 You may build the Node.js engine for any of the supported platforms.
 
