@@ -47,12 +47,6 @@ Using an old version of node.js? You might need to update your programs.
 
 The [[FAQ]] answers common questions people have about Node.js.
 
-## Community
-* [Events](http://nodejs.org/community/#index_md_events)
-* [Discussion](http://nodejs.org/community/#index_md_discussion)
-* [Learning](http://nodejs.org/community/#index_md_learning)
-* [Development](http://nodejs.org/community/#index_md_development)
-
 ## Modules
 
 Most modules can be found by [searching the npm registry](https://www.npmjs.org/search?q=npm).
@@ -66,5 +60,3 @@ Besides the documentation on the [official site](http://nodejs.org) here are lin
 ## ChangeLog
 
 Node releases a new version every one or two weeks. The ChangeLog can always be found [here](https://github.com/joyent/node/blob/master/ChangeLog).
-
-## Wiki Contents
