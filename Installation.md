@@ -6,7 +6,8 @@
 * [Linux](#)
 * [Mac](#)
 * [Windows](#)
-* [SunOS]()
+* [SunOS](#)
+* [Linaro Ubuntu](#)
 * [Via package manager](#)
 
 ***
@@ -15,6 +16,13 @@
 * [Linux](#)
 * [Mac](#)
 * [Windows](#)
+* [Cygwin](#)
+
+***
+
+# Other information
+* [Managing multiple versions of Visual Studio](#)
+* [Upgrading on Mac with .pkg](#)
 
 ***
 
@@ -29,6 +37,10 @@ You can install a pre-built version of node.js via [the downloads page](http://n
 
 ## Installing on SunOS
 You can install a pre-built version of node.js via [the downloads page](http://nodejs.org/download/) avaliable in a **.tar.gz**.
+
+## Installing on Linaro Ubuntu (ARM, [UDOO](http://udoo.org))
+
+[Compiled binaries and build instructions are available here.](https://github.com/pilwon/nodejs-for-linaro-ubuntu)
 
 ## Installing via package manager
 See [[Installing Node.js via package manager]] for more information.
@@ -158,17 +170,17 @@ export CXX=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xc
 
 ## Building on Windows
 
-*vcbuild.bat nosign release x64* : Build in release mode in 64-bits
+`vcbuild.bat nosign release x64` : Build in release mode in 64-bit computers
 
-*vcbuild.bat nosign debug x64*   : Build in debug mode for 64-bits
+`vcbuild.bat nosign debug x64`   : Build in debug mode for 64-bit computers
 
-*vcbuild.bat nosign release*     : Build in release mode in 32-bits
+`vcbuild.bat nosign release`     : Build in release mode in 32-bit computers
 
-*vcbuild.bat clean*     : Clean Project
+`vcbuild.bat clean`     : Clean Project
 
-You need to have Microsoft Visual Studio 2012 or 2010 (Express edition is fine) as well as Python 2.6 or 2.7.  Openssl is not required. Make sure that python is in your PATH.
+You need to have Microsoft Visual Studio 2012/2010 (Express edition is fine) as well as Python 2.6/2.7.  Openssl is not required. Make sure that python is in your PATH.
 
-The underneath is a example of building node in 64-bits debug mode.
+Below is a example of what building node.js will be like in 64-bit debug mode.
 ```
 c:\_GIT\node>.\vcbuild.bat debug x64
 ctrpp not found in WinSDK path--using pre-gen files from tools/msvs/genfiles.
@@ -225,58 +237,26 @@ C:\_GIT\node\Build\Debug\node.exe
 
 The executable will be in `Build\Debug\node.exe`.
 
-## Managing multiple version of Visual Studio
+## Building on Cygwin
+Cygwin is no longer supported, despite being [POSIX](http://en.wikipedia.org/wiki/Posix) compliant. The latest version that compiles is 0.4.12.
+
+```
+wget http://nodejs.org/dist/node-v0.4.12.tar.gz
+tar xvfz node-v0.4.12.tar.gz
+cd node-v0.4.12/
+./configure
+make
+make install
+```
+
+# Other Information
+
+## Managing multiple versions of Visual Studio
 Lets assume that you have two versions of Visual Studio installed. In this case, you may build against a specific Visual Studio Version. If you want to force a specific version of Visual Studio, you may use the variable GYP_MSVS_VERSION.
 
 Example : Force Visual Studio 2012
 set GYP_MSVS_VERSION=2012
 
-## Installing without building
-
-You may obtain pre-compiled Node.js binaries for several platforms from [http://nodejs.org/download](http://nodejs.org/download).
-
-### Installing on Windows
-
-#### Manual install
-
-**Installing Node manually is recommended as a workaround for any problems with automatic install. You also have much better understanding of the things that happen if you do those things yourself.**
-
-The [http://nodejs.org/dist/latest/](http://nodejs.org/dist/latest/) directory contains executables of the last version of Node.js engine (the engine **only,** i.e. without npm):
-
-* **32bit version:** [http://nodejs.org/dist/latest/node.exe](http://nodejs.org/dist/latest/node.exe)
-
-* **64bit version:** [http://nodejs.org/dist/latest/x64/node.exe](http://nodejs.org/dist/latest/x64/node.exe)
-
-The [http://nodejs.org/dist/npm/](http://nodejs.org/dist/npm/) directory contains the latest `.zip` archive of npm (such as `npm-1.1.16.zip` when npm v1.1.16 was the latest).
-
-Manual installation steps:
-
-1. Make a clean directory and add that directory to your system's `PATH` variable.
-
-2. Download the latest `node.exe` to that directory.
-
-3. Download the latest npm's `.zip` file and unpack its contents to the same directory.
-
-Then, with the usual help of `PATH`, you'll be able to run scripts (`node scriptname.js`) and install modules (`npm install modulename`) in any directory.
-
-##### Manual update
-
-To update Node, download the latest [http://nodejs.org/dist/latest/node.exe](http://nodejs.org/dist/latest/node.exe) (or [http://nodejs.org/dist/latest/x64/node.exe](http://nodejs.org/dist/latest/x64/node.exe) for 64bit systems) and replace your old `node.exe` with it.
-
-To update npm, run the `npm update npm -g` command.
-
-#### Automatic install (with Microsoft Installer)
-
-The [http://nodejs.org/dist/latest/](http://nodejs.org/dist/latest/) directory contains the latest `.msi` package (such as `node-v0.6.15.msi` when Node v0.6.15 was the latest) that you may use to install both Node.js engine and npm.
-
-### Installing on Mac
-
-The [http://nodejs.org/dist/latest/](http://nodejs.org/dist/latest/) directory contains the latest `.pkg` package (such as `node-v0.6.15.pkg` when Node v0.6.15 was the latest).
-
-### Installing on Linaro Ubuntu (ARM, [UDOO](http://udoo.org))
-
-[Compiled binaries and build instructions are available here.](https://github.com/pilwon/nodejs-for-linaro-ubuntu)
-
-### Upgrading on Mac with `.pkg`
+## Upgrading on Mac with `.pkg`
 
 You can download the latest `.pkg` and run the installer and it will overwrite the existing version of Node currently installed.
