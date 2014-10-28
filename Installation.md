@@ -13,6 +13,7 @@
 ***
 
 # Building
+* [Building Prerequisites](#)
 * [Linux](#)
 * [Mac](#)
 * [Windows](#)
@@ -23,6 +24,7 @@
 # Other information
 * [Managing multiple versions of Visual Studio](#)
 * [Upgrading on Mac with .pkg](#)
+* [Known Issues](#)
 
 ***
 
@@ -39,17 +41,12 @@ You can install a pre-built version of node.js via [the downloads page](http://n
 You can install a pre-built version of node.js via [the downloads page](http://nodejs.org/download/) avaliable in a **.tar.gz**.
 
 ## Installing on Linaro Ubuntu (ARM, [UDOO](http://udoo.org))
-
 [Compiled binaries and build instructions are available here.](https://github.com/pilwon/nodejs-for-linaro-ubuntu)
 
 ## Installing via package manager
 See [[Installing Node.js via package manager]] for more information.
 
-## Building
-
-## Prerequisites and known issues of building
-
-### Prerequisites
+### Building Prerequisites
 
 * **GCC** 4.2 or newer
 
@@ -64,45 +61,8 @@ See [[Installing Node.js via package manager]] for more information.
 
 * [**ICU**](http://icu-project.org) (optional) to build the Intl (EcmaScript 402) support. See [Intl](Intl) for more details.
 
-### Known Issues
+## Building on Linux
 
-  On UNIX platforms, make sure that the path doesn't contain whitespace: `/home/user/My Projects/node` won't work.
-
-  If you receive an error during `./configure` like this
-  
-```
-File "/home/flo/node-v0.6.6/tools/waf-light", line 157, in <module>
-     import Scripting
-File "/home/flo/node-v0.6.6/tools/wafadmin/Scripting.py", line 146
-     except Utils.WafError, e:
-                          ^
-SyntaxError: invalid syntax
-```
-
-   it is because Python3 is your default Python version. To fix this issue you have to set Python2 temporary as your default Python:
-
-```sh
-export PYTHON=`which python2`
-```
-
-Maybe you need to change your `PYTHONHOME` as well. If that doesn't work, you can try creating symlinks to the old python in a directory which comes before python's in $PATH:
-
-```sh
-cd /usr/local/bin
-ln -s /usr/bin/python2 python
-ln -s /usr/bin/python2-config python-config
-```
-
-Remember to remove the symlinks when you're done. If you have any further installation problems stop into [#node.js](http://webchat.freenode.net/?channels=node.js&uio=d4) on irc.freenode.net and ask questions.
-
-If you are compiling on a NFS mount and get errors at the linker stage or are getting complaints about `flock` not being available on your system, try changing the linker:
-
-```
-make LINK=g++
-```
-
-
-## Building on GNU/Linux and other UNIX
 There's a number of ways to install Node.js on Linux, instructions for installing Node.js on specific Linux distributions using a package manager can be found at: [Installing Node.js via package manager](https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager).
 
 The filenames vary with the Node's version. The following examples are for Node v0.6.18.
@@ -146,10 +106,11 @@ If you have SpiderMonkey installed, you may have some conflicting includes. Set 
 
 Or use the one liner to install the latest node.js : ```bash < <(curl http://h3manth.com/njs) ```
 
-## Mac OSX
-It's easiest to use a [package manager (as mentioned above)](https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager#osx) such as brew or macports.
 
-### Building on Mac OSX 10.8 with Xcode 4.5 
+### Building on Mac
+
+**OSX 10.8 with Xcode 4.5**
+
 1. Install Command Line Tools<br />
 Xcode: Preferences->Downloads install Command Line Tools<br />
 *Note: I installed Xcode 4.5 in `/Applications/Xcode`*
@@ -260,3 +221,40 @@ set GYP_MSVS_VERSION=2012
 ## Upgrading on Mac with `.pkg`
 
 You can download the latest `.pkg` and run the installer and it will overwrite the existing version of Node currently installed.
+
+## Known Issues
+
+  On UNIX platforms, make sure that the path doesn't contain whitespace: `/home/user/My Projects/node` won't work.
+
+  If you receive an error during `./configure` like this
+  
+```
+File "/home/flo/node-v0.6.6/tools/waf-light", line 157, in <module>
+     import Scripting
+File "/home/flo/node-v0.6.6/tools/wafadmin/Scripting.py", line 146
+     except Utils.WafError, e:
+                          ^
+SyntaxError: invalid syntax
+```
+
+   it is because Python3 is your default Python version. To fix this issue you have to set Python2 temporary as your default Python:
+
+```sh
+export PYTHON=`which python2`
+```
+
+Maybe you need to change your `PYTHONHOME` as well. If that doesn't work, you can try creating symlinks to the old python in a directory which comes before python's in $PATH:
+
+```sh
+cd /usr/local/bin
+ln -s /usr/bin/python2 python
+ln -s /usr/bin/python2-config python-config
+```
+
+Remember to remove the symlinks when you're done. If you have any further installation problems stop into [#node.js](http://webchat.freenode.net/?channels=node.js&uio=d4) on irc.freenode.net and ask questions.
+
+If you are compiling on a NFS mount and get errors at the linker stage or are getting complaints about `flock` not being available on your system, try changing the linker:
+
+```
+make LINK=g++
+```
