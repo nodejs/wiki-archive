@@ -9,6 +9,9 @@
 * [API](http://nodejs.org/api/all.html)
 
 #### Wiki Pages
-* [[Installing|Installation]] <sup>[[via package manager|Installing-Node.js-via-package-manager]]</sup>
+* [[Installing|Installation]] <sup>[[troubleshooting|Troubleshooting-installation]]</sup>
+* [[FAQ]]
 * [[Logos|Logos]]
+* [[Community]]
+* [[Resources]]
 * [API Changes](https://github.com/joyent/node/wiki#api-changes)
