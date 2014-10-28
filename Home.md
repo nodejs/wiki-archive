@@ -11,10 +11,11 @@ Node.js is a platform built on [Chrome's JavaScript runtime](http://code.google.
 * [About](http://nodejs.org/about/)
 * [Blog](http://blog.nodejs.org/)
 * [API](http://nodejs.org/api/all.html)
+* [ChangeLog](https://github.com/joyent/node/blob/master/ChangeLog)
 
 ## Installation
 
-The [[installation guide|Installation]] explains how to get started with Node.js and npm (node package manager) on your system.
+The  explains how to get started with Node.js and npm (node package manager) on your system.
 
 ## Versions
 
@@ -44,20 +45,17 @@ Using an old version of node.js? You might need to update your programs.
 * [[From v0.8 to v0.10|API-changes-between-v0.8-and-v0.10]]
 * [[From v0.10 to v0.12|API-changes-between-v0.10-and-v0.12]]
 
-## Frequently Asked Questions
-
-The [[FAQ]] answers common questions people have about Node.js.
-
 ## Modules
 
 Most modules can be found by [searching the npm registry](https://www.npmjs.org/search?q=npm).
 
 Alternatively you can use [nipster](http://eirikb.github.com/nipster/) or [toolbox](http://nodetoolbox.com/).
 
-## Resources
 
-Besides the documentation on the [official site](http://nodejs.org) here are links to [[other resources|Resources]].
 
-## ChangeLog
-
-Node releases a new version every one or two weeks. The ChangeLog can always be found [here](https://github.com/joyent/node/blob/master/ChangeLog).
+### [[Installing|Installation]] <sup>[[troubleshooting|Troubleshooting-installation]]</sup>
+### [[FAQ]]
+### [[Logos|Logos]]
+### [[Community]]
+### [[Resources]]
+### [API Changes](https://github.com/joyent/node/wiki#api-changes)
