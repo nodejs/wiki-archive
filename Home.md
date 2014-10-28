@@ -7,10 +7,10 @@ Node.js is a platform built on [Chrome's JavaScript runtime](http://code.google.
 * [Website](http://nodejs.org/)
 * [Download](http://nodejs.org/download/)
 * [Docs, Contributing and Tutorials](http://nodejs.org/documentation/)
+* [Community](http://nodejs.org/community/)
 * [About](http://nodejs.org/about/)
 * [Blog](http://blog.nodejs.org/)
 * [API](http://nodejs.org/api/all.html)
-* [The Core Team](http://nodejs.org/about/core-team/)
 
 ## Installation
 
