@@ -29,6 +29,7 @@ The current unstable version is **0.11.14**
 ##### The Future:
 
 * [[API changes between v0.10 and v0.12]]
+* [[Applications tested with v0.12]]
 * [[ECMA 5 Mozilla Features Implemented in V8]]
 * [[ES6 (a.k.a. Harmony) Features Implemented in V8 and Available in Node]]
 
