@@ -26,3 +26,7 @@ When editing this page please be as detailed as possible. Examples are encourage
 ## Process
 
 * `process.maxTickDepth` has been removed, allowing `process.nextTick` to starve I/O indefinitely.
+
+## Child Process
+
+* `customFds` option to `child_process.spawn` is deprecated. Instead of `customFds` you can use `stdio` like https://github.com/mochajs/mocha/pull/1364/files
