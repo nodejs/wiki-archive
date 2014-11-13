@@ -72,8 +72,8 @@ Or, to build the "small" variant (English only):
 
 # Using the "small" build
 
-   * If you didn't build with full ICU, you can provide additional
-     data at runtime.
+   * If you use the "small-icu" option (the default),
+     you can provide additional data at runtime.
       * Two methods:
         * The `NODE_ICU_DATA` env variable:   `env
           NODE_ICU_DATA=/some/path node`
@@ -88,6 +88,7 @@ Or, to build the "small" variant (English only):
         [the ICU Users Guide](http://userguide.icu-project.org/icudata)
         for many more details.
         * "53l" will be "53b" on a big endian machine.
+   * Note that this option is also useful for [updating ICU's time zone data](http://userguide.icu-project.org/datetime/timezone#TOC-Update-the-time-zone-data-for-ICU4C).
 
 # Verifying an `Intl` build
 - [btest402.js](https://github.com/srl295/btest402) is a very basic test of whether `Intl` is built correctly.
