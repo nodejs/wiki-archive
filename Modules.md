@@ -1796,6 +1796,7 @@ rendering process.
 * [nodewm](https://github.com/dudochkin-victor/nodewm) — Webmoney signing module for NodeJs
 * [paynode](https://github.com/jamescarr/paynode) - library for integrating with various payment gateways
 * [paypal-ipn](https://github.com/andzdroid/paypal-ipn) — library for verifying paypal IPN messages
+* [paypal-node-sdk](https://github.com/paypal/PayPal-node-SDK) - Node.js SDK for PayPal RESTful APIs
 * [2co](https://github.com/biggora/2co) - library for integrating with [2Checkout](https://www.2checkout.com/)
 
 <a name="wiki-api-clients"></a>
