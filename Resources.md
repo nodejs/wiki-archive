@@ -37,6 +37,7 @@
 * [A Beginner’s Tutorial for Node.js](http://project70.com/nodejs/beginners-tutorial-node-js/) -- by Cedric Dussud
 * Exploring the V8 JS engine [Part 1](http://jcla1.com/blog/2012/01/07/exploring-the-v8-js-engine-part-1/) [Part 2](http://jcla1.com/blog/2012/01/08/exploring-the-v8-js-engine-part-2/)
 * [v8 Getting Started](https://developers.google.com/v8/get_started) -- Google official v8 documentation
+* [How to Use the Node.js Event Emitter](http://blog.ashworth.in/how-to-use-the-node-js-eventemitter/) -- by Brendan Ashworth
 
 ## Talks
 * [GoogleTechTalk: Node.js](http://www.youtube.com/watch?v=F6k8lTrAE2g) -- by Ryan Dahl (video, 2010-07-28)
