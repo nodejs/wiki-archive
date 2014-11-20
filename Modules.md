@@ -2087,8 +2087,7 @@ rendering process.
 
 <a name="wiki-ddd-cqrs-es"></a>
 ## [DDD, CQRS, EventSourcing](#ddd-cqrs-es)
-* [jsdm] (https://github.com/brighthas/jsdm) — Domain development , DDD-CQRS framework for node.js.
-* [jsdm.middle] (https://github.com/brighthas/jsdm.middle) — jsdm middleware for express.js.
+* [cqrs] (https://github.com/leogiese/cqrs) — DDD/CQRS/Actor framework for node.js.
 * [cloudjs] (https://github.com/digitalwm/cloudjs) — provides a network distributed event system and a
 * [node-cqrs-domain](https://github.com/adrai/node-cqrs-domain) — Node-cqrs-domain is a node.js module based on nodeEventStore that. It can be very useful as domain component if you work with (d)ddd, cqrs, eventdenormalizer, host, etc.
 * [node-cqrs-eventdenormalizer](https://github.com/adrai/node-cqrs-eventdenormalizer) — Node-cqrs-eventdenormalizer is a node.js module that implements the cqrs pattern. It can be very useful as eventdenormalizer component if you work with (d)ddd, cqrs, domain, host, etc.
