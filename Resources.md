@@ -1,5 +1,6 @@
 ## Books
 
+* [《Node.js 包教不包会》](https://github.com/alsotang/node-lessons)
 * [Mixu's Node book](http://book.mixu.net/)
 * [Node In Action](http://www.manning.com/cantelon/) -- by [Mike Cantelon](https://github.com/mcantelon), [Nathan Rajlich](https://github.com/tootallnate), and [TJ Holowaychuk](https://github.com/visionmedia)
 * [The Node Beginner Book](http://www.nodebeginner.org/) -- A comprehensive tutorial for folks that are already proficient in other languages, but new to JavaScript and Node.js
@@ -9,6 +10,7 @@
 
 * [justjs](http://justjs.com) -- by Tom Boutell. A blog featuring a series of node.js tutorials, starting with the basics of installing Node and MongoDB on your own computer and building from there into creating full-fledged node apps, beginning with the justjs.com blog itself.
 * [NodeCloud](http://www.nodecloud.org/) -- by [Frederic Cambus](http://www.cambus.net), an ordered Node.js resource directory allowing to evaluate relative popularity of a project.
+* [CNode](https://cnodejs.org/) -- China Node.js commutity
 
 ## Articles
 
