@@ -45,7 +45,7 @@ VPS providers, which often require you to set everything up yourself, including 
 * [Amazon EC2](http://aws.amazon.com/ec2)
 * [BuyVM](http://www.buyvm.net)
 * [Digital Ocean](https://www.digitalocean.com/) - $5/mo. SSD VPS, New York and Amsterdam
-* [DreamHostPS](http://www.dreamhost.com/hosting-vps.html) - Need a total reconfiguration of virtual machines
+* [DreamHostVPS](http://www.dreamhost.com/hosting/vps/) - Need a total reconfiguration of virtual machines
 * [exoscale](https://exoscale.ch)
 * [Gandi](http://en.gandi.net/hosting)
 * [Google Compute Engine](https://cloud.google.com/products/compute-engine/)
