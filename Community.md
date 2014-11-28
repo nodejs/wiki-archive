@@ -45,3 +45,4 @@ For real-time discussion, check irc.freenode.net #node.js or Stack Overflow [cha
 * [Hands on Node.js](http://nodetuts.com/handson-nodejs-book.html)
 * [The Node Beginner Book](http://www.nodebeginner.org/)
 * [Smashing Node.js](http://smashingnode.com/)
+* [《Node.js 包教不包会》](https://github.com/alsotang/node-lessons)
