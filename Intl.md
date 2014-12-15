@@ -1,7 +1,7 @@
 # Note: These instructions will apply to v0.12 and following.
 - An exception is the [Chromium ICU](#building-using-chromiums-icu) instructions which are already relevant to node.
 - [ ] TODO: remove the above notice when https://github.com/joyent/node/pull/7719 is in master
-- [ ] TODO: as of https://github.com/joyent/node/pull/8719 the option `--with-intl=small-icu` will be on by default, AND ICU will be downloaded automatically. Need to reword the wiki here.
+- [ ] TODO: as of https://github.com/joyent/node/pull/8719 the option `--with-intl=none` will be the default, AND ICU will be downloaded automatically if need be. Need to reword the wiki here. 
 
 # What is `Intl`?
 The `Intl` object is available when [EcmaScript 402](http://www.ecma-international.org/ecma-402/1.0/)
