@@ -72,7 +72,7 @@ Or, to build the "small" variant (English only):
 
 # Using the "small" build
 
-   * If you use the "small-icu" option (the default),
+   * If you use the "small-icu" option,
      you can provide additional data at runtime.
       * Two methods:
         * The `NODE_ICU_DATA` env variable:   `env
