@@ -82,3 +82,4 @@ Show off your vim skills by including a link to your pimped out `~/.vim`
 * [alessioalex] (https://github.com/alessioalex/dotfiles)
 * [smith](https://github.com/smith/vim-config)
 * [wavded](https://github.com/wavded/dotfiles/tree/master/vim)
+* [aureooms] (https://github.com/aureooms/dotfiles/tree/master/.vim)
