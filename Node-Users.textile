@@ -235,6 +235,8 @@ h2. UTC-7 (-6)
 ** "GitHub":http://github.com/designfrontier/, "Twitter":http://twitter.com/daniel_sellers/, "Website":http://designfrontier.net
 * Thom Allen, Salt Lake City, UT, US
 ** "GitHub":http://github.com/thom801/, "Twitter":http://twitter.com/thom801/, "Website":http://thom801.github.io
+* Matt Greer, Denver, CO, US
+** "GitHub":http://github.com/city41/, "Twitter":http://twitter.com/cityfortyone, "Website":http://mattgreer.org
 
 h2. UTC-6 (-5)
 * Ricky Sanchez (ricky), Austin, TX, US
