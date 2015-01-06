@@ -89,19 +89,22 @@ Or, to build the "small" variant (English only):
         [the ICU Users Guide](http://userguide.icu-project.org/icudata)
         for many more details.
         * "53l" will be "53b" on a big endian machine.
+   * With the `small-icu` mode, you can also choose different locales than "English only". For example,
+       `--with-icu-locales=de,zh,fr` will include only German, Chinese and French but not English.
    * Note that this option is also useful for [updating ICU's time zone data](http://userguide.icu-project.org/datetime/timezone#TOC-Update-the-time-zone-data-for-ICU4C).
 
 # Verifying an `Intl` build
-- [btest402.js](https://github.com/srl295/btest402) is a very basic test of whether `Intl` is built correctly.
+- `node test/simple/test-intl.js`
+- [btest402.js](https://github.com/srl295/btest402) is a very basic but verbose test of whether `Intl` is built correctly.
 
 # Using `Intl` build
-- See: [EcmaScript 402](http://www.ecma-international.org/ecma-402/1.0/)
+- See: [EcmaScript 402](http://www.ecma-international.org/ecma-402/1.0/) and http://jsi18n.com/
 - Tutorial: [Working with Intl](http://code.tutsplus.com/tutorials/working-with-intl--cms-21082)
 
 # Building using Chromium's ICU
 
-Note: this build is missing some locales, is an older revision, and has a larger output size.
-It is included here for completeness.
+Note: not recommended. This build is missing some locales, is an older revision,
+and has a larger output size. It is included here for completeness.
 
     svn checkout --force --revision 214189 \
         http://src.chromium.org/svn/trunk/deps/third_party/icu46 \
@@ -109,6 +112,3 @@ It is included here for completeness.
     ./configure --with-icu-path=deps/v8/third_party/icu46/icu.gyp
     make
     make install
-
-# FAQ
-* none (yet!)
