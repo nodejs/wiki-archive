@@ -5,6 +5,41 @@ The `Intl` object is available when [EcmaScript 402](http://www.ecma-internation
 support is enabled.
 Node.js uses [ICU4C](http://icu-project.org) to implement the `Intl` object natively.
 
+There are multiple ways to build Node with ICU. Most of this page discusses different ways to build ICU.
+
+# Build with a specific ICU:
+
+You can find other ICU releases at
+[the ICU homepage](http://icu-project.org/download).
+Download the file named something like `icu4c-**##.#**-src.tgz` (or
+`.zip`).
+
+Unix/Macintosh: from an already-unpacked ICU
+
+```sh
+./configure --with-intl=[small-icu,full-icu] --with-icu-source=/path/to/icu
+```
+
+Unix/Macintosh: from a local ICU tarball
+
+```sh
+./configure --with-intl=[small-icu,full-icu] --with-icu-source=/path/to/icu.tgz
+```
+
+Unix/Macintosh: from a tarball URL
+
+```sh
+./configure --with-intl=full-icu --with-icu-source=http://url/to/icu.tgz
+```
+
+Windows: first unpack latest ICU to `deps/icu`
+  [icu4c-**##.#**-src.tgz](http://icu-project.org/download) (or `.zip`)
+  as `deps/icu` (You'll have: `deps/icu/source/...`)
+
+```sh
+vcbuild full-icu
+```
+
 # Unix/Macintosh: Using a pre-built ICU (system-icu)
 
 The Intl package can use an ICU which is already built.  
