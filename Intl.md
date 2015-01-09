@@ -135,6 +135,15 @@ Or, to build the "small" variant (English only):
 
 # Updating Timezone data
 
+From the ICU documentation:
+
+> Time zone data changes often in response to governments around the world changing their local rules and the
+> areas where they apply. ICU derives its tz data from the IANA Time Zone Database.
+>
+> The ICU project publishes updated timezone resource data in response to IANA updates, and these can be used to
+> patch existing ICU installations. Several update strategies are possible, depending on the ICU version and
+> configuration.
+
 As the [ICU Userguide](http://userguide.icu-project.org/datetime/timezone#TOC-ICU4C-TZ-Update-with-Drop-in-.res-files-ICU-54-and-newer-) states, it is possible to update time zone data (when ICU 54 and following is used) by:
 * setting the `ICU_TIMEZONE_FILES_DIR` variable to point to some directory, such as `/timezones`
 * Download the `.res` files from the appropriate subdirectory of [the ICU  TZ site](http://source.icu-project.org/repos/icu/data/trunk/tzdata/icunew/) (from the `44/le` directory for little endian machines or the `44/be` directory for big endian machines) to the `/timezones` directory
