@@ -133,6 +133,13 @@ Or, to build the "small" variant (English only):
 - See: [EcmaScript 402](http://www.ecma-international.org/ecma-402/1.0/) and http://jsi18n.com/
 - Tutorial: [Working with Intl](http://code.tutsplus.com/tutorials/working-with-intl--cms-21082)
 
+# Updating Timezone data
+
+As the [ICU Userguide](http://userguide.icu-project.org/datetime/timezone#TOC-ICU4C-TZ-Update-with-Drop-in-.res-files-ICU-54-and-newer-) states, it is possible to update time zone data (when ICU 54 and following is used) by:
+* setting the `ICU_TIMEZONE_FILES_DIR` variable to point to some directory, such as `/timezones`
+* Download the `.res` files from the appropriate subdirectory of [the ICU  TZ site](http://source.icu-project.org/repos/icu/data/trunk/tzdata/icunew/) (from the `44/le` directory for little endian machines or the `44/be` directory for big endian machines) to the `/timezones` directory
+* On node's next restart, it will use the `.res` files from the `ICU_TIMEZONE_FILES_DIR` variable to get the latest timezone data.
+
 # Building using Chromium's ICU
 
 Note: not recommended. This build is missing some locales, is an older revision,
