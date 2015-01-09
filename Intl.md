@@ -1,4 +1,5 @@
 # What is `Intl`?
+
 [EcmaScript 402](http://www.ecma-international.org/ecma-402/1.0/) describes
 the global `Intl` (short for Internationalization) object
 and other related functions and functionality.
@@ -10,14 +11,93 @@ included with Node's source repository or source distributions.
 There are multiple ways to build Node with ICU.
 This page applies to v0.12 and following.
 
-# Build with a specific ICU:
+## Building with a pre-installed ICU (`system-icu`)
+
+Node can link against an ICU which is already installed on your system,
+either via `make install` in the ICU directory or via a package manager.
+[pkg-config](http://pkg-config.freedesktop.org/) is used to locate ICU.
+
+This option is not available using Windows.
+
+### Install ICU
+
+#### .. From a package manager
+
+Run one of these or similar as appropriate for your system:
+
+     apt-get install libicu-dev
+     yum install libicu-dev
+
+#### .. From source
+
+* Download ICU source
+  [http://icu-project.org/download](http://icu-project.org/download)
+
+* Follow the enclosed `readme.html` to build ICU, particularly paying attention to the `--prefix` argument
+
+* build ICU and then:
+
+     make install
+
+### Verify that ICU is installed
+
+     pkg-config --modversion icu-i18n
+
+If this command fails, node will not be able to find the installed ICU. 
+Verify that the `PKG_CONFIG_PATH` points to the newly installed `icu-i18n.pc` file
+
+### Configure node with `system-icu`
+
+     ./configure --with-intl=system-icu
+
+## Building Node with an embedded ICU
+
+This section describes how to compile ICU as part of the Node build process.
+ICU is typically statically linked into Node and thus there are no further
+external dependencies.
+
+
+### full-icu vs small-icu
+
+There are two different `--with-intl` modes with which to build ICU.
+
+*full-icu* includes all locales which are available in the particular
+release of ICU.
+
+*small-icu* includes a specific subset, typically only "English" support",
+but still supports the full API.
+
+### Configure Node with auto downloading
+
+If the `--download=all` option is used ( `download-all` on Windows ),
+the `full-icu` and `small-icu` modes will attempt to download ICU's
+source from the Internet if it was not otherwise present.
+If you omit the `download` option, Node will not attempt to download
+ICU.  The downloaded ICU will be located in the `deps/icu` directory. 
+
+Unix/Macintosh: (either small or full ICU) choose one of:
+
+```sh
+./configure --with-intl=small-icu --download=all
+./configure --with-intl=full-icu --download=all
+```
+
+Windows:
+
+```sh
+vcbuild small-icu download-all
+vcbuild full-icu download-all
+```
+
+### Configure Node with specific ICU source
 
 You can find other ICU releases at
 [the ICU homepage](http://icu-project.org/download).
 Download the file named something like `icu4c-**##.#**-src.tgz` (or
 `.zip`).
 
-Unix/Macintosh: from an already-unpacked ICU
+Unix/Macintosh: from an already-unpacked ICU - you can omit `--with-icu-source`
+if you have unpacked ICU into `deps/icu`.
 
 ```sh
 ./configure --with-intl=[small-icu,full-icu] --with-icu-source=/path/to/icu
@@ -43,69 +123,7 @@ Windows: first unpack latest ICU to `deps/icu`
 vcbuild.bat small-icu|full-icu
 ```
 
-# Unix/Macintosh: Using a pre-built ICU (system-icu)
-
-The Intl package can use an ICU which is already built.  
-## Installing a pre-built ICU
-Here are some ways to obtain a pre-built ICU:
-
-### From a package manager
-
-Run one of these or similar as appropriate for your system:
-
-     apt-get install libicu-dev
-     yum install libicu-dev
-
-### Building ICU yourself
-
-* Download ICU source
-  [http://icu-project.org/download](http://icu-project.org/download)
-
-* Follow the enclosed `readme.html` to build ICU, particularly paying attention to the `--prefix` argument
-
-* build ICU and then:
-
-     make install
-
-## Verify an installed ICU
-
-     pkg-config --modversion icu-i18n
-
-If this command fails, node will not be able to find the installed ICU. 
-Verify that the `PKG_CONFIG_PATH` points to the newly installed `icu-i18n.pc` file
-
-## Configure node
-
-     ./configure --with-intl=system-icu
-
-* Download the latest
-  [icu4c-**##.#**-src.tgz](http://icu-project.org/download) (or `.zip`)
-* Unpack the source as `deps/icu` (you should have `deps/icu/source/...`)
-
-# Building node with an embedded ICU
-
-## Download ICU source
-First: Unpack latest ICU
-  [icu4c-**##.#**-src.tgz](http://icu-project.org/download) (or `.zip`)
-  as `deps/icu` (You'll have: `deps/icu/source/...`)
-
-## Unix/Macintosh
-
-* ./configure ... --with-intl=full-icu
-
-Or, to build the "small" variant (English only):
-
-* ./configure ... --with-intl=small-icu
-
-## Windows
-
-* vsbuild.bat ... `full-icu`
-
-Or, to build the "small" variant (English only):
-
-* vsbuild.bat ... `small-icu`
-
-# Using the "small" build
+### Using and customizing the `small-icu` build
 
    * If you use the "small-icu" option,
      you can provide additional data at runtime.
@@ -123,13 +141,26 @@ Or, to build the "small" variant (English only):
         [the ICU Users Guide](http://userguide.icu-project.org/icudata)
         for many more details.
         * "53l" will be "53b" on a big endian machine.
-   * With the `small-icu` mode, you can also choose different locales than "English only". For example,
+   * With the `small-icu` mode, you can also choose different locales than "English only" as arguments to
+      `configure`. For example,
        `--with-icu-locales=de,zh,fr` will include only German, Chinese and French but not English.
        The http://apps.icu-project.org/datacustom/ page will list currently available locale IDs.
-   * Note that this option is also useful for [updating ICU's time zone data](http://userguide.icu-project.org/datetime/timezone#TOC-Update-the-time-zone-data-for-ICU4C).
+        (not available on Windows).
+
+## Building using Chromium's ICU
+
+*Note*: not recommended! This build is missing some locales, is an older revision,
+and has a larger output size. It is documented here for completeness.
+
+    svn checkout --force --revision 214189 \
+        http://src.chromium.org/svn/trunk/deps/third_party/icu46 \
+        deps/v8/third_party/icu46
+    ./configure --with-icu-path=deps/v8/third_party/icu46/icu.gyp
+    make
+    make install
 
 # Verifying an `Intl` build
-- `node test/simple/test-intl.js`
+- `node test/simple/test-intl.js` is a built-in unit test of basic functionality.
 - [btest402.js](https://github.com/srl295/btest402) is a very basic but verbose test of whether `Intl` is built correctly.
 
 # Using `Intl` build
@@ -152,14 +183,3 @@ As the [ICU Userguide](http://userguide.icu-project.org/datetime/timezone#TOC-IC
 * Download the `.res` files from the appropriate subdirectory of [the ICU  TZ site](http://source.icu-project.org/repos/icu/data/trunk/tzdata/icunew/) (from the `44/le` directory for little endian machines or the `44/be` directory for big endian machines) to the `/timezones` directory
 * On node's next restart, it will use the `.res` files from the `ICU_TIMEZONE_FILES_DIR` variable to get the latest timezone data.
 
-# Building using Chromium's ICU
-
-Note: not recommended. This build is missing some locales, is an older revision,
-and has a larger output size. It is included here for completeness.
-
-    svn checkout --force --revision 214189 \
-        http://src.chromium.org/svn/trunk/deps/third_party/icu46 \
-        deps/v8/third_party/icu46
-    ./configure --with-icu-path=deps/v8/third_party/icu46/icu.gyp
-    make
-    make install
