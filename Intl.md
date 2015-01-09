@@ -1,8 +1,4 @@
-# Note: These instructions will apply to v0.12 and following.
-- An exception is the [Chromium ICU](#building-using-chromiums-icu) instructions which are already relevant to node.
-- [ ] TODO: remove the above notice when https://github.com/joyent/node/pull/7719 is in master
-- [ ] TODO: as of https://github.com/joyent/node/pull/8719 the option `--with-intl=none` will be the default, AND ICU will be downloaded automatically if need be. Need to reword the wiki here. 
-- [ ] TODO: document `--with-icu-locales` with examples, and point to http://apps.icu-project.org/datacustom/ for a list of current locales.
+This page applies to v0.12 and following.
 
 # What is `Intl`?
 The `Intl` object is available when [EcmaScript 402](http://www.ecma-international.org/ecma-402/1.0/)
@@ -83,7 +79,7 @@ Or, to build the "small" variant (English only):
       * Example:  If you use the path `/some/path`, then ICU 53 on
         Little Endian (l) finds:
         * individual files such as `/some/path/icudt53l/root.res`
-        * a packaged data file `/some/path/icudt53l.dat`
+        * a packaged data file `/some/path/icudt53l.dat` such as from http://apps.icu-project.org/datacustom/
       * Notes:
         * See `u_setDataDirectory()` and
         [the ICU Users Guide](http://userguide.icu-project.org/icudata)
@@ -91,6 +87,7 @@ Or, to build the "small" variant (English only):
         * "53l" will be "53b" on a big endian machine.
    * With the `small-icu` mode, you can also choose different locales than "English only". For example,
        `--with-icu-locales=de,zh,fr` will include only German, Chinese and French but not English.
+       The http://apps.icu-project.org/datacustom/ page will list currently available locale IDs.
    * Note that this option is also useful for [updating ICU's time zone data](http://userguide.icu-project.org/datetime/timezone#TOC-Update-the-time-zone-data-for-ICU4C).
 
 # Verifying an `Intl` build
