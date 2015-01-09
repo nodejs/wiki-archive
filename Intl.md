@@ -1,11 +1,14 @@
-This page applies to v0.12 and following.
-
 # What is `Intl`?
-The `Intl` object is available when [EcmaScript 402](http://www.ecma-international.org/ecma-402/1.0/)
-support is enabled.
-Node.js uses [ICU4C](http://icu-project.org) to implement the `Intl` object natively.
+[EcmaScript 402](http://www.ecma-international.org/ecma-402/1.0/) describes
+the global `Intl` (short for Internationalization) object
+and other related functions and functionality.
 
-There are multiple ways to build Node with ICU. Most of this page discusses different ways to build ICU.
+Node.js (or more properly, the v8 engine) uses [ICU4C](http://icu-project.org)
+to implement this `Intl` support in native C/C++. ICU's source is not
+included with Node's source repository or source distributions.
+
+There are multiple ways to build Node with ICU.
+This page applies to v0.12 and following.
 
 # Build with a specific ICU:
 
