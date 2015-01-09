@@ -29,7 +29,7 @@ Unix/Macintosh: from a local ICU tarball
 Unix/Macintosh: from a tarball URL
 
 ```sh
-./configure --with-intl=full-icu --with-icu-source=http://url/to/icu.tgz
+./configure --with-intl=[small-icu,full-icu] --with-icu-source=http://url/to/icu.tgz
 ```
 
 Windows: first unpack latest ICU to `deps/icu`
@@ -37,7 +37,7 @@ Windows: first unpack latest ICU to `deps/icu`
   as `deps/icu` (You'll have: `deps/icu/source/...`)
 
 ```sh
-vcbuild full-icu
+vcbuild.bat small-icu|full-icu
 ```
 
 # Unix/Macintosh: Using a pre-built ICU (system-icu)
