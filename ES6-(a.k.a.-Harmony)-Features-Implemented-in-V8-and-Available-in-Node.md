@@ -21,6 +21,9 @@ This page is meant to track and list these features, and how to use them.
 
 ## Iteration (`--harmony_iteration`)
 
+## String literals
+Available in V8 as of 3.31.
+
 # Other
 ## V8 flags; meaning and implications
 ```c++
