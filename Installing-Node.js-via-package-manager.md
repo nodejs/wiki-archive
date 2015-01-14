@@ -65,8 +65,7 @@ apt-get install -y build-essential
 * **Ubuntu 10.04 LTS** (Lucid Lynx, *armhf build not available*)
 * **Ubuntu 12.04 LTS** (Precise Pangolin)
 * **Ubuntu 14.04 LTS** (Trusty Tahr)
-
-*Ubuntu 14.10 (Utopic Unicorn) is not yet officially supported but can use the Trusty binaries, [details here](https://github.com/nodesource/distributions/issues/13).*
+* **Ubuntu 14.10** (Utopic Unicorn)
 
 **Supported Debian versions:**
 
