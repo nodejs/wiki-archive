@@ -9,7 +9,7 @@ to implement this `Intl` support in native C/C++. ICU's source is not
 included with Node's source repository or source distributions.
 
 There are multiple ways to build Node with ICU.
-This page applies to v0.12 and following.
+This page applies to v0.11.15+ and v0.12+.
 
 ## Building with a pre-installed ICU (`system-icu`)
 
