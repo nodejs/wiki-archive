@@ -4,7 +4,7 @@ Google's **Hangouts On Air** are distinct from **Hangouts** in that they are str
 
 You can (and should) create a Hangouts On Air "Event" at any time _before_ a meeting is to take place. This gives you time to distribute a link to the YouTube broadcast as well as the private Hangout link for participants. There is a Google Plus "Event" page corresponding to the scheduled Hangouts On Air event but it's not particularly friendly so you are usually best to distribute links manually for the event.
 
-Depending on the way the Hangout An Air is created, you can have either 10 or 15 people being recorded, and a (theoretically) unlimited number of people watching live via YouTube. The 15-person limit is available to organisations that are using Google Apps. Private Google accounts (gmail.com style) are limited to 10 participants.
+Depending on the way the Hangout On Air is created, you can have either 10 or 15 people being recorded, and a (theoretically) unlimited number of people watching live via YouTube. The 15-person limit is available to organisations that are using Google Apps. Private Google accounts (gmail.com style) are limited to 10 participants.
 
 ## Scheduling an Event
 
