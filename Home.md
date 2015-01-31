@@ -17,7 +17,7 @@ Node.js is a platform built on [Chrome's JavaScript runtime](http://code.google.
 
 ##### Stable:
 
-The current stable version is **0.10.35**
+The current stable version is **0.10.36**
 
 ##### Unstable:
 
