@@ -186,6 +186,22 @@ As the [ICU Userguide](http://userguide.icu-project.org/datetime/timezone#TOC-IC
 * On node's next restart, it will use the `.res` files from the `ICU_TIMEZONE_FILES_DIR` variable to get the latest timezone data.
 
 # FAQ
+## Q: Why all of the options about configuration? What's the big deal?
+
+ICU does a lot, and while it is highly customizable, by default the source code, object code, and data sizes are substantial. Therefore, it has had different treatment than other `node.js` dependencies to date.
+
+## Q: What do all of the build options mean?
+Node that `node.js` builds statically by default.
+* `--with-intl=none` - this is the default as of v0.11.16. The `Intl` object and features aren't included.
+* `--with-intl=system-icu` - use `pkg-config` (`.pc` files) to locate an existing ICU that is already installed somewhere, and link to it (probably dynamically). This is a great option if you can do it, because it means you can share the ICU instance with other apps on your system.
+* `--with-intl=full-icu` - Take all of ICU, and make use of at least everything that `Intl` currently supports. Specifically, all locales that ship by default in ICU.
+* `--with-intl=small-icu` - Use a reduced set of ICU locales, by default just English. `node.js` is then monolingual, *but*:
+ * the full API is available, so you can get started writing to `Intl`.
+ * you can "side-load" a compatible ICU data file with a runtime or environment variable.
+* `--with-icu-path` - Not recommended unless you specifically want to use Chromium's ICU.
+* `--download=all` / `--download=icu` - one of these options is needed to make `configure` go out and download ICU for you.
+(The `configure` options are listed, but the Windows `vcbuild.bat` options are similar.)
+
 ## Q: By how much do the various options affect the on-disk sizes?
 
 ### System tested:
@@ -195,6 +211,6 @@ As the [ICU Userguide](http://userguide.icu-project.org/datetime/timezone#TOC-IC
 
 ### Results:
 * 16M `./configure --ninja --with-intl=none`  *this is the default*
-* 21M `./configure --ninja --with-intl=small-icu --download=all` *this is how v0.11.15 ships*
+* 21M `./configure --ninja --with-intl=small-icu --download=all` *this is how v0.11.16 ships*
  * ("side" data file is 25M)
 * 44M `./configure --ninja --with-intl=full-icu --download=all` *but this could be reduced in the future, see:* [#8979](https://github.com/joyent/node/issues/8979)
