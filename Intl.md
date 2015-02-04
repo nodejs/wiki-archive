@@ -197,5 +197,4 @@ As the [ICU Userguide](http://userguide.icu-project.org/datetime/timezone#TOC-IC
 * 16M `./configure --ninja --with-intl=none`  *this is the default*
 * 21M `./configure --ninja --with-intl=small-icu --download=all` *this is how v0.11.15 ships*
  * ("side" data file is 25M)
-* 44M `./configure --ninja --with-intl=full-icu --download=all` *but see* [#8979](https://github.com/joyent/node/issues/8979)
-
+* 44M `./configure --ninja --with-intl=full-icu --download=all` *but see:* #8979
