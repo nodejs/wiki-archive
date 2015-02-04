@@ -191,7 +191,7 @@ As the [ICU Userguide](http://userguide.icu-project.org/datetime/timezone#TOC-IC
 ICU does a lot, and while it is highly customizable, by default the source code, object code, and data sizes are substantial. Therefore, it has had different treatment than other `node.js` dependencies to date.
 
 ## Q: What do all of the build options mean?
-Node that `node.js` builds statically by default.
+Note that `node.js` builds statically by default.
 * `--with-intl=none` - this is the default as of v0.11.16. The `Intl` object and features aren't included.
 * `--with-intl=system-icu` - use `pkg-config` (`.pc` files) to locate an existing ICU that is already installed somewhere, and link to it (probably dynamically). This is a great option if you can do it, because it means you can share the ICU instance with other apps on your system.
 * `--with-intl=full-icu` - Take all of ICU, and make use of at least everything that `Intl` currently supports. Specifically, all locales that ship by default in ICU.
