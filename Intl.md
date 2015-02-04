@@ -11,6 +11,7 @@ included with Node's source repository or source distributions.
 There are multiple ways to build Node with ICU.
 This page applies to v0.11.15+ and v0.12+.
 
+# Building
 ## Building with a pre-installed ICU (`system-icu`)
 
 Node can link against an ICU which is already installed on your system,
@@ -167,7 +168,8 @@ and has a larger output size. It is documented here for completeness.
 - See: [EcmaScript 402](http://www.ecma-international.org/ecma-402/1.0/) and http://jsi18n.com/
 - Tutorial: [Working with Intl](http://code.tutsplus.com/tutorials/working-with-intl--cms-21082)
 
-# Updating Timezone data
+# Updating
+## Updating Timezone data
 
 From the ICU documentation:
 
@@ -182,4 +184,18 @@ As the [ICU Userguide](http://userguide.icu-project.org/datetime/timezone#TOC-IC
 * setting the `ICU_TIMEZONE_FILES_DIR` variable to point to some directory, such as `/timezones`
 * Download the `.res` files from the appropriate subdirectory of [the ICU  TZ site](http://source.icu-project.org/repos/icu/data/trunk/tzdata/icunew/) (from the `44/le` directory for little endian machines or the `44/be` directory for big endian machines) to the `/timezones` directory
 * On node's next restart, it will use the `.res` files from the `ICU_TIMEZONE_FILES_DIR` variable to get the latest timezone data.
+
+# FAQ
+## Q: By how much do the various options affect the on-disk sizes?
+
+### System tested:
+ * cpu: x86_64 
+ * os: RHEL 6.6
+ * node.js tag: v0.11.16
+
+### Results:
+* 16M `./configure --ninja --with-intl=none`  *this is the default*
+* 21M `./configure --ninja --with-intl=small-icu --download=all` *this is how v0.11.15 ships*
+ * ("side" data file is 25M)
+* 44M `./configure --ninja --with-intl=full-icu --download=all` *but see* [#8979](https://github.com/joyent/node/issues/8979)
 
