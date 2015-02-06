@@ -2,7 +2,7 @@ When editing this page please be as detailed as possible. Examples are encourage
 
 ## Resource Management
 
-* On *nix soft `ulimit` values are ignored.
+* On Unix soft `ulimit` values are ignored.
 
 ## Buffers
 
