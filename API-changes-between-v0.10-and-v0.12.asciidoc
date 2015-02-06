@@ -1,5 +1,9 @@
 When editing this page please be as detailed as possible. Examples are encouraged!
 
+## Resource Management
+
+* On *nix soft `ulimit` values are ignored.
+
 ## Buffers
 
 ### Module API Changes
