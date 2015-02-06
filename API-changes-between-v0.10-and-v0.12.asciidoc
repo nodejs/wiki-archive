@@ -1,5 +1,9 @@
 When editing this page please be as detailed as possible. Examples are encouraged!
 
+## V8
+
+0.12.0 ships with V8 version 3.28.73, which was released in August 2014.
+
 ## Resource Management
 
 * On Unix soft `ulimit` values are ignored.
