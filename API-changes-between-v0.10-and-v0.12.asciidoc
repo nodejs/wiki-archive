@@ -33,7 +33,7 @@ When editing this page please be as detailed as possible. Examples are encourage
 
 ## Process
 
-* `process.maxTickDepth` has been removed, allowing `process.nextTick` to starve I/O indefinitely.
+* `process.maxTickDepth` has been removed, allowing `process.nextTick` to starve I/O indefinitely. This is due to adding `setImmediate` in 0.10.
 
 ## Child Process
 
