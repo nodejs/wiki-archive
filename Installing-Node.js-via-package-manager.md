@@ -137,6 +137,7 @@ yum install gcc-c++ make
 
 **Supported Fedora versions:**
 
+* **Fedora 21** (32-bit and 64-bit)
 * **Fedora 20 (Heisenbug)** (32-bit and 64-bit)
 * **Fedora 19 (Schrödinger's Cat)** (32-bit and 64-bit)
 
