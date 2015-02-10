@@ -1,12 +1,12 @@
 ## Node.js community wiki
-![Node.js logo](http://nodejs.org/images/logos/nodejs.png)
-* [Website](http://nodejs.org/)
+![Node.js logo](https://nodejs.org/images/logos/nodejs.png)
+* [Website](https://nodejs.org/)
 * [Download](http://nodejs.org/download/)
-* [Docs, Contributing and Tutorials](http://nodejs.org/documentation/)
-* [Community](http://nodejs.org/community/)
-* [About](http://nodejs.org/about/)
+* [Docs, Contributing and Tutorials](https://nodejs.org/documentation/)
+* [Community](https://nodejs.org/community/)
+* [About](https://nodejs.org/about/)
 * [Blog](http://blog.nodejs.org/)
-* [API](http://nodejs.org/api/all.html)
+* [API](https://nodejs.org/api/all.html)
 
 #### Wiki Pages
 * [[Installing|Installation]] <sup>[[troubleshooting|Troubleshooting-installation]]</sup>
