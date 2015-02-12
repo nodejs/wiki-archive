@@ -29,16 +29,16 @@
 ***
 
 ## Installing on Linux
-You can install a pre-built version of node.js via [the downloads page](http://nodejs.org/download/) avaliable in a **.tar.gz**.
+You can install a pre-built version of node.js via [the downloads page](http://nodejs.org/download/) available in a **.tar.gz**.
 
 ## Installing on Mac
-You can install a pre-built version of node.js via [the downloads page](http://nodejs.org/download/) using a **.pkg** or avaliable in a **.tar.gz**.
+You can install a pre-built version of node.js via [the downloads page](http://nodejs.org/download/) using a **.pkg** or available in a **.tar.gz**.
 
 ## Installing on Windows
 You can install a pre-built version of node.js via [the downloads page](http://nodejs.org/download/) using a **.exe** or a **.msi**.
 
 ## Installing on SunOS
-You can install a pre-built version of node.js via [the downloads page](http://nodejs.org/download/) avaliable in a **.tar.gz**.
+You can install a pre-built version of node.js via [the downloads page](http://nodejs.org/download/) available in a **.tar.gz**.
 
 ## Installing on Linaro Ubuntu (ARM, [UDOO](http://udoo.org))
 [Compiled binaries and build instructions are available here.](https://github.com/pilwon/nodejs-for-linaro-ubuntu)
