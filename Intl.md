@@ -136,7 +136,7 @@ vcbuild.bat small-icu|full-icu
       * Example:  If you use the path `/some/path`, then ICU 53 on
         Little Endian (l) finds:
         * individual files such as `/some/path/icudt53l/root.res`
-        * a packaged data file `/some/path/icudt53l.dat` such as from http://apps.icu-project.org/datacustom/
+        * a packaged data file `/some/path/icudt53l.dat` such as from http://apps.icu-project.org/datacustom/ (*Note*: the datacustom generated files cause a problem, see [#9246](https://github.com/joyent/node/issues/9246)
       * Notes:
         * See `u_setDataDirectory()` and
         [the ICU Users Guide](http://userguide.icu-project.org/icudata)
