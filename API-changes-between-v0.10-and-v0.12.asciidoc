@@ -38,3 +38,7 @@ When editing this page please be as detailed as possible. Examples are encourage
 ## Child Process
 
 * `customFds` option to `child_process.spawn` is deprecated. Instead of `customFds` you can use `stdio` like https://github.com/mochajs/mocha/pull/1364/files
+
+## https
+
+* `SNICallback` required returning a `secureContext` synchronously as `function (hostname) {}`. The function signature is now `function (hostname, cb) {}`. You can feature detect with `'function' === typeof cb`. 
