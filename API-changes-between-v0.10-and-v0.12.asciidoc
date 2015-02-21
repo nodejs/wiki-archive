@@ -41,4 +41,4 @@ When editing this page please be as detailed as possible. Examples are encourage
 
 ## https
 
-* `SNICallback` required returning a `secureContext` synchronously as `function (hostname) {}`. The function signature is now `function (hostname, cb) {}`. You can feature detect with `'function' === typeof cb`. 
+* `SNICallback` required returning a `secureContext` synchronously as `function (hostname) {}`. The function signature is now `function (hostname, cb) { cb(null, secureContext); }`. You can feature detect with `'function' === typeof cb`. 
