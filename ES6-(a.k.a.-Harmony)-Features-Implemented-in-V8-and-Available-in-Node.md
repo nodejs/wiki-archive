@@ -65,7 +65,28 @@ DEFINE_implication(es_staging, harmony_maths)
 ## Iteration protocol.
 Demonstrated here over a generator: 
 
-![iteration_over_generator](https://cloud.githubusercontent.com/assets/96947/4081915/5869cf04-2eec-11e4-90ff-fa3e9971ef64.gif)
+```javascript
+function *foo() {
+    yield 1;
+    yield 2;
+    yield 3;
+    yield 4;
+    yield 5;
+    return 6;
+}
+
+for (var v of foo()) {
+    console.log( v );
+}
+// 1 2 3 4 5
+```
 
 ## Fat arrow functions (lambdas):
-![fatarrowftw](https://cloud.githubusercontent.com/assets/96947/3881865/7b9935c2-2191-11e4-9e62-26ac8c080bee.gif)
+
+
+```javascript
+[1,2,3,4,5,6,7,8].map(x=>x*x).filter(x=>x%2)
+
+// [ 1, 9, 25, 49 ]
+
+```
