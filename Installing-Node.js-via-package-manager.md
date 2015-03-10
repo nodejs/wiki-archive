@@ -15,8 +15,9 @@
 
 ## Debian and Ubuntu based Linux distributions
 
-**Temporary Until Full Update**
+**NOTE: Temporary Info Until Full Update**
 Below is not an up-to-date info. Check the [nodesource's blog post](https://nodesource.com/blog/nodejs-v012-iojs-and-the-nodesource-linux-repositories) to install node 0.12 on Debian and Ubuntu. 
+**NOTE END** 
 
 Also including: **Linux Mint**, **Linux Mint Debian Edition (LMDE)**, **elementaryOS** and others.
 
