@@ -9,7 +9,7 @@ V8 implements all of "ECMA 5th edition":http://www.ecma-international.org/public
 
 h2. Syntax extensions
 
-@var obj = { get a() { return "something" }, set a() { "do nothing" } }@ getter/setter syntax
+@var obj = { get a() { return "something" }, set a(value) { "do nothing" } }@ getter/setter syntax
 @for (i in a) { ... }@ for...in iteration
 
 h2. Array
