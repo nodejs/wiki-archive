@@ -15,6 +15,9 @@
 
 ## Debian and Ubuntu based Linux distributions
 
+**Temporary Until Full Update**
+Below is not an up-to-date info. Check the [nodesource's blog post](https://nodesource.com/blog/nodejs-v012-iojs-and-the-nodesource-linux-repositories) to install node 0.12 on Debian and Ubuntu. 
+
 Also including: **Linux Mint**, **Linux Mint Debian Edition (LMDE)**, **elementaryOS** and others.
 
 Node.js is available from the [NodeSource](https://nodesource.com) Debian and Ubuntu binary distributions repository (formerly [Chris Lea's](https://github.com/chrislea) Launchpad PPA). Support for this repository, along with its scripts, can be found on GitHub at [nodesource/distributions](https://github.com/nodesource/distributions).
