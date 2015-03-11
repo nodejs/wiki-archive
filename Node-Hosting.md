@@ -7,9 +7,10 @@ Managed providers provide a simplified "Node Appliance" solution. Node and NPM w
 Name | Node Version | Web Sockets | IP/Hostname | IRC | Repository | Free Plan | Paid Plans | Notes |
 :-----------|:------------|:-------------|:-------------|:-------------|:-------------|:-------------|:-------------|:-------------------------------------|
 [appfog](http://appfog.com/) | 0.4.12, 0.6.17, 0.8.14, 0.10.22 | No | Yes, custom domains in paid plan only | | [appfog](https://github.com/appfog) | Free Signups suspended | Yes – monthly subscriptions and enterprise support available | General Availability
-[Baidu App Engine](http://developer.baidu.com/cloud/rt) | 0.10.21 | Yes (with Port Service enabled) | Yes | | [MangoRaft](http://mangoraft.ca/) | 0.2.x - 0.12.x | Yes | Yes | | https://github.com/MangoRaft | Yes - Up to 5 projects | Yes | In Closed Alpha
+[Baidu App Engine](http://developer.baidu.com/cloud/rt) | 0.10.21 | Yes (with Port Service enabled) | Yes | | 
 [BaiduAppEngine](https://github.com/BaiduAppEngine) | No |  [CNY 0.1 / Day / Instance at least](http://developer.baidu.com/wiki/index.php?title=docs/cplat/bae/bill#.E8.AE.A1.E8.B4.B9.E6.A0.87.E5.87.86), Postpaid | MySQL, MongoDB, Redis, Memcache, SSH Login, NFS, CDN and many service supported 
 [Clever Cloud](http://www.clever-cloud.com/) | version you need | Yes | Yes, custom domains in paid plan only | [#clevercloud on irc.freenode.net](irc://irc.freenode.net:6667/clevercloud) | [Clever Cloud on github](https://github.com/clevercloud) | No, just a free trial | Yes – pay as you go model | General Availability, launch of [nodejs-cloud](http://nodejs-cloud.com)
+[MangoRaft](http://mangoraft.ca/) | 0.2.x - 0.12.x | Yes | Yes | | https://github.com/MangoRaft | Yes - Up to 5 projects | Yes | In Closed Alpha
 [Cloud Foundry](http://www.cloudfoundry.com) | 0.4.12, 0.6.8, 0.8.2 | No | No | | [cloudfoundry](https://github.com/cloudfoundry) | Yes - Only during beta. | | Beta, accepting signups
 [Cloudnode](http://cloudno.de) | 0.4.12, 0.6.17, 0.8.25 | Yes | Yes | | | Yes - Up to 3 VMs, 25 MB CouchDB space, 250,000 requests/month. | | Beta (accepting signups) - powered by Nodester 
 [DotCloud](http://www.dotcloud.com) | 0.4.10 | Yes | Paid plan | #dotcloud | [dotcloud](https://github.com/dotcloud) |  | Pro - $99/month, 4 services. Enterprise - Unlimited services. | 
