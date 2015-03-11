@@ -20,6 +20,7 @@ Name | Node Version | Web Sockets | IP/Hostname | IRC | Repository | Free Plan |
 [Nodejitsu](http://nodejitsu.com) | 0.4.12, 0.6.x, 0.8.x, 0.10.x | Yes | Yes | #nodejitsu | [nodejitsu](http://github.com/nodejitsu) | 30 days sandbox | Yes | now with Joyent
 [JSApp.US](http://jsapp.us) | | | No | | [node-host](https://github.com/matthewfl/node-host) | | | Open signup, web editing/npm command
 [Node Ninja(JP)](https://node-ninja.com) | 0.6.11 | Yes | Yes | | | Yes |  | In Private Beta
+[MangoRaft](http://mangoraft.ca/) | 0.2.x - 0.12.x | Yes | Yes | | https://github.com/MangoRaft | Yes - Up to 5 projects | Yes | In Closed Alpha
 [NAE(CN)](http://cnodejs.net) | 0.6.2 | Yes | Just allow *.cnodejs.net or custom domain | | | Yes - You can create 10 apps. And you can request a MongoDB for every app. | | Open (with invite)
 [OpenShift](https://openshift.redhat.com/) | 0.6.20 [or any other](https://openshift.redhat.com/community/blogs/any-version-of-nodejs-you-want-in-the-cloud-openshift-does-it-paas-style)| Yes (preview) | Yes | #openshift | [openshift](https://github.com/openshift) | Yes | | Open
 [Pogoapp](http://pogoapp.com) | 0.6.x, 0.8.x, 0.10.x | Yes | Yes | #pogoapp | [pogoapp](http://github.com/pogoapp) | Yes - Trial | Paid Beta | Private Beta
@@ -78,7 +79,6 @@ Node.JS hosting platforms that allow you to host Node.JS apps on your own server
 * [Nodester](http://nodester.com/) - Open source Node.JS hosting platform and services
 * [CloudFoundry](https://github.com/cloudfoundry) - Open source PaaS with support for NodeJS
 * [OpenShift](https://openshift.redhat.com/community/open-source) - Open source polyglot PaaS with native support for Node.js
-* [Raft](https://github.com/MangoRaft/Raft) - Open source PaaS built on Node.js Looing for please to help out with the project.
 * [Nodejitsu](http://github.com/nodejitsu)
   * [haibu](http://github.com/nodejitsu/haibu) - Open-source Node.js Application Server
   * [node-http-proxy](http://github.com/nodejitsu/node-http-proxy) - Proxy / Load Balancing
