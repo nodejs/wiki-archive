@@ -45,7 +45,7 @@ See [[Installing io.js via package manager]] for more information.
 
 ### Building Prerequisites
 
-* **GCC** 4.7 or newer
+* **GCC** 4.8 or newer, or **clang** 3.4 or newer
 
 * **GNU make** 3.81 or newer. Pre-installed on most systems. Sometimes called `gmake` (required on FreeBSD).
 
