@@ -24,6 +24,7 @@ For real-time discussion, check irc.freenode.net #node.js or Stack Overflow [cha
 * [Node Tuts Screen-casts](http://nodetuts.com) | Node.js Screen casts
 * [Nodejitsu Node Docs](http://docs.nodejitsu.com) | Several node.js hands-on tutorials
 * [Underground WebDev](http://www.udgwebdev.com) | Blog with many posts about Node.js
+* [Live online tutorials from nodejsguru](http://nodejsguru.com) | Get yourself up and running with the nodeJSguru Live classes
 
 # Localized sites
 
