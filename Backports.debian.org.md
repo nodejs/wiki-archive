@@ -18,6 +18,7 @@ Run the following (as root):
 ### Using it in a Dockerfile
 
 You could use it in your Dockerfile like this:
+
     FROM debian:wheezy
     MAINTAINER Your Self "yourself@example.com"
     # method from https://github.com/joyent/node/wiki/backports.debian.org
@@ -27,4 +28,4 @@ You could use it in your Dockerfile like this:
         && curl -L --insecure -O https://www.npmjs.org/install.sh \
         && /bin/bash install.sh \
 
-[An example of such Dockerfile using this(https://registry.hub.docker.com/u/tezcatl/nodemon/dockerfile/)
+[An example of such Dockerfile using this](https://registry.hub.docker.com/u/tezcatl/nodemon/dockerfile/)
