@@ -7,6 +7,7 @@
 * [Gentoo](#gentoo)
 * [openSUSE and SLE](#opensuse-and-sle)
 * [Arch Linux](#arch-linux)
+* [Void Linux](#void-linux)
 * [FreeBSD and OpenBSD](#freebsd-and-openbsd)
 * [OSX](#osx)
 * [Windows](#windows)
@@ -220,6 +221,14 @@ Node.js is available in the Community Repository.
 
 ```text
 pacman -S nodejs
+```
+
+## Void Linux
+
+Void Linux ships node.js stable in the main repository.
+
+```text
+xbps-install -Sy node.js
 ```
 
 ## FreeBSD and OpenBSD
