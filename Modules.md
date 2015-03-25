@@ -913,6 +913,7 @@ rendering process.
 <a name="wiki-package-management"></a>
 ## [Package Management Systems](#package-management)
 
+* [npm-check-updates](https://github.com/tjunnone/npm-check-updates) — Find newer versions of Node.js dependencies than what your package.json allows
 * [Cupboard](https://github.com/crcn/cupboard) — Reverse package manager
 * [Ender](https://github.com/ender-js/ender) — A package manager built on NPM bringing micro to macro to create your own custom JavaScript library by composing modules into a cohesive and familiar interface .
 * [nmod](https://github.com/jeromeetienne/nmod) — nmod is a node_modules manager. able to install from npm and git
