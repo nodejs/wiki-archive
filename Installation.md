@@ -30,6 +30,7 @@
 
 ## Installing on Linux
 You can install a pre-built version of node.js via [the downloads page](http://nodejs.org/download/) available in a **.tar.gz**.
+Or you can use the automatic [Installer](https://github.com/taaem/nodejs-linux-installer/releases).
 
 ## Installing on Mac
 You can install a pre-built version of node.js via [the downloads page](http://nodejs.org/download/) using a **.pkg** or available in a **.tar.gz**.
