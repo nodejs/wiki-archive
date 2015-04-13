@@ -1,6 +1,6 @@
 # Introduction
 
-Node.js depends on the OpenSSL library to implement its crypto and TLS/SSL features.
+Node.js depends on the OpenSSL library to implement its crypto, TLS/SSL and HTTPS features.
 
 However, Node.js doesn't use OpenSSL's standard build process. Instead, a custom build process based on GYP that uses OpenSSL's source is maintained in parallel of OpenSSL's original build process. In addition to that, because the state of OpenSSL's support for Node.js supported platforms varies over time, it is sometimes necessary to maintain additional patches that fix some important issues.
 
