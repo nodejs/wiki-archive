@@ -10,6 +10,6 @@ For these two reasons, upgrading the OpenSSL version used by Node.js is not triv
 
 Following is the list of the current patches that are floated on top of OpenSSL's source:
 * [2b21c45f75043f8e5728650e24a4e972ade18cf1](https://github.com/joyent/node/commit/2b21c45f75043f8e5728650e24a4e972ade18cf1): deps: separate sha256/sha512-x86_64.pl for openssl. This change is needed because Node.js' GYP-based build system cannot use the same PERL script to generate different implementations by passing different command line parameters like the original OpenSSL build system does.
-* [7817fbd692120887619d07228882dd19461109b6](https://github.com/joyent/node/commit/7817fbd692120887619d07228882dd19461109b6):
-* c4b9be7c5a97b9cac99cd599dbd995da556a5a17
+* [7817fbd692120887619d07228882dd19461109b6](https://github.com/joyent/node/commit/7817fbd692120887619d07228882dd19461109b6): deps: fix openssl assembly error on ia32 win32. Node.js uses openssl's s_client program to run some of its tests. However, this program requires the user to press a key to continue, which makes Node.js' tests time out. This change makes it continue without needing any user interaction.
+* [c4b9be7c5a97b9cac99cd599dbd995da556a5a17](https://github.com/joyent/node/commit/c4b9be7c5a97b9cac99cd599dbd995da556a5a17)
 * 6b97c2e98627b5189e01b871f9130b5efc41988d
