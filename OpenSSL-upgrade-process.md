@@ -35,14 +35,14 @@ Another tests suite that is very important to run is the one that can be found a
 tls.connect, tls.createServer (and the `https` equivalent) `cipher`, `secureOptions` and `secureProtocol` options work as expected.
 
 To run it, simply change the current directory to `test/external/ssl-options` and install all the npm dependencies:
-`
+```
 $ cd test/external/ssl-options
 $ npm install
-`
+```
 Now, simply run the `test.js` program using the node binary that needs to be tested:
-`
+```
 $ ../../../node test.js -j 60
-`
+```
 The `-j X` option is used to run `X` tests in parallel. Due to the large number of tests that need to be run, this tests suite can take a long time to complete. On my 2.3GHz i7 MacBook Pro with 16GB of ram, it takes around 5 minutes to complete with `-j 60`.
 
 Other command line options are available: `[-j N] [--list-tests] [-s startIndex] [-e endIndex] [-o outputFile]`. It is also possible to set the `DEBUG` environment variable to `test-node-ssl` to display debug output.
