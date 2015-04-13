@@ -45,4 +45,5 @@ $ ../../../node test.js -j 60
 ```
 The `-j X` option is used to run `X` tests in parallel. Due to the large number of tests that need to be run, this tests suite can take a long time to complete. On my 2.3GHz i7 MacBook Pro with 16GB of ram, it takes around 5 minutes to complete with `-j 60`.
 
-Other command line options are available: `[-j N] [--list-tests] [-s startIndex] [-e endIndex] [-o outputFile]`. It is also possible to set the `DEBUG` environment variable to `test-node-ssl` to display debug output.
+Other command line options are available: `[-j N] [--list-tests] [-s startIndex] [-e endIndex] [-o outputFile]`. 
+It is also possible to set the `DEBUG` environment variable to `test-node-ssl` to display debug output.
