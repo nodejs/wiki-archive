@@ -26,3 +26,23 @@ Following are more detailed informations about some of the important files and d
 * `deps/openssl/buildinf.h` and `deps/openssl/config/`: `deps/openssl/config/opensslconf.h` was added so that binary add-on developers could rely on one single header configuration file instead of having to include different configuration files depending on the current platform.
 * `deps/openssl/openssl.gyp`: This file is [included by Node.js' master build file](https://github.com/joyent/node/blob/v0.12.2-release/node.gyp#L203) and more or less replicates the behavior of OpenSSL's original build system.
 
+## Testing an OpenSSL upgrade
+
+After completing the upgrade of the OpenSSL dependency in the source tree, the next step is generally to test it.
+The first step is to make sure that all tests on all supported platforms pass.
+
+Another tests suite that is very important to run is the one that can be found at `test/external/ssl-options`. It tests that the various combinations of openssl-related command line options (`--enable-ssl2`, `--enable-ssl3`) and
+tls.connect, tls.createServer (and the `https` equivalent) `cipher`, `secureOptions` and `secureProtocol` options work as expected.
+
+To run it, simply change the current directory to `test/external/ssl-options` and install all the npm dependencies:
+`
+$ cd test/external/ssl-options
+$ npm install
+`
+Now, simply run the `test.js` program using the node binary that needs to be tested:
+`
+$ ../../../node test.js -j 60
+`
+The `-j X` option is used to run `X` tests in parallel. Due to the large number of tests that need to be run, this tests suite can take a long time to complete. On my 2.3GHz i7 MacBook Pro with 16GB of ram, it takes around 5 minutes to complete with `-j 60`.
+
+Other command line options are available: `[-j N] [--list-tests] [-s startIndex] [-e endIndex] [-o outputFile]`. It is also possible to set the `DEBUG` environment variable to `test-node-ssl` to display debug output.
