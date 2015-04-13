@@ -6,6 +6,8 @@ However, Node.js doesn't use OpenSSL's standard build process. Instead, a custom
 
 For these two reasons, upgrading the OpenSSL version used by Node.js is not trivial. Some knowledge of how OpenSSL is built and embedded within the node binary and of the existing floating patches is necessary. This document describes both of these aspects so that upgrading the OpenSSL version used by a given version of Node.js does not have to be done by the few people with such knowledge.
 
+The information in this document is valid for Node.js versions v0.10.x and v0.12.x.
+
 ## Floating patches
 
 Following is the list of the current patches that are floated on top of OpenSSL's source:
@@ -13,3 +15,13 @@ Following is the list of the current patches that are floated on top of OpenSSL'
 * [7817fbd692120887619d07228882dd19461109b6](https://github.com/joyent/node/commit/7817fbd692120887619d07228882dd19461109b6). `deps: fix openssl assembly error on ia32 win32`. 
 * [c4b9be7c5a97b9cac99cd599dbd995da556a5a17](https://github.com/joyent/node/commit/c4b9be7c5a97b9cac99cd599dbd995da556a5a17). `openssl: replace symlinks by #include shims`. As stated by the commit message, Git for Windows cannot create symlinks, so symlink sources are replaced by headers that #include the symlinks' targets instead.
 * [6b97c2e98627b5189e01b871f9130b5efc41988d](https://github.com/joyent/node/commit/6b97c2e98627b5189e01b871f9130b5efc41988d). `openssl: fix keypress requirement in apps on win32`. Node.js uses openssl's s_client program to run some of its tests. However, this program requires the user to press a key to continue, which makes Node.js' tests time out. This change makes it continue without needing any user interaction.
+
+## How Node.js builds its OpenSSL dependency
+
+The OpenSSL dependency is present at `deps/openssl`. Here's the content of this directory:
+```
+➜  v0.12 git:(v0.10) ✗ ls deps/openssl 
+asm         buildinf.h  config      openssl     openssl.gyp
+➜  v0.12 git:(v0.10) ✗ 
+```
+Here, we can see that `deps/openssl` does not contain the vanilla OpenSSL source tree, but is instead a "wrapper" that uses a custom build system (`openssl.gyp` and `buildinf.h`), pre-built assembly files (in `asm`) and a centralized configuration header file (in `config`).
