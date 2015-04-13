@@ -29,7 +29,7 @@ Following are more detailed informations about some of the important files and d
 ## Testing an OpenSSL upgrade
 
 After completing the upgrade of the OpenSSL dependency in the source tree, the next step is generally to test it.
-The first step is to make sure that all tests on all supported platforms pass.
+One way to do that is to make sure that all tests on all supported platforms pass.
 
 Another tests suite that is very important to run is the one that can be found at `test/external/ssl-options`. It tests that the various combinations of openssl-related command line options (`--enable-ssl2`, `--enable-ssl3`) and
 tls.connect, tls.createServer (and the `https` equivalent) `cipher`, `secureOptions` and `secureProtocol` options work as expected.
