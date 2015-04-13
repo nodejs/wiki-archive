@@ -9,7 +9,7 @@ For these two reasons, upgrading the OpenSSL version used by Node.js is not triv
 ## Floating patches
 
 Following is the list of the current patches that are floated on top of OpenSSL's source:
-* 2b21c45f75043f8e5728650e24a4e972ade18cf1
-* 7817fbd692120887619d07228882dd19461109b6
+* [2b21c45f75043f8e5728650e24a4e972ade18cf1](https://github.com/joyent/node/commit/2b21c45f75043f8e5728650e24a4e972ade18cf1): deps: separate sha256/sha512-x86_64.pl for openssl. This change is needed because Node.js' GYP-based build system cannot use the same PERL script to generate different implementations by passing different command line parameters like the original OpenSSL build system does.
+* [7817fbd692120887619d07228882dd19461109b6](https://github.com/joyent/node/commit/7817fbd692120887619d07228882dd19461109b6):
 * c4b9be7c5a97b9cac99cd599dbd995da556a5a17
 * 6b97c2e98627b5189e01b871f9130b5efc41988d
