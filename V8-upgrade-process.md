@@ -23,4 +23,6 @@ The first step is to run the standard Node.js tests suite. The best way to do th
 
 ### Testing post-mortem debugging on SmartOS
 
+Post-mortem debugging on SmartOS relies on information generated both by the build process and by V8 at runtime. When V8 changes, sometimes the metadata generated at build time needs to change to match V8's runtime data structures.
+
 In order to test post-mortem debugging on SmartOS, simply build a node binary with the default build options and run the following tests: `test/pummel/test-postmortem-details.js`, `test/pummel/test-postmortem-findjsobjects.js`, `test/pummel/test-postmortem-jsstack.js`. All these tests must exit with a 0 exit code.
