@@ -17,6 +17,10 @@ This document aims at describing what needs to be done when upgrading the versio
 
 ## Testing
 
+### Node.js tests suite
+
+The first step is to run the standard Node.js tests suite. The best way to do that is to push the branch that contains the V8 upgrade to joyent/node __in a feature branch (something like v8-upgrade)__ and to run the the [node-review-unix Jenkins job](jenkins.nodejs.org/job/node-review-unix) on that branch.
+
 ### Testing post-mortem debugging on SmartOS
 
 In order to test post-mortem debugging on SmartOS, simply build a node binary with the default build options and run the following tests: `test/pummel/test-postmortem-details.js`, `test/pummel/test-postmortem-findjsobjects.js`, `test/pummel/test-postmortem-jsstack.js`. All these tests must exit with a 0 exit code.
