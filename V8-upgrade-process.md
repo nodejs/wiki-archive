@@ -14,3 +14,9 @@ This document aims at describing what needs to be done when upgrading the versio
 ### Patches that need to be upstreamed
 
 * https://github.com/joyent/node/issues/9147.
+
+## Testing
+
+### Testing post-mortem debugging on SmartOS
+
+In order to test post-mortem debugging on SmartOS, simply build a node binary with the default build options and run the following tests: `test/pummel/test-postmortem-details.js`, `test/pummel/test-postmortem-findjsobjects.js`, `test/pummel/test-postmortem-jsstack.js`. All these tests must exit with a 0 exit code.
