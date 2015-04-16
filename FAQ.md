@@ -28,7 +28,7 @@ Odd versions are unstable, even versions are stable. v0.2 and v0.4 are even/stab
 
 Currently, by default v8 has a memory limit of 512mb on 32-bit systems, and 1gb on 64-bit systems. The limit can be raised by setting `--max_old_space_size` to a maximum of ~1024 (~1 GiB) (32-bit) and ~1741 (~1.7GiB) (64-bit), but it is recommended that you split your single process into several workers if you are hitting memory limits.
 
-### What are Leap Seconds? What impact do they have on node.js applications?
+### What are Leap Seconds? What impact do they have on applications?
 
 Leap seconds are seconds added or removed from UTC (Coordinated Universal Time) to keep
 it in sync with the Earth's rotation. If leap seconds were not added
@@ -42,12 +42,14 @@ predicted, or predictable.  One has been scheduled for June 30th, 2015. What thi
 There have been [problems](https://en.wikipedia.org/wiki/Leap_second#Examples_of_problems_associated_with_the_leap_second)
 caused by software not managing this second properly. Note also that depending on the specific implementation and
 time sychronization mechanisms used, a particular system may not actually "see" the leap second, but it will occur as
-a regular one second time correction at a later time.
+a regular one second time correction at a later time.  All of the timing functions used by Node are monotonic on their various platforms.
 
-As to how this affects node.js applications, as [specified by ECMA-262](http://www.ecma-international.org/ecma-262/5.1/#sec-15.9.1.1), JavaScript
-and thus node.js, explicitly *ignore* leap seconds when calculating the difference, in seconds, between
+As to how this affects applications, as [specified by ECMA-262](http://www.ecma-international.org/ecma-262/5.1/#sec-15.9.1.1), JavaScript
+and thus Node, explicitly *ignores* leap seconds when calculating the difference, in seconds, between
 two dates. In any event, it wouldn't be possible to take those into account without
 a historical table, and taking deltas more than 6 months in the future is impossible as the schedule is not known.
+
+Applications should be aware that time-of-day, such as returned by `Date()`, is not monotonic and should not be used for timing-sensitive intervals. This is true not just because of leap seconds, but also because of daylight savings time (summer time), and corrections due to clock drift.
 
 For example, the following example code ( counting the number of seconds since Midnight, Jan 1st, 1970 GMT) does not
 include leap seconds.
