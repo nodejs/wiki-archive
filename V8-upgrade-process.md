@@ -22,7 +22,13 @@ where `../../v8-git-mirror/` is the path to V8's GitHub mirror relative to your 
 
 At this point, the original commit from V8 should be committed in your local tree. It's time to change the commit message with `git commit --amend` to alter the first line and add in the body that this commit is a back-port from V8.
 
-A good example of such a commit message is https://github.com/joyent/node/commit/2fc5eeb3da0cbc5c17674818bc679d3d564d0d06.
+A good example of such a commit message is https://github.com/joyent/node/commit/2fc5eeb3da0cbc5c17674818bc679d3d564d0d06. Note that in this commit message, the following lines:
+```
+PR-URL: #9200
+Reviewed-by: Trevor Norris <trev.norris@gmail.com>
+Reviewed-by: Julien Gilli <julien.gilli@joyent.com>
+```
+were added by the Jenkins job that merges changes, you don't need to add that yourself.
 
 ### Existing floating patches
 * https://github.com/joyent/node/commit/6ebd85e10535dfaa9181842fe73834e51d4d3e6c. See https://github.com/joyent/node/pull/9439 for more information about why it actually does not fix the original problem. Still, we might want to keep it for now for consistency
