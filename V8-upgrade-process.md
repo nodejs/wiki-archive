@@ -4,6 +4,27 @@ This document aims at describing what needs to be done when upgrading the versio
 
 ## Floating patches
 
+### How to land a patch from upstream V8?
+
+Sometimes, it is necessary to cherry-pick changes made to newer V8 versions upstream and land them in the current V8 version used in `deps/v8`. In order to do that, you'll need to do two things:
+
+1. Cherry-pick the commit from V8's GitHub mirror into node's repository.
+2. Change the commit message to mention that it's a back-port from V8 upstream, and add the appropriate metadata.
+
+#### Cherry-picking commits from V8's GitHub mirror
+
+Clone V8's GitHub mirror: `git clone git@github.com:v8/v8-git-mirror.git`.
+Identify the commit to backport, and within your node local repository, use the following command:
+```
+git --git-dir=../../v8-git-mirror/.git format-patch -k -1 --stdout sha1 | git am -k --directory=deps/v8
+```
+where `../../v8-git-mirror/` is the path to V8's GitHub mirror relative to your local node repository, and `sha1` is the sha of the commit you want to cherry-pick.
+
+At this point, the original commit from V8 should be committed in your local tree. It's time to change the commit message with `git commit --amend` to alter the first line and add in the body that this commit is a back-port from V8.
+
+A good example of such a commit message is https://github.com/joyent/node/commit/2fc5eeb3da0cbc5c17674818bc679d3d564d0d06.
+
+### Existing floating patches
 * https://github.com/joyent/node/commit/6ebd85e10535dfaa9181842fe73834e51d4d3e6c. See https://github.com/joyent/node/pull/9439 for more information about why it actually does not fix the original problem. Still, we might want to keep it for now for consistency
 * https://github.com/joyent/node/commit/3589a62104eac1daae782ab479bec09f4df4dc9a.
 * https://github.com/v8/v8-git-mirror/commit/2ad2237507c5b5f9047b8d94d2f4997327eae852: fixes issues with using `--debug-brk` with `--use-strict`.
