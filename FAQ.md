@@ -51,7 +51,7 @@ a historical table, and taking deltas more than 6 months in the future is imposs
 
 For example, the following example code ( counting the number of seconds since Midnight, Jan 1st, 1970 GMT) does not
 include leap seconds.
-```
+``` js
 var d0 = new Date(0);
 var d1 = new Date(); // right now.
 console.log('Unix time started',new Number((d1-d0)/1000).toLocaleString(),'seconds ago');
