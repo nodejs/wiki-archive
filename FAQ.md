@@ -28,9 +28,6 @@ Odd versions are unstable, even versions are stable. v0.2 and v0.4 are even/stab
 
 Currently, by default v8 has a memory limit of 512mb on 32-bit systems, and 1gb on 64-bit systems. The limit can be raised by setting `--max_old_space_size` to a maximum of ~1024 (~1 GiB) (32-bit) and ~1741 (~1.7GiB) (64-bit), but it is recommended that you split your single process into several workers if you are hitting memory limits.
 
-FAQ on Leap Seconds
-===
-
 ### What are Leap Seconds? What impact do they have on node.js applications?
 
 Leap seconds are seconds added or removed from UTC (Coordinated Universal Time) to keep
