@@ -199,6 +199,18 @@ C:\_GIT\node\Build\Debug\node.exe
 
 The executable will be in `Build\Debug\node.exe`.
 
+For running tests, more dependencies are needed. The following executables must be in the path: `cat`, `curl`, `grep`, `head`, `openssl`, `sed` and `sleep`. These can be acquired by:
+  * Downloading the binaries from http://gnuwin32.sourceforge.net/packages.html and curl from http://curl.haxx.se/download.html#Win32 (make sure they are in the PATH) ;
+  * Installing [Gow](https://github.com/bmatzelle/gow) and expect `test-http-curl-chunk-problem` to fail because of missing `openssl` ;
+  * Installing [Cygwin](https://www.cygwin.com/) and run the tests from there ;
+  * Installing [MSYS2](http://sourceforge.net/projects/msys2/) and run the tests from there with `cmd /c "vcbuild nosign test"`.
+
+In Cygwin and MSYS2, expect `test-child-process-stdin` to fail because of line endings. Run the tests with:
+
+```
+vcbuild nosign test
+```
+
 ## Building on Cygwin
 Cygwin is no longer supported, despite being [POSIX](http://en.wikipedia.org/wiki/Posix) compliant. The latest version that compiles is 0.4.12.
 
