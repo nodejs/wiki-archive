@@ -40,7 +40,7 @@ were added by the Jenkins job that merges changes, you don't need to add that yo
 
 ### Patches that need to be upstreamed
 
-* https://github.com/joyent/node/issues/9147.
+* https://github.com/joyent/node/issues/9147: `ix to dictionary properties access`.
 
 ## Testing
 
