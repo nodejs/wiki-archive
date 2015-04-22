@@ -2,23 +2,44 @@
 
 This document aims at describing what needs to be done when upgrading the version of V8 that is included in Node.js' source tree.
 
+## Introduction to V8's development process
+
+### Git repositories
+
+V8 has two (at least, maybe more) Git repositories:
+
+1. The reference repository at https://chromium.googlesource.com/v8/v8.git.
+2. A mirror on GitHub at https://github.com/v8/v8-git-mirror/.
+
+While using the GitHub mirror may seem more convenient, it lacks some important data such as `remotes/branch-heads/*` branches that help to determine what is the current stable version for a given release cycle.
+
+### Release cycle
+
+V8 releases happen predictably every six weeks and branch names works somewhat similar to Linux kernel versions:
+3.29 -> 3.30 -> 4.1 -> 4.2 -> 4.3 -> ... Every one of those branches, a while after having been created, becomes the stable branch.
+3.x -> 4.x -> 5.x happens irregularly every couple of years when they feel like it, and is just naming.
+
+The current stable, beta and canary versions for each support platform can be found here: https://omahaproxy.appspot.com.
+
+API changes are documented here: https://docs.google.com/document/d/1g8JFi8T_oAE_7uAri7Njtig7fKaPDfotU6huOa1alds/edit.
+
 ## Floating patches
 
 ### How to land a patch from upstream V8?
 
 Sometimes, it is necessary to cherry-pick changes made to newer V8 versions upstream and land them in the current V8 version used in `deps/v8`. In order to do that, you'll need to do two things:
 
-1. Cherry-pick the commit from V8's GitHub mirror into node's repository.
+1. Cherry-pick the commit from V8's repository into node's repository.
 2. Change the commit message to mention that it's a back-port from V8 upstream, and add the appropriate metadata.
 
 #### Cherry-picking commits from V8's GitHub mirror
 
-Clone V8's GitHub mirror: `git clone git@github.com:v8/v8-git-mirror.git`.
-Identify the commit to backport, and within your node local repository, use the following command:
+First, clone V8's GitHub mirror: [follow the instructions online](https://chromium.googlesource.com/v8/v8.git).
+Then, identify the commit to backport, and within your node local repository, use the following command:
 ```
-git --git-dir=../../v8-git-mirror/.git format-patch -k -1 --stdout sha1 | git am -k --directory=deps/v8
+git --git-dir=v8/.git format-patch -k -1 --stdout sha1 | git am -k --directory=deps/v8
 ```
-where `../../v8-git-mirror/` is the path to V8's GitHub mirror relative to your local node repository, and `sha1` is the sha of the commit you want to cherry-pick.
+where `v8` is the path to V8's Git repository (preferably a local clone of https://chromium.googlesource.com/v8/v8.git) relative to your local node repository, and `sha1` is the sha of the commit you want to cherry-pick.
 
 At this point, the original commit from V8 should be committed in your local tree. It's time to change the commit message with `git commit --amend` to alter the first line and add in the body that this commit is a back-port from V8.
 
