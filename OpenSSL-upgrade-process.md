@@ -41,7 +41,8 @@ The former solution requires more work if changes between two releases are small
 ## Testing an OpenSSL upgrade
 
 After completing the upgrade of the OpenSSL dependency in the source tree, the next step is generally to test it.
-One way to do that is to make sure that all tests on all supported platforms pass.
+
+First, run the standard tests suite on all platforms by using Jenkins. In order to do that, push a topic branch (named e.g 'openssl-upgrade-1-0-1z` if this upgrade upgrades OpenSSL to version 1.0.1z) containing the result of the upgrade to joyent/node. Then, if the upgrade is in the v0.12 branch, run the node-accept-commit Jenkins job (make sure to _not_ check the "Apply changes" checkbox). Run the `node-review` Jenkins job if the upgrade needs to be merged in the v0.10 branch.
 
 Another tests suite that is very important to run is the one that can be found at `test/external/ssl-options`. It tests that the various combinations of openssl-related command line options (`--enable-ssl2`, `--enable-ssl3`) and
 tls.connect, tls.createServer (and the `https` equivalent) `cipher`, `secureOptions` and `secureProtocol` options work as expected.
