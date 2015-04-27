@@ -26,6 +26,16 @@ Following are more detailed informations about some of the important files and d
 * `deps/openssl/buildinf.h` and `deps/openssl/config/`: `deps/openssl/config/opensslconf.h` was added so that binary add-on developers could rely on one single header configuration file instead of having to include different configuration files depending on the current platform.
 * `deps/openssl/openssl.gyp`: This file is [included by Node.js' master build file](https://github.com/joyent/node/blob/v0.12.2-release/node.gyp#L203) and more or less replicates the behavior of OpenSSL's original build system.
 
+## Performing the upgrade
+
+Performing an openssl upgrade is a simple process once the existing floating patches are identified:
+
+1. Get the source code of the new OpenSSL release to which Node.js needs to be updated. It can be downloaded on [the OpenSSL downloads page](http://openssl.org/source/). Please note that the OpenSSL projects doesn't use a very common versioning scheme, and it can be confusing. For instance, the 1.0.1* and 1.0.2* versions are very different, and although the differences between the two might seem minor, an upgrade from the former to the latter would be a very significant upgrade. Node v0.10.x and v0.12.x both use OpenSSL 1.0.1*, so make sure to pick the latest 1.0.1 version when upgrading OpenSSL in these branches.
+2. At this point, it is possible to either:
+  1. Completely replace the content of `deps/openssl/openssl` with the content from the OpenSSL source tarball.
+  2. Compute the diff between the current OpenSSL version used by Node and the one to which we want to upgrade and apply the resulting patch.
+
+
 ## Testing an OpenSSL upgrade
 
 After completing the upgrade of the OpenSSL dependency in the source tree, the next step is generally to test it.
