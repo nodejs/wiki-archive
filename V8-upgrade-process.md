@@ -62,6 +62,15 @@ were added by the Jenkins job that merges changes, you don't need to add that yo
 
 * https://github.com/joyent/node/issues/9147: `fix to dictionary properties access`.
 
+## Performing the upgrade process
+
+Performing a V8 upgrade is a simple process once the existing floating patches are identified:
+
+1. Checkout the correct tag in your local V8 git repository. For instance: `git checkout 3.28.71.19`.
+2. Replace the content of the previous V8 release with the content from the new release: `rm -rf node/deps/v8 && git checkout-index -a -f --prefix=/path/to/node/deps/v8/`. The trailing slash for the `--prefix` option in the second command is important.
+3. Apply the floating patches mentioned in the [floating patches section](#floating-patches).
+4. Run the tests as described in the [testing](#testing) section.
+
 ## Testing
 
 ### Node.js tests suite
