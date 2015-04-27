@@ -57,6 +57,8 @@ were added by the Jenkins job that merges changes, you don't need to add that yo
 * https://github.com/joyent/node/commit/ac21a5390c6e02f0bc9052c7794dcabc33a0a0c3. However the commit message needs to be changed to something like: `mdb_v8: fix dictionary properties access`.
 * https://github.com/joyent/node/commit/2320210639516025a5ad0744e8ff45b687212422: allows to not lose IRHydra support.
 * https://github.com/joyent/node/commit/1314cfe4760744de2bebe3e54abdf957c57caeae: `deps: fix postmortem-metadata generator in v8`.
+* https://github.com/joyent/node/commit/431eb172f97434a3b0868a610bc14d8ff7d9efd9 (`deps: log V8 version in profiler log file`) and https://github.com/joyent/node/commit/2b095bb76c62d2e27f0fb9ca716f17198e925f62 (`deps: add test for V8 version in profiler's log`).
+
 
 ### Patches that need to be upstreamed
 
