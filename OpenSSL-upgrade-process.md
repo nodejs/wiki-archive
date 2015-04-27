@@ -30,7 +30,7 @@ Following are more detailed informations about some of the important files and d
 
 Performing an openssl upgrade is a simple process once the existing floating patches are identified:
 
-1. Get the source code of the new OpenSSL release to which Node.js needs to be updated. It can be downloaded on [the OpenSSL downloads page](http://openssl.org/source/). Please note that the OpenSSL projects doesn't use a very common versioning scheme, and it can be confusing. For instance, the 1.0.1* and 1.0.2* versions are very different, and although the differences between the two might seem minor, an upgrade from the former to the latter would be a very significant upgrade. Node v0.10.x and v0.12.x both use OpenSSL 1.0.1*, so make sure to pick the latest 1.0.1 version when upgrading OpenSSL in these branches.
+1. Get the source code of the new OpenSSL release to which Node.js needs to be updated. It can be downloaded on [the OpenSSL downloads page](http://openssl.org/source/). Please note that the OpenSSL projects doesn't use a very common versioning scheme, and it can be confusing. For instance, the 1.0.1* and 1.0.2* versions are very different, and although the differences between the two version numbers might seem minor, an upgrade from the former to the latter would be a very significant upgrade. Node v0.10.x and v0.12.x both use OpenSSL 1.0.1*, so make sure to pick the latest 1.0.1 version when upgrading OpenSSL in these branches.
 2. At this point, it is possible to either:
   1. Completely replace the content of `deps/openssl/openssl` with the content from the OpenSSL source tarball.
   2. Compute the diff between the current OpenSSL version used by Node and the one to which we want to upgrade and apply the resulting patch.
