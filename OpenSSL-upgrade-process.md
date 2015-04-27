@@ -36,7 +36,8 @@ Performing an openssl upgrade is a simple process once the existing floating pat
   2. Compute the diff between the current OpenSSL version used by Node and the one to which we want to upgrade and apply the resulting patch.
 The former solution requires more work if changes between two releases are small, but it doesn't have the issue of the latter with changes that overlap with existing floating patches. If in doubt, choose the former approach.
 3. Apply the floating patches listed in the ["Floating patches" section](#floating-patches) by using `git cherry-pick`.
-4. Test the upgrade by following the instructions in [the "Testing an OpenSSL upgrade" section](#testing-an-openssl-upgrade).
+4. Run `make` in `deps/openssl/asm`.
+5. Test the upgrade by following the instructions in [the "Testing an OpenSSL upgrade" section](#testing-an-openssl-upgrade).
 
 ## Testing an OpenSSL upgrade
 
