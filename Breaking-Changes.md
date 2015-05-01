@@ -13,3 +13,9 @@ Parsed URL objects returned by the `url` module no longer have own data properti
 Additionally, assignments to various properties will now ensure that the others still stay consistent. For example, setting `parsedUrl.hostname` will update `parsedUrl.href`.
 
 To get back an object with the appropriate own data properties, use `parsedUrl.toJSON()`.
+
+### Consistent Cross-platform `os.tmpdir()` Behavior
+
+`os.tmpdir()` has been changed to never return a trailing slash regardless of the host platform.
+
+Refs: [#747](https://github.com/iojs/io.js/pull/747) / [bb97b70](https://github.com/iojs/io.js/commit/bb97b70eb709b0e0470a5164b3722c292859618a)
