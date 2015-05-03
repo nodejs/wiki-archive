@@ -8,7 +8,7 @@ If you are a newcomer, it can be handy to at least get a starting point.  Howeve
 
 So, this list is long enough to be intimidating, but still only captures a tiny sliver of the Node.js modules you can use with your program.  What's worse, it's almost never updated, and cannot hope to highlight the changes that are happening in this busy ecosystem.
 
-Search for modules with [npmjs.org](https://npmjs.org/), [node-modules](http://node-modules.com), [node-toolbox](http://nodetoolbox.com/) and [nipster](http://eirikb.github.com/nipster/).
+Search for modules with [npmjs.org](https://npmjs.org/), [node-modules](http://node-modules.com), and [nipster](http://eirikb.github.com/nipster/).
 
 The archaic contents of this once-useful page now follow.  Historians of the future, please enjoy.
 
