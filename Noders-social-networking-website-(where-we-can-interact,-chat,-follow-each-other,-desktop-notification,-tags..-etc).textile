@@ -1,3 +1,3 @@
-Hello Noders! </br>
+Hello Noders! 
 This website [NodeJsWorld](www.nodejsworld.com) can be very useful for all of us, you have a powerful Q&A with voting and reputation system, social networking (where we can interact, chat, follow each other, desktop notification.. etc), and categorizations that could facilitate easy navigation within the site.
 So please join and contribute, this website needs some contents from you. You can access this website via: nodejsworld.com or nodecommunity.com or nodejslearning.com .
