@@ -217,10 +217,10 @@ sudo zypper in nodejs nodejs-devel
 
 ## Arch Linux
 
-Node.js is available in the Community Repository.
+Node.js and npm packages are available in the Community Repository.
 
 ```text
-pacman -S nodejs
+pacman -S nodejs npm
 ```
 
 ## Void Linux
