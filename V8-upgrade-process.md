@@ -67,6 +67,7 @@ were added by the Jenkins job that merges changes, you don't need to add that yo
 * https://github.com/joyent/node/commit/1314cfe4760744de2bebe3e54abdf957c57caeae: `deps: fix postmortem-metadata generator in v8`.
 * https://github.com/joyent/node/commit/431eb172f97434a3b0868a610bc14d8ff7d9efd9 (`deps: log V8 version in profiler log file`) and https://github.com/joyent/node/commit/2b095bb76c62d2e27f0fb9ca716f17198e925f62 (`deps: add test for V8 version in profiler's log`).
 * https://github.com/joyent/node/commit/2a5f4bd7ce40b9537c5d77558687858c7246d896: `v8: fix issue with let bindings in for loops`.
+* https://github.com/joyent/node/commit/80cdae855fe349f0cf3b5c646060e4799107392f: `deps: don't busy loop in v8 cpu profiler thread`.
 
 ### Patches that need to be upstreamed
 
