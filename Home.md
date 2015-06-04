@@ -1,16 +1,16 @@
 # Node.js community wiki
 
-Node.js is a platform built on [Chrome's JavaScript runtime](http://code.google.com/p/v8/) for easily building fast, scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.
+Node.js is a platform built on [Chrome's JavaScript runtime](https://code.google.com/p/v8/) for easily building fast, scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.
 
 ## Official Links:
 
-* [Website](http://nodejs.org/)
-* [Download](http://nodejs.org/download/)
-* [Docs, Contributing and Tutorials](http://nodejs.org/documentation/)
-* [Community](http://nodejs.org/community/)
-* [About](http://nodejs.org/about/)
+* [Website](https://nodejs.org/)
+* [Download](https://nodejs.org/download/)
+* [Docs, Contributing and Tutorials](https://nodejs.org/documentation/)
+* [Community](https://nodejs.org/community/)
+* [About](https://nodejs.org/about/)
 * [Blog](http://blog.nodejs.org/)
-* [API](http://nodejs.org/api/all.html)
+* [API](https://nodejs.org/api/all.html)
 * [ChangeLog](https://github.com/joyent/node/blob/master/ChangeLog)
 
 ## Versions
