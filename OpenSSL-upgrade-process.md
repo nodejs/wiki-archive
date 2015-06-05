@@ -15,6 +15,11 @@ Following is the list of the current patches that are floated on top of OpenSSL'
 * [7817fbd692120887619d07228882dd19461109b6](https://github.com/joyent/node/commit/7817fbd692120887619d07228882dd19461109b6). `deps: fix openssl assembly error on ia32 win32`. 
 * [c4b9be7c5a97b9cac99cd599dbd995da556a5a17](https://github.com/joyent/node/commit/c4b9be7c5a97b9cac99cd599dbd995da556a5a17). `openssl: replace symlinks by #include shims`. As stated by the commit message, Git for Windows cannot create symlinks, so symlink sources are replaced by headers that #include the symlinks' targets instead.
 * [6b97c2e98627b5189e01b871f9130b5efc41988d](https://github.com/joyent/node/commit/6b97c2e98627b5189e01b871f9130b5efc41988d). `openssl: fix keypress requirement in apps on win32`. Node.js uses openssl's `s_client` program to run some of its tests. However, on Windows this program requires the user to press a key to continue, which makes Node.js' tests time out. This change makes it continue without needing any user interaction.
+* [fa4aa347ebbe325e934bcda6f93a15e2e6524f1b] (https://github.com/joyent/node/commit/fa4aa347ebbe325e934bcda6f93a15e2e6524f1b). `deps: add -no_rand_screen to openssl s_client`. In openssl s_client on Windows, RAND_screen() is invoked to initialize
+random state but it takes several seconds in each connection.
+This added -no_rand_screen to openssl s_client on Windows to skip
+RAND_screen() and gets a better performance in the unit test of
+test-tls-server-verify.
 
 ## How Node.js builds its OpenSSL dependency
 
