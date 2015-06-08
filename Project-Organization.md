@@ -1,1 +1,1 @@
-This page can now be found at http://nodejs.org/about/core-team
+This page can now be found at https://nodejs.org/about/organization/
