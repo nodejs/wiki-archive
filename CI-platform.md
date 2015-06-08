@@ -36,9 +36,9 @@ of the times the names of these clone jobs use suffixes to differentiate
 themselves from the original jobs.
 
 For instance, there's another meta-job named [nodejs-release-
-julien](http://jenkins.nodejs.org/job/nodejs-release- julien/) that is a clone
-of the [nodejs-release](http://jenkins.nodejs.org/job /nodejs-release/). The
-difference between the two jobs is that nodejs-release- julien pulls code from
+julien](http://jenkins.nodejs.org/job/nodejs-release-julien/) that is a clone
+of the [nodejs-release](http://jenkins.nodejs.org/job /nodejs-release/) job. The
+difference between the two jobs is that nodejs-release-julien pulls code from
 Julien's fork of joyent/node instead of from joyent/node directly, and that it
 uploads release artefacts to Julien's account on one of the build machines.
 
