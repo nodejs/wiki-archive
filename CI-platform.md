@@ -26,10 +26,7 @@ work before going through the normal contribution process to integrate that
 change.
 
 These jobs are usually meta-jobs that contain several sub-jobs. For instance,
-the nodejs-release job contains the following sub-jobs: [nodejs-
-btar](http://jenkins.nodejs.org/job/nodejs-btar/),  [nodejs-
-indep](http://jenkins.nodejs.org/job/nodejs-indep/) and [nodejs-
-msi](http://jenkins.nodejs.org/job/nodejs-msi/).
+the nodejs-release job contains the following sub-jobs: [nodejs-btar](http://jenkins.nodejs.org/job/nodejs-btar/),  [nodejs-indep](http://jenkins.nodejs.org/job/nodejs-indep/) and [nodejs-msi](http://jenkins.nodejs.org/job/nodejs-msi/).
 
 Sometimes, clones of these jobs exist and have slightly different names. Most
 of the times the names of these clone jobs use suffixes to differentiate
