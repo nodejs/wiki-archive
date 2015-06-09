@@ -17,16 +17,15 @@ Node.js is a platform built on [Chrome's JavaScript runtime](https://code.google
 
 ##### Stable:
 
-The current stable version is **0.12.0**
+The current stable version is **0.12.4**
 
 ##### Unstable:
 
-The current unstable version is **0.11.14**
+The current unstable version is **0.13.0-pre** (there hasn't been a v0.13.x release done from this repository yet).
 
 ##### The Future:
 
 * [[API changes between v0.10 and v0.12]]
-* [[Applications tested with v0.12]]
 * [[ECMA 5 Mozilla Features Implemented in V8]]
 * [[ES6 (a.k.a. Harmony) Features Implemented in V8 and Available in Node]]
 
