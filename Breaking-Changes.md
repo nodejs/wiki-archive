@@ -20,7 +20,7 @@ When doing HTTP pipelining of requests, the server creates new request and respo
 
 Refs: [#1411](https://github.com/nodejs/io.js/pull/1411) [`6020d2`](https://github.com/nodejs/io.js/commit/6020d2a2fb75de6766c807864fa8f1c0fba88ec9)
 
-### V8 Upgrade
+### V8 upgrade
 
 The upgrade from V8 4.2 to 4.3 will require a recompile of all native add-ons. The API surface area [has not changed significantly](https://docs.google.com/document/d/1g8JFi8T_oAE_7uAri7Njtig7fKaPDfotU6huOa1alds/edit), so most add-ons will "just work" after a recompile.
 
@@ -28,12 +28,12 @@ _However_, 4.3 introduces the new `Maybe<>` and `MaybeLocal<>` types, to fix sys
 
 ## 2.0.0 from 1.x
 
-### Consistent Cross-platform `os.tmpdir()` Behavior
+### Consistent cross-platform `os.tmpdir()` behavior
 
 `os.tmpdir()` has been changed to never return a trailing slash regardless of the host platform.
 
 Refs: [#747](https://github.com/iojs/io.js/pull/747) / [`bb97b70`](https://github.com/iojs/io.js/commit/bb97b70eb709b0e0470a5164b3722c292859618a)
 
-### V8 Upgrade
+### V8 upgrade
 
 The upgrade from V8 4.1 to 4.2 will require a recompile of all native add-ons. (The API surface area [has not changed significantly](https://docs.google.com/document/d/1g8JFi8T_oAE_7uAri7Njtig7fKaPDfotU6huOa1alds/edit), so most add-ons will "just work" after a recompile.)
