@@ -5,7 +5,9 @@
 In order to go through the whole release process, you will first need to do
 some required setup on your local machine.
 
-### Setup the joyent/node and joyent/node-website
+### Local machine
+
+#### Setup the joyent/node and joyent/node-website
 
 Currently, the release process is made for a setup where the `joyent/node` and `joyent/node-website` repositories sit side by side.
 So you'll need to have both projects checked out in locations similar to:
@@ -16,7 +18,7 @@ So you'll need to have both projects checked out in locations similar to:
 ```
 where `/foo/bar` is a common prefix.
 
-### Setup your signing identity with Git
+#### Setup your signing identity with Git
 
 Add the key ID to Git config to be able to sign tags by adding the following content to
 your `~/.gitconfig` file:
@@ -31,7 +33,7 @@ your `~/.gitconfig` file:
 where `SIGNING_KEY_ID` is the identifier of your signing key. Mine for
 instance is `0246406D`.
 
-### Add a `node` as the default user when accessing `nodejs.org` via SSH
+#### Add a `node` as the default user when accessing `nodejs.org` via SSH
 
 In `~/.ssh/config`, make sure that the following entry is present:
 
@@ -82,6 +84,9 @@ perl -pi -e 's/define NODE_VERSION_IS_RELEASE 0/define NODE_VERSION_IS_RELEASE 1
 git commit -am "$(bash tools/changelog-head.sh)"
 ```
 
+After running this command, review the commit message with `git show` and make sure that it's properly formatted
+and the content is correct.
+
 ### Push changes to your own fork of joyent/node so the CI platform can see the changes
 
 ```
@@ -91,7 +96,12 @@ and replace `GITHUB_USERNAME` by your GitHub username.
 
 ## Build release artefacts
 
-### Build the binary package manually from an OSX machine
+### Build the binary package manually from a local OSX machine
+
+The OSX binary package cannot be built automatically from the CI platform because
+at some point the binary and package signature processes will need to display a prompt
+to confirm the usage of the signature key and to ask for a passphrase, and there's an issue that
+makes the build process stalls when that happens on our OSX Jenkins agent.
 
 #### Download the certificates and keys needed to sign the pkg file
 
@@ -120,7 +130,9 @@ PACKAGEMAKER=/Applications/PackageMaker.app/Contents/MacOS/PackageMaker INT_SIGN
 Upload the OSX pkg first before kicking off the nodejs-release job from
 Jenkins so that it's accounted for when generating the checksums file.
 
-### Use the CI platform to trigger a build of all release artefacts but OSX ones
+### Use the CI platform to trigger a build of all release files (except the OSX installer package)
+
+#### Start the Jenkins nodejs-release job
 
 #### Confirm key signing for Windows builds
 
