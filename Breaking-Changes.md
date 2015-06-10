@@ -14,9 +14,11 @@ Through 2.x, the the dgram `socket.send()` method emitted errors when a DNS look
 
 Refs: [#1796](https://github.com/nodejs/io.js/pull/1796)
 
-### http server socket finish event stuff???
+### http server timing change
 
-Somehow this is marked as semver-major?? https://github.com/nodejs/io.js/commit/6020d2a2fb75de6766c807864fa8f1c0fba88ec9 https://github.com/nodejs/io.js/pull/1411 Someone help.
+When doing HTTP pipelining of requests, the server creates new request and response objects for each incoming HTTP request on the socket. Starting from 3.0.0, these objects are now created a couple of ticks later, when we are certainly done processing the previous request. This could change the observable timing with certain HTTP server coding patterns.
+
+Refs: [#1411](https://github.com/nodejs/io.js/pull/1411) [`6020d2`](https://github.com/nodejs/io.js/commit/6020d2a2fb75de6766c807864fa8f1c0fba88ec9)
 
 ### V8 Upgrade
 
