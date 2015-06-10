@@ -1051,7 +1051,8 @@ h2. UTC+7
 ** "Twitter":http://twitter.com/diorahman, "GitHub":http://github.com/dio/, "Website":http://dio.posterous.com
 * Denis Rechkunov (pragmadash), Novosibirsk, Russia
 ** "Twitter":http://twitter.com/pragmadash, "GitHub":http://github.com/pragmadash, "Facebook":http://facebook.com/DenisRechkunov, "Blog":http://pragmadash.me
-
+** "GitHub":http://github.com/tuannvm/, "Website":http://banhbeo.co/
+* Tuan Nguyen (tuan), Vietnam
 h2. UTC+8
 
 * Evert Chin (megablue), Kuala Lumpur, Malaysia
