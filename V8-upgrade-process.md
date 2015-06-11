@@ -69,6 +69,7 @@ were added by the Jenkins job that merges changes, you don't need to add that yo
 * https://github.com/joyent/node/commit/2a5f4bd7ce40b9537c5d77558687858c7246d896: `v8: fix issue with let bindings in for loops`.
 * https://github.com/joyent/node/commit/80cdae855fe349f0cf3b5c646060e4799107392f: `deps: don't busy loop in v8 cpu profiler thread`.
 * https://github.com/joyent/node/commit/6157697bd5bdbf58b19b9d3177249a7bbb467f79: `deps: revert v8 Array.prototype.values() removal`.
+* https://github.com/joyent/node/commit/b81a643f9ae341b0c23cecc54daccdc8d7bc746a: `V8: avoid deadlock when profiling is active`.
 
 ### Patches that need to be upstreamed
 
