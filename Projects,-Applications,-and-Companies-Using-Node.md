@@ -28,7 +28,7 @@ AppFog|<a href="http://www.appfog.com/" target="_blank"><img src='http://upload.
 Applied Data Consultants|<a href="http://applieddataconsultants.com" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;applieddataconsultants.com</a>|
 Augur|<a href="http://Augur.io" target="_blank"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png" width="12px" height="12px"/>&nbsp;Augur.io</a>|Plug & Play Personalization.
 AyeDeals|<a href="http://www.ayedeals.com" target="_blank">&nbsp;AyeDeals.com</a>|An e-commerce search
-engine dedicated to charitable giving. Helping you be charitable by simply shopping.
+engine. Helping people be charitable by simply shopping.
 ayr-terminal|<a href="http://ayrtonaraujo.net" target="_blank"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png" width="12px" height="12px"/>&nbsp;ayrtonaraujo.net</a>|An open source terminal look like portfolio for geeks. Code [here on GitHub](https://github.com/ayr-ton/ayr-terminal).
 BandPage|<a href="http://www.bandpage.com/" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;www.bandpage.com</a>| Used by musicians to share music, videos, photos, touring schedule and more with their fans. 
 bejes.us|<a href="http://bejes.us/" target="_blank"><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/600px-External.svg.png' width='12px' height='12px'/>&nbsp;bejes.us</a>|NodeJS hosting using the @Nodester platform - Maintained by one of the developers.
