@@ -26,8 +26,7 @@ Name | Node Version | Web Sockets | IP/Hostname | IRC | Repository | Free Plan |
 [OpenShift](https://openshift.redhat.com/) | 0.6.20 [or any other](https://openshift.redhat.com/community/blogs/any-version-of-nodejs-you-want-in-the-cloud-openshift-does-it-paas-style)| Yes (preview) | Yes | #openshift | [openshift](https://github.com/openshift) | Yes | | Open
 [Pogoapp](http://pogoapp.com) | 0.6.x, 0.8.x, 0.10.x | Yes | Yes | #pogoapp | [pogoapp](http://github.com/pogoapp) | Yes - Trial | Paid Beta | Private Beta
 [RoseHosting](http://www.rosehosting.com) | 0.6+ | Yes | Yes | | | | Yes - Fully Managed VPS Hosting Plans - 24×7 EPIC Support ||
-[Scalingo](https://scalingo.com) | [0.4.x, 0.6.x, 0.8.x, 0.10.x, 0.12.x](http://doc.scalingo.com/languages/javascript/nodejs/) | Yes | Yes |  | [scalingo](http://github.com/Scalingo) | Yes, 30-days free trial, allows you to run 1 app using a maximum of 5 Containers.
- | €0.02/hour/container  | General Availability, Free SSL, MongoDB/Redis/Elasticsearch/MySQL/PotsgreSQL integration ||
+[Scalingo](https://scalingo.com) | [0.4.x, 0.6.x, 0.8.x, 0.10.x, 0.12.x](http://doc.scalingo.com/languages/javascript/nodejs/) | Yes | Yes |  | [scalingo](http://github.com/Scalingo) | Yes, 30-days free trial, allows you to run 1 app using a maximum of 5 Containers | €0.02/hour/container  | General Availability, Free SSL, MongoDB/Redis/Elasticsearch/MySQL/PotsgreSQL integration ||
 
 Empty cells mean we weren't sure what to put there. 
 
