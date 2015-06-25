@@ -27,26 +27,26 @@ Node.js is available from the [NodeSource](https://nodesource.com) Debian and Ub
 Setup with Ubuntu:
 
 ```text
-curl -sL https://deb.nodesource.com/setup_0.12 | sudo bash -
+curl --silent --location https://deb.nodesource.com/setup_0.12 | sudo bash -
 ```
 
 Then install with Ubuntu:
 
 ```text
-sudo apt-get install -y nodejs
+sudo apt-get install --yes nodejs
 ```
 
 Setup with Debian (as root):
 
 ```text
 apt-get install curl
-curl -sL https://deb.nodesource.com/setup_0.12 | sudo bash -
+curl --silent --location https://deb.nodesource.com/setup_0.12 | sudo bash -
 ```
 
 Then install with Debian (as root):
 
 ```text
-apt-get install -y nodejs
+apt-get install --yes nodejs
 ```
 
 ***Optional***: install build tools
@@ -54,7 +54,7 @@ apt-get install -y nodejs
 To compile and install native addons from npm you may also need to install build tools:
 
 ```text
-apt-get install -y build-essential
+apt-get install --yes build-essential
 ```
 
 *(Note: The optional "nodejs-legacy" package from Debian helps prevent a conflict with the Amateur Packet Radio "Node" Program)*
@@ -105,13 +105,13 @@ Note that the Node.js packages for EL 5 (RHEL5 and CentOS 5) depend on the **[EP
 Run as root on RHEL, CentOS or Fedora:
 
 ```text
-curl -sL https://rpm.nodesource.com/setup | bash -
+curl --silent --location https://rpm.nodesource.com/setup | bash -
 ```
 
 Then install, as root:
 
 ```text
-yum install -y nodejs
+yum install --yes nodejs
 ```
 
 ***Optional***: install build tools
