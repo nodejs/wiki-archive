@@ -57,6 +57,7 @@ were added by the Jenkins job that merges changes, you don't need to add that yo
 
 * https://github.com/v8/v8-git-mirror/commit/2ad2237507c5b5f9047b8d94d2f4997327eae852: fixes issues with using `--debug-brk` with `--use-strict`.
 * https://github.com/joyent/node/commit/431eb172f97434a3b0868a610bc14d8ff7d9efd9 (`deps: log V8 version in profiler log file`) and https://github.com/joyent/node/commit/2b095bb76c62d2e27f0fb9ca716f17198e925f62 (`deps: add test for V8 version in profiler's log`).
+* https://github.com/joyent/node/commit/5a60e0d904c38c2bdb04785203b1b784967c870d: v8: back-port JitCodeEvent patch from upstream.
 
 #### v0.12.x
 
@@ -70,6 +71,7 @@ were added by the Jenkins job that merges changes, you don't need to add that yo
 * https://github.com/joyent/node/commit/80cdae855fe349f0cf3b5c646060e4799107392f: `deps: don't busy loop in v8 cpu profiler thread`.
 * https://github.com/joyent/node/commit/6157697bd5bdbf58b19b9d3177249a7bbb467f79: `deps: revert v8 Array.prototype.values() removal`.
 * https://github.com/joyent/node/commit/b81a643f9ae341b0c23cecc54daccdc8d7bc746a: `V8: avoid deadlock when profiling is active`.
+* https://github.com/joyent/node/commit/88a27a96216ac7aa728419a693ce164e59fb29c6: `v8: cherry-pick JitCodeEvent patch from upstream`.
 
 ### Patches that need to be upstreamed
 
