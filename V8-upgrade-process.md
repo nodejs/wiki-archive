@@ -57,7 +57,7 @@ were added by the Jenkins job that merges changes, you don't need to add that yo
 
 * https://github.com/v8/v8-git-mirror/commit/2ad2237507c5b5f9047b8d94d2f4997327eae852: fixes issues with using `--debug-brk` with `--use-strict`.
 * https://github.com/joyent/node/commit/431eb172f97434a3b0868a610bc14d8ff7d9efd9 (`deps: log V8 version in profiler log file`) and https://github.com/joyent/node/commit/2b095bb76c62d2e27f0fb9ca716f17198e925f62 (`deps: add test for V8 version in profiler's log`).
-* https://github.com/joyent/node/commit/5a60e0d904c38c2bdb04785203b1b784967c870d: v8: back-port JitCodeEvent patch from upstream.
+* https://github.com/joyent/node/commit/5a60e0d904c38c2bdb04785203b1b784967c870d: (`v8: back-port JitCodeEvent patch from upstream`).
 
 #### v0.12.x
 
