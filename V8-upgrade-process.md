@@ -55,14 +55,14 @@ were added by the Jenkins job that merges changes, you don't need to add that yo
 
 #### v0.10.x
 
-* https://github.com/v8/v8-git-mirror/commit/2ad2237507c5b5f9047b8d94d2f4997327eae852: fixes issues with using `--debug-brk` with `--use-strict`.
+* https://github.com/joyent/node/commit/0ff51c6e063e3eea9e4d9ea68edc82d935626fc7: `Fix Unhandled ReferenceError in debug-debugger.js`.
 * https://github.com/joyent/node/commit/431eb172f97434a3b0868a610bc14d8ff7d9efd9 (`deps: log V8 version in profiler log file`) and https://github.com/joyent/node/commit/2b095bb76c62d2e27f0fb9ca716f17198e925f62 (`deps: add test for V8 version in profiler's log`).
 * https://github.com/joyent/node/commit/5a60e0d904c38c2bdb04785203b1b784967c870d: (`v8: back-port JitCodeEvent patch from upstream`).
 
 #### v0.12.x
 
 * https://github.com/joyent/node/commit/3589a62104eac1daae782ab479bec09f4df4dc9a: `build: fix build for SmartOS`.
-* https://github.com/v8/v8-git-mirror/commit/2ad2237507c5b5f9047b8d94d2f4997327eae852: fixes issues with using `--debug-brk` with `--use-strict`.
+* https://github.com/joyent/node/commit/5b2bf92211278eba3ff1cc954cc42060b75b526f: `deps: backport use strict fix for V8 debugger`.
 * https://github.com/joyent/node/commit/ac21a5390c6e02f0bc9052c7794dcabc33a0a0c3. However the commit message needs to be changed to something like: `mdb_v8: fix dictionary properties access`.
 * https://github.com/joyent/node/commit/2320210639516025a5ad0744e8ff45b687212422: allows to not lose IRHydra support.
 * https://github.com/joyent/node/commit/1314cfe4760744de2bebe3e54abdf957c57caeae: `deps: fix postmortem-metadata generator in v8`.
