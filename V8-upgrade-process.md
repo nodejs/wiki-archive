@@ -72,6 +72,7 @@ were added by the Jenkins job that merges changes, you don't need to add that yo
 * https://github.com/joyent/node/commit/6157697bd5bdbf58b19b9d3177249a7bbb467f79: `deps: revert v8 Array.prototype.values() removal`.
 * https://github.com/joyent/node/commit/b81a643f9ae341b0c23cecc54daccdc8d7bc746a: `V8: avoid deadlock when profiling is active`.
 * https://github.com/joyent/node/commit/88a27a96216ac7aa728419a693ce164e59fb29c6: `v8: cherry-pick JitCodeEvent patch from upstream`.
+* https://github.com/joyent/node/commit/48b0ca26161b6a7a8b9804f6a4c96cb0f0509830 (`V8: do not use wide reads in CopyCharsUnsigned`) and https://github.com/joyent/node/commit/13ea50e927546165fa967f25c46d6e7cf825aade (`V8: remove V8_HOST_CAN_READ_UNALIGNED and its uses`).
 
 ### Patches that need to be upstreamed
 
