@@ -153,21 +153,47 @@ process.
 
 ## Smoke test release artefacts
 
+Login to nodejs.org as user `staging` and download newly created release files.
+Smoke test them by doing the following for releases on all supported platforms:
+
+1. Install node.
+2. Run `node -p 'process.versions' and make sure that all version numbers are correct (especially dependencies if they've been upgraded with this release).
+3. Install a module with binary add-ons as dependencies (like `ws` with `npm install ws`) to make sure that node-gyp, npm and node works correctly. Clean up ~/.node-gyp and run `npm cache clean` before doing so to force a fresh download/build.
+
 ## Push changes to joyent/node repository
+
+It is now time to push the release branch, tag and merge commit of the release branch to the parent branch upstream (joyent/node):
+
+`git push git@github.com:joyent/node.git v$(python tools/getnodeversion.py) v$(python tools/getnodeversion.py)-release v$(python tools/getnodeversion.py | sed -E 's#\.[0-9]+$##')`
 
 ## Publish changes to the website
 
-Email:
-After release-post-build.sh is run, email.md is in the current directory.
+### Publish API docs
 
-Then go in the node-website directory and do:
+API docs of the newly released version need to be published to the website. Go to the node repository (not node-website) and run:
+```
+make website-upload
+```
+
+### Write blog post
+
+At that point in time, there should be a file with the `.md` extension in your `node-website` local clone.
+Edit it and add any information you think would help users of Node.js understand better what this new release is about. Most of the time, the generated file is fine. In case of releases that fix security vulnerabilities, you will need to add some background around what these issues are and how they were fixed by Node.js.
+
+Once the blog post is ready, run make test-blog and check that the blog post displays correctly.
+
+### Publish blog post and website changes
+
+Now go in the `node-website` directory and do:
 
 ```
 make release
 ```
 
-### Test changes made to the website
-
-### Publish them online
+This will publish the blog post and changes to the `Downloads` section of the website.
 
 ### Commit and push the changes to joyent/node-website
+
+Finally, commit and push changes to the website to the master branch.
+
+## Advertise new release on Twitter in the Node.js Google group
