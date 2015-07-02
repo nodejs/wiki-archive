@@ -134,6 +134,12 @@ Jenkins so that it's accounted for when generating the checksums file.
 
 #### Start the Jenkins nodejs-release job
 
+Go to http://jenkins.nodejs.org/job/nodejs-release/ and click on "Build with parameters". Fill in the build parameters with the following values:
+
+* `GIT_BRANCH` should be the result of running `echo v$(python tools/getnodeversion.py)-release`.
+* `GIT_REPO` should be your own fork of joyent/node.
+* `INT_SIGN` and `APP_SIGN` can be left blank for now, as they are relevant for OSX releases that are currently done manually on your laptop (see "Build the binary package manually from a local OSX machine" in this document).
+
 #### Confirm key signing for Windows builds
 
 When running the nodejs-release job on Jenkins, connect to the windows box
