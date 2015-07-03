@@ -128,7 +128,11 @@ PACKAGEMAKER=/Applications/PackageMaker.app/Contents/MacOS/PackageMaker INT_SIGN
 ### Upload the OSX binary pkg
 
 Upload the OSX pkg first before kicking off the nodejs-release job from
-Jenkins so that it's accounted for when generating the checksums file.
+Jenkins so that it's accounted for when generating the checksums file:
+
+```
+scp out/node-v$(python tools/getnodeversion.py).pkg staging@nodejs.org:archive/node/tmp/v$(python tools/getnodeversion.py)
+```
 
 ### Use the CI platform to trigger a build of all release files (except the OSX installer package)
 
