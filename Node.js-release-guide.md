@@ -142,7 +142,8 @@ Go to http://jenkins.nodejs.org/job/nodejs-release/ and click on "Build with par
 
 * `GIT_BRANCH` should be the result of running `echo v$(python tools/getnodeversion.py)-release`.
 * `GIT_REPO` should be your own fork of joyent/node.
-* `INT_SIGN` and `APP_SIGN` can be left blank for now, as they are relevant for OSX releases that are currently done manually on your laptop (see "Build the binary package manually from a local OSX machine" in this document).
+* `INT_SIGN` must be filled with `Developer ID Installer: Joyent, Inc (X4ETB2T5LK)`. Omitting to fill this field will make the release process do a nightly release.
+* `APP_SIGN` must be filled with `Developer ID Application: Joyent, Inc (X4ETB2T5LK)`.
 
 #### Confirm key signing for Windows builds
 
