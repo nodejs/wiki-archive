@@ -103,7 +103,7 @@ at some point the binary and package signature processes will need to display a 
 to confirm the usage of the signature key and to ask for a passphrase, and there's an issue that
 makes the build process stalls when that happens on our OSX Jenkins agent.
 
-#### Download the certificates and keys needed to sign the pkg file
+#### Add certificates and keys needed to sign the pkg file
 
 You will need to install [manta](https://www.npmjs.com/package/manta) to be
 able to download the keys and certificates used to sign the OSX application
@@ -113,6 +113,8 @@ and package.
 mget -O /NodeCore/stor/joyent-dev-int.p12
 mget -O /NodeCore/stor/joyent-dev-app.p12
 ```
+
+Once downloaded, you will need to add these certificates and keys to your keychain. Simply double-click on these files and follow instructions.
 
 #### Set following environment variables to generate the pkg file
 
