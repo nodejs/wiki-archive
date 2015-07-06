@@ -13,7 +13,7 @@ Each release is signed by the person doing the release. You will need to have a 
 
 In addition to signing keys, you will need SSH keys to connect to get access to a remote shell nodejs.org. Simply generate a pair of SSH keys and paste your public key in an issue in github.com/nodejs/LTS to mention that you need to be able to access nodejs.org to do Node.js releases.
 
-### Local machine
+### Local machine setup
 
 #### Setup the joyent/node and joyent/node-website
 
@@ -28,8 +28,7 @@ where `/foo/bar` is a common prefix.
 
 #### Setup your signing identity with Git
 
-Add the key ID to Git config to be able to sign tags by adding the following content to
-your `~/.gitconfig` file:
+Add the signing key ID (see "Signing keys" to know how to get a signing key) to Git's config to be able to sign tags by adding the following content to your `~/.gitconfig` file:
 
 ```
 [user]
