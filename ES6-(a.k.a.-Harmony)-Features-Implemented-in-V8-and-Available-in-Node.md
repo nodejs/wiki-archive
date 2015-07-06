@@ -10,6 +10,8 @@ This page is meant to track and list these features, and how to use them.
 ## Collections (`--harmony_collections` sets, maps, and weak maps)
 
 ## Proxies (`--harmony_proxies`)
+* Implements the now obsolete, [pre-ES6 Proxy spec](http://wiki.ecmascript.org/doku.php?id=harmony:proxies).
+* Use a shim such as [harmony-reflect](https://github.com/tvcutsem/harmony-reflect) to patch the v8 `Proxy` object to follow the latest [ES6 Proxy spec](http://ecma-international.org/ecma-262/6.0/#sec-proxy-objects).
 
 ## Modules (`--harmony_modules`)
 
