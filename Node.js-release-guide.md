@@ -28,7 +28,7 @@ where `/foo/bar` is a common prefix.
 
 #### Setup your signing identity with Git
 
-Add the signing key ID (see "Signing keys" to know how to get a signing key) to Git's config to be able to sign tags by adding the following content to your `~/.gitconfig` file:
+Add the signing key ID (see ["Signing keys"](#signing-keys) to know how to get a signing key) to Git's config to be able to sign tags by adding the following content to your `~/.gitconfig` file:
 
 ```
 [user]
