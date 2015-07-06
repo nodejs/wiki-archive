@@ -71,7 +71,7 @@ previous release.
 
 ### Update the AUTHORS file
 
-It's not time to update the `AUTHORS` file:
+It's now time to update the `AUTHORS` file:
 
 ```
 ./node tools/update-authors.js
