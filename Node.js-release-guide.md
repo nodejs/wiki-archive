@@ -177,20 +177,23 @@ $ cd x64 && rm icu* genrb* genccode*
 
 Sometimes, SHASUMS* files are not generated, but they are needed for the next step of the release process. Go to `/home/staging` and edit 'shasums.sh` to point to the proper directory where new release's files are located (e.g `/home/staging/v0.12.6`). Then run `sh /home/staging/shasums.sh`, all SHASUMS* files should now be present. 
 
-## Publish release artefacts
-
-```
-./tools/node-release-post-build.sh
-```
-
 ## Smoke test release artefacts
 
-Login to nodejs.org as user `staging` and download newly created release files.
+Point your browser to https://nodejs.org/dist/staging/ and download newly created release files.
 Smoke test them by doing the following for releases on all supported platforms:
 
 1. Install node.
 2. Run `node -p 'process.versions' and make sure that all version numbers are correct (especially dependencies if they've been upgraded with this release).
 3. Install a module with binary add-ons as dependencies (like `ws` with `npm install ws`) to make sure that node-gyp, npm and node works correctly. Clean up ~/.node-gyp and run `npm cache clean` before doing so to force a fresh download/build.
+
+## Publish release artefacts
+
+It's now time to move the release files from `nodejs.org/dist/staging/` to `nodejs.org/dist/` so that it is published as an official release and can be downloaded from the website or version managers like `nvm`.
+
+Simply run:
+```
+./tools/node-release-post-build.sh -u GITHUB_USERNAME
+```
 
 ## Push changes to joyent/node repository
 
