@@ -175,7 +175,7 @@ $ cd x64 && rm icu* genrb* genccode*
 
 #### Make sure SHASUMS files were generated properly
 
-Sometimes, SHASUMS* files are not generated, but they are needed for the next step of the release process. Go to `/home/staging` and edit 'shasums.sh` to point to the proper directory where new release's files are located (e.g `/home/staging/v0.12.6`). Then run `sh /home/staging/shasums.sh`, all SHASUMS* files should now be present. 
+Sometimes, SHASUMS* files are not generated, but they are needed for the next step of the release process. Go to `/home/staging` and edit `shasums.sh` to point to the proper directory where new release's files are located (e.g `/home/staging/v0.12.6`). Then run `sh /home/staging/shasums.sh`, all SHASUMS* files should now be present. 
 
 ## Smoke test release artefacts
 
