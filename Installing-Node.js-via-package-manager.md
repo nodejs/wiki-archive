@@ -40,7 +40,7 @@ Setup with Debian (as root):
 
 ```text
 apt-get install curl
-curl --silent --location https://deb.nodesource.com/setup_0.12 | sudo bash -
+curl --silent --location https://deb.nodesource.com/setup_0.12 | bash -
 ```
 
 Then install with Debian (as root):
