@@ -231,4 +231,4 @@ This will publish the blog post and changes to the `Downloads` section of the we
 
 Finally, commit and push changes to the website to the master branch.
 
-## Advertise new release on Twitter in the Node.js Google group
+## Advertise new release on Twitter and in the Node.js Google group
