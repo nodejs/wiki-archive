@@ -59,6 +59,7 @@ VPS providers, which often require you to set everything up yourself, including 
 * [Joyent](http://www.joyentcloud.com/products/appliances/nodejs-smartmachine/)
 * [Linode](http://www.linode.com)
 * [Microsoft Azure](http://azure.microsoft.com/en-us/documentation/articles/cloud-services-nodejs-develop-deploy-app/)
+* [MilesWeb](https://www.milesweb.com/self-managed-vps.php) - VPS in India, UK, US and Romania from $12/mo.
 * [Oversun Scalaxy](http://www.scalaxy.ru) - Site in Russian (the site says "Company closed" - November 16, 2013)
 * [Prgmr](http://prgmr.com)
 * [Rackspace Cloud](http://www.rackspacecloud.com)
