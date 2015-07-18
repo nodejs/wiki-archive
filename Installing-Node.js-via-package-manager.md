@@ -111,7 +111,7 @@ curl --silent --location https://rpm.nodesource.com/setup | bash -
 Then install, as root:
 
 ```text
-yum install --yes nodejs
+yum -y install nodejs 
 ```
 
 ***Optional***: install build tools
