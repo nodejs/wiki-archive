@@ -26,6 +26,12 @@ The upgrade from V8 4.2 to 4.3 will require a recompile of all native add-ons. T
 
 _However_, 4.3 introduces the new `Maybe<>` and `MaybeLocal<>` types, to fix systemic use-after-failure bugs where consumers could accidentally use empty handles. Many new APIs were introduced that return these types and take a Context argument. Add-on authors are encouraged to transition to these new maybe-style APIs as soon as possible, as V8 has deprecated the old ones and will eventually remove them.
 
+### HTTP status codes
+
+HTTP status codes in core (`http.STATUS_CODES`) were previously incorrect in mapping to the regulated codes. Updating the code mappings to conform to the [IANA standard](http://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml) was a backwards incompatible change to consumers who depend on the text value of a header. The most significant of these changes was the text for `302`, which was previously `Moved Temporarily` but is now `Found`.
+
+Refs: [#1470](https://github.com/nodejs/io.js/pull/1470) [`235036e`](https://github.com/nodejs/io.js/commit/235036e7faa537469c3600850bdd533c095c392a)
+
 ## 2.0.0 from 1.x
 
 ### Consistent cross-platform `os.tmpdir()` behavior
