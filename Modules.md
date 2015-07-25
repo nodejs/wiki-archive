@@ -636,6 +636,7 @@ This module is inspired by impressive but abandoned project [Cluster](https://gi
 * [db-drizzle](https://github.com/mariano/node-db-drizzle/) - Binary driver for Drizzle (using libdrizzle). Part of the [Node.js DB](http://nodejsdb.org) effort
 * [db-migrate](https://github.com/nearinfinity/node-db-migrate) - Relational database migration framework
 * [dynamoDB](https://github.com/xiepeng/dynamoDB) — An Amazon AWS DynamoDB library for Node.js.
+* [gun](https://github.com/amark/gun) - Realtime, decentralized, embedded, graph database engine.
 * [hive](https://github.com/Pollenware/hive) — Fast in memory store for Node.
 * [jfs](https://github.com/flosse/json-file-store) — A simple JSON file store
 * [JSLINQ](https://github.com/marak/JSLINQ) — Clean and simple port of Microsoft's LINQ to node.js (and the browser)
