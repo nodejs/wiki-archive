@@ -64,23 +64,25 @@ See [[Installing Node.js via package manager]] for more information.
 
 ## Building on Linux
 
-There's a number of ways to install Node.js on Linux, instructions for installing Node.js on specific Linux distributions using a package manager can be found at: [Installing Node.js via package manager](https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager).
+There's a number of ways to install Node.js on Linux, instructions for installing Node.js on specific Linux distributions using a package manager can be found at: [Installing Node.js via package manager](https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager). Note, in order to find the latest stable version of Node.js one can go to [here](http://nodejs.org/dist/latest/). 
 
-The filenames vary with the Node's version. The following examples are for Node v0.6.18.
+The file names vary with the Node's version. The following examples are for Node v0.12.7.
 
-Do something like this
+Do something like this (note GNU Wget is required to use the following code):
 
 ```sh
-tar -zxf node-v0.6.18.tar.gz #Download this from nodejs.org
-cd node-v0.6.18
+ver=0.12.7 #Replace this with the latest version available
+wget -c http://nodejs.org/dist/v$ver/nodejs-v$ver.tar.gz #This is to download the source code.
+tar -xzf node-v$ver.tar.gz
+cd node-v$ver
 ./configure && make && sudo make install
 ```
 
 If you are installing on an illumos 64 bit system consider the following to enable dtrace support 
 
 ```sh
-tar -zxf node-v0.6.18.tar.gz #Download this from nodejs.org
-cd node-v0.6.18
+tar -zxf node-v0.12.7.tar.gz #Download this from nodejs.org
+cd node-v0.12.7
 ./configure --with-dtrace --dest-cpu=x64 && make && sudo make install
 ```
 
@@ -89,7 +91,7 @@ Or, if you'd like to install from the repository
 ```sh
 git clone https://github.com/joyent/node.git
 cd node
-git checkout v0.6.18 #Try checking nodejs.org for what the stable version is
+git checkout v0.12.7 #Try checking nodejs.org for what the stable version is
 ./configure && make && sudo make install
 ```
 
