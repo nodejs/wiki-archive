@@ -32,6 +32,12 @@ HTTP status codes in core (`http.STATUS_CODES`) were previously incorrect in map
 
 Refs: [#1470](https://github.com/nodejs/io.js/pull/1470) [`235036e`](https://github.com/nodejs/io.js/commit/235036e7faa537469c3600850bdd533c095c392a)
 
+### HTTP agent `.getAgent()`
+
+HTTP agents used to return an extra colon at the end of return values for `.getAgent()`. This has been fixed.
+
+Refs: [#1617](https://github.com/nodejs/io.js/pull/1617) [`06cc919`](https://github.com/nodejs/io.js/commit/06cc919a0cd41380a83e4ea699f1a9ea30881266)
+
 ## 2.0.0 from 1.x
 
 ### Consistent cross-platform `os.tmpdir()` behavior
