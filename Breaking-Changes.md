@@ -22,7 +22,7 @@ Refs: [#1411](https://github.com/nodejs/io.js/pull/1411) [`6020d2`](https://gith
 
 ### V8 upgrade
 
-The upgrade from V8 4.2 to 4.3 will require a recompile of all native add-ons. The API surface area [has not changed significantly](https://docs.google.com/document/d/1g8JFi8T_oAE_7uAri7Njtig7fKaPDfotU6huOa1alds/edit), so most add-ons will "just work" after a recompile.
+The upgrade from V8 4.2 to 4.4 will require a recompile of all native add-ons. The API surface area [has not changed significantly](https://docs.google.com/document/d/1g8JFi8T_oAE_7uAri7Njtig7fKaPDfotU6huOa1alds/edit), so most add-ons will "just work" after a recompile.
 
 _However_, 4.3 introduces the new `Maybe<>` and `MaybeLocal<>` types, to fix systemic use-after-failure bugs where consumers could accidentally use empty handles. Many new APIs were introduced that return these types and take a Context argument. Add-on authors are encouraged to transition to these new maybe-style APIs as soon as possible, as V8 has deprecated the old ones and will eventually remove them.
 
