@@ -32,7 +32,7 @@ HTTP status codes in core (`http.STATUS_CODES`) were previously incorrect in map
 
 Refs: [#1470](https://github.com/nodejs/io.js/pull/1470) [`235036e`](https://github.com/nodejs/io.js/commit/235036e7faa537469c3600850bdd533c095c392a)
 
-### HTTP agent `.getAgent()`
+### HTTP agent `.getName()`
 
 HTTP agents used to return an extra colon at the end of return values for `.getName()`. This has been fixed.
 
