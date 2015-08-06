@@ -42,3 +42,41 @@ When editing this page please be as detailed as possible. Examples are encourage
 ## https
 
 * `SNICallback` required returning a `secureContext` synchronously as `function (hostname) {}`. The function signature is now `function (hostname, cb) { cb(null, secureContext); }`. You can feature detect with `'function' === typeof cb`. 
+
+
+## Signal handling
+
+In node 0.10.x, exit from a fatal signal was accomplished by a signal handler in
+node which called `exit(128 + signo)`.  So for `SIGINT` (signal 2), a node process
+observing the exit of a spawned node process would observe that process exiting 130,
+but no signal would be noted (see [`waitid(2)`](http://pubs.opengroup.org/onlinepubs/9699919799/functions/waitid.html) for more information on how a process
+waiting for another determines if the waitee exited due to a signal).  In node
+0.12.x, a node process observing the exit of a spawned child node process will
+see a null `code`, and a `'SIGINT'` as the signal.
+
+Here is a pair of test programs which illustrates the difference.
+
+    $ cat sleeper.js
+    setTimeout(function () {}, 300000)
+
+    $ cat test.js
+    cp = require("child_process");
+    p = cp.spawn("node", ["sleeper.js"]);
+    report = function (code, signal) { console.log("code=" + code + ", signal=" + signal); }
+    p.on('exit', report);
+    setTimeout(function() { p.kill('SIGINT') }, 2000);
+
+
+On node 0.10 this produces:
+
+    $ node test.js
+    code=130, signal=null
+
+On node 0.12 this produces:
+
+    $ node test.js
+    code=null, signal=SIGINT
+
+This can be a subtle porting issue for multi-process node environments which care
+about signals (such as test harnesses).  This change was introduced by
+[`main: Handle SIGINT properly`](https://github.com/joyent/node/commit/c61b0e9cbc748c5e90fc5e25e4fb490b4104cae3).
