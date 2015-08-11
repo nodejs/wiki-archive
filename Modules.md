@@ -1741,11 +1741,11 @@ rendering process.
 * [node-dv](https://github.com/creatale/node-dv) — Node.js library for processing and understanding scanned documents (Leptonica, Tesseract-OCR, ZXing, ...).
 * [node-pango-view](https://github.com/shimondoodkin/node-pango-view) — print text with pango to temporary png image, then merge it with ImageMagick.
 * [node-png](https://github.com/pkrumins/node-png) — Convert an RGB or RGBA buffer to PNG fast
-* [node-pngjs](https://github.com/niegowski/node-pngjs) — Simple PNG encoder/decoder for Node.js with no native dependencies
 * [node-qr](https://github.com/bcelenza/node-qr) — QR code generator for node
 * [node-webgl](https://github.com/pufuwozu/node-webgl) — WebGL emulation
 * [node-wkhtml](https://github.com/mhemesath/node-wkhtml) — Convert HTML to PDF or PNG using the Webkit Rendering Engine.
 * [pdfkit](https://github.com/devongovett/pdfkit) — A powerful PDF generation library for Node
+* [pngjs2](https://github.com/lukeapage/pngjs2) — PNG encoder/decoder for Node.js with no native dependencies
 * [squeeze](https://github.com/nikhilm/squeeze) — Mince and convert images on the cloud using [UploadJuicer](http://www.uploadjuicer.com) _discontinued_.
 
 <a name="wiki-canvas"></a>
