@@ -720,6 +720,7 @@ This module is inspired by impressive but abandoned project [Cluster](https://gi
 * [Liquor](https://github.com/chjj/liquor) — A templating engine minus the code.
 * [Lite(LiteXML)](http://www.xidea.org/lite/doc/) — A cross platform template engine base on xml/html and javascript expression
 * [ltxb](https://github.com/jaredhanson/ltxb) — Less-Than XML builder templates
+* [marko](https://github.com/marko-js/marko) — A fast and lightweight HTML-based templating engine that compiles templates to CommonJS modules and supports streaming, async rendering and custom tags.
 * [minstache](https://github.com/visionmedia/minstache) -- tiny mustache compiler producing stand-alone functions
 * [minimal.js](https://github.com/ruidlopes/minimal.js) — a fast HTML+JSON template engine (both browser and Node.js compatible)
 * [MinnaHtml.js](https://github.com/RobeeeJay/MinnaHTML.js) - An async aware object based HTML template library
@@ -743,7 +744,6 @@ This module is inspired by impressive but abandoned project [Cluster](https://gi
 * [Plates](https://github.com/flatiron/plates) — Light-weight, logic-less, DSL-free, templates for all javascript environments!
 * [PURE](https://github.com/pure/pure) — Unobtrusive Rendering Engine. The HTML view and the JS logic remain strictly separated. Works with jsdom.
 * [QEJS](https://github.com/jepso/QEJS) — Asyncronous Embedded JavaScript Templates with Q promises
-* [Raptor Templates](https://github.com/raptorjs3/raptor-templates) — An extensible, streaming, asynchronous, high performance, HTML-based templating language
 * [Razor Leaf](https://github.com/campersander/razorleaf) — A template engine with a minimal, concise, and indentation-based syntax (akin to Jade’s).
 * [scraps](https://github.com/nudgepad/scraps) — A Space based HTML template language.
 * [shift.js](https://github.com/viatropos/shift.js) — Standard interface to the Node.js template engines.
