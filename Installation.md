@@ -72,7 +72,7 @@ Do something like this (note GNU Wget is required to use the following code):
 
 ```sh
 ver=0.12.7 #Replace this with the latest version available
-wget -c http://nodejs.org/dist/v$ver/nodejs-v$ver.tar.gz #This is to download the source code.
+wget -c https://nodejs.org/dist/v$ver/node-v$ver.tar.gz #This is to download the source code.
 tar -xzf node-v$ver.tar.gz
 cd node-v$ver
 ./configure && make && sudo make install
