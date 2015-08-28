@@ -46,7 +46,7 @@ You can do this by using a temporary branch:
 1. Checkout the branch with `git checkout <your_branch>`.
 1. Make the desired changes and commit them.
 1. Push your branch to GitHub.
-1. Point your browser to [node-merge-commit](https://jenkins-iojs.nodesource.com/job/node-merge-commit/). This job is used internally by node-accept-pull-request, and provides additional functionality. You can follow the same steps as you would for the basic workflow, with the following differences:
+1. Point your browser to [node-merge-commit](https://jenkins-iojs.nodesource.com/job/node-merge-commit/). This job is used internally by node-accept-pull-request, and provides additional functionality. You can follow the same steps as you would for the [basic workflow](https://github.com/nodejs/node/wiki/Merging-pull-requests-with-Jenkins#basic-workflow), with the following differences:
   * Instead of entering the PR_ID, you enter the name of your temporary branch and the branch that you want to merge the changes. Set GIT_REMOTE_REF to `refs/heads/<your_branch>` and TARGET_BRANCH to the target branch of the PR (without `refs/heads/`).
   * You need to enter the PR-URL yourself, so it can be added to the commit message.
 
@@ -55,7 +55,7 @@ Once the changes have been merged (or abandoned), please delete your branch from
 ### Workflow for doing branch merges
 This is for making branch merges, e.g. for merging branch next into master or whenever you want a merge commit to be created between two branches. 
 If there is a PR associated with the merge, you can simply use node-accept-pull-request, but specifying `Merge` instead of `Rebase` for the MERGE_METHOD option.
-If there is no PR associated with the merge, you need to use the [node-merge-commit](https://jenkins-iojs.nodesource.com/job/node-merge-commit/) job. This job is used internally by node-accept-pull-request, and provides additional functionality. You can follow the same steps as you would for the basic workflow, with the following differences:
+If there is no PR associated with the merge, you need to use the [node-merge-commit](https://jenkins-iojs.nodesource.com/job/node-merge-commit/) job. This job is used internally by node-accept-pull-request, and provides additional functionality. You can follow the same steps as you would for the [basic workflow](https://github.com/nodejs/node/wiki/Merging-pull-requests-with-Jenkins#basic-workflow), with the following differences:
 
 * Instead of entering a PR_ID, you enter the name of the source branch and target branch for the merge. Set GIT_REMOTE_REF to `refs/heads/<source_branch>` and TARGET_BRANCH to the target branch of the merge (without `refs/heads/`).
 * Specify `Merge` instead of `Rebase` for the MERGE_METHOD option.
