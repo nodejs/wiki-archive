@@ -17,7 +17,7 @@ To test a pull-request, simply follow these steps:
 
 A new job number with a progress bar running should appear in the bottom left of the page, in the "build history" section. A colored ball appears on the left of the new job with the following possible colors:
 * Green for all builds and tests passing.
-* Red for at least one build or test failing. Note that unlike node-accept-pull-request, node-test-pull-request treats flaky tests as fatal.
+* Red for at least one build or test failing. Note that unlike node-accept-pull-request, node-test-pull-request treats [flaky tests](https://github.com/nodejs/node/wiki/Flaky-tests) as fatal.
 
 It is common practice to post a comment on the pull request on GitHub, containing a link to the job run.
 
@@ -32,6 +32,6 @@ You can follow the same steps as you would for the basic workflow, with the foll
   * To test a specific commit, enter `<commit_sha1>`
 * You can specify a branch to rebase onto before building, with the REBASE_ONTO field. If you leave it empty, no rebasing will be performed. Otherwise you can rebase onto pretty much any ref. **IMPORTANT**: branch names here must be specified as `origin/<branch_name>`.
 * NODES_SUBSET allows specifying a specific subset of platforms and configurations for the testing. The `auto` option determines the right configuration automatically based on the version of Node.js in the changes (determined from node_version.h). The other options are mostly useful for testing the Jenkins job itself.
-* By checking IGNORE_FLAKY_TESTS, you can make the test runs mark the builds as unstable (yellow) instead of failure (red), when only flaky tests fail.
+* By checking IGNORE_FLAKY_TESTS, you can make the test runs mark the builds as unstable (yellow) instead of failure (red), when only [flaky tests](https://github.com/nodejs/node/wiki/Flaky-tests) fail.
 
 For any issues with the above procedures or this guide, please mention @nodejs/jenkins-admins on GitHub.
