@@ -4,7 +4,7 @@ node-accept-pull-request does the following:
 1. It rebases the PR onto the target branch.
 2. It modifies the commits messages for all the commits in the PR, adding metadata like PR-URL and Reviewed-By.
 3. It builds and tests the changes on several platforms.
-4. If all the builds and non-flaky tests succeed, it does a fast-forward merge to integrate the changes it just tested, and pushes the updated branch to GitHub.
+4. If all the builds and [non-flaky](https://github.com/nodejs/node/wiki/Flaky-tests) tests succeed, it does a fast-forward merge to integrate the changes it just tested, and pushes the updated branch to GitHub.
 
 Because of the fast-forward merge, if someone else were to update and push the same branch while a run is in progress between steps (1) and (4), the branch update at (4) would fail. This is somewhat desirable, because we want the job to test the result of the rebase, and push exactly what it has tested. As a consequence, it is important that everybody sticks to the same workflow and uses Jenkins to merge pull requests instead of doing manual merges.
 
@@ -31,7 +31,7 @@ To merge a pull request, simply follow these steps:
 
 A new job number with a progress bar running should appear in the bottom left of the page, in the "build history" section. A colored ball appears on the left of the new job with the following possible colors:
 * Green for all builds and tests passing.
-* Yellow for all build and tests passing but flaky tests failing.
+* Yellow for all build and tests passing but [flaky tests](https://github.com/nodejs/node/wiki/Flaky-tests) failing.
 * Red for at least one build or non-flaky test failing.
 
 If the color is green or yellow, the changes will be merged in the pull request’s target branch.
