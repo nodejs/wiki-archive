@@ -6,7 +6,7 @@ Any collaborator can trigger the job when it’s determined that the pull reques
 
 To test a pull-request, simply follow these steps:
 
-1. Point your browser to the [node-test-pull-request](https://jenkins-iojs.nodesource.com/job/node-test-commit/) Jenkins job.
+1. Point your browser to the [node-test-pull-request](https://jenkins-iojs.nodesource.com/job/node-test-pull-request/) Jenkins job.
 1. On the left hand side, you should see "Build with parameters". If not, it probably means that you're not logged in. You need to be logged in to start this job.
 1. Click on "Build with parameters".
 1. Fill out the form:
