@@ -15,9 +15,9 @@ In addition to signing keys, you will need SSH keys to get access to a remote sh
 
 ### Local machine setup
 
-#### Setup the joyent/node and joyent/node-website
+#### Setup the nodejs/node and joyent/node-website
 
-Currently, the release process is made for a setup where the `joyent/node` and `joyent/node-website` repositories sit side by side.
+Currently, the release process is made for a setup where the `nodejs/node` and `joyent/node-website` repositories sit side by side.
 So you'll need to have both projects checked out in locations similar to:
 
 ```
@@ -94,7 +94,7 @@ git commit -am "$(bash tools/changelog-head.sh)"
 After running this command, review the commit message with `git show` and make sure that it's properly formatted
 and the content is correct.
 
-### Push changes to your own fork of joyent/node so the CI platform can see the changes
+### Push changes to your own fork of nodejs/node so the CI platform can see the changes
 
 ```
 git push git@github.com:GITHUB_USERNAME/node.git v$(python tools/getnodeversion.py)-release
@@ -150,7 +150,7 @@ scp out/node-v$(python tools/getnodeversion.py).pkg staging@nodejs.org:archive/n
 Go to http://jenkins.nodejs.org/job/nodejs-release/ and click on "Build with parameters". Fill in the build parameters with the following values:
 
 * `GIT_BRANCH` should be the result of running `echo v$(python tools/getnodeversion.py)-release`.
-* `GIT_REPO` should be your own fork of joyent/node.
+* `GIT_REPO` should be your own fork of nodejs/node.
 * `INT_SIGN` must be filled with `Developer ID Installer: Joyent, Inc (X4ETB2T5LK)`. Omitting to fill this field will make the release process do a nightly release.
 * `APP_SIGN` must be filled with `Developer ID Application: Joyent, Inc (X4ETB2T5LK)`.
 
@@ -197,9 +197,9 @@ Simply run:
 
 ## Push changes to joyent/node repository
 
-It is now time to push the release branch, tag and merge commit of the release branch to the parent branch upstream (joyent/node):
+It is now time to push the release branch, tag and merge commit of the release branch to the parent branch upstream (nodejs/node):
 
-`git push git@github.com:joyent/node.git v$(python tools/getnodeversion.py) v$(python tools/getnodeversion.py)-release v$(python tools/getnodeversion.py | sed -E 's#\.[0-9]+$##')`
+`git push git@github.com:nodejs/node.git v$(python tools/getnodeversion.py) v$(python tools/getnodeversion.py)-release v$(python tools/getnodeversion.py | sed -E 's#\.[0-9]+$##')`
 
 ## Publish changes to the website
 
