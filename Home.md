@@ -1,1 +1,1 @@
-Welcome to the io.js wiki!
+Welcome to the Node.js wiki!
