@@ -1,12 +1,12 @@
 This guide describes the procedure for testing pull requests or arbitrary commits with Jenkins. For a description of how to land pull requests with Jenkins, please refer to ["Merging pull requests with Jenkins"]( https://github.com/nodejs/node/wiki/Merging-pull-requests-with-Jenkins).
 
 ### Basic workflow for testing pull requests
-Starting the node-test-pull-request Jenkins job requires having an account on the [Node.js Jenkins platform](https://jenkins-iojs.nodesource.com/). This is currently restricted to Node.js collaborators. 
+Starting the node-test-pull-request Jenkins job requires having an account on the [Node.js Jenkins platform](https://ci.nodejs.org/). This is currently restricted to Node.js collaborators. 
 Any collaborator can trigger the job when it’s determined that the pull request should be tested. Since the pull request will also be tested before merging when [using node-accept-pull-request](https://github.com/nodejs/node/wiki/Merging-pull-requests-with-Jenkins), testing the pull request in advance is not mandatory, and may be skipped if the author has already tested the changes on all platforms affected by the changes and/or if the change is trivial and there is high confidence that it will not break anything.
 
 To test a pull-request, simply follow these steps:
 
-1. Point your browser to the [node-test-pull-request](https://jenkins-iojs.nodesource.com/job/node-test-pull-request/) Jenkins job.
+1. Point your browser to the [node-test-pull-request](https://ci.nodejs.org/job/node-test-pull-request/) Jenkins job.
 1. On the left hand side, you should see "Build with parameters". If not, it probably means that you're not logged in. You need to be logged in to start this job.
 1. Click on "Build with parameters".
 1. Fill out the form:
@@ -22,7 +22,7 @@ A new job number with a progress bar running should appear in the bottom left of
 It is common practice to post a comment on the pull request on GitHub, containing a link to the job run.
 
 ### Advanced workflow with node-test-commit
-If you need to test arbitrary changes that are not part of pull requests, or if you need more advanced options, you can use the [node-test-commit](https://jenkins-iojs.nodesource.com/job/node-test-commit/) job. This job is used internally by node-test-pull-request and provides additional functionality. node-test-pull-request is just a simplified front-end for node-test-commit for the common case of testing pull requests.
+If you need to test arbitrary changes that are not part of pull requests, or if you need more advanced options, you can use the [node-test-commit](https://ci.nodejs.org/job/node-test-commit/) job. This job is used internally by node-test-pull-request and provides additional functionality. node-test-pull-request is just a simplified front-end for node-test-commit for the common case of testing pull requests.
 
 You can follow the same steps as you would for the basic workflow, with the following differences:
 * Instead of entering a PR_ID, you enter the name of the git ref that you want to test in GIT_REMOTE_REF. This can be branch, a pull request head, or even a commit SHA1. The format is the same as the remote portion of the refspec passed to the [git fetch](http://git-scm.com/docs/git-fetch) command. Specifically:
