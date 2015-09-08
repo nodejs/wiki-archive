@@ -1,5 +1,5 @@
-At the moment installing from the package manager is not yet supported. Some package managers already support installing io.js via the package manger but it is unsupported by io.js at the moment.
+Installing Node.js via package manager is supported by the [nodesource repositories](https://github.com/nodesource/distributions).
 
-Support is on its way but since io.js is still a relatively new project the recommended way to install it is [building it](https://github.com/iojs/io.js/wiki/Installing-Building-io.js) or [getting a binary](https://github.com/iojs/io.js/wiki/Installing-Building-io.js#installing-on-linux) directly.
+See the [installation instructions](https://github.com/nodesource/distributions#installation-instructions).
 
-Support in distribution package managers is on its way. You can [monitor progress in this issue](https://github.com/iojs/io.js/issues/640).
+Many distributions support installing Node.js in their default repositories but these releases may be far out of date.
