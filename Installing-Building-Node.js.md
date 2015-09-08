@@ -1,4 +1,4 @@
-# Installing/Building io.js
+# Installing/Building Node.js
 
 ***
 
@@ -29,19 +29,19 @@
 ***
 
 ## Installing on Linux
-You can install a pre-built version of io.js via [the downloads page](http://iojs.org/download/) available in a **.tar.gz**.
+You can install a pre-built version of Node.js via [the downloads page](http://iojs.org/download/) available in a **.tar.gz**.
 
 ## Installing on Mac
-You can install a pre-built version of io.js via [the downloads page](http://iojs.org/download/) using a **.pkg** or available in a **.tar.gz**.
+You can install a pre-built version of Node.js via [the downloads page](http://iojs.org/download/) using a **.pkg** or available in a **.tar.gz**.
 
 ## Installing on Windows
-You can install a pre-built version of io.js via [the downloads page](http://iojs.org/download/) using a **.exe** or a **.msi**.
+You can install a pre-built version of Node.js via [the downloads page](http://iojs.org/download/) using a **.exe** or a **.msi**.
 
 ## Installing on SunOS
-You can install a pre-built version of io.js via [the downloads page](http://iojs.org/download/) available in a **.tar.gz**.
+You can install a pre-built version of Node.js via [the downloads page](http://iojs.org/download/) available in a **.tar.gz**.
 
 ## Installing via package manager
-See [[Installing io.js via package manager]] for more information.
+See [[Installing Node.js via package manager]] for more information.
 
 ### Building Prerequisites
 
@@ -57,7 +57,7 @@ See [[Installing io.js via package manager]] for more information.
 
 ## Building on Linux
 
-The filenames vary with the io.js's version. The following examples are for io.js v1.3.0.
+The filenames vary with the Node.js's version. The following examples are for Node.js v1.3.0.
 
 Do something like this
 
@@ -78,19 +78,19 @@ cd iojs-v1.3.0
 Or, if you'd like to install from the repository
 
 ```sh
-git clone https://github.com/iojs/io.js.git
-cd io.js
+git clone https://github.com/iojs/node.js.git
+cd node.js
 git checkout v1.3.0
 ./configure && make && sudo make install
 ```
 
-You may wish to install io.js in a custom folder instead of a global directory. 
+You may wish to install Node.js in a custom folder instead of a global directory. 
 
     ./configure --prefix=/custom/folder && make && sudo make install
 
 You can really speed up building process by adding `-j` argument with a number usually approximately equals number of cores plus one, so `make -j 5` would be appropriate for a quad-core processor.
 
-You may want to put the io.js executables in your path as well for easier use, if you specified a custom prefix. Io.js will be available after logging out and back in again, if you installed io.js to the default /usr/local/ location. Add this line to your `~/.profile` or `~/.bash_profile` or `~/.bashrc` or `~/.zshenv`
+You may want to put the Node.js executables in your path as well for easier use, if you specified a custom prefix. Node.js will be available after logging out and back in again, if you installed Node.js to the default /usr/local/ location. Add this line to your `~/.profile` or `~/.bash_profile` or `~/.bashrc` or `~/.zshenv`
 
     export PATH=$PATH:/custom/folder/bin
 
@@ -98,4 +98,4 @@ You may want to put the io.js executables in your path as well for easier use, i
 
 ## Upgrading on Mac with `.pkg`
 
-You can download the latest `.pkg` and run the installer and it will overwrite the existing version of io.js currently installed.
+You can download the latest `.pkg` and run the installer and it will overwrite the existing version of Node.js currently installed.
