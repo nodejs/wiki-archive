@@ -20,10 +20,10 @@ Node.js is a JavaScript runtime built on [Chrome's V8 JavaScript engine](https:/
 
 ## API/Breaking Changes
 
-* [[From v0.2 to v0.3|Migrating-from-v0.2-to-v0.3]]
-* [[From v0.3 to v0.4|Migrating-from-v0.2-to-v0.4]]
-* [[From v0.4 to v0.6|API-changes-between-v0.4-and-v0.6]]
-* [[From v0.6 to v0.8|API-changes-between-v0.6-and-v0.8]]
-* [[From v0.8 to v0.10|API-changes-between-v0.8-and-v0.10]]
-* [[From v0.10 to v0.12|API-changes-between-v0.10-and-v0.12]]
+* [[From v0.2 to v0.3|https://github.com/nodejs/node-v0.x-archive/wiki/Migrating-from-v0.2-to-v0.3]]
+* [[From v0.3 to v0.4|https://github.com/nodejs/node-v0.x-archive/wiki/Migrating-from-v0.2-to-v0.4]]
+* [[From v0.4 to v0.6|https://github.com/nodejs/node-v0.x-archive/wiki/API-changes-between-v0.4-and-v0.6]]
+* [[From v0.6 to v0.8|https://github.com/nodejs/node-v0.x-archive/wiki/API-changes-between-v0.6-and-v0.8]]
+* [[From v0.8 to v0.10|https://github.com/nodejs/node-v0.x-archive/wiki/API-changes-between-v0.8-and-v0.10]]
+* [[From v0.10 to v0.12|https://github.com/nodejs/node-v0.x-archive/wiki/API-changes-between-v0.10-and-v0.12]]
 * [[Between io.js versions|Breaking Changes]]
