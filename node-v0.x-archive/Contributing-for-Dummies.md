@@ -1,0 +1,1 @@
+This documentation is now hosted on the [official website](http://nodejs.org/documentation/contributing) please contribute in the [website repository](https://github.com/joyent/node-website)

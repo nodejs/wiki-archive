@@ -1,0 +1,1 @@
+This document will contain an in depth guide to discover if your application has a memory leak. We've found this necessary because of the many bug reports received about Node leaking memory. The objective it to help users understand how to properly discover this for themselves, and as to what information is necessary to report so the maintainers can respond quickly.
