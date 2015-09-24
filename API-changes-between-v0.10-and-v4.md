@@ -19,7 +19,7 @@
 
 ---
 
-- [`Buffer.concat()`](https://iojs.org/api/buffer.html#buffer_class_method_buffer_concat_list_totallength) now always creates a new buffer, even if only called with one element.
+- [`Buffer.concat()`](https://iojs.org/api/buffer.html#buffer_class_method_buffer_concat_list_totallength) now always creates a new buffer, even if only called with one element. Previously when called with one element it would just return the element, even if not a Buffer.
   - Refs: [`f4f16bf`](https://github.com/nodejs/io.js/commit/f4f16bf03980df4d4366697d40e80da805a38bf8), [#1891](https://github.com/nodejs/io.js/issues/1891), [#1937](https://github.com/nodejs/io.js/pull/1937)
 - [`SlowBuffer`](https://iojs.org/api/buffer.html#buffer_class_slowbuffer) has been repurposed to return a `Buffer` instance who's parent backing is not pooled.
   - Refs: [`456942a`](https://github.com/nodejs/node/commit/456942a920fe313ebe0b0da366d26ef400ec177e)
