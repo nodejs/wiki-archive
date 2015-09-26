@@ -59,7 +59,7 @@ Implementation changes in V8 have caused subtle impacts how buffers work with en
 [[Docs](https://iojs.org/api/cluster.html)]
 
 - Cluster now uses round-robin load balancing by default on non-Windows platforms. The scheduling policy is configurable by setting [`cluster.schedulingPolicy`](https://iojs.org/api/cluster.html#cluster_cluster_schedulingpolicy).
-    - It is advised that you do not use round-robin balancing on windows as it is very inefficien.
+    - It is advised that you do not use round-robin balancing on Windows as it is very inefficient.
   - Refs: [`e72cd41`](https://github.com/nodejs/node/commit/e72cd415adf2ca12daddc001cc3fe953cdb4b507)
 - Cluster has been made `--debug`-aware.
   - Refs: [`43ec1b1`](https://github.com/nodejs/node/commit/43ec1b1c2e77d21c7571acd39860b9783aaf5175), [`3821863`](https://github.com/nodejs/node/commit/3821863109be9e56f41f1ea6da0cb6e822037fc3), [`11c1bae`](https://github.com/nodejs/node/commit/11c1bae734dae3a017f2c4f3f71b5e679a9ddfa6), [`423d894`](https://github.com/nodejs/node/commit/423d8944ce58bc8c3f90d2827339a4dea10ab96e)
@@ -106,7 +106,7 @@ It is suggested you avoid using domains if possible and rather rely on regular e
 
 [[Docs](https://iojs.org/api/events.html)]
 
-- [`EventEmitter.listenerCount()`](https://iojs.org/api/events.html#events_class_method_eventemitter_listenercount_emitter_event) is now deprecated in favour of `EventEmitter.prototype.listenerCount()`.
+- [`EventEmitter.listenerCount()`](https://iojs.org/api/events.html#events_class_method_eventemitter_listenercount_emitter_event) is now deprecated in favor of `EventEmitter.prototype.listenerCount()`.
   - Refs: [`8f58fb9`](https://github.com/nodejs/node/commit/8f58fb92fff904a6ca58fd0df9ee5a1816e5b84e)
 
 ### freelist
@@ -127,7 +127,7 @@ It is suggested you avoid using domains if possible and rather rely on regular e
 - Fixed missing callbacks errors just being printed instead of thrown.
   - Refs: Probably [`1f40b2a`](https://github.com/nodejs/node/commit/1f40b2a63616efe0e4c0744a1f630161526e4236)
 - On Unix soft `ulimit` values are ignored.
-  - Refs: [`6820054`](https://github.com/nodejs/node/commit/6820054d2d42ff9274ea0755bea59cfc4f26f353), [joyent/node#8704](https://github.com/joyent/node/issues/8704)
+  - Refs: [`6820054`](https://github.com/nodejs/node/commit/6820054d2d42ff9274ea0755bea59cfc4f26f353), [nodejs/node-v0.x-archive#8704](https://github.com/nodejs/node-v0.x-archive/issues/8704)
 - Errors for async `fs` operations are now thrown if a callback is not present.
   - Refs: [`a804347`](https://github.com/nodejs/node/commit/a80434736bce22a9ac00376bb5786806752ef3dd), [`6bd8b7e`](https://github.com/nodejs/node/commit/6bd8b7e5405e1cdc9f56214f5f6b741806c32e5f), [`5e140b3`](https://github.com/nodejs/node/commit/5e140b33e58bd0ac6779fb0cb635dd51e1a27289)
 - The error messages of most `fs` errors have been improved to be more descriptive and useful.
@@ -150,12 +150,12 @@ It is suggested you avoid using domains if possible and rather rely on regular e
   - Refs: [`06cc919`](https://github.com/nodejs/io.js/commit/06cc919a0cd41380a83e4ea699f1a9ea30881266), [#1617](https://github.com/nodejs/io.js/pull/1617)
 - `http.OutgoingMessage.prototype.flush()` has been deprecated in favor of the new [`flushHeaders()`](https://iojs.org/api/http.html#http_request_flushheaders) method. The behavior remains the same.
   - Note: these methods reside on **both** the common http `request` and `response` objects.
-  - Refs: [`b2e00e3`](https://github.com/nodejs/node/commit/b2e00e38dcac23cf564636e8fad880829489286c), [`joyent/node@89f3c90`](https://github.com/joyent/node/commit/89f3c9037faf19eb32c464b2e02a0a9191156c36)
+  - Refs: [`b2e00e3`](https://github.com/nodejs/node/commit/b2e00e38dcac23cf564636e8fad880829489286c), [`nodejs/node@89f3c90`](https://github.com/nodejs/node/commit/89f3c9037faf19eb32c464b2e02a0a9191156c36)
 - [`http.OutgoingMessage.prototype.write()`](https://iojs.org/api/http.html#http_response_write_chunk_encoding_callback) will now emit an error on the `OutgoingMessage` (`response`) object if it has been called after [`end()`](https://iojs.org/api/http.html#http_response_end_data_encoding_callback).
   - Refs: [`64d6de9`](https://github.com/nodejs/node/commit/64d6de9f34abe63bf7602ab0b55ff268cf480e45)
 - [`http.request()`](https://iojs.org/api/http.html#http_http_request_options_callback) and [`http.get()`](https://iojs.org/api/http.html#http_http_get_options_callback) wrongly decode multi-byte string characters as `'binary'`.
   - Notes: This bug still exists in 4.0.0.
-  - Refs: [#2114](https://github.com/nodejs/node/issues/2114), [joyent/node#25634 (comment)](https://github.com/joyent/node/issues/25634#issuecomment-118970793)
+  - Refs: [#2114](https://github.com/nodejs/node/issues/2114), [nodejs/node-v0.x-archive#25634 (comment)](https://github.com/nodejs/node-v0.x-archive/issues/25634#issuecomment-118970793)
 - `http.request()` and `http.get()` now throw a TypeError if the requested path contains illegal characters. (Currently only `' '`).
   - Refs: [`7124387`](https://github.com/nodejs/node/commit/7124387b3414c41533078f14a84446e2e0a6ff95)
 - `http.request()` and `http.get()` no longer accept non-ascii characters in the header fields or path.
@@ -247,7 +247,7 @@ On node 0.12+ this produces:
 
 This can be a subtle porting issue for multi-process node environments which care
 about signals (such as test harnesses).  This change was introduced by
-[`c61b0e9`—`main: Handle SIGINT properly`](https://github.com/joyent/node/commit/c61b0e9cbc748c5e90fc5e25e4fb490b4104cae3).
+[`c61b0e9`—`main: Handle SIGINT properly`](https://github.com/nodejs/node/commit/c61b0e9cbc748c5e90fc5e25e4fb490b4104cae3).
 
 ### querystring
 
@@ -262,7 +262,7 @@ about signals (such as test harnesses).  This change was introduced by
 
 `smalloc` was a core module in 0.12 and io.js <3.0.0 for doing (external) raw memory allocation/deallocation/copying in JavaScript.
 
-`smalloc` was removed in io.js 3.0.0, as the required v8 APIs were removed. `smalloc` used to be used in the buffer implementation, however buffers are now built ontop of TypedArrays (Specifically Uint8Array).
+`smalloc` was removed in io.js 3.0.0, as the required v8 APIs were removed. `smalloc` used to be used in the buffer implementation, however buffers are now built on top of TypedArrays (Specifically Uint8Array).
 
 ### stream
 
@@ -276,7 +276,7 @@ unnoticed by the majority of stream consumers and implementers.
 #### Readable Streams
 
 The distinction between "flowing" and "non-flowing" modes has been refined. Entering "flowing" mode is
-no longer an irreversible operation&mdash;it is possible to return to "non-flowing" mode from "flowing" mode.
+no longer an irreversible operation -- it is possible to return to "non-flowing" mode from "flowing" mode.
 Additionally, the two modes now flow through the same machinery instead of replacing methods. Any time
 data is returned as a result of a [`.read()`](https://iojs.org/api/stream.html#stream_readable_read_size) call that data will *also* be emitted on the [`'data'`](https://iojs.org/api/stream.html#stream_event_data) event.
 
@@ -308,9 +308,9 @@ For a detailed overview of how streams3 interact, [see this diagram](https://clo
   - Mutating the array returned will have no effect as `getBuffer()` constructs it from the linked list. However modifying one of the array's element's `.next` property will effect the list.
   - Refs: [`9158666`](https://github.com/nodejs/node/commit/91586661c983f45d650644451df73c8649a8d459)
 - `WritableStream.prototype._write()` now gets called with `'buffer'` encoding when chunk is a `Buffer`.
-  - Refs: [joyent/node#6119](https://github.com/joyent/node/issues/6119)
+  - Refs: [nodejs/node-v0.x-archive#6119](https://github.com/nodejs/node-v0.x-archive/issues/6119)
 - Writable streams now emit `'finish'` on the next tick if there was a `write()` when finishing.  
-  - Refs: [joyent/node#6118](https://github.com/joyent/node/issues/6118)
+  - Refs: [nodejs/node-v0.x-archive#6118](https://github.com/nodejs/node-v0.x-archive/issues/6118)
 
 #### Transform Streams
 
@@ -341,7 +341,7 @@ As of 1.0.0 the `sys` module is deprecated. It is advised to use the [`util`](ht
 
 [[Doc](https://iojs.org/api/tls.html)]
 
-- The [tls server option `SNICallback`](https://iojs.org/api/tls.html#tls_tls_createserver_options_secureconnectionlistener) required returning a `secureContext` synchronously as `function (hostname) { return secureContext; }`. The function signature is now asyncronous as `function (hostname, cb) { cb(null, secureContext); }`. You can feature detect with `'function' === typeof cb`.
+- The [tls server option `SNICallback`](https://iojs.org/api/tls.html#tls_tls_createserver_options_secureconnectionlistener) required returning a `secureContext` synchronously as `function (hostname) { return secureContext; }`. The function signature is now asynchronous as `function (hostname, cb) { cb(null, secureContext); }`. You can feature detect with `'function' === typeof cb`.
   - Refs: [`048e0e7`](https://github.com/nodejs/node/commit/048e0e77e0c341407ecea364cbe26c8f77be48b8)
 - The [tls server option `dhparam`](https://iojs.org/api/tls.html#tls_tls_createserver_options_secureconnectionlistener) must now have a key length greater than 1024 bits, or else it will throw an error.
   - This is effectively a security fix. Please see https://weakdh.org/ for more information.
@@ -494,7 +494,7 @@ Also, the version of npm that ships with node.js v4.0.0+ has had it's `node-gyp`
 ### zlib
 [[Repo](https://github.com/madler/zlib)]
 
-[`1.2.8 --> 1.2.8`](https://github.com/nodejs/node/commits/master/deps/zlib) + [`59ad4b0...a80b977`](https://github.com/nodejs/node/compare/59ad4b0...a80b977)
+[`1.2.3 --> 1.2.8`](https://github.com/nodejs/node/commits/master/deps/zlib) + [`59ad4b0...a80b977`](https://github.com/nodejs/node/compare/59ad4b0...a80b977)
 
 ### V8
 [`v3.14.5.9 --> v4.5.x`](https://github.com/nodejs/node/commits/master/deps/v8) + floating patches
