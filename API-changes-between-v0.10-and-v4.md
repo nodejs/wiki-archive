@@ -334,7 +334,7 @@ As of 1.0.0 the `sys` module is deprecated. It is advised to use the [`util`](ht
   - This may effect your performance profile.
   - It is strongly advised you do not attempt to use `_unrefActive()` as it will probably be hidden in the future.
   - Refs: [`f46ad01`](https://github.com/nodejs/node/commit/f46ad012bc5a40194242ea1e9669c9cc25bd7047)
-- Timer globals (i.e. `setTimeout()`) are no longer lazy-loaded.
+- Timer globals (e.g. `setTimeout()`) are no longer lazy-loaded.
   - Refs: [`2903410`](https://github.com/nodejs/node/commit/2903410aa8)
 
 ### tls
