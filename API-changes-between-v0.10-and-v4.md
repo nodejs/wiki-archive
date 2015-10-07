@@ -198,7 +198,8 @@ It is suggested you avoid using domains if possible and rather rely on regular e
   - Before the process emits [`'exit'`](https://iojs.org/api/process.html#process_event_exit) and begins shutting down, it will emit a [`'beforeExit'`](https://iojs.org/api/process.html#process_event_beforeexit) event. Code that is run in the `'beforeExit'` event can schedule async operations that will hold the event loop open, unlike `'exit'` where it is too late to async operations.
   - Refs: [`a2eeb43`](https://github.com/nodejs/node/commit/a2eeb43deda58e7bbb8fcf24b934157992b937c0)
 - Chunked writes to sdtout/stderr will now be lost if the process is terminated early.
-  - Chunked writes happen when the string to be written is beyond a certain, fairly large, size.
+  - Chunked writes happen when the string to be written is beyond a certain, fairly large, size. (Usually 8192 bytes.)
+  - This becomes a problem if you are terminating your process early via `process.exit()`, which is not suggested.
   - Refs: [#784](https://github.com/nodejs/node/issues/784), [#1771](https://github.com/nodejs/node/pull/1771)
 - [`process.kill()`](https://iojs.org/api/process.html#process_process_kill_pid_signal) now throws errors on non-numeric input.
   - Strings that can be coerced to numbers still work. e.g. `process.kill('0')`.
