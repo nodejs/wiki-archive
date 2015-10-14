@@ -1,0 +1,3 @@
+* **Q:** I'm experiencing reliability/memory spiking issues on a low-memory system, what's going on?
+
+  **A:** By default, `--max_old_space_size` (which controls the upper limit of the V8 heap) is ~1.5GB. If your system has less memory than that, you will need to explicitly set this option to the appropriate amount of memory available to that process. For example, `--max_old_space_size=128` will allow 128MB for that process.
