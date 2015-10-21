@@ -4,7 +4,7 @@
 
 ### assert
 
-[[Docs](https://iojs.org/api/assert.html)]
+[[Docs](https://nodejs.org/api/assert.html)]
 
 - [`assert.deepEqual()`](https://iojs.org/api/assert.html#assert_assert_deepequal_actual_expected_message) no longer checks for `prototype` equality.
   - [`assert.deepStrictEqual()`](https://iojs.org/api/assert.html#assert_assert_deepstrictequal_actual_expected_message) was introduced to deal with some former expectations about `deepEqual()` which were not true.
@@ -12,7 +12,7 @@
 
 ### buffer
 
-[[Docs](https://iojs.org/api/buffer.html)]
+[[Docs](https://nodejs.org/api/buffer.html)]
 
 - External memory is now allocated using [TypedArrays](https://developer.mozilla.org/en/docs/Web/JavaScript/Typed_arrays), instead of using `SlowBuffer` or `smalloc` as the parent backing.
   - Refs: [`63da0df`](https://github.com/nodejs/node/commit/63da0dfd3a4460e117240e84b57af2137469497e)
@@ -44,7 +44,7 @@ Implementation changes in V8 have caused subtle impacts how buffers work with en
 
 ### child_process
 
-[[Docs](https://iojs.org/api/child_process.html)]
+[[Docs](https://nodejs.org/api/child_process.html)]
 
 - [`ChildProcess.prototype.send()`](https://iojs.org/api/child_process.html#child_process_child_send_message_sendhandle) is now always asynchronous, where previously it was blocking on Unix.
   - Pull request [#2620](https://github.com/nodejs/node/pull/2620), which should land before 4.0.0, will make `send()` accept a callback as the last argument, which will be called with one argument: `null` if it succeeded, or an `Error` if it failed.
@@ -56,7 +56,7 @@ Implementation changes in V8 have caused subtle impacts how buffers work with en
 
 ### cluster
 
-[[Docs](https://iojs.org/api/cluster.html)]
+[[Docs](https://nodejs.org/api/cluster.html)]
 
 - Cluster now uses round-robin load balancing by default on non-Windows platforms. The scheduling policy is configurable by setting [`cluster.schedulingPolicy`](https://iojs.org/api/cluster.html#cluster_cluster_schedulingpolicy).
     - It is advised that you do not use round-robin balancing on Windows as it is very inefficient.
@@ -71,7 +71,7 @@ Implementation changes in V8 have caused subtle impacts how buffers work with en
 
 ### crypto
 
-[[Docs](https://iojs.org/api/crypto.html)]
+[[Docs](https://nodejs.org/api/crypto.html)]
 
 - [`crypto.randomBytes()`](https://iojs.org/api/crypto.html#crypto_crypto_randombytes_size_callback) now blocks if there is insufficient entropy.
   - Although it blocks, it should normally never take longer than a few milliseconds.
@@ -82,7 +82,7 @@ Implementation changes in V8 have caused subtle impacts how buffers work with en
 
 ### dgram
 
-[[Docs](https://iojs.org/api/dgram.html)]
+[[Docs](https://nodejs.org/api/dgram.html)]
 
 - [`dgram.Socket.prototype.send()`](https://iojs.org/api/dgram.html#dgram_socket_send_buf_offset_length_port_address_callback) error semantics have changed.
   - Through 2.x, the the dgram `socket.send()` method emitted errors when a DNS lookup failed, even when a callback was provided. Starting from 3.0.0, if a callback is provided, no error event will be emitted.
@@ -92,7 +92,7 @@ Implementation changes in V8 have caused subtle impacts how buffers work with en
 
 ### domain
 
-[[Docs](https://iojs.org/api/domain.html)]
+[[Docs](https://nodejs.org/api/domain.html)]
 
 The domain module [has been scheduled for deprecation](https://iojs.org/api/domain.html#domain_domain), awaiting an alternative for those who absolutely **need** domains.
 
@@ -104,7 +104,7 @@ It is suggested you avoid using domains if possible and rather rely on regular e
 
 ### events
 
-[[Docs](https://iojs.org/api/events.html)]
+[[Docs](https://nodejs.org/api/events.html)]
 
 - [`EventEmitter.listenerCount()`](https://iojs.org/api/events.html#events_class_method_eventemitter_listenercount_emitter_event) is now deprecated in favor of `EventEmitter.prototype.listenerCount()`.
   - Refs: [`8f58fb9`](https://github.com/nodejs/node/commit/8f58fb92fff904a6ca58fd0df9ee5a1816e5b84e)
@@ -116,7 +116,7 @@ It is suggested you avoid using domains if possible and rather rely on regular e
 
 ### fs
 
-[[Docs](https://iojs.org/api/fs.html)]
+[[Docs](https://nodejs.org/api/fs.html)]
 
 - [`fs.createReadStream()`](https://iojs.org/api/fs.html#fs_fs_createreadstream_path_options) and [`fs.createWriteStream()`](https://iojs.org/api/fs.html#fs_fs_createwritestream_path_options) now have stricter type-checking for the `options` argument.
   - Refs: [`353e26e`](https://github.com/nodejs/node/commit/353e26e3c7)
@@ -135,7 +135,7 @@ It is suggested you avoid using domains if possible and rather rely on regular e
 
 ### http
 
-[[Docs](https://iojs.org/api/http.html)]
+[[Docs](https://nodejs.org/api/http.html)]
 
 -  http server timing change (Use `'finish'` instead of `'prefinish'` when ending a response)
   - When doing HTTP pipelining of requests, the server creates new request and response objects for each incoming HTTP request on the socket. Starting from 3.0.0, these objects are now created a couple of ticks later, when we are certainly done processing the previous request. This could change the observable timing with certain HTTP server coding patterns.
@@ -164,7 +164,7 @@ It is suggested you avoid using domains if possible and rather rely on regular e
 
 ### net
 
-[[Docs](https://iojs.org/api/net.html)]
+[[Docs](https://nodejs.org/api/net.html)]
 
 - [`net.Server.prototype.address()`]() now also returns a `{ address: '/path/to/socket' }` object, like it does for TCP and UDP sockets.
   - Previously it returned `socket._pipeName` directly for unix sockets.
@@ -174,7 +174,7 @@ It is suggested you avoid using domains if possible and rather rely on regular e
 
 ### os
 
-[[Docs](https://iojs.org/api/os.html)]
+[[Docs](https://nodejs.org/api/os.html)]
 
 - [`os.tmpdir()`](https://iojs.org/api/os.html#os_os_tmpdir) now never returns a trailing slash regardless of the host platform.
   - Refs: [`bb97b70`](https://github.com/iojs/io.js/commit/bb97b70eb709b0e0470a5164b3722c292859618a), [#747](https://github.com/iojs/io.js/pull/747)
@@ -183,7 +183,7 @@ It is suggested you avoid using domains if possible and rather rely on regular e
 
 ### path
 
-[[Docs](https://iojs.org/api/path.html)]
+[[Docs](https://nodejs.org/api/path.html)]
 
 - [`path.isAbsolute()`](https://iojs.org/api/path.html#path_path_isabsolute_path) will now always return a boolean, even on windows.
   - Refs: [`20229d6`](https://github.com/nodejs/node/commit/20229d6896ce4b802a0789b1d2643dcac55bebb9)
@@ -192,7 +192,7 @@ It is suggested you avoid using domains if possible and rather rely on regular e
 
 ### process
 
-[[Docs](https://iojs.org/api/process.html)]
+[[Docs](https://nodejs.org/api/process.html)]
 
 - Added the concept of `beforeExit` time.
   - Before the process emits [`'exit'`](https://iojs.org/api/process.html#process_event_exit) and begins shutting down, it will emit a [`'beforeExit'`](https://iojs.org/api/process.html#process_event_beforeexit) event. Code that is run in the `'beforeExit'` event can schedule async operations that will hold the event loop open, unlike `'exit'` where it is too late to async operations.
@@ -252,7 +252,7 @@ about signals (such as test harnesses).  This change was introduced by
 
 ### querystring
 
-[[Docs](https://iojs.org/api/querystring.html)]
+[[Docs](https://nodejs.org/api/querystring.html)]
 
 - querystring's `stringifyPrimitive()` now stringifies numbers correctly.
   - Refs: [`c9aec2b`](https://github.com/nodejs/node/commit/c9aec2b7167a08dc88141fbe3be1c498f8c5b061)
@@ -267,7 +267,7 @@ about signals (such as test harnesses).  This change was introduced by
 
 ### stream
 
-[[Docs](https://iojs.org/api/stream.html)]
+[[Docs](https://nodejs.org/api/stream.html)]
 
 The changes to streams are not as drastic as the transition from streams1 to streams2: they are a
 refinement of existing ideas, and should make the API slightly less surprising for humans and faster
@@ -324,7 +324,7 @@ As of 1.0.0 the `sys` module is deprecated. It is advised to use the [`util`](ht
 
 ### timers
 
-[[Docs](https://iojs.org/api/timers.html)]
+[[Docs](https://nodejs.org/api/timers.html)]
 
 - Updated [`setImmediate()`](https://iojs.org/api/timers.html#timers_setimmediate_callback_arg) to process the full queue each turn of the event loop, instead of one per queue.
   - It is suggested you use `setImmediate()` over `process.nextTick()`. `setImmediate()` likely does what you are hoping for (a more efficient `setTimeout(..., 0)`), and runs after this tick's I/O. `process.nextTick()` does not actually run in the "next" tick anymore and will block I/O as if it were a synchronous operation.
@@ -340,7 +340,7 @@ As of 1.0.0 the `sys` module is deprecated. It is advised to use the [`util`](ht
 
 ### tls
 
-[[Doc](https://iojs.org/api/tls.html)]
+[[Doc](https://nodejs.org/api/tls.html)]
 
 - The [tls server option `SNICallback`](https://iojs.org/api/tls.html#tls_tls_createserver_options_secureconnectionlistener) required returning a `secureContext` synchronously as `function (hostname) { return secureContext; }`. The function signature is now asynchronous as `function (hostname, cb) { cb(null, secureContext); }`. You can feature detect with `'function' === typeof cb`.
   - Refs: [`048e0e7`](https://github.com/nodejs/node/commit/048e0e77e0c341407ecea364cbe26c8f77be48b8)
@@ -361,7 +361,7 @@ As of 1.0.0 the `sys` module is deprecated. It is advised to use the [`util`](ht
 
 ### url
 
-[[Docs](https://iojs.org/api/url.html)]
+[[Docs](https://nodejs.org/api/url.html)]
 
 - [`url.parse()`](https://iojs.org/api/url.html#url_url_parse_urlstr_parsequerystring_slashesdenotehost) will now always return a query object and search string, even if they are empty, when `parseQueryString` (the second argument) is set to `true`.
   - e.g. a `url.parse(..., true)` return value will now include `{ search: '', query: {} }` where previously both properties would not exist.
@@ -383,7 +383,7 @@ As of 1.0.0 the `sys` module is deprecated. It is advised to use the [`util`](ht
 
 ### util
 
-[[Docs](https://iojs.org/api/util.html)]
+[[Docs](https://nodejs.org/api/util.html)]
 
 - `util.is*()` (`isArray()` ... `isUndefined()`) type-checking functions were added in 0.12 but are scheduled for deprecation. Please use user-land solutions instead.
   - The type checking these use will be come brittle with the eventual addition of `Symbol.toStringTag`.
@@ -407,7 +407,7 @@ As of 1.0.0 the `sys` module is deprecated. It is advised to use the [`util`](ht
 
 ### vm
 
-[[Docs](https://iojs.org/api/vm.html)]
+[[Docs](https://nodejs.org/api/vm.html)]
 
 - The `vm` module has been rewritten to work better, based on the excellent [Contextify](https://github.com/brianmcd/contextify) native module. All of the functionality of Contextify is now in core, with improvements!
   - Refs: [`7afdba6`](https://github.com/nodejs/node/commit/7afdba6e0bc3b69c2bf5fdbd59f938ac8f7a64c5)
