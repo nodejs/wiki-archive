@@ -151,6 +151,8 @@ It is suggested you avoid using domains if possible and rather rely on regular e
 - `http.OutgoingMessage.prototype.flush()` has been deprecated in favor of the new [`flushHeaders()`](https://iojs.org/api/http.html#http_request_flushheaders) method. The behavior remains the same.
   - Note: these methods reside on **both** the common http `request` and `response` objects.
   - Refs: [`b2e00e3`](https://github.com/nodejs/node/commit/b2e00e38dcac23cf564636e8fad880829489286c), [`nodejs/node@89f3c90`](https://github.com/nodejs/node/commit/89f3c9037faf19eb32c464b2e02a0a9191156c36)
+- [`http.OutgoingMessage.prototype.setHeader()`](https://iojs.org/api/http.html#http_response_setheader_name_value) will now throw an error if it the second argument is undefined.
+  - Refs: [`979d0ca`](https://github.com/nodejs/node/commit/979d0ca874df0383311ca06f154f6965074196ee)
 - [`http.OutgoingMessage.prototype.write()`](https://iojs.org/api/http.html#http_response_write_chunk_encoding_callback) will now emit an error on the `OutgoingMessage` (`response`) object if it has been called after [`end()`](https://iojs.org/api/http.html#http_response_end_data_encoding_callback).
   - Refs: [`64d6de9`](https://github.com/nodejs/node/commit/64d6de9f34abe63bf7602ab0b55ff268cf480e45)
 - [`http.request()`](https://iojs.org/api/http.html#http_http_request_options_callback) and [`http.get()`](https://iojs.org/api/http.html#http_http_get_options_callback) wrongly decode multi-byte string characters as `'binary'`.
