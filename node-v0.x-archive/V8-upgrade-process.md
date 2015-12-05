@@ -9,7 +9,7 @@ This document aims at describing what needs to be done when upgrading the versio
 V8 has two (at least, maybe more) Git repositories:
 
 1. The reference repository at https://chromium.googlesource.com/v8/v8.git.
-2. A mirror on GitHub at https://github.com/v8/v8-git-mirror/.
+2. A mirror on GitHub at https://github.com/v8/v8/.
 
 While using the GitHub mirror may seem more convenient, it lacks some important data such as `remotes/branch-heads/*` branches that help to determine what is the current stable version for a given release cycle.
 
