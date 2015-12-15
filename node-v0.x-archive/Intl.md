@@ -214,3 +214,23 @@ Note that `node.js` builds statically by default.
 * 21M `./configure --ninja --with-intl=small-icu --download=all` *this is how v0.11.16 ships*
  * ("side" data file is 25M)
 * 44M `./configure --ninja --with-intl=full-icu --download=all` *but this could be reduced in the future, see:* [#8979](https://github.com/joyent/node/issues/8979)
+
+## Q: How do the pieces fit together? / How do I know who is responsible for the bug?
+
+This is how the different pieces fit together to provide `Intl` support.
+
+* Node.js
+ * `configure`  / `vcbuild.bat` options for choosing ICU options
+* v8
+ * receives ICU options
+ * Implements `Intl` object (where?) and other functions
+ * calls into ICU
+* ICU4C
+ * implements `NumberFormat`, etc functions. Locale Data sourced from CLDR
+ * implements normalization etc from Unicode data
+* CLDR
+ * source of locale data (i.e. how do you spell Tuesday in Spanish)
+* Unicode
+ * source of UCA (root/DUCET) collation
+ * source of normalization data
+ * source of character encoding
