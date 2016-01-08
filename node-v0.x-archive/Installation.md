@@ -142,7 +142,7 @@ export CXX=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xc
 
 `vcbuild.bat clean`     : Clean Project
 
-You need to have Microsoft Visual Studio 2012/2010 (Express edition is fine) as well as Python 2.6/2.7.  Openssl is not required. Make sure that python is in your PATH.
+You need to have Microsoft Visual Studio 2013/2015 (Express edition is fine) as well as Python 2.7.  Openssl is not required. Make sure that python is in your PATH.
 
 Below is a example of what building node.js will be like in 64-bit debug mode.
 ```
@@ -202,6 +202,7 @@ C:\_GIT\node\Build\Debug\node.exe
 The executable will be in `Build\Debug\node.exe`.
 
 For running tests, more dependencies are needed. The following executables must be in the path: `cat`, `curl`, `grep`, `head`, `openssl`, `sed` and `sleep`. These can be acquired by:
+  * Installing [Git for Windows](https://git-scm.com/download/win), and selecting `Use Git and optional Unix tools from the Windows Command Prompt` during installation;
   * Downloading the binaries from http://gnuwin32.sourceforge.net/packages.html and curl from http://curl.haxx.se/download.html#Win32 (make sure they are in the PATH) ;
   * Installing [Gow](https://github.com/bmatzelle/gow) and expect `test-http-curl-chunk-problem` to fail because of missing `openssl` ;
   * Installing [Cygwin](https://www.cygwin.com/) and run the tests from there ;
