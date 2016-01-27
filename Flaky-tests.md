@@ -1,4 +1,4 @@
-Flaky tests are - generally speaking - tests that fail intermittently. This can happen if there is an underlying bug that only happens intermittently. Or it could also happen if a test is timing-dependent and affected by environmental conditions (e.g. the speed of the machine running the test).
+Flaky tests are tests that fail intermittently. This can happen if there is an underlying bug that only happens intermittently. Or it could also happen if a test is timing-dependent and affected by environmental conditions such as the speed of the machine running the test.
 
 Flaky tests should be fixed to be made non-flaky. Usually this means fixing the underlying bug, or changing the test so that it doesn’t depend on timing.
 
