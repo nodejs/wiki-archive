@@ -1,6 +1,6 @@
 ## Node.js community wiki
 ![Node.js logo](https://nodejs.org/images/logos/nodejs.png)
-* [Website](http://varien.com.ua/)
+* [Website](https://nodejs.org/)
 * [About](https://nodejs.org/en/about/)
 * [Downloads](https://nodejs.org/en/download/)
 * [Docs](https://nodejs.org/en/docs/)
