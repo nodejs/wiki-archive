@@ -3,14 +3,14 @@ A wiki page to summarise the latest happenings at: https://github.com/nodejs/nod
 
 ## Specification
 
-### Glossary
+Glossary:
 
 - CJS Module System refers to CJS `require` and `module.exports` / `exports`
 - ES Module System refers to ES6 `import` and `export`
 - CJS Modules are considered files that use CJS's Module System exclusively
 - ES Modules are considered files that use ES6's Module System exclusively
 
-### Requirements
+Requirements:
 
 - Ability for CJS Module System to load both CJS Modules and ES Modules
 - Ability for ES Module System to load both CJS Modules and ES Modules
@@ -20,12 +20,12 @@ A wiki page to summarise the latest happenings at: https://github.com/nodejs/nod
 
 ## Questions
 
-### Open Questions
+Open Questions:
 
 - Is there any plans to support files that use both module systems (aka CJS+ES Modules)?
 - `How can node identify whether a file is a CJS module or an ES6 module?` why does it even need to do this?
 
-### Closed Questions
+Closed Questions:
 
 - ...
 
