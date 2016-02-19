@@ -5,8 +5,8 @@ A wiki page to summarise the latest happenings at: https://github.com/nodejs/nod
 
 Glossary:
 
-- CJS Module System refers to CJS `require` and `module.exports` / `exports`
-- ES Module System refers to ES6 `import` and `export`
+- CJS Module System refers to CJS's `require` and `module.exports` / `exports`
+- ES Module System refers to ES6's `import` and `export`
 - CJS Modules are considered files that use CJS's Module System exclusively
 - ES Modules are considered files that use ES6's Module System exclusively
 
