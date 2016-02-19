@@ -3,13 +3,19 @@ A wiki page to summarise the latest happenings at: https://github.com/nodejs/nod
 
 ## Specification
 
-### Constraints
+### Glossary
 
-- ability for `require()` to load ES6 modules
-- ability for `import` to load CJS modules
-- ability to require another package without knowing what language it's implemented in
-- ability to mix ES6 and CJS in the same package (for gradual migration)
-- ability to provide both ES6 and CJS versions of same module for multi-Node compatibility
+- CJS Module System refers to CJS `require` and `module.exports` / `exports`
+- ES Module System refers to ES6 `import` and `export`
+- CJS Modules are considered files that use CJS's Module System exclusively
+- ES Modules are considered files that use ES6's Module System exclusively
+
+### Requirements
+
+- Ability for CJS Module System to load both CJS Modules and ES Modules
+- Ability for ES Module System to load both CJS Modules and ES Modules
+- Ability to require another package without knowing which module system it uses
+- Ability to publish and require packages that have files of both ES Modules and CJS Modules
 
 
 ## Questions
