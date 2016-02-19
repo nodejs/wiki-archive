@@ -64,7 +64,7 @@ See [[Installing Node.js via package manager]] for more information.
 
 ## Building on Linux
 
-There's a number of ways to install Node.js on Linux, instructions for installing Node.js on specific Linux distributions using a package manager can be found at: [Installing Node.js via package manager](https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager). Note, in order to find the latest stable version of Node.js one can go to [here](http://nodejs.org/dist/latest/). 
+There's a number of ways to install Node.js on Linux, instructions for installing Node.js on specific Linux distributions using a package manager can be found at: [Installing Node.js via package manager](https://github.com/nodejs/node/wiki/Installing-Node.js-via-package-manager). Note, in order to find the latest stable version of Node.js one can go to [here](http://nodejs.org/dist/latest/). 
 
 The file names vary with the Node's version. The following examples are for Node v0.12.7.
 
@@ -89,7 +89,7 @@ cd node-v0.12.7
 Or, if you'd like to install from the repository
 
 ```sh
-git clone https://github.com/joyent/node.git
+git clone https://github.com/nodejs/node.git
 cd node
 git checkout v0.12.7 #Try checking nodejs.org for what the stable version is
 ./configure && make && sudo make install
@@ -120,7 +120,7 @@ Xcode: Preferences->Downloads install Command Line Tools<br />
 
 1. Download node.js src code
 ```
-git clone https://github.com/joyent/node.git
+git clone https://github.com/nodejs/node.git
 cd node
 git checkout v0.8.2
 ```
