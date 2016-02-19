@@ -18,21 +18,22 @@ Requirements:
 - Ability to publish and require packages that have files of both ES Modules and CJS Modules
 
 
-## Questions
+## FAQ
 
-Open Questions:
+### Is there any plans to support files that use both module systems (aka CJS+ES Modules)?
 
-- Is there any plans to support files that use both module systems (aka CJS+ES Modules)?
-- `How can node identify whether a file is a CJS module or an ES6 module?` why does it even need to do this?
-
-Closed Questions:
-
-- ...
+Still open.
 
 
-## Detection Problem
+### `How can node identify whether a file is a CJS module or an ES6 module?` why does it even need to do this?
 
-How can node identify whether a file is a CJS module or an ES6 module?
+Still open.
+
+
+
+## Detection Options
+
+This section serves to address the available methods for addressing  the question "How can node identify whether a file is a CJS module or an ES6 module?"
 
 ### Option 1: In-Source Pragma
 
@@ -66,7 +67,7 @@ best-case success story is that .jsm becomes the new extension for JS, which is 
 - Many have already solved this problem without requiring a new extension
 
 
-### Option 3; Content-Sniffing in Node Semantics
+### Option 3: Content-Sniffing in Node Semantics
 
 Details: Engines providing a way to detect the type by inspection of the code.
 
