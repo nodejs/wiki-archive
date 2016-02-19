@@ -20,6 +20,10 @@ Requirements:
 
 ## FAQ
 
+### Why support ES Modules in node at all?
+
+Still unclear.
+
 ### Should the ES Module System be able to import specific files, e.g. `import thing from 'package/lib/thing.js'`
 
 Still unclear.
