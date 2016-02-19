@@ -31,13 +31,14 @@ Still open.
 
 
 
-## Detection Options
+## Detection Problem
 
 This section serves to address the available methods for addressing  the question "How can node identify whether a file is a CJS module or an ES6 module?"
 
+
 ### Option 1: In-Source Pragma
 
-Details: This option will require users to add "use module"; or something similar at the top of every file.
+Details: This option will require users to add `"use module";` or something similar at the top of every file.
 
 Cons:
 
@@ -47,7 +48,7 @@ Cons:
 
 ### Option 2: New file extension for ES6 Modules
 
-Details: This option will require users to use .jsm or something similar as the file extension for any ES6 module.
+Details: This option will require users to use .jsm or something similar as the file extension for any ES6 module. Likely to be used exclusively (will break older node versions) or to be used coupled with a .js file (e.g. `project/hello.js` and `project/hello.jsm` both exist, doing `require('project/hello')` will prefer .jsm file if it exists otherwise will use .js file).
 
 Cons:
 
@@ -61,7 +62,8 @@ hard to estimate how many things in the world depend on JavaScript === *.js; how
 - It is a refactor hazard for popular modules containing more than one file, it will break existing dependents that are using .js extension in their require calls (e.g.: `require('foo/bar.js')`)
 
 - Combinatorial explosion of JS extensions like .jsx and .ts (e.g.: how to signal that it is a module with typescript annotations?)
-best-case success story is that .jsm becomes the new extension for JS, which is a loss; plausible story is that modules end up sometimes in .js and sometimes in .jsm
+
+- Best-case success story is that .jsm becomes the new extension for JS, which is a loss; plausible story is that modules end up sometimes in .js and sometimes in .jsm
 
 - Node shouldn't presume to solve a problem for other tools
 - Many have already solved this problem without requiring a new extension
@@ -78,9 +80,7 @@ Cons:
 - Likely hurt the performance of importing
 
 
-### Option 4: Meta in `package.json`
-
-#### Single Entry Point
+### Option 4: Meta in `package.json`: Single Entry Point
 
 Details: `package.json` can have main and module to signal where are the entry points for CJS and ES6 Module.
 
@@ -106,4 +106,3 @@ Cons:
 - Hard to detect the type of other files in the package without extra hinting or extra resolution process (e.g. `require('foo/lib/something.js')`)
 
 - Node allows to require arbitrary files without requiring a package.json in place (another very edge case)
-
