@@ -38,6 +38,10 @@ Currently unclear.
 
 This section serves to address the available methods for addressing  the question "How can node identify whether a file is a CJS module or an ES6 module?"
 
+References:
+
+- https://github.com/nodejs/node-eps/pull/3#issuecomment-184466200
+- https://github.com/nodejs/node-eps/pull/3#issuecomment-184368922
 
 ### Option 1: In-Source Pragma
 
@@ -71,6 +75,10 @@ hard to estimate how many things in the world depend on JavaScript === *.js; how
 - Node shouldn't presume to solve a problem for other tools
 - Many have already solved this problem without requiring a new extension
 
+References:
+
+- https://github.com/nodejs/node-eps/pull/3#issuecomment-184901008
+
 
 ### Option 3: Content-Sniffing in Node Semantics
 
@@ -82,10 +90,20 @@ Cons:
 - Implementing this is non-trivial
 - Likely hurt the performance of importing
 
+References
 
-### Option 4: Meta in `package.json`: Single Entry Point
+- https://github.com/nodejs/node-eps/pull/3#issuecomment-184847011
 
-Details: `package.json` can have main and module to signal where are the entry points for CJS and ES6 Module.
+### Option 4: Meta in `package.json`
+
+Cons:
+
+- Node allows requiring files that are not part of packages, e.g. `require('C:/a.js')` where `C:/package.json` doesn't exist - another very edge case
+
+
+#### Option 4a: Single Module Entry Point
+
+Details: `package.json` has a `"main"` for CJS Module entry and `"module"` for ES6 Module entry.
 
 ``` javascript
 {
@@ -106,6 +124,133 @@ Pros:
 
 Cons:
 
-- Hard to detect the type of other files in the package without extra hinting or extra resolution process (e.g. `require('foo/lib/something.js')`)
+- Requires external method for specifying Module System of non-entry points, e.g. `require('lib/something-else.js')` - which kind of defeats the purpose of this option
 
-- Node allows to require arbitrary files without requiring a package.json in place (another very edge case)
+
+#### Option 4b: Modules Listing
+
+Details: `package.json` has a `modules` property that is an array of files or directories that use ES Modules.
+
+``` javascript
+{
+  // ...
+  // files:
+  "modules": ["lib/hello.js", "bin/hello.js"],
+
+  // directories:
+  "modules": ["lib", "bin"],
+
+  // files and directories:
+  "modules": ["lib", "bin", "special.js"],
+
+  // if package never uses CJS Modules
+  "modules": ["."],
+}
+```
+
+Pros:
+
+- Solves requiring an ES Module that was not the entry point
+
+Notes:
+
+- Requires external solution for determining the entry point
+
+Updates:
+
+- Updated this proposal from the original files only regex approach, to an array of files and directories as it is cleaner, doesn't require regex knowledge, _and can actually be serialised to JSON!_ ~ @balupton
+
+References:
+
+- https://github.com/nodejs/node-eps/pull/3#issuecomment-184363319
+- https://github.com/nodejs/node-eps/pull/3#issuecomment-184885213
+
+
+#### Option 4c: Edition Listing
+
+Details: `package.json` has a `"editions"` property that lists which editions the package contains, and what their syntaxes are.
+
+``` javascript
+{
+  "editions": [{
+    // source that contains special features that get compiled away
+    "syntax": ["ESNext", "ES Modules", "Flow Type", "JSX"],
+    "entry": "source/index.js"
+  }, {
+    // compiled for future browser and node support, only has confirmed upcoming ES features
+    "syntax": ["ESNext", "ES Modules"],
+    "entry": "esnext-esm/index.js"
+  }, {
+    // compiled for current browsers and node 0.12, 4, and 5 support
+    "syntax": ["ES2015", "ES Modules"],
+    "entry": "es2015-esm/index.js"
+  }, {
+    // compiled for current browsers and node 0.12, 4, and 5 support
+    // uses babel-plugin-add-module-exports package to convert ES Modules to CJS Modules
+    "syntax": ["ES2015", "CJS Modules"],
+    "entry": "es2015-cjs/index.js"
+  }, {
+    // compiled with babel preset 2015-loose for node 0.10 and IE8 support without need for external es2015 polyfills
+    // uses babel-plugin-add-module-exports package to convert ES Modules to CJS Modules
+    "syntax": ["ES5", "CJS Modules"],
+    "entry": "es5-cjs/index.js"
+  }]
+}
+```
+
+Pros:
+
+- Entry point is selected by which edition the current environment supports, rather than just which edition uses ES Modules or CJS Modules (which may still make use of a feature that is not currently supported by the environment)
+
+- For systems that only support `"main"` entry point, the package author can specify `"main"` to go to either to:
+
+  - The ES2015 & CJS Module edition, e.g. `"main": "es2015-cjs/index.js"`
+  - To a CJS Module script that automatically detects the correct edition to load
+
+- Allows future node-core, parsers, bundlers, and compilers to intelligently decide which edition they can support either by built-in support into themselves, or via a `"main"` script that does the same detection
+
+- Allow meta generators like [projectz](https://github.com/bevry/projectz) to automatically generate README documentation on which editions the package provides
+
+- Solves the problem of bundlers like rollup, browserify, webpack re-compiling already compiled ES5 or ES2015 editions rather than the latest edition that is supported by that system and compiling down to the desired target
+
+Notes:
+
+- Requires external method for specifying Module System of non-entry points, e.g. `require('lib/something-else.js')`, however this is easily solved by any of these:
+  - Adding a `"directory"` property to each direction, which would work well, however no way to use ES Modules outside of edition directories
+
+  - Coupling with any other proposal.
+  - E.g. Coupling with the Modules Listing Proposal would work well and wouldn't require additional tooling or compiler updates, e.g.
+  
+    ``` javascript
+    {
+      "modules": ["source", "esnext-esm", "es2015-esm", "non-edition-file.js"],
+      "editions": [ /* ... */ ]
+    }
+    ```
+
+  - E.g. Coupling with the JSM Extension Proposal would allow for the `-esm` and `-cjs` prefixes to go away, as each edition would support both CJS Modules and ES Modules:
+
+    ``` javascript
+    {
+      "editions": [{
+        // source that contains special features that get compiled away
+        "syntax": ["ESNext", "Flow Type", "JSX"],
+        "entry": "source/index.js"
+      }, {
+        // compiled for future browser and node support, only has confirmed upcoming ES features
+        // uses some babel plugin package to also output .jsm files along with the .js files
+        "syntax": ["ESNext"],
+        "entry": "esnext/index"
+      }, {
+        // compiled for current browsers and node 0.12, 4, and 5 support
+        // uses some babel plugin package to also output .jsm files along with the .js files
+        "syntax": ["ES2015"],
+        "entry": "es2015/index"
+      }, {
+        // compiled with babel preset 2015-loose for node 0.10 and IE8 support without need for external es2015 polyfills
+        // uses some babel plugin package to also output .jsm files along with the .js files
+        "syntax": ["ES5"],
+        "entry": "es5-cjs/index"
+      }]
+    }
+    ```
