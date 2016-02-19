@@ -20,14 +20,17 @@ Requirements:
 
 ## FAQ
 
+### Should the ES Module System be able to import specific files, e.g. `import thing from 'package/lib/thing.js'`
+
+Currently unclear.
+
 ### Is there any plans to support files that use both module systems (aka CJS+ES Modules)?
 
-Still open.
-
+Currently unclear.
 
 ### `How can node identify whether a file is a CJS module or an ES6 module?` why does it even need to do this?
 
-Still open.
+Currently unclear.
 
 
 
