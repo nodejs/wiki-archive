@@ -34,6 +34,10 @@ Still unclear.
 
 ### `How can node identify whether a file is a CJS module or an ES6 module?` why does it even need to do this?
 
+Why does there need to be two modes? Why can't there be a single file mode? Why can't every file be assumed to support both formats?
+
+If it is constrained that import/require is interoperable between CJS and ES6, what does it take for export/module.exports to also be interoperable?
+
 Still unclear.
 
 Attempted questions on this:
