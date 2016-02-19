@@ -254,3 +254,7 @@ Notes:
       }]
     }
     ```
+
+References:
+
+- https://github.com/nodejs/node-eps/pull/3#issuecomment-185592052
