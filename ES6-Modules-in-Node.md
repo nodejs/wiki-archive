@@ -30,8 +30,6 @@ Still unclear.
 
 ### `How can node identify whether a file is a CJS module or an ES6 module?` why does it even need to do this?
 
-Can't the loader just support prepare module formats for the file and load it...
-
 Still unclear.
 
 Attempted questions on this:
