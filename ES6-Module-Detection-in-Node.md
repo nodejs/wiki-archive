@@ -101,8 +101,9 @@ Pros:
 
 Cons:
 
-- Large distributed migration cost imposed on tools and consequently developers for a number of years; obstacle to adoption
-hard to estimate how many things in the world depend on JavaScript === *.js; how many .htaccess files, config files, scripts, etc. break?
+- **BIG:** migration cost imposed on tools and developers; 
+hard to estimate how many things in the world depend on JavaScript === *.js; how many .htaccess files, config files, scripts, etc. break? Possible obstacle to adoption?
+   - note that file extensions continue to arise, just like how tools are able to easily use `.jsx`
 
 - ~~It's solved in the browser by out-of-band configuration (`<script type="module">` and loader hooks to control the detection in users-land)~~ (browsers do not have interop and loader hooks are not specified)
 
