@@ -63,6 +63,10 @@ References:
 - https://github.com/nodejs/node-eps/pull/3#issuecomment-184466200
 - https://github.com/nodejs/node-eps/pull/3#issuecomment-184368922
 
+Note
+- These forces distinction on source files programmers haven't had to before.
+- Different start non-terminals or contextual expectations haven't led to needing detection in the past. However, the Module goal causes ambiguity in source code like `function v() {}` which we need to resolve prior to execution.
+
 ### Option 1: In-Source Pragma (REJECTED)
 
 Details: This option will require users to add `"use module";` or something similar at the top of every file.
@@ -82,6 +86,13 @@ Cons:
 
 Details: This option will require users to use .jsm or something similar as the file extension for any ES6 module. Likely to be used exclusively (will break older node versions) or to be used coupled with a .js file (e.g. `project/hello.js` and `project/hello.jsm` both exist, doing `require('project/hello')` will prefer .jsm file if it exists otherwise will use .js file).
 
+Notes:
+
+- Best-case success story is that .jsm becomes the new extension for JS Module goal. (removed hearsay / browsers do not check file extension / all current VMs only target Script goal)
+
+- Node shouldn't presume to solve a problem for other tools
+  - front-end toolchains and devs have discussed this as desirable, this is not purely node's opinion
+
 Pros:
 
 - Explicit
@@ -90,23 +101,16 @@ Pros:
 
 Cons:
 
-- ~~ Forces distinction on source files programmers haven't had to before (different start non-terminals or contextual expectations haven't led to different extensions in the past) ~~ (true for all of these, unclear why attached here CC: @balupton)
-
-- ~~ It's solved in the browser by out-of-band configuration (`<script type="module">` and loader hooks to control the detection in users-land) ~~ (browsers do not have interop and loader hooks are not specified)
-
 - Large distributed migration cost imposed on tools and consequently developers for a number of years; obstacle to adoption
 hard to estimate how many things in the world depend on JavaScript === *.js; how many .htaccess files, config files, scripts, etc. break?
 
-- ~~ It is a refactor hazard for popular modules containing more than one file, it will break existing dependents that are using .js extension in their require calls (e.g.: `require('foo/bar.js')`) ~~ (most likely irrelevant, see [discussion about banning inner imports](https://github.com/nodejs/node-eps/issues/11))
+- ~~It's solved in the browser by out-of-band configuration (`<script type="module">` and loader hooks to control the detection in users-land)~~ (browsers do not have interop and loader hooks are not specified)
 
-- ~~ Combinatorial explosion of JS extensions like .jsx and .ts (e.g.: how to signal that it is a module with typescript annotations?) ~~ As stated in original PR this is not a language extension. Also mitigated by the other con regarding script like .htaccess files. Seen as a slippery slope argument.
+- ~~It is a refactor hazard for popular modules containing more than one file, it will break existing dependents that are using .js extension in their require calls (e.g.: `require('foo/bar.js')`)~~ Most likely irrelevant as same hazard applies to all of these if mode is ambiguous (such as `./bar.js` switching based upon out of band meta-data), see [discussion about banning inner imports](https://github.com/nodejs/node-eps/issues/11)
 
-- ~~ Best-case success story is that .jsm becomes the new extension for JS, which is a loss; plausible story is that modules end up sometimes in .js and sometimes in .jsm ~~ (hearsay / browsers do not check file extension / all current VMs only target Script goal)
+- ~~Combinatorial explosion of JS extensions like .jsx and .ts (e.g.: how to signal that it is a module with typescript annotations?)~~ As stated in original PR comments this is not a language extension. Also mitigated by the other con regarding script like .htaccess files. Seen as a slippery slope argument.
 
-- Node shouldn't presume to solve a problem for other tools
-  - front-end tools and devs have discussed this as desirable
-
-- ~~Many have already solved this problem without requiring a new extension .~~ (Not a con, a statement)
+- ~~Many have already solved this problem without requiring a new extension~~ Not a con, a statement
 
 References:
 
@@ -119,7 +123,7 @@ Details: Engines providing a way to detect the type by inspection of the code.
 
 Pros:
 
-- Least visible impact on ecosystem
+- Least visible impact on ecosystem, does not affect `package.json` or scripts using `*.js`
 
 Cons:
 
@@ -134,6 +138,10 @@ References
 - https://github.com/nodejs/node-eps/pull/3#issuecomment-184847011
 
 ### Option 4: Meta in `package.json`
+
+Universal Pros:
+
+- Does not affect scripts using `*.js`
 
 Universal Cons:
 
@@ -163,6 +171,7 @@ Note: `"module"` seems like a better option than our previous proposal `"jsnext:
 
 Pros:
 
+- [package.json [pros](https://github.com/nodejs/node/wiki/ES6-Module-Detection-in-Node#option-4-meta-in-packagejson)
 - Harmonizes with `<script type="module">`
 - Allows simultaneous new and old entry point
 - Replaces `"main"` (which eventually becomes "the old way") with an ergonomic standard way
@@ -195,6 +204,7 @@ Details: `package.json` has a `modules` property that is an array of files or di
 
 Pros:
 
+- [package.json [pros](https://github.com/nodejs/node/wiki/ES6-Module-Detection-in-Node#option-4-meta-in-packagejson)
 - Solves requiring an ES Module that was not the entry point
 
 Cons:
@@ -249,6 +259,7 @@ Details: `package.json` has a `"editions"` property that lists which editions th
 
 Pros:
 
+- [package.json [pros](https://github.com/nodejs/node/wiki/ES6-Module-Detection-in-Node#option-4-meta-in-packagejson)
 - Entry point is selected by which edition the current environment supports, rather than just which edition uses ES Modules or CJS Modules (which may still make use of a feature that is not currently supported by the environment)
 
 - For systems that only support `"main"` entry point, the package author can specify `"main"` to go to either to:
