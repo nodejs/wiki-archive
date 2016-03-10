@@ -24,23 +24,23 @@ Requirements:
 
 ### Why support ES Modules in node at all?
 
-Still unclear.
+Spec compliance, some new syntax is being made exclusively for module parser goal, change to remove deprecated / problematic behaviors, and ease of tooling.
 
-### Should/will the ES Module System be able to import specific files, e.g. `import thing from 'package/lib/thing.js'`
+### Will the ES Module System be able to import specific files, e.g. `import thing from 'package/lib/thing.js'`
 
-Still unclear.
+[See proposal](https://github.com/bmeck/node-eps/blob/es6-module/002-es6-modules.md#es-import-path-resolution)
 
 ### Is there any plans to support files that use both module systems (aka CJS+ES Modules)?
 
-Still unclear.
+[See proposal](https://github.com/bmeck/node-eps/blob/es6-module/002-es6-modules.md#shipping-both-es-and-cjs)
 
 ### `How can node identify whether a file is a CJS module or an ES6 module?` why does it even need to do this?
 
-Why does there need to be two modes? Why can't there be a single file mode? Why can't every file be assumed to support both formats?
+Because they have different parses in the EcmaScript specification, and the same ambiguous source code can have different global side effects depending upon that.
 
-If it is constrained that import/require is interoperable between CJS and ES6, what does it take for export/module.exports to also be interoperable?
+### If it is constrained that import/require is interoperable between CJS and ES6, what does it take for export/module.exports to also be interoperable?
 
-Still unclear.
+[See proposal](https://github.com/bmeck/node-eps/blob/es6-module/002-es6-modules.md#es-consuming-commonjs)
 
 Attempted questions on this:
 
@@ -54,7 +54,6 @@ Attempted answers:
 - https://github.com/nodejs/node-eps/pull/3#issuecomment-185514226
 - https://github.com/nodejs/node-eps/pull/3#issuecomment-185523778
 
-
 ## Detection Problem
 
 This section serves to address the available methods for addressing  the question "How can node identify whether a file is a CJS module or an ES6 module?"
@@ -64,52 +63,71 @@ References:
 - https://github.com/nodejs/node-eps/pull/3#issuecomment-184466200
 - https://github.com/nodejs/node-eps/pull/3#issuecomment-184368922
 
-### Option 1: In-Source Pragma
+### Option 1: In-Source Pragma (REJECTED)
 
 Details: This option will require users to add `"use module";` or something similar at the top of every file.
 
+Prose:
+
+- Explicit
+
 Cons:
 
-- Unacceptable boilerplate tax on users _(this seems to be a very strong reason)_
+- Unacceptable boilerplate tax on users _(this seems to be a very strong reason)_ (cause of rejection)
 - Implementers will have a hard time implementing a double parser considering that modules source text and javascript source text are parsed differently.
+- Would require toolchains to have a full JS parser due to how directives work in the EcmaScript spec (ASI / comments / multiple directives). (cause of rejection)
 
 
 ### Option 2: New file extension for ES6 Modules
 
 Details: This option will require users to use .jsm or something similar as the file extension for any ES6 module. Likely to be used exclusively (will break older node versions) or to be used coupled with a .js file (e.g. `project/hello.js` and `project/hello.jsm` both exist, doing `require('project/hello')` will prefer .jsm file if it exists otherwise will use .js file).
 
+Pros:
+
+- Explicit
+- Self contained files still
+- Easy for toolchains to recognize (in particular ones like nvm that can't even parse JSON).
+
 Cons:
 
-- Forces distinction on source files programmers haven't had to before (different start non-terminals or contextual expectations haven't led to different extensions in the past)
+- ~~ Forces distinction on source files programmers haven't had to before (different start non-terminals or contextual expectations haven't led to different extensions in the past) ~~ (true for all of these, unclear why attached here CC: @balupton)
 
-- It's solved in the browser by out-of-band configuration (`<script type="module">` and loader hooks to control the detection in users-land)
+- ~~ It's solved in the browser by out-of-band configuration (`<script type="module">` and loader hooks to control the detection in users-land) ~~ (browsers do not have interop and loader hooks are not specified)
 
 - Large distributed migration cost imposed on tools and consequently developers for a number of years; obstacle to adoption
 hard to estimate how many things in the world depend on JavaScript === *.js; how many .htaccess files, config files, scripts, etc. break?
 
-- It is a refactor hazard for popular modules containing more than one file, it will break existing dependents that are using .js extension in their require calls (e.g.: `require('foo/bar.js')`)
+- ~~ It is a refactor hazard for popular modules containing more than one file, it will break existing dependents that are using .js extension in their require calls (e.g.: `require('foo/bar.js')`) ~~ (most likely irrelevant, see [discussion about banning inner imports](https://github.com/nodejs/node-eps/issues/11))
 
-- Combinatorial explosion of JS extensions like .jsx and .ts (e.g.: how to signal that it is a module with typescript annotations?)
+- ~~ Combinatorial explosion of JS extensions like .jsx and .ts (e.g.: how to signal that it is a module with typescript annotations?) ~~ As stated in original PR this is not a language extension. Also mitigated by the other con regarding script like .htaccess files. Seen as a slippery slope argument.
 
-- Best-case success story is that .jsm becomes the new extension for JS, which is a loss; plausible story is that modules end up sometimes in .js and sometimes in .jsm
+- ~~ Best-case success story is that .jsm becomes the new extension for JS, which is a loss; plausible story is that modules end up sometimes in .js and sometimes in .jsm ~~ (hearsay / browsers do not check file extension / all current VMs only target Script goal)
 
 - Node shouldn't presume to solve a problem for other tools
-- Many have already solved this problem without requiring a new extension
+  - front-end tools and devs have discussed this as desirable
+
+- ~~Many have already solved this problem without requiring a new extension .~~ (Not a con, a statement)
 
 References:
 
 - https://github.com/nodejs/node-eps/pull/3#issuecomment-184901008
 
 
-### Option 3: Content-Sniffing in Node Semantics
+### Option 3: Content-Sniffing in Node Semantics (REJECTED)
 
 Details: Engines providing a way to detect the type by inspection of the code.
 
+Pros:
+
+- Least visible impact on ecosystem
+
 Cons:
 
+- Hard to determine file mode for large files if they barely use a feature that causes a mode switch. (cause of rejection)
 - Implementers unlikely to implement a parsing API that auto-detects the mode _(this is a very strong reason)_
 - Implementing this is non-trivial
 - Likely hurt the performance of importing
+- Ambiguity causes potential implicit semantic changes (cause of rejection)
 
 References
 
@@ -117,12 +135,18 @@ References
 
 ### Option 4: Meta in `package.json`
 
-Cons:
+Universal Cons:
 
-- Node allows requiring files that are not part of packages, e.g. `require('C:/a.js')` where `C:/package.json` doesn't exist - another very edge case
+- Node allows requiring files that are not part of packages, e.g. `require('C:/a.js')` where `C:/package.json` doesn't exist 
+- Will persist in perpetuity and have hints of previous Script goal
+    - mitigated it `npm init` defaults to move all of module to Module goal somehow
+- Causes tooling to need to perform JSON parsing per module resolution
+    - mitigated by cache
+    - many cli tools don't have JSON parsing
+- File semantics are no longer self contained to the file
+    - File mode is unknown without reading a file located, somewhere (developer must search).
 
-
-#### Option 4a: Single Module Entry Point
+#### Option 4a: Single Module Entry Point (REJECTED)
 
 Details: `package.json` has a `"main"` for CJS Module entry and `"module"` for ES6 Module entry.
 
@@ -145,7 +169,7 @@ Pros:
 
 Cons:
 
-- Requires external method for specifying Module System of non-entry points, e.g. `require('lib/something-else.js')` - which kind of defeats the purpose of this option
+- Requires external method for specifying Module System of non-entry points, e.g. `require('lib/something-else.js')` - which kind of defeats the purpose of this option (cause of rejection)
 
 
 #### Option 4b: Modules Listing
@@ -172,6 +196,10 @@ Details: `package.json` has a `modules` property that is an array of files or di
 Pros:
 
 - Solves requiring an ES Module that was not the entry point
+
+Cons:
+
+- No path to completely forget about Script target, these globs would stay in `package.json` forever.
 
 Notes:
 
@@ -233,6 +261,11 @@ Pros:
 - Allow meta generators like [projectz](https://github.com/bevry/projectz) to automatically generate README documentation on which editions the package provides
 
 - Solves the problem of bundlers like rollup, browserify, webpack re-compiling already compiled ES5 or ES2015 editions rather than the latest edition that is supported by that system and compiling down to the desired target
+
+Cons:
+
+- EXTREMELY HIGH COMPLEXITY if you don't have a build tool
+- path to exponential explosion due to ease of extending
 
 Notes:
 
