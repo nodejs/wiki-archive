@@ -169,8 +169,8 @@ Pros:
 
 Cons:
 
-- Requires external method for specifying Module System of non-entry points, e.g. `require('lib/something-else.js')` - which kind of defeats the purpose of this option (cause of rejection)
-
+- [package.json cons](https://github.com/nodejs/node/wiki/ES6-Module-Detection-in-Node#option-4-meta-in-packagejson)
+- Requires external method for specifying Module System of non-entry points, e.g. `require('lib/something-else.js')` - which kind of defeats the purpose of this option. See other options under 4 that specify this. (cause of rejection)
 
 #### Option 4b: Modules Listing
 
@@ -199,7 +199,7 @@ Pros:
 
 Cons:
 
-- No path to completely forget about Script target, these globs would stay in `package.json` forever.
+- [package.json cons](https://github.com/nodejs/node/wiki/ES6-Module-Detection-in-Node#option-4-meta-in-packagejson)
 
 Notes:
 
@@ -264,6 +264,7 @@ Pros:
 
 Cons:
 
+- [package.json cons](https://github.com/nodejs/node/wiki/ES6-Module-Detection-in-Node#option-4-meta-in-packagejson)
 - EXTREMELY HIGH COMPLEXITY if you don't have a build tool
 - path to exponential explosion due to ease of extending
 
