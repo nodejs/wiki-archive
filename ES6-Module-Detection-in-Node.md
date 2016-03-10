@@ -139,7 +139,7 @@ Universal Cons:
 
 - Node allows requiring files that are not part of packages, e.g. `require('C:/a.js')` where `C:/package.json` doesn't exist 
 - Will persist in perpetuity and have hints of previous Script goal
-    - mitigated it `npm init` defaults to move all of module to Module goal somehow
+    - mitigated if `npm init` defaults to move all of module to Module goal somehow
 - Causes tooling to need to perform JSON parsing per module resolution
     - mitigated by cache
     - many cli tools don't have JSON parsing
