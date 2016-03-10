@@ -1,4 +1,6 @@
-A wiki page to summarise the latest happenings at: https://github.com/nodejs/node-eps/pull/3
+A wiki page to summarise the proposals around detecting ES6 Modules in Node <br/>
+Current Discussion: https://github.com/nodejs/node-eps/issues/13 <br/>
+Previous Discussion: https://github.com/nodejs/node-eps/pull/3
 
 
 ## Specification
