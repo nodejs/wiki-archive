@@ -2,7 +2,7 @@
 
 When editing this page please be as detailed as possible.
 
-For older breaking changes, please see [v4 to v5](https://github.com/nodejs/node/wiki/Breaking-changes-between-v4-and-v5)
+For older breaking changes, please see our [v4 to v5](https://github.com/nodejs/node/wiki/Breaking-changes-between-v4-and-v5) page.
 
 _89 commits were tagged `semver-major`._
 
