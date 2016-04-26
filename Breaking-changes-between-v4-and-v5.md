@@ -2,7 +2,7 @@
 
 ### When editing this page please be as detailed as possible.
 
-For older breaking changes, please see [v0.10 to v4](https://github.com/nodejs/node/wiki/API-changes-between-v0.10-and-v4)
+For older breaking changes, please see our [v0.10 to v4](https://github.com/nodejs/node/wiki/API-changes-between-v0.10-and-v4) page.
 
 ## By Subsystem
 
