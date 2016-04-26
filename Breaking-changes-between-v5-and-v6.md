@@ -339,7 +339,7 @@ dns.reverse('8.8.4.4', (err, result) => {
 
 [[Docs](https://nodejs.org/dist/latest-v6.x/docs/api/zlib.html)]
 
-- The `'close'` event from zlib instances no longer emits on synchronous calls.
+- The `close` event from zlib instances no longer emits on synchronous calls.
   - This only effects all `*Sync()` methods.
   - Refs: [`8b43d3f52d`](https://github.com/nodejs/node/commit/8b43d3f52d), [#5707](https://github.com/nodejs/node/pull/5707)
 - Gzip trailing garbage after a gzip stream is no longer discarded and now throws an error instead.
