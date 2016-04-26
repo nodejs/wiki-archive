@@ -395,7 +395,7 @@ dns.reverse('8.8.4.4', (err, result) => {
 
 ## Dependencies
 
-- Shared c-acres builds are now supported once again.
+- Shared c-ares builds are now supported once again.
   - Refs: [`2253be95d0`](https://github.com/nodejs/node/commit/2253be95d0), [#5775](https://github.com/nodejs/node/pull/5775)
 - V8 has been upgraded to 5.0.71.32 + floating patches.
   - Refs: [deps/v8](https://github.com/nodejs/node/commits/master/deps/v8)
