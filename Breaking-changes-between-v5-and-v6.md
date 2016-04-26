@@ -2,6 +2,8 @@
 
 When editing this page please be as detailed as possible.
 
+For older breaking changes, please see [v4 to v5](https://github.com/nodejs/node/wiki/Breaking-changes-between-v4-and-v5)
+
 _89 commits were tagged `semver-major`._
 
 **Note to readers**: `#` is synonymous with `.prototype.`, and indicates the property is available on instances of that class.
