@@ -1,7 +1,14 @@
 A wiki page to summarise the proposals around detecting ES6 Modules in Node <br/>
+
+NOTE PROPOSAL WAS MERGED AS DRAFT: 
+
+* merged: https://github.com/nodejs/node-eps/blob/master/002-es6-modules.md
+* counter-proposal: https://github.com/dherman/defense-of-dot-js
+
+# THE FOLLOWING IS LEGACY DECISION MAKING, PLEASE REFER TO LINKS ABOVE
+
 Current Discussion: https://github.com/nodejs/node-eps/issues/13 <br/>
 Previous Discussion: https://github.com/nodejs/node-eps/pull/3
-
 
 ## Specification
 
