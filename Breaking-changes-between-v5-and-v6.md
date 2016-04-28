@@ -200,10 +200,9 @@ dns.reverse('8.8.4.4', (err, result) => {
 - [`net.createServer()`](https://nodejs.org/dist/latest-v6.x/docs/api/net.html#net_net_createserver_options_connectionlistener) now throws if a supplied `options` argument is not an object.
   - It is still possible to only supply a connectionListener callback.
   - Refs: [`a78b3344f8`](https://github.com/nodejs/node/commit/a78b3344f8), [#2904](https://github.com/nodejs/node/pull/2904)
-- The DNS hints `V4MAPPED` and
-`ADDRCONFIG DNS` are no longer set by default.
-  - If your platform needs these, you can now more accurately set them via the new `hints` bitwise flag option for [`Socket#connect()`](https://nodejs.org/dist/latest-v6.x/docs/api/net.html#net_socket_connect_options_connectlistener).
-  - Refs: [`b85a50b6da`](https://github.com/nodejs/node/commit/b85a50b6da), [#6021](https://github.com/nodejs/node/pull/6021)
+- The `V4MAPPED` DNS hint is no longer set by default. However, the `ADDRCONFIG` is still set.
+  - If your platform needs to set hints, you can now use the new `hints` bitwise flag option for [`Socket#connect()`](https://nodejs.org/dist/latest-v6.x/docs/api/net.html#net_socket_connect_options_connectlistener).
+  - Refs: [`b85a50b6da`](https://github.com/nodejs/node/commit/b85a50b6da), [`54dd7c38e5`](https://github.com/nodejs/node/commit/54dd7c38e5), [#6021](https://github.com/nodejs/node/pull/6021)
 
 ### path
 
