@@ -78,7 +78,7 @@ Example: `Object#toString()` is equivalent to `Object.prototype.toString()`.
 
 [[Docs](https://nodejs.org/dist/latest-v6.x/docs/api/dgram.html)]
 
-- If there is no error when calling [`Socket#send()`](https://nodejs.org/dist/latest-v6.x/docs/api/dgram.html#dgram_socket_send_msg_offset_length_port_address_callback), the callback's `error` paramenter will now once again be `null`, rather than `0`.
+- If there is no error when calling [`Socket#send()`](https://nodejs.org/dist/latest-v6.x/docs/api/dgram.html#dgram_socket_send_msg_offset_length_port_address_callback), the callback's `error` parameter will now once again be `null`, rather than `0`.
   - This is how it was prior to [`c9fd9e2`](https://github.com/nodejs/node/commit/c9fd9e2162) in io.js 1.0.0.
   - Refs: [`4bc1cccb22`](https://github.com/nodejs/node/commit/4bc1cccb22), [#5929](https://github.com/nodejs/node/pull/5929)
 
