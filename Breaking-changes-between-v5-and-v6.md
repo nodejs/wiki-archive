@@ -16,7 +16,7 @@ Example: `Object#toString()` is equivalent to `Object.prototype.toString()`.
 
 [[Docs](https://nodejs.org/dist/latest-v6.x/docs/api/buffer.html)]
 
-- Deprecated [`new Buffer()`](https://nodejs.org/dist/latest-v6.x/docs/api/buffer.html#buffer_new_buffer_array) in favor of a few [newly added Buffer APIs: `Buffer.from()`, `Buffer.alloc()` and `Buffer.allocUnsafe()](https://nodejs.org/dist/latest-v6.x/docs/api/buffer.html#buffer_buffer_from_buffer_alloc_and_buffer_allocunsafe)`.
+- Deprecated [`new Buffer()`](https://nodejs.org/dist/latest-v6.x/docs/api/buffer.html#buffer_new_buffer_array) in favor of a few [newly added Buffer APIs: `Buffer.from()`, `Buffer.alloc()` and `Buffer.allocUnsafe()`](https://nodejs.org/dist/latest-v6.x/docs/api/buffer.html#buffer_buffer_from_buffer_alloc_and_buffer_allocunsafe).
   - Refs: [`85ab4a5f12`](https://github.com/nodejs/node/commit/85ab4a5f12), [#4682](https://github.com/nodejs/node/pull/4682)
 - Removed the previously deprecated `Buffer#write(string, encoding, offset, length)`.
   - [`Buffer#write()`](https://nodejs.org/dist/latest-v6.x/docs/api/buffer.html#buffer_buf_write_string_offset_length_encoding) remains with all other call signatures, such as `Buffer#write(string[, encoding])`.
