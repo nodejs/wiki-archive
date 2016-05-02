@@ -301,7 +301,7 @@ dns.reverse('8.8.4.4', (err, result) => {
 
 [[Docs](https://nodejs.org/dist/latest-v6.x/docs/api/url.html)]
 
-- [`url.resolve()`](https://nodejs.org/dist/latest-v6.x/docs/api/url.html#url_url_resolve_from_to) now drops auth information of the host changes.
+- [`url.resolve()`](https://nodejs.org/dist/latest-v6.x/docs/api/url.html#url_url_resolve_from_to) now drops auth information if the host changes.
   - This is a security measure to help ensure authentication credentials are not leaked.
   - Refs: [`eb4201f07a`](https://github.com/nodejs/node/commit/eb4201f07a), [#1480](https://github.com/nodejs/node/pull/1480)
 
