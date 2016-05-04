@@ -126,9 +126,9 @@ dns.reverse('8.8.4.4', (err, result) => {
   - Now, if the port is outside the range of 0-65535, a `TypeError` will be thrown.
   - Refs: [`f3be421c1c`](https://github.com/nodejs/node/commit/f3be421c1c), [#4883](https://github.com/nodejs/node/pull/4883)
 
-### domains
+### domain
 
-[[Docs](https://nodejs.org/dist/latest-v6.x/docs/api/domains.html)]
+[[Docs](https://nodejs.org/dist/latest-v6.x/docs/api/domain.html)]
 
 - Domains no longer assign their context to other error handling code when there is no domain `'error'` event handler.
   - Previously, this was only the case if the `'error'` event from the domain was handled.
