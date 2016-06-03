@@ -426,6 +426,8 @@ h2. UTC-5 (-4)
 ** "Twitter":http://twitter.com/trevorburnham, "Github":http://github.com/TrevorBurnham, "Website":http://trevorburnham.com
 * Dylan Greene (dylang), Washington, DC
 ** "Twitter":http://twitter.com/dylang, "Github":http://github.com/dylang
+* Gustavo Henrique, Rio de Janeiro, RJ, Brazil
+** "Github":http://github.com/gustavohenrique,  "Twitter":http://twitter.com/gustavohenriq
 * Humberto Pereira, Campo Grande, MS, Brazil
 ** "Github":http://github.com/begnini,  "Twitter":http://twitter.com/begnini
 * Rodrigo Alves Vieira, Recife, PE, Brazil
