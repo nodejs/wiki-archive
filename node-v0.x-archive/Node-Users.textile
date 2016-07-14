@@ -929,7 +929,7 @@ h2. UTC+2 (+3)
 * Alexandru Topliceanu, Bucharest, Romania
 ** "GitHub":https://github.com/topliceanu, "Twitter":http://twitter.com/topliceanu, "Website":http://alexandrutopliceanu.ro
 * Hasan Arous, Damascus, Syria
-** "GitHub":https://github.com/aularon,"Twitter":https://twitter.com/aularon,"Website":http://www.lastown.com/
+** "GitHub":https://github.com/aularon,"Twitter":https://twitter.com/aularon,"Website":http://www.etabits.com/
 * Declan de Wet (declandewet), Johannesburg, South Africa
 ** "GitHub":http://github.com/declandewet, "Twitter":http://twitter.com/declanjdewet
 * Hameed Gamal, Cairo, Egypt
