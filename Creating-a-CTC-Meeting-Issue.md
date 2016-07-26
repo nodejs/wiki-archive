@@ -24,5 +24,5 @@
 * Label `ctc-meeting`
 * Copy agenda into Google Doc
 * Copy invited to present in Google Doc
-* Set up STandUp in Google Doc
+* Set up StandUp in Google Doc
 
