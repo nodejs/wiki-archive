@@ -61,7 +61,7 @@ Example: `Object#toString()` is equivalent to `Object.prototype.toString()`.
   - Refs: [`41feaa89e0`](https://github.com/nodejs/node/commit/41feaa89e0), [#3100](https://github.com/nodejs/node/pull/3100), [`1d9451bb5a`](https://github.com/nodejs/node/commit/1d9451bb5a), [#6042](https://github.com/nodejs/node/pull/6042)
 - Native OpenSSL Symbols are now exported correctly on Windows.
   - This can cause compile errors for addons that were previously working around the missing symbols.
-  - Refs: [`b4d4fd939c`](https://github.com/nodejs/node/commit/b4d4fd939c813177209fc6a2f32a3a125122de7c), [#](https://github.com/nodejs/node/pull/6274)
+  - Refs: [`b4d4fd939c`](https://github.com/nodejs/node/commit/b4d4fd939c813177209fc6a2f32a3a125122de7c), [#6274](https://github.com/nodejs/node/pull/6274)
 - `require('crypto')` now throws if node has been built without crypto support.
   - Also happens for `require('tls')`, and `require('https')`.
   - Refs: [`f429fe1b88`](https://github.com/nodejs/node/commit/f429fe1b88), [#5611](https://github.com/nodejs/node/pull/5611)
