@@ -12,9 +12,9 @@
 # Every Week
 
 * Go to the previous week's Google Doc
-* * File -> Make A Copy
-* * Check Share it with same people box
-* * Fix the title of the doc
+  * File -> Make A Copy
+  * Check Share it with same people box
+  * Fix the title of the doc
 * Fix the date and the links in the new doc
 * Remove Present and Standup
 * Move Agenda to Previous Meeting
