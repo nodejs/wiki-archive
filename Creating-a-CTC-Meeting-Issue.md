@@ -25,4 +25,5 @@
 * Copy agenda into Google Doc
 * Copy invited to present in Google Doc
 * Set up StandUp in Google Doc
+* Update `GitHub Issue` link near top of the Google Doc
 
