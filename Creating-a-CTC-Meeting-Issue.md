@@ -18,7 +18,8 @@
 * Fix the date and the links in the new doc
 * Remove Present and Standup
 * Move Agenda to Previous Meeting
-* Delete Minutes
+* Delete Minutes and Q/A
+* Update Upcoming Meetings (at least minimally)
 * `make-node-meeting ctc`
 * Copy and paste in new issue
 * Label `ctc-meeting`
