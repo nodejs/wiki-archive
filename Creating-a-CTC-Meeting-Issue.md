@@ -20,6 +20,7 @@
 * Move Agenda to Previous Meeting
 * Delete Minutes and Q/A
 * Update Upcoming Meetings (at least minimally)
+* Update meeting time in `~/.make-node-meeting/ctc.sh`
 * `make-node-meeting ctc`
 * Copy and paste in new issue
 * Label `ctc-meeting`
