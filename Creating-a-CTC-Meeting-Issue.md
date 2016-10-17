@@ -15,7 +15,7 @@
   * File -> Make A Copy
   * Check Share it with same people box
   * Fix the title of the doc
-* Fix the date and the links in the new doc
+* Fix the date in the new doc
 * Remove Present and Standup
 * Move Agenda to Previous Meeting
 * Delete Minutes and Q/A
@@ -27,5 +27,5 @@
 * Copy agenda into Google Doc
 * Copy invited to present in Google Doc
 * Set up StandUp in Google Doc
-* Update `GitHub Issue` link near top of the Google Doc
+* Update minutes and issue under Links at top of Google Doc
 
