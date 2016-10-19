@@ -32,3 +32,7 @@ Node.js is a JavaScript runtime built on [Chrome's V8 JavaScript engine](https:/
 * [[From v4 to v5|Breaking-changes-between-v4-and-v5]]
 * [[From v5 to v6|Breaking-changes-between-v5-and-v6]]
 * [[Between io.js versions|Breaking Changes]]
+
+### Breaking Changes between LTS versions
+
+* [[From v4 LTS to v6 LTS|Breaking-changes-between-v4-LTS-and-v6-LTS]]
