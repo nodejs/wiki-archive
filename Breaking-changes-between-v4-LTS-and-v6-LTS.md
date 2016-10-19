@@ -4,8 +4,6 @@ When editing this page please be as detailed as possible.
 
 For breaking changes in other versions, please see our [list of breaking changes per version](https://github.com/nodejs/node/wiki#apibreaking-changes).
 
-For breaking changes between other version, please see [this Node.js wiki list](https://github.com/nodejs/node/wiki#apibreaking-changes).
-
 **Note to readers**: `#` is synonymous with `.prototype.`, and indicates the property is available on instances of that class.
 Example: `Object#toString()` is equivalent to `Object.prototype.toString()`.
 
