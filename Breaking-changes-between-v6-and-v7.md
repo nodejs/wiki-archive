@@ -224,7 +224,7 @@ Now: `The trailer content contains invalid characters`
 
 [[Docs](https://nodejs.org/dist/latest-v7.x/docs/api/os.html)]
 
-- `os.tmpDir()` has been deprecated in favor of [`os.tmpdir()`](https://nodejs.org/dist/latest-v7.x/docs/api/os.html#os_os_tmpdir), which was added as a replacement some 3 years ago.
+- `os.tmpDir()` has been deprecated in favor of [`os.tmpdir()`](https://nodejs.org/dist/latest-v7.x/docs/api/os.html#os_os_tmpdir), which was added as a replacement 3 years ago.
   - Refs: [[`5e5ec2cd1e`](https://github.com/nodejs/node/commit/5e5ec2cd1e)], [#6739](https://github.com/nodejs/node/pull/6739)
 
 
