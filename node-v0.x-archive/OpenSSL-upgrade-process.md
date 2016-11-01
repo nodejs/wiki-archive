@@ -43,6 +43,7 @@ The former solution requires more work if changes between two releases are small
 3. Apply the floating patches listed in the ["Floating patches" section](#floating-patches) by using `git cherry-pick`.
 4. Run `make` in `deps/openssl/asm`.
 5. Test the upgrade by following the instructions in [the "Testing an OpenSSL upgrade" section](#testing-an-openssl-upgrade).
+6. Update version-specific links in the API docs. See [#9338](https://github.com/nodejs/node/pull/9338) for an example.
 
 ## Testing an OpenSSL upgrade
 
