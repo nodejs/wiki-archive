@@ -32,7 +32,7 @@ Example: `Object#toString()` is equivalent to `Object.prototype.toString()`.
 - Constructing Buffers via `Buffer()` without using `new` is now deprecated. 
   - More info is avaliable on the [new Buffer construction APIs](https://nodejs.org/dist/latest-v7.x/docs/api/buffer.html#buffer_buffer_from_buffer_alloc_and_buffer_allocunsafe).
   - Refs: [[`f2fe5583c4`](https://github.com/nodejs/node/commit/f2fe5583c4)], [#8169](https://github.com/nodejs/node/pull/8169)
-- `Buffer#toLocaleString` is now an alias to `Buffer#toString()`.
+- `Buffer#toLocaleString()` is now an alias to `Buffer#toString()`.
   - Refs: [[`9cee8b1b62`](https://github.com/nodejs/node/commit/9cee8b1b62)], [#8148](https://github.com/nodejs/node/pull/8148)
 - [`Buffer.allocUnsafe()`](https://nodejs.org/dist/latest-v7.x/docs/api/buffer.html#buffer_class_method_buffer_allocunsafe_size) now throws on negative input.
   - Refs: [[`8f90dcc1b8`](https://github.com/nodejs/node/commit/8f90dcc1b8)], [#7079](https://github.com/nodejs/node/pull/7079)
