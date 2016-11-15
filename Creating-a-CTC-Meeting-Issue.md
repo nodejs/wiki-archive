@@ -27,5 +27,5 @@
 * Copy agenda into Google Doc
 * Copy invited to present in Google Doc
 * Set up StandUp in Google Doc
-* Update minutes and issue under Links at top of Google Doc
+* Update issue number and link under Links at top of Google Doc
 
