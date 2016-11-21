@@ -23,6 +23,7 @@
 * Update meeting time in `~/.make-node-meeting/ctc.sh`
 * `make-node-meeting ctc`
 * Copy and paste in new issue
+* Check (and fix if necessary) "local time" links
 * Label `ctc-meeting`
 * Copy agenda into Google Doc
 * Copy invited to present in Google Doc
