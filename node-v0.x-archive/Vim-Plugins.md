@@ -85,3 +85,4 @@ Show off your vim skills by including a link to your pimped out `~/.vim`
 * [wavded](https://github.com/wavded/dotfiles/tree/master/vim)
 * [aureooms] (https://github.com/aureooms/dotfiles/tree/master/.vim)
 * [aXen] (https://github.com/aXen/vim)
+* [posquit0] (https://github.com/posquit0/vimrc)
