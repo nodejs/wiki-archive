@@ -29,4 +29,4 @@
 * Copy invited to present in Google Doc
 * Set up StandUp in Google Doc
 * Update issue number and link under Links at top of Google Doc
-
+* Add a comment to the issue listing all `ctc-review` issues (use GitHub search for `label:ctc-review`
