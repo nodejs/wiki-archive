@@ -57,32 +57,32 @@ Of course, if you don't use [Pathogen](http://www.vim.org/scripts/script.php?scr
 
 ## Colorschemes
 
-* [ColorSamplePack] (http://www.vim.org/scripts/script.php?script_id=625)
+* [ColorSamplePack](http://www.vim.org/scripts/script.php?script_id=625)
 * [Solarized](https://github.com/altercation/vim-colors-solarized)
-* [Mustang] (https://github.com/marcus/vim-mustang)
+* [Mustang](https://github.com/marcus/vim-mustang)
 * [xoria256](http://www.vim.org/scripts/script.php?script_id=2140) finely tuned soft gamma colorscheme
 * [Mango](https://github.com/goatslacker/mango.vim) sexy colorscheme tailored to JavaScript
 
 ## Debugging
 
-* [vimdebug] (https://github.com/sidorares/node-vim-debugger) line-by line debugging in vim.
+* [vimdebug](https://github.com/sidorares/node-vim-debugger) line-by line debugging in vim.
 
 ## Miscellaneous
 
 These plugins are not specific to node.js development but are widely used in the community
 
 * [Zencoding](http://www.vim.org/scripts/script.php?script_id=2981) Generate html structures from CSS-like syntax
-* [fugitive] (https://github.com/tpope/vim-fugitive) - Git commands in your VIM
-* [EasyMotion] (https://github.com/Lokaltog/vim-easymotion) - Move faster in your text
+* [fugitive](https://github.com/tpope/vim-fugitive) - Git commands in your VIM
+* [EasyMotion](https://github.com/Lokaltog/vim-easymotion) - Move faster in your text
 
 ## User config
 
 Show off your vim skills by including a link to your pimped out `~/.vim`
 
 * [Floby](https://github.com/Floby/vim-config)
-* [alessioalex] (https://github.com/alessioalex/dotfiles)
+* [alessioalex](https://github.com/alessioalex/dotfiles)
 * [smith](https://github.com/smith/vim-config)
 * [wavded](https://github.com/wavded/dotfiles/tree/master/vim)
-* [aureooms] (https://github.com/aureooms/dotfiles/tree/master/.vim)
-* [aXen] (https://github.com/aXen/vim)
-* [posquit0] (https://github.com/posquit0/vimrc)
+* [aureooms](https://github.com/aureooms/dotfiles/tree/master/.vim)
+* [aXen](https://github.com/aXen/vim)
+* [posquit0](https://github.com/posquit0/vimrc)
