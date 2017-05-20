@@ -16,7 +16,7 @@
   * Check Share it with same people box
   * Fix the title of the doc
 * Fix the date in the new doc
-* Remove Present and Standup
+* Remove Present
 * Move Agenda to Previous Meeting
 * Delete Minutes and Q/A
 * Update Upcoming Meetings (at least minimally)
@@ -27,6 +27,5 @@
 * Label `ctc-meeting`
 * Copy agenda into Google Doc
 * Copy invited to present in Google Doc
-* Set up StandUp in Google Doc
 * Update issue number and link under Links at top of Google Doc
 * Add a comment to the issue listing all `ctc-review` issues (use GitHub search for `label:ctc-review`
