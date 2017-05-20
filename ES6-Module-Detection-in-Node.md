@@ -78,7 +78,7 @@ Note
 
 Details: This option will require users to add `"use module";` or something similar at the top of every file.
 
-Prose:
+Pros:
 
 - Explicit
 
