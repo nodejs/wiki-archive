@@ -1,4 +1,6 @@
-1. `winston@v2.3.1`: there is one test that is timing sensitive
+1. #### `winston@v2.3.1`
+   __new platforms:__ [`rhel72-s390x`](https://ci.nodejs.org/view/Node.js-citgm/job/citgm-smoker/808/nodes=rhel72-s390x/testReport/junit/(root)/citgm/winston_v2_3_1/)  
+   there is one test that is timing sensitive  
 ```
 An instance of winston.Logger with no transports the add() method with a supported transport the startTimer() method when not passed a callback
      ✗ should respond with the appropriate message 
@@ -23,7 +25,9 @@ An instance of winston.Logger with no transports the add() method with a support
           }
         }
 ```
-2. `serialport@v4.0.7` at least two tests can timeout:  
+2. #### `serialport@v4.0.7`
+   __new platforms:__ [`ubuntu1404-64`](https://ci.nodejs.org/view/Node.js-citgm/job/citgm-smoker/808/nodes=ubuntu1404-64/testReport/junit/(root)/citgm/serialport_v4_0_7/)  
+   at least two tests can timeout:  
 ```
    1) SerialPortBinding #list returns an array:
       Error: timeout of 2000ms exceeded. Ensure the done() callback is being called in this test.
