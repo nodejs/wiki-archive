@@ -1,12 +1,12 @@
 ## 2017-05-17
 * since we restored reasonable CITGM on `master` with [#13092](https://github.com/nodejs/node/pull/13092), this morning we had:  
-  [45 failures , 79 skipped](https://ci.nodejs.org/view/Node.js-citgm/job/citgm-smoker/801/testReport/)  
+  [45 failures , 79 skipped / 936](https://ci.nodejs.org/view/Node.js-citgm/job/citgm-smoker/801/testReport/)  
 * After [`fs: Revert throw on invalid callbacks`](https://github.com/nodejs/node/pull/12976) landed, we bumped up to:  
-  [37 failures , 66 skipped](https://ci.nodejs.org/view/Node.js-citgm/job/citgm-smoker/805/testReport/)  
+  [37 failures , 66 skipped / 936](https://ci.nodejs.org/view/Node.js-citgm/job/citgm-smoker/805/testReport/)  
   <sub>this is arun I did on a PR, but IMHO it's representative of the status quo</sub> 
 
 ## 2017-05-18
-* [30 failures , 72 skipped](https://ci.nodejs.org/view/Node.js-citgm/job/citgm-smoker/806/testReport/)
+* [30 failures , 72 skipped / 936](https://ci.nodejs.org/view/Node.js-citgm/job/citgm-smoker/806/testReport/)
 
 
 ---
