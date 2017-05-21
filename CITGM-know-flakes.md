@@ -1,4 +1,4 @@
-1. winston: there is one test that is timing sensitive
+1. `winston`: there is one test that is timing sensitive
 ```
 An instance of winston.Logger with no transports the add() method with a supported transport the startTimer() method when not passed a callback
      ✗ should respond with the appropriate message 
