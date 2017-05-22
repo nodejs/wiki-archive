@@ -26,13 +26,13 @@
   * [ 7/12] yeoman-generator-v1.1.1
   * [ 4/12] ffi-v2.2.0
   ### New fails:
-  * spdy-transport-v2.0.18 X 10
+  * spdy-transport-v2.0.18 @ [!win-vs2015, !aix]
   * split2-v2.1.1 @ [aix]
   * node-report-v2.1.2 @ [aix]
   * graceful-fs-v4.1.11 @ [win10]
-  * node-sass-v4.5.3 @ [ubuntu1204-64]
-  * watchify-v3.9.0 @ [osx1010]
-  * node-report-v2.1.2 @ [aix]
+  * node-sass-v4.5.3 @ [ubuntu1204-64] - `sass-spec spec output_styles compact scss huge`: timeout
+  * watchify-v3.9.0 @ [osx1010] - `62-67`: timeout
+  * node-report-v2.1.2 @ [aix] - `test-fatal-error`: timeout
   * ftp-v0.3.10 @ [ubuntu1204-64]
   * ffi-v2.2.0 [fedora22]
 ---
