@@ -34,6 +34,7 @@ An instance of winston.Logger with no transports the add() method with a support
    
    2) SerialPort light integration .list:
       Error: timeout of 2000ms exceeded. Ensure the done() callback is being called in this test.
+```
 ```js
     it('returns an array', function(done) {
       SerialPortBinding.list(function(err, data) {
