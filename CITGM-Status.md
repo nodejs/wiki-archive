@@ -5,23 +5,23 @@
   First good run since we restored reasonable CITGM on `master` with [#13092](https://github.com/nodejs/node/pull/13092)
 
 ## 2017-05-20 #2 - 8250bfd1e5188d5dada58aedf7a991e959d5eaa9
-  [37 failures , 66 skipped / 936](https://ci.nodejs.org/view/Node.js-citgm/job/citgm-smoker/805/testReport/)
-  After [`fs: Revert throw on invalid callbacks`](https://github.com/nodejs/node/pull/12976) landed
-  <sub>this is a run I did on a PR, but IMHO it's representative of the status quo</sub>  
+  [37 failures , 66 skipped / 936](https://ci.nodejs.org/view/Node.js-citgm/job/citgm-smoker/805/testReport/)  
+  After [`fs: Revert throw on invalid callbacks`](https://github.com/nodejs/node/pull/12976) landed  
+  <sub>this is a run I did on a PR, but IMHO it's representative of the status quo</sub>
   #### hot spot fails:
   * [10/12] spdy-v3.4.4
   * [7/10] yeoman-generator-v1.1.1  
 
 
 ## 2017-05-21 - bfade5aacd639fbac920647bf1ca4a6fb6df9e0d
-* [30 failures , 72 skipped / 936](https://ci.nodejs.org/view/Node.js-citgm/job/citgm-smoker/806/testReport/)  
+  [30 failures , 72 skipped / 936](https://ci.nodejs.org/view/Node.js-citgm/job/citgm-smoker/806/testReport/)  
   #### hot spot fails:
   * [10/12] spdy-v3.4.4
   * [7/10] yeoman-generator-v1.1.1
 
 
 ## 2017-05-22 - 171a43a98685d5cca6710d2d6bf4d20008de3426 
-* [46 failures , 71 skipped / 939](https://ci.nodejs.org/job/citgm-smoker/811/testReport/)
+  [46 failures , 71 skipped / 939](https://ci.nodejs.org/job/citgm-smoker/811/testReport/)
   #### hot spot fails:
   * [10/12] spdy-v3.4.4
   * [10/12] spdy-transport-v2.0.18
