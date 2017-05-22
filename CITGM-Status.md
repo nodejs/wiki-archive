@@ -26,7 +26,7 @@
   * [ 7/12] yeoman-generator-v1.1.1
   * [ 4/12] ffi-v2.2.0
   ### New fails:
-  * spdy-transport-v2.0.18 @ [!win-vs2015, !aix]
+  * spdy-transport-v2.0.18 @ [*] (not tested on [win-vs2015, aix])
   * split2-v2.1.1 @ [aix]
   * node-report-v2.1.2 @ [aix]
   * graceful-fs-v4.1.11 @ [win10]
