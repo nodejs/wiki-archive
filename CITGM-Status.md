@@ -10,7 +10,7 @@
   * sodium-native-v1.10.0 [aix61-ppc64, win-vs2015, ppcbe-ubuntu1404]
   * zeromq-v4.2.1 [aix61-ppc64, ppcle-ubuntu1404, ppcbe-ubuntu1404]
   #### Notes:
-  * This is a run I did for a PR but it got better coverage than the one before
+  * This is a run I did for a PR (rebased on the quoted commit) but it got better coverage than the one before
   * Added 3 new modules [`zeromq`, `node-gyp`, `sodium-native`] but `rhel72-s390x` did not finish
   * spdy-v3.4.7 - new version passes on all  
   * spdy-transport-v2.0.19 - new version passes on all  
