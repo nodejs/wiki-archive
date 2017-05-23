@@ -1,14 +1,14 @@
 [CITGM known flakes](https://github.com/nodejs/node/wiki/CITGM-know-flakes)
 
 #### hot spot fails:
-  * [ 7/12] yeoman-generator-v1.1.1
-  * [ 4/12] ffi-v2.2.0
+  * [ 7/11] yeoman-generator-v1.1.1
+  * [ 4/11] ffi-v2.2.0
 
 # 2017-05-23 [9836cf5](https://github.com/nodejs/node/commit/9836cf571708a82396218957cacb3ed1ed468d05)
   [33 failures , 74 skipped / 891](https://ci.nodejs.org/view/Node.js-citgm/job/citgm-smoker/823/testReport/)  
   #### new fails:
-  * sodium-native-v1.10.0 [aix61-ppc64, win-vs2015, ppcbe-ubuntu1404]
-  * zeromq-v4.2.1 [aix61-ppc64, ppcle-ubuntu1404, ppcbe-ubuntu1404]
+  * [3 / 11] sodium-native-v1.10.0 [aix61-ppc64, win-vs2015, ppcbe-ubuntu1404]
+  * [3 / 11] zeromq-v4.2.1 [aix61-ppc64, ppcle-ubuntu1404, ppcbe-ubuntu1404]
   #### Notes:
   * This is a run I did for a PR (rebased on the quoted commit) but it got better coverage than the one before
   * Added 3 new modules [`zeromq`, `node-gyp`, `sodium-native`] but `rhel72-s390x` did not finish
