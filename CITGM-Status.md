@@ -6,7 +6,10 @@
 
 ---
 # 2017-05-24 [ccd3ead](https://github.com/nodejs/node/commit/ccd3eadbd7dae3a23d43bf490fa9d3019324370e)
-  [, /](https://ci.nodejs.org/view/Node.js-citgm/job/citgm-smoker/826/testReport/)
+  [61 failures , 78 skipped / 971](https://ci.nodejs.org/view/Node.js-citgm/job/citgm-smoker/826/testReport/)
+  ### Notes:
+  * `rhel72-s390x` restored
+  * No new fails
 
 # 2017-05-23 [9836cf5](https://github.com/nodejs/node/commit/9836cf571708a82396218957cacb3ed1ed468d05)
   [33 failures , 74 skipped / 891](https://ci.nodejs.org/view/Node.js-citgm/job/citgm-smoker/823/testReport/)  
