@@ -11,6 +11,11 @@
   * `rhel72-s390x` restored
   * No new fails
 
+# 2017-05-24 `v8.RC.1` [3af9fa0](https://github.com/nodejs/node/commit/3af9fa0490f45977898212816dad5656d28f109f)
+  [, / 971](https://ci.nodejs.org/view/Node.js-citgm/job/citgm-smoker/827/testReport/)
+  ### Notes:
+  * `v8` RC1 baseline
+
 # 2017-05-23 [9836cf5](https://github.com/nodejs/node/commit/9836cf571708a82396218957cacb3ed1ed468d05)
   [33 failures , 74 skipped / 891](https://ci.nodejs.org/view/Node.js-citgm/job/citgm-smoker/823/testReport/)  
   #### new fails:
