@@ -3,8 +3,18 @@
 #### hot spot fails:
   * [ 7/11] yeoman-generator-v1.1.1
   * [ 4/11] ffi-v2.2.0
+  * [ 4/11] zeromq_v4_2_1
 
 ---
+# 2017-05-24 [235cbbe](https://github.com/nodejs/node/commit/235cbbe4d8087ebd62dd9271a4d585458ffed45a)
+  [62 failures , 64 skipped / 971](https://ci.nodejs.org/view/Node.js-citgm/job/citgm-smoker/828/testReport/)
+  #### Notes:
+  * New fails (`zeromq` and `node-gyp`) because of node-gyp rejecting `pre` label:  
+  `not ok 178 Error: "pre" versions of node cannot be installed, use the --nodedir flag instead`
+  #### new fails (see note):
+  * zeromq_v4_2_1 [ [`aix61-ppc64`](https://ci.nodejs.org/view/Node.js-citgm/job/citgm-smoker/828/nodes=aix61-ppc64/testReport/(root)/citgm/zeromq_v4_2_1/), [`ppcbe-ubuntu1404`](https://ci.nodejs.org/view/Node.js-citgm/job/citgm-smoker/828/nodes=ppcle-ubuntu1404/testReport/(root)/citgm/zeromq_v4_2_1/), [`debian8-64`](https://ci.nodejs.org/view/Node.js-citgm/job/citgm-smoker/828/nodes=debian8-64/testReport/(root)/citgm/zeromq_v4_2_1/), [`ppcbe-ubuntu1404`](https://ci.nodejs.org/view/Node.js-citgm/job/citgm-smoker/828/nodes=ppcbe-ubuntu1404/testReport/(root)/citgm/zeromq_v4_2_1/) ]
+  * node_gyp_v3_6_1 [ [`ppcle-ubuntu1404`](https://ci.nodejs.org/view/Node.js-citgm/job/citgm-smoker/828/nodes=ppcle-ubuntu1404/testReport/(root)/citgm/node_gyp_v3_6_1/) ]
+
 # 2017-05-24 [ccd3ead](https://github.com/nodejs/node/commit/ccd3eadbd7dae3a23d43bf490fa9d3019324370e)
   [61 failures , 78 skipped / 971](https://ci.nodejs.org/view/Node.js-citgm/job/citgm-smoker/826/testReport/)
   ### Notes:
