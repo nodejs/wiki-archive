@@ -6,6 +6,11 @@
   * [ 4/11] zeromq_v4_2_1
 
 ---
+# 2017-05-30 [8be9e4739ae6f20c816f6dbdaf9067160113563d](https://github.com/nodejs/node/commit/235cbbe4d8087ebd62dd9271a4d585458ffed45a)
+  [49 failures , 64 skipped / 888](https://ci.nodejs.org/view/Node.js-citgm/job/citgm-smoker/847/testReport/)
+  #### Notes:
+  * this is a PR that landed in `master` and is the `v8.0.0`
+
 # 2017-05-24 [235cbbe](https://github.com/nodejs/node/commit/235cbbe4d8087ebd62dd9271a4d585458ffed45a)
   [62 failures , 64 skipped / 971](https://ci.nodejs.org/view/Node.js-citgm/job/citgm-smoker/828/testReport/)
   #### Notes:
