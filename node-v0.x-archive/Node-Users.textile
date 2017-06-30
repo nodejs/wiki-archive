@@ -442,8 +442,8 @@ h2. UTC-5 (-4)
 ** "Website":http://jzacsh.com/, "Github":http://github.com/jzacsh, "Twitter":http://twitter.com/jzacsh
 * Phillip Neumann (killfill), Santiago, Chile
 ** "Github":http://github.com/killfill, "Twitter":http://twitter.com/killfil
-* Rodrigo González (roro89), Antofagasta, Chile
-** "Github":http://github.com/roro89, "Github/sapienlab":http://github.com/sapienlab, "Website":http://sapienlab.com
+* Rodrigo González (sapienman), Antofagasta, Chile
+** "Github":http://github.com/sapienman, "Github/sapienlab":http://github.com/sapienlab, "Website":http://rodrigo.systems
 * dale tan (dtan), Burlington, VT, US
 ** "Website":http://www.whatthedale.com/, "Github":http://github.com/dtan, "Twitter":http://twitter.com/whatthedale
 * Zachary Scott (zzak), Vermont
