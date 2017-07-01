@@ -23,6 +23,7 @@ Name | Node Version | Web Sockets | IP/Hostname | IRC | Repository | Free Plan |
 [Nodejitsu](http://nodejitsu.com) | 0.4.12, 0.6.x, 0.8.x, 0.10.x | Yes | Yes | #nodejitsu | [nodejitsu](http://github.com/nodejitsu) | 30 days sandbox | Yes | now with Joyent
 [JSApp.US](http://jsapp.us) | | | No | | [node-host](https://github.com/matthewfl/node-host) | | | Open signup, web editing/npm command
 [NAE(CN)](http://cnodejs.net) | 0.6.2 | Yes | Just allow *.cnodejs.net or custom domain | | | Yes - You can create 10 apps. And you can request a MongoDB for every app. | | Open (with invite)
+[opeNode](https://www.openode.io/) | all versions | Yes | sub-domain |  | https://github.com/martinlevesque/openode-cli |  |  | 
 [OpenShift](https://openshift.redhat.com/) | 0.6.20 [or any other](https://openshift.redhat.com/community/blogs/any-version-of-nodejs-you-want-in-the-cloud-openshift-does-it-paas-style)| Yes (preview) | Yes | #openshift | [openshift](https://github.com/openshift) | Yes | | Open
 [Pogoapp](http://pogoapp.com) | 0.6.x, 0.8.x, 0.10.x | Yes | Yes | #pogoapp | [pogoapp](http://github.com/pogoapp) | Yes - Trial | Paid Beta | Private Beta
 [RoseHosting](http://www.rosehosting.com) | 0.6+ | Yes | Yes | | | | Yes - Fully Managed VPS Hosting Plans - 24×7 EPIC Support ||
