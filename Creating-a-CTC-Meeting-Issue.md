@@ -7,7 +7,7 @@
 
 ## Note
 
-* As of this writing (July 2016), the current version of `make-node-meeting` has a bug such that you will need to run `<Path to global node_modules>/make-node-meeting/node_modules/.bin/node-meeting-agenda ctc` to generate a GitHub token once before running `make-node-meeting`. @rvagg will probably get around to fixing it, but not if you beat him to it and submit a pull request to https://github.com/rvagg/make-node-meeting.
+* As of this writing (July 2016), the current version of `make-node-meeting` has a bug such that you will need to run `<Path to global node_modules>/make-node-meeting/node_modules/.bin/node-meeting-agenda ctc-agenda` to generate a GitHub token once before running `make-node-meeting`. @rvagg will probably get around to fixing it, but not if you beat him to it and submit a pull request to https://github.com/rvagg/make-node-meeting.
 
 # Every Week
 
