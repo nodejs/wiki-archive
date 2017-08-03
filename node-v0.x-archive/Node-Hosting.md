@@ -6,6 +6,7 @@ Managed providers provide a simplified "Node Appliance" solution. Node and NPM w
 
 Name | Node Version | Web Sockets | IP/Hostname | IRC | Repository | Free Plan | Paid Plans | Notes |
 :-----------|:------------|:-------------|:-------------|:-------------|:-------------|:-------------|:-------------|:-------------------------------------|
+[App Engine](https://cloud.google.com/appengine/) | 4.x, 6.x, 8.x, *.* | No | Yes | | [google-cloud-node](https://github.com/GoogleCloudPlatform/google-cloud-node) | Free Trial | Yes | General Availability
 [appfog](http://appfog.com/) | 0.4.12, 0.6.17, 0.8.14, 0.10.22 | No | Yes, custom domains in paid plan only | | [appfog](https://github.com/appfog) | Free Signups suspended | Yes – monthly subscriptions and enterprise support available | General Availability
 [Azure](http://azure.microsoft.com/en-us/develop/nodejs/) | 0.6+ |Yes | Yes || [Azure-Sdk-for-Node](https://github.com/Azure/azure-sdk-for-node) |3 month free trial 10 free web sites forever | Yes ||
 [Baidu App Engine](http://developer.baidu.com/cloud/rt) | 0.10.21 | Yes (with Port Service enabled) | Yes | | 
