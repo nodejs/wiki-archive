@@ -1,3 +1,7 @@
+Most of the content in this page has been transferred to our official documentation, which is continuously updated for the latest Node.js version https://nodejs.org/api/intl.html. The content below is kept for historical interests only.
+
+----
+
 # What is `Intl`?
 
 [EcmaScript 402](http://www.ecma-international.org/ecma-402/1.0/) describes
