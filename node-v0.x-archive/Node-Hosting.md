@@ -18,7 +18,7 @@ Name | Node Version | Web Sockets | IP/Hostname | IRC | Repository | Free Plan |
 [EvenNode](http://www.evennode.com) | 0.8.x, 0.9.x, 0.10.x, 0.11.x | Yes | Yes |  |  |  | Starting at $8/month | Runs on AWS 
 [exoscale apps](https://www.exoscale.ch/open-cloud/apps/) | 0.8.x, 0.10.x | Yes | Yes | | [exoscale](https://github.com/exoscale) | Yes, free credit on sign-up | Yes, pre-paid credit, post-paid option | General Availability 
 [Heroku](http://heroku.com) | [0.4.x, 0.6.x, 0.8.x, 0.10.x](http://heroku-buildpack-nodejs.s3.amazonaws.com/manifest.nodejs) | Yes | Yes | #heroku | [heroku](http://github.com/heroku) | Yes - 1 Dyno (512 MB Ram) | $0.05/hour/dyno  | 
-[IBM Bluemix](http://bluemix.net) | [v0.10.21, v0.10.25, v0.10.26 and v0.10.28](https://www.ng.bluemix.net/docs/#starters/nodejs/index.html#deploynodejsapp) | Yes | Yes | | [IBM-Bluemix](https://github.com/IBM-Bluemix) | Yes | Yes | Based on Cloud Foundry |
+[IBM Bluemix](http://bluemix.net) | [v4.x, v6.x](https://www.ng.bluemix.net/docs/#starters/nodejs/index.html#deploynodejsapp) | Yes | Yes | | [IBM-Bluemix](https://github.com/IBM-Bluemix) | Yes | Yes | Based on Cloud Foundry |
 [iClickAndHost](https://iclickandhost.com/website-hosting/) | v0.10.18 | Yes | Yes | | | No, but 30-day money back guarantee | Yes | SSH, free VPN, RemoteSQL, Daily Backups, MySQL/PostgreSQL |
 [Modulus](http://modulus.io) | 0.2.x - 0.11.x | Yes | Yes | #modulus | [OnModulus](https://github.com/onmodulus) | $15 free credits | $0.02/hour per instance | Live on AWS
 [Nodejitsu](http://nodejitsu.com) | 0.4.12, 0.6.x, 0.8.x, 0.10.x | Yes | Yes | #nodejitsu | [nodejitsu](http://github.com/nodejitsu) | 30 days sandbox | Yes | now with Joyent
