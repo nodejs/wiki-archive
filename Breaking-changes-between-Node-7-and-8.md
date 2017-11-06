@@ -1,5 +1,3 @@
-# Breaking changes between Node 7 and 8
-
 **Authors note (Fishrock123): This is highly unfinished copy from shortly after Node 8 became _Current_.**
 
 
