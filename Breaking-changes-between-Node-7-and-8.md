@@ -33,8 +33,8 @@ Example: `Object#toString()` is equivalent to `Object.prototype.toString()`.
 * The `deepEqual` and `deepStrictEqual` functions now check equality on the contents of `Set`s and `Map`s.
   - Previously, these functions did not deeply compare `Set`s or `Map`s and would return true when comparing any two regardless of their contents.
   - Refs: [[`6481c93aef`](https://github.com/nodejs/node/commit/6481c93aef)], [#12142](https://github.com/nodejs/node/pull/12142)
-!!!!!!!!! * [[`efec14a7d1`](https://github.com/nodejs/node/commit/efec14a7d1)] - **(SEMVER-MAJOR)** **assert**: enforce type check in deepStrictEqual (Joyee Cheung) [#10282](https://github.com/nodejs/node/pull/10282)
-!!!!!!!!! * [[`562cf5a81c`](https://github.com/nodejs/node/commit/562cf5a81c)] - **(SEMVER-MAJOR)** **assert**: fix premature deep strict comparison (Joyee Cheung) [#11128](https://github.com/nodejs/node/pull/11128)
+* !!!!!!!!!  [[`efec14a7d1`](https://github.com/nodejs/node/commit/efec14a7d1)] - **(SEMVER-MAJOR)** **assert**: enforce type check in deepStrictEqual (Joyee Cheung) [#10282](https://github.com/nodejs/node/pull/10282)
+* !!!!!!!!!  [[`562cf5a81c`](https://github.com/nodejs/node/commit/562cf5a81c)] - **(SEMVER-MAJOR)** **assert**: fix premature deep strict comparison (Joyee Cheung) [#11128](https://github.com/nodejs/node/pull/11128)
 * `assert.throws(fn)` has a slightly updated error message when the provided function does not throw.
   - The error message no longer has two periods.
   - Refs: [[`0af41834f1`](https://github.com/nodejs/node/commit/0af41834f1)], [#11254](https://github.com/nodejs/node/pull/11254)
@@ -44,7 +44,7 @@ Example: `Object#toString()` is equivalent to `Object.prototype.toString()`.
 
 [[Docs](https://nodejs.org/dist/latest-v8.x/docs/api/buffer.html)]
 
-!!!!!! * [[`d2d32ea5a2`](https://github.com/nodejs/node/commit/d2d32ea5a2)] - **(SEMVER-MAJOR)** **buffer**: add pending deprecation warning (James M Snell) [#11968](https://github.com/nodejs/node/pull/11968)
+* !!!!!! [[`d2d32ea5a2`](https://github.com/nodejs/node/commit/d2d32ea5a2)] - **(SEMVER-MAJOR)** **buffer**: add pending deprecation warning (James M Snell) [#11968](https://github.com/nodejs/node/pull/11968)
 * The memory allocated by `new Buffer(Number)` is now zero-filled by default.
   - Refs: [[`7eb1b4658e`](https://github.com/nodejs/node/commit/7eb1b4658e)], [#12141](https://github.com/nodejs/node/pull/12141)
 * `Buffer#write()`, `Buffer#fill()` and `Buffer.from()` now ignore invalid `hex` strings.
@@ -67,12 +67,12 @@ Example: `Object#toString()` is equivalent to `Object.prototype.toString()`.
 
 [[Docs](https://nodejs.org/dist/latest-v8.x/docs/api/child_process.html)]
 
-!!!!!!!! * [[`97a77288ce`](https://github.com/nodejs/node/commit/97a77288ce)] - **(SEMVER-MAJOR)** **child_process**: improve ChildProcess validation (cjihrig) [#12348](https://github.com/nodejs/node/pull/12348)
-!!!!!!!! * [[`d75fdd96aa`](https://github.com/nodejs/node/commit/d75fdd96aa)] - **(SEMVER-MAJOR)** **child_process**: improve killSignal validations (Sakthipriyan Vairamani (thefourtheye)) [#10423](https://github.com/nodejs/node/pull/10423)
+* !!!!!!!! [[`97a77288ce`](https://github.com/nodejs/node/commit/97a77288ce)] - **(SEMVER-MAJOR)** **child_process**: improve ChildProcess validation (cjihrig) [#12348](https://github.com/nodejs/node/pull/12348)
+* !!!!!!!! [[`d75fdd96aa`](https://github.com/nodejs/node/commit/d75fdd96aa)] - **(SEMVER-MAJOR)** **child_process**: improve killSignal validations (Sakthipriyan Vairamani (thefourtheye)) [#10423](https://github.com/nodejs/node/pull/10423)
 * The `stdio` option for `child_process.fork()` now has a consistent error message with `child_process.spawn()`.
   - Now: `TypeError: Incorrect value of stdio option: <String>`.
   - Refs: [[`4cafa60c99`](https://github.com/nodejs/node/commit/4cafa60c99)] - **(SEMVER-MAJOR)** **child_process**: align fork/spawn stdio error msg (Sam Roberts) [#11044](https://github.com/nodejs/node/pull/11044)
-!!!!! * [[`3268863ebc`](https://github.com/nodejs/node/commit/3268863ebc)] - **(SEMVER-MAJOR)** **child_process**: add string shortcut for fork stdio (Javis Sullivan) [#10866](https://github.com/nodejs/node/pull/10866)
+* !!!!! [[`3268863ebc`](https://github.com/nodejs/node/commit/3268863ebc)] - **(SEMVER-MAJOR)** **child_process**: add string shortcut for fork stdio (Javis Sullivan) [#10866](https://github.com/nodejs/node/pull/10866)
 * The `maxBuffer` option for `child_process` functions can now be set to any positive number, including `Infinity`.
   - Refs: [[`8f3ff98f0e`](https://github.com/nodejs/node/commit/8f3ff98f0e)], [#10769](https://github.com/nodejs/node/pull/10769)
   * All `child_process` methods that would accept being passed a `Buffer` may now also be passed `Uint8Array` instead.
@@ -186,7 +186,7 @@ Example: `Object#toString()` is equivalent to `Object.prototype.toString()`.
   - `undefined` and `null` still default to `'localhost'`.
   - Now, other non-string values cause: `TypeError: "options.hostname" must either be a string, undefined or null`.
   - Refs: [[`85a4e25775`](https://github.com/nodejs/node/commit/85a4e25775)], [#12494](https://github.com/nodejs/node/pull/12494)
-!!!! * [[`90403dd1d0`](https://github.com/nodejs/node/commit/90403dd1d0)], [#11567](https://github.com/nodejs/node/pull/11567)
+* !!!!  [[`90403dd1d0`](https://github.com/nodejs/node/commit/90403dd1d0)], [#11567](https://github.com/nodejs/node/pull/11567)
 * `http.IncomingMessage#headers.cookie` now concatenates multiple cookie headers with semicolons (`;`) rather than commas (`,`).
   - Previously: `'foo=bar, baz=boo'`.
   - Now: `'foo=bar; baz=boo'`.
