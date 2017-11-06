@@ -78,7 +78,7 @@ Example: `Object#toString()` is equivalent to `Object.prototype.toString()`.
   * All `child_process` methods that would accept being passed a `Buffer` may now also be passed `Uint8Array` instead.
     - Error messages have been updated to reflect this change in behavior.
     - Refs: [[`627ecee9ed`](https://github.com/nodejs/node/commit/627ecee9ed)], [#10653](https://github.com/nodejs/node/pull/10653)
-!!!!! * [[`fc7b0dda85`](https://github.com/nodejs/node/commit/fc7b0dda85)] - **(SEMVER-MAJOR)** **child_process**: improve input validation (cjihrig) [#8312](https://github.com/nodejs/node/pull/8312)
+* !!!!!  [[`fc7b0dda85`](https://github.com/nodejs/node/commit/fc7b0dda85)] - **(SEMVER-MAJOR)** **child_process**: improve input validation (cjihrig) [#8312](https://github.com/nodejs/node/pull/8312)
 * Errors from `exec{File}Sync()` will no longer sometimes have extra newlines.
   - Refs: [[`49d1c366d8`](https://github.com/nodejs/node/commit/49d1c366d8)], [#9343](https://github.com/nodejs/node/pull/9343)
 
