@@ -1,3 +1,5 @@
+[Note: This guide is out of date. On 2017-11-14, I attempted to follow these instructions to setup a User Feedback meeting and it is no longer useful. Hangouts On Air has moved over to [YouTube Live](https://www.youtube.com/my_live_events). - [@dshaw](https://github.com/dshaw)]
+
 ## Hangouts On Air
 
 Google's **Hangouts On Air** are distinct from **Hangouts** in that they are streamed live via YouTube and made available there after the event.
