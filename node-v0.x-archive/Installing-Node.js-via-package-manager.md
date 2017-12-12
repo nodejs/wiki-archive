@@ -27,7 +27,7 @@ Node.js is available from the [NodeSource](https://nodesource.com) Debian and Ub
 Setup with Ubuntu:
 
 ```text
-curl --silent --location https://deb.nodesource.com/setup_0.12 | sudo bash -
+curl --silent --location https://deb.nodesource.com/node_6.x | sudo bash -
 ```
 
 Then install with Ubuntu:
@@ -40,7 +40,7 @@ Setup with Debian (as root):
 
 ```text
 apt-get install curl
-curl --silent --location https://deb.nodesource.com/setup_0.12 | bash -
+curl --silent --location https://deb.nodesource.com/node_6.x | bash -
 ```
 
 Then install with Debian (as root):
