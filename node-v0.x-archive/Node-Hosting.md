@@ -69,6 +69,7 @@ VPS providers, which often require you to set everything up yourself, including 
 * [Rackspace Cloud](http://www.rackspacecloud.com)
 * [rootbox.com](http://rootbox.com) - SSD Cloud Servers
 * [ServerGrove](http://servergrove.com) [also has MongoDB hosting]
+* [SpaceHost](http://spacehost.de)
 * [VPS.Net](https://www.vps.net/vps-signup)
 * [W2Servers](http://w2servers.com)
 * [Webbynode](http://www.webbynode.com) - [setup guide](http://blog.dtrejo.com/nodejs-for-server-newbs) - [deployment guide](http://guides.webbynode.com/articles/rapidapps/nodejs.html) - [screencast](http://vimeo.com/15406437)
