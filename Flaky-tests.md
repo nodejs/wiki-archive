@@ -9,8 +9,6 @@ Sometimes when you run CI, a test will fail and you (and other reviewers) are su
 
 Tests can be marked as flaky for specific platforms, or for all platforms. It’s recommended to start with one platform if the test only failed on one platform, and to move it to the section for all platforms when the test shows failures on two or more platforms.
 
-Since flaky test failures can block collaborators, a change that purely marks a test as flaky can be merged as soon as another collaborator has reviewed the change and given their approval (LGTM). Changes that mark tests as flaky should still be merged [using node-accept-pull-request](https://github.com/nodejs/node/wiki/Merging-pull-requests-with-Jenkins).
-
 **IMPORTANT:** once your commit that marks one or more tests as flaky is merged, please file a follow-up issue for investigating the flaky test and resolving the problem. One issue per flaky test should be filed, unless the tests and the failures are very similar to each other. The issue should be marked with the P-1 label, and assigned to the next milestone for the branch in which the test is marked as flaky. You should also mention @nodejs/collaborators in the issue. 
 
 Once the issue is resolved, a pull request should be submitted to remove the test from the list of flaky tests.
