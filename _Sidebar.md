@@ -1,5 +1,5 @@
 ## Node.js community wiki
-![Node.js logo](https://cloud.githubusercontent.com/assets/43438/13207731/d7c62f3e-d94c-11e5-8ff8-f32c74b13cc3.png)
+![Node.js logo](https://static.rfstat.com/renderforest/images/v1/logo_dark.svg)
 * [Website](https://nodejs.org/)
 * [About](https://nodejs.org/en/about/)
 * [Downloads](https://nodejs.org/en/download/)
