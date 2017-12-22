@@ -1,10 +1,1 @@
-## Node.js community wiki
-![Node.js logo](https://nodejs.org/static/images/logo-light.svg)
-* [Website](https://nodejs.org/)
-* [About](https://nodejs.org/en/about/)
-* [Downloads](https://nodejs.org/en/download/)
-* [Docs](https://nodejs.org/en/docs/)
-* [Foundation](https://nodejs.org/en/foundation/)
-* [Get Involved](https://nodejs.org/en/get-involved/)
-* [Security](https://nodejs.org/en/security/)
-* [News](https://nodejs.org/en/blog/)
+aa
