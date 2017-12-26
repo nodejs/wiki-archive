@@ -14,12 +14,6 @@ Node.js is a JavaScript runtime built on [Chrome's V8 JavaScript engine](https:/
 * [News](https://nodejs.org/en/blog/)
 * [FAQ](https://github.com/nodejs/node/wiki/Frequently-Asked-Questions)
 
-**Modules:**
-* [npm](https://www.npmjs.com/)
-* [node-modules.com](http://node-modules.com/)
-* [nipster](https://eirikb.github.io/nipster/)
-* [Inspirations](https://github.com/sindresorhus/awesome-nodejs/)
-
 ## API/Breaking Changes
 
 * [[From v0.2 to v0.3|Migrating-from-v0.2-to-v0.3]]
