@@ -11,6 +11,7 @@
 * [justjs](http://justjs.com) -- by Tom Boutell. A blog featuring a series of node.js tutorials, starting with the basics of installing Node and MongoDB on your own computer and building from there into creating full-fledged node apps, beginning with the justjs.com blog itself.
 * [NodeCloud](http://www.nodecloud.org/) -- by [Frederic Cambus](http://www.cambus.net), an ordered Node.js resource directory allowing to evaluate relative popularity of a project.
 * [CNode](https://cnodejs.org/) -- China Node.js community
+* [Node js tutorial](https://hackr.io/tutorials/learn-node-js)
 
 ## Articles
 
