@@ -375,7 +375,7 @@ h2. UTC-5 (-4)
 * Jason Feinstein (jasonwyatt), Raleigh, NC, US
 ** "GitHub":http://github.com/jasonwyatt, "Twitter":http://twitter.com/jasonwyatt, "Website":http://jwf.us
 * Jared Wright (jawerty), Cherry Hill, NJ, US
-** "GitHub":http://github.com/jawerty, "Twitter":http://twitter.com/jawerty, "Website":http://wrightdev.herokuapp.com
+** "GitHub":http://github.com/jawerty, "Twitter":http://twitter.com/jawerty
 * Brian Mitchell (binary42), New York, NY, US
 ** "GitHub":http://github.com/binary42
 * Jason Nelson (iamcarbon), New York, NY, US
